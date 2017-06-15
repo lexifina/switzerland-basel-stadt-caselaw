@@ -1,0 +1,327 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.335"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2022.39"
+docket_2: "AG.2022.335"
+decided: "2017-06-15"
+published: "2022-05-11"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73515&W10_KEY=3052840&nTrefferzeile=631&Template=search_result_document.html"
+cites_decisions: ["1B_253/2012", "6B_1075/2020", "6B_274/2019", "6B_856/2013", "BGE 138 IV 86", "BGE 143 IV 241", "SG.2017.85", "UT.2022.146", "VD.2020.48"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Nichtanhandnahme (BGer 6B_806/2022 vom 27. Juni 2022)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2022.39
+
+ENTSCHEID
+
+vom 11.
+Mai 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser und a.o. Gerichtsschreiber
+BLaw Cyrill Chevalley
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 9. März 2022
+
+betreffend Nichtanhandnahme
+
+Sachverhalt
+
+Mit Schreiben
+vom 3. Januar 2022 reichte A____ (Beschwerdeführer) Strafanzeige gegen diverse
+Personen aus der Justiz und der Psychiatrie ein. Die diesen Personen
+vorgeworfenen Straftraten stehen im Zusammenhang mit einem ab Dezember 2016 von
+der Staatsanwaltschaft Basel-Stadt gegen den Beschwerdeführer geführten
+Strafverfahren (VT.[]). In diesem Verfahren hatte das Strafgericht Basel-Stadt
+mit in Rechtskraft erwachsenem Urteil vom 15. Juni 2017 (SG.[]) entschieden,
+der Beschwerdeführer habe die Tatbestände der mehrfachen Verleumdung, der
+mehrfachen Beschimpfung, des mehrfachen Missbrauchs einer Fernmeldeanlage, der
+mehrfachen Drohung und der versuchten Nötigung erfüllt, sei aber wegen
+Schuldunfähigkeit nicht strafbar. Über ihn wurde eine stationäre psychiatrische
+Behandlung angeordnet. Der Beschwerdeführer behauptet im Wesentlichen, der
+verfahrensleitende Staatsanwalt B____ habe Personen zur Aussage genötigt, sei
+Anhaltspunkten auf strafrechtlich relevantes Verhalten von gegen ihn Anzeige
+erstattenden Personen nicht nachgegangen und habe im Verfahren Unrichtiges
+behauptet. Ferner seien nicht der Wahrheit entsprechende psychiatrische
+Diagnosen von ihm erstellt worden; Personen hätten im Verfahren gegen ihn nicht
+wahrheitsgemäss ausgesagt; im Rahmen der stationären Massnahme sei er einer
+Zwangsmedikation unterzogen und damit gefoltert worden und vonseiten der
+Gerichte seien Tatsachen ignoriert worden. Ausserdem sei er im Jahr 2015 durch
+einen überhöhten Mietzins betrogen und in der Folge von einer unbekannten
+Täterschaft gezwungen worden, das gemietete Zimmer zu verlassen.
+
+Mit
+Nichtanhandnahmeverfügung vom 9. März 2022 trat die Staatsanwaltschaft
+Basel-Stadt in Anwendung von Art. 310 in Verbindung mit
+Art. 319 ff. der Schweizerischen Strafprozessordnung (StPO,
+SR 312.0) nicht auf die Strafanzeige ein, da der fragliche Straftatbestand
+oder die Prozessvoraussetzungen eindeutig nicht erfüllt seien. Die
+Verfahrenskosten verlegte sie zu Lasten des Staates.
+
+Gegen diese ihm
+am 11. März 2022 zugestellte Nichtanhandnahmeverfügung hat der Beschwerdeführer
+am 17. März 2022 Beschwerde an das Appellationsgericht Basel-Stadt erhoben.
+Darin beantragt er sinngemäss, die Staatsanwaltschaft sei zu verpflichten,
+seiner Strafanzeige vom 3. Januar 2022 nachzugehen und macht, soweit
+nachvollziehbar, zudem die Befangenheit des Leitenden Staatsanwaltes C____ geltend.
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren aufgrund der Akten, einschliesslich
+der von der Staatsanwaltschaft eingereichten Verfahrensakten (Verfahrensnummer
+UT.2022.146), ergangen (Art. 397 Abs. 1 StPO). Auf die Einholung
+einer Vernehmlassung der Staatsanwaltschaft wurde verzichtet. Die Einzelheiten
+der relevanten Parteistandpunkte ergeben sich, soweit sie für den Entscheid von
+Bedeutung sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Nichtanhandnahmeverfügungen
+der Staatsanwaltschaft können mit Beschwerde bei der Beschwerdeinstanz
+angefochten werden (Art. 393 Abs. 1 lit. a sowie Art. 310
+Abs. 2 in Verbindung mit Art. 322 Abs. 2 StPO). Zu deren
+Beurteilung ist das Appellationsgericht als Einzelgericht zuständig (§ 88 Abs.
+1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes
+[GOG, SG 154.100]), welches nach Art. 393 Abs. 2 StPO mit freier Kognition
+urteilt. Der Beschwerdeführer hat als Anzeigesteller ein rechtlich geschütztes
+Interesse an der Aufhebung des angefochtenen Entscheids und ist somit zur
+Beschwerde legitimiert (Art. 382 Abs. 1 StPO).
+
+1.2 Fraglich
+ist indessen, ob die Eingabe dem gesetzlichen Begründungserfordernis genügt.
+Die Anforderungen an die inhaltliche Begründung der Beschwerde richten sich
+nach Art. 385 StPO. Demnach ist zunächst genau anzugeben, welche Punkte
+des Entscheides angefochten werden (Art. 385 Abs. 1 lit. a
+StPO). Dabei hat der Beschwerdeführer zum Ausdruck zu bringen, in welchem Sinne
+er die angefochtene Verfahrenshandlung geändert haben möchte ( Guidon , in: Basler Kommentar,
+2. Auflage 2014, Art. 396 StPO N 9b). Sodann sind in der
+Beschwerdeschrift die Gründe aufzuführen, welche einen anderen Entscheid
+nahelegen (Art. 385 Abs. 1 lit. b StPO). In der Begründung ist
+schlüssig zu behaupten, dass und weshalb ein Beschwerdegrund gegeben ist; zudem
+ist darzulegen, dass die Beschwerdevoraussetzungen erfüllt sind. Schliesslich
+hat sich die Beschwerdebegründung zumindest in minimaler Form mit den Erwägungen
+des angefochtenen Entscheids auseinanderzusetzen. Daran mangelt es
+beispielsweise, wenn die Richtigkeit der tatsächlichen oder rechtlichen
+Erwägungen der angefochtenen Handlung bloss pauschal bestritten wird ( Guidon , a.a.O., Art. 396 StPO
+N 9c). In der Beschwerdeschrift ist darüber hinaus genau anzugeben, welche
+Beweismittel angerufen werden (Art. 385 Abs. 1 lit. c StPO). Bei
+einer rechtsunkundigen Person werden an die Begründungspflicht praxisgemäss
+keine allzu strengen Anforderungen gestellt. Allerdings muss auch ein
+juristischer Laie zumindest sinngemäss angeben, inwiefern er den angefochtenen
+Entscheid für unrichtig respektive fehlerhaft hält, andernfalls die Eingabe zur
+Verbesserung innerhalb kurzer Frist zurückzuweisen ist (Art. 385
+Abs. 2 StPO; vgl. Ziegler/Keller ,
+in: Basler Kommentar, 2. Auflage 2014, Art. 385 StPO N 1, 3; AGE
+BES.2021.68 vom 23. Juli 2021 E. 1.5, BES.2021.81 vom 7. Juli
+2021 E. 2.1).
+
+Zunächst lässt
+sich feststellen, dass die Eingabe des Beschwerdeführers bereits die formellen Anforderungen
+an eine Beschwerde nur knapp erfüllt. Immerhin gibt der Beschwerdeführer aber
+bereits im ersten Abschnitt an, gegen welche Verfügung sich die vorliegende
+Beschwerde richtet. Anschliessend beschreibt er grundsätzlich genügend, weshalb
+er mit der Nichtanhandnahmeverfügung vom 9. Februar 2022 nicht einverstanden
+ist. Der Staatsanwalt habe seine Beweismittel abgelehnt und absichtlich
+ignoriert. Er sei falsch diagnostiziert worden, was er deutlich mit Belegen
+nachweisen könne. Er sei nicht psychisch krank; der Gutachter habe falsche
+Aussagen angenommen. Die Staatsanwaltschaft habe nicht genügend ermittelt. Er
+habe auf 71 Seiten ganz genau dargestellt, «wie die Bande [ihn] völlig
+kaputt gemacht» habe (act. 2, S. 1). Er sei schuldfähig und solle Entschädigung
+und Genugtuung erhalten (act. 2, S. 2). Zudem wolle die Staatsanwaltschaft den
+Fall nicht ans Licht bringen (act. 2, S. 2).
+
+Insgesamt reicht
+die Begründung dieser Laieneingabe also für ein Eintreten, da an eine solche
+keine allzu hohen Ansprüche gestellt werden dürfen.
+
+1.3 Auf
+die fristgerecht erhobene Beschwerde ist daher einzutreten.
+
+2.
+
+Die Rügen des
+Beschwerdeführers richten sich zum Teil persönlich gegen den Leitenden
+Staatsanwalt. Er behauptet, dass dieser «jegliche Beweismittel ablehn[e] und
+absichtlich ignorier[e], um die Tatsache zu tarnen» (act. 2, S. 1). Seinen
+Behauptungen werde nicht nachgegangen, «um die Tatsache zu vergraben» (act. 2,
+S. 1). Die Staatsanwaltschaft wolle «den Fall überhaupt nicht ins [sic] Licht
+bringen, sondern tarnen» (act. 2, S. 2). Er habe das Gefühl, dass die
+Staatsanwaltschaft «feier[e]», wenn ihn «[...] oder seine Partei [...] umbring[e]»
+(act. 2, S. 2). Es bleibt jedoch unklar, worauf der Beschwerdeführer mit dieser
+ hauptsächlich appellatorischen  Kritik hinauswill. Die Frage, ob die Abnahme
+von Beweismitteln zu Unrecht unterblieben ist, ist gerade Gegenstand des
+vorliegenden Beschwerdeverfahrens. Inwiefern die unterlassene Beweisabnahme
+darüber hinaus eine qualifizierte Fehlleistung darstellen würde, welche sogar
+die Befangenheit der Staatsanwalt begründen könnte, wird nicht einmal
+ansatzweise dargelegt. Unzureichend ist jedenfalls das blosse «Gefühl» des
+Beschwerdeführers, die Staatsanwaltschaft sei voreingenommen oder würde sogar
+seinen Tod begrüssen (act. 2, S. 2). Diese subjektive, wohl dem Krankheitsbild
+des Beschwerdeführers geschuldete Wahrnehmung bleibt gänzlich unbelegt und ist
+daher unbeachtlich.
+
+3.
+
+3.1 Nach
+Art. 310 Abs. 1 lit. a StPO verfügt die Staatsanwaltschaft die
+Nichtanhandnahme, sobald aufgrund der Strafanzeige oder des Polizeirapports
+feststeht, dass die fraglichen Straftatbestände oder die Prozessvoraussetzungen
+eindeutig nicht erfüllt sind. Wie bei der Frage, ob ein Strafverfahren über
+eine Verfahrenseinstellung durch die Strafverfolgungsbehörde erledigt werden
+kann, gilt auch bezüglich der Nichtanhandnahme der aus dem Legalitätsprinzip
+fliessende Grundsatz «in dubio pro duriore» (Art. 5 Abs. 1 der
+Bundesverfassung [BV, SR 101] und Art. 2 Abs. 1 StPO in
+Verbindung mit Art. 309 Abs. 1, Art. 319 Abs. 1 und
+Art. 324 Abs. 1 StPO; vgl. BGE 138 IV 86 E. 4.2; BGer
+6B_274/2019 vom 28. Februar 2020 E. 2.3, 6B_856/2013 vom
+3. April 2014 E. 2.2, 1B_253/2012 vom 19. Juli 2012
+E. 2.1). Danach darf die Nichtanhandnahme gestützt auf Art. 310
+Abs. 1 lit. a StPO nur in sachverhaltsmässig und rechtlich klaren
+Fällen ergehen, so bei offensichtlicher Straflosigkeit, wenn der Sachverhalt mit
+Sicherheit nicht unter einen Straftatbestand fällt, oder bei eindeutig
+fehlenden Prozessvoraussetzungen. Die Strafverfolgungsbehörde und die
+Beschwerdeinstanz verfügen in diesem Rahmen über einen gewissen
+Ermessensspielraum. Im Zweifelsfall, wenn die Nichtanhandnahmegründe nicht mit
+absoluter Sicherheit gegeben sind, muss das Verfahren jedoch eröffnet werden
+(vgl. BGE 143 IV 241 E. 2.2.1, 137 IV 219 E. 7, je mit Hinweisen; Omlin , in: Basler Kommentar,
+2. Auflage 2014, Art. 310 StPO N 9; AGE BES.2018.89 vom
+17. Oktober 2018 E. 2.1 f.).
+
+3.2
+
+3.2.1 Die
+Staatsanwaltschaft begründet ihre Nichtanhandnahmeverfügung zusammenfassend
+damit, der Beschwerdeführer bringe lediglich pauschale Behauptungen vor, ohne
+diese zu konkretisieren oder zu belegen (act. 1, S. 1). Ein grosser Teil seiner
+Ausführungen betreffe zudem die Würdigung der Beweise des Verfahrens VT.[...].
+Diese Rügen hätte der Beschwerdeführer bereits durch Berufung gegen das
+damalige Urteil des Strafgerichts Basel-Stadt vorbringen müssen (act. 1, S. 1
+f.). Ferner seien die vom Beschwerdeführer betreffend die Zwangsmedikation
+erhobenen Rechtsmittel von den Rechtsmittelinstanzen mehrfach abgewiesen worden
+(AGE VD.2020.48 vom 8. April 2020; BGer 6B_1075/2020 vom 14. Oktober 2020).
+Darauf könne im vorliegenden Verfahren nicht zurückgekommen werden (act. 1,
+S. 2). Schliesslich fehle es an konkreten Anhaltspunkten für ein strafbares
+Verhalten der angezeigten Personen (act. 1, S. 2). Daher sei die Strafanzeige
+nicht anhand zu nehmen.
+
+3.2.2 Der
+Beschwerdeführer wiederholt in seiner Beschwerde im Wesentlichen die bereits in
+seiner 71-seitigen Strafanzeige erhobenen Vorwürfe. Zudem ergänzt er diese
+dahingehend, dass auch der Leitende Staatsanwalt seinen Verpflichtungen nicht
+nachkomme (vgl. E. 2.1 hiervor).
+
+3.2.3 Aufgrund
+der rechtskräftigen Verurteilung des Beschwerdeführers und der darin
+rechtskräftig angeordneten stationären psychiatrischen Behandlung (Urteil des
+Strafgerichts SG.2017.85 vom 15. Juni 2017) kann auf die Behauptungen nicht
+eingegangen werden, wonach er falsch diagnostiziert worden sei, er gar nicht
+psychisch krank sei und der Gutachter von falschen Aussagen ausgegangen sei
+(vgl. E. 3.2.1 hiervor).
+
+Welche konkreten
+Beweismittel der Leitende Staatsanwalt sodann abgelehnt oder absichtlich
+ignoriert haben soll, wird aus der Beschwerde nicht ersichtlich.
+
+Ansonsten bleibt es bei pauschalen Vorwürfen gegen die im Zusammenhang
+mit seiner Verurteilung im Jahre 2017 beteiligten Personen. Der
+Beschwerdeführer zeigt insbesondere nicht auf, inwiefern sich seine
+Behauptungen zu konkreten strafbaren Handlungen in Zusammenhang bringen lassen.
+Die Schilderungen sind reichlich wirr und zusammenhangslos. Er behauptet
+beispielsweise, es sei «getarnt» worden, dass der damalige Anzeigesteller D____
+der Vorstehende des Vereins [...] sei (act. 2, S. 1). Abgesehen davon, dass
+diese Behauptung nicht näher belegt ist, bleibt sie für das vorliegende
+Verfahren ohne Bedeutung. Denn in welchem Zusammenhang diese Tatsache problematisch
+oder sogar in strafrechtlicher Hinsicht relevant wäre, legt der
+Beschwerdeführer weder in seiner 71-seitigen Strafanzeige noch in der
+Beschwerde dar. In der Strafanzeige gibt er selber an, dass im Gutachten vom
+24. Februar 2017 die von ihm aufgeführten Behauptungen als Wahnthemen
+beschrieben werden. Diese Einschätzung wird auch im psychologischen
+Untersuchungsbericht der UPK vom 26. Februar 2018 bestätigt. Die vorliegenden
+Ausführungen des Beschwerdeführers passen zu diesen Einschätzungen und sind wohl
+auch damit zu erklären.
+
+Insgesamt erscheinen die vom Beschwerdeführer in seinen Eingaben und der
+Beschwerde gemachten Vorwürfe in materieller Hinsicht als unrealistisch und
+entspringen wohl eher inneren Vorgängen und Vorstellungen des Beschwerdeführers
+als realen Ereignissen und tatsächlich Erlebtem. Sie dürften Teil seines
+Krankheitsbilds sein.
+
+3.2.4 Die vom Beschwerdeführer angezeigten Sachverhalte, soweit
+sich solche den Angaben des Beschwerdeführers überhaupt entnehmen lassen,
+erfüllen also eindeutig die geltend gemachten Tatbestände nicht. Die
+Staatsanwaltschaft hat das Verfahren diesbezüglich richtigerweise nicht anhand
+genommen.
+
+3.3 Die Beschwerde erweist sich somit als unbegründet,
+weshalb sie vollumfänglich abzuweisen ist.
+
+4.
+
+Bei diesem Ausgang des Verfahrens hätte der Beschwerdeführer grundsätzlich
+die Kosten zu tragen (Art. 428 Abs. 1 StPO). Allerdings wird vorliegend der Umstände
+halber auf die Erhebung einer Gebühr verzichtet.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:      Die Beschwerde wird abgewiesen.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+a.o. Gerichtsschreiber
+
+lic . iur. Marc Oser                                                      BLaw
+Cyrill Chevalley
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
