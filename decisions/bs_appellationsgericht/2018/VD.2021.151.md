@@ -1,0 +1,1388 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.9"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2021.151"
+docket_2: "AG.2022.9"
+decided: "2018-08-03"
+published: "2021-12-20"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72620&W10_KEY=3048540&nTrefferzeile=342&Template=search_result_document.html"
+cites_decisions: ["2C_555/2013", "2C_846/2013", "BGE 130 II 65", "VD.2015.149", "VD.2015.150", "VD.2017.216", "VD.2017.217", "VD.2018.170", "VD.2018.171", "VD.2018.209", "VD.2018.210", "VD.2018.221", "VD.2018.222", "VD.2020.120", "VD.2020.121", "VD.2021.151", "VD.2021.152", "VD.2021.153", "VD.2021.154"]
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/172.021/art-064.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/641.20/art-027.md", "switzerland/bund/acts/641.20/art-028.md", "switzerland/bund/acts/641.201/art-059.md", "switzerland/bund/acts/642.11/art-058.md", "switzerland/bund/acts/642.11/art-065.md", "switzerland/bund/acts/642.11/art-115.md", "switzerland/bund/acts/642.11/art-126.md", "switzerland/bund/acts/642.11/art-135.md", "switzerland/bund/acts/642.11/art-140.md", "switzerland/bund/acts/642.11/art-144.md", "switzerland/bund/acts/642.11/art-145.md"]
+---
+
+# kantonale Steuern und direkte Bundessteuer pro 2016
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2021.151
+
+VD.2021.152
+
+URTEIL
+
+vom 20.
+Dezember 2021
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur.
+André Equey , Dr. Andreas Traub
+
+und Gerichtsschreiber
+MLaw Frédéric Barth
+
+Beteiligte
+
+A____ GmbH Rekurrentin
+
+[...]                                                                               
+Beschwerdeführerin
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Steuerverwaltung Basel-Stadt
+
+Fischmarkt 10, 4001 Basel
+
+Gegenstand
+
+Rekurs und Beschwerde gegen
+zwei Entscheide der Steuerrekurskommission vom 27. August 2020
+
+betreffend kantonale Steuern und
+direkte Bundessteuer pro 2016
+
+Sachverhalt
+
+Die A____ GmbH
+(nachfolgend Rekurrentin) deklarierte in der Steuererklärung pro 2016 einen steuerbaren
+Reingewinn von CHF 6'220.. Mit Veranlagungsverfügung vom 3. August
+2018 setzte die Steuerverwaltung des Kantons Basel-Stadt (nachfolgend
+Steuerverwaltung) den steuerbaren Reingewinn auf CHF 217'485. fest. Als
+Begründung führte sie an, dass die als Aufwand verbuchten Fremdarbeiten der
+B____, der C____ AG und der D____ GMBH im Umfang von insgesamt
+CHF 270'265. unzureichend dokumentiert seien und entsprechend
+aufgerechnet werden müssten.
+
+Gegen diese
+Veranlagungsverfügung erhob die Rekurrentin Einsprache, welche mit Entscheid
+der Steuerverwaltung vom 8. August 2019 (nachfolgend Einspracheentscheid)
+abgewiesen wurde. Den Rekurs und die Beschwerde der Rekurrentin gegen den Einspracheentscheid
+wies die Steuerrekurskommission des Kantons Basel-Stadt (nachfolgend
+Steuerrekurskommission) mit Entscheiden vom 27. August 2020 (zugestellt am
+22. Juni 2021; nachfolgend angefochtene Entscheide) ab.
+
+Hiergegen erhob
+die Rekurrentin mit Eingaben vom 22. Juli 2021 Rekurs und Beschwerde an das
+Verwaltungsgericht. Mit diesen beantragt sie die kostenfällige Aufhebung der
+angefochtenen Entscheide und die Veranlagung gemäss der Steuererklärung vom
+1. Juli 2017 mit einem steuerbaren Reingewinn von CHF 6'220.. Eventualiter
+beantragt die Rekurrentin die Rückweisung der Sache zur Neubeurteilung an die
+Steuerrekurskommission oder die Steuerverwaltung. In verfahrensrechtlicher
+Hinsicht beantragt die Rekurrentin sinngemäss, es sei ihr das rechtliche Gehör
+zu gewähren, es seien die Verfahren VD.2021.151 (Rekurs betreffend kantonale
+Steuern pro 2016) und VD.2021.152 (Beschwerde betreffend direkte Bundessteuer
+pro 2016) sowie VD.2021.153 (Rekurs betreffend kantonale Steuern pro 2017) und
+VD.2021.154 (Beschwerde betreffend direkte Bundessteuer pro 2017) allesamt zu
+vereinigen, es sei eine mündliche Verhandlung zwecks Befragung diverser
+Personen durchzuführen und es sei dem Rechtsvertreter der Rekurrentin das
+Teilnahme- und Fragerecht bei allfälligen Befragungen einzuräumen. Der
+Verfahrensleiter des Verwaltungsgerichts vereinigte die Verfahren VD.2021.151
+und VD.2021.152. Den Antrag auf Vereinigung mit den Verfahren VD.2021.153 und
+VD.2021.154 wies er ab (Verfügung vom 27. Juli 2021). Mit Eingaben vom 27. August
+2021 verzichtete die Steuerrekurskommission auf eine Vernehmlassung. Unter
+Verweis auf die angefochtenen Entscheide beantragt sie die kostenfällige
+Abweisung des Rekurses und der Beschwerde. Die Steuerverwaltung und die
+Eidgenössische Steuerverwaltung reichten keine Vernehmlassung ein. Die weiteren
+Tatsachen und die Einzelheiten der Parteistandpunkte ergeben sich, soweit sie
+für das Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen. Das
+vorliegende Urteil erging auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Gegen
+Entscheide der Steuerrekurskommission als vom Regierungsrat gewählte Kommission
+kann bezüglich der kantonalen Steuern Rekurs an das Verwaltungsgericht erhoben
+werden (§ 171 des Steuergesetzes [StG, SG 640.100]; § 10
+Abs. 1 des Verwaltungsrechtspflegegesetzes [VRPG, SG 270.100]).
+Zuständig ist das Dreiergericht (§ 92 Abs. 1 Ziff. 11 in
+Verbindung mit § 32 Abs. 1 des Gerichtsorganisationsgesetzes
+[SG 154.100]). Das Verfahren richtet sich nach den Bestimmungen des VRPG,
+soweit das Steuergesetz keine spezielle Vorschrift enthält (§ 171 Abs. 4 StG).
+
+Bezüglich der
+direkten Bundessteuer kann das kantonale Recht den Weiterzug des
+Beschwerdeentscheids mittels Beschwerde an eine weitere verwaltungsunabhängige
+Instanz vorsehen (Art. 145 Abs. 1 des Bundesgesetzes über die direkte Bundessteuer
+[DBG, SR 642.11]). Sieht das kantonale Recht ein zweistufiges Rekursverfahren
+für die kantonalen Steuern vor, muss dasselbe Verfahren auch für die direkte
+Bundessteuer gelten (BGE 130 II 65 E. 6 S. 75 ff.). Da das baselstädtische
+Recht für die kantonalen Steuern ein zweistufiges Rekursverfahren vorsieht,
+kommt dieses auch für die direkte Bundessteuer zur Anwendung (VGE 608/2006 vom
+22. Juni 2006, in: BJM 2008, S. 220; vgl. Wullschleger/Schröder ,
+Praktische Fragen des Verwaltungsprozesses im Kanton Basel-Stadt, in: BJM 2005,
+S. 277, 287). Im Beschwerdeverfahren der direkten Bundessteuer gelten in erster
+Linie die Verfahrensbestimmungen der Art. 140144 DBG, subsidiär jene des
+kantonalen Rechts über die Organisation und das Verfahren, insbesondere jene
+über den Rekurs (Art. 145 Abs. 2 DBG, § 1 der Verordnung über den Vollzug
+der direkten Bundessteuer [SG 660.100]; VGE VD.2018.170 und VD.2018.171 vom 7.
+Juni 2019 E. 1.2).
+
+1.2 Zum
+Rekurs und zur Beschwerde ist legitimiert, wer durch die angefochtenen
+Entscheide berührt ist und ein schutzwürdiges Interesse an ihrer Aufhebung oder
+Abänderung hat (§ 13 Abs. 1 VRPG). Dies trifft auf die
+Rekurrentin als Adressatin der angefochtenen Entscheide zu. Der Rekurs und die
+Beschwerde wurden rechtzeitig eingereicht und begründet (§ 171 Abs. 2
+in Verbindung mit § 164 Abs. 2 StG, Art. 145 Abs. 2 in
+Verbindung mit Art. 140 Abs. 1 und 2 DBG). Darauf ist
+einzutreten.
+
+1.3 Die Kognition des Verwaltungsgerichts richtet sich
+nach der allgemeinen Bestimmung von § 8 VRPG, da das Steuergesetz diesbezüglich
+keine speziellen Vorschriften für das Rekursverfahren vor dem Verwaltungsgericht
+enthält (siehe § 171 StG). Demnach prüft das Gericht
+insbesondere, ob die Vorinstanz das öffentliche Recht nicht oder nicht richtig
+angewandt, den Sachverhalt unrichtig festgestellt, wesentliche Form- oder
+Verfahrensvorschriften verletzt oder von dem ihr zustehenden Ermessen einen
+unzulässigen Gebrauch gemacht hat. In Bezug auf die direkte Bundessteuer können
+mit der Beschwerde alle Mängel des angefochtenen Entscheids und des
+vorangegangenen Verfahrens gerügt werden (Art. 145 Abs. 2 in
+Verbindung mit Art. 140 Abs. 3 DBG).
+
+1.4 Nach
+ständiger Praxis des Verwaltungsgerichts werden in Steuersachen im
+verwaltungsgerichtlichen Verfahren neue Tatsachen und Beweismittel
+grundsätzlich nicht zugelassen. In Abweichung von diesem Grundsatz werden Noven im verwaltungsgerichtlichen
+Verfahren auch in Steuersachen zugelassen, wenn das Festhalten an der
+ursprünglichen Sach- und Rechtslage einem überspitzen Formalismus gleichkäme
+und zu einem prozessualen Leerlauf führte oder wenn die neuen Tatsachen und
+Beweismittel dem Nachweis bereits früher vorgetragener Behauptungen dienen (VGE
+VD.2020.120 und VD.2020.121 vom 11. Januar 2021 E. 3.4.6, mit Nachweisen).
+
+1.5 Steuersachen
+sind keine Streitigkeiten über zivilrechtliche Ansprüche oder Verpflichtungen
+im Sinne von Art. 6 Ziff. 1 der Europäischen Menschenrechtskonvention (EMRK, SR
+0.101). Daher kann die Rekurrentin aus Art. 6 Ziff. 1 EMRK und § 25 Abs. 2
+VRPG keinen Anspruch auf Durchführung einer mündlichen Verhandlung ableiten
+(vgl. VGE VD.2017.216 und VD.2017.217 vom 30. August 2018 E. 1.6, mit
+Nachweisen). Dementsprechend begründet sie ihren Antrag bloss damit, dass sie
+die Befragung verschiedener Personen beantragt. Wie sich aus den nachstehenden
+Erwägungen ergibt (vgl. unten E. 3.7.2 und 3.8), sind alle Beweisanträge auf
+Befragung von Personen abzuweisen. Damit ist kein sachlicher Grund für die
+Durchführung einer mündlichen Verhandlung ersichtlich. Folglich ist der
+Verfahrensantrag der Rekurrentin abzuweisen und das vorliegende Urteil in
+Anwendung von § 25 Abs. 3 VRPG auf dem Zirkulationsweg zu fällen.
+
+2.
+
+2.1 Der
+steuerbare Reingewinn setzt sich gemäss § 69 Abs. 1 StG und Art. 58 Abs. 1
+DBG zusammen aus dem Saldo der Erfolgsrechnung unter Berücksichtigung des
+Saldovortrags des Vorjahrs (lit. a), allen vor Berechnung des Saldos der
+Erfolgsrechnung ausgeschiedenen Teilen des Geschäftsergebnisses, die nicht zur
+Deckung von geschäftsmässig begründetem Aufwand verwendet werden (lit. b) und
+den der Erfolgsrechnung nicht gutgeschriebenen Erträgen (lit. c). Zum
+steuerbaren Gewinn der Kapitalgesellschaften und Genossenschaften gehören zudem
+die Zinsen auf verdecktem Eigenkapital (Art. 69 Abs. 1 lit. d in Verbindung mit
+Art. 85 Abs. 4 StG; Art. 65 DBG). Ein verbuchter Aufwand ist dann als
+geschäftsmässig begründet zu qualifizieren, wenn zwischen diesem und dem
+Betrieb sowie dem mit ihm verfolgten Zweck der Gewinnerzielung ein sachlicher
+kausaler Zusammenhang besteht, wobei nicht erforderlich ist, dass die
+Aufwendung im Sinn einer rationellen und gewinnorientierten Betriebsführung
+auch tatsächlich notwendig gewesen ist (VGE VD.2015.149 und VD.2015.150 vom 10.
+April 2017 E. 4.1, mit Nachweisen).
+
+2.2 Aus
+der expliziten Anknüpfung an den handelsrechtlichen Erfolgsausweis für die
+Ermittlung des steuerbaren Reingewinns in § 69 Abs. 1 lit. a StG und Art. 58
+Abs. 1 lit. a DBG wird das sogenannte Massgeblichkeitsprinzip abgeleitet,
+das die Steuerbehörden grundsätzlich dazu verpflichtet, für die Ermittlung des
+steuerbaren Reingewinns auf die handelsrechtliche Jahresrechnung abzustellen,
+sofern nicht steuerliche Vorschriften eine Korrektur verlangen (VGE VD.2015.149
+und VD.2015.150 vom 10. April 2017 E. 2.2, mit Nachweisen). Die sich damit
+aus dem Massgeblichkeitsprinzip ergebende Bindungswirkung der
+handelsrechtlichen Jahresrechnung setzt voraus, dass die Bücher ordnungsgemäss
+geführt sind (VGE VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 3,
+mit Nachweisen). Das Kriterium der Ordnungsmässigkeit richtet sich dabei nach
+sämtlichen geschriebenen und ungeschriebenen Grundsätzen ordnungsgemässer
+Buchführung, die sich aus dem Handelsrecht ergeben. Danach müssen insbesondere
+die relevanten Geschäftsvorfälle vollständig, wahrheitsgetreu und systematisch
+erfasst werden, die Nachprüfbarkeit der vorgenommenen Buchungen anhand von
+Belegen gewährleistet sein und der gesamte Prüfpfad von der Erfassung des Buchungstatbestands
+über die Verarbeitung bis zur letztendlichen Darstellung der Information,
+namentlich in der Bilanz und der Erfolgsrechnung, nachprüfbar sein (VGE
+VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 3.1.1, mit Nachweisen;
+vgl. Art. 957a Abs. 2 des Obligationenrechts [SR 220]). Erweisen sich die
+von der steuerpflichtigen Person eingereichten Geschäftsbücher als formell
+ordnungsgemäss geführt, begründet die handelsrechtliche Jahresrechnung eine
+natürliche Vermutung für die wahrheitsgemässe Wiedergabe der aufgezeichneten
+Geschäftsvorfälle und des darin ausgewiesenen Saldos der Erfolgsrechnung. Damit
+gilt die materielle Richtigkeit der Jahresrechnung als bewiesen (VGE
+VD.2018.209 und VD.2018.210 vom 29. September 2019 E. 2.3, mit
+Nachweisen, VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 3.1.2, mit
+Nachweisen). Durch Gegenbeweis kann die natürliche Vermutung entkräftet und das
+Gelingen des Beweises der materiellen Richtigkeit der Jahresrechnung verhindert
+werden. Dabei ist der Gegenbeweis erbracht, wenn Anhaltspunkte erstellt sind,
+die begründete Zweifel an der Richtigkeit der natürlichen Vermutung erwecken
+(vgl. VGE VD.2018.209 und VD.2018.210 vom 29. September 2019 E.
+2.3, mit Nachweisen, VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 3.1.2,
+mit Nachweisen). Wenn die natürliche Vermutung durch den Gegenbeweis
+umgestossen wird, gilt die entsprechende Tatsache als nicht bewiesen (VGE
+VD.2018.209 und VD.2018.210 vom 29. September 2019 E. 2.3).
+
+2.3 Eine
+mit formellen Mängeln behaftete Buchhaltung wird von vornherein als materiell
+unrichtig vermutet, sofern die festgestellten Mängel derart zahlreich oder
+erheblich sind, dass sie die inhaltliche Richtigkeit der Bücher als
+unwahrscheinlich erscheinen lassen ( Richner/Frei/Kaufmann/Meuter ,
+Handkommentar zum DBG, 3. Auflage, Zürich 2016, Art. 123 N 55; Zweifel/Hunziker , in: Zweifel/Beusch
+[Hrsg.], Kommentar zum schweizerischen Steuerrecht, 3. Auflage, Basel 2017,
+Art. 115 DBG N 19). Die materielle Unrichtigkeit einer formell ordnungsgemäss
+geführten Buchhaltung darf insbesondere vermutet werden, wenn sich ein
+offensichtlicher, erheblicher und unerklärbarer Widerspruch zwischen dem in den
+Geschäftsbüchern ausgewiesenen Bruttogewinn und den entsprechenden, für
+gleichartige Betriebe nach anerkannten statistischen Grundsätzen erhobenen
+Erfahrungszahlen ergibt ( Richner/Frei/Kaufmann/Meuter ,
+a.a.O., Art. 123 N 54; Zweifel/Hunziker ,
+a.a.O., Art. 115 DBG N 18). Das setzt aber voraus, dass die Kriterien, nach
+denen das Zahlenmaterial erhoben und ausgewertet worden ist, und die darauf
+angewandten statistischen Grundlagen offengelegt werden, damit sie von den
+Beteiligten und Behörden überprüft werden können ( Zweifel/Casanova/Beusch/Hunziker , Schweizerisches
+Steuerverfahrensrecht, 2. Auflage, Zürich 2018, § 14 N 30; Zweifel/Hunziker , a.a.O., Art. 115 DBG N
+18). Bei der Vermutung der materiellen Unrichtigkeit der Buchhaltung handelt es
+sich um eine widerlegbare natürliche Vermutung (vgl. Zweifel/Hunziker , a.a.O., Art. 115 DBG N 18 f.).
+
+2.4 Trotz
+der Vermutung der materiellen Richtigkeit einer nach den handelsrechtlichen
+Vorschriften ordnungsgemäss geführten Buchhaltung nach dem Grundsatz der
+Massgeblichkeit der Handelsbilanz ist die steuerpflichtige Person gemäss § 153
+Abs. 2 StG und Art. 126 Abs. 2 DBG verpflichtet, auf Verlangen der
+Veranlagungsbehörde über die geschäftsmässige Begründetheit von Aufwänden
+Auskunft zu erteilen sowie Geschäftsbücher, Belege, weitere Bescheinigungen und
+Urkunden über den Geschäftsverkehr vorzulegen. Diese Mitwirkungspflicht wird
+durch den Verhältnismässigkeitsgrundsatz beschränkt. Die Mitwirkungshandlung
+zur Abklärung des rechtserheblichen Sachverhalts muss demnach geeignet und
+erforderlich sowie der steuerpflichtigen Person zumutbar sein. Die
+Vorlagepflicht setzt voraus, dass die steuerpflichtige Person im Besitz des
+Beweismittels ist oder sich den Besitz daran verschaffen kann. Dabei genügt
+eine bloss faktische Beschaffungsmöglichkeit nicht, sondern muss die
+steuerpflichtige Person einen Rechtsanspruch auf den Besitz haben (VGE
+VD.2020.120 und VD.2020.121 vom 11. Januar 2021 E. 2.5.4).
+
+2.5 Das
+Beweisantrags- und Beweisabnahmerecht ergibt sich aus dem Anspruch auf
+rechtliches Gehör. Es setzt voraus, dass der Betroffene frist- und formgerecht
+einen Beweisantrag stellt und dass das Beweismittel
+zulässig und verfügbar sowie zur Abklärung des rechtserheblichen Sachverhalts
+tauglich ist. Aus dem Beweisantrag muss hervorgehen, für
+welche rechtserhebliche Tatsache mit dem Beweismittel der Beweis oder der
+Gegenbeweis erbracht werden soll. Die Behörde kann von der Abnahme eines
+beantragten Beweismittels insbesondere dann absehen, wenn der rechtserhebliche
+Sachverhalt bereits hinreichend geklärt ist. Ob dies der Fall ist, beurteilt
+sich mittels einer antizipierten Beweiswürdigung. Demnach darf die Behörde von
+weiteren Beweisabnahmen absehen, wenn sie aufgrund der bereits erhobenen
+Beweise bzw. aufgrund der Aktenlage ihre Überzeugung gebildet hat und mit
+nachvollziehbaren Gründen annehmen kann, dass diese durch weitere Beweiserhebungen
+nicht geändert würde. Insbesondere ist die Behörde nicht gehalten, Beweise
+abzunehmen, wenn die Tatsachen bereits aus den Akten genügend ersichtlich sind
+(VGE VD.2018.221 und VD.2018.222 vom 19. Juni 2019 E. 2.4.1).
+
+2.6 Wer
+die Folgen der Beweislosigkeit zu tragen hat, wenn der Beweis für eine
+rechtserhebliche Tatsache misslingt, bestimmt sich nach den Regeln über die
+objektive Beweislast (VGE VD.2015.149 und VD.2015.150 vom 10. April 2017 E.
+4.2.2.2). Grundsätzlich tragen nach der Normentheorie in sinngemässer Anwendung
+von Art. 8 des Schweizerischen Zivilgesetzbuchs (ZGB, SR 210) die
+Veranlagungsbehörden die (objektive) Beweislast für die steuerbegründenden und -erhöhenden
+und die steuerpflichtige Person die (objektive) Beweislast für die steueraufhebenden
+und -mindernden Tatsachen. Vorbehalten bleiben Ausnahmen aufgrund der
+mitwirkungsorientierten Beweislastverteilung (VGE VD.2020.120 und VD.2020.121
+vom 11. Januar 2021 E. 2.5.1, mit Nachweisen). Aufwendungen und
+Tatsachen, aus denen sich deren geschäftsmässige Begründetheit ergeben, sind
+steuermindernd, weshalb dafür grundsätzlich die steuerpflichtige Person die
+objektive Beweislast trägt (vgl. VGE VD.2018.209 und VD.2018.210 vom 29.
+September 2019 E. 2.3; Richner/Frei/Kaufmann/Meuter ,
+a.a.O., Art. 123 N 80 und 85). Misslingt der Beweis eines verbuchten Aufwands
+oder der Tatsachen, aus denen sich seine geschäftsmässige Begründetheit ergibt,
+so ist der Aufwand daher aufzurechnen (vgl. BGer 2C_555/2013 vom 30. Januar
+2014 E. 2.4).
+
+3.
+
+3.1 Die
+Steuerverwaltung und die Steuerrekurskommission machen nicht geltend, dass die
+Buchhaltung der Rekurrentin mit formellen Mängeln behaftet sei. Daher ist davon
+auszugehen, dass die von der Rekurrentin eingereichten Geschäftsbücher formell
+ordnungsgemäss geführt worden sind. Erst recht fehlt jeglicher Hinweis darauf,
+dass allfällige formelle Mängel derart zahlreich oder erheblich sei könnten,
+dass sie die inhaltliche Richtigkeit der Bücher als unwahrscheinlich erscheinen
+liessen. Die Steuerverwaltung und die Steuerrekurskommission haben auch nicht
+festgestellt, dass zwischen dem in den Geschäftsbüchern der Rekurrentin
+ausgewiesenen Bruttogewinn und den entsprechenden, für gleichartige Betriebe
+nach anerkannten statistischen Grundsätzen erhobenen Erfahrungszahlen ein
+offensichtlicher, erheblicher und unerklärbarer Widerspruch bestehe. In der
+Erfolgsrechnung für das Jahr 2016 verbuchte die Rekurrentin Aufwand für
+Fremdleistungen in der Form von Arbeiten mit Mehrwertsteuer von CHF 281'885.
+und Lohnaufwand von CHF 480'908. (Erfolgsrechnung 2016; STRK.2019.114 S.
+1182). Dies ergibt für Fremdleistungen und Löhne insgesamt einen Aufwand von
+CHF 762'793.. Basierend auf der angeblich erfahrungsgemässen Annahme, dass ein
+Bauarbeiter einen durchschnittlichen Nettolohn von CHF 50'000. erziele
+und dabei einen Bruttoumsatz von CHF 100'000. erwirtschafte, stellte die
+Steuerverwaltung im Revisionsbericht vom 13. Juni 2018 zwar fest, dass der
+erwartbare Aufwand für Fremdleistungen und Löhne bloss CHF 492'528.
+betrage (STRK.2019.114 S. 1182). Einen offensichtlichen, erheblichen und
+unerklärbaren Widerspruch zwischen dem in den Geschäftsbüchern der Rekurrentin
+ausgewiesenen Bruttogewinn und den entsprechenden, für gleichartige Betriebe
+nach anerkannten statistischen Grundsätzen erhobenen Erfahrungszahlen stellte
+die Steuerverwaltung damit aber nicht fest. Zudem bezieht sich die angeblich
+erfahrungsgemässe Annahme nicht auf Betriebe von der Art desjenigen der
+Rekurrentin. Sie betrifft offensichtlich Unternehmen, die Bauarbeiten durch
+eigene Mitarbeitende erbringen lassen. Die Rekurrentin erzielte gemäss ihrer
+Erfolgsrechnung im Jahr 2016 aber rund 37 % ihres Ertrags aus Dienstleistungen
+nicht mit eigenen Mitarbeitenden, sondern mit Subunternehmern. Dieser
+Besonderheit wird im Revisionsbericht der Steuerverwaltung nicht Rechnung
+getragen. Im Übrigen kann auf die angeblich erfahrungsgemässe Annahme der
+Steuerverwaltung ohnehin nicht abgestellt werden, weil sie nicht einmal
+behauptet, dass es sich dabei um eine nach anerkannten statistischen
+Grundsätzen erhobene Erfahrungszahl handle und jegliche Angaben zu den
+Grundlagen der angeblich erfahrungsgemässen Annahme fehlen. Die Differenz
+zwischen dem in der Erfolgsrechnung der Rekurrentin ausgewiesenen und dem
+gemäss dem Revisionsbericht der Steuerverwaltung erwartbaren Aufwand für
+Fremdleistungen und Löhne wird weder im Einspracheentscheid der
+Steuerverwaltung noch im angefochtenen Entscheid der Steuerrekurskommission
+erwähnt. Damit leiten offensichtlich auch die Vorinstanzen aus der erwähnten
+Differenz keine natürliche Vermutung der materiellen Unrichtigkeit der
+Buchhaltung der Rekurrentin ab. Schliesslich hat die Steuerverwaltung auch
+keine materiellen Mängel der Buchhaltung der Rekurrentin nachgewiesen, die das
+Vertrauen in die Buchführung als Ganzes erschüttern könnten (vgl. dazu Zweifel/Hunziker , a.a.O., Art. 115
+DBG N 21). Damit ist die materielle Richtigkeit der Buchhaltung der Rekurrentin
+zu vermuten und hat die Rekurrentin den Beweis dafür, dass es sich beim in der
+Erfolgsrechnung für das Jahr 2016 verbuchten Aufwand für Fremdleistungen in der
+Form von Arbeiten mit Mehrwertsteuer von CHF 281'885. um geschäftsmässig
+begründeten Aufwand handelt, grundsätzlich durch die Einreichung der
+Erfolgsrechnung erbracht (vgl. dazu VGE VD.2018.209 und 2018.210 vom 29.
+September 2019 E. 2.3; Richner/Frei/Kaufmann/Meuter ,
+a.a.O., Art. 123 N 85). Zu prüfen bleibt im Folgenden, ob die Steuerverwaltung
+die natürliche Vermutung der materiellen Richtigkeit der Buchhaltung der
+Rekurrentin für einzelne Geschäftsvorfälle entkräftet hat.
+
+3.2 Die
+Rekurrentin verbuchte im Jahr 2016 Vergütungen für Fremdleistungen der B____ AG
+in Höhe von CHF 99'074.10, Vergütungen für Fremdleistungen der C____ AG in Höhe
+von CHF 71'500., Vergütungen für Fremdleistungen der D____ GMBH in Höhe von
+CHF 110'695. und eine Vergütung für Fremdleistungen der E____ AG von CHF
+616.30 (STRK.2019.114 S. 1181 und 1221).
+
+3.3
+
+3.3.1 Für
+alle im Jahr 2016 verbuchten Vergütungen für Fremdleistungen der B____ AG
+hat die Rekurrentin im erstinstanzlichen Verfahren Subunternehmerverträge und
+Rechnungen eingereicht. Dabei handelt es sich um die folgenden Verträge und
+Rechnungen: Subunternehmervertrag zwischen der Rekurrentin und der B____ AG vom
+4. Januar 2016 (STRK.2019.114 S. 1228 ff.) sowie Rechnungen vom 27. Januar 2016
+(nachfolgend Rechnung 2; STRK.2019.114 S. 1226), 10. Februar 2016
+(nachfolgend Rechnung 3; STRK.2019.114 S. 1227) und 12. Februar 2016
+(nachfolgend Rechnung 1; STRK.2019.114 S. 1225) betreffend den [...] in [...],
+Subunternehmervertrag zwischen der Rekurrentin und der B____ AG vom
+5. Februar 2016 (STRK.2019.114 S. 1237 ff.) sowie Rechnungen vom 22.
+Februar 2016 (nachfolgend Rechnung 4; STRK.2019.114 S. 1235) und 1. März 2016
+(nachfolgend Rechnung 5; STRK.2019.114 S. 1236) betreffend die [...] in [...],
+Subunternehmervertrag zwischen der Rekurrentin und der B____ AG vom
+15. März 2016 (STRK.2019.114 S. 1259 ff.) sowie Rechnungen vom 29. März
+2016 (nachfolgend Rechnung 9; STRK.2019.114 S. 1258), 7. April 2016
+(nachfolgend Rechnung 12; STRK.2019.114 S. 1269) und 20. April 2016
+(nachfolgend Rechnung 13; STRK.2019.114 S. 1270) betreffend das [...] in [...],
+Subunternehmervertrag zwischen der Rekurrentin und der B____ AG vom 22. April
+2016 (STRK.2019.114 S. 1296 ff.) sowie Rechnungen vom 9. Mai 2016 (nachfolgend
+Rechnung 21; STRK.2019.114 S. 1294) und 20. Mai 2016 (nachfolgend Rechnung 22;
+STRK.2019.114 S. 1295) betreffend den [...] in [...], Subunternehmervertrag
+zwischen der Rekurrentin und der B____ AG vom 2. August 2016 (STRK.2019.114 S.
+1325 ff.) und Rechnung vom 18. August 2016 (nachfolgend Rechnung 31;
+STRK.2019.114 S. 1324) betreffend den [...] in, Subunternehmervertrag zwischen
+der Rekurrentin und der B____ AG vom 22. August 2016 (STRK.2019.114 S.
+1333 ff.) und Rechnung vom 6. September 2016 (nachfolgend Rechnung 32;
+STRK.2019.114 S. 1332) betreffend den [...], Subunternehmervertrag zwischen der
+Rekurrentin und der B____ AG vom 3. Oktober 2016 (STRK.2019.114 S.
+1341 ff.) und Rechnung vom 19. Oktober 2016 (nachfolgend Rechnung 33;
+STRK.2019.114 S. 1340) betreffend das [...] in [...] sowie
+Subunternehmervertrag zwischen der Rekurrentin und der B____ AG vom 17. Oktober
+2016 (STRK.2019.114 S. 1349 ff.) und Rechnung vom 2. November 2016
+(nachfolgend Rechnung 34; STRK.2019.114 S. 1348) betreffend ein Objekt in [...]
+im Kanton Aargau. Dass die Rekurrentin alle Rechnungen der B____ AG bezahlt
+hat, ist unbestritten (vgl. zur Bezahlung der Rechnungen insb. STRK.2019.114 S.
+1160, 1181 und 1221). Die Tatsache, dass die Bezahlung bar erfolgt ist, wird
+von der Steuerrekurskommission nicht als Indiz für die Unrichtigkeit der
+Rechnungen gewertet.
+
+3.3.2 Die
+Subunternehmerverträge beruhen auf einem Standardvertrag der Rekurrentin, der
+jeweils nur hinsichtlich der Subunternehmerin und des Objekts angepasst worden
+ist. Unter dem Titel Vertragsgegenstand vereinbarten die Parteien, dass die
+Rekurrentin als Unternehmerin der B____ AG als Subunternehmerin «div. allg. [...]massnahmen»
+überträgt (Ziff. 1.1). Unter dem Titel Vergütung der Leistungen des
+Subunternehmers enthalten die Verträge in Ziff. 8 zwar Bestimmungen betreffend
+verschiedene Möglichkeiten der Bemessung der geschuldeten Vergütung. Wie die
+Vergütung im konkreten Fall zu bemessen ist, kann den schriftlichen Verträgen
+aber nicht entnommen werden. Ausgeschlossen ist allerdings die Methode der
+Bemessung je Arbeitsstunde der eingesetzten Arbeiter im Sinn von Ziff. 8.6
+der Subunternehmerverträge. Stellt die Subunternehmerin der Unternehmerin
+Arbeitskräfte zur Verfügung, so gelten gemäss Ziff. 8.6 der Verträge
+bestimmte Verrechnungsansätze pro Arbeiter und Stunde. Da der
+Vertragsgegenstand nicht in der Zurverfügungstellung von Arbeitskräften,
+sondern in [...]massnahmen und damit einem körperlichen Werk besteht, ist diese
+Bestimmung in den vorliegenden Fällen nicht anwendbar. Möglich ist hingegen
+gestützt auf Ziff. 8.5 der Subunternehmerverträge eine Vergütung des Werks nach
+dem Aufwand in Anwendung der einschlägigen Regieansätze für Arbeitsstunden von
+Arbeitnehmern der Subunternehmerin abzüglich 10 % Unternehmerrabatt. Dies setzt
+gemäss Ziff. 8.5 der Subunternehmerverträge aber voraus, dass es sich um
+Regiearbeiten der Subunternehmerin handelt, die von der Unternehmerin
+ausdrücklich als solche bezeichnet worden sind. Gemäss dem Geschäftsführer der
+Rekurrentin wurde als Vergütung für die Fremdleistungen der B____ AG auf der
+Grundlage der Subunternehmerverträge jeweils mündlich eine Pauschale vereinbart
+(vgl. Schreiben der Rekurrentin vom 8. Juli 2018 [STRK.2019.114 S. 1198]). Ein
+Grund, weshalb diese Angabe nicht den Tatsachen entsprechen sollte, ist
+entgegen der Ansicht der Steuerrekurskommission (vgl. angefochtener Entscheid
+E. 5b) nicht ersichtlich. Für den Fall der Zurverfügungstellung von Personal
+ist in den schriftlichen Standardverträgen zwar eine Vergütung nach
+Stundenansatz vorgesehen. Wie vorstehend dargelegt worden ist, ist diese
+Methode der Bemessung der geschuldeten Vergütung im vorliegenden Fall aber
+nicht anwendbar. Entgegen der Ansicht der Steuerrekurskommission sind die
+diesbezüglichen Angaben des Geschäftsführers der Rekurrentin auch nicht
+widersprüchlich. Die Erklärung, es gebe keine Stundenrapporte, weil mündlich
+eine Pauschale vereinbart worden sei, bezieht sich auf die Vergütung der
+Leistungen der Subunternehmerinnen. Mit der Behauptung, viele
+Stundenaufstellungen seien auf dem Laptop des Geschäftsführers der Rekurrentin
+geführt worden und der Laptop sei gestohlen worden, begründet die Rekurrentin
+hingegen, weshalb nur für einen Teil der Leistungen der eigenen Mitarbeiter der
+Rekurrentin Stundenrapporte vorhanden sind (Rekurs vom 6. September 2019
+[STRK.2019.114 S. 1 ff.] S. 2). Bei einem Teil der von der Rekurrentin
+ausgestellten Rechnungen wurde das Entgelt zwar nach Zeitaufwand berechnet.
+Eine erhebliche Zahl der Rechnungen, mit denen die Rekurrentin die Vergütungen
+für ihre Dienstleistungen in Rechnung gestellt hat, beruhen aber zweifelsfrei
+auf der Vereinbarung eines Pauschalpreises (STRK.2019.114 S. 713, 714,
+718, 719, 722, 723, 724, 726, 728, 741, 784, 802, 803, 805, 836, 842, 847, 848,
+852, 862, 867, 868 und 893). Bei weiteren Rechnungen erwecken die in Rechnung
+gestellten Beträge den Eindruck von Pauschalpreisen. Die Rekurrentin macht sinngemäss
+zu Recht geltend, dass sich die Vereinbarung von Pauschalpreisen mit den
+Subunternehmerinnen zumindest in den Fällen, in denen sie mit den
+Bestellerinnen Pauschalpreise vereinbart hat, aufgedrängt habe (vgl. Rekurs vom
+22. Juli 2021 Ziff. 37). Bei einer Vergütung der Subunternehmerin nach
+Zeitaufwand hätte der Preis, den die Rekurrentin der Subunternehmerin
+geschuldet hätte, unter Umständen den mit der Bestellerin vereinbarten
+Pauschalpreis überstiegen, wenn die Subunternehmerin mehr Aufwand betrieben
+hätte als erwartet. Aus den vorstehenden Gründen ist davon auszugehen, dass es
+für die Fremdleistungen der B____ AG tatsächlich keine Arbeitsrapporte
+gibt. Folglich hat die Rekurrentin ihre Mitwirkungspflicht diesbezüglich
+entgegen der Ansicht der Steuerrekurskommission (vgl. angefochtener Entscheid
+E. 5a) nicht verletzt, indem sie trotz Aufforderung der Steuerverwaltung
+keine Arbeitsrapporte eingereicht hat.
+
+3.3.3 Mit
+ihren Rechnungen stellte die B____ AG der Rekurrentin jeweils für [...]arbeiten
+betreffend ein bestimmtes Objekt eine bestimmte Pauschale zuzüglich
+Mehrwertsteuer in Rechnung. Diese Art der Rechnungsstellung entspricht den
+schriftlichen Subunternehmerverträgen und den vom Geschäftsführer der
+Rekurrentin behaupteten mündlichen Vereinbarungen. Die Steuerrekurskommission
+stellte fest, aus den Rechnungen gehe in der Regel nicht hervor, wie sich der
+in Rechnung gestellte Betrag zusammensetze. Es fehlten Einzelheiten darüber, in
+welchem Zeitpunkt, an welchem Ort, durch welche Person und in welchem
+zeitlichen Rahmen die Fremdleistungen erbracht worden seien (angefochtener
+Entscheid E. 5b). Die Feststellung der Steuerrekurskommission, es fehlten
+Angaben dazu, an welchem Ort die Fremdleistungen erbracht worden seien (vgl.
+angefochtener Entscheid E. 5b), ist aktenwidrig. Aus jeder Rechnung ist der Ort
+der Leistungserbringung ersichtlich. Der Zeitraum der Leistungserbringung und
+der Umfang der Leistung werden in den Rechnungen zwar nicht angegeben. Weshalb
+die Rechnungen diese Angaben enthalten müssten, wenn die Parteien als Vergütung
+eine Pauschale vereinbart haben, ist aber nicht ersichtlich und wird von der
+Steuerrekurskommission nicht dargelegt. Die natürlichen Personen, welche die
+Arbeit faktisch verrichtet haben, müssen auf den Rechnungen, die eine
+juristische Person als Leistungserbringerin erstellt, offensichtlich nicht
+angegeben werden. Das Layout der Rechnungen 1, 2, 3, 4, 5, 9, 12, 13, 21, 22
+und 34 ist identisch. Die Rechnungen 31, 32 und 33 zeigen ein anderes, für die
+drei Rechnungen identisches Layout. Die unterschiedlichen Layouts lassen sich
+möglicherweise dadurch erklären, dass die einen Rechnungen Arbeiten im Kanton
+Zürich und die anderen Arbeiten in anderen Kantonen, insbesondere in Basel-Stadt
+betreffen und für die Rechnungsstellung für Arbeiten im Kanton Zürich
+allenfalls eine andere Organisationseinheit oder andere Mitarbeitende der B____
+AG zuständig gewesen sind. Jedenfalls ist die Verwendung von zwei
+unterschiedlichen, in beiden Fällen aber durchaus professionellen Layouts kein
+Indiz dafür, dass die in Rechnung gestellten Beträge nicht dem vertraglich
+Vereinbarten entsprechen oder die betreffenden Leistungen nicht erbracht worden
+sind. Inwiefern das Erscheinungsbild der Rechnungen aus anderen Gründen
+unprofessionell oder wenig vertrauenswürdig sein sollte (vgl. angefochtener
+Entscheid E. 5b), ist nicht ersichtlich und wird von der
+Steuerrekurskommission nicht dargelegt.
+
+3.3.4 Am
+12. Oktober 2016 wurde die B____ AG in B____ SA umfirmiert und ihr Sitz nach [...]
+verlegt. Am 23. Januar 2017 wurde über die Gesellschaft der Konkurs eröffnet
+und am 13. April 2018 wurde sie gelöscht (STRK.2019.114 S. 1387-1389, 1394
+und 1395). Gemäss den Angaben der Steuerverwaltung ist die B____ AG amtlich
+eingeschätzt worden und hat sie im Jahr 2016 nie Mehrwertsteuer deklariert und
+abgeliefert (Revisionsbericht vom 13. Juni 2018 [STRK.2019.114 S. 1177
+ff.] S. 5 f.). Damit war das Geschäftsgebaren der B____ AG nicht in jeder
+Hinsicht korrekt. Daraus kann aber nicht geschlossen werden, auch die
+Rekurrentin habe sich unkorrekt verhalten, indem sie der B____ AG Vergütungen
+für nicht erbrachte Leistungen oder nicht geschuldete Vergütungen erbracht
+hätte, zumal nicht feststeht, dass das unkorrekte Geschäftsgebaren der B____ AG
+für die Rekurrentin erkennbar gewesen ist. Dementsprechend hat die
+Steuerrekurskommission die vorstehend erwähnten Umstände zu Recht nicht als
+Indizien für die Unrichtigkeit der Rechnungen der B____ AG berücksichtigt.
+
+3.3.5 Aus
+den vorstehenden Gründen bestehen aufgrund der schriftlichen
+Subunternehmerverträge und der Rechnungen sowie der schlüssigen Angaben der
+Rekurrentin keine ernsthaften Zweifel daran, dass alle im Jahr 2016 verbuchten
+Vergütungen für Fremdleistungen der B____ AG dem vertraglich Vereinbarten
+entsprechen und die betreffenden Leistungen tatsächlich erbracht worden sind.
+Damit hat die Steuerverwaltung die natürliche Vermutung der materiellen
+Richtigkeit der Buchhaltung der Rekurrentin (vgl. dazu oben E. 2.2 und 3.1)
+diesbezüglich nicht entkräftet. Wenn im vorliegenden Fall zu Unrecht von einer
+natürlichen Vermutung der materiellen Unrichtigkeit der Buchhaltung ausgegangen
+würde (vgl. dazu oben E. 2.3 und 3.1), hätte die Rekurrentin diese mit den
+schriftlichen Subunternehmerverträgen, den Rechnungen und ihren schlüssigen
+Angaben betreffend die erwähnten Vergütungen durch den direkten Nachweis der
+materiellen Richtigkeit widerlegt.
+
+3.4
+
+3.4.1 Auch
+für alle acht im Jahr 2016 verbuchten Vergütungen für Fremdleistungen der C____
+AG hat die Rekurrentin im erstinstanzlichen Verfahren Rechnungen eingereicht.
+Für sieben dieser Vergütungen hat sie zudem Subunternehmerverträge eingereicht.
+Dabei handelt es sich um die folgenden Verträge und Rechnungen:
+Subunternehmervertrag zwischen der Rekurrentin und der C____ AG vom 5. Januar
+2016 (STRK.2019.114 S. 1245 ff.) sowie Rechnungen vom 20. Januar 2016
+(nachfolgend Rechnung 6; STRK.2019.114 S. 1244), 8. April 2016
+(nachfolgend Rechnung 14; STRK.2019.114 S. 1271) und 2. Juni 2016
+(nachfolgend Rechnung 27; STRK.2019.114 S. 1309) betreffend die [...] in [...],
+Subunternehmervertrag zwischen der Rekurrentin und der C____ AG vom
+15. Januar 2016 (STRK.2019.114 S. 1282 ff.) sowie Rechnungen vom 1.
+Februar 2016 (nachfolgend Rechnung 18; STRK.2019.114 S. 1280),
+10. März 2016 (nachfolgend Rechnung 16; STRK.2019.114 S. 1276) und
+4. April 2016 (nachfolgend Rechnung 17; STRK.2019.114 S. 1278)
+betreffend den [...] in [...] sowie Subunternehmervertrag zwischen der
+Rekurrentin und der C____ AG vom 18. April 2016 (STRK.2019.114 S. 1311
+ff.) und Rechnung vom 5. Mai 2016 (nachfolgend Rechnung 25; STRK.2019.114
+S. 1307) betreffend den [...] in [...] sowie Rechnung vom 17. Mai 2016
+(nachfolgend Rechnung 26; STRK.2019.114 S. 1308). Dass die Rekurrentin
+alle Rechnungen der C____ AG bezahlt hat, ist unbestritten (vgl. zur Bezahlung
+der Rechnungen insb. STRK.2019.114 S. 1160, 1181 und 1221). Die Bezahlung
+erfolgte bei der einen Hälfte der Rechnungen bar und bei der anderen mittels
+Banküberweisung (vgl. STRK.2019.114 S. 1221). Die Barzahlungen werden von
+der Steuerrekurskommission nicht als Indiz für die Unrichtigkeit der Rechnungen
+gewertet. Die Subunternehmerverträge mit der C____ AG beruhen auf dem gleichen
+Standardvertrag der Rekurrentin wie die Subunternehmerverträge mit der B____ AG
+(vgl. dazu oben E. 3.3.2). Diese wurden wiederum jeweils nur hinsichtlich der
+Subunternehmerin und des Objekts angepasst.
+
+3.4.2 Auch
+bezüglich der Fremdleistungen der C____ AG erklärt die Rekurrentin das Fehlen
+von Stundenrapporten damit, dass als Vergütung jeweils mündlich eine Pauschale
+vereinbart worden sei (vgl. Schreiben der Rekurrentin vom 8. Juli 2018
+[STRK.2019.114 S. 1198]). Betreffend die Rechnungen 6 und 14 für Vergütungen
+von insgesamt CHF 27'500. ist entgegen der Ansicht der Steuerrekurskommission
+(vgl. angefochtener Entscheid E. 5b) auch bezüglich der Fremdleistungen der C____
+AG kein Grund ersichtlich, weshalb diese Angabe des Geschäftsführers der
+Rekurrentin nicht den Tatsachen entsprechen sollten (vgl. oben E. 3.3.2).
+Damit ist davon auszugehen, dass es für die mit den Rechnungen 6 und 14 in
+Rechnung gestellten Fremdleistungen tatsächlich keine Arbeitsrapporte gibt.
+Folglich hat die Rekurrentin ihre Mitwirkungspflicht diesbezüglich entgegen der
+Ansicht der Steuerrekurskommission (vgl. angefochtener Entscheid E. 5a) nicht
+verletzt, indem sie trotz Aufforderung der Steuerverwaltung keine
+Arbeitsrapporte eingereicht hat. Mit der Rechnung 14 wird für das Verkleiden
+der Träger in bestimmten Stockwerken der [...] in [...] eine Pauschale in
+Rechnung gestellt. Mit der Rechnung 6 wird eine Akontozahlung in Rechnung
+gestellt, die auf der Rechnung 14 vom Pauschalbetrag in Abzug gebracht wird.
+Diese Art der Rechnungsstellung entspricht den schriftlichen
+Subunternehmerverträgen und den vom Geschäftsführer der Rekurrentin behaupteten
+mündlichen Vereinbarungen. Betreffend die weiteren Angaben wird auf die
+Erwägungen zu den Rechnungen der B____ AG verwiesen (vgl. oben E. 3.3.3). Diese
+beanspruchen auch für die Rechnungen 6 und 14 der C____ AG uneingeschränkt
+Geltung. Das Layout aller Rechnungen der C____ ist einheitlich und
+professionell.
+
+3.4.3 Der
+Sitz der C____ AG befand sich in [...]. Am 12. Oktober 2016 wurde sie in C____ SA
+umfirmiert und ihr Sitz nach [...] verlegt. Am 31. Oktober 2016 wurde über die C____
+SA der Konkurs eröffnet. Am 15. September 2017 wurde die Gesellschaft gelöscht
+(STRK.2019.114 S. 1414 f.). Gemäss den Angaben der Steuerverwaltung ist
+die C____AG amtlich eingeschätzt worden und hat sie im Jahr 2016 nie
+Mehrwertsteuer deklariert und abgeliefert (Revisionsbericht vom 13. Juni 2018
+[STRK.2019.114 S. 1177 ff.] S. 5 f.). Damit war das Geschäftsgebaren
+der C____ AG nicht in jeder Hinsicht korrekt. Daraus kann aber nicht
+geschlossen werden, auch die Rekurrentin habe sich unkorrekt verhalten, indem
+sie der C____ AG Vergütungen für nicht erbrachte Leistungen oder nicht
+geschuldete Vergütungen erbracht hätte, zumal nicht feststeht, dass das
+unkorrekte Geschäftsgebaren der C____ AG für die Rekurrentin erkennbar gewesen
+ist. Dementsprechend hat die Steuerrekurskommission die vorstehend erwähnten
+Umstände zu Recht nicht als Indizien für die Unrichtigkeit der Rechnungen der C____
+AG berücksichtigt.
+
+3.4.4 Aus
+den vorstehenden Gründen bestehen aufgrund der schriftlichen
+Subunternehmerverträge und der Rechnungen sowie der schlüssigen Angaben der
+Rekurrentin keine ernsthaften Zweifel daran, dass die Gegenstand der Rechnungen
+6 und 14 bildenden Vergütungen für Fremdleistungen der C____ AG dem vertraglich
+Vereinbarten entsprechen und die betreffenden Leistungen tatsächlich erbracht
+worden sind. Damit hat die Steuerverwaltung die natürliche Vermutung der
+materiellen Richtigkeit der Buchhaltung der Rekurrentin (vgl. dazu oben E. 2.2
+und 3.1) diesbezüglich nicht entkräftet. Wenn im vorliegenden Fall zu Unrecht
+von einer natürlichen Vermutung der materiellen Unrichtigkeit der Buchhaltung
+ausgegangen würde (vgl. dazu oben E. 2.3 und 3.1), hätte die Rekurrentin diese
+mit den schriftlichen Subunternehmerverträgen, den Rechnungen und ihren
+schlüssigen Angaben betreffend die erwähnten Vergütungen durch den direkten
+Nachweis der materiellen Richtigkeit widerlegt.
+
+3.4.5 Betreffend
+die Vergütungen im Umfang von insgesamt CHF 44'000., die Gegenstand der
+Rechnungen 16, 17, 18, 25, 26 und 27 bilden, steht die Behauptung des
+Geschäftsführers der Rekurrentin, die Parteien hätten mündlich Pauschalen
+vereinbart, hingegen im Widerspruch zu den Rechnungen. Mit diesen wird jeweils
+eine Summe in Rechnung gestellt, die sich aus der Multiplikation eines
+Einzelpreises von CHF 50. mit einer auf der Rechnung angegebenen Anzahl
+Stunden ergibt. Dies erweckt den Eindruck, dass in diesen Fällen kein
+Pauschalpreis, sondern eine Vergütung nach Regieansätzen vereinbart worden ist.
+In diesem Fall müsste die Rekurrentin für diese Vergütungen über
+Stundenrapporte verfügen. Solche hat sie jedoch trotz Aufforderung der
+Steuerverwaltung nicht eingereicht. Aufgrund dieser Umstände bestehen entgegen
+der Ansicht der Rekurrentin begründete Zweifel daran, dass die Gegenstand der
+Rechnungen 16, 17, 18, 25, 26 und 27 bildenden Fremdleistungen tatsächlich
+erbracht worden sind und die von der Rekurrentin bezahlten Vergütungen dem
+vertraglich Vereinbarten entsprochen haben. Damit ist die natürliche Vermutung
+der materiellen Richtigkeit der Buchhaltung für die entsprechenden Vergütungen
+entkräftet und ist in diesem Umfang nicht erstellt, dass der verbuchte Aufwand
+geschäftsmässig begründet gewesen ist.
+
+Für eine im Jahr
+2016 verbuchte und in der vorstehend erwähnten Summe von CHF 44'000.
+enthaltene Vergütung für Fremdleistungen der C____ AG von CHF 7'350. hat
+die Rekurrentin nur eine Rechnung vom 17. Mai 2016 (Rechnung 26;
+STRK.2019.114 S. 1308) eingereicht. Darauf fehlen jegliche Angaben dazu, wo
+oder für welches Projekt die Arbeiten geleistet worden sein sollen. Damit kann
+die Rechnung auch keinem Vertrag zugeordnet werden. Auch aufgrund dieser
+Umstände bestehen begründete Zweifel daran, dass die Gegenstand der Rechnung 26
+bildenden Fremdleistungen tatsächlich erbracht worden sind und die von der Rekurrentin
+bezahlte Vergütung dem vertraglich Vereinbarten entsprochen hat. Auch aus
+diesen Gründen ist die natürliche Vermutung der materiellen Richtigkeit der
+Buchhaltung für die entsprechende Vergütung entkräftet und ist in diesem Umfang
+nicht erstellt, dass der verbuchte Aufwand geschäftsmässig begründet gewesen
+ist.
+
+3.4.6 Zusammenfassend
+ist der für das Jahr 2016 verbuchte Aufwand für Fremdleistungen der C____ AG
+von insgesamt CHF 71'500. im Umfang von CHF 27'500. geschäftsmässig begründet
+und im Umfang von CHF 44'000. nicht.
+
+3.5
+
+3.5.1 Für
+alle im Jahr 2016 verbuchten Vergütungen für Fremdleistungen der D____ GMBH hat
+die Rekurrentin im erstinstanzlichen Verfahren Rechnungen eingereicht. Dabei
+handelt es sich um die folgenden Rechnungen: Rechnungen vom 15. Februar 2016
+(nachfolgend Rechnung 7; STRK.2019.114 S. 1252), 18. Februar 2016
+(nachfolgend Rechnung 20; STRK.2019,114 S. 1291), 2. März 2016
+(nachfolgend Rechnung 8; STRK.2019.114 S. 1256), 25. März 2016 (nachfolgend
+Rechnung 19; STRK.2019.114 S. 1289), 26. April 2016 (nachfolgend Rechnung 15;
+STRK.2019.114 S. 1273), 15. Mai 2016 (nachfolgend Rechnung 24; STRK.2019.114 S.
+1305) und 25. Juli 2016 (nachfolgend Rechnung 29; STRK.2019.114 S. 1320)
+betreffend den [...] in [...], Rechnungen vom 24. Februar 2016 (nachfolgend
+Rechnung 10; STRK.2019.114 S. 1266), 25. März 2016 (nachfolgend
+Rechnung 11; STRK.2019.114 S. 1267), 20. April 2016 (nachfolgend Rechnung
+23; STRK.2019.114 S. 1303) und 4. Juli 2016 (nachfolgend Rechnung 28;
+STRK.2019.114 S. 1318) betreffend das [...] sowie Rechnung vom 8. August 2016
+(nachfolgend Rechnung 30; STRK.2019.114 S. 1323) betreffend die [...] in [...].
+Dass die Rekurrentin alle Rechnungen der D____ GMBH bezahlt hat, ist
+unbestritten (vgl. zur Bezahlung der Rechnungen insb. STRK.2019.114 S. 1160, 1181
+und 1221). Die Tatsache, dass die Bezahlung bar erfolgt ist, wird von der
+Steuerrekurskommission nicht als Indiz für die Unrichtigkeit der Rechnungen
+gewertet.
+
+3.5.2 Schriftliche
+Verträge für die Fremdleistungen der D____ GMBH hat die Rekurrentin nicht
+eingereicht. Sie macht geltend, die diesen Fremdleistungen zugrundeliegenden
+Verträge seien mündlich abgeschlossen worden (vgl. Rekurs vom 22. Juli 2021
+Ziff. 28). Für entsprechende Verträge gilt kein Schriftformerfordernis. Zudem
+macht die Rekurrentin geltend, mündliche Verträge seien branchenüblich (Rekurs
+vom 22. Juli 2021 Ziff. 22). Für diese Behauptung bleibt sie aber jeglichen
+Beweis schuldig. Die Tatsache, dass mit einer Ausnahme alle Vergütungen, welche
+die Rekurrentin im Jahr 2016 der B____ AG und der C____ AG bezahlt hat,
+auf schriftlichen Verträgen beruht (vgl. oben E. 3.3.1 und 3.4.1), spricht
+sogar eher für das Gegenteil.
+
+3.5.3 Für
+die Rechnungen der D____ GMBH 7, 8, 10, 28, 29 und 30 fehlen Arbeitsrapporte.
+Dies lässt sich damit erklären, dass wie im Fall der schriftlichen
+Subunternehmerverträge als Vergütung jeweils mündlich eine Pauschale vereinbart
+worden ist (vgl. Schreiben der Rekurrentin vom 8. Juli 2018 [STRK.2019.114 S.
+1198]). Entgegen der Ansicht der Steuerrekurskommission (vgl. angefochtener
+Entscheid E. 5b) ist kein Grund ersichtlich, weshalb die mündliche
+Vereinbarung von Pauschalen nicht den Tatsachen entsprechen sollte (vgl. oben
+E. 3.3.2). Damit ist davon auszugehen, dass es für die mit den Rechnungen 7, 8,
+10, 28, 29 und 30 in Rechnung gestellten Fremdleistungen tatsächlich keine
+Arbeitsrapporte gibt. Folglich hat die Rekurrentin ihre Mitwirkungspflicht
+diesbezüglich entgegen der Ansicht der Steuerrekurskommission (vgl.
+angefochtener Entscheid E. 5a) nicht verletzt, indem sie trotz Aufforderung der
+Steuerverwaltung keine Arbeitsrapporte eingereicht hat.
+
+3.5.4 Mit
+den Rechnungen 7, 8, 10, 28, 29 und 30 stellte die D____ GMBH der
+Rekurrentin jeweils für [...]arbeiten betreffend ein bestimmtes Objekt eine
+bestimmte Pauschale zuzüglich Mehrwertsteuer in Rechnung. Diese Art der
+Rechnungsstellung entspricht den vom Geschäftsführer der Rekurrentin
+behaupteten mündlichen Vereinbarungen. Die Steuerrekurskommission stellte fest,
+aus den Rechnungen gehe in der Regel nicht hervor, wie sich der in Rechnung
+gestellte Betrag zusammensetze. Es fehlten Einzelheiten darüber, in welchem
+Zeitpunkt, an welchem Ort, durch welche Person und in welchem zeitlichen Rahmen
+die Fremdleistungen erbracht worden seien (angefochtener Entscheid E. 5b).
+Die Feststellung der Steuerrekurskommission, es fehlten Angaben dazu, an
+welchem Ort die Fremdleistungen erbracht worden seien (vgl. angefochtener
+Entscheid E. 5b), ist aktenwidrig. Aus jeder Rechnung ist der Ort der
+Leistungserbringung ersichtlich. Der Zeitraum der Leistungserbringung und der
+Umfang der Leistung werden in den Rechnungen zwar nicht angegeben. Weshalb die
+Rechnungen diese Angaben enthalten müssten, wenn die Parteien als Vergütung
+eine Pauschale vereinbart haben, ist aber nicht ersichtlich und wird von der
+Steuerrekurskommission nicht dargelegt. Die natürlichen Personen, welche die
+Arbeit faktisch verrichtet haben, müssen auf den Rechnungen, die eine
+juristische Person als Leistungserbringerin erstellt, offensichtlich nicht
+angegeben werden.
+
+3.5.5 Mit
+den Rechnungen 19, 23 und 24 stellte die D____ GMBH der Rekurrentin jeweils
+eine bestimmte Anzahl Stunden Arbeit betreffend ein bestimmtes Objekt in einem
+bestimmten Zeitraum zu einem bestimmten Stundenansatz zuzüglich Mehrwertsteuer
+in Rechnung. Diese Arbeitsstunden werden durch die von der Rekurrentin im
+erstinstanzlichen Verfahren eingereichten Lohn-Stundenkarten der D____ GMBH vom
+18. März, 15. April und 31. Mai 2016 (STRK.2019.114 S. 1290, 1304 und 1322)
+belegt.
+
+3.5.6 Im
+Wesentlichen finden sich drei Grundvarianten von Rechnungen der D____ GMBH:
+Rechnungen mit Zahlungsfrist von 5 Tagen und Konto bei der [...] (Rechnungen 10
+und 11), Rechnungen mit Zahlungsfrist von 5 Tagen und Konto bei der [...]
+(Rechnungen 23, 24, 28, 29, 30) sowie Rechnungen mit Zahlungsfrist von 10 Tagen
+und Konto bei der [...] (Rechnungen 7, 8, 15, 19 und 20). Dass ein Unternehmen
+nicht in jedem Fall die gleiche Zahlungsfrist setzt und für die Überweisung das
+gleiche Konto angibt, ist zulässig und grundsätzlich unverdächtig. Im
+vorliegenden Fall erscheint die Angabe unterschiedlicher Kontoverbindungen
+allerdings deshalb auffällig, weil die D____ GMBH ohnehin in allen Fällen
+Barzahlungen entgegengenommen hat (vgl. oben E. 3.5.1). Im Übrigen finden sich
+betreffend das Layout der Rechnungen nur marginale Abweichungen beispielsweise
+bezüglich der Schriftgrösse. Zudem finden sich vereinzelt geringfügige
+Tippfehler (z.B. Datumsangaben auf den Rechnungen 7 und 8). Dies mag zwar etwas
+unprofessionell wirken, ist aber kein Indiz dafür, dass die in Rechnung
+gestellten Beträge nicht dem vertraglich Vereinbarten entsprechen oder die
+betreffenden Leistungen nicht erbracht worden sind. Im Übrigen macht die Rekurrentin
+zu Recht geltend, dass sie das Erscheinungsbild der Rechnungen ihrer
+Subunternehmerinnen nicht beeinflussen konnte (Rekurs vom 22. Juli 2021 Ziff.
+38), und wäre ein etwas unprofessionelles Erscheinungsbild von Rechnungen
+entgegen der Ansicht der Steuerverwaltung (vgl. Vernehmlassung vom 9. Dezember
+2019 [STRK.2019.114 S. 1157 ff.] Ziff. II.2.i) offensichtlich kein Grund, ein
+Unternehmen nicht mehr zu berücksichtigen, wenn dessen Leistungen und Preise
+zufriedenstellend sind.
+
+3.5.7 Seit
+dem 1. Januar 2016 war die D____ GMBH nicht mehr im Register der
+mehrwertsteuerpflichtigen Personen eingetragen (vgl. STRK.2019.114 S. 1420).
+Trotzdem gab sie auf ihren Rechnungen aus dem Jahr 2016 ihre bis am 31.
+Dezember 2015 gültige MWST-Nummer an und wies sie Mehrwertsteuer aus. Dies ist
+unzulässig (vgl. Art. 27 Abs. 1 Mehrwertsteuergesetz [MWSTG, SR 641.20]) und
+als Übertretung strafbar (vgl. Art. 98 lit. g und h MWSTG). Gemäss der
+unwiderlegbaren Darstellung der Rekurrentin wusste sie nicht, dass die D____
+GMBH nicht im Register der mehrwertsteuerpflichtigen Personen eingetragen war
+(vgl. Rekurs vom 6. September 2019 S. 2). Entgegen der unrichtigen Ansicht der
+Steuerverwaltung und der Steuerrekurskommission (Einspracheentscheid E. 3b;
+angefochtener Entscheid E. 5b) gehört die Abklärung, ob ein anderes
+Unternehmen, mit dem vertragliche Beziehungen unterhalten werden, im
+Mehrwertsteuerregister eingetragen ist, nicht zu den Sorgfaltspflichten eines
+Unternehmens, wie die Rekurrentin zu Recht geltend macht (Rekurs vom 22. Juli
+2021 Ziff. 38). Gemäss Art. 28 Abs. 1 lit. a MWSTG kann eine steuerpflichtige
+Person im Rahmen ihrer unternehmerischen Tätigkeit unter Vorbehalt von Art. 29
+und 33 MWSTG die ihr in Rechnung gestellte Inlandsteuer als Vorsteuer abziehen.
+Gemäss Art. 59 Abs. 2 der Mehrwertsteuerverordnung (MWSTV, SR 641.201)
+muss die Leistungsempfängerin nicht prüfen, ob die Mehrwertsteuer zu Recht
+eingefordert worden ist. Auch bezüglich der Eintragung als steuerpflichtige
+Person besteht keine Prüfungspflicht der Leistungsempfängerin ( Henzen , in: Zweifel et al. [Hrsg.],
+Kommentar zum schweizerischen Steuerrecht, Basel 2015, Art. 28 MWSTG N 32). Nur
+wenn die Leistungsempfängerin weiss, dass die Person, welche die Mehrwertsteuer
+überwälzt hat, nicht als steuerpflichtige Person eingetragen ist, ist der
+Vorsteuerabzug ausgeschlossen (vgl. Art. 59 Abs. 2 MWSTV; Blum , in: Zweifel et al. [Hrsg.],
+Kommentar zum schweizerischen Steuerrecht, Basel 2015, Art. 27 MWSTG N 2). Da
+der Vorsteuerabzug nur bei positivem Wissen vom fehlenden Eintrag
+ausgeschlossen ist, werden Rechnungen betreffend die Mehrwertsteuer regelmässig
+nicht weiter hinterfragt (vgl. Blum ,
+a.a.O., Art. 27 MWSTG N 1). Folglich ist davon auszugehen, dass die Rekurrentin
+den fehlenden Eintrag der D____GMBH auch bei sorgfältigem Vorgehen nicht
+erkennen musste. Dies ändert aber nichts daran, dass die Tatsache, dass die D____
+GMBH trotz fehlenden Eintrags im Register der steuerpflichtigen Personen
+Mehrwertsteuer ausgewiesen hat, ein Indiz dafür darstellt, dass sie bereit
+gewesen sein könnte, auf ihren Rechnungen unrichtige Angaben zu machen.
+
+3.5.8 Der
+Sitz der D____ GMBH befand sich in [...]. Am 10. August 2016 wurde
+die Gesellschaft in Anwendung von Art. 153b der bis am 31. Dezember 2020
+geltenden Fassung der Handelsregisterverordnung (aHRegV, SR 221.411) von Amtes
+wegen als aufgelöst erklärt, weil die ihr zur Wiederherstellung des
+gesetzmässigen Zustands in Bezug auf das Domizil angesetzte Frist fruchtlos
+abgelaufen war. Wenn dem Handelsregisteramt von Dritten mitgeteilt wurde, dass
+eine Rechtseinheit angeblich über kein Rechtsdomizil mehr verfügen sollte,
+forderte es gemäss Art. 153a Abs. 1 aHRegV das oberste Leitungs- oder
+Verwaltungsorgan der Rechtseinheit auf, innert 30 Tagen ein neues Rechtsdomizil
+am Ort des Sitzes zur Eintragung anzumelden oder zu bestätigen, dass das
+eingetragene Rechtsdomizil noch gültig ist. Wurde innert dieser Frist keine
+Anmeldung oder keine Bestätigung eingereicht, so veröffentliche das
+Handelsregisteramt gemäss Art. 153a Abs. 3 aHRegV die Aufforderung im
+Schweizerischen Handelsamtsblatt. Leistete die Rechtseinheit der im
+Schweizerischen Handelsamtsblatt publizierten Aufforderung innert Frist keine
+Folge, so erliess das Handelsregisteramt gemäss Art. 153b Abs. 1 lit. a aHRegV
+eine Verfügung über die Auflösung der juristischen Person. Somit ist aufgrund
+der am 10. August 2016 publizierten Auflösung davon auszugehen, dass die D____ GMBH
+bereits mindestens mehrere Monate vor diesem Datum kein Rechtsdomizil mehr
+gehabt hat. Mit Entscheid vom 16. Februar 2017 ordnete das Zivilgericht die
+Liquidation der Gesellschaft nach den Vorschriften über den Konkurs an. Am 20.
+November 2017 wurde die Gesellschaft gelöscht.
+
+3.5.9 Gemäss
+den Angaben der Steuerverwaltung wurde die D____ GMBH immer amtlich
+eingeschätzt (STRK.2019.114 S. 1181). Auch dies stellt ein unkorrektes
+Verhalten der D____ GMBH dar. Daraus kann aber nicht geschlossen werden, die
+Rekurrentin habe sich ebenfalls unkorrekt verhalten, indem sie der D____ GMBH
+Vergütungen für nicht erbrachte Leistungen oder nicht geschuldete Vergütungen
+erbracht hätte, zumal nicht erstellt ist, dass dieses unkorrekte Verhalten der D____
+GMBH für die Rekurrentin erkennbar gewesen ist. Dementsprechend ist der vorstehend
+erwähnte Umstand auch von der Steuerrekurskommission nicht als Indiz für die
+Unrichtigkeit der Rechnungen der D____ GMBH berücksichtigt worden.
+
+3.5.10 Mit
+der Rechnung 20 stellte die D____ GMBH der Rekurrentin 115 Stunden
+Regiearbeit betreffend den [...] in [...] in der Zeit vom 1. bis 18.
+Februar 2016 zu einem Stundenansatz von CHF 60. zuzüglich Mehrwertsteuer in
+Rechnung. In einer Lohn-Stundenkarte der D____ GMBH vom 5. Februar 2016
+(STRK.2019.114 S. 1292) für Februar 2016 sind für die Zeit vom 1. bis 5.
+Februar 2016 45 produktive Stunden vermerkt. Da die Lohn-Stundenkarte vom
+5. Februar 2016 stammt, ist es zwar möglich, dass in der Zeit vom 6. bis
+18. Februar 2016 zusätzliche Arbeitsstunden geleistet worden sind. In
+diesem Fall müsste auch für diese eine Lohn-Stundenkarte vorhanden sein. Eine
+solche wurde von der Rekurrentin aber trotz Aufforderung der Steuerverwaltung
+nicht eingereicht. Entgegen der Ansicht der Rekurrentin hat sie damit ihre
+Mitwirkungspflicht verletzt und bestehen begründete Zweifel daran, dass die D____
+GMBH im Februar 2016 betreffend den [...] mehr als 45 Stunden Arbeit
+geleistet und die mit der Rechnung 20 in Rechnung gestellten Leistungen
+tatsächlich erbracht hat.
+
+Mit der Rechnung
+15 stellte die D____ GMBH der Rekurrentin 135 Stunden Regiearbeit
+betreffend den [...] in [...] in der Zeit vom 1. bis 24. April 2016
+zu einem Stundenansatz von CHF 60. zuzüglich Mehrwertsteuer in Rechnung. In
+der Lohn-Stundenkarte der D____ GMBH vom 29. April 2016 (STRK.2019.114 S.
+1274) sind nur 87 produktive Stunden in der Zeit vom 18. bis 29. April 2016
+vermerkt. In einer Lohn-Stundenkarte der D____ GMBH vom 9. Mai 2016
+(STRK.2019.114 S. 1321) für Mai 2016 sind für die Zeit vom 2. bis 9. Mai
+2016 weitere 48 produktive Stunden verzeichnet. Zusammen ergeben 87 und 48
+Stunden zwar die in Rechnung gestellte Summe von 135 Stunden. Die zweite
+Lohn-Stundenkarte betrifft aber nicht den Zeitraum, in dem die in Rechnung
+gestellten Stunden gemäss der Rechnung geleistet worden sind. Unter diesen
+Umständen bestehen entgegen der Ansicht der Rekurrentin begründete Zweifel
+daran, dass die D____ GMBH im April 2016 betreffend den [...] mehr als
+87 Stunden Arbeit geleistet und die mit der Rechnung 15 in Rechnung
+gestellten Leistungen tatsächlich erbracht hat.
+
+Mit der Rechnung
+11 vom 25. März 2016 stellte die D____ GMBH der Rekurrentin für das Verkleiden
+von Trägern betreffend das [...] pauschal CHF 8'680. zuzüglich
+Mehrwertsteuer in Rechnung. In einer Lohn-Stundenkarte der D____ GMBH vom 31.
+März 2016 (STRK.2019.114 S. 1319) für März 2016 sind 144.5 produktive
+Stunden betreffend das [...] in der Zeit vom 1. bis 18. März 2016 vermerkt. Da
+sich in den Akten keine andere Rechnung für Leistungen der D____ GMBH
+betreffend das [...] im März 2016 findet, muss die Lohn-Stundenkarte dieselben
+Leistungen betreffen wie die Rechnung 11. Damit besteht aber ein unauflöslicher
+Widerspruch zwischen der Rechnung und der Lohn-Stundenkarte, weil diese für
+eine Vergütung nach Regieansätzen spricht und jene die Vereinbarung eines
+Pauschalpreises voraussetzt. Aus diesem Grund bestehen begründete Zweifel
+daran, dass die Gegenstand der Rechnung 11 bildenden Fremdleistungen
+tatsächlich erbracht worden sind und die von der Rekurrentin bezahlte Vergütung
+dem vertraglich Vereinbarten entsprochen hat.
+
+3.5.11 Aufgrund
+des Fehlens schriftlicher Verträge (vgl. oben E. 3.5.2), der unzulässigen
+Angaben auf den Rechnungen (vgl. oben E. 3.5.7), der Widersprüche zwischen
+mehreren Rechnungen und den Lohnstunden-Karten (vgl. oben E. 3.5.10) sowie des
+Fehlens eines Rechtsdomizils zumindest in der Zeit eines Teils der geltend
+gemachten Leistungen (vgl. oben E. 3.5.8) bestehen entgegen der Ansicht der
+Rekurrentin begründete Zweifel daran, dass die Gegenstand der Rechnungen der D____
+GMBH bildenden Fremdleistungen tatsächlich erbracht worden sind und die von der
+Rekurrentin bezahlten Vergütungen dem vertraglich Vereinbarten entsprochen
+haben. Damit ist die natürliche Vermutung der materiellen Richtigkeit der
+Buchhaltung für die entsprechenden Vergütungen entkräftet und ist in diesem
+Umfang nicht erstellt, dass der verbuchte Aufwand geschäftsmässig begründet
+gewesen ist. Folglich ist der für das Jahr 2016 verbuchte Aufwand für
+Fremdleistungen der D____ GMBH von insgesamt CHF 110'695. nicht
+geschäftsmässig begründet.
+
+3.6 Irgendein
+Grund, weshalb die Vergütung für die Fremdleistungen der E____ AG von CHF
+616.30 nicht geschäftsmässig begründet sein könnte, wird weder von der
+Steuerverwaltung noch von der Steuerrekurskommission genannt. Dieser Aufwand
+ist daher ohne weiteres als geschäftsmässig begründet zu betrachten.
+
+3.7
+
+3.7.1 In
+der Erfolgsrechnung für das Jahr 2016 verbuchte die Rekurrentin einen Ertrag
+aus Dienstleistungen von CHF 985'057., Aufwand für Fremdleistungen in der Form
+von Arbeiten mit Mehrwertsteuer von CHF 281'885. und Lohnaufwand von CHF
+480'908. (Erfolgsrechnung 2016; STRK.2019.114 S. 1182). Basierend auf der
+angeblich erfahrungsgemässen Annahme, dass ein Bauarbeiter einen
+durchschnittlichen Nettolohn von CHF 50'000. erziele und dabei einen Bruttoumsatz
+von CHF 100'000. erwirtschafte, stellte die Steuerverwaltung fest, dass
+der erwartbare Aufwand für Fremdleistungen und Löhne bloss CHF 492'528.
+betrage und der verbuchte Aufwand für Fremdleistungen von CHF 281'885. daher
+im Umfang von CHF 270'265. ([verbuchter Aufwand für Fremdleistungen CHF
+281'885. + verbuchter Lohnaufwand CHF 480'908.] - erwartbarer Aufwand für
+Fremdleistungen und Löhne CHF 492'528. = CHF 270'265.) geschäftsmässig nicht
+begründet sei (STRK.2019.114 S. 1182). Damit hat die Steuerverwaltung im
+Ergebnis angenommen, dass die von der Rekurrentin für das Jahr 2016 verbuchten
+Fremdleistungen in Höhe von CHF 281'885. im Umfang von CHF 11'620. erbracht
+und im Umfang von CHF 270'265. nicht erbracht worden sind. Wie aus den
+vorstehenden Erwägungen (oben E. 3.3 f. und 3.6) ersichtlich ist und durch die
+nachstehende Erwägung (unten E. 3.7.2) bestätigt wird, entspricht dies
+offensichtlich nicht den Tatsachen.
+
+3.7.2 Die
+Staatsanwaltschaft Basel-Stadt ermittelte wegen des Verdachts auf ungetreue
+Geschäftsbesorgung, Urkundenfälschung und Steuerbetrug unter anderem gegen die
+Gesellschafterin und Geschäftsführerin der Rekurrentin. Es bestand der
+Verdacht, dass sie als Verantwortliche der Rekurrentin zusammen mit Mittätern
+zwischen März 2016 und Februar 2018 die Bilanz und Erfolgsrechnung der
+Rekurrentin mit Hilfe fingierter Rechnungen anderer Firmen steuerrelevant
+verändert habe. Mit Einstellungsverfügung vom 26. Mai 2021 (Rekursbeilage 19)
+wurde das Strafverfahren gegen die Gesellschafterin und Geschäftsführerin der
+Rekurrentin mangels Beweises des Tatbestands eingestellt. Dies wurde damit
+begründet, dass sich im Laufe der Ermittlungen gezeigt habe, «dass durchaus
+Leistungen in Form von Arbeitseinsätzen getätigt wurden und somit die Aussagen
+in Bezug auf verrichtete Subunternehmertätigkeiten nicht widerlegt werden
+können.» Hätten die Ermittlungen der Staatsanwaltschaft zum Ergebnis geführt,
+dass die im Jahr 2016 verbuchten Fremdarbeiten entsprechend der Annahme im
+Revisionsbericht der Steuerverwaltung nur im Umfang von rund 4 % erbracht
+worden sind (vgl. oben E. 3.7.1), hätte die Staatsanwaltschaft die Tatsache,
+dass Leistungen erbracht worden sind, offensichtlich nicht zum Anlass genommen,
+das Strafverfahren einzustellen. Die Einstellung lässt sich nur damit erklären,
+dass sie zum Schluss gekommen ist, dass die verbuchten Fremdarbeiten zumindest
+in erheblichem Umfang tatsächlich erbracht worden sind. Der genaue Umfang der geschäftsmässig
+begründeten Fremdleistungen lässt sich mit der Einstellungsverfügung allerdings
+nicht belegen. Da die Staatsanwaltschaft auf weitere Abklärungen verzichtet
+hat, weil zielführende Ermittlungen aufgrund der Ausgangslage und der
+zeitlichen Distanz zu den Ereignissen nicht mehr ersichtlich gewesen sind (vgl.
+Aktennotiz vom 18. Februar 2021 [Rekursbeilage 19] und Einstellungsverfügung
+vom 26. Mai 2021 [Rekursbeilage 19]), erscheint es ausgeschlossen, dass der
+zuständige Staatsanwalt oder der zuständige Kriminalkommissär nähere Angaben
+zum konkreten Umfang der erbrachten Fremdleistungen machen könnten. Der
+Beweisantrag der Rekurrentin auf Befragung dieser beiden Personen (Rekurs vom
+22. Juli 2021 Ziff. 24) ist daher in antizipierter Beweiswürdigung (vgl. dazu
+oben E. 2.5) abzuweisen.
+
+3.8
+
+3.8.1 F____
+war vom 10. Juni bis 12. Oktober 2016 einzelzeichnungsberechtigtes Mitglied des
+Verwaltungsrats der B____ AG (STRK.2019.114 S. 1332 und 1325 f.). Die
+Staatsanwaltschaft Basel-Stadt hielt F____ in einem gegen ihn geführten
+Strafverfahren vor, er habe insgesamt CHF 42'066., welche die Rekurrentin im
+Jahr 2016 auf ein Konto der C____ AG überwiesen habe, bar bezogen, und es
+bestehe der Verdacht, dass er die Gelder unter Abzug einer Provision wieder den
+Verantwortlichen der Rekurrentin zurückgegeben habe. F____ antwortete, dass
+dies nicht stimme. Er habe immer Subunternehmer geschickt (Einvernahme vom 14.
+November 2019 [Rekursbeilage 23] S. 7). Es erscheint offensichtlich, dass F____
+im Rahmen einer Zeugeneinvernahme im vorliegenden Verfahren seine Aussagen als
+Beschuldigter bestätigen würde. Seinen Zeugenaussagen könnte daher kein
+wesentlich grösserer Beweiswert zugemessen werden als seinen Aussagen als
+Beschuldigter. Dass er nähere Angaben zum konkreten Umfang der erbrachten
+Fremdleistungen machen könnte, erscheint ausgeschlossen, zumal inzwischen bald
+fünf Jahre vergangen sind. Der Beweisantrag der Rekurrentin auf Einvernahme von
+F____ als Zeuge (Rekurs vom 22. Juli 2021 Ziff. 25) ist daher in antizipierter
+Beweiswürdigung (vgl. dazu oben E. 2.5) abzuweisen.
+
+3.8.2 Die
+Rekurrentin behauptet, auch aktuelle und ehemalige Mitarbeiter von ihr hätten
+erlebt, dass Subunternehmer beigezogen worden seien, und beantragt ihre
+Einvernahme als Zeugen (Rekurs vom 22. Juli 2021 Ziff. 26). Dass die
+Rekurrentin Subunternehmer beigezogen hat, ist bereits aufgrund der Akten
+erstellt. Dass die Mitarbeiter nähere Angaben zum konkreten Umfang der
+erbrachten Fremdleistungen machen könnten, erscheint ausgeschlossen, zumal
+inzwischen bald fünf Jahre vergangen sind. Der Beweisantrag der Rekurrentin ist
+daher in antizipierter Beweiswürdigung (vgl. dazu oben E. 2.5) abzuweisen.
+
+3.8.3 Die
+Rekurrentin beantragt eine Parteibefragung ihres Geschäftsführers als
+Beweismittel (Rekurs vom 22. Juni 2021 Ziff. 15, 20 f. und 24-26). Organe einer
+am Verfahren beteiligten juristischen Person sind als Partei zu behandeln ( Weissenberger/Hirzel , in:
+Waldmann/Weissenberger [Hrsg.], Praxiskommentar Verwaltungsverfahrensgesetz, 2.
+Auflage, Zürich 2016, Art. 14 N 7). Ein Parteiverhör oder gar eine
+Beweisaussage einer Partei unter Straffolge ist im verwaltungsgerichtlichen
+Rekursverfahren ausgeschlossen (vgl. § 21 Abs. 1 VRPG in Verbindung mit Art. 19
+des Verwaltungsverfahrensgesetzes [VwVG, SR 172.021]; Krauskopf/Emmenegger/Babey , in: Waldmann/Weissenberger
+[Hrsg.], Praxiskommentar Verwaltungsverfahrensgesetz, 2. Auflage, Zürich 2016,
+Art. 12 N 106; Weissenberger/Hirzel ,
+a.a.O., Art. 14 N 6). Die Aussagen des Geschäftsführers im Rahmen einer
+Befragung wären daher bloss als mündliche Parteiauskünfte zu qualifizieren.
+Damit könnte ihnen keine wesentlich höhere Beweiskraft beigemessen werden als
+den schriftlichen Angaben der Rekurrentin. Dass der Geschäftsführer der
+Rekurrentin detailliertere Angaben machen könnte als die Rekurrentin in ihrer
+Rekursbegründung, erscheint ausgeschlossen. Aus den vorstehenden Gründen sind
+die Beweisanträge auf Parteibefragung in antizipierter Beweiswürdigung (vgl.
+dazu oben E. 2.5) abzuweisen.
+
+3.9 In
+den vorinstanzlichen Verfahren versuchte die Rekurrentin den Mindestumfang der
+Fremdarbeiten folgendermassen herzuleiten: Sie teilte ihren Ertrag durch einen
+Stundenansatz von CHF 55.. Davon subtrahierte sie die behauptete Anzahl der
+Arbeitsstunden ihrer eigenen Mitarbeiter. Die Differenz multiplizierte sie mit
+dem einem Stundenansatz von CHF 55. (vgl. Einsprache [STRK.2019.114 S. 4 f.];
+Rekurs vom 6. September 2019 [STRK.2019.114 S. 1 ff.] S. 1 f.). Diese
+Herleitung ist aus den folgenden Gründen zum Beweis des Umfangs der
+Fremdarbeiten nicht geeignet: Erstens ist die Anzahl der Arbeitsstunden der
+eigenen Mitarbeiter der Rekurrentin nicht bewiesen, weil sie selbst erklärt,
+dass sie einen Teil der Arbeitsrapporte ihrer Mitarbeiter nicht einreichen
+könne, weil sie nur in elektronischer Form auf dem Laptop ihres
+Geschäftsführers vorhanden gewesen seien und dieser gestohlen worden sei
+(Rekurs vom 6. September 2019 [STRK.2019.114 S. 1 ff.] S. 1 f.). Zweitens
+erzielte die Rekurrentin einen Teil ihres Ertrags mit Pauschalaufträgen und
+erbrachten ihre Subunternehmerinnen ihre Leistungen zu einem Grossteil zu
+Pauschalpreisen. Der aus den Pauschalpreisen resultierende hypothetische
+Stundenansatz ist nicht bekannt und kann erheblich über oder unter dem in der
+Herleitung der Rekurrentin verwendeten Stundenansatz von CHF 55. liegen.
+
+3.10 In
+der Veranlagungsverfügung verwies die Steuerverwaltung zur Begründung der
+Aufrechnung auf das Urteil des Verwaltungsgerichts VD.2015.149 und VD.2015.150
+vom 10. April 2017. Dieses Urteil stellt keine taugliche Begründung für die
+Aufrechnung des von der Rekurrentin verbuchten Aufwands dar, weil zwischen dem
+vorliegend zu beurteilenden und dem mit dem erwähnten Urteil beurteilten
+Sachverhalt mehrere wesentliche Unterschiede bestehen. Beispielhaft und nicht
+abschliessend seien die folgenden erwähnt: Erstens galt im mit dem Urteil vom
+10. April 2017 beurteilten Fall für die Jahresrechnung einer der
+beiden beurteilten Steuerperioden wegen schwerer formeller Mängel eine
+natürliche Vermutung der materiellen Unrichtigkeit (VGE VD.2015.149 und
+VD.2015.150 vom 10. April 2017 E. 3.2.1). Im vorliegenden Fall ist dagegen
+die materielle Richtigkeit der Buchhaltung der Rekurrentin zu vermuten (vgl.
+oben E. 3.1). Zweitens wäre es der steuerpflichtigen Person im mit dem Urteil
+vom 10. April 2017 beurteilten Fall ohne weiteres möglich gewesen, die von der
+Steuerverwaltung verlangten vollständigen und lückenlosen Arbeitsrapporte mit
+den Angaben, wer wann auf welcher Baustelle gearbeitet hat, zu beschaffen und
+einzureichen, wenn die Fremdleistungen tatsächlich in der verbuchten Höhe
+angefallen wären. Insbesondere ist nicht ersichtlich, dass die steuerpflichtige
+Person geltend gemacht hätte, sie habe mit Subunternehmerinnen Pauschalpreise
+vereinbart (vgl. VGE VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 4.3.1.2
+und 4.3.2.2). Im vorliegenden Fall hingegen war der Rekurrentin die Einreichung
+der von der Steuerverwaltung verlangten Arbeitsrapporte in den meisten Fällen
+nicht möglich, weil es solche aufgrund der Vereinbarung von Pauschalpreisen
+nicht gab (vgl. oben E. 3.3.2, 3.4.2 und 3.5.3). Drittens sollten im mit dem
+Urteil vom 10. April 2017 beurteilten Fall sämtliche Rechnungen bar
+bezahlt worden sein, obwohl für ihre Begleichung in der Kasse der
+steuerpflichtigen Person nicht ausreichend Mittel vorhanden gewesen sind (VGE
+VD.2015.149 und VD.2015.150 vom 10. April 2017 E. 4.3.2.3). Im
+vorliegenden Fall ist jedoch unbestritten, dass die Rekurrentin über die zur
+Bezahlung der Rechnungen der Subunternehmerinnen erforderlichen Mittel verfügt
+hat. Viertens wurde im mit dem Urteil vom 10. April 2017 beurteilten Fall auf
+einem Teil der Rechnungen ohne Angabe einer MWST-Nummer Mehrwertsteuer
+ausgewiesen (VGE VD.2015.149 und VD.2015.150 vom 10. April 2017 E.
+4.3.2.3). Diese Unregelmässigkeit war unmittelbar aus den Rechnungen
+ersichtlich. Die Tatsache, dass im vorliegenden Fall eine Subunternehmerin
+unter Angabe ihrer korrekten MWST-Nummer Mehrwertsteuer ausgewiesen hat, obwohl
+sie nicht mehr im Register der steuerpflichtigen Personen eingetragen gewesen
+ist, ist aufgrund der Rechnungen dagegen nicht erkennbar.
+
+3.11 Aus
+den vorstehenden Erwägungen folgt, dass der in der Erfolgsrechnung der
+Rekurrentin für das Jahr 2016 verbuchte Aufwand für Fremdleistungen von
+CHF 281'885. entgegen der Ansicht der Steuerverwaltung und der
+Steuerrekurskommission nicht bloss im Umfang von CHF 11'620., sondern im
+Umfang von abgerundet CHF 127'190. geschäftsmässig begründet ist und
+daher nicht im Umfang von CHF 270'265., sondern bloss im Umfang von CHF 154'695.
+als nicht geschäftsmässig begründet aufzurechnen ist.
+
+4.
+
+4.1
+
+4.1.1 Gemäss
+der Veranlagungsverfügung und dem Einspracheentscheid der Steuerverwaltung
+sowie den angefochtenen Entscheiden der Steuerrekurskommission sind für die
+Steuerperiode 2016 geschäftsmässig nicht begründete Aufwendungen von CHF
+270'265. aufzurechnen. Die Rekurrentin beantragt sinngemäss, dass keine
+geschäftsmässig nicht begründeten Aufwendungen aufgerechnet werden. Gemäss dem
+vorliegenden Entscheid sind geschäftsmässig nicht begründete Aufwendungen von
+CHF 154'695. aufzurechnen. Damit obsiegt die Rekurrentin im Umfang von rund der
+Hälfte und unterliegt sie im Umfang von rund der Hälfte. Daher hat die
+Rekurrentin die Hälfte der ordentlichen Kosten des Rekurs- und des
+Beschwerdeverfahrens vor der Steuerrekurskommission sowie des Rekurs- und
+Beschwerdeverfahrens vor dem Verwaltungsgericht zu tragen und hat die
+Steuerverwaltung der Rekurrentin für das Rekurs- und Beschwerdeverfahren vor
+dem Verwaltungsgericht die Hälfte einer vollen Parteientschädigung zu bezahlen.
+
+4.1.2 Mit
+ihrem Rekurs und ihrer Beschwerde vom 22. Juli 2021 beantragt die Rekurrentin
+auch für die Verfahren vor der Steuerverwaltung und der Steuerrekurskommission
+Parteientschädigungen. Für das Einspracheverfahren vor der Steuerverwaltung
+besteht mangels gesetzlicher Grundlage kein Anspruch auf Parteientschädigung
+(vgl. Weihrauch , in: Tarolli
+Schmidt et al. [Hrsg.], Kommentar zum Basler Steuergesetz, Basel 2019, § 163 N
+2; Zweifel/Hunziker , a.a.O., Art.
+135 DBG N 28). Für das Rekurs- und Beschwerdeverfahren vor der
+Steuerrekurskommission kann der ganz oder teilweise obsiegenden Partei von
+Amtes wegen oder auf Begehren für die notwendigen und verhältnismässigen Kosten
+der Vertretung zu Lasten der Steuerverwaltung eine Parteientschädigung
+zugesprochen werden (vgl. § 170 Abs. 3 StG; Art. 144 Abs. 4 DBG in Verbindung
+mit Art. 64 Abs. 1 VwVG; Sarasin ,
+in: Tarolli Schmidt et al. [Hrsg.], Kommentar zum Basler Steuergesetz, Basel
+2019, § 170 N 6). Die Kosten der Vertretung umfassen das Anwaltshonorar oder
+die Entschädigung für eine nichtanwaltliche berufsmässige Vertretung (vgl. Beusch , in: Auer et al. [Hrsg.], VwVG
+Kommentar, 2. Auflage, Zürich 2019, Art. 64 N 13; Maillard , in: Waldmann/Weissenberger [Hrsg.],
+Praxiskommentar Verwaltungsverfahrensgesetz, 2. Auflage, Zürich 2016,
+Art. 64 N 35; Sarasin ,
+a.a.O., § 170 N 7). Wenn die entsprechenden gesetzlichen Voraussetzungen
+erfüllt sind, besteht ein Anspruch auf Parteientschädigung (BGer 2C_846/2013
+vom 28. April 2014 E. 3.3; Sarasin ,
+a.a.O., § 170 N 6). Im Rekurs- und im Beschwerdeverfahren vor der
+Steuerrekurskommission wurde die Rekurrentin von der [...] AG vertreten. Unter
+diesen Umständen ist davon auszugehen, dass die Rekurrentin berufsmässig
+vertreten worden ist und dass ihr Vertretungskosten entstanden sind. Folglich
+hat die Steuerverwaltung der Rekurrentin auch für das Rekurs- und das
+Beschwerdeverfahren vor der Steuerrekurskommission die Hälfte einer vollen
+Parteientschädigung zu bezahlen. Die Tatsache, dass die Rekurrentin im Rekurs-
+und im Beschwerdeverfahren vor der Steuerrekurskommission noch keinen Antrag
+auf Zusprechung einer Parteientschädigung gestellt hat, ändert daran nichts,
+weil die Parteientschädigung wie bereits erwähnt auch von Amtes wegen
+zugesprochen werden kann.
+
+4.2
+
+4.2.1 Die
+ordentlichen Kosten des Rekurs- und des Beschwerdeverfahrens wurden von der
+Steuerrekurskommission auf je CHF 900. festgesetzt. Die Höhe dieser Kosten
+wird von der Rekurrentin nicht beanstandet. Unter diesen Umständen ist ohne
+weiteres von ordentlichen Kosten von je CHF 900. auszugehen. Davon hat
+die Rekurrentin je die Hälfte entsprechend je CHF 450. zu tragen.
+
+4.2.2 Der
+für die Bemessung der Parteientschädigung massgebende Stundenansatz beträgt für
+Anwältinnen und Anwälte nach der Praxis des Appellationsgerichts in der Regel
+CHF 250.. Für nichtanwaltliche Vertreterinnen und Vertreter ist von einem
+Stundenansatz von etwa der Hälfte (vgl. Beusch ,
+a.a.O., Art. 64 N 13; Maillard ,
+a.a.O., Art. 64 N 41) und damit CHF 125. auszugehen. Der Vertretungsaufwand
+für das Rekurs- und das Beschwerdeverfahren vor der Steuerrekurskommission ist
+mangels Angaben der Rekurrentin zu schätzen. Die Vertreterin der Rekurrentin
+reichte betreffend die Steuern für das Steuerjahr 2016, die Gegenstand des
+Rekurs- und des Beschwerdeverfahrens STRK.2019.114 und STRK.2019.115 bilden,
+und betreffend die Steuern für das Steuerjahr 2017, die Gegenstand des Rekurs-
+und des Beschwerdeverfahrens STRK.2019.116 und STRK.2019.117 bilden, eine
+einzige als Rekurs bezeichnete Rechtsmittelschrift vom 6. September 2019 ein.
+Zudem ersuchte sie mit vier separaten Eingaben vom 8. September 2020 um schriftliche
+Begründung der vier Entscheide der Steuerrekurskommission. Insgesamt ist dafür
+von einem geschätzten Aufwand von knapp acht Stunden auszugehen. Dies ergibt
+einschliesslich der notwendigen Auslagen einen Vertretungsaufwand von CHF
+1'000.. Dieser ist hälftig auf das Rekurs- und das Beschwerdeverfahren
+STRK.2019.114 und STRK.2019.115 einerseits und das Rekurs- und das
+Beschwerdeverfahren STRK.2019.116 und STRK.2019.117 andererseits aufzuteilen.
+Folglich beträgt eine volle Parteientschädigung für das Rekurs- und das
+Beschwerdeverfahren STRK.2019.114 und STRK.2019.115 CHF 500.. Davon hat die
+Steuerverwaltung der Rekurrentin die Hälfte entsprechend CHF 250. zu bezahlen.
+
+4.3
+
+4.3.1 Die
+Gerichtskosten des verwaltungsgerichtlichen Rekurs- und Beschwerdeverfahrens
+werden in Anwendung von § 23 Abs. 2 des Gerichtsgebührenreglements (GGR, SG
+154.810) unter Berücksichtigung des jeweiligen Streitwerts auf CHF 2'000.
+und CHF 1'500. festgesetzt. Davon hat die Rekurrentin je die Hälfte
+entsprechend CHF 1000. und CHF 750. zu tragen.
+
+4.3.2 Für
+die Bemessung der Parteientschädigung für das verwaltungsgerichtliche Rekurs-
+und Beschwerdeverfahren gilt das Honorarreglement (HoR, SG 291.400; vgl. zum
+intertemporalen Recht § 26 Abs. 2 HoR). Das Honorar bemisst sich nach dem
+Zeitaufwand.
+
+Die Rekurrentin
+reichte beim Verwaltungsgericht die folgenden Rechtsmittel ein: Rekurs vom 22.
+Juli 2021 gegen den Entscheid der Steuerrekurskommission STRK.2019.114 vom 27.
+August 2020 betreffend kantonale Steuern pro 2016, Beschwerde vom 22. Juli 2021
+gegen den Entscheid der Steuerrekurskommission STRK.2019.115 vom 27. August
+2020 betreffend direkte Bundessteuer pro 2016, Rekurs vom 22. Juli 2021 gegen
+den Entscheid der Steuerrekurskommission STRK.2019.116 vom 27. August 2020
+betreffend kantonale Steuern pro 2017 und Beschwerde vom 22. Juli 2021 gegen
+den Entscheid der Steuerrekurskommission STRK.2019.117 vom 27. August 2020
+betreffend direkte Bundessteuer pro 2017. Die beiden Rechtsmittel betreffend
+das Steuerjahr 2016 werden im Rekurs- und Beschwerdeverfahren VD.2021.151 und
+VD.2021.152 behandelt und die beiden Rechtsmittel betreffend das Steuerjahr
+2017 im Rekurs- und Beschwerdeverfahren VD.2021.153 und VD.2021.154. Soweit bei
+summarischer Prüfung ersichtlich sind der Rekurs und die Beschwerde abgesehen
+von den Bezeichnungen des Rechtsmittels und der Parteien jeweils identisch.
+Auch die Rechtsmittel betreffend die Steuerperiode 2016 einerseits und
+diejenigen betreffend die Steuerperiode 2017 andererseits unterscheiden sich
+nur marginal (vgl. insb. Rechtsbegehren und Ziff. 6 f.). Mit Eingabe vom 29.
+Oktober 2021 reichte der Rechtsvertreter der Rekurrentin Honorarnoten vom 30.
+April und 29. Oktober 2021 ein mit der Erklärung, diese umfassten den gesamten
+Aufwand für alle vier vorstehend erwähnten Verfahren.
+
+Mit der
+Honorarnote vom 30. April 2021 macht der Rechtsvertreter der Rekurrentin einen
+Zeitaufwand von 1.5 Stunden sowie Auslagen für 20 Kopien und Porto geltend.
+Dieser Aufwand betrifft die folgenden Bemühungen vom 19., 20., 22. und 26.
+April 2021: «Tel mit Klient, Durchsicht Unterlagen, Aktenstudium, E-Mail Korr
+(40 Min.)», «Brief an Steuerverwaltung und Aktenstudium / E-Mail Korr (35
+Min.)», «Tel von StV (5 Min.)» und «Tel mit Klient & E-Mail (10 Min.)». Was
+diese Bemühungen mit den Rekurs- und Beschwerdeverfahren STRK.2019.114-117 oder
+VD.2021.151-154 zu tun haben könnten, ist nicht nachvollziehbar. Der Umstand,
+dass mehrmals die Steuerverwaltung erwähnt wird, deutet vielmehr darauf hin,
+dass sie ein erstinstanzliches Verfahren betreffen. Dafür, dass die Bemühungen
+kein Rekurs- oder Beschwerdeverfahren betreffen, spricht schliesslich auch die
+Tatsache, dass auf der Honorarnote vom 30. April 2021 anders als auf der
+Honorarnote vom 29. Oktober 2021 keine Verfahrensnummer erwähnt wird. Im
+Übrigen ist nicht ersichtlich, weshalb die Bemühungen zur Wahrung der
+Interessen der Rekurrentin in den Rekurs- und Beschwerdeverfahren erforderlich
+gewesen sein könnten. Die Entscheide der Steuerrekurskommission vom 27. August
+2020 wurden den Parteien ohne Begründung mitgeteilt. Mit Eingaben vom 8.
+September 2020 ersuchte die bisherige Vertreterin der Rekurrentin um
+schriftliche Begründung der Entscheide. Die schriftliche Begründung lag im
+April 2021 noch nicht vor. Unter diesen Umständen ist nicht nachvollziehbar,
+weshalb die erwähnten Bemühungen des Rechtsvertreters der Rekurrentin zur
+Wahrung ihrer Interessen in den Rekurs- und Beschwerdeverfahren erforderlich
+gewesen sein könnten. Aus den vorstehenden Gründen sind die mit der Honorarnote
+vom 30. April 2021 geltend gemachten Bemühungen bei der Bemessung der
+Parteientschädigung nicht zu berücksichtigen.
+
+Mit der
+Honorarnote vom 29. Oktober 2021 macht der Rechtsvertreter der Rekurrentin
+einen Zeitaufwand von 26.92 Stunden geltend. Die entsprechenden Bemühungen
+betreffen erkennbar die Rekurs- und Beschwerdeverfahren und der dafür geltend
+gemachte Aufwand erscheint grundsätzlich erforderlich und angemessen. Dies gilt
+insbesondere auch für die unter dem Datum 29. Oktober 2021 erwähnte Bemühung
+«Studium Urteile / Bspr mit Klient etc. (60 Min.)». Dabei handelt es sich
+offensichtlich um den antizipierten Aufwand für das Studium der Urteile des
+Verwaltungsgerichts in den Rekurs- und Beschwerdeverfahren VD.2021.151 und
+VD.2021.152 sowie VD.2021.153 und VD.2021.154 und deren Besprechung mit der
+Rekurrentin. Unnötig ist allerdings der unter dem Datum 15. Juli 2021 für
+«Abholen Akten bei StRK etc. (30 Min.)» geltend gemachte Zeitaufwand. Die
+Steuerrekurskommission stellte die Akten dem Rechtsvertreter der Rekurrentin auf
+einem USB-Memory-Stick zur Verfügung (vgl. Schreiben vom 15. Juli 2021). Diesen
+hätte er sich ohne weiteres auch per Post zustellen lassen können. Daher ist
+insgesamt bloss ein Aufwand von 26.42 Stunden zu berücksichtigen. Der Bemessung
+der Parteientschädigung wird praxisgemäss ein Stundenansatz von CHF 250. zugrunde
+gelegt (statt vieler VGE VD.2018.170 und VD.2018.171 vom 7. Juni 2019 E.
+3.2.2.2). Besondere Umstände, die ausnahmsweise die Berücksichtigung des mit
+der Honorarnote vom 29. Oktober 2021 geltend gemachten Stundenansatzes von
+CHF 275. rechtfertigen könnten, werden nicht geltend gemacht und sind nicht
+ersichtlich. Als Auslagen macht der Rechtsvertreter der Rekurrentin mit der
+Honorarnote vom 29. Oktober 2021 Fahrspesen für 10 km zu CHF 0.70,
+473 Kopien zu CHF 0.50 und Porto von CHF 35. geltend. Die Fahrspesen betreffen
+offensichtlich das Abholen des USB-Memory-Sticks mit den Akten. Diese Auslagen
+sind unnötig, weil sich der Rechtsvertreter der Rekurrentin den
+USB-Memory-Stick hätte per Post zustellen lassen können. Sie sind daher nicht
+zu berücksichtigen. Die Auslagen für Kopien und Porto können gemäss der HoR
+nicht separat in Rechnung gestellt werden. Für Telefonate, Porti, Kopien usw.
+kann eine Pauschale von maximal 3 % des Honorars, mindestens aber CHF 30., in
+Rechnung gestellt werden (§ 23 Abs. 1 HoR). Separat in Rechnung gestellt werden
+können nur ausserordentliche Auslagen (vgl. § 23 Abs. 2 HoR). Um solche
+handelt es sich bei den Kopien und dem Porto offensichtlich nicht. Statt der
+geltend gemachten Auslagen wird daher eine Pauschale von 3 % des Honorars
+berücksichtigt. Aus den vorstehenden Gründen sind für die Bemessung der
+Parteientschädigung Anwaltskosten von insgesamt CHF 6'803. (26.42 Stunden x
+CHF 250. + 3/100 x CHF 6'605. = CHF 6'803.15) zu berücksichtigen. Diese sind
+hälftig auf das Rekurs- und Beschwerdeverfahren VD.2021.151 und VD.2021.152
+einerseits und das Rekurs- und Beschwerdeverfahren VD.2021.153 und VD.2021.154
+andererseits aufzuteilen. Folglich beträgt eine volle Parteientschädigung für
+das Rekurs- und Beschwerdeverfahren VD.2021.151 und VD.2021.152 CHF 3'402..
+Davon hat die Steuerverwaltung der Rekurrentin die Hälfte entsprechend CHF 1701.
+zu bezahlen.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        In teilweiser Gutheissung des Rekurses
+und der Beschwerde werden die Entscheide der Steuerrekurskommission
+STRK.2019.114 und STRK.2019.115 vom 27. August 2020 aufgehoben.
+
+Es wird festgestellt, dass für die Steuerperiode 2016 geschäftsmässig
+nicht begründete Aufwendungen von CHF 154'695. aufzurechnen sind.
+
+Die Sache wird zur neuen Festsetzung der Steuerbeträge an die
+Steuerverwaltung zurückgewiesen.
+
+Im Übrigen werden der Rekurs und die Beschwerde abgewiesen.
+
+Die Rekurrentin und Beschwerdeführerin trägt die Kosten des Rekurs- und
+des Beschwerdeverfahrens vor der Steuerrekurskommission mit einer reduzierten
+Gebühr von insgesamt CHF 900. (CHF 450. für das Verfahren STRK.2019.114
+und CHF 450. für das Verfahren STRK.2019.115) sowie die Kosten des Rekurs-
+und Beschwerdeverfahrens vor dem Verwaltungsgericht mit einer reduzierten
+Gebühr von insgesamt CHF 1750. (CHF 1000. für das Verfahren
+VD.2021.151 und CHF 750. für das Verfahren VD.2021.152). Die geleisteten
+Kostenvorschüsse werden der Rekurrentin und Beschwerdeführerin im Umfang von
+insgesamt CHF 900. (CHF 450. für das Verfahren STRK.2019.114 und CHF 450.
+für das Verfahren STRK.2019.115) von der Steuerrekurskommission und im Umfang
+von insgesamt CHF 1750. (CHF 1'000. für das Verfahren VD.2021.151 und
+CHF 750. für das Verfahren VD.2021.152) vom Verwaltungsgericht
+zurückerstattet.
+
+Die Steuerverwaltung hat der Rekurrentin und Beschwerdeführerin für das
+Rekurs- und das Beschwerdeverfahren vor der Steuerrekurskommission eine
+reduzierte Parteientschädigung von insgesamt CHF 250., einschliesslich
+Auslagen und zuzüglich 7,7 % MWST von CHF 19.25, und für das Rekurs- und
+Beschwerdeverfahren vor dem Verwaltungsgericht eine reduzierte
+Parteientschädigung von insgesamt CHF 1701., einschliesslich Auslagen und
+zuzüglich 7,7 % MWST von CHF 131., zu bezahlen.
+
+Mitteilung an:
+
+- Rekurrentin
+
+- Steuerverwaltung Basel-Stadt
+
+- Steuerrekurskommission Basel-Stadt
+
+- Eidgenössische Steuerverwaltung
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+MLaw Frédéric Barth
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
