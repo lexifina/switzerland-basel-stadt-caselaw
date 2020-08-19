@@ -1,0 +1,300 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.284"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2022.19"
+docket_2: "AG.2022.284"
+decided: "2020-08-19"
+published: "2022-04-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73404&W10_KEY=3052840&nTrefferzeile=658&Template=search_result_document.html"
+cites_decisions: ["AB.2020.72", "AB.2021.11"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-036.md", "switzerland/bund/acts/281.1/art-115.md"]
+---
+
+# Verlustschein
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Obere Aufsichtsbehörde über
+ das
+
+Betreibungs- und Konkursamt
+
+BEZ.2022.19
+
+BEZ.2022.24
+
+ENTSCHEID
+
+vom 27.
+April 2022
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und a.o.
+Gerichtsschreiberin Dr. Laura Macula
+
+Beteiligte
+
+A____ Beschwerdeführerin
+
+c/o
+B____ ,
+
+[...]
+
+gegen
+
+Betreibungsamt Basel-Stadt Beschwerdegegner
+
+Aeschenvorstadt 56, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen Entscheide
+der unteren Aufsichtsbehörde
+
+über das Betreibungs- und
+Konkursamt vom 18. Januar 2022 und 19. Januar 2022
+
+betreffend Verlustschein
+
+Sachverhalt
+
+Gestützt auf
+einen Entscheid des Appellationsgerichts des Kantons Basel-Stadt vom 22. Februar
+2019 (Verfahren BEZ.2019.1) setzte der Kanton Basel-Stadt (Gläubiger) mit
+Zahlungsbefehl Nr. [...] des Betreibungsamts Basel-Stadt vom 8. November 2019
+gegen die A____ (Beschwerdeführerin) eine Forderung von CHF 200. sowie
+Mahngebühren von CHF 40. jeweils zuzüglich Zins zu 5 % seit 14. Juni
+2019 in Betreibung. Der Zahlungsbefehl wurde der Beschwerdeführerin am 18. November
+2019 zugestellt. Die Beschwerdeführerin erhob Rechtsvorschlag.
+
+Mit Entscheid
+vom 19. August 2020 erteilte das Zivilgericht Basel-Stadt in der genannten
+Betreibung die definitive Rechtsöffnung für CHF 200. nebst Zins zu 5 %
+seit 14. Juni 2019 (Verfahren V.2020.581). Dieser Entscheid wurde am 19. August
+2020 an die Beschwerdeführerin versandt und aufgrund eines von ihr eingerichteten
+Zurückbehaltungsauftrags an das Zivilgericht retourniert. Am 16. September 2020
+wurde der Entscheid noch einmal an die Beschwerdeführerin versandt und dieser
+am 23. September 2020 auch zugestellt. Am 5. Oktober 2020 ersuchte die
+Beschwerdeführerin um schriftliche Entscheidbegründung. Am 30. November
+2020 wurde ihr der begründete Entscheid zugestellt, gegen den sie am
+10. Dezember 2020 Beschwerde am Appellationsgericht erhob. Das
+Appellationsgericht trat mit Entscheid AGE BEZ.2020.61 vom 4. März
+2021 nicht auf die Beschwerde ein. Dieser Entscheid wurde der
+Beschwerdeführerin am 19. April 2021 zugestellt.
+
+Mit Eingabe vom
+3. November 2020 stellte der Gläubiger im Umfang der erteilten Rechtsöffnung
+das Fortsetzungsbegehren in der genannten Betreibung. Daraufhin teilte das
+Betreibungsamt der Beschwerdeführerin am 6. November 2020 den Pfändungsanschluss
+der genannten Betreibung an die Pfändung Nr. [...] mit. Diese Mitteilung wurde
+der Beschwerdeführerin am 11. November 2020 per A-Post Plus zugestellt. Die
+Beschwerdeführerin wandte sich mit Schreiben vom 2. Dezember 2020 an das
+Betreibungsamt und erklärte unter anderem, sie habe von einer Betreibung Nr. [...]
+keine Kenntnis. Aus anderen Gründen teilte das Betreibungsamt der
+Beschwerdeführerin mit Schreiben vom 4. Dezember 2020 mit, dass die
+Anschlussmeldung vom 6. November 2020 hinfällig geworden sei und sie in der streitbezogenen
+Betreibung Nr. [...] eine neue Pfändungsankündigung/Vorladung erhalten werde.
+Diese Vorladung und Pfändungsankündigung vom 9. Dezember 2020 auf den 15.
+Dezember 2020 wurde der Beschwerdeführerin am 10. Dezember 2020 per A-Post Plus
+zugestellt.
+
+Anlässlich der
+Einvernahme am 15. Dezember 2020 erklärte die Beschwerdeführerin, keinerlei
+Aktiven zu besitzen. Die einzige Geschäftsführerin und Gesellschafterin der
+Beschwerdeführerin erklärte zudem, dass folgende Gegenstände sich nicht in
+ihrem Gewahrsam, sondern seit 1988 in Gewahrsam des Betreibungsamts Basel-Stadt
+befinden würden: «Klavier Marke Burger&Jacobi (Wert: Fr. 4000.),
+Fernseher Marke Phillips, HiFi-Anlage Marke Grundig(?), Briefmarkensammlung und
+weitere Gegenstände ohne Wertangabe». Auch erklärte sie, die Betreibung Nr. [...]
+nicht zu anerkennen, da ein Beschwerdeverfahren vom 10. Dezember 2020 vor dem
+Appellationsgericht rechtshängig sei. Sodann bat die Beschwerdeführerin das
+Betreibungsamt mit Schreiben vom 15. Dezember 2020 um Akteneinsicht in der
+genannten Betreibung. Dem wurde mit Schreiben vom 16. Dezember 2020
+entsprochen. In diesem Schreiben führte das Betreibungsamt zudem aus, dass auf
+den Hinweis der Beschwerdeführerin betreffend Wertgegenstände (Klavier etc.),
+welche sich seit 1988 im Gewahrsam des Betreibungsamts befinden sollten,
+infolge Verjährung nicht eingegangen werden könne.
+
+Mit Eingabe vom
+30. Dezember 2020 wandte sich die Beschwerdeführerin mit Bezug auf das
+Schreiben des Betreibungsamts vom 16. Dezember 2020 an die untere Aufsichtsbehörde
+über das Betreibungs- und Konkursamt Basel-Stadt. Darin beantragte sie, es sei
+die Pfändung vom 15. Dezember 2020 auf ihre Rechtmässigkeit zu überprüfen im
+Sinn des laufenden Beschwerdeverfahrens vom 10. Dezember 2020 am Appellationsgericht
+Basel-Stadt. Zudem sei zu erkennen, dass der Rechtsöffnungsentscheid des
+Einzelgerichts in Zivilsachen Basel-Stadt vom 19. August 2020 nicht als
+rechtskräftig deklariert werde, weshalb auch das Fortsetzungsbegehren des
+Appellationsgerichts Basel-Stadt einer Rechtsgrundlage entbehre. Weiter sei der
+Vertreterin der Beschwerdeführerin darzulegen, auf welcher Rechtsgrundlage ihre
+Angaben zu den Wertgegenständen (Klavier etc.), die sich nicht in ihrem
+Gewahrsam befinden würden, verjährt sein sollten. Das auf dieser Beschwerde
+basierende Verfahren wurde von der unteren Aufsichtsbehörde unter der
+Verfahrensnummer AB.2020.72 geführt.
+
+Am 8. Januar
+2021 stellte das Betreibungsamt in der Betreibung Nr. [...] die
+Pfändungsurkunde (Verlustschein Nr. [...]) nach Art. 115 SchKG aus. Die Beschwerdeführerin
+erhielt die Pfändungsurkunde am 15. Januar 2021. Am 25. Januar 2021 reichte sie
+beim Betreibungsamt mit Hinweis auf des Verfahren AB.2020.72 ein als
+«Einsprache» gegen den genannten Verlustschein bezeichnetes Schreiben ein. Mit
+Verfügung vom 27. Januar 2021 wies das Betreibungsamt diese «Einsprache» ab.
+Mit Eingabe vom 15. Februar 2021 beantragte die Beschwerdeführerin bei der
+unteren Aufsichtsbehörde, der Verlustschein Nr. [...] vom 8. Januar 2021 sei
+aufzuheben. Das entsprechende Beschwerdeverfahren wurde von der unteren
+Aufsichtsbehörde unter der Verfahrensnummer AB.2021.11 geführt.
+
+Mit Entscheiden
+vom 18. Januar bzw. 19. Januar 2022 wies die untere Aufsichtsbehörde die
+Beschwerden vom 30. Dezember 2020 (AB.2020.72) bzw. vom 15. Februar 2021
+(AB.2021.11) ab.
+
+Mit Schreiben
+vom 2. Februar 2022 erhob die Beschwerdeführerin gegen beide Entscheide der
+unteren Aufsichtsbehörde Beschwerde bei der oberen Aufsichtsbehörde über das
+Betreibungs- und Konkursamt Basel-Stadt und beantragte in beiden Beschwerden
+übereinstimmend, es seien die angefochtenen Entscheide aufzuheben und es sei
+der Verlustschein Nr. [...] in der Betreibung Nr. [...] «so lange für ungültig
+zu erklären, bis über eine Beschwerde am Appellationsgericht BEZ.2020.61 nicht abschliessend entschieden» werde. Auf die Einholung von Stellungnahmen ist verzichtet worden.
+Der vorliegende Entscheid ist unter Beizug der Vorakten auf dem Zirkulationsweg
+ergangen.
+
+Erwägungen
+
+1.
+
+1.1 Entscheide
+der unteren Aufsichtsbehörde können innert 10 Tagen nach der Eröffnung an die
+obere Aufsichtsbehörde weitergezogen werden (Art. 18 Abs. 1 des
+Bundesgesetzes über Schuldbetreibung und Konkurs [SchKG, SR 281.1]). Die
+angefochtenen Entscheide in den beiden Verfahren AB.2020.72 und AB.2021.11
+wurden der Beschwerdeführerin am 27. Januar 2022 zugestellt. Die
+Beschwerdeerhebung am Montag, 7. Februar 2022, erfolgte innert Frist. Als obere
+Aufsichtsbehörde amtet ein Dreiergericht des Appellationsgerichts (§ 92
+Abs. 1 Ziff. 13 des Gesetzes betreffend die Organisation der Gerichte
+und der Staatsanwaltschaft [GOG, SG 154.100]).
+
+1.2 Das
+Verfahren richtet sich nach Art. 20a SchKG. Im Übrigen gelten die
+Vorschriften der Schweizerischen Zivilprozessordnung (ZPO, SR 272)
+sinngemäss (§ 5 Abs. 4 des Gesetzes betreffend Einführung des
+Bundesgesetzes über Schuldbetreibung und Konkurs [EG SchKG], SG 230.100),
+insbesondere die Bestimmungen von Art. 319 ff. ZPO über das
+Beschwerdeverfahren. Die Aufsichtsbehörde stellt den
+Sachverhalt von Amtes wegen fest und würdigt die Beweise frei. Unter Vorbehalt
+von Art. 22 SchKG betreffend nichtige Verfügungen darf sie nicht über die
+Anträge der Parteien hinausgehen (Art. 20a Abs. 2 Ziff. 2 und 3 SchKG).
+Mit der Beschwerde an die obere Aufsichtsbehörde können
+keine neuen Anträge gestellt, keine neuen Tatsachenbehauptungen vorgetragen und
+keine neuen Beweismittel vorgelegt werden (Art. 326 Abs. 1 ZPO).
+
+1.3 Im
+Entscheid vom 18. Januar 2022 (AB.2020.72) hat die untere Aufsichtsbehörde über
+die Anträge der Beschwerdeführerin in der Beschwerde vom 30. Dezember 2020
+entschieden. Diese bezogen sich nicht auf die erst am 8. Januar 2021 erfolgte
+Ausstellung der Pfändungsurkunde nach Art. 115 SchKG (Verlustschein Nr. [...]).
+Bei dem in der vorliegenden Beschwerde erhobenen Antrag, es sei der genannte
+Verlustschein für ungültig zu erklären, handelt es sich daher in Bezug auf das
+Verfahren AB.2020.72 um einen im Beschwerdeverfahren nicht zulässigen neuen
+Antrag. Die Beschwerdeführerin führt in ihrer Beschwerde vom 2. Februar 2022 denn
+auch selbst aus, dass sie zum «ebenfalls angefochtenen Entscheid AB.2020.72
+nicht weiter argumentieren» werde. Auf die Beschwerde gegen den entsprechenden
+Entscheid vom 18. Januar 2022 (AB.2020.72) ist daher nicht einzutreten.
+
+2.
+
+2.1 Einzutreten
+ist hingegen auf die Beschwerde gegen den Entscheid der unteren
+Aufsichtsbehörde vom 19. Januar 2022 (AB.2021.11), da sich die darin behandelte
+Beschwerde bereits gegen die Gültigkeit des vorgenannten Verlustscheins
+richtete. Die untere Aufsichtsbehörde hat darin ausgeführt, dass gemäss
+Art. 36 SchKG eine Beschwerde nur auf besondere Anordnung der Behörde, an
+welche sie gerichtet sei, oder ihres Präsidenten aufschiebende Wirkung habe. Da
+der gegen das Pfändungsverfahren gerichteten Beschwerde (AB.2020.72) keine
+aufschiebende Wirkung erteilt worden sei, hätte das Betreibungsamt entgegen den
+anderslautenden Vorbringen der Beschwerdeführerin nicht mit dem Ausstellen des
+Verlustscheins zuwarten müssen (angefochtener Entscheid, E. 2).
+
+2.2 Die
+Beschwerdeführerin setzt sich in ihrer Beschwerde vom 2. Februar 2022 mit den
+zutreffenden Ausführungen der unteren Aufsichtsbehörde in keiner Weise
+auseinander. Sie macht lediglich geltend, dass sie ein rechtlich geschütztes
+Interesse daran habe, die Anfechtung des Verlustscheins aufrechtzuerhalten,
+solange über die Beschwerde BEZ.2020.61 gegen das Rechtsöffnungsverfahren nach
+Art. 319 ff. ZPO nicht abschliessend befunden worden sei. Die
+Beschwerdeführerin hat in ihrer im vorinstanzlichen Verfahren (AB.2021.11)
+eingereichten Beschwerde aber selbst ausgeführt, dass die Frage der
+Rechtmässigkeit der Einleitung der Pfändung Gegenstand der Beschwerde vom 30.
+Dezember 2020 und somit des entsprechenden Beschwerdeverfahrens (AB.2020.72)
+gewesen sei. Da auf die gegen den entsprechenden Entscheid vom 18. Januar 2022 eingereichte
+Beschwerde gemäss den obigen Ausführungen nicht eingetreten werden kann, können
+die darin behandelten Vorbringen der Beschwerdeführerin auch nicht mehr im
+vorliegenden Beschwerdeverfahren gegen den Entscheid vom 19. Januar 2022 vorgebracht
+bzw. behandelt werden.
+
+Lediglich
+ergänzend ist darauf hinzuweisen, dass der von der Beschwerdeführerin im
+Rechtsöffnungsverfahren erhobenen Beschwerde (BEZ.2020.61) keine aufschiebende
+Wirkung zukam und dass das Betreibungsamt daher zu Recht die Pfändung vollzogen
+sowie den Verlustschein ausgestellt hat.
+
+3.
+
+Aus den
+vorgenannten Gründen ist die Beschwerde gegen den Entscheid vom 19. Januar
+2022 (AB.2021.11) abzuweisen und auf die Beschwerde gegen den Entscheid vom 18.
+Januar 2022 (AB.2020.72) nicht einzutreten. Das Beschwerdeverfahren ist gemäss
+Art. 20a Abs. 2 Ziff. 5 SchKG grundsätzlich kostenlos.
+
+Demgemäss
+erkennt die obere Aufsichtsbehörde:
+
+://:        Auf die Beschwerde gegen den Entscheid
+der unteren Aufsichtsbehörde über das Betreibungs- und Konkursamt vom 18.
+Januar 2022 (AB.2020.72) wird nicht eingetreten.
+
+Die Beschwerde gegen den Entscheid der unteren Aufsichtsbehörde über das Betreibungs- und Konkursamt vom 19.
+Januar 2022 (AB.2021.11) wird abgewiesen.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Betreibungsamt Basel-Stadt
+
+- Untere Aufsichtsbehörde über das Betreibungs- und Konkursamt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die a.o. Gerichtsschreiberin
+
+Dr. Laura Macula
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 10 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
