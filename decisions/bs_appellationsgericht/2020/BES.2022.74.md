@@ -1,0 +1,224 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.437"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2022.74"
+docket_2: "AG.2022.437"
+decided: "2020-12-04"
+published: "2022-07-06"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73714&W10_KEY=3052840&nTrefferzeile=567&Template=search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.01/art-095.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2022.74
+
+ENTSCHEID
+
+vom 6.
+Juli 2022
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiberin
+lic. iur. Barbara Noser Dussy
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+[...]                                                                                          Beschuldigter
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+vom 10. Mai 2022
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Mit Strafbefehl
+der Staatsanwaltschaft Basel-Stadt vom 7. Februar 2022 wurde A____
+(nachfolgend: Beschwerdeführer) des Führens eines Motorfahrzeugs trotz
+Verweigerung, Entzug oder Aberkennung des Ausweises schuldig erklärt. Eine
+gegen ihn am 6. November 2018 von der Staatsanwaltschaft Brugg-Zurzach bedingt
+ausgesprochene Geldstrafe von 20 Tagessätzen zu CHF 30., Probezeit 2 Jahre
+(durch Urteil vom 4. Dezember 2020 um 1 Jahr verlängert), wurde vollziehbar
+erklärt und der Beschwerdeführer wurde zu einer unbedingt vollziehbaren Gesamtstrafe
+von 50 Tagessätzen Geldstrafe zu CHF 30. verurteilt. Es wurden ihm zudem eine
+Abschlussgebühr von CHF 200. und Auslagen von CHF 158. auferlegt.
+
+Mit Schreiben
+vom 19. Februar 2022 (Aufgabe bei der Deutschen Post am 27. April 2022, Ankunft
+bei der Schweizerischen Grenzpoststelle am 30. April 2022) erhob der
+Beschwerdeführer Einsprache gegen den Strafbefehl. Am 2. Mai 2022 überwies die
+Staatsanwaltschaft die Einsprache mit dem Hinweis, dass sie am Strafbefehl
+festhalte, zuständigerweise an das Strafgericht Basel-Stadt. Mit Verfügung vom 10.
+Mai 2022 trat das Einzelgericht in Strafsachen nicht auf die Einsprache ein, da
+diese verspätet eingereicht worden sei.
+
+Gegen diese
+Verfügung richtet sich die am Beschwerde vom 17. Mai 2022, mit der der
+Beschwerdeführer geltend macht, dass er die Strafe bereits bezahlt habe und
+nicht verstehe, warum er erneut eine hohe Summe bezahlen solle. Ausserdem lebe
+er wegen seiner körperlichen Beeinträchtigung vom Krankentaggeld und sei nicht
+in der Lage, eine hohe Summe erneut zu bezahlen. Er beantragt daher die
+Aufhebung des «Bescheids».
+
+Der
+Verfahrensleiter des Appellationsgerichts hat die Verfahrensakten beigezogen,
+auf die Einholung von Stellungnahmen der Vorinstanzen indessen verzichtet.
+
+Erwägungen
+
+1.
+
+1.1 Die
+angefochtene Verfügung des Einzelgerichts in Strafsachen vom 10. Mai 2022 ist
+ein Nichteintretensentscheid, mit dem nicht materiell über Straffragen befunden
+wird. Es kommt daher gemäss Art. 393 Abs. 1 lit. b in Verbindung
+mit Art. 80 Abs. 1 der Schweizerischen Strafprozessordnung (StPO,
+SR 312.0) das Beschwerdeverfahren zur Anwendung. Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88
+Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes
+[GOG, SG 154.100]). Der Beschwerdeführer hat ein rechtlich geschütztes
+Interesse an der Aufhebung des angefochtenen Entscheids und ist gemäss
+Art. 382 Abs. 1 StPO zur Beschwerdeerhebung legitimiert.
+
+1.2 Die
+Beschwerde ist innert zehn Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen (Art. 396 Abs. 1 StPO). Die Frist beginnt am Tag
+nach der Eröffnung resp. Zustellung zu laufen (Art. 90 Abs. 1 StPO) und ist
+eingehalten, wenn die Beschwerde spätestens am letzten Tag der Frist bei der
+zuständigen Behörde abgegeben oder zu deren Handen der Schweizerischen Post oder
+einer schweizerischen diplomatischen oder konsularischen Vertretung im Ausland übergeben
+wird (Art. 91 Abs. 2 StPO). Die Verfügung des Einzelgerichts in Strafsachen vom
+10. Mai 2022 wurde dem Beschwerdeführer am 13. Mai 2022 zugestellt (vgl. Rückschein,
+Akten S. 59). Die am 19. Mai 2022 in Deutschland aufgegebene und am 23. Mai
+2022 beim Appellationsgericht eingegangene Beschwerde ist daher rechtzeitig
+erfolgt, so dass auf die Beschwerde einzutreten ist.
+
+2.
+
+Das Einzelgericht
+in Strafsachen hat seinen Nichteintretensentscheid damit begründet, dass die
+Einsprache gegen den Strafbefehl zu spät bei der Staatsanwaltschaft eingegangen
+sei. Einsprachen gegen Strafbefehle sind gemäss Art. 354 StPO innert 10 Tagen
+schriftlich bei der Staatsanwaltschaft einzureichen. Auch diese Frist beginnt am
+Tag nach der Zustellung zu laufen und ist eingehalten, wenn die Beschwerde
+spätestens am letzten Tag der Frist bei der zuständigen Behörde abgegeben oder
+zu deren Handen der Schweizerischen Post oder einer schweizerischen
+diplomatischen oder konsularischen Vertretung im Ausland übergeben wird (Art.
+90 Abs. 1 und 91 Abs. 2 StPO). Dem Beschwerdeführer wurde der Strafbefehl am 9. Februar
+2022 zugestellt (vgl. Zustellnachweis, Akten S. 35), die mit 19. Februar 2022
+datierte Einsprache (Akten S. 36) wurde jedoch erst am 27. April 2022 der Deutschen
+Post übergeben (vgl. Zustellcouvert, Akten S. 35a). Die Einsprache ist somit klar
+verspätet eingereicht worden, so dass das Einzelgericht in Strafsachen zu Recht
+nicht auf sie eingetreten ist. Die Beschwerde gegen die
+Nichteintretensverfügung ist daher abzuweisen. Damit ist der Strafbefehl vom 7.
+Februar 2022 in Rechtskraft erwachsen.
+
+3.
+
+3.1 Der
+Beschwerdeführer macht geltend, er habe «die Strafe» bereits bezahlt. Aus den
+von ihm eingereichten Buchungsbelegen (Akten S. 38-45) ergibt sich nicht,
+worauf sich die geleisteten Zahlungen von siebenmal EUR 300. und einmal EUR 330.19
+beziehen. Da aber die Widerhandlung gegen das Strassenverkehrsgesetz, auf
+welche sich der Strafbefehl bezieht (Führen eines Motorfahrzeugs trotz Entzug
+oder Aberkennung des Ausweises gemäss Art. 95 Abs. 1 lit. b SVG), am 9. Oktober
+2021 erfolgte, können jedenfalls die Zahlungen von siebenmal EUR 300. (Zahlungsdaten
+29.4.2021 bis 4.10.2021) nicht für die dafür ausgesprochene Strafe erfolgt
+sein. Die ebenfalls eingereichte Quittung für eine Zahlung von EUR 3'205.60 vom
+9. Oktober 2022 (Akten S. 46) bezieht sich ausdrücklich auf eine Widerhandlung
+nach Art. 90 Abs. 2 SVG (grobe Verletzung der Verkehrsregeln), nicht auf eine
+Widerhandlung nach Art. 95 Abs. 1 SVG (Führen eines Motorfahrzeugs trotz Entzug
+oder Aberkennung des Ausweises). Damit erweist sich das Vorbringen des
+Beschwerdeführers, er habe die verfahrensgegenständliche Strafe bereits
+bezahlt, prima vista als falsch. Für welche Bussen die von ihm geleisteten
+Zahlungen genau erfolgten, kann der Beschwerdeführer bei der Inkassostelle der
+Kantonspolizei in Erfahrung bringen.
+
+3.2 Zum
+Argument des Beschwerdeführers, er sei finanziell nicht in der Lage, die
+ausgesprochene Strafe zu bezahlen, ist anzuführen, dass ihm die Möglichkeit
+offensteht, sich mit einem Begehren um Ratenzahlungen an das Inkasso des
+Justiz- und Sicherheitsdepartements zu wenden (Justiz- und
+Sicherheitsdepartement, Finanzen und Controlling, Inkasso, Spiegelgasse 12,
+4001 Basel).
+
+4.
+
+Bei diesem
+Ausgang des Beschwerdeverfahrens wären dessen Kosten grundsätzlich dem
+Beschwerdeführer aufzuerlegen (Art. 428 Abs. 1 StPO). Umständehalber ist jedoch
+darauf zu verzichten.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Auf die Erhebung von Kosten wird umständehalber
+verzichtet.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Kantonspolizei Basel-Stadt
+
+- Justiz- und Sicherheitsdepartement, Finanzen und Controlling
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+lic. iur.
+Christian Hoenen                                         lic. iur. Barbara
+Noser Dussy
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
