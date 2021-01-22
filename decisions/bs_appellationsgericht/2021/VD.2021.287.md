@@ -1,0 +1,560 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.307"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2021.287"
+docket_2: "AG.2022.307"
+decided: "2021-01-22"
+published: "2022-04-30"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73462&W10_KEY=3048540&nTrefferzeile=177&Template=search_result_document.html"
+cites_decisions: ["6B_1159/2013", "6B_1188/2015", "6B_215/2017", "6B_32/2019", "6B_606/2010", "6B_93/2015", "BGE 119 IV 5", "BGE 124 IV 193", "BGE 133 IV 201", "VD.2016.181", "VD.2018.2", "VD.2018.28", "VD.2020.127", "VD.2020.198", "VD.2020.271", "VD.2021.287"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-086.md"]
+---
+
+# Verweigerung der bedingten Entlassung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2021.287
+
+URTEIL
+
+vom 30.
+April 2022
+
+Mitwirkende
+
+Dr. Stephan Wullschleger,
+
+lic. iur. Marc Oser, Dr. phil. und
+MLaw Jacqueline Frossard
+
+und Gerichtsschreiber MLaw Martin
+Seelmann, LL.M.
+
+Beteiligte
+
+A____ Rekurrent
+
+c/o JVA Lenzburg, Ziegeleiweg 13,
+5600 Lenzburg
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Abteilung Straf- und
+Massnahmenvollzug
+
+Amt für Justizvollzug
+
+Spiegelgasse 12, 4001 Basel
+
+Gegenstand
+
+Rekurs gegen einen Entscheid
+der Abteilung Straf- und Massnahmenvollzug vom 20. Dezember 2021
+
+betreffend Verweigerung
+der bedingten Entlassung aus dem Strafvollzug (Art. 86 StGB)
+
+Sachverhalt
+
+A____
+(Rekurrent) wurde vom Appellationsgericht Basel-Stadt mit rechtskräftigem
+Urteil vom 22. Januar 2021 wegen vorsätzlicher Tötung, Freiheitsberaubung
+(erschwerende Umstände), gewerbsmässigen Diebstahls, mehrfacher, teilweise
+geringfügiger Sachbeschädigung, betrügerischen Missbrauchs einer Datenverarbeitungsanlage,
+mehrfachen Hausfriedensbruchs, Amtsanmassung sowie mehrfacher Übertretung nach
+Art. 19a des Betäubungsmittelgesetzes (BetmG, SR 812.121) zu 8 Jahren
+Freiheitsstrafe (abzüglich 2048 Tage) verurteilt.
+
+Nachdem sich der
+Rekurrent im Rahmen des am 19. Mai 2016 bewilligten vorzeitigen
+Massnahmenvollzugs zunächst in der Justizvollzugsanstalt (JVA) Thorberg und
+danach in der JVA Solothurn befunden hatte, bewilligte ihm die
+Appellationsgerichtspräsidentin am 21. März 2019 den vorzeitigen Strafvollzug. Am
+24. September 2019 wurde der Rekurrent in die JVA Bostadel versetzt, seit dem
+30. Juni 2020 befindet er sich in der JVA Lenzburg.
+
+Mit Schreiben
+vom 20. Juli 2021 beantragte der Rekurrent die bedingte Entlassung aus dem
+Strafvollzug. Mit Vollzugsmeldung vom 23. August 2021 teilte das
+Appellationsgericht der Vollzugsbehörde mit, dass das Urteil vom 22. Januar
+2021 in Rechtskraft erwachsen sei. Mit Vollzugsbericht vom 24. August 2021
+berichtete die JVA Lenzburg über den Vollzugsverlauf des Rekurrenten. Im
+beiliegenden gleichdatierten Gesuch um bedingte Entlassung machte der Rekurrent
+geltend, er habe zwei Drittel der ausgesprochenen Freiheitsstrafe bereits am 14.
+Oktober 2020 verbüsst. Mit Schreiben vom 8. Oktober 2021 wurde dem Rekurrenten
+das rechtliche Gehör betreffend die beabsichtigte Verweigerung der bedingten
+Entlassung gewährt, wovon er mit Schreiben vom 11. Oktober 2021 sowie persönlich
+am 12. Oktober 2021 in der JVA Lenzburg Gebrauch machte. Mit Entscheid vom 20.
+Dezember 2021 verweigerte die Vollzugsbehörde schliesslich dessen bedingte
+Entlassung.
+
+Gegen diesen
+Entscheid meldete der Rekurrent, vertreten durch [...], Advokat, mit Eingabe
+vom 22. Dezember 2021 Rekurs beim Verwaltungsgericht an und begründete ihn in
+der gleichen Eingabe. Er beantragt, der angefochtene Entscheid sei aufzuheben
+und es sei die Vorinstanz anzuweisen, die bedingte Entlassung des Rekurrenten
+umgehend zu gewähren, dies unter o/e-Kostenfolge. Sodann sei die unentgeltliche
+Rechtspflege/Verbeiständung zu gewähren. Dies wurde ihm mit Verfügung vom 11.
+Januar 2021 bewilligt. Die Vollzugsbehörde liess sich dazu mit Eingabe vom 26.
+Januar 2022 vernehmen und beantragt, den Rekurs vollumfänglich abzuweisen.
+Darauf replizierte der Rekurrent mit Schreiben vom 2. Februar 2022. Die Vollzugsbehörde
+hat auf eine Duplik verzichtet.
+
+Die weiteren
+Tatsachen und Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für
+das vorliegende Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen.
+Das vorliegende Urteil erging unter Beizug der Vorakten der Vollzugsbehörde in
+elektronischer Form (act. 4) auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+§ 33 Abs. 2 des auf den 1. Juli 2020 in Kraft getretenen neuen
+Justizvollzugsgesetzes (JVG, SG 258.200) sind Rekurse gegen Verfügungen der
+Justizvollzugsbehörde entsprechend der Rechtsmittelbelehrung im angefochtenen
+Entscheid direkt beim Verwaltungsgericht zu erheben. Gestützt darauf ist das
+Dreiergericht des Verwaltungsgerichts für die Beurteilung des vorliegenden
+Rekurses zuständig (§ 88 Abs. 2 in Verbindung mit § 92 Abs. 1 Ziff. 11 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Das Verwaltungsgericht
+urteilt mit voller Kognition (Ratschlag Nr. 18.1330.01 vom 26. September 2018
+zu einem neuen Gesetz über den Justizvollzug S. 32), es übt also eine Sachverhalts-,
+Rechts- und Angemessenheitskontrolle aus (vgl. § 8 Abs. 1 und 5 des
+Verwaltungsrechtspflegegesetzes [VRPG, SG 270.100] in Verbindung mit § 33 Abs.
+2 JVG; VGE VD.2020.127 vom 24. August 2020 E. 1.3).
+
+1.2 Der
+Rekurrent ist als Adressat des angefochtenen Entscheids von diesem unmittelbar
+berührt und hat ein schutzwürdiges Interesse an dessen Aufhebung oder
+Abänderung, weshalb er gemäss § 13 VRPG zum Rekurs legitimiert ist. Auf den
+frist- und formgerechten Rekurs ist somit einzutreten.
+
+2.
+
+2.1 Mit
+dem angefochtenen Entscheid kam die Vollzugsbehörde zum Schluss, dass die
+Voraussetzungen für eine bedingte Entlassung aufgrund der Gesamtwürdigung aller
+für die Prognose relevanten Umstände als zurzeit nicht gegeben erachtet würden.
+Eine bedingte Entlassung aus dem Strafvollzug sei mithin verfrüht und demnach
+zu verweigern.
+
+2.2 Mit
+seinem Rekurs bringt der Rekurrent vor, dass er unbestrittenermassen 2/3 seiner
+Strafe verbüsst habe. Sein Verhalten im Strafvollzug sei positiv. Zwar habe er
+einige wenige Male diszipliniert werden müssen, doch es habe sich nicht um
+schwerwiegende Verfehlungen gehandelt, jedenfalls nicht nach Einschätzung der
+zuständigen Strafanstalt. Die Vorinstanz schreibe entsprechend zu Recht, dass der
+Rekurrent in der Industriemontage eine grosse Genauigkeit und speditive
+Arbeitsfähigkeit, vor allem aber auch Teamfähigkeit an den Tag lege. Die
+Voraussetzung des Wohlverhaltens im Strafvollzug sei somit erfüllt. Zudem liege
+auch eine positive Legalprognose vor. Der Rekurrent habe bereits vor weit über
+einem Jahr, am 14. Oktober 2020, 2/3 seiner Strafe verbüsst. Er befinde sich
+seit 6 ½ Jahren im Strafvollzug. Nach dieser langen Gefängnisstrafe könnten
+nicht Verurteilungen, die somit bereits viele Jahre zurückliegen, Grund für die
+Verweigerung der bedingten Entlassung sein. Mit dieser Logik würde die bedingte
+Entlassung gerade bei schweren Delikten generell vereitelt bzw. unterlaufen. Die
+bedingte Entlassung knüpfe vor allem an das Wohlverhalten, welches mit dem
+Damoklesschwert der bedingten Entlassung angestrebt werde und in fast allen
+Fällen zu einer erfolgreichen Absolvierung der Probezeit führe. Es sei mit
+Nachdruck darauf hinzuweisen, dass die JVA Lenzburg eine bedingte Entlassung empfehle
+und unterstütze. Des Weiteren sei die Behauptung, der Rekurrent würde in
+Freiheit Zugang zu harten Drogen finden, reine Spekulation und werde
+bestritten. Zwar habe der Rekurrent in Einzelfällen Cannabis konsumiert. Es sei
+jedoch davon auszugehen, dass die bereits sehr lange ausgestandene
+Gefängnisstrafe die Suchtproblematik betreffend harte Drogen definitiv beendet
+habe. Irgendeinen Sinn werde die lange Gefängnisstrafe wohl gehabt haben. Die
+Vorinstanz behaupte, man müsse zuerst schrittweise Vollzugsöffnungen erproben.
+Dieses Argument komme reichlich zynisch daher, hätte die Vorinstanz es doch
+mindestens seit dem 14. Oktober 2020, effektiv aber viel früher, in der Hand
+gehabt, Vollzugsöffnungen in die Wege zu leiten. Es sei in Erinnerung zu rufen,
+dass jedenfalls bei der letzten Verurteilung nicht direkt Drogendelikte zu
+beurteilen gewesen seien, sondern ein Delikt, welches im Zusammenhang mit der
+damaligen Drogenverwahrlosung gestanden habe. Zu Recht behaupte die Vorinstanz
+nicht, dass eine Gefahr für eine Wiederholung dieses Tötungsdeliktes bestehe.
+Somit seien die Ausführungen, wonach es nach 6 ½-jähriger Gefängniszeit zu
+eigentlichen Drogendelikten komme, verfehlt.
+
+3.
+
+3.1 Hat
+die gefangene Person zwei Drittel ihrer Strafe, mindestens aber drei Monate
+verbüsst, ist sie nach Art. 86 Abs. 1 des Strafgesetzbuchs (StGB, SR 311.0) bedingt
+zu entlassen, wenn es ihr Verhalten im Strafvollzug rechtfertigt und nicht anzunehmen
+ist, sie werde weitere Verbrechen oder Vergehen begehen. Die zuständige Behörde
+prüft von Amtes wegen, ob der Gefangene bedingt entlassen werden kann; dabei
+hat sie diesen anzuhören und einen Bericht der Anstaltsleitung einzuholen
+(Art. 86 Abs. 2 StGB). Nach der bundesgerichtlichen Rechtsprechung stellt
+die bedingte Entlassung im letzten Drittel der Strafdauer die Regel dar, von
+der nur in Ausnahmefällen bzw. aus guten Gründen abgewichen werden darf. In
+dieser letzten Stufe des Strafvollzugs soll der Entlassene den Umgang mit der
+Freiheit erlernen. Diesem spezialpräventiven Zweck stehen die Schutzbedürfnisse
+der Allgemeinheit gegenüber, welchen umso höheres Gewicht beizumessen ist, je
+hochwertiger die gefährdeten Rechtsgüter sind. Die Prognose über das künftige
+Wohlverhalten ist in einer Gesamtwürdigung zu erstellen, welche nebst dem
+Vorleben, der Persönlichkeit und dem Verhalten des Täters während des Strafvollzugs
+vor allem dessen neuere Einstellung zu seinen Taten, seine allfällige Besserung
+und die nach der Entlassung zu erwartenden Lebensverhältnisse berücksichtigt
+(BGE 133 IV 201 E. 2.2; BGer 6B_32/2019 vom 28. Februar 2019 E. 2.2, statt
+vieler 6B_215/2017 vom 19. Juli 2017 E. 2.4, m.H.; VGE VD.2020.198 vom 28.
+Dezember 2020 E. 3.1).
+
+3.2 Die
+zeitliche Voraussetzung der Verbüssung von zwei Dritteln der Strafe ist
+vorliegend unbestrittenermassen erfüllt. Nach den Darlegungen der Vollzugsbehörde
+(act. 1, S. 1) wurde die bedingte Entlassung frühestens am 14. Oktober 2020
+möglich. Der Vollzug (ohne Berücksichtigung der bedingten Entlassung) endet am 14.
+Juni 2023.
+
+Der Entscheid
+über die bedingte Entlassung hängt vorliegend somit von einer günstigen Legalprognose
+respektive jedenfalls vom Fehlen einer ungünstigen Prognose ab (vgl. BGE 133 IV
+201 E. 2.2; VGE VD.2018.2 vom 20. April 2018; J ositsch /E ge /S chwarzenegger ,
+Strafrecht II, 9. Auflage, Zürich 2018, S. 253; T rechsel /A ebersold ,
+in: Trechsel/Pieth [Hrsg.], Schweizerisches Strafgesetzbuch, Praxiskommentar, 4.
+Auflage, Zürich 2021, Art. 86 N 8; vgl. aber H eimgartner ,
+in: Donatsch et al. [Hrsg.], StGB Kommentar, 20. Auflage, Zürich 2018; VGE VD.2016.181
+vom 11. Oktober 2016 E. 4.1 [günstige Legalprognose verlangt]). Bei der
+Würdigung der Bewährungsaussichten ist ein vernünftiges Mittelmass zu halten.
+Das bedeutet einerseits, dass nicht jede noch so entfernte Gefahr neuer
+Straftaten eine Verweigerung der bedingten Entlassung zu begründen vermag.
+Diese stellt wie erwähnt die Regel dar, von der nur aus guten Gründen
+abgewichen werden darf (BGE 133 IV 201 E. 2.2 f., 124 IV 193 E. 3, 119 IV 5 E.
+2). Andererseits darf aber auch nicht aufgrund einzelner günstiger Faktoren die
+bedingte Entlassung bewilligt werden, obwohl gewichtigere Anhaltspunkte für die
+Gefahr neuer Rechtsbrüche sprechen (BGE 124 IV 193 E. 3, m.H.; vgl. BGer
+6B_606/2010 vom 28. September 2010 E. 4.2).
+
+3.3 Strittig
+ist vorliegend die Gesamtwürdigung aller massgebenden Umstände für die sich
+daraus ableitende Legalprognose des Rekurrenten. Entsprechend gilt es im
+Folgenden, auf die einzelnen Punkte einzugehen:
+
+3.3.1 Wie
+bereits ausgeführt, behandelt die bundesgerichtliche Rechtsprechung einerseits das
+Vorleben der betreffenden Person als ein Element in der Gesamtwürdigung.
+
+Wie die
+Vollzugsbehörde in ihrem Entscheid zutreffend dargelegt hat, ist der Rekurrent
+mehrfach und teils einschlägig vorbestraft, unter anderem wegen Raubs,
+sexueller Belästigung, gewerbsmässigen Diebstahls und Hausfriedensbruchs. Zudem
+ist er bereits wenige Tage nach der am 8. März 2013 bewilligten bedingten
+Entlassung und bis zu seiner definitiven Inhaftierung am 14. August 2015
+regelmässig deliktisch auffällig geworden. Aktuell verbüsst der Rekurrent eine
+mehrjährige Freiheitsstrafe wegen vorsätzlicher Tötung, Freiheitsberaubung
+(erschwerende Umstände), gewerbsmässigen Diebstahls, mehrfacher, teilweise
+geringfügiger Sachbeschädigung, betrügerischen Missbrauchs einer
+Datenverarbeitungsanlage, mehrfachen Hausfriedensbruchs, Amtsanmassung und
+mehrfacher Übertretung nach Art. 19a des Betäubungsmittelgesetzes. Ferner ist
+aktuell bei der Staatsanwaltschaft Zug gegen den Rekurrenten ein Strafverfahren
+wegen Vergehens gegen das Betäubungsmittelgesetz hängig. Der Rekurrent ist
+folglich in der Vergangenheit mehrfach und teils einschlägig strafrechtlich in
+Erscheinung getreten und hat namentlich seine Uneinsichtigkeit und den
+fehlenden Willen, sich an die geltende Rechtsordnung zu halten, offenbart.
+
+Nicht zu hören
+ist in diesem Zusammenhang das Vorbringen des Rekurrenten, die Vollzugsbehörde schliesse
+(insbesondere) aus den ergangenen Verurteilungen auf eine schlechte Legalprognose,
+da nach einer nunmehr bereits 6 ½ Jahre andauernden Gefängnisstrafe nicht
+Verurteilungen, die bereits viele Jahre zurückliegen würden, Grund für die
+Verweigerung der bedingten Entlassung sein könnten. Mit dieser Logik würde die
+bedingte Entlassung gemäss Art. 86 StGB gerade bei schweren Delikten generell
+vereitelt bzw. unterlaufen. Die Vollzugsbehörde hat entgegen den Ausführungen
+des Rekurrenten jedoch nicht nur auf seine deliktische Vorgeschichte abgestellt,
+sondern vielmehr berücksichtigt, dass beim Rekurrenten insbesondere eine
+progrediente Entwicklung hinsichtlich seiner deliktischen Entwicklung vorliegt (in
+Zusammenhang mit seinen problematischen Persönlichkeitsmerkmalen sowie der
+langjährigen, deliktrelevanten Suchterkrankung, die nicht nachgewiesenen
+Zukunftspläne sowie die fehlende extramurale Erprobung). Doch auch im Hinblick
+auf die eigentliche deliktische Vorgeschichte gilt es zu attestieren, dass die
+Umstände der Tat respektive die Schwere des Delikts insoweit beachtlich sind,
+als sie Rückschlüsse auf die Täterpersönlichkeit und damit auf das künftige
+Verhalten des Verurteilten in Freiheit erlauben. Ob die mit einer bedingten
+Entlassung in gewissem Masse stets verbundene Gefahr neuer Delikte zu
+verantworten ist, hängt mithin nicht nur davon ab, wie wahrscheinlich ein neuer
+Fehltritt ist, sondern auch von der Bedeutung des eventuell bedrohten
+Rechtsguts (BGer 6B_1188/2015 vom 22. Februar 2016 E. 1.1.4,
+6B_1159/2013 vom 3. Dezember 2014 E. 2.2; VGE VD.2018.28 vom 21.
+August 2018 E. 4.4; VD.2016.181 vom 11. Oktober 2016 E. 4.2). Vorliegend
+ist daher auch der Umstand in die Legalprognose miteinzubeziehen, dass der
+Rekurrent sich durch seine mit Urteil des Appellationsgerichts vom 22. Januar
+2021 rechtskräftig abgeurteilten Delikte unter anderem gegen die hochwertigen
+Rechtsgüter Leben und Freiheit gewendet hat. Angesichts dieser schweren Delikte
+bedarf es einer intensiven Auseinandersetzung des Rekurrenten mit den
+begangenen Taten, um eine günstige Legalprognose stellen zu können. Einsicht
+sowie Konfrontation und Auseinandersetzung des Täters mit seiner Tat stellen
+nämlich wesentliche Elemente des Veränderungsprozesses in Richtung eines
+deliktfreien Lebens dar (BGer 6B_1159/2013 vom 3. Dezember 2014 E. 4.4; Koller , a.a.O., Art. 86 N 8 f.; eine
+fehlende Tataufbereitung kann im Sinne der Prognoserelevanz negativ gewürdigt
+werden [ Koller , a.a.O., Art. 86
+StGB N 9, mit Hinweis auf BGer 6B_93/2015 vom 19. Mai 2015 E. 5.6]). Eine
+solche eingehende Auseinandersetzung mit den begangenen Delikten und dem
+diesbezüglichen Zusammenhang mit seiner Suchtproblematik ist bisher durch den
+Rekurrenten jedoch nicht erfolgt (s. sogleich E. 3.3.2).
+
+3.3.2 Was
+des Weiteren die für die Gesamtwürdigung ebenfalls zu berücksichtigende
+Persönlichkeit des Rekurrenten anbelangt, so kann grundsätzlich auf die
+Ausführungen der Vollzugsbehörde verwiesen werden. Dadurch wird insbesondere
+das Vorbringen des Rekurrenten relativiert, wonach bestritten wird, dass er in
+Freiheit Zugang zu harten Drogen finden würde. So besteht beim Rekurrenten unbestrittenermassen
+eine langjährige Drogenproblematik. Im Alter von zwölf Jahren kam er erstmalig
+mit Cannabis in Kontakt, konsumierte bald täglich, und ab dem 15. Lebensjahr
+machte er zusätzlich von Kokain, Heroin und Ecstasy Gebrauch, sodass seit dem
+16. Lebensjahr eine Heroinabhängigkeit besteht. Während des Strafvollzugs
+musste der Rekurrent zudem wiederholt wegen Cannabiskonsums in den
+verschiedenen Anstalten diszipliniert werden. Die Deliktrelevanz der schweren
+Drogenproblematik des Rekurrenten ist allgemein in seiner deliktischen
+Vorgeschichte erkennbar und kam insbesondere anlässlich der begangenen
+Freiheitsberaubung und vorsätzlichen Tötung, bei denen er eine erhebliche
+Gleichgültigkeit gegenüber dem Leben und der körperlichen Integrität des Opfers
+zeigte und die Taten mit äusserster Brutalität ausführte, zum Ausdruck (vgl.
+auch vorne E. 3.3.1). Der Rekurrent hat sich zwar zwischen März 2016 und August
+2017 im Rahmen einer formal freiwilligen vollzugsbegleitenden ambulanten
+Behandlung beim Forensisch-Psychiatrischen Dienst (FPD) der Universität Bern
+auf eine störungs- und deliktorientierte Therapie eingelassen, aufgrund der
+kurzen Dauer der Therapie ist es ihm jedoch nicht gelungen, sich mit seinen
+Problembereichen vertieft auseinanderzusetzen und delikt- und suchtpräventive
+Strategien zu entwickeln und herauszuarbeiten (vgl. Austrittsbericht des FPD
+der Universität Bern vom 10. August 2017). Anschliessend war der Rekurrent im
+Rahmen des bewilligten vorzeitigen Massnahmenvollzugs in Behandlung bei den
+Psychiatrischen Diensten Solothurn, wobei während der über zweieinhalb Jahren
+dauernden Massnahme nur eine geringe Therapiemotivation vorhanden war, was eine
+adäquate Arbeit an der Suchtproblematik sowie eine Auseinandersetzung mit der
+eigenen Delinquenz ebenso verunmöglichte (vgl. Therapiebericht der
+Psychiatrischen Dienste Solothurn vom 3. April 2019). Vor diesem Hintergrund
+ist die Tatsache, dass der Rekurrent gemäss den Vollzugsberichten der JVA
+Lenzburg vom 8. Dezember 2020 und 24. August 2021 Reue zeige und die
+Verantwortung für seine Delikte übernehme, zu relativieren. Mithin kann  wie
+der Rekurrent vorbringt  auch nicht behauptet werden, dass die Suchtproblematik
+betreffend harte Drogen durch den Gefängnisaufenthalt «definitiv beendet» sei.
+
+3.3.3 Sodann
+ist auch das Verhalten im Vollzug als ein Element in der Gesamtwürdigung miteinzubeziehen
+(vgl. E. 3.1 hiervor; BGE 133 IV 201 E. 2.3; K oller , a.a.O., Art. 86 StGB N 4). Bei der Beurteilung des
+Vollzugsverhaltens steht im Vordergrund, ob dieses Rückschlüsse auf das
+Verhalten nach der bedingten Entlassung zulässt (K oller , a.a.O., Art. 86 StGB N 4 m.H. auf BGE 119 IV 5 E. 1).
+Diesbezüglich ist den Vollzugsberichten der JVA Lenzburg vom 8. Dezember 2020 (act. 4,
+Teil 2b, PDF S. 58 ff.) und vom 24. August 2021 (act. 4, Teil 2b, PDF S.
+43 ff.) zu entnehmen, dass der Umgang des Rekurrenten mit dem Vollzugspersonal
+und den Miteingewiesenen angepasst und freundlich sei. Er bekunde jedoch
+teilweise Mühe, sich an die Regeln und Ordnung der Anstalt zu halten und sei bereits
+viermal wegen Cannabiskonsums sowie jeweils einmal wegen schlechter
+Arbeitsleistung, Arbeitsverweigerung sowie Entwendung von Materialien (Druckverschlussbeuteln)
+aus dem Gewerbe disziplinarisch sanktioniert worden. Das Verhalten des
+Rekurrenten zog auch jüngst wieder disziplinarrechtliche Folgen nach sich, als er
+sich am 3. Februar 2022 weigerte, eine Urinprobe abzugeben (vgl.
+Disziplinarverfügung vom 3. Februar 2022, act. 9, S. 2). Dieses Verhalten
+wiederholte sich sodann am 31. März 2022 (vgl. Disziplinarverfügung vom 31.
+März 2022, act. 11, S. 2). Die Vollzugsberichte halten immerhin fest, dass der
+Rekurrent in seiner aktuellen Tätigkeit in der Industriemontage eine grosse
+Genauigkeit, eine speditive Arbeitsweise sowie Teamfähigkeit zeige. Gesamthaft
+betrachtet könne sein Vollzugsverhalten weitgehend als gut beurteilt werden.
+Jedoch ist hierzu festzuhalten, dass tadelloses Verhalten allein im
+hochstrukturierten Umfeld des Strafvollzugs nur bedingt Rückschlüsse auf das
+Verhalten des Betreffenden in Freiheit erlaubt (vgl. VGE VD.2018.28 vom
+21. August 2018 E. 4.3; VD.2016.181 vom 11. Oktober 2016 E. 4.4).
+Zuletzt hat sich das allgemeine Verhalten des Rekurrenten im Vollzug zudem
+verschlechtert. So ist der Aktennotiz der Vollzugsbehörde zu entnehmen, dass er
+nach wie vor Drogen in der Anstalt konsumiere. Zudem gebe der Rekurrent an,
+dass er versetzt werden wolle, weil er in der JVA Lenzburg auf keinen grünen
+Zweig komme. Ausserdem sage er wiederholt aus, dass er kein Interesse an
+Vollzugslockerungen habe und einen Haftaufenthalt bis zum Strafende
+beabsichtige. Er halte sich zudem nicht an die Regeln der JVA Lenzburg und
+beteilige sich immer wieder aktiv an Konflikten mit anderen Miteingewiesenen,
+wobei er dabei keine zentrale Rolle übernehme. Bei diesen Vorfällen handle es
+sich um Auseinandersetzungen, bei denen zum Teil Messer zum Einsatz kommen
+würden. Die JVA Lenzburg werde der Vollzugsbehörde aufgrund der Situation einen
+Antrag auf Versetzung in den kommenden Tagen einreichen (Aktennotiz vom
+13. April 2022, act. 12, S. 1).
+
+3.3.4 Bezüglich
+der nach der Haftentlassung zu erwartenden Lebensverhältnisse gilt es zu
+konstatieren, dass der Rekurrent angibt, nach seiner Entlassung zunächst bei
+seiner Mutter in [...] wohnen und sich eine Arbeit, vorzugsweise in der
+Gastronomie, suchen zu wollen. Wie die Vorinstanz jedoch zutreffend festhält,
+sind diese Angaben keineswegs belegt und damit zum aktuellen Zeitpunkt nicht
+realistisch.
+
+3.3.5 Die
+Vorinstanz hält schliesslich fest, dass eine Verbesserung der Legalprognose im
+Hinblick auf eine erfolgreiche Resozialisierung und damit auf eine bedingte
+Entlassung vor dem 14. Juni 2023  nebst der erwähnten therapeutischen
+Aufarbeitung der Anlasstaten sowie der Suchterkrankung  der schrittweisen
+Gewährung und Erprobung von Vollzugsöffnungen bedürfe, in deren Rahmen sich der
+Rekurrent erst noch beweisen müsse. Der Rekurrent bringt dagegen vor, dass dieses
+Argument reichlich zynisch daherkomme, hätte die Vollzugsbehörde es doch
+mindestens seit dem 14. Oktober 2020, effektiv aber viel früher, in der Hand
+gehabt, Vollzugsöffnungen in die Wege zu leiten. Auch lege die Vollzugsbehörde
+nicht dar, welche konkreten Schritte sie unternehmen wolle.
+
+Dieser
+Argumentation kann nicht gefolgt werden. Wie die Vollzugsbehörde zutreffend ausführt,
+informierte das Appellationsgericht Basel-Stadt die Vollzugsbehörde mit
+Vollzugsmeldung vom 16. August 2021 über das in Rechtskraft erwachsene Urteil
+vom 22. Januar 2021. Der Rekurrent befand sich bis dahin im vorzeitigen
+Vollzug, weshalb die Prüfung von Vollzugsöffnungen gestützt auf § 22 Abs. 2 der
+Verordnung über den Justizvollzug (JVV, SG 258.210) der Verfahrensleitung des Appellationsgerichts
+oblag.
+
+Des Weiteren
+bringt die Vollzugsbehörde vor, sie habe dem Rekurrenten mit Schreiben vom 8.
+Oktober 2021 im Rahmen der Ankündigung des rechtlichen Gehörs mitgeteilt, dass
+sie beabsichtige, die bedingte Entlassung aus dem Strafvollzug zu verweigern
+und in Anbetracht des bisherigen Vollzugsverlaufs Vollzugsöffnungen zeitnah
+prüfen werde. Anlässlich der Vollzugskoordinationssitzung vom 10. Dezember 2021
+sei zudem die Prüfung von zunächst begleiteten und danach unbegleiteten
+Ausgängen sowie schliesslich die Versetzung in eine offene Vollzugsinstitution
+als weiteres Vorgehen in Aussicht gestellt worden. Dies sei auch anschliessend
+mit dem Rekurrenten besprochen worden. Damit zusammenhängend habe die
+Vollzugsbehörde im Entscheid vom 20. Dezember 2021 festgehalten, dass im
+Hinblick auf eine Verbesserung der Legalprognose und damit auf eine bedingte
+Entlassung vor dem Vollzugsende am 14. Juni 2023 die schrittweise Gewährung von
+Vollzugsöffnungen erforderlich sei. Aktuell stehe die Vollzugsbehörde
+betreffend Vollzugsöffnungen im engen Kontakt mit der JVA Lenzburg, wobei
+jedoch festzuhalten sei, dass der Rekurrent gemäss Mitteilung der Institution
+seine Mitwirkung verweigere (vgl. Aktennotiz vom 21. Januar 2022, act. 4, Teil
+2b, PDF S. 1). Eine Untätigkeit der Vollzugsbehörde lasse sich somit nicht
+erkennen. Es liege im öffentlichen Interesse, im Hinblick auf eine erfolgreiche
+Resozialisierung die dringend erforderlichen Vollzugsöffnungen zeitnah zu
+erproben und den Rekurrenten schrittweise an das Leben nach dem Vollzug
+heranzuführen. Diesen Ausführungen der Vollzugsbehörde kann vorbehaltlos
+zugestimmt werden. Zwar ist korrekt, dass die JVA Lenzburg im Vollzugsbericht
+vom 24. August 2021 zwar eine bedingte Entlassung empfohlen, dies jedoch davon
+abhängig gemacht hat, dass der Rekurrent weiterhin ein gutes Vollzugsverhalten
+zeigt, seine Arbeits- und Wohnsituation geklärt sind und er sich bereit für
+eine Zusammenarbeit mit der Bewährungshilfe erklärt, d. h. von Faktoren, die
+unter anderem legalprognostisch eine entscheidende Rolle spielen und an denen
+im Rahmen des weiteren Strafvollzugs eingehend zu arbeiten ist. Die JVA
+Lenzburg hat mithin bislang darauf verzichtet, selbst einen Antrag auf
+Vollzugsöffnungen einzureichen (vgl. act. 6). Eine Verbesserung der
+Legalprognose im Hinblick auf eine erfolgreiche Resozialisierung und damit auf
+eine bedingte Entlassung vor dem 14. Juni 2023 bedarf jedoch gerade  nebst der
+erwähnten therapeutischen Aufarbeitung der Anlasstaten sowie der
+Suchterkrankung  der schrittweisen Gewährung und Erprobung von
+Vollzugsöffnungen, in deren Rahmen sich der Rekurrent erst noch beweisen muss.
+
+Ferner ist dem
+Vorbringen des Rekurrenten zu widersprechen, dass eine diesbezügliche Kontaktaufnahme
+zwischen der Vollzugsanstalt sowie der Vollzugsbehörde nicht stattgefunden bzw.
+kein enger Kontakt bestanden hat. Gegenteiliges belegt etwa die E-Mail der JVA
+Lenzburg vom 27. Januar 2022 (act. 6). Sodann wies die Vollzugsbehörde die
+zuständige Person der JVA Lenzburg mit E-Mail vom 28. Januar 2022 darauf hin,
+dass die Absolvierung von Urlauben und weiteren Vollzugslockerungen im Hinblick
+auf eine erfolgreiche Resozialisierung unerlässlich sei (act. 9).
+
+Zudem kann der
+E-Mail vom 27. Januar 2022 entnommen werden, dass der Rekurrent selbst zum
+damaligen Zeitpunkt keinen Antrag auf begleitete Ausgänge habe stellen wollen.
+Vielmehr habe er die Verweigerung der bedingten Entlassung angefochten und wolle
+vorerst diesen Entscheid abwarten. Zudem könne er wegen der Covid-Massnahmen
+frühestens im März 2022 doppeltbegleitet in den Ausgang gehen. Er spiele sogar mit
+dem Gedanken, in Lenzburg die Endstrafe zu verbüssen und bis zum 14. Juni 2023
+dortzubleiben (eine Weigerung des Rekurrenten an der Mitwirkung an
+Vollzugsöffnungen ist auch der bereits erwähnten Aktennotiz vom 21. Januar 2022
+zu entnehmen). Von diesem Vorgehen sei dem Rekurrenten jedoch vom zuständigen Sozialpädagogen
+abgeraten worden. Gleichwohl scheint der Rekurrent jedoch kein aktuelles
+Interesse an Vollzugslockerungen zu haben und bekräftigt seine momentane
+Absicht eines Haftaufenthalts bis zum Strafende. Zudem strebt er eine
+Versetzung in eine andere Vollzugsanstalt an (vgl. act. 12, S. 1).
+
+3.3.6 Zusammenfassend
+ist festzuhalten, dass eine sofortige bedingte Entlassung ohne die Erprobung
+von Vollzugslockerungen gerade im Hinblick auf die selbst im geschützten Rahmen
+nicht gegebene Betäubungsmittelabstinenz nicht angezeigt ist. Abgesehen von wenigen
+Disziplinierungen kann mit dem Rekurrenten zwar festgestellt werden, dass er
+sich im Vollzug mehrheitlich wohl verhalten hat, die Vollzugsbehörde jedoch von
+einer massiven Verschlechterung des Vollzugsverlaufs in den letzten Wochen berichtet.
+Sein deliktisches Verhalten und sein Vorleben, insbesondere die Drogensucht,
+schlagen zudem weiterhin äusserst negativ zu Buche. Deshalb ist auch im
+Hinblick auf die voraussichtlichen Lebensverhältnisse nach der Entlassung und
+dem damit zusammenhängenden Wegfall des geschützten Rahmens, insbesondere
+angesichts seines früheren Drogenkonsums, die Erprobung von Vollzugslockerungen
+notwendig. Der Umstand, dass noch keine solchen Vollzugslockerungen durchgeführt
+wurden, ist darauf zurückzuführen, dass erst im Verlauf des letzten Jahres das
+Hauptverfahren rechtskräftig wurde und sich auch der Rekurrent selbst
+weigert(e), entsprechende Gesuche zu stellen oder gar vorbringt, grundsätzlich
+kein Interesse an Vollzugslockerungen zu haben. Der Versuch der Erprobung von
+Vollzugslockerungen ist jedoch gleichwohl zeitnah vorzunehmen, da offenbar
+erste Schritte bereits eingeleitet wurden. Allerdings sollte auch der Rekurrent
+dabei mitwirken, was er ursprünglich, wie im Mail vom 27. Januar 2022 vom
+zuständigen Sozialpädagogen angekündigt, auch nach Erledigung des vorliegenden
+Verfahrens zu tun gedachte. Nach wie vor ist grundsätzlich auf eine bedingte
+Entlassung hinzuarbeiten.
+
+Im Ergebnis ist
+daher der Rekurs gegen die Verweigerung der bedingten Entlassung abzuweisen.
+
+4.
+
+Bei diesem
+Ausgang des Verfahrens trägt der Rekurrent dessen Kosten mit einer Gebühr von
+CHF 800. (§ 23 Abs. 1 des Reglements über die Gerichtsgebühren [GGR, SG
+154.810], § 30 Abs. 1 VRPG). Zufolge Bewilligung der unentgeltlichen
+Rechtspflege und Verbeiständung gehen die Verfahrenskosten jedoch zu Lasten des
+Staates und ist dem Vertreter des Rekurrenten im Kostenerlass ein Honorar
+auszurichten. Der Rechtsvertreter hat keine Honorarnote eingereicht, so dass
+dessen Aufwand praxisgemäss zu schätzen ist (vgl. VGE VD.2020.271 vom 17. Juni
+2021 E. 5.3). Für das verwaltungsgerichtliche Verfahren ist ein Aufwand
+von knapp sechs Stunden angemessen, der zum amtlichen Ansatz von CHF 200.
+entschädigt wird. Daraus folgt  unter Einschluss notwendiger Auslagen  ein
+Honorar von CHF 1'200. zuzüglich Mehrwertsteuer.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird abgewiesen.
+
+Der Rekurrent trägt die ordentlichen Kosten des
+Verfahrens mit einer Gebühr von CHF 800., einschliesslich Auslagen. Zufolge
+Bewilligung des Kostenerlasses gehen diese zu Lasten des Staates.
+
+Dem Rechtsvertreter des Rekurrenten im Kostenerlass, [...],
+Advokat, wird aus der Gerichtskasse ein Honorar von CHF 1200.,
+einschliesslich Auslagen und zuzüglich 7,7 % MWST von CHF 92.40, ausgerichtet.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Amt für Justizvollzug, Abteilung Straf- und Massnahmenvollzug
+
+- Eidgenössisches Justiz- und Polizeidepartement (EJPD)
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+MLaw Martin Seelmann, LL.M.
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Strafsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in Strafsachen ein
+anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde
+an das Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Strafsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
