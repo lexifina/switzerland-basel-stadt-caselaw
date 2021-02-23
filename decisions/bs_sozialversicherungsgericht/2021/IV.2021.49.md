@@ -1,0 +1,449 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.167"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2021.49"
+docket_2: "SVG.2022.167"
+decided: "2021-02-23"
+published: "2022-05-10"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73830&W10_KEY=3049211&nTrefferzeile=68&Template=search_result_document.html"
+cites_decisions: ["8C_786/2016", "9C_886/2013", "BGE 117 V 394", "BGE 122 V 212", "BGE 129 V 460", "BGE 133 V 504", "BGE 133 V 587", "BGE 135 I 161", "BGE 144 V 210", "IV.2021.49"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/831.20/art-008.md", "switzerland/bund/acts/831.20/art-021.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.20/art-074.md"]
+---
+
+# Hilfsmittelversorgung: Bauliche Massnahmen, keine Übernahme des Bauleitungshonorars
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 10.
+Mai 2022
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), Dr. med. W. Rühl, C. Müller
+
+und
+Gerichtsschreiberin lic. iur. H. Hofer
+
+Parteien
+
+A____
+
+vertreten durch lic. iur. B____
+
+Beschwerdeführerin
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2021.49
+
+Verfügung vom 23. Februar 2021
+
+Hilfsmittelversorgung: Bauliche
+Massnahmen, keine Übernahme des Bauleitungshonorars
+
+Tatsachen
+
+I.
+
+a)        Die 1958 geborene Beschwerdeführerin bezog ab Juni
+1999 eine Teilinvalidenrente. Im Januar 2020 erlitt sie bei einem Unfall ein
+Polytrauma mit kompletter Paraplegie. Die medizinische Erstversorgung fand im C____
+statt (vgl. Bericht vom 13. Februar 2020, IV-Akte 81). Daran anschliessend
+erfolgte bis Ende Juli 2020 die neurologische und paraplegiologische
+Rehabilitation in der D____ (vgl. Austrittsbericht vom 9. Oktober 2020, IV-Akte
+191). Per 1. April 2020 wurde der Beschwerdeführerin auf der Basis eines
+Invaliditätsgrades von 100% eine ganze Invalidenrente zugesprochen (Verfügung
+vom 15. Dezember 2020, IV-Akte 202).
+
+b)        Aufgrund der gesundheitlich bedingten
+Beeinträchtigungen musste die Beschwerdeführerin mit ihrem Ehemann in eine
+rollstuhlgängige Wohnung umziehen, in der mit Unterstützung durch die
+Beschwerdegegnerin verschiedene bauliche Anpassungen  hauptsächlich im
+Eingangsbereich sowie in Küche und Bad  vorgenommen wurden (vgl. IV-Akten 186,
+187, 192 - 197), nachdem die E____ diese geprüft und deren Übernahme empfohlen
+hatte. Von der Übernahme eines Bauleitungshonorars des F____ in der Höhe von
+Fr. 12'000.-- (vgl. die entsprechende Honorar-Offerte vom 25. Juni 2020,
+IV-Akte 170) riet die E____ ab (vgl. Bericht vom 4. November 2020, IV-Akte
+171). Mit Vorbescheid vom 26. November 2020 (IV-Akte 188) stellte die
+Beschwerdegegnerin der Beschwerdeführerin in Aussicht, das Bauleitungshonorar
+nicht zu übernehmen. Vertreten durch den Advokaten B____ liess sich die Beschwerdeführerin
+zum vorgesehenen Entscheid vernehmen (Stellungnahme vom 8. Januar 2021, IV-Akte
+209). Mit Verfügung vom 23. Februar 2021 (IV-Akte 223) lehnte die
+Beschwerdegegnerin eine Kostengutsprache für das Bauleitungshonorar ab.
+
+II.
+
+Mit Beschwerde vom 29. März 2021 beantragt die
+Beschwerdeführerin, es sei die Verfügung vom 23. Februar 2021 aufzuheben
+(IV-Akte 223) und die Beschwerdegegnerin zu verpflichten, das
+Bauleitungshonorar des F____ in Höhe von Fr. 12'000.-- zu bezahlen.
+Ausserdem ersucht die Beschwerdeführerin um Durchführung einer
+Parteiverhandlung.
+
+III.
+
+Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom 12.
+August 2021 auf Abweisung der Beschwerde.
+
+IV.
+
+Mit Replik vom 20. Oktober 2021 hält die Beschwerdeführerin an
+der Beschwerde fest. Auf eine Duplik wird von Seiten der Beschwerdegegnerin
+verzichtet.
+
+V.
+
+Am 10. Mai 2022 findet vor der Kammer des Sozialversicherungsgericht
+Basel-Stadt eine mündliche Parteiverhandlung statt. Die Beschwerdeführerin,
+vertreten durch Herrn Advokat B____, wird befragt. Der Ehemann der
+Beschwerdeführerin, Herr G____, wird als Auskunftsperson befragt. Für die
+Beschwerdegegnerin ist Herr lic. iur. H____ anwesend. Beide Parteien kommen zum
+Vortrag. Für sämtliche Ausführungen wird auf das Verhandlungsprotokoll und die
+nachstehenden Entscheidungsgründe verwiesen. Weiter ist Herr I____,
+Medienvertreter der J____, anwesend.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz zum Entscheid über die vorliegende Streitigkeit zuständig (§ 82 Abs. 1
+des basel-städtischen Gesetzes vom 3. Juni 2015 betreffend die Organisation der
+Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz], GOG; SG
+154.100). Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus
+Art. 69 Abs. 1 lit. a des Bundesgesetzes vom 19. Juni 1959 über die
+Invalidenversicherung (IVG; SR 831.20).
+
+1.2. Da auch die übrigen formellen Beschwerdevoraussetzungen erfüllt
+sind, ist auf die rechtzeitig erhobene Beschwerde einzutreten.
+
+1.3. Am 1. Januar 2022 trat das revidierte Bundesgesetz über die
+Invalidenversicherung (IVG; SR 831.20) in Kraft (Weiterentwicklung der IV
+[WEIV]; Änderung vom 19. Juni 2020, AS 2021 705, BBl 2017 2535). Die
+angefochtene Verfügung erging vor dem 1. Januar 2022. Nach den allgemeinen
+Grundsätzen des intertemporalen Rechts und des zeitlich massgebenden
+Sachverhalts (statt vieler: BGE 144 V 210 E. 4.3.1; 129 V 354 E. 1 mit
+Hinweisen) sind daher die Bestimmungen des IVG und diejenigen der Verordnung
+über die Invalidenversicherung (IVV; SR 831.201) sowie des Bundesgesetzes über
+den Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR 830.1) in der bis
+31. Dezember 2021 gültig gewesenen Fassung anwendbar.
+
+2.
+
+2.1. Die Beschwerdegegnerin lehnt mit der
+angefochtenen Verfügung (IV-Akte 223) eine Übernahme des Bauleitungshonorars für
+die Wohnungsanpassung gestützt auf die Empfehlung der E____ vom 6. November
+2020 (IV-Akte 170) ab.
+
+2.2. Die Beschwerdeführerin ist dagegen
+der Ansicht, die Koordination der baulichen Anpassungen sei ihr behinderungshalber
+oder umständehalber nicht zumutbar gewesen und weder ein Angehöriger noch eine
+Drittperson habe dies übernehmen können. Sie selber sei bis Ende Juli 2020 noch
+in der stationären Rehabilitation gewesen. Ihren erwachsenen Kindern sei die
+Koordination des Umbaus nicht möglich gewesen und ihrem pensionierten Ehemann
+sei es aufgrund seiner starken psychischen Belastung, hervorgerufen durch ihren
+Unfall, nicht zumutbar gewesen, den Umbau zu koordinieren.
+
+2.3. Vorliegend ist die Notwendigkeit
+der baulichen Anpassungsmassnahmen und deren Kostentragung durch die
+Invalidenversicherung unbestritten. Strittig ist einzig die ausnahmsweise Übernahme
+des Bauleitungshonorars durch die Invalidenversicherung. Gegenstand des
+vorliegenden Verfahrens ist demnach einzig die Frage, ob es der
+Beschwerdeführerin behinderungsbedingt oder umständehalber nicht zumutbar war,
+die baulichen Massnahmen zu koordinieren und ob weder ein Angehöriger noch eine
+Drittperson dies an ihrer Stelle übernehmen konnte.
+
+3.
+
+3.1. 3.1.1. Gemäss Ziff. 2161 des
+Kreisschreibens des Bundesamtes für Sozialversicherungen (BSV) über die Abgabe
+von Hilfsmitteln durch die Invalidenversicherung (KHMI), in der Fassung vom 1.
+Januar 2020, können Bauleitungshonorare in der Regel nicht von der IV
+übernommen werden. Ausnahmsweise ist eine Übernahme unter anderem dennoch
+möglich, wenn die Koordination der baulichen Anpassungen der versicherten
+Person behinderungsbedingt (Bsp. Minderintelligenz) oder umständehalber (Bsp.
+Spital-/Rehaaufenthalt) nicht zumutbar ist und weder ein Angehöriger noch eine
+Drittperson dies übernehmen kann (lit. e).
+
+3.1.2. Im IV-Rundschreiben Nr. 263 vom 21. August 2008 wird
+folgendes festgehalten: "Es kann vorkommen, dass bauliche Massnahmen, an
+welchen mehrere Firmen beteiligt sind, durch eine Bauführerschaft koordiniert
+werden müssen. In der Regel übernimmt diese Koordination die versicherte Person
+resp. ihr Vertreter. Ist dies für die versicherte Person oder ihren Vertreter
+indes nicht möglich oder unzumutbar, so kann diese Aufgabe einer Baufachperson
+übertragen werden. Dabei muss es sich nicht zwingend um einen Architekten
+handeln, der Auftrag kann auch einer der am Umbau beteiligten Firmen erteilt
+werden. Um in diesen Fällen die ordnungsgemässe Durchführung der von der
+Versicherung finanzierten Massnahmen zu gewährleisten und damit spätere Mängel
+auszuschliessen, kann die IV die dadurch entstehenden Mehrkosten
+(mit-)finanzieren. Bezüglich Notwendigkeit des Beizugs einer Baufachperson kann
+die E____ um eine Stellungnahme angefragt werden."
+
+3.1.3. Verwaltungsweisungen richten sich an die
+Durchführungsstellen und sind für das Sozialversicherungsgericht nicht
+verbindlich. Dieses soll sie aber bei seiner Entscheidung berücksichtigen,
+sofern sie eine dem Einzelfall angepasste und gerecht werdende Auslegung der
+anwendbaren gesetzlichen Bestimmungen zulassen. Das Gericht weicht also nicht
+ohne triftigen Grund von Verwaltungsweisungen ab, wenn diese eine überzeugende
+Konkretisierung der rechtlichen Vorgaben darstellen. Insofern wird dem
+Bestreben der Verwaltung, durch interne Weisungen eine rechtsgleiche
+Gesetzesanwendung zu gewährleisten, Rechnung getragen (BGE 133 V 587 E. 6.1).
+
+3.2. 3.2.1. Nach der Rechtsprechung
+unterliegt die Hilfsmittelversorgung - worunter bauliche Massnahmen zu
+subsumieren sind - den allgemeinen Anspruchsvoraussetzungen gemäss Art. 8 IVG
+(Geeignetheit, Erforderlichkeit, Eingliederungswirksamkeit; BGE 122 V 212 E.
+2c). Leistungen, die im Anhang zur HVI (Verordnung über die Abgabe von
+Hilfsmitteln durch die Invalidenversicherung, SR 831.232.51) aufgeführt sind,
+werden nicht ohne Weiteres, sondern nur soweit erforderlich und lediglich in
+einfacher und zweckmässiger Ausführung erbracht (Art. 21 Abs. 3 IVG; Art. 2
+Abs. 2 und Abs. 4 HVI). Die IV ist auch im Bereich der Hilfsmittel keine umfassende
+Versicherung, welche sämtliche durch die Invalidität verursachten Kosten
+abdecken will; das Gesetz will die Eingliederung lediglich soweit
+sicherstellen, als diese im Einzelfall notwendig, aber auch genügend ist und
+zudem der voraussichtliche Erfolg der Eingliederungsmassnahme in einem
+vernünftigen Verhältnis zu ihren Kosten steht (Urteil des Bundesgerichts
+9C_886/2013 vom 6. August 2014 E. 2.3 mit Hinweisen). Nach der Rechtsprechung
+bezieht sich die Notwendigkeit des Hilfsmittels auf die konkrete Situation, in
+welcher die versicherte Person lebt (BGE 135 I 161 E. 5.1).
+
+3.2.2. Rechtsprechungsgemäss ist die Schadenminderungspflicht
+als allgemeiner Grundsatz des Sozialversicherungsrechts bei der Leistungsfestsetzung
+regelmässig und zwingend zu beachten (BGE 129 V 460 E. 4.2 und BGE 117 V 394 E.
+4b; Urteil des Bundesgerichts 8C_786/2016 vom 4. April 2017 E. 2.2). Danach hat
+die versicherte Person nach Eintritt des Schadens alle ihr möglichen und
+zumutbaren Massnahmen zu treffen, um diesen zu mindern oder zu beheben (BGE 129
+V 460 E. 4.2). Einer leistungsansprechenden versicherten Person sind im Rahmen
+der Schadenminderungspflicht diejenigen Massnahmen zuzumuten, die ein
+vernünftiger Mensch in der gleichen Lage ergreifen würde, wenn er keinerlei
+Entschädigung zu erwarten hätte (BGE 133 V 504 E. 4.2).
+
+4.
+
+4.1. Gemäss Ziff. 3010 KHMI macht die E____
+auf Anfrage der IV-Stelle fachtechnische Beurteilungen für bauliche Massnahmen.
+Sie hat die Arbeit der IV-Stelle zu erleichtern, indem sie die Bedürfnisse der
+Behinderten objektiviert, die Hilfsmittelversorgung bezüglich Einfachheit und
+Zweckmässigkeit im Sinne der IV-Gesetzgebung überprüft, nicht als
+gerechtfertigt beurteilte Versorgungen ausreichend begründet, das
+Preis-Leistungsverhältnis beurteilt, die verschiedenen Aspekte einer
+Hilfsmittelversorgung in Beziehung zu den einschlägigen Bestimmungen der HVI
+und des KHMI bringt und der IV-Stelle für Rückfragen zur Verfügung steht (Rz.
+3014). Sie hat darauf zu achten, dass den über Art. 74 IVG mitfinanzierten
+Organisationen keine Leistungen doppelt vergütet werden. Die Abklärungen der E____
+haben ausschliesslich Empfehlungscharakter. Die Verantwortung für den Entscheid
+liegt bei der IV-Stelle (Rz. 3015).
+
+4.2. 4.2.1. Im vorliegenden Fall hat die E____ eine
+entsprechende Abklärung und Beurteilung vorgenommen. Zu diesem Zweck stand sie
+im Austausch mit der Beschwerdeführerin und deren Ehemann, sowie mit der
+zuständigen Fachperson der IV-Stelle und dem Architekten des F____. Gemeinsam
+wurde anlässlich einer Abklärung vor Ort genau definiert, auf welche
+Hilfsmittel und baulichen Anpassungen die Beschwerdeführerin angewiesen ist.
+Daraufhin wurden die benötigten Handwerker vom Architekten des F____ zu einer
+Begehung vor Ort eingeladen, damit sie die entsprechenden Offerten erstellen
+konnten. Eine derartige Unternehmerbegehung gehört nicht zum Aufgabengebiet der
+E____. Wie die E____ in ihrer Empfehlung ausführte, ist eine derartige
+Unternehmerbegehung wichtig, weil dabei sämtliche auszuführenden Arbeiten im
+Detail besprochen und definiert werden können.
+
+4.2.2. Die E____ empfahl daraufhin in ihrer fachtechnischen
+Beurteilung die Übernahme der Kosten für die rollstuhlgängige Anpassung des
+Hauszugangs (auch via Einstellhalle); für den Türantrieb bei der Haustüre, die
+rollstuhlgängige Anpassung der Balkontürschwelle, die Automatisierung des
+Sonnenstorens, die Anpassung von Badezimmer und Küche, sowie das Versetzen der
+Gegensprechanlage. Das Architektenhonorar des F____ für die Bauleitung in der
+Höhe von Fr. 12'000.-- (vgl. die Honorarofferte vom 25. Juni 2020, IV-Akte 170
+S. 57) empfahl die E____ nicht zur Übernahme. Dabei liess sie allerdings
+die Frage offen, ob die Voraussetzungen gemäss lit. e) Rz. 2161 KHMI für eine
+Übernahme des Bauleitungshonorars erfüllt seien. Übernehme die IV
+empfehlungsgemäss die Bauleitungskosten nicht, so bedeute dies, dass sämtliche
+offerierenden Firmen von der IV angeschrieben werden müssten. Bauleitung,
+Kostenkontrolle unter Berücksichtigung der Kostengutsprachen der IV sowie eine
+Abnahme des Werkes müsse die versicherte Person dann selber erledigen oder auf
+eigene Kosten an Dritte delegieren. Nach durchgeführter Arbeit würden die
+Firmen direkt mit der IV-Stelle abrechnen, bei Baumängeln müsse die versicherte
+Person als Bauherrschaft selber aktiv werden und mit den Handwerkern verhandeln
+(vgl. fachtechnische Beurteilung Nr. 108829/5 vom 6. November 2020, IV-Akte
+170).
+
+5.
+
+5.1. Die Beschwerdegegnerin entschied
+daraufhin mit Verfügung vom 23. Februar 2021 (IV-Akte 223), die Kosten für das
+Bauleitungshonorar nicht zu übernehmen. Zur Begründung führte sie aus, es seien
+keine triftigen Gründe ersichtlich, weshalb die Angehörigen der
+Beschwerdeführerin die erforderlichen Koordinationsaufgaben nicht hätten
+erfüllen können. Es habe sich um übliche Umbauten für den Einsatz eines
+Rollstuhls im Innenbereich gehandelt, die Handwerker seien fachtechnisch
+versiert und hätten schon mehrfach für die IV gleiche bauliche Anpassungen
+durchgeführt. Eine eigentliche Überwachung der Arbeiten sei daher nicht
+notwendig gewesen. Es seien sodann auch nicht alle Arbeiten gleichzeitig
+durchgeführt worden, sodass es allenfalls darum ging, die Arbeiten zu
+koordinieren und den Handwerkern den Zugang zur Baustelle zu gewährleisten.
+Fachtechnische Kenntnisse seien dazu nicht erforderlich gewesen. Das F____
+werde von der IV dafür finanziert, eine erste Besprechung, eine Besichtigung
+mit den Handwerkern, Massnahmenvorschläge und eine Grobkostenschätzung
+kostenfrei anzubieten. Das geltend gemachte Honorar sei zudem aufgrund der
+SIA-Norm 102 ermittelt worden und gehe weit über den Kostenrahmen dessen
+hinaus, was die IV beim Vorliegen der Anspruchsvoraussetzungen übernommen
+hätte.
+
+5.2. 5.2.1. Die Beschwerdeführerin
+befand sich vom 13. Februar 2020 bis zum 30. Juli 2020 im D____ zur stationären
+Rehabilitation. Anlässlich der mündlichen Parteiverhandlung gab sie an, während
+ihrer Abwesenheit seien die Arbeiten im Bad erfolgt. Die Anpassungen an der
+Balkontüre und der Küche seien erst nach ihrer Rückkehr durchgeführt worden.
+Die Umbausituation sei für sie schrecklich gewesen, sie sei damals psychisch in
+einem labilen Zustand gewesen (vgl. Verhandlungsprotokoll). Der Ehemann der
+Beschwerdeführerin berichtete seinerseits, der Sozialdienst des D____ habe
+ihnen den Architekten vermittelt. Er sei davon ausgegangen, dass dieser von der
+E____ bezahlt werde, da man ihm klar gesagt habe, es bestehe ein Anspruch
+darauf. Weder seine Frau, noch die gemeinsamen Kinder oder er selbst wären in
+der Lage gewesen, diesen Umbau zu koordinieren. Gleichzeitig habe er auch noch
+den bisherigen Haushalt auflösen müssen. Natürlich habe er hin und wieder ein
+Telefonat entgegennehmen können. Aber es sei ein sehr umfangreicher Umbau
+gewesen, auch wenn es sich jeweils um isolierte Projekte gehandelt habe.
+Insgesamt seien sicher acht bis neun verschiedene Handwerker beteiligt gewesen.
+
+5.2.2. Dem Arztbericht des Dr. med. K____, Facharzt
+für Psychiatrie und Psychotherapie, FMH, vom 15. Dezember 2020 (IV-Akte 252) lässt
+sich entnehmen, dass der Beschwerdeführer durch den Unfall seiner Frau
+psychisch stark destabilisiert wurde und sich in psychotherapeutische
+Behandlung begeben musste. Gemäss Angaben des behandelnden Psychiaters war es dem
+Ehemann der Beschwerdeführerin weder aus fachlicher Sicht noch kräftemässig
+möglich, die Bauleitung für den behinderungsbedingten Umbau der Wohnung zu
+übernehmen.
+
+5.3. Es ist unbestritten, dass ein Unfall, wie der
+von der Beschwerdeführerin erlittene, für die Familie zu einer psychischen
+Belastung werden kann, denn die Paraplegie eines Familienmitglieds verändert
+auch das Leben der Angehörigen. Alle Familienmitglieder müssen sich an die neue
+Situation gewöhnen. Der Ehemann der Beschwerdeführerin hat während der
+Hauptverhandlung nachvollziehbar geschildert, dass es für ihn sehr belastend war,
+sich mit der neuen Situation seiner Frau abzufinden und er mit der Bauleitung
+überfordert gewesen wäre (vgl. Verhandlungsprotokoll). Nichts desto trotz muss
+festgehalten werden, dass es sich aus objektiver Sicht im Vergleich um eine
+Standardsituation handelte, in der eingespielte Player zur Verfügung stehen,
+weshalb die Praxis zur ausnahmsweisen Übernahme von Bauleitungshonoraren streng
+ist (vgl. dazu auch das Urteil des Sozialversicherungsgerichts Basel-Stadt IV
+2021 150 vom 7. April 2022). So wird die F____ als private Organisation der
+Behindertenhilfe nach Art. 74 IVG von der Invalidenversicherung dafür
+finanziell unterstützt, Betroffenen kostenfrei Umbauberatung anzubieten. Diese
+umfasst - wie vorliegend auch - eine erste Besprechung, einen Wohnungsbesuch
+mit allen Beteiligten und das Erstellen des Protokolls inklusive
+Massnahmenvorschläge sowie das Erstellen einer Grobkostenschätzung (vgl.
+Honorarofferte vom 25. Juni 2020, IV-Akte 170 S. 57). Die daraufhin mandatierten
+Handwerksbetriebe (vgl. Offerten der involvierten Handwerker, IV-Akten 256,
+180, 170) gehörten zu den in der Region bekannten Spezialisten, die Arbeiten in
+der Grössenordnung des vorliegenden Umbaus regelmässig durchführen, insbesondere
+offenbar schon mehrfach für die IV bauliche Anpassungen vorgenommen haben und
+welche weitgehend selbstständig tätig werden können. Eine eigentliche
+Koordination der Arbeiten im Sinne einer Bauleitung durch einen Architekten war
+daher nicht erforderlich, zumal die einzelnen Projekte nicht alle gleichzeitig umgesetzt
+wurden. Es ist unbestritten, dass die Beschwerdeführerin während ihres
+Rehaaufenthaltes keine Bauleitungsaufgaben wahrnehmen konnte. Ihrem pensionierten
+Ehemann war es jedoch - gerade auch mit Blick auf den allgemeinen Grundsatz der
+Schadenminderungs- und Mitwirkungspflicht durchaus zumutbar, während ihrer
+Abwesenheit die Koordination der anfallenden Arbeiten zu übernehmen und den
+Handwerkern den Zugang zu gewähren. Gewisse Arbeiten, so etwa der Küchenumbau,
+erfolgten erst nach der Rückkehr der Beschwerdeführerin, sodass den Ehegatten
+gemeinsam die Bewältigung der anfallenden administrativen Aufgaben zugemutet
+werden durfte. Letztlich ist sodann nicht ersichtlich, weshalb die Söhne der
+Ehegatten nicht zumindest punktuell zur Unterstützung aufgerufen werden konnten.
+Denn die IV ist auch im Bereich der Hilfsmittel keine umfassende Versicherung,
+welche sämtliche durch die Invalidität entstandenen Kosten abdecken kann. Indem
+sie die Kosten der baulichen Anpassungsmassnahmen übernimmt und eine vorgängige
+Bauberatung durch die F____ via Art. 74 IVG finanziert, stellt sie sicher, dass
+die im Einzelfall notwendigen Massnahmen umgesetzt werden können und deren
+Kosten in einem vernünftigen Verhältnis bleiben. Die versicherte Person und
+ihre Angehörigen haben ihrerseits nach Eintritt des Schadenfalls alle ihnen
+möglichen und zumutbaren Massnahmen zu treffen, um den Schaden so weit als
+möglich zu mindern.
+
+5.2.4. In Würdigung der gesamten Umstände muss demnach
+zusammenfassend festgestellt werden, dass die Beschwerdegegnerin das Vorliegen
+der Voraussetzungen für eine ausnahmsweise Übernahme eines Bauleitungshonorars
+zu Recht verneint hat.
+
+6.
+
+6.1. Den obigen Ausführungen
+entsprechend ist die Beschwerde gegen die Verfügung vom 23. Februar 2021
+abzuweisen.
+
+6.2. Entsprechend dem Verfahrensausgang
+hat die Beschwerdeführerin die ordentlichen Kosten, bestehend aus einer Gebühr
+von CHF 500.00 zu tragen (Art. 69 Abs. 1 bis IVG).
+
+6.3. Die ausserordentlichen Kosten sind
+bei diesem Verfahrensausgang wettzuschlagen.
+
+Demgemäss erkennt das Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die ordentlichen
+Kosten des Verfahrens, bestehend aus einer Gebühr von CHF 500.00.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+Dr. G.
+Thomi lic. iur. H. Hofer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+          Bundesamt
+für Sozialversicherungen
+
+Versandt am:
