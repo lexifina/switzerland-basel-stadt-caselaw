@@ -1,0 +1,641 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.101"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2021.113"
+docket_2: "SVG.2023.101"
+decided: "2021-05-31"
+published: "2023-02-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75113&W10_KEY=3049211&nTrefferzeile=12&Template=search_result_document.html"
+cites_decisions: ["8C_461/2021", "8C_831/2010", "8C_97/2014", "9C_57/2019", "BGE 125 V 352", "BGE 132 V 93", "BGE 134 V 231", "BGE 134 V 322", "BGE 135 V 465", "BGE 144 I 21", "IV.2021.113"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# Verwaltungsexternes Gutachten beweiskräftig; Beschwerdeabweisung (Bundesgerichtsurteil 8C_398/2023 vom 07.03.2024)
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 8.
+Februar 2023
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), Dr. med. F.
+W. Eymann, MLaw B. Fürbringer
+
+und
+Gerichtsschreiberin Dr. K. Zimmermann
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch lic. iur. B____, [...]
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2021.113
+
+Verfügung vom 31. Mai 2021
+
+Verwaltungsexternes Gutachten
+beweiskräftig; Beschwerdeabweisung.
+
+Tatsachen
+
+I.
+
+Der Beschwerdeführer ist am [...] 1967 in [...] geboren und
+absolvierte dort das Gymnasium (IV-Akte 1, S. 6). Er reiste 1987 in die Schweiz
+ein (IV-Akte 1, S. 4). Hier arbeitete er in verschiedenen Anstellungen im [...]
+(vgl. IV-Akte 20), zuletzt als Leiter einer [...] Filiale, als er sich unter
+Hinweis auf Rücken- und Gelenkbeschwerden sowie auf eine Depression und eine
+Lungenentzündung am 26. Mai 2009 bei der Beschwerdegegnerin zum Leistungsbezug
+anmeldete (IV-Akte 1). Am 25. Juli 2009 verletzte sich der Beschwerdeführer bei
+einem Unfall am linken Bein (IV-Akte 17, S. 20 und 29, vgl. hierzu Schadenmeldung
+UVG, IV-Akte 22.2). Nachdem der Beschwerdeführer ab dem 5. Januar 2011 in einem
+Pensum von 80% bei der Firma C____ GmbH als Geschäftsstellenleiter sowie als
+Berater bei der D____ in einem Pensum von ca. 20% tätig war, schloss die
+Beschwerdegegnerin das Invalidenversicherungsverfahren ab (IV-Akte 49).
+
+Der Beschwerdeführer erwarb am 1. Juli 2014 das Fähigkeitszeugnis
+als [...] EFZ und meldete sich am 3. Juli 2014 erneut bei der
+Beschwerdegegnerin zum Leistungsbezug an (IV-Akte 57).
+
+Mit Einspracheentscheid vom 6. Januar 2015 stellte die
+Unfallversicherung ihre Leistungen in Bezug auf eine am 2. Juli 2013 erlittene
+HWS-Distorsion ein (IV-Akte 75.5, S. 1 ff.). Mit Verfügung vom 9. November 2016
+sprach sie ihm jedoch aufgrund des Unfalles vom 25. Juli 2009 eine Rente von
+18% zu (IV-Akte 110).
+
+Nach verschiedenen medizinischen und erwerblichen Abklärungen
+gab die Beschwerdegegnerin bei der E____ GmbH, [...], eine polydisziplinäre
+Begutachtung in den Disziplinen Allgemeine Innere Medizin, Neurologie,
+Psychiatrie und Rheumatologie in Auftrag, welche am 12. Oktober 2020 erstattet
+wurde (IV-Akte 204). Der Regionale Ärztliche Dienst (RAD) nahm hierzu Stellung
+(IV-Akte 207). Gestützt darauf informierte die Beschwerdegegnerin den
+Beschwerdeführer mit Vorbescheid vom 4. Februar 2021, dass sie beabsichtige,
+einen Rentenanspruch bei einem ermittelten IV-Grad von 18% abzulehnen (IV-Akte
+208). Der Beschwerdeführer erhob dagegen anwaltlich vertreten Einwand (IV-Akte
+209). Der Rechtsdienst äusserte sich am 29. März 2021 (IV-Akte 213). Nach
+Eingang weiterer medizinischer Berichte (IV-Akten 219-221), verneinte der RAD
+eine Verschlechterung der gesundheitlichen Situation seit der Begutachtung
+(Stellungnahme vom 26.05.2021, IV-Akte 223). In der Folge nahm die
+Beschwerdegegnerin beim Einkommensvergleich Anpassungen vor und lehnte mit Verfügung
+vom 31. Mai 2021 ausgehend von einem IV-Grad von 20% einen Rentenanspruch ab (IV-Akte
+225).
+
+II.
+
+Mit Beschwerde vom 22. Juni 2021 werden beim
+Sozialversicherungsgericht Basel-Stadt folgende Rechtsbegehren gestellt:
+
+1. Die Verfügung der
+Beschwerdegegnerin vom 31. Mai 2021 ist aufzuheben.
+
+2. Die
+Beschwerdegegnerin ist zu verurteilen, dem Beschwerdeführer die gesetzlichen
+Leistungen zu erbringen.
+
+3. Dem
+Beschwerdeführer ist mindestens eine Viertelsrente zuzusprechen.
+
+4. Die Beschwerdegegnerin
+ist zu verpflichten, berufliche Massnahmen abzuklären und durchzuführen.
+
+5. Eventualiter: Der
+Fall ist an die Beschwerdegegnerin zurückzuweisen, mit der Anweisung berufliche
+Massnahmen, insbesondere eine Umschulung und Weiterbildungen zu prüfen und
+durchzuführen.
+
+6. Dem
+Beschwerdeführer ist die unentgeltliche Prozessführung mit B____, Advokat, als
+dessen Vertreter zu gewähren.
+
+7. Unter
+o/e-Kostenfolge.
+
+In der Beilage reicht der Beschwerdeführer die Validenlohnberechnung
+der [...] und die Rentenverfügung vom 9. November 2016 sowie das
+Fähigkeitszeugnis [...] EFZ ein (Gerichtsakte 4, Urkunden 5, 6 und 8).
+
+Die Beschwerdegegnerin beantragt mit Beschwerdeantwort vom 16.
+August 2021 die Abweisung der Beschwerde, soweit darauf einzutreten sei, unter
+o/e-Kostenfolge.
+
+Mit Replik vom 14. Oktober 2021 hält der Beschwerdeführer an
+den gestellten Rechtsbegehren fest und beantragt die Durchführung einer
+mündlichen Parteiverhandlung. In der Beilage reicht er den Bericht von Dr. F____,
+Leitung Rheumatologie [...]klinik [...], vom 10. September 2021 (Gerichtsakte
+10, Urkunde 9), den Bericht von Dr. G____, FMH Radiologie und Nuklearmedizin,
+vom 21. Juni 2021 (a.a.O., Urkunde 10) mit dem ergänzenden Befundbericht vom
+13. Oktober 2021 (a.a.O., Urkunde 11), Informationen zur Ausbildung als
+Fachperson interkulturelles [...] (a.a.O., Urkunden 12a und 12b) sowie Kopien
+der Verfügung vom 25. Januar 2018 des [...] und des Schreibens des [...] vom 4.
+Oktober 2021 ein (a.a.O., Urkunden 13a und 13b).
+
+Die Parteien halten mit Duplik vom 10. November 2021 resp.
+Triplik vom 24. Januar 2022 an ihren Anträgen fest. Die Beschwerdegegnerin
+reicht mit Eingabe vom 3. Februar 2023 die aktualisierten Akten mit der
+RAD-Stellungnahme vom 8. November 2021 ein (IV-Akte 2 des Dossiers vom
+3.02.2023).
+
+III.
+
+Mit Instruktionsverfügung vom 3. September 2021 wird dem Gesuch
+um Gewährung der unentgeltlichen Rechtspflege entsprochen.
+
+IV.
+
+Am 8. Februar 2023 findet die Hauptverhandlung der Kammer des
+Sozialversicherungsgerichts statt. Der Beschwerdeführer wird befragt und die
+Vertreter gelangen zum Vortrag. Für alle Ausführungen wird auf das
+Verhandlungsprotokoll und die nachstehenden Entscheidungsgründe verwiesen.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz zuständig zum Entscheid über die vorliegende Streitigkeit (§ 82 Abs. 1
+des Gesetzes vom 3. Juni 2015 betreffend die Organisation der Gerichte und der
+Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG; SG 154.100]). Die
+örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus Art. 69 Abs. 1
+des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959 (IVG; SR
+831.20).
+
+1.2. Da die Beschwerde fristgerecht eingereicht wurde und auch die
+übrigen formellen Voraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin hat in der angefochtenen Verfügung vom 21. Mai
+2021 einen Rentenanspruch bei einem ermitteln IV-Grad von 20% verneint. Sie
+stützte sich dabei in medizinischer Sicht auf das Gutachten der E____ GmbH vom 12.
+Oktober 2020 (IV-Akte 204).
+
+2.2. Der Beschwerdeführer bringt unter Vorlage verschiedener
+medizinischer Berichte vor, dass das Gutachten veraltet sei und deshalb neue
+Abklärungen angezeigt seien. Zudem beanstandet er in erwerblicher Hinsicht den
+von der Beschwerdegegnerin vorgenommenen Einkommensvergleich.
+
+2.3. Streitig und zu prüfen ist damit, ob sich die Verfügung mit Blick
+auf die Beschwerde halten lässt.
+
+3.
+
+3.1. Für die Bemessung der Invalidität von erwerbstätigen Versicherten
+ist Art. 16 ATSG anwendbar (Art. 28a Abs. 1 Satz 1 IVG). Danach wird für die
+Bestimmung des Invaliditätsgrades das Erwerbseinkommen, das die versicherte
+Person nach Eintritt der Invalidität und Durchführung der medizinischen
+Behandlung und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare
+Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung
+gesetzt zum Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid
+geworden wäre. Dies ist die allgemeine Methode des Einkommensvergleichs (vgl.
+u.a. BGE 144 I 21, 23 E. 2.1).
+
+3.2. Art. 43 Abs. 1 ATSG statuiert die Sachverhaltsabklärung von Amtes
+wegen, wobei es grundsätzlich im Ermessen des Versicherungsträgers  und im
+Beschwerdefall des Gerichts  liegt, darüber zu befinden, mit welchen Mitteln
+diese zu erfolgen hat. Was zu beweisen ist, ergibt sich aus der jeweiligen
+Sach- und Rechtslage. Gestützt auf den Untersuchungsgrundsatz ist der
+Sachverhalt soweit zu ermitteln, dass über den Leistungsanspruch zumindest mit
+dem Beweisgrad der überwiegenden Wahrscheinlichkeit entschieden werden kann
+(vgl. u.a. das Urteil des Bundesgerichts 9C_57/2019 vom 7. März 2019 E. 3.2).
+
+3.3. Um den Gesundheitszustand einer versicherten Person beurteilen zu
+können, ist die Verwaltung (und im Beschwerdefall das Gericht) auf Unterlagen
+angewiesen, die ärztliche und gegebenenfalls auch andere Fachleute zur
+Verfügung zu stellen haben. Aufgabe der ärztlichen Fachperson ist es, den
+Gesundheitszustand zu beurteilen und dazu Stellung zu nehmen, in welchem Umfang
+und bezüglich welcher Tätigkeiten die versicherte Person arbeitsunfähig ist. Im
+Weiteren sind die ärztlichen Auskünfte eine wichtige Grundlage für die
+Beurteilung der Frage, welche Arbeitsleistungen der Person noch zugemutet
+werden können (vgl. BGE 132 V 93, 99 f. E. 4). Hinsichtlich des Beweiswertes
+eines Arztberichtes ist entscheidend, ob der Bericht für die streitigen Belange
+umfassend ist, auf allseitigen Untersuchungen beruht, auch die geklagten
+Beschwerden berücksichtigt, in Kenntnis der Vorakten (Anamnese) abgegeben
+worden ist, in der Beurteilung der medizinischen Situation einleuchtet und ob
+die Schlussfolgerungen des Experten begründet sind (vgl. BGE 134 V 231, 232 E.
+5.1 mit Hinweis). Gutachten externer Spezialärzte, welche von
+Versicherungsträgern im Verfahren nach Art. 44 ATSG eingeholt wurden und den
+Anforderungen der Rechtsprechung entsprechen, darf das Gericht vollen
+Beweiswert zuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 135 V 465, 470 E. 4.4; BGE 125 V
+352, 353 E. 3b/bb).
+
+3.4. Die unterschiedliche Natur von Behandlungsauftrag behandelnder
+Fach-personen einerseits und von Begutachtungsauftrag begutachtender
+Fachpersonen andererseits lässt es rechtsprechungsgemäss nicht zu, ein
+Administrativ- oder Ge-richtsgutachten stets in Frage zu stellen, wenn
+behandelnde Fachpersonen zu an-derslautenden Einschätzungen gelangen (Urteil
+8C_461/2021 vom 3. März 2022, E. 4.1). Aussagen von behandelnden Ärzten sind
+grundsätzlich mit Vorbehalt zu wür-digen, da es einer Erfahrungstatsache
+entspricht, dass behandelnde Ärzte im Hin-blick auf ihre auftragsrechtliche
+Vertrauensstellung in Zweifelsfällen eher zugunsten ihrer Patienten aussagen
+(vgl. BGE 135 V 465, 470 E. 4.5 mit Hinweisen).
+
+3.5. Im Administrativverfahren nach Art. 43 Abs. 1 ATSG wie auch im
+kantonalen Sozialversicherungsprozess nach Art. 61 lit. c ATSG gilt der
+Untersuchungsgrundsatz. Danach haben die Verwaltung und das
+Sozialversicherungsgericht den rechtserheblichen Sachverhalt von Amtes wegen
+festzustellen. Diese Untersuchungspflicht dauert so lange, bis über die für die
+Beurteilung des streitigen Anspruchs erforderlichen Tatsachen hinreichende
+Klarheit besteht. Führen die im Rahmen des Untersuchungsgrundsatzes von Amtes
+wegen vorzunehmenden Abklärungen den Versicherungsträger oder das Gericht bei
+umfassender, sorgfältiger, objektiver und inhaltsbezogener Beweiswürdigung zur
+Überzeugung, ein bestimmter Sachverhalt sei als überwiegend wahrscheinlich zu
+betrachten und es könnten weitere Beweismassnahmen an diesem feststehenden
+Ergebnis nichts mehr ändern, liegt im Verzicht auf die Abnahme weiterer Beweise
+keine Verletzung des Anspruchs auf rechtliches Gehör (antizipierte
+Beweiswürdigung).
+
+4.
+
+4.1. 4.1.1. Die Gutachter der E____ GmbH attestierten dem
+Beschwerdeführer folgende Diagnosen mit Einfluss auf die Arbeitsfähigkeit:
+
+1. Hypermobilität
+(ICD-10 M35.7)
+
+2. Belastungsdefizit
+linkes Sprunggelenk (ICD-10 M25.57)
+
+- St. n. Supinationstrauma
+am 26.07.2009 mit Ruptur des fibularen und medialen Bandapparates
+
+- Klinisch unauffälliger
+Befund
+
+- radiologisch kein
+Nachweis von degenerativen oder entzündlichen Veränderungen (Rx 12/19)
+
+3. Chronisches
+zervikospondylogenes Schmerzsyndrom (ICD-10 MS3.1)
+
+- kernspintomographisch
+beginnende degenerative Veränderungen HWK3-HWK7, kein Nachweis einer
+Diskushernie (MRI 03/20)
+
+4. Chronisches
+lumbospondylogenes Schmerzsyndrom (ICD-10 MS4.5)
+
+- myostatische
+Insuffizienz mit den entsprechenden muskuloligamentären Überlastungsreaktionen
+
+- kernspintomographisch
+Diskusbulging und Spondylarthrosen LWK3-SWK1, hochgradige osteodiskoligamentäre
+Spinalkanalstenose LWK4/5 bei degenerativen Veränderungen und anlagebedingt
+engem Spinalkanal (MRI 03/20)
+
+- im EMG kein
+Nachweis von frischer Denervationsaktivität L5 bis S1 beidseits (IV-Akte 204,
+S. 9 f.)
+
+4.1.2. Als Diagnosen ohne Auswirkungen hielten die Gutachter
+fest:
+
+1. Leichte
+depressive Episode (ICD-10 F32.00)
+
+2. Chronische
+Schmerzstörung mit somatischen und psychischen Faktoren (ICD-10 F45.41)
+
+3. Rezidivierende
+Gonalgien beidseits (ICD-10 M25.56)
+
+- klinisch
+unauffälliger Befund ohne Hinweise für Meniskusläsion oder Bandinstabilitäten
+
+- sonographisch
+06/2020 geringer Kniegelenkserguss links
+
+4. Hypothyreose
+(ICD-10 E03.9)
+
+- mit
+medikamentäser Substitutionsbehandlung kompensiert
+
+5. Anamnestisch
+Hämorrhoidalleiden (ICD-10 K64.0, zum Ganzen: IV-Akte 204, S. 10)
+
+4.2. Die Gutachter hielten fest, dass der Beschwerdeführer aus
+polydisziplinärer Sicht für eine körperlich leichte bis selten mittelschwere,
+wechselbelastende Tätigkeit wie diejenige als [...], aber auch eine solche im
+Verkauf, uneingeschränkt arbeitsfähig sei. Lediglich körperlich schwere und
+andauernd mittelschwere Tätigkeiten und solche mit Zwangshaltungen der
+Wirbelsäule seien ihm nicht mehr zumutbar (IV-Akte 204, S. 10). Die zumutbare
+Arbeitsfähigkeit betrage sowohl in der zuletzt ausgeübten Tätigkeit wie auch in
+einer Verweistätigkeit 8.4 Stunden pro Tag (IV-Akte 204, S. 11). Zum zeitlichen
+Verlauf führten die Gutachter aus, nach den verschiedenen Unfällen habe eine
+Arbeitsunfähigkeit von einigen Wochen bis wenigen Monaten festgestellt werden
+können. Eine länger andauernde, höhergradige Arbeitsunfähigkeit über eine
+längere Zeitdauer sowohl für die angestammte wie auch für jede angepasste
+Tätigkeit habe jedoch nicht bestanden (IV-Akte 204, S. 11 f.).
+
+4.3. Zunächst ist festzustellen, dass das Gutachten die formellen und
+materiellen Anforderungen der Rechtsprechung an beweiskräftige medizinische
+Erhebungen erfüllt, weshalb ihm volle Beweiskraft zukommt. Es beruht auf
+einlässlichen fachärztlichen Untersuchungen, ist in Kenntnis der relevanten
+Vorakten (Anamnese) ergangen und berücksichtigt die geklagten Beschwerden, auch
+aus subjektiver Sicht (vgl. Erwägung 3.3 vorstehend). Insbesondere ist darauf
+hinzuweisen, dass eine umfassende Zusammenstellung des gesamten
+Krankheitsverlaufs aus gutachterlicher Sicht beginnend im Jahre 2009
+vorgenommen wurde. Darüber hinaus begründeten die Gutachter die Herleitung der
+Diagnosen nachvollziehbar und verwiesen unter anderem darauf, dass die
+Hauptursache der Beschwerden die muskulären Insuffizienzen seien (IV-Akte 204,
+S. 10). In der neurologischen Untersuchung seien keine radikulären Symptome
+festgestellt worden und eine neurologisch bedingte Schmerzursache bestehe nicht
+(a.a.O.). Weiter führten sie aus, die chronische Schmerzstörung mit somatischen
+und psychischen Faktoren erkläre die vom Exploranden verstärkt empfundenen
+Beschwerden, welche bei den somatischen Untersuchungen nicht vollständig hätten
+zugeordnet werden können (a.a.O.). Die depressive Symptomatik sei nur
+leichtgradig ausgeprägt und schränke den Exploranden nicht ein (a.a.O.). Bei
+einer Gesamtwürdigung muss daher festgestellt werden, dass sich das Gutachten
+in der Darlegung der medizinischen Zusammenhänge als schlüssig und einleuchtend
+erweist. Es kann vollumfänglich darauf abgestellt werden.
+
+4.4. Die vom Beschwerdeführer vorgebrachten neuen medizinischen
+Unterlagen vermögen die Schlussfolgerungen des Gutachtens nicht in Zweifel zu
+ziehen.
+
+4.5. 4.5.1. Der Beschwerdeführer macht zunächst geltend, die neusten
+bildgebenden Befunde würden die gutachterlichen Einschätzungen in
+neurologischer Hinsicht widerlegen (Beschwerde, Rz. 6).
+
+4.5.2. Dies trifft jedoch nicht zu. Wie bereits der RAD-Arzt Dr. H____, FMH
+Orthopädie, FMH Physikalische und Rehabilitative Medizin, festgehalten hat,
+zeigt das MRT HWS vom 23. März 2021 zu den Voruntersuchungen (MRT HWS vom 10.
+Januar 2019, vom 18. November 2015 und früher) stationäre unveränderte Befunde
+hinsichtlich der Wurzeln C3 links bis C6 links (IV-Akte 223, S. 5), eine leicht
+regrediente Diskusprotrusion HWK 5/6, eine bekannte Stenose C5 rechts sowie
+mässiggradige C8 rechts, unverändert leichte Stenose C4 rechts und eine
+regrediente Diskushernie HWK 6/7. Weiter wurde im MRI festgehalten, dass keinerlei
+Hinweise auf eine segmentale Instabilität bestanden hätten. Zusammenfassend zeigte
+sich im MRI HWS vom 23. März 2021 keinerlei Progression der degenerativen
+Befunde, auf einigen Segmentebenen fanden sich sogar regrediente Befunde (a.a.O.).
+
+4.6. 4.6.1. Weiter bringt der Beschwerdeführer vor, die von seiner
+behandelnden Ärztin Dr. F____ neu diagnostizierte polyarthritische Gicht mache
+zumindest eine Neubeurteilung des rheumatologischen Teilgutachtens notwendig
+(Replik, Rz. 7). Ferner sei entgegen der Auffassung der rheumatologischen
+Gutachterin mit dem Bericht von Dr. G____ vom 21. Juni 2021 und dessen ergänzenden
+Befundbericht vom 13. Oktober 2021 belegt, dass beim Beschwerdeführer ein
+entzündliches Geschehen vorliege (Replik, Rz. 6). Es sei fachlich abzuklären, inwiefern
+die Auswirkungen der übrigen Diagnosen aufgrund der neuen Bilddiagnostik
+ebenfalls neu einzuschätzen seien.
+
+4.6.2. Dieser Auffassung kann vorliegend nicht gefolgt werden. Die
+vom Beschwerdeführer angeführten Berichte wurden bereits dem RAD-Arzt Dr. H____,
+FMH Orthopädie und FMH Physikalische Medizin und Rehabilitation vorgelegt.
+Dieser hielt mit Stellungnahme vom 8. November 2021 fest, dass die Diagnose der
+Behandlerin Dr. F____ (vgl. Gerichtsakte 10, Urkunde 9) ohne medizinische
+Angaben erfolgt sei, insbesondere ohne Anamnese oder klinischen Befund (IV-Akte
+2 des Dossiers vom 3.02.2023, S. 5). Zwar seien die funktionellen
+Einschränkungen hinsichtlich einer ausschliesslich stehenden Tätigkeit
+nachvollziehbar, aber im positiven Leistungsbild im Sinne des Wechselrhythmus
+bereits berücksichtigt. Die weiteren Aussagen seien weder begründet noch
+nachvollziehbar (IV-Akte 9 vom 3.2.2023, S. 5). Darauf kann vorliegend
+abgestellt werden. Ferner ist der Erfahrungstatsache Rechnung zu tragen, dass
+behandelnde Ärzte im Hinblick auf ihre auftragsrechtliche Vertrauensstellung in
+Zweifelsfällen mitunter eher zugunsten ihrer Patienten aussagen (vgl. Erwägung
+3.4 vorstehend), sodass entgegen der Auffassung des Beschwerdeführers (Replik,
+Rz. 10) die polyarthritische Gicht keinen Einfluss auf die gutachterlich
+festgestellte volle Arbeitsfähigkeit hat.
+
+4.6.3. Darüber hinaus vermerkte der RAD-Arzt Dr. H____ zum
+Befund und Kommentar von Dr. G____, dass sich radiologisch nur sehr diskrete
+Befunde im Bereich der Füsse gefunden hätten (CT Fuss beidseits vom
+21.06.2021). Dass auch geringe Urat-Ablagerungen in den Sehnen/Ligamenten der
+Vorfüsse zu episodischen Entzündungsschüben mit dementsprechenden schmerzhaften
+Phasen der betroffenen Gelenke führen können, sei richtig. In diesem Fall müsse
+der Schub adäquat behandelt werden, stelle jedoch keine längerfristige
+Leistungseinschränkung dar (kein Nachweis einer Chondrokalzinose, keine
+höhergradigen degenerativen Veränderungen, keine Erosionen, zum Ganzen: IV-Akte
+2 des Dossiers vom 3.02.2023, S. 5).
+
+4.7. Im Ergebnis ist nach Einschätzung des RAD-Arztes auch unter
+Würdigung aller nach dem polydisziplinären Gutachten vom 12. Oktober 2020
+eingereichten medizinischen Unterlagen weiterhin unverändert von einem
+positiven Leistungsbild für leichte, bis selten mittelschwere,
+wechselbelastende Tätigkeiten ohne Einnahme von wirbelsäulenbelastenden
+Zwangshaltungen mit einem Pensum von 100% auszugehen (vgl. a.a.O.). Diese
+Ausführungen überzeugen.
+
+4.8. In einem Zwischenfazit ist festzustellen, dass die vorhandenen
+Unterlagen eine zuverlässige Beurteilung des Gesundheitszustandes und der
+Arbeitsfähigkeit des Beschwerdeführers erlauben. Daher ist in medizinischer
+Hinsicht von einer vollen Arbeitsfähigkeit auszugehen. Weitere Abklärungen sind
+nicht angezeigt.
+
+5.
+
+5.1. In einem nächsten Schritt ist der von der Beschwerdegegnerin
+vorgenommene Einkommensvergleich zu prüfen.
+
+5.2. Die Beschwerdegegnerin hat das Vaildeneinkommen im Rahmen des
+Einkommensvergleichs anhand der zuletzt ausgeübten Tätigkeit als [...] (80%)
+und [...] (20%) bestimmt.
+
+5.3. Der Beschwerdeführer lässt vorbringen, er wäre bei guter Gesundheit
+vollzeitlich erwerbstätig, entweder in einem in verantwortungsvoller Position
+bei der [...] oder bei der Firma C____ GmbH (Beschwerde, Rz. 8). Daneben würde
+er weiterhin seine Landsleute bei administrativen Angelegenheiten unterstützen,
+sowie [...]dienste für Behörden und Gerichte verrichten. Allerdings beanstandet
+er, dass die Beschwerdegegnerin zu Unrecht ein 20%-Pensum als [...]
+berücksichtigt hat und macht geltend, dass er über keine Ausbildung als [...]
+verfüge, die [...] in verschiedenen Kantonen neu organisiert und dass ihm die
+Mandate derzeit wegbrechen würden.
+
+5.4. 5.4.1. Der Verfügung der Unfallversicherung kann entnommen werden,
+dass der Beschwerdeführer im Jahr 2011 Fr. 57'196 bei der Firma C____ GmbH
+erzielte und  in seiner Tätigkeit als [...]  bei der D____ Fr. 8'970 und beim
+I____ Fr. 5'234 verdiente (vgl. IV-Akte 110, S. 2). Stellt man diese Einkommen
+([...]: Fr. 57'196; [...]: Fr. 8'970+5'234 = 14'204) Verhältnis zum
+Gesamteinkommen (Fr. 71'400), so ergibt sich ein Pensum von ca. 80% im [...]
+und von ca. 20% als [...]. Indem die Beschwerdegegnerin die Gewichtung der
+beiden Einkommensteile beim Valideneinkommen in 80% und 20% von der
+Unfallversicherung übernommen hat, ist sie demnach korrekt vorgegangen.
+
+5.4.2. Da das Arbeitsverhältnis bei der Firma C____ GmbH bereits per 31.
+Mai 2012 beendet wurde, konnte die Beschwerdegegnerin dieses Einkommen jedoch
+nicht mehr für den Einkommensvergleich heranziehen, sondern hat zu Recht für
+den Anteil des Valideneinkommens im [...] die Schweizerische
+Lohnstrukturerhebung des Bundesamtes für Statistik LSE 2014 (Tabelle TA1, [...]
+Männer, Kompetenzniveau 3, mit Umrechnung von 40 auf 41.7 Wochenstunden,
+zuzüglich Nominallohnentwicklung bis 2015 von 0.27%) herangezogen. Laut dieser
+konnten männliche [...] im Jahr 2015 ein durchschnittliches Einkommen von Fr.
+76'743.00 erzielen bzw. Fr. 61'394.00 bei dem zuletzt ausgeübten Pensum von 80%
+(IV-Akte 224, S. 1). Entgegen der Ansicht des Beschwerdeführers (Triplik, Rz.
+7) erweist sich dabei das von der Beschwerdegegnerin gewählte Kompetenzniveau 3
+als korrekt und es ist darauf hinzuweisen, dass auf das vom Beschwerdeführer angenommene
+Valideneinkommen von Fr. 83'500.00 (Beschwerde, Rz. 8) resp. 90'000 (Replik,
+Rz. 9; Triplik, Rz. 5) vor dem Hintergrund, dass der Beschwerdeführer nach
+seinem IK-Kontoauszug nie ein Einkommen in dieser Höhe erzielt hat (vgl.
+IV-Akte 136), nicht abgestellt werden kann.
+
+5.5. 5.5.1. Bei der Ermittlung des Anteils zur Ermittlung des
+Valideneinkommens als [...] hat die Beschwerdegegnerin korrekterweise auf die LSE
+2014 Tabelle TA1, Sonst. freiberufi., wiss. u. techn. Tätigkeiten Männer,
+Kompetenzniveau 1: Fr. 5'455.00, mit Umrechnung von 40 auf 41.7 Wochenstunden,
+zuzüglich Nominallohnentwicklung bis 2015 von 0.27% abgestellt. Laut dieser
+konnten männliche [...] im Jahr 2015 ein durchschnittliches Einkommen von Fr.
+68'426.00 erzielen bzw. Fr. 13'685.00 bei dem zuletzt ausgeübten Pensum von 20%
+(was dem von der Unfallversicherung ermittelten Einkommen von Fr. 14'204 sehr
+nahe kommt).
+
+5.5.2. Hinweise, dass der Beschwerdeführer während seiner Erwerbstätigkeit im
+[...] in einem höheren als dem angenommenen 20% Pensum als [...] gearbeitet
+hat, fehlen. Im Übrigen würde auch bei dem vom Beschwerdeführer angeführten
+Validenlohn von Fr. 83'588.60 (110%: 100% [...] und 10% [...]) sowie des
+gewährten 10% leidensbedingten Abzugs (vgl. nachfolgende Erwägungen) ein
+IV-Grad von 28% und damit kein Rentenanspruch resultieren.
+
+5.6. Das Invalideneinkommen ermittelte die Beschwerdegegnerin gestützt
+auf die LSE 2014 Tabelle TA1, Total Männer, Kompetenzniveau 1, mit Umrechnung
+von 40 auf 41.7 Wochenstunden, zuzüglich Nominallohnentwicklung bis 2015 von
+0.27%) und gewährte dem Beschwerdeführer einen leidensbedingten Abzug von 10%
+(IV-Akte 225, S. 2). Der Beschwerdeführer ist jedoch der Ansicht, es sei ein
+Abzug von mindestens 30% angemessen (Beschwerde, Rz. 17).
+
+5.7. Rechtsprechungsgemäss ist der Tabellenwert des Invalideneinkommens
+bei Vorliegen gewisser Umstände (leidensbedingte Einschränkung, Alter,
+Dienstjahre, Nationalität/Aufenthaltskategorie und Beschäftigungsgrad) um
+maximal 25% zu kürzen (BGE 134 V 322, 327 f. E. 5.2; Urteile des Bundesgerichts
+8C_831/2010 vom 31. März 2011 E. 8.1 und 8C_97/2014 vom 16.07.2014 E. 2.1.). Ob
+ein (behinderungsbedingt oder anderweitig begründeter) Abzug vom hypothetischen
+Invalideneinkommen vorzunehmen sei, ist eine Rechtsfrage. Demgegenüber stellt
+die Höhe des Abzuges eine typische Ermessensfrage dar (vgl. a.a.O.).
+
+5.8. Grundsätzlich wäre es vertretbar beim Beschwerdeführer mangels
+ausgewiesener dauernder Arbeitsunfähigkeit resp. Invalidität keinen
+leidensbedingten Abzug vorzunehmen. Dennoch wurde zu Gunsten des Beschwerdeführers
+ein Abzug von 10% gewährt, was unter Berücksichtigung der vorliegenden
+Einschränkungen grosszügig bemessen ist. Ein weiterer Abzug ist nicht angezeigt
+und offensichtlich nicht gerechtfertigt, handelt es sich doch bei den dem
+Beschwerdeführer medizinisch-theoretisch zumutbaren Arbeiten nicht um schwere
+Tätigkeiten. Die übrigen einkommensbeeinflussenden Merkmale sind beim Beschwerdeführer
+nicht vorhanden, sodass kein Anlass besteht, in das Ermessen der Vorinstanz
+einzugreifen.
+
+5.9. Zusammenfassend ist festzustellen, dass die Beschwerdegegnerin einen
+Rentenanspruch des Beschwerdeführers zu Recht verneint hat.
+
+6.
+
+6.1. Der Beschwerdeführer beantragt schliesslich die Zusprache
+beruflicher Massnahmen, da ein Verdienstausfall von 20% vorliege (Beschwerde,
+Rz. 20).
+
+6.2. Dieser Ansicht kann nicht gefolgt werden. Der Beschwerdeführer ist
+sowohl in der angestammten Tätigkeit im [...] sowie als [...] voll
+arbeitsfähig. Mangels Arbeitsunfähigkeit in der angestammten Tätigkeit ([...]
+und [...]) liegt weder eine qualifizierende Einschränkung noch eine erhebliche
+Erwerbseinbusse vor. Wie bereits der RAD festgehalten hat wurden bei den
+Untersuchungen der Gutachterstelle keine Hindernisse festgestellt, welche es
+dem Versicherten verunmöglichen würden, sein Arbeitspensum als [...]
+entsprechend dem obigen Leistungsvermögen zu steigern (IV-Akte 207, S. 7).
+
+6.3. Ferner kommt hinzu, dass der Beschwerdeführer im Verlaufe des
+Beschwerdeverfahrens bei der J____ GmbH eine neue Stelle als "[...]"
+angetreten hat und für die K____ als [...] tätig ist. Ein Anspruch auf eine
+Umschulung kann daher offensichtlich nicht bestehen.
+
+7.
+
+7.1. Aus diesen Erwägungen folgt, dass die Beschwerde abzuweisen ist.
+
+7.2. Dem Verfahrensausgang entsprechend hat der Beschwerdeführer die
+ordentlichen Kosten des Verfahrens, bestehend aus einer Gebühr von Fr. 800.00
+(Art. 69 Abs. 1 bis IVG) zu tragen. Da ihm die unentgeltliche
+Prozessführung bewilligt worden ist, gehen die ordentlichen Kosten zu Lasten
+des Staates.
+
+7.3. Die ausserordentlichen Kosten sind entsprechend dem Ausgang des
+Verfahrens wettzuschlagen. Dem Beschwerdeführer wurde die unentgeltliche
+Rechtspflege bewilligt, weshalb seinem Vertreter ein angemessenes
+Kostenerlasshonorar zuzusprechen ist (Art. 61 lit. f ATSG). Bei der Bemessung
+des Honorars in Kostenerlassfällen geht das Sozialversicherungsgericht von der
+Faustregel aus, dass bei der Überprüfung von Invalidenrenten mit einem doppelten
+resp. dreifachen Schriftenwechsel, wenn die Schriftsätze, wie vorliegend,
+relativ kurz ausfallen, Fr. 3'000.00 zugesprochen werden. Für die Hauptverhandlung
+wird ein Zuschlag von Fr. 600.00 gewährt. Daraus resultiert ein Kostenerlasshonorar
+von total Fr. 3'600.00 inklusive Auslagen, welches, zuzüglich Mehrwertsteuer,
+zuzusprechen ist.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen
+Kosten, bestehend aus einer Gebühr von Fr. 800.00. Sie gehen zufolge
+Bewilligung des Kostenerlasses an ihn zu Lasten des Staates.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen. Dem Vertreter des Beschwerdeführers im Kostenerlass, lic. iur. B____,
+Advokat, wird ein Anwaltshonorar von Fr. 3'600.00 (inklusive Auslagen) zuzüglich
+Mehrwertsteuer von Fr. 277.20 (7,7%) aus der Gerichtskasse zugesprochen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+Dr. G. Thomi Dr.
+K. Zimmermann
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt
+für Sozialversicherungen
+
+Versandt am:
