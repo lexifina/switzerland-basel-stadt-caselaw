@@ -1,0 +1,326 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.174"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "KV"
+docket: "KV.2021.24"
+docket_2: "SVG.2022.174"
+decided: "2021-06-30"
+published: "2022-03-30"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73860&W10_KEY=3049211&nTrefferzeile=93&Template=search_result_document.html"
+cites_decisions: ["8C_256/2020", "9C_877/2017", "BGE 110 V 72", "BGE 119 V 89", "BGE 131 V 153", "BGE 132 V 200", "BGE 134 V 49", "BGE 142 V 389", "KV.2021.24", "KV.2021.25"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-037.md", "switzerland/bund/acts/830.1/art-038.md", "switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/830.1/art-052.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/830.1/art-060.md"]
+---
+
+# KVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 30.
+März 2022
+
+Mitwirkende
+
+lic. iur. R. Schnyder (Vorsitz), C.
+Müller, Dr. med. F. W. Eymann
+
+und
+Gerichtsschreiberin Dr. B. Gruber
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführerin
+
+B____ AG
+
+Rechtsdienst, [...]
+
+Beschwerdegegnerin
+
+Gegenstand
+
+KV.2021.24
+
+Einspracheentscheid vom 30. Juni
+2021
+
+Parteientschädigung im
+Einspracheverfahren
+
+Tatsachen
+
+I.
+
+Am 21. September 2016 betrieb die Beschwerdegegnerin die
+Beschwerdeführerin für ausstehende Prämien den Zeitraum August 2016 bis Oktober
+2016 betreffend in der Höhe von Fr. 1781.40 (nebst Zins ab dem 1. September
+2016), Kostenbeteiligungen von Fr. 15.70, Mahnspesen von Fr. 150.00,
+Bearbeitungskosten von Fr. 145.00 (insgesamt Fr. 2092.10). Am 24. Juli 2017
+stellte die Beschwerdegegnerin das Fortsetzungsbegehren beim Betreibungsamt
+Basel-Stadt (vgl. Beschwerdeantwort).
+
+Am 13. Mai 2020 betrieb die Beschwerdegegnerin die
+Beschwerdeführerin ein weiteres Mal über Fr. 1781.40 (zuzüglich Zins von
+5 %, Mahnspesen, Dossiergebühren und Betreibungskosten; Betreibung Nr.
+20018600; Beschwerdebeilage [BB] 5A). Dagegen erhob die Beschwerdeführerin am 13.
+Juni 2020 (BB 5B) Rechtsvorschlag. Mit Zahlungsverfügung vom 19. Juni 2020 (Beschwerdeantwortbeilage
+[BAB] 4) hob die Beschwerdegegnerin den Rechtsvorschlag auf. Dagegen erhob die
+Beschwerdeführerin am 18. Juli 2020 (BAB 11) Einsprache.
+
+Am 20. Juli 2020 (BB 3A) stellte die Beschwerdeführerin der
+Beschwerdegegnerin, Abteilung Buchhaltung, Rechnung in der Höhe von insgesamt
+Fr. 283.70 für die durch die neuerliche Betreibung entstandenen Kosten.
+
+Die Beschwerdegegnerin hiess die Einsprache mit Einspracheentscheid
+vom 30. Juni 2021 (BAB 12) gut und zog die Betreibung zurück, sprach der
+Beschwerdeführerin jedoch die ebenfalls beantragte Parteientschädigung für das
+Einspracheverfahren nicht zu.
+
+II.
+
+In der Beschwerde vom 6. September 2021 beantragt die
+Beschwerdeführerin sinngemäss in Aufhebung des Dispositivs Ziffer 5 des Einspracheentscheids
+vom 30. Juni 2021 die Ausrichtung einer Parteientschädigung.
+
+In der Beschwerdeantwort vom 12. November 2021 beantragt die
+Beschwerdegegnerin, auf die Beschwerde nicht einzutreten, eventualiter sei die
+Beschwerde abzuweisen.
+
+Die Beschwerdeführerin äussert sich nicht zur Beschwerdeantwort.
+
+III.
+
+Am 30. März 2022 findet die Beratung der Kammer des
+Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz sachlich zuständig zum Entscheid über die vorliegende Streitigkeit
+(Art. 56 Abs. 1 und Art. 57 des Bundesgesetzes vom 6. Oktober 2000 über den
+Allgemeinen Teil des Sozialversicherungsrechts [ATSG; SR 830.1] in Verbindung
+mit § 82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die Organisation der
+Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG; SG
+154.100] und § 1 Abs. 1 des Gesetzes vom 9. Mai 2001 über das
+Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht
+in Sozialversicherungssachen [Sozialversicherungsgerichtsgesetz, SVGG; SG
+154.200]). Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus
+Art. 58 Abs. 1 ATSG.
+
+1.2. Ob die Beschwerde rechtzeitig erhoben wurde, ist nachfolgend zu
+erörtern. Die übrigen formellen Beschwerdevoraussetzungen sind jedoch erfüllt
+(Art. 60 ATSG).
+
+2.
+
+2.1. Die Beschwerdeführerin bringt vor, die Beschwerdegegnerin sei nicht
+befugt gewesen, mehrere Zahlungsbefehle für eine identische Forderung zu
+erlassen. Sie habe durch die unrechten mehrfachen Betreibungen ungewollt hohe
+zusätzliche Aufwände, Rechtskosten sowie Bemühungen gehabt. Sie habe diesen
+Schaden beziffert und der Beschwerdegegnerin in Rechnung gestellt.
+
+2.2. Die Beschwerdegegnerin bringt zunächst vor, die Beschwerdeführerin
+habe die Beschwerdefrist versäumt. Die Frist habe am 8. September 2021 geendet,
+die Beschwerdeführerin habe die Einsprache jedoch erst am 9. September 2021 der
+Post übergeben. Materiell macht sie geltend, dass im Einspracheverfahren in der
+Regel keine Parteientschädigung geschuldet sei. Dies habe daher auch für die unvertretene
+Beschwerdeführerin zu gelten.
+
+2.3. Die Beschwerde ist innerhalb von 30 Tagen nach der Eröffnung des
+Einspracheentscheides oder der Verfügung, gegen welche eine Einsprache
+ausgeschlossen ist, einzureichen (Art. 60 Abs. 1 ATSG).
+
+2.4. Nach Art. 38 Abs. 2 bis ATSG gilt eine Mitteilung, die nur
+gegen Unterschrift des Adressaten beziehungsweise der Adressatin oder einer
+anderen berechtigten Person überbracht wird, spätestens am siebenten Tag nach
+dem ersten erfolglosen Zustellungsversuch als erfolgt. Voraussetzung für diese
+sogenannte Zustellfiktion ist, dass der Adressat mit der Zustellung rechnen
+musste. Dies ist dann der Fall, wenn die Zustellung eines behördlichen Aktes
+mit einer gewissen Wahrscheinlichkeit zu erwarten war respektive der Adressat
+damit hatte rechnen müssen (BGE 134 V 49 E. 4; 130 III 396 E. 1.2.3). Wer sich
+während eines hängigen Verfahrens für längere Zeit von dem den Behörden
+bekanntgegebenen Adressort entfernt, ohne für die Nachsendung der an die
+bisherige Adresse gelangenden Korrespondenz zu sorgen und ohne der Behörde zu
+melden, wo er nunmehr zu erreichen ist, bzw. ohne einen Vertreter zu
+beauftragen, nötigenfalls während seiner Abwesenheit für ihn zu handeln, hat
+eine am bisherigen Ort versuchte Zustellung als erfolgt gelten zu lassen.
+Zusätzlich ist Voraussetzung, dass ein Prozessrechtsverhältnis besteht, welches
+die Parteien verpflichtet, sich nach Treu und Glauben zu verhalten, d.h. unter
+anderem dafür zu sorgen, dass ihnen Entscheide, welche das Verfahren betreffen,
+zugestellt werden können (BGE 119 V 89 4b.aa, 115 Ia 15 E. 3a mit Hinweisen).
+
+2.5. Die Beschwerdegegnerin hat den Einspracheentscheid vom 30. Juni 2021
+per Einschreiben versandt. Am 1. Juli 2021 ist der Beschwerdeführerin gemäss
+Track & Trace das Schreiben zur Abholung am Schalter avisiert worden. Die
+Beschwerdeführerin hat das Schreiben nicht innerhalb der Frist abgeholt. Der
+Einspracheentscheid gilt damit gemäss Zustellfiktion als spätestens am 8. Juli
+2021 zugestellt und die Beschwerdefrist von 30 Tagen ist damit unter
+Berücksichtigung des Fristenstillstands vom 15. Juli bis und mit dem 15. August
+(Art. 38 Abs. 4 ATSG; § 3 Abs. 1 SVGG) am 8. September 2021 abgelaufen. Die
+Beschwerdeführerin bringt vor, sie habe ihre Beschwerde noch am 8. September 2021
+um 23.46 Uhr in den Briefkasten geworfen und benennt zwei Personen, die dies
+bezeugen können. Die Beschwerdeführerin hat die Beschwerde per «Einschreiben
+prepaid» versandt, dieses aber nicht am Postschalter aufgegeben, weswegen das
+genaue Aufgabedatum und die genaue Aufgabezeit nicht im Sendungsverlauf der
+Post erfasst sind. Die Beschwerdeführerin hat auf dem Beschwerde-Couvert zwei
+Zeugen für die Einwurfzeit in den Briefkasten vermerkt.
+
+2.6. Dem Absender obliegt der Nachweis, dass er seine Eingabe bis um 24
+Uhr des letzten Tages der laufenden Frist der Post übergeben hat. Die Aufgabe
+am Postschalter und der Einwurf in den Postbriefkasten sind einander
+gleichgestellt. Hier wie dort wird vermutet, dass das Datum des Poststempels
+mit demjenigen der Übergabe an die Post übereinstimmt. Wer behauptet, er habe
+einen Brief schon am Vortag seiner Abstempelung in einen Postbriefkasten
+eingeworfen, hat das Recht, die sich aus dem Poststempel ergebende Vermutung
+verspäteter Postaufgabe mit allen tauglichen Beweismitteln zu widerlegen. Der
+Absender kann den entsprechenden Nachweis insbesondere mit dem Vermerk auf dem
+Briefumschlag erbringen, wonach die Postsendung vor Fristablauf in Anwesenheit
+von Zeugen in einen Briefkasten gelegt worden ist (BGE 142 V 389 E. 2.2 mit
+zahlreichen Hinweisen).
+
+2.7. Als Beweismittel geeignet im Sinne der dargelegten Rechtsprechung
+sind nur neutrale Zeugen, die bestätigen können, dass der Versand der
+Beschwerde rechtzeitig erfolgt sei. Die Zeugenaussagen unterliegen der freien
+richterlichen Beweiswürdigung des Gerichts, und ihr Beweiswert hängt
+massgeblich von den konkreten Umständen ab. Die für die Behauptung der
+Rechtzeitigkeit angerufenen Beweismittel sind unaufgefordert und bereits mit
+der Eingabe des Rechtsmittels anzubieten. Zudem bedarf es des Nachweises für
+den Einwurf eben gerade jenes Couverts, das die im konkreten Fall zu
+beurteilende Eingabe enthält. Angaben auf dem Couvert haben sich auf die
+genauen Umstände des Briefeinwurfs zu beziehen. Des Weiteren ist die Person des
+Zeugen zu benennen, damit dieser auch befragt werden könnte (Urteil des
+Bundesgerichts vom 4. September 2020, 8C_256/2020, E. 2.2. mit zahlreichen
+Hinweisen).
+
+2.8. Auf dem Briefumschlag, in welchem sich die Beschwerde befand, wurde
+folgender Vermerk angebracht: «Posteinwurf: 08.09.2021/23.46 Uhr Zeuge 1: C____,
+[...] Zeuge 2: D____, [...]». Die Beschwerdeführerin hat damit Zeugen benannt,
+ihre Angaben sind jedoch recht unpräzis. Ob die Zeugenangaben den
+erforderlichen Beweis zu erbringen vermögen, dass die Beschwerde tatsächlich
+rechtzeitig in den Briefkasten geworfen worden sei, braucht indessen nicht
+abschliessend beurteilt zu werden, da - wie im Folgenden gezeigt wird - die Beschwerde
+ohnehin abzuweisen ist.
+
+3.
+
+3.1. Gemäss Art. 52 Abs. 3 ATSG ist das Einspracheverfahren kostenlos.
+Parteientschädigungen werden in der Regel nicht ausgerichtet. Im
+sozialversicherungsrechtlichen Einspracheverfahren werden daher in der Regel
+keine Parteientschädigungen zugesprochen. Der Einsprecher, der im Falle des
+Unterliegens die unentgeltliche Verbeiständung beanspruchen könnte, hat aber
+bei Obsiegen Anspruch auf eine Parteientschädigung. Art. 29 Abs. 3
+Bundesverfassung der Schweizerischen Eidgenossenschaft (BV; SR 101) räumt jeder
+Person, die nicht über die erforderlichen Mittel verfügt, soweit es zur Wahrung
+ihrer Rechte notwendig ist und ihr Rechtsbegehren nicht aussichtslos erscheint,
+einen Anspruch auf «unentgeltlichen Rechtsbeistand» ein. Gemäss Art. 37 Abs. 4
+ATSG wird im Sozialversicherungsverfahren der gesuchstellenden Person, wo die
+Verhältnisse es erfordern, ein solcher bewilligt. Damit besteht eine
+bundesrechtliche Regelung des Armenrechts im Verwaltungsverfahren (BGE 131 V
+153 E. 3.1). Eine anwaltliche Verbeiständung drängt sich nur in Ausnahmefällen
+auf, in denen ein Rechtsanwalt beigezogen wird, weil schwierige rechtliche oder
+tatsächliche Fragen dies als notwendig erscheinen lassen und eine
+Verbeiständung durch Verbandsvertreter, Fürsorger oder andere Fach- und
+Vertrauensleute sozialer Institutionen nicht in Betracht fällt. Könnte der
+Einsprecher im Falle des Unterliegens die unentgeltliche Verbeiständung
+beanspruchen, hat er bei Obsiegen Anspruch auf eine Parteientschädigung (BGE
+132 V 200 E. 4.1, 130 V 572 E. 2.2 mit weiteren Hinweisen).
+
+3.2. Vorliegend hat die Beschwerdegegnerin die Beschwerdeführerin für
+eine Forderung, die sie bereits betrieben und welche die Beschwerdeführerin
+bereits beglichen hatte, ein weiteres Mal betrieben. Die Beschwerdegegnerin
+betrieb sie auch für eine weitere Forderung, welche die Beschwerdeführerin
+bereits beglichen hatte (siehe KV.2021.25). Der Beschwerdegegnerin ist damit
+offensichtlich ein grober Fehler unterlaufen. Die Umstände können in der Tat
+verwirren und die dadurch verursachten Umtriebe sind gewiss ärgerlich. Der
+Fehler der Beschwerdegegnerin ist jedoch augenscheinlich und offensichtlich. Es
+hätte womöglich ein Anruf ausgereicht, um die Beschwerdegegnerin über diesen
+Fehler zu informieren. Der Fall stellte gewiss keine schwierigen rechtlichen
+oder tatsächlichen Fragen, weswegen die Beschwerdeführerin im
+Einspracheverfahren vor der Beschwerdegegnerin keinesfalls eine
+Parteientschädigung hätte beanspruchen können. Auch hat die Beschwerdeführerin
+keine Parteivertretung bevollmächtigt, weswegen ohnehin lediglich eine
+Aufwandentschädigung in Frage käme.
+
+3.3. In gewissen, besonderen Fällen sind Auslagen zu ersetzen, allerdings
+nur dann, wenn sie erheblich und nachgewiesen sind (BGE 110 V 72 E. 7.),
+was vorliegend nicht zutrifft. Die von der Beschwerdeführerin in Rechnung
+gestellten Positionen sind nicht dokumentiert, bei den geltend gemachten
+Portokosten liegt aufgrund des geringen Gesamtbetrages keine Erheblichkeit vor.
+Sodann können besondere Verhältnisse es im Ausnahmefall rechtfertigen, einer in
+eigener Sache prozessierenden Partei eine Entschädigung für durch den Prozess
+verursachte Umtriebe zuzusprechen (BGE 110 V 72 E. 7.). Da die Zusprechung
+einer Parteientschädigung im Einspracheverfahren auch aus formellen Gründen,
+etwa bei einer rechtswidrig fehlenden Begründung der Verfügung ( Art. 49 Abs. 3 Satz 2 ATSG ) ausser Betracht fällt (Urteil
+des Bundesgerichts vom 28. Mai 2018, 9C_877/2017, E. 8.2.), ist es auch nicht
+möglich, vorliegend einen Aufwandersatz aufgrund eines formalen Fehlers
+zuzusprechen. Der Einspracheentscheid vom 30. Juni 2021 ist daher rechtens. Eine
+Entschuldigung der Beschwerdegegnerin bei der Beschwerdeführerin wäre jedoch
+angebracht gewesen.
+
+4.
+
+4.1. Aus diesen Erwägungen folgt, dass die Beschwerde abzuweisen ist.
+
+4.2. Das Verfahren ist kostenlos (Art. 61 lit. f bis ATSG).
+
+Demgemäss erkennt das Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder Dr.
+B. Gruber
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann innert 30
+Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundesgericht
+Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes vom 17. Juni
+2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist kann
+nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in Art.
+95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist dem
+Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+          Bundesamt
+für Gesundheit
+
+Versandt am:
