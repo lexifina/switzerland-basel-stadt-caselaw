@@ -1,0 +1,374 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.140"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2021.25"
+docket_2: "SVG.2022.140"
+decided: "2021-08-04"
+published: "2022-02-17"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73658&W10_KEY=3049211&nTrefferzeile=117&Template=search_result_document.html"
+cites_decisions: ["AL.2021.25"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/837.0/art-038.md", "switzerland/bund/acts/837.0/art-095.md"]
+---
+
+# Kurzarbeitsentschädigung, Einreichung der Unterlagen
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 17.
+Februar 2022
+
+Mitwirkende
+
+Dr. A. Pfleiderer (Vorsitz), MLaw A.
+Zalad, Dr. iur. T. Fasnacht
+
+und
+Gerichtsschreiberin Dr. B. Gruber
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführerin
+1
+
+B____
+
+[...]
+
+Beschwerdeführer
+2
+
+Öffentliche Arbeitslosenkasse
+Basel-Stadt
+
+Hochstrasse 37, Postfach
+3759, 4002 Basel
+
+vertreten durch Amt für
+Wirtschaft und Arbeit, Herrn lic. iur. C____, Hochstrasse 37, Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2021.25
+
+Einspracheentscheid vom 4. August
+2021
+
+Kurzarbeitsentschädigung,
+Einreichung der Unterlagen
+
+Tatsachen
+
+I.
+
+Die Öffentliche Arbeitslosenkasse Basel-Stadt (ÖAK) bewilligte
+der D____ (im Folgenden: E____) auf entsprechende Voranmeldung vom 23. März
+2020 hin mit Verfügung vom 27. März 2020 (Beschwerdeant-wortbeilage [BAB] 1)
+Kurzarbeitsentschädigung für den Zeitraum vom 26. März 2020 bis zum 25. Juni
+2020 und richtete diese aus. Die Beschwerdeführer, Inhaber des E____, machten
+den Anspruch auf Kurzarbeitsentschädigung für den Monat April am 4. Juni 2020
+und für den Monat Mai am 2. Juli 2020 geltend («Antrag und Abrechnung von
+Kurzarbeitsentschädigung [Ausserordentliches Formular]», BAB 6).
+
+Mit Email vom 16. April 2021 bat die ÖAK zur abschliessenden
+Prüfung der Anträge und der definitiven Abrechnung um die Einreichung mehrerer
+Unterlagen innert 14 Tagen. Mit Mahnung vom 4. Mai 2021 (BAB 8) erinnerte die
+ÖAK die E____, die Unterlagen bis 18. Mai 2021 einzureichen, ansonsten müsse
+sie den Anspruch definitiv absprechen und den bereits ausbezahlten Vorschuss
+zurückfordern.
+
+Mit Mail vom 12. Mai 2021 informierte Frau F____ auf Bitte der
+Beschwerdeführer hin die ÖAK, dass das D____ per 1. April 2021 von der neu gegründeten
+Firma G____ übernommen worden sei, deren Inhaberin eine bisher angestellte
+Mitarbeiterin gewesen sei. Dem Mail fügte sie zwei Lohntabellen, eine für das
+Jahr 2020 und eine für das Jahr 2021, an. Des Weiteren präzisierte sie die
+Lohnsituation der einzelnen Mitarbeitenden und gab an, sie stehe für weitere
+Erläuterungen zur Verfügung.
+
+Die ÖAK antwortete per Mail vom 14. Mai 2021 (BAB 9), sie
+benötigten weiterhin die genannten Unterlagen. Frau F____ antwortete am 26. Mai
+2021 (BAB 9), dass sie der ÖAK bereits die Tabelle der Lohnzahlungen gesandt
+habe, sie würden keine andere Zeiterfassung führen. Des Weiteren legte sie
+nochmals die Arbeitszeiten der Mitarbeitenden dar.
+
+Am 28. Mai 2021 (BAB 2) verfügte die ÖAK, dass aufgrund
+fehlender Unterlagen kein Anspruch auf Kurzarbeitsentschädigung bestehe und forderte
+die bereits ausbezahlten Entschädigungen in der Höhe von Fr. 5742.50 zurück. Dagegen
+erhoben die Beschwerdeführer am 10. Juni 2021 (BAB 4) Einsprache. Darin baten
+sie, die Verzögerung in der Beantwortung der Schreiben aufgrund der
+Geschäftsübergabe zu berücksichtigen. Im Einspracheentscheid vom 4. August 2021
+(BAB 5) wies die ÖAK die Beschwerde ab und führte aus, dass die Voraussetzungen
+für eine Wiederherstellung der Frist nicht gegeben seien.
+
+II.
+
+Mit Beschwerde vom 17. August 2021 beantragen die
+Beschwerdeführer die Aufhebung des Einspracheentscheids vom 4. August 2021. Eventualiter
+beantragten sie den Erlass der Rückforderung.
+
+Mit Beschwerdeantwort vom 12. Oktober 2021 beantragt die ÖAK
+die Abweisung der Beschwerde.
+
+Mit Replik vom 8. Dezember 2021 halten die Beschwerdeführer an
+ihren Anträgen fest, die ÖAK verzichtet am 10. Januar 2021 auf eine Duplik.
+
+III.
+
+Am 17. Februar 2022 findet die Urteilsberatung der Kammer des
+Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist gemäss Art. 56 Abs. 1
+und Art. 57 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil
+des Sozialversicherungsrechts (ATSG, SR 830.1) in Verbindung mit § 82 Abs. 1
+des ba-sel-städtischen Gerichtsorganisationsgesetzes vom 3. Juni 2015 (GOG, SG
+154.100) und § 1 Abs. 1 des kantonalen Sozialversicherungsgerichtsgesetzes vom
+9. Mai 2001 (SVGG, SG 154.200) zur Beurteilung der vorliegenden Beschwerde
+sachlich zuständig. Die örtliche Zuständigkeit des angerufenen Gerichts ergibt
+sich aus Art. 100 Abs. 3 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982
+(AVIG, SR 837.0) in Verbindung mit Art. 128 sowie Art. 119 Abs. 1 lit. a der
+Verordnung über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 31. August 1983 (AVIV, SR 837.02).
+
+1.2. Da die Beschwerde rechtzeitig innert der 30-tägigen Frist nach
+Eröffnung des Einspracheentscheids erhoben worden ist (Art. 60 ATSG) und auch
+die übrigen formellen Beschwerdevoraussetzungen erfüllt sind, ist auf die
+Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdeführer bringen vor, sie hätten ihr Geschäft per 31.
+März 2021 an eine ihrer bisherigen Lernenden im Betrieb übergeben. Diese habe
+ihre eigene Firma bereits per 1. Januar 2021 im Handelsregister eintragen
+lassen (G____ GmbH) und habe auf den 1. April 2021 den Mietvertrag sowie die
+angestellten Mitarbeitenden übernommen. Sie hätten ihren eigenen Eintrag im
+Handelsregister bis Abschluss sämtlicher Geschäftsgänge belassen. Im April und
+Mai 2021 hätten sie ihre Geschäftsräume ausgeräumt und die Geschäftsunterlagen
+in ihre private Wohnung gebracht. In genau diese Zeit sei die Aufforderung
+gefallen, die Unterlagen beizubringen. Diese hätten sich jedoch in Umzugskisten
+befunden. Auch habe erst eine neue EDV-Verbindung installiert werden müssen,
+was nicht sofort ohne Probleme geklappt habe. So hätten sie das Mail der ÖAK
+vom 16. April 2021 erst mit einiger Verspätung entdeckt. Auch hätten sie in der
+Form, wie es verlangt gewesen sei, die Zahlen nicht beibringen können und das
+zugesandte Excel-Formular sei für sie nicht verständlich und ausfüllbar
+gewesen. Auch sei das Schreiben der ÖAK vom 4. Mai 2021 aus diesem Grund
+verspätet zu ihnen gelangt, was sie der ÖAK am 30. Mai 2021 mitgeteilt hätten.
+Sie hätten die Lohnunterlagen, so wie sie die Lohnadministration geführt habe,
+von einer externen Mitarbeiterin einreichen lassen. Trotzdem sei nochmals eine
+Excel-Datei verlangt worden. Sie seien jedoch davon ausgegangen, dass auch die
+beigebrachten Unterlagen ihre Situation während der Kurzarbeitsperiode
+ausreichend belegen würde, da die ursprünglich angegebenen Ausfallzeiten
+gleichgeblieben seien, denn der Betrieb sei vollständig geschlossen gewesen und
+sie hätten trotzdem ihre Lohnansprüche immer erfüllt.
+
+2.2. Die ÖAK hebt demgegenüber hervor, die Beschwerdeführer hätten die
+fehlenden Unterlagen für die abschliessende Prüfung und definitive Abrechnung
+der Kurzarbeit nicht fristgerecht eingereicht. Die Beschwerdeführer hätten die
+im Email vom 16. April 2021 gesetzte Frist ungenutzt verstreichen lassen, woraufhin
+die ÖAK sie gemahnt und auf die Rückforderung bei Nichteinhaltung der Frist
+hingewiesen habe. Da die Beschwerdeführer erneut keine Unterlagen eingereicht
+hätten, sei die für die Monate April und Mai 2020 ausbezahlte Kurzarbeitsentschädigung
+in der Höhe von Fr. 5742.50 von den Beschwerdeführern zurückgefordert worden.
+Die Beschwerdeführer hätten zwar mit Mail vom 12. Mai 2021 Lohntabellen einreichen
+lassen. Am 14. Mai 2021 habe die ÖAK jedoch darauf mit dem Hinweis reagiert,
+dass weiterhin die bereits eingeforderten Dokumente benötigt würden und habe
+nochmals dazu aufgefordert, ihr diese Unterlagen bis zum 18. Mai zukommen zu
+lassen.
+
+2.3. Strittig und zu prüfen ist, ob sich die ÖAK zu Recht darauf berufen
+durfte, die Unterlagen seien nicht rechtzeitig eingereicht worden.
+
+3.
+
+3.1. Gemäss Art. 95 Abs. 2 AVIG fordert
+die Kasse vom Arbeitgeber zu Unrecht ausbezahlte Kurzarbeitsentschädigung
+zurück. Hat der Arbeitgeber die unrechtmässige Auszahlung zu verantworten, so
+ist für ihn jede Rückforderung gegenüber den Arbeitnehmenden ausgeschlossen. Gestützt
+auf Art. 25 Abs. 1 Satz 1 ATSG sind unrechtmässig bezogene Leistungen
+zurückzuerstatten. Gemäss Art. 3 Abs. 1 der Verordnung vom 11. September
+2002 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSV;
+SR 830.11) wird über den Umfang der Rückforderung eine Verfügung erlassen.
+
+3.2. Der Arbeitgeber hat nach Art. 38 Abs. 1 AVIG den
+Entschädigungsanspruch seiner Arbeitnehmer innert dreier Monate nach Ablauf jeder
+Abrechnungsperiode gesamthaft für den Betrieb bei der von ihm bezeichneten
+Arbeitslosenkasse geltend zu machen. Nach Art. 38 Abs. 3 AVIG hat der
+Arbeitgeber in diesem Zusammenhang der Kasse die für die weitere Beurteilung
+der Anspruchsberechtigung und die Berechnung der Entschädigung erforderlichen Unterlagen (lit. a), eine
+Abrechnung über die an seine Arbeitnehmer ausgerichtete Kurzarbeitsentschädigung
+(lit. b) und eine Bestätigung, dass er die Verpflichtung der Fortzahlung der Sozialversicherungsbeiträge
+übernimmt (lit. c) einzureichen. Die Kasse kann, wenn nötig, weitere Unterlagen
+verlangen.
+
+3.3. Bei der erstmaligen Geltendmachung eines Arbeitsausfalls im Kalenderjahr hat die Arbeitslosenkasse vom Arbeitgeber
+einzuverlangen: Angaben zur vertraglichen Arbeitszeit, Angaben über Vor- und
+Nachholzeiten und deren Kompensationsdaten, Reglement zum betrieblichen
+Gleitzeitsystem, Verzeichnis mit den Arbeitszeiten und den bezahlten Ferien-
+und Freitagen, Lohnliste mit den vertraglichen, regelmässigen Zulagen,
+Handelsregisterauszug bei Aktiengesellschaften und Gesellschaften mit
+beschränkter Haftung, Aufstellung über die in den letzten 6 bzw. 12 Monaten von
+den einzelnen Arbeitnehmenden geleisteten Mehrstunden (AVIG-Praxis Kurzarbeitsentschädigung
+KAE/I4).
+
+3.4. Wurde der Entschädigungsanspruch geltend gemacht, ohne alle
+notwendigen Unterlagen einzureichen, setzt die Arbeitslosenkasse dem
+Arbeitgeber eine angemessene Frist zur Vervollständigung mit dem Hinweis, dass
+der Anspruch erlischt, wenn die Vervollständigung nicht bis zum Ablauf der
+3-monatigen Verwirkungsfrist erfolgt. Erfolgt die Geltendmachung kurz vor
+Ablauf der 3-monatigen Verwirkungsfrist, ist für eine allfällige
+Vervollständigung der Unterlagen eine angemessene Frist anzusetzen, die über
+die Verwirkungsfrist hinausgehen kann (AVIG-Praxis KAE/I7).
+
+4.
+
+4.1. Im Mail vom 16. April 2021 (BAB 7) bittet die ÖAK die
+Beschwerdeführer für die abschliessende Prüfung der Anträge und anschliessende
+definitive Abrechnung der Kurzarbeitsentschädigung um Einreichung der
+vollständigen Unterlagen und bittet um folgende Dokumente als pdf-Datei per
+E-Mail: Unterlagen, welche die Sollstunden aller anspruchsberechtigten
+Arbeitnehmenden für den ganzen Monat belegen (z.B. Arbeitszeitrapporte, Arbeitsverträge);
+Unterlagen, welche die wirtschaftlich bedingten Ausfallstunden aller von
+Kurzarbeit betroffenen Arbeitnehmenden belegen, alternativ könnten sie die
+beigefügte Excelliste wahrheitsgetreu ausfüllen, unterschreiben und zusammen
+mit dem Antrag einreichen. Die ÖAK sandte sodann die Mahnung vom 4. Mai 2021
+(BAB 8), in der sie die angeführten Unterlagen nochmals anforderte und anfügte,
+wenn sie bis 18. Mai 2021 nicht im Besitz der Akten sein sollten, sie ihnen den
+Anspruch definitiv absprechen müssten und den bereits ausbezahlten Vorschuss
+zurückfordern müssten.
+
+4.2. Die Beschwerdeführer machten ihren Anspruch bereits am 4. Juni 2020 fristgerecht
+geltend, die ÖAK verlangte die fehlenden Unterlagen jedoch erst am 16. April
+2021 per Mail ein, somit in etwa zehn Monate nach der Geltendmachung. Zu diesem
+Zeitpunkt mussten die Beschwerdeführer nicht mehr damit rechnen, von der ÖAK
+kontaktiert zu werden, vor allem, da die Konzeption von Art. 38 AVIG eine
+Erledigung innerhalb von drei Monaten nahelegt. Ferner ist zu berücksichtigen,
+dass eine Kontaktaufnahme per Email mit Problemen behaftet sein kann und deren
+Zustellung unsicher ist. Eine Zustellung per Email war zwischen den Parteien
+zudem nicht vereinbart.
+
+4.3. Frau F____ hatte im Auftrag der Beschwerdeführer am 12. Mai 2021
+geantwortet, über die Übernahme der Firma G____ GmbH informiert, zwei
+Lohntabellen, eine für das Jahr 2020 und eine für das Jahr 2021, angefügt und
+die Lohnsituation der einzelnen Mitarbeiter bzw. Mitarbeiterinnen präzisiert. Die
+Antwort erfolgte damit innerhalb der in der Mahnung vom 4. Mai 2021 gesetzten
+Frist bis 18. Mai 2021 und erfolgte damit rechtzeitig. Die ÖAK antwortete darauf
+am 14. Mai 2021 (BAB 9) per Email. Sie ging darin jedoch nicht auf die von Frau
+F____ gemachten Angaben und gesandten Unterlagen ein, sondern wiederholte
+lediglich, dass sie die Unterlagen benötige und listete nochmals die gleichen
+Unterlagen wie im Mail vom 16. April 2021 bzw. im Schreiben vom 4. Mai 2021
+auf. Im Mail vom 26. Mai 2021 wies Frau F____ nochmals darauf hin, dass sie
+keine andere Zeiterfassung führen würden und sie ihnen deshalb die Tabelle der
+Lohnzahlungen geschickt habe.
+
+4.4. Der Korrespondenz zwischen der ÖAK und Frau F____ ist zu entnehmen,
+dass Frau F____ im Auftrag der Beschwerdeführer sowohl auf die Mahnung vom 4.
+Mai 2021 und sodann auch auf das Mail der ÖAK vom 14. Mai 2021 reagiert hatte.
+Insbesondere hatte Frau F____ im Mail vom 12. Mai 2021 und somit innerhalb der
+in der Mahnung vom 4. Mai 2021 gesetzten Frist, die Lohnsituation der
+Mitarbeitenden erläutert und zwei Lohntabellen angehängt und auch auf die
+Übernahme des Betriebes hingewiesen. Die ÖAK ging auf die Erläuterungen bzw.
+auf die Lohntabellen nicht ein, ebenso wenig ging sie auf das Mail von Frau F____
+vom 26. Mai 2021 ein. Es ist jedoch anzunehmen, dass unter Berücksichtigung der
+Betriebsgrösse die Lohntabellen zusammen mit den Erklärungen von Frau F____ die
+wirtschaftlich bedingten Ausfallstunden ausreichend belegen.
+
+4.5. Vorliegend ist zu berücksichtigen, dass es sich um einen sehr
+kleinen Betrieb handelt mit zwei Lernenden und zwei Mitarbeitenden. Des
+Weiteren haben die Beschwerdeführer glaubhaft dargelegt, dass der Betrieb in
+der Zeit, in welcher die Anfrage der ÖAK erfolgte, übernommen worden ist, und
+im Zuge der Übernahme aus nachvollziehbaren Gründen ihre Erreichbarkeit sowohl
+per Mail als auch auf dem Postweg lediglich unzureichend gewährleistet war. Da die
+Beschwerdeführer mit einer Kontaktaufnahme der ÖAK nicht mehr rechnen mussten,
+ist ihnen dies nicht vorzuwerfen. Aber ohnehin hatte Frau F____ innerhalb der
+Frist geantwortet und Unterlagen eingereicht, weswegen den Beschwerdeführern
+mit dem Verweis, sie hätten die eingeforderten Unterlagen nicht beigebracht, Selbiges
+nicht vorgeworfen werden kann.
+
+4.6. Die Sache ist daher an die ÖAK zurückzuweisen, damit diese unter
+Bezugnahme auf die Mails von Frau F____ vom 14. Mai und vom 26. Mai 2021 und
+den von ihr eingereichten Unterlagen mit den Beschwerdeführern klärt, ob und
+welche Unterlagen sie von den Beschwerdeführern noch benötigt. Dabei hat sie
+die Grösse des Betriebes zu bedenken und zu prüfen, ob die bisher eingereichten
+Unterlagen zusammen mit den Erklärungen von Frau F____ den Anspruch ausreichend
+belegen.
+
+5.
+
+5.1. Damit ist die Beschwerde gutzuheissen und der Einspracheentscheid
+vom 4. August 2021 aufzuheben. Die Sache ist an die ÖAK zurückzuweisen, damit
+diese prüft, ob und welche Unterlagen sie von den Beschwerdeführern tatsächlich
+noch benötigt.
+
+5.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        In Gutheissung der Beschwerde wird der
+Einspracheentscheid vom 4. August 2021 aufgehoben und die Sache an die
+Beschwerdegegnerin zurückgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer Dr.
+B. Gruber
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in 1
+
+          Beschwerdeführer
+2  Beschwerdegegnerin
+
+          seco
+
+Versandt am:
