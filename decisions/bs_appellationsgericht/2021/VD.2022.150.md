@@ -1,0 +1,520 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.768"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2022.150"
+docket_2: "AG.2022.768"
+decided: "2021-12-06"
+published: "2022-12-29"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74423&W10_KEY=3048518&nTrefferzeile=321&Template=search_result_document.html"
+cites_decisions: ["1P.335/2005", "6B_1070/2016", "6B_715/2014", "6B_791/2007", "6B_796/2009", "BGE 139 I 280", "VD.2018.28", "VD.2019.133", "VD.2021.176", "VD.2022.150"]
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-075.md"]
+---
+
+# Einweisung in die Sicherheitsabteilung A der Justizvollzugsanstalt Bostadel
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2022.150
+
+URTEIL
+
+vom 29. Dezember 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser , Dr. Stephan Wullschleger,
+
+Dr. phil. und MLaw Jacqueline Frossar d
+
+und Gerichtsschreiberin lic. iur.
+Mirjam Kündig
+
+Beteiligte
+
+A____ Rekurrent
+
+c/o Justizvollzugsanstalt
+Bostadel,
+
+Bostadel 1, 6313 Menzingen
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Amt für Justizvollzug, Straf-
+und Massnahmenvollzug
+
+Spiegelgasse 12, 4001 Basel
+
+Gegenstand
+
+Rekurs gegen einen Beschluss
+des Straf- und Massnahmenvollzugs
+
+vom 8. Juli 2022
+
+betreffend Einweisung in die
+Sicherheitsabteilung A der Justizvollzugsanstalt Bostadel
+
+Sachverhalt
+
+A____ wurde mit
+Urteil des Strafgerichts Basel-Stadt vom 23. November 2021 der versuchten
+vorsätzlichen Tötung schuldig erklärt und zu einer Freiheitsstrafe von 4 ¾
+Jahren verurteilt. Zudem ordnete das Gericht eine Landesverweisung für 10 Jahre
+an. Dieses Urteil ist noch nicht in Rechtskraft erwachsen.
+
+Mit Verfügung
+vom 6. Dezember 2021 bewilligte das Strafgericht Basel-Stadt A____ den
+vorzeitigen Strafvollzug. Am 24. Juni 2022 teilte die Justizvollzugsanstalt
+(JVA) Bostadel der Vollzugsbehörde mit, dass gestützt auf das Schreiben des Anstaltspsychiaters
+vom 21. Juni 2022 eine psychiatrische Indikation für eine Einweisung von A____
+in eine Sicherheitsabteilung bestehe. Nach erfolgter Gewährung des rechtlichen
+Gehörs zur beabsichtigten Versetzung in die Sicherheitsabteilung A verfügte der
+Straf- und Massnahmenvollzug am 8. Juli 2022 die Einweisung A____s in erwähnte
+Sicherheitsabteilung rückwirkend per 7. Juli 2022 für längstens sechs
+Monate bis am 6. Januar 2023.
+
+Gegen diesen
+Entscheid hat A____ (nachfolgend: Rekurrent) mit Eingabe vom 8. Juli 2022
+Rekurs an das Verwaltungsgericht des Kantons Basel-Stadt erhoben. Er beantragt
+sinngemäss, der angefochtene Entscheid sei aufzuheben und er sei wieder in den
+Normalvollzug  vorzugsweise in eine andere Strafvollzugsanstalt  zu
+versetzen. Mit Eingabe vom 18. Juli 2022 hat er seine Rekursanmeldung durch
+seinen Rechtsvertreter wiederholen und um Bewilligung der unentgeltlichen
+Rechtspflege ersuchen lassen. Mit eigenhändiger Eingabe vom 20. Juli 2022 begründete
+der Rekurrent seinen Rekurs. Am 10. August 2022 folgte die Rekursbegründung
+seines Rechtsvertreters; in verfahrensrechtlicher Hinsicht beantragte er, es
+sei dem Rekurs die aufschiebende Wirkung zu erteilen und der Rekurrent für die
+Dauer des Rekurses im Normalvollzug zu belassen. Hierzu nahm die
+Strafvollzugsbehörde am 30. August 2022 Stellung und beantragte die
+Abweisung des Antrages auf aufschiebende Wirkung des Rekurses. Mit
+Stellungnahme vom 19. Oktober 2022 beantragte die Strafvollzugsbehörde, der
+Rekurs sei vollumfänglich und kostenfällig abzuweisen. Der Rekurrent
+replizierte am 17. November 2022.
+
+Das vorliegende
+Urteil ist auf dem Zirkulationsweg und unter Beizug der Akten in digitaler Form
+ergangen. Die entscheidrelevanten Einzelheiten der Parteistandpunkte ergeben
+sich aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die Zuständigkeit des Verwaltungsgerichts zur Beurteilung des vorliegenden
+Rekurses ergibt sich aus § 12 des Verwaltungsrechtspflegegesetzes (VRPG,
+SG 270.100) und § 42 des Organisationsgesetzes (OG, SG 153.100).
+Funktionell zuständig ist das Dreiergericht (§ 88 Abs. 2 in Verbindung mit § 92
+Abs. 1 Ziff. 11 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Der
+Rekurrent ist als Adressat des angefochtenen Entscheids von diesem unmittelbar
+berührt und hat ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung.
+Er ist deshalb gemäss § 13 VRPG zum Rekurs legitimiert. Auf den frist- und
+formgerechten Rekurs ist somit einzutreten.
+
+1.2 Die
+Kognition des Verwaltungsgerichts richtet sich nach § 8 VRPG. Demnach hat das
+Verwaltungsgericht zu prüfen, ob die Vorinstanz den Sachverhalt unrichtig
+festgestellt, wesentliche Form- oder Verfahrensvorschriften verletzt,
+öffentliches Recht nicht oder nicht richtig angewendet oder von dem ihr
+zustehenden Ermessen unzulässigen Gebrauch gemacht hat.
+
+1.3 Eine
+mündliche Verhandlung nach § 25 Abs. 2 VRPG hat vorliegend nicht stattzufinden,
+da es sich nicht um einen Fall von Streitigkeiten über zivilrechtliche
+Ansprüche und Verpflichtungen oder strafrechtliche Anklagen im Sinne von Art. 6 Ziff. 1
+der Europäischen Menschenrechtskonvention (EMRK, SR 0.101) handelt
+(vgl. BGer 6B_1070/2016 vom 23. Mai 2017 E. 3.2, 6B_715/2014 vom 27.
+Januar 2015 E. 4.3, 6B_796/2009 vom 25. Januar 2010 E. 3.5, 6B_791/2007 vom 9.
+April 2008 E. 2; AGE VD.2018.28 vom 21. August 2018 E. 1.3). Der Rekurrent hat
+denn auch keine mündliche Verhandlung verlangt.
+
+2.
+
+2.1 Die
+Vorinstanz hat in der angefochtenen Verfügung gestützt auf ein Schreiben des
+Anstaltspsychiaters, Dr. med. [...], vom 21. Juni 2022 erwogen, der Rekurrent
+zeige in der JVA Bostadel sowohl im Vollzugsalltag als auch in der
+psychiatrischen Visite ein forderndes, uneinsichtiges, unkooperatives und insgesamt
+auffälliges Verhalten. Insbesondere sein drohendes und aggressives Auftreten
+führe zu einer Gefährdung der Anstaltssicherheit. Zudem zeige er sich auch auf
+der Beziehungsebene und für verbale Interventionen nicht zugänglich. Bereits im
+Gefängnis Bässlergut sei er durch sein forderndes Verhalten, seine Konflikte
+mit Mitgefangenen, wiederholte Arbeitsverweigerung sowie eine Drohung
+aufgefallen. Vom Rekurrenten, der offensichtlich die Konflikte teilweise aktiv
+herbeiführe, gehe ein hohes Eskalationspotential bis hin zu Delikten gegen Leib
+und Leben aus. Eine Selbst- und Fremdgefährdung habe bei seiner Versetzung in
+die JVA Bostadel überdies nicht ausgeschlossen werden können. Da es dem
+Rekurrenten bislang nicht gelungen sei, sich im Normalvollzug einzugliedern,
+würde sein Verbleib ein untragbares Risiko für die Mitgefangenen und das
+Personal darstellen. Zur Sicherstellung der Ruhe, Ordnung und Sicherheit
+innerhalb der Vollzugseinrichtung und zur Verhinderung einer Fremdgefährdung
+durch eine Gewalteskalation sei eine enge Überwachung und Betreuung des
+Rekurrenten dringlich angezeigt. Diese könne im Sicherheitsvollzug A der JVA
+Bostadel gewährleistet werden. Mildere Massnahmen  etwa eine Verlegung in eine
+andere Anstalt  seien nicht geeignet, die vom Rekurrenten ausgehende Gefahr
+für Dritte wirksam zu verhindern (Verfügung p. 3).
+
+2.2 Der
+Rekurrent macht geltend, die vom Gefängnispsychiater genannten Drohungen seien
+nicht konkretisiert und im Übrigen bestritten. In seinem Schreiben vom 21. Juni
+2022 führe der Gefängnispsychiater ganz allgemein aus, der Rekurrent würde
+Drohungen aussprechen, welche eine Eskalation oder eine Gefährdung der
+Sicherheit der Anstalt befürchten liessen. Es werde jedoch  auch auf Nachfrage
+der Vollzugsbehörde vom 24. Juni 2022  nicht ausgeführt, wann und gegenüber
+wem sowie womit der Rekurrent konkret gedroht haben solle. In den Vollzugsakten
+befänden sich keine Rapporte betreffend Drohungen. Die einzige aktenkundige
+Drohung vom 2. Februar 2022 habe noch im Gefängnis Bässlergut stattgefunden und
+sei mit einer Verwarnung geahndet worden. Da somit völlig unklar sei, ob er
+tatsächlich gedroht habe und gegenüber wem, könne nicht der Schluss gezogen
+werden, dass vom Rekurrenten eine Gefahr für irgendeine Person ausgehe. Die
+Einweisung in die Sicherheitsabteilung, die einen massiven Eingriff in die
+Freiheit des Betroffenen darstelle, sei allein gestützt auf das kurze, wenig
+schlüssige und nachvollziehbare Schreiben des Psychiaters vom 21. Juni 2022
+jedenfalls nicht gerechtfertigt und erscheine willkürlich (Rekursbegründung Ziff.
+7 ff., Akten 9).
+
+3.
+
+3.1.1 Dem
+Schreiben des Gefängnispsychiaters vom 21. Juni 2022 ist zu entnehmen, dass der
+Rekurrent im Alltag und in der psychiatrischen Visite durch das Stellen von
+Forderungen, mangelhafte Kooperation und Drohungen auffalle. Er sei
+argumentativ nicht zugänglich und nicht in der Lage, in einen konstruktiven,
+lösungsorientierten Dialog zu treten. Die Visite habe wegen zunehmender
+Spannung mit Unwohlsein des Psychiaters abgebrochen werden müssen. Aus
+psychiatrischer Sicht sei eine fehlende Bereitschaft, ev. Fähigkeit zur
+Kooperation und ein erhebliches Aggressionspotential mit hoher
+Eskalationsgefahr festzustellen, weshalb zur Sicherheit des Rekurrenten und
+auch des Umfeldes eine Verlegung in eine andere Anstalt oder eine Versetzung
+auf die Sicherheitsabteilung indiziert sei (Akten 8 S. 19).
+
+3.1.2 Mit
+E-Mail vom 24. Juni 2022 wurde die JVA Bostadel von der Strafvollzugsbehörde im
+Zusammenhang mit der Prüfung einer Einweisung des Rekurrenten in die
+Sicherheitsabteilung A um konkrete Informationen, insbesondere auch zu den
+erwähnten Drohungen und der Art und Schwere der zu befürchtenden Eskalation
+gebeten (Akten SVM Teil II p. 16). Diese Anfrage blieb unbeantwortet.
+
+3.1.3 Aus
+dem Antrag der JVA Bostadel vom 7. Juli 2022 geht hervor, dass der Rekurrent am
+14. April 2022 im Normalvollzug eingetreten sei, wobei er von Beginn an Mühe
+gehabt habe, sich im Grosskollektiv einzufügen. Beim Eintritt sei in seinen
+Effekten ein weisses Pulver eingezogen worden, welches jedoch nicht eindeutig
+habe zugeordnet werden können, weshalb auf disziplinarische Massnahmen
+verzichtet worden sei. Am 16. Mai 2022 sei ein Verstoss gegen die Tagesordnung
+(Nichteinhaltung des Aufenthaltsorts) rapportiert worden, welcher mit einem
+dreitägigen Zelleneinschluss sanktioniert worden sei. Eine weitere
+Sanktionierung wegen eines gleichartigen Verstosses habe vom 3. bis 6. Juni
+2022 stattgefunden. Am 28. Mai 2022 sei der Rekurrent vorsorglich in seiner
+Zelle eingeschlossen worden, weil er in einer verbalen Auseinandersetzung mit
+einem Mitgefangenen involviert gewesen sei. Am 10. Juni 2022 habe er gegen
+das Rauchverbot verstossen, was mit einer Busse sanktioniert worden sei (vgl.
+dazu Akten SMV Teil II, S. 20, 23, 29). Der Rekurrent sei überdurchschnittlich
+oft beim Gesundheitsdienst vorstellig geworden, wobei er wiederholt zu spät
+gekommen sei und darauf angesprochen jeweils wütend reagiert habe. Schliesslich
+habe der Rekurrent am Arbeitsplatz wegen zu langer Pausen ermahnt werden
+müssen, wobei er sich nicht einsichtig gezeigt habe. Er habe aufgrund seiner
+Probleme im Normalvollzug selbst einen Antrag auf eine stützende Therapie
+eingereicht, welche bewilligt worden sei. In einem Schreiben vom 1. Juli 2022
+schliesslich habe sich der Rekurrent auf ungebührliche Weise über die
+Mitarbeitenden des Gesundheitsdienstes beschwert und behauptet, diese würden
+lügen und seien fachlich nicht kompetent. Es werde aufgrund dieser Ausgangslage
+eine Versetzung des Rekurrenten in die Sicherheitsabteilung A für sechs Monate
+beantragt, wobei ein Wechsel in die Kleingruppe B frühestens nach Ablauf von
+drei Monaten in der Sicherheitsabteilung A zu prüfen sei (Akten SMV Teil II S.
+9 f.).
+
+3.1.4 Aus
+dem Vollzugsverlaufsjournal des Gefängnis Bässlergut geht hervor, der Rekurrent
+sei am 2. Februar 2022 wegen einer Drohung verwarnt worden (Akten S. 12).
+Zudem habe er am 28. März 2022 einen leichten Disput mit seinem Zellengenossen
+ausgetragen und sich zwischen dem 3. Januar 2022 und dem 11. März 2022
+wiederholt geweigert, an der obligatorischen Arbeit teilzunehmen. Weiter wurde
+am 22. Februar 2022 vermerkt, das Verhalten des Rekurrenten sei sehr anstrengend
+und fordernd (Akten SMV 8 S. 11-14).
+
+3.1.5 Anlässlich
+der Gewährung des rechtlichen Gehörs gab der Rekurrent am 7. Juli 2022 zu
+Protokoll, er sehe den Sinn (der Verlegung) nicht (Akten SMV 8 S. 15).
+
+3.2
+
+3.2.1 Die
+Versetzung einer gefangenen Person stellt weder eine Strafe noch eine
+Disziplinarmassnahme dar, dennoch bedeutet sie zweifellos einen zusätzlichen
+massiven Eingriff in die persönliche Freiheit einer gefangenen Person. Die
+Unterbringung des Rekurrenten in der Sicherheitsabteilung A der
+Justizvollzugsanstalt Bostadel stellt gegenüber dem Normalvollzug eine
+weitergehende Beschränkung seiner persönlichen Freiheit (Art. 10 Abs. 2 der
+Bundesverfassung [BV, SR 101]) dar. Dies ist zulässig, sofern die
+Beschränkung auf einer gesetzlichen Grundlage beruht, durch ein öffentliches
+Interesse oder den Schutz von Grundrechten Dritter gerechtfertigt und im
+Übrigen verhältnismässig ist (Art. 36 Abs. 1 Satz 2 BV; BGer 1P.335/2005
+vom 25. August 2005 E. 2.3, vgl. AGE VD.2021.176 vom 20. Januar 2022 E.
+3.1).
+
+3.2.2 Eine beschuldigte Person, die den vorzeitigen Straf- oder Massnahmenvollzug
+angetreten hat, untersteht dem Vollzugsregime, wenn der Zweck der
+Untersuchungs- oder der Sicherheitshaft dem nicht entgegensteht (Art. 236 Abs.
+4 der Strafprozessordnung [StPO, SR. 312.0]). Entsprechend sind die Bestimmungen
+von Art. 74 ff. des Strafgesetzbuchs (StGB, SR 311.0) anwendbar. Der
+Vollzug ist dabei an verschiedenen, teilweise auch gegenläufigen Prinzipien zur
+Konkretisierung des Grundsatzes der Spezialprävention bzw. der
+Wiedereingliederung einer straffällig gewordenen Person auszurichten. Nach dem
+Normalisierungsgrundsatz sowie dem Betreuungsprinzip soll der gefangenen Person,
+angepasst an das jeweilige Vollzugsregime und die Vollzugsstufe, möglichst viel
+Selbstverantwortung und Autonomie wie auch persönliche Fürsorge gewährt werden.
+Auf eine über die erforderliche Beschränkung der persönlichen Freiheit
+hinausgehende überschiessende Übelszufügung ist zu verzichten (Prinzip des nil
+nocere). Es ist aber auch das Sicherungsprinzip zu beachten. Danach hat die
+Sicherung des Täters oder der Täterin einerseits dem Schutz der Allgemeinheit
+vor weiteren Straftaten der inhaftierten Person und andererseits der
+Gewährleistung der Sicherheit in der Anstalt zu dienen. Dieser Zweck geht in
+Anstaltsabteilungen mit erhöhter oder höchster Sicherheit den anderen Zwecken
+vor (vgl. dazu Brägger ,
+in: Basler Kommentar, 4. Auflage 2019, Art. 75 StGB N 1 ff.). Die
+Grundsätze des Vollzugs werden im Konkordat der Kantone der Nordwest- und
+Innerschweiz über den Vollzug von Strafen und Massnahmen vom 5. Mai 2006
+(SG 258.300) durch Reglemente, Richtlinien, konkordatliche Standards sowie
+Merkblätter der Fachkonferenzen weiter konkretisiert. Diese finden sich in der
+systematischen Sammlung der Erlasse und Dokumente (SSED; abrufbar unter https://www.konkordate.ch/konkordatliche-erlasse-ssed [zuletzt besucht am 15. Dezember 2022]). Dazu gehört auch das Merkblatt
+30.3 «Vorgehen bei Einweisung in die Sicherheitsabteilung» des
+Strafvollzugskonkordats der Nordwest- und Innerschweiz vom 28. Oktober 2022 (SSED
+30.3). Danach erfordert die Einweisung in jedem Fall eine sorgfältige Prüfung,
+wobei dem Verhältnismässigkeitsprinzip ein besonderes Augenmerk zu schenken ist
+(Art. 3 Abs. 2 SSED 30.3). Eine Einweisung in die Sicherheitsabteilung A
+(Abteilung für höchste Sicherheit mit Einzelhaft) ist gemäss Art. 5 Abs. 1 SSED
+30.3 für gewalttätige Gefangene mit hohem Fremdgefährdungspotential, welche die
+Öffentlichkeit oder die Anstaltssicherheit gefährden, vorgesehen. Dagegen dient
+eine Einweisung in die Sicherheitsabteilung B (Kleingruppenvollzug) der
+Unterbringung und Betreuung von Gefangenen, die im Normalvollzug wegen ihres
+aggressiven Verhaltens und/oder hohen Betreuungsbedarfs nicht (mehr) tragbar
+sind (Art. 6 Abs. 1, Art. 8 Abs. 2 SSED 30.3).
+
+3.2.3 Die Einweisung in eine Justizvollzugsanstalt begründet einen Sonderstatus,
+respektive ein besonderes Rechtsverhältnis ( Häfelin/Müller/Uhlmann ,
+Allgemeines Verwaltungsrecht, 8. Auflage, Zürich 2020, N 450 f.). Dabei sind
+die Anforderungen für die Begründung von Grundrechtseinschränkungen geringer,
+soweit sich diese in voraussehbarer Weise aus dem Zweck des
+Sonderstatusverhältnisses ergeben. Daraus ergibt sich auch die Verpflichtung,
+alles zu unterlassen, was den geordneten Anstaltsbetrieb beeinträchtigen könnte
+(BGE 139 I 280 E. 5.3.1 S. 286 f.). Wie bereits mit der angefochtenen Verfügung
+betreffend die Einweisung in die Sicherheitsabteilung A dargelegt wurde, ist
+eine Einweisung gemäss Ziffer 1 SSED 30.3 zum eigenen Schutz der eingewiesenen
+Person oder zum Schutze Dritter (beinhaltet Fremd- und/oder Selbstgefährdung),
+bei erhöhter Fluchtgefahr oder bei schwerer Störung von Ruhe und Ordnung
+innerhalb der Vollzugseinrichtung vorzunehmen.
+
+3.3
+
+3.3.1 Drohendes
+Verhalten geht mit einer Gefährdung der Mitinhaftierten und des Personals einher
+und stellt zweifellos ein über die blosse Störung der Ruhe und Ordnung
+hinausgehendes Sicherheitsrisiko dar. Vor diesem Hintergrund wäre die Anordnung
+von sichernden Massnahmen ohne weiteres gerechtfertigt. Der Rekurrent
+bestreitet die Drohungen. Zwar gilt grundsätzlich die Unschuldsvermutung. Mit
+Blick auf den Umstand, dass die Aufrechterhaltung eines ordnungsgemässen
+Anstaltsbetriebes im Vordergrund steht, muss aber für die Anordnung von
+sichernden Massnahmen das fragliche Verhalten des Gefangenen nicht nachgewiesen
+sein, vielmehr genügt es, dass dafür erhebliche Indizien vorliegen und die
+Massnahme geeignet erscheint, das bestehende Sicherheitsrisiko zu bekämpfen
+(vgl. VGE VD.2021.176 vom 20. Januar 2022 E. 3.3 mit Hinweis auf VD.2019.133
+vom 23. Oktober 2019 E. 3.5).
+
+3.3.2 Vorliegend
+ist mit Blick auf die Akten erhärtet, dass sich der Rekurrent im Normalvollzug immer
+wieder ungebührlich, renitent, uneinsichtig und unangepasst verhalten hat. So
+geht aus dem Vollzugsprotokoll hervor, dass er wiederholt die obligatorische Arbeit
+verweigerte. Hinzu kommen zwei Disziplinarverfügungen wegen Nichteinhaltung des
+Aufenthaltsorts und eine weitere wegen unerlaubten Rauchens. Auch im Schreiben
+des Gefängnispsychiaters vom 21. Juni 2022 wird das Verhalten des Rekurrenten
+als auffällig, fordernd und unkooperativ geschildert. Zudem stosse er Drohungen
+aus, «welche eine Eskalation oder eine Gefährdung der Sicherheit in der Anstalt
+befürchten lassen» würden und «ein erhebliches Aggressionspotential mit hoher
+Eskalationsgefahr» feststellen lasse, weshalb die Visite aufgrund zunehmender
+Spannungen und Unwohlsein seitens des Psychiaters abgebrochen worden sei (Akten
+SMV Teil II S. 19). Es wurde jedoch weder ausgeführt, womit der Rekurrent
+gedroht habe, noch gegen wen sich seine Drohungen gerichtet haben sollen. Unklar
+bleibt auch, auf welche Weise sich das Aggressionspotential des Rekurenten gezeigt
+habe und aufgrund welcher konkreter Umstände der Psychiater zur Einschätzung
+gelangte, es bestehe eine hohe Eskalationsgefahr. Zudem fehlen in den Akten 
+namentlich im Vollzugsprotokoll  Einträge bzw. Disziplinarverfügungen betreffend
+Drohungen oder drohendes Verhalten des Rekurrenten. Die einzige aktenkundige
+Drohung datiert von Anfang Februar 2022 aus dem Gefängnis Bässlergut, wo sie
+geahndet wurde. Insgesamt sind den Akten der JVA Bostadel keinerlei Indizien bezüglich
+Drohungen seitens des Rekurrenten zu entnehmen. Der einzige Hinweis besteht im
+Schreiben des Gefängnispsychiaters, der seine pauschale Aussage, der Rekurrent stosse
+Drohungen auf, nicht konkretisiert.
+
+3.3.3 Aus
+den Akten geht somit zusammenfassend hervor, dass der Rekurrent seit seinem
+Eintritt in die JVA Bostadel keineswegs ein problemloses Vollzugsverhalten
+gezeigt hat. So habe er im Mai und Juni 2022 insgesamt dreimal diszipliniert
+werden müssen (vgl. Disziplinarverfügungen der JVA Bostadel vom 18. Mai, 25.
+Mai und 13. Juni 2022). Allerdings sei es um vergleichsweise leichte
+Missachtungen der Hausordnung gegangen (Aufenthalt auf falscher Etage und
+Rauchen an unerlaubtem Ort). Zudem wird im Schreiben der JVA Bostadel vom 7.
+Juli 2022 ein vorsorglich erfolgter Zelleneinschluss aufgrund einer verbalen Auseinandersetzung
+mit einem Mitgefangenen erwähnt. Eine entsprechende Disziplinarverfügung ist
+den Akten allerdings nicht zu entnehmen. Schliesslich habe sich der Rekurrent
+schriftlich und in unzulässiger Weise über die Mitarbeitenden des
+Gesundheitsdienstes beschwert. Dieses aktenkundige Vollzugsverhalten des
+Rekurrenten stört klar die Ruhe und Ordnung der Vollzugsanstalt, weshalb die
+betreffenden Verhaltensweisen auch jeweils sanktioniert wurden. Erhebliche
+Indizien zu einem sicherheitsgefährdenden Verhalten des Rekurrenten jedoch
+fehlen.
+
+3.4 Der
+Einwand des Rekurrenten, das kurze und pauschal abgefasste Schreiben des
+Gefängnispsychiaters vom 21. Juni 2022 reiche nicht aus, um von einer
+Fremdgefährdung auszugehen, ist vor dem Hintergrund der aktenkundigen Vorfälle
+berechtigt. Zwar besteht grundsätzlich kein Grund, der Einschätzung des ohne
+Zweifel sehr erfahrenen Gefängnispsychiaters bezüglich des
+Gefährdungspotentials des Rekurrenten nicht zu folgen. Der Umstand, dass der
+Gefängnispsychiater das Gespräch mit dem Rekurrenten nach wenigen Minuten aus
+Sicherheitsgründen abbrechen musste, ist zweifelsohne erwähnenswert und nicht
+unbedenklich. Jedoch bleiben die Art und der Umfang der vom Rekurrenten geäusserten
+Drohung(en) bzw. seines bedrohlichen Auftretens sowie die Art der sich daraus
+ergebenden befürchteten Eskalation oder Gefährdung der Anstaltssicherheit
+pauschal und unsubstantiiert. Trotz der Aufforderung der Strafvollzugsbehörde
+an die JVA Bostadel, diese Punkte noch zu konkretisieren und nähere Informationen
+dazu zu erteilen, beinhalten die Akten hierzu keinerlei konkreteren Hinweise.
+Vor diesem Hintergrund ist nicht überprüfbar, ob und auf welche Weise
+allfällige Drohungen tatsächlich zu einem Sicherheitsrisiko in der JVA Bostadel
+geführt haben. Zwar stellt die unbestrittenermassen erfolgte Drohung im
+Gefängnis Bässlergut diesbezüglich einen Anhaltspunkt dar. Jedoch datiert diese
+von Anfang Februar 2022 und damit mehrere Monate vor der geltend gemachten
+Sicherheitsgefährdung. Eine derart unmittelbare Gefahr der gewalttätigen
+Eskalation, welche eine Verlegung in die Sicherheitsabteilung A zu
+rechtfertigen vermöchte, kann auch mit Blick auf die weiteren, im Vollzugsbericht
+der JVA Bostadel vom 7. Juli 2022 dokumentierten Vorfälle nicht bejaht
+werden, handelt es sich doch bei den beanstandeten Verhaltensweisen zwar
+durchaus um störendes, nicht aber um sicherheitsrelevantes Verhalten des
+Rekurrenten. Auch aus dem Umstand, dass der Rekurrent übermässig oft beim
+Gesundheitsdienst vorstellig geworden sei, auf Hinweise zu seinen Verspätungen
+wütend reagiert und sich bei Ermahnungen am Arbeitsplatz uneinsichtig gezeigt
+habe, geht nicht ohne weiteres eine Bedrohungssituation hervor. Dasselbe muss
+für seine offenbar unangemessene schriftliche Beschwerde vom 1. Juli 2022 betreffend
+die Mitarbeitenden des Gesundheitsdienstes gelten, kann doch auch daraus nicht
+ohne weiteres auf eine sicherheitsrelevante Eskalationsgefahr geschlossen
+werden.
+
+3.5 Aus
+dem Gesagten ergibt sich, dass aus den gesamten Akten keine Schilderungen
+konkreter Drohungen oder Situationen, in denen der Rekurrent sich konkret
+bedrohlich verhalten hätte, hervorgehen. Es ist somit festzustellen, dass durch
+das Schreiben des Gefängnispsychiaters vom 21. Juni 2022 nicht ausreichend substantiiert
+dargelegt wurde, inwiefern die Versetzung des Rekurrenten in die
+Sicherheitsabteilung A erforderlich war. Die Feststellung der Vorinstanz, dem
+Rekurrenten sei es bisher nicht gelungen, sich in das Grosskollektiv des
+Normalvollzuges einzufügen, ist zwar mit Blick auf die Akten durchaus
+schlüssig. Nicht nachvollziehbar ist jedoch die vorinstanzliche
+Schlussfolgerung, wonach deshalb der weitere Verbleib des Rekurrenten im
+Normalvollzug ein untragbares Risiko für Mitgefangene und das Personal bedeute.
+Insbesondere wird nicht dargelegt, welche konkreten Verhaltensweisen des
+Rekurrenten zu einem untragbaren Risiko für Dritte geführt haben sollen.
+
+3.6 Den
+jüngsten Berichten der JVA Bostadel vom 2. September 2022 und des
+Gefängnispsychiaters vom 29. August 2022 sind zwar Hinweise auf ein weiterhin
+unkooperatives Verhalten des Rekurrenten, nicht jedoch auf ein
+sicherheitsgefährdendes Gebahren zu entnehmen. Zwar ist etwa der Umstand, dass der
+Rekurrent anlässlich einer kürzlich erfolgten Konsultation seine sofortige
+Rückversetzung in den Normalvollzug verlangt habe, nicht als besonders
+unkooperatives und uneinsichtiges Verhalten und schon gar nicht als sicherheitsrelevante
+Bedrohung zu werten, sondern erscheint aus Sicht des sich seit mehreren Monaten
+in Einzelhaft befindenden Rekurrenten durchaus nachvollziehbar. Erwähnenswert
+ist jedoch der Umstand, dass die Therapie abgebrochen wurde, weil der Rekurrent
+nicht gewillt war, die Schweigepflichtsentbindung zu unterschreiben. Dies ist
+zwar auf den ersten Blick nachvollziehbar, erscheint aber vor dem aktenkundigen
+Hintergrund insgesamt persönlichkeitsadäquat und ist nicht zu verharmlosen. So
+stellt die Entbindungserklärung von der Schweigepflicht im forensischen Kontext
+eine unverzichtbare Voraussetzung für die Fortführung der Therapie dar, da
+ansonsten die Entstehung ernsthafter und  namentlich auch für die Therapeutin
+ bedrohlicher Situationen zu befürchten steht. Insgesamt kann gestützt auf die
+Akten festgestellt werden, dass der Rekurrent im Vollzugsalltag in der JVA
+Bostadel über längere Zeit aufgrund seines bemerkenswert renitenten,
+unangepassten, fordernden und teilweise aggressiven Verhaltens im Normalvollzug
+nicht mehr tragbar war. Daraus folgt, dass eine Verlegung in eine Kleingruppe
+mit erhöhtem Betreuungsschlüssel geeignet wäre, die Aufrechterhaltung eines ordnungsgemässen
+Anstaltsbetriebes zu gewährleisten und das Verhalten des Rekurrenten,
+namentlich durch seine Abschirmung vor übermässigen Reizen durch Mitgefangene,
+positiv zu beeinflussen. Eine Verlegung in die Sicherheitsabteilung B wäre
+zudem verhältnismässig, stellt sie doch gegenüber der Einweisung in die
+Sicherheitsabteilung A einen milderen Eingriff dar.
+
+4.
+
+4.1 Der
+Rekurs erweist sich folglich als begründet und ist teilweise gutzuheissen.
+Entsprechend ist die Strafvollzugsbehörde anzuweisen, den Rekurrenten sobald
+als möglich von der Sicherheitsabteilung A zu verlegen.
+
+4.2 Bei
+diesem Ausgang des Verfahrens sind dem zum grössten Teil obsiegenden Rekurrenten
+keine Kosten aufzuerlegen. Für das verwaltungsgerichtliche Verfahren steht ihm
+gemäss Art. 30 Abs. 1 VRPG eine Parteientschädigung zu. Da sein Rechtsvertreter
+keine Honorarnote eingereicht hat, ist sein Aufwand für den doppelten
+Schriftenwechsel auf acht Stunden zu schätzen. Daraus errechnet sich ein
+Honorar von CHF 1600. (inklusive Auslagenentschädigung), zuzüglich 7,7% MWST
+von CHF 123.20, welcher durch den Straf- und Massnahmenvollzug zu entrichten
+ist.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird teilweise gutgeheissen. Die
+Verfügung der Strafvollzugsbehörde vom 8. Juli 2022 wird aufgehoben und die Strafvollzugsbehörde
+wird angewiesen, den Rekurrenten von der Sicherheitsabteilung A der JVA
+Bostadel zu verlegen.
+
+Im Übrigen wird der Rekurs abgewiesen.
+
+Für das verwaltungsgerichtliche Verfahren werden keine Kosten erhoben.
+
+Der Straf- und Massnahmenvollzug wird verpflichtet, dem
+Rekurrenten eine Parteientschädigung von CHF 1600., zuzüglich 7,7% MWST von
+insgesamt CHF 1'723.20 auszurichten.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Straf- und Massnahmenvollzug
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+lic. iur. Mirjam Kündig
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Strafsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in Strafsachen ein
+anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde
+an das Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Strafsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
