@@ -1,0 +1,315 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.40"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2024.6"
+docket_2: "AG.2024.40"
+decided: "2021-12-07"
+published: "2024-01-19"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76296&W10_KEY=3048461&nTrefferzeile=490&Template=search_result_document.html"
+cites_decisions: ["BGE 127 II 168", "BGE 128 II 241", "BGE 130 II 56"]
+cites_law: ["switzerland/bund/acts/142.20/art-074.md", "switzerland/bund/acts/142.20/art-075.md", "switzerland/bund/acts/142.20/art-078.md", "switzerland/bund/acts/142.20/art-079.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-090.md", "switzerland/bund/acts/142.20/art-119.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-160.md"]
+---
+
+# Anordnung der Ausschaffungshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+
+AUS.2024.6
+
+URTEIL
+
+vom 19.
+Januar 2024
+
+Beteiligte
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, 4001 Basel
+
+gegen
+
+A____, geb. [...], von
+Algerien,
+
+c/o Gefängnis Bässlergut,
+
+Freiburgerstrasse 48, 4057 Basel
+
+Gegenstand
+
+Verfügung des
+Migrationsamts vom 16. Januar 2024
+
+betreffend Anordnung der Ausschaffungshaft
+
+Sachverhalt
+
+Der algerische
+Staatsangehörige A____ (nachfolgend: Beurteilter), reiste am 23. August 2021 in
+die Schweiz ein und stellte tags darauf ein Asylgesuch. Dieses lehnte das
+Staatsekretariat für Migration (SEM) mit Entscheid vom 7. Dezember 2021 ab
+und wies ihn aus der Schweiz weg. Schon kurz nach seiner Einreise in die
+Schweiz wurde der Beurteilte straffällig. So wurde er mit Strafbefehl der
+Staatsanwaltschaft Basel-Stadt vom 29. Oktober 2021 der rechtswidrigen Einreise
+schuldig erklärt und zu einer bedingt vollziehbaren Geldstrafe von zehn
+Tagessätzen zu CHF 30. (Probezeit zwei Jahre; mit Strafbefehl vom 31.
+Dezember 2021 widerrufen und mit Entscheid vom 13. Juli 2022 in zehn Tage
+Ersatzfreiheitsstrafe umgewandelt) sowie zu einer Busse in Höhe von CHF 100. verurteilt.
+Mit Strafbefehl der Staatsanwaltschaft Basel-Stadt vom 22. November 2021 wurde A____
+des Diebstahls, der Hehlerei, der rechtswidrigen Einreise sowie des geringfügigen
+Diebstahls schuldig erklärt und unter Einrechnung von zwei Tagen erlittener
+Untersuchungshaft zu einer bedingt vollziehbaren Freiheitsstrafe von 90 Tagen (Probezeit
+vier Jahre) und einer Busse in Höhe von CHF 600. (mit Entscheid vom 9. Juni
+2022 in sechs Tage Ersatzfreiheitsstrafe umgewandelt) verurteilt. Mit
+Strafbefehl der Staatsanwaltschaft Basel-Stadt vom 29. November 2021 wurde der
+Beurteilte dann des mehrfachen Diebstahls schuldig erklärt und zu 60 Tagen
+Freiheitsstrafe verurteilt (unter Einrechnung von zwei Tagen erlittener Untersuchungshaft).
+Mit Strafbefehl derselben Behörde vom 3. Dezember 2021 wurde der Beurteilte in
+der Folge des Diebstahls und der mehrfachen Missachtung der Ein- oder
+Ausgrenzung im Sinne des Bundesgesetzesüber die Ausländerinnen und Ausländer
+und über die Integration schuldig erklärt und zu einer 150-tägigen Freiheitsstrafe
+verurteilt (unter Einrechnung von zwei Tagen erlittener Untersuchungshaft). Mit
+einem weiteren Strafbefehl der Staatsanwaltschaft Basel-Stadt, datierend vom
+31. Dezember 2021, wurde A____ des Weiteren des Diebstahls sowie der Missachtung
+der Ein- oder Ausgrenzung im Sinne des Bundesgesetzes über die Ausländerinnen
+und Ausländer und über die Integration schuldig erklärt und zu einer
+Freiheitsstrafe von 170 Tagen verurteilt (unter Einrechnung von zwei Tagen
+erlittener Untersuchungshaft). Mit Strafbefehl vom 13. Januar 2022
+verurteilte ihn die Staatsanwaltschaft des Kantons Basel-Stadt wegen versuchten
+Diebstahls, geringfügigen Diebstahls und mehrfacher Missachtung der Ein- oder
+Ausgrenzung im Sinne des Bundesgesetzes über die Ausländerinnen und Ausländer
+und über die Integration unter Widerruf und Vollziehbarerklärung der am 22.
+November 2021 bedingt ausgesprochenen Freiheitsstrafe von 90 Tagen zu einer
+Freiheitsstrafe von 180 Tagen (Gesamtstrafe).
+
+Nach Verbüssung
+dieser Freiheitsstrafen wurde der Beurteilte am 20. Januar 2023 aus der
+Justizvollzugsanstalt (JVA) Lenzburg zu Handen des Migrationsamts Basel-Stadt bedingt
+entlassen. Letzteres entliess ihn gleichentags auf die Strasse. In der Folge
+hielt das Migrationsamt den Beurteilten zur regelmässigen Vorsprache an,
+derweil es sich in Zusammenarbeit mit dem SEM darum bemühte, für ihn infolge
+seiner Weigerung, Reisepapiere zu beschaffen, einen Termin für eine
+konsularische Befragung (Counselling), zu erhalten. Mit einem weiteren Strafbefehl
+der Staatsanwaltschaft Basel-Stadt wurde der Beurteilte am 14. Juli 2023 wegen
+geringfügigen Diebstahls zu einer Busse von CHF 150. (ersatzweise eine
+Freiheitsstrafe von zwei Tagen) verurteilt. Am 13. Dezember 2023 nahm die
+Kantonspolizei den Beurteilten im Auftrag des Migrationsamts anlässlich einer
+Vorsprache fest. Nach Befragung und Gewährung des rechtlichen Gehörs hat das
+Migrationsamt gleichentags eine Durchsetzungshaft bis zum 12. Januar 2024
+angeordnet. Diese wurde am 15. Dezember 2023 vom Einzelrichter für
+Zwangsmassnahmen im Ausländerrecht bestätigt (AUS.2023.47) und am 11. Januar
+2024 um zwei weitere Monate verlängert (VGE AUS.2024.3).
+
+Nachdem dem
+Migrationsamt mit E-Mail vom 15. Januar 2024 mitgeteilt worden ist, dass das
+Counselling nunmehr am 31. Januar 2024 stattfinden wird, hat es mit Verfügung
+vom 16. Januar 2024 die Haft gewandelt und eine Ausschaffungshaft von drei
+Monaten, mithin bis zum 15. April 2024, verfügt. Am 19. Januar 2024 hat eine
+mündliche Verhandlung des Einzelrichters für Zwangsmassnahmen im Ausländerrecht
+stattgefunden. Dabei ist der Beurteilte befragt worden. Für sämtliche Ausführungen
+wird auf das Protokoll verwiesen. Das vorliegende Urteil (einschliesslich
+Rechtsmittelbelehrung) ist dem Beurteilten anlässlich der mündlichen
+Verhandlung erläutert und ihm überdies schriftlich ausgehändigt worden.
+
+Erwägungen
+
+1.
+
+Gemäss Art. 80
+Abs. 2 des Ausländer- und Integrationsgesetzes (AIG, SR 142.20) sind die
+Rechtmässigkeit und Angemessenheit der Haft spätestens nach 96 Stunden durch
+eine richterliche Behörde aufgrund einer mündlichen Verhandlung zu überprüfen.
+Diese Frist ist mit der heutigen Verhandlung eingehalten. Zuständig zur
+Überprüfung der Haft ist ein Einzelrichter am Appellationsgericht als
+Verwaltungsgericht (§ 2 des Gesetzes über den Vollzug der Zwangsmassnahmen im
+Ausländerrecht [SG 122.300]).
+
+2.
+
+2.1 Nach
+den gesetzlichen Vorschriften kann ein Ausländer zur Sicherstellung eines
+erstinstanzlichen Weg- oder Ausweisungsentscheids bzw. einer erstinstanzlich
+eröffneten Landesverweisung unter anderem dann in Haft genommen werden, wenn er
+ein ihm nach Artikel 74 AIG zugewiesenes Gebiet verlässt oder ein ihm
+verbotenes Gebiet betritt (Art. 76 Abs. 1 lit. b Ziff. 1 in Verbindung mit
+Art. 75 Abs. 1 lit. b AIG) oder dann, wenn er wegen eines Verbrechens verurteilt
+worden ist (Art. 76 Abs. 1 lit. b Ziff. 1 in Verbindung mit Art. 75
+Abs. 1 lit. h AIG), wobei letzteres Urteil in Rechtskraft erwachsen sein muss
+(vgl. dazu Göksu , in:
+Caroni/Gächter/Thurnherr [Hrsg.], Handkommentar AuG, Bern 2010, Art. 75 N 21).
+
+2.2 Nach
+den gesetzlichen Vorschriften kann ein Ausländer zur Sicherstellung eines
+erstinstanzlichen Weg- oder Ausweisungsentscheids bzw. einer erstinstanzlichen
+Landesverweisung darüber hinaus dann in Haft genommen werden, wenn
+Untertauchensgefahr vorliegt (Art. 76 Abs. 1 lit. b Ziff. 3 und 4 AIG).
+Untertauchensgefahr liegt regelmässig dann vor, wenn der Ausländer bereits
+einmal untergetaucht ist, behördlichen Auflagen keine Folge leistet, hier
+straffällig geworden ist, durch erkennbar unglaubwürdige und widersprüchliche
+Angaben die Vollzugsbemühungen der Behörden zu erschweren versucht oder sonst
+klar zu erkennen gibt, dass er auf keinen Fall in sein Heimatland
+zurückzukehren bereit ist (BGE 128 II 241 E. 2.1, 125 II 369 E. 3 b/aa) sowie
+bei eigentlichen Täuschungsmanövern, um die Identität zu verschleiern bzw. die
+Papierbeschaffung zu erschweren (z.B. Verwendung gefälschter Papiere, Auftreten
+unter mehreren Namen). Die Beurteilung der Untertauchensgefahr beruht auf einer
+Prognose. Diese ist in erster Linie vom Haftgericht vorzunehmen und zu
+begründen, letzteres nicht zuletzt deshalb, da das Haftgericht die ausländische
+Person im Rahmen der obligatorischen mündlichen Verhandlung befragt und von ihr
+einen persönlichen Eindruck erhält (vgl. dazu Hugi
+Yar , Zwangsmassnahmen im Ausländerrecht, in: Ausländerrecht, Uebersax et
+al. [Hrsg.], 3. Auflage 2022, Rz. 12.103).
+
+2.3 Wie
+sich aus der Sachverhaltsdarstellung ergibt, wurde der Beurteilte rechtskräftig
+mitunter wegen mehrfacher Missachtung der Ein- oder Ausgrenzung nach
+Art. 119 AIG schuldig gesprochen. Der Haftgrund von Art. 76 Abs. 1
+lit. b Ziff. 1 in Verbindung mit Art. 75 Abs. 1 lit. b AIG ist damit erfüllt.
+
+2.4 Wie
+sich ebenfalls aus der Sachverhaltsdarstellung ergibt, wurde der Beurteilte wegen
+Diebstahls (Art. 139 Ziff. 1 des Strafgesetzbuches [StGB, SR 311.0]) und
+Hehlerei (Art. 160 Ziff. 1 StGB), mithin beides Verbrechens im Sinne von Art.
+10 Abs. 2 StGB, rechtskräftig verurteilt, womit auch der Haftgrund von Art. 76
+Abs. 1 lit. b Ziff. 1 in Verbindung mit Art. 75 Abs. 1 lit. h AIG erfüllt
+ist.
+
+2.5 Darüber
+hinaus ist  auch wenn der Beurteilte zwecks Nothilfeverlängerung zuletzt
+regelmässig beim Migrationsamt vorgesprochen haben mag  auch von einer
+ausgeprägten Untertauchensgefahr im Sinne von Art. 76 Abs. 1 lit. b Ziff. 3 und
+4 AIG auszugehen: Bereits im Rahmen des Asylverfahrens foutierte sich der
+Beurteilte regelrecht um behördliche Anordnungen. So hat er gemäss den
+Ausführungen im Asylentscheid das Bundesasylzentrum (BAZ) in Basel mehrfach
+unentschuldigt verlassen bzw. ist in dieser Zeit mehrfach untergetaucht bzw.
+unbekannten Aufenthalts gewesen. Zudem hat er die Hausregeln des BAZ mehrfach
+verletzt und auch seinen Anhörungstermin unentschuldigt versäumt. Darüber
+hinaus hat sich seine gegenüber den Schweizerischen Behörden getätigte
+Behauptung, er habe in Frankreich einen Aufenthaltstitel, nach erfolgten
+Abklärungen als falsch erwiesen. Gemäss Auskunft der Französischen Behörden
+habe A____ vielmehr versucht, mit einer falschen Italienischen Identitätskarte in
+Frankreich einzureisen. Dies zeigt, dass er auch nicht berechtigt ist, nunmehr
+ wie an der heutigen Verhandlung geschildert  bei einer Haftentlassung nach
+Frankreich zu gehen. Schliesslich hat er sich über mehr als ein Jahr standhaft
+geweigert, an der ihm obliegenden Papierbeschaffung mitzuwirken (Art. 90 AIG),
+sodass die heutige Beteuerung, er würde sich nun an der Papierbeschaffung
+beteiligen, nicht überzeugen kann. Im Übrigen zeigt auch die massive
+Delinquenz, dass der Beurteilte nicht bereit ist, sich an behördliche Anweisungen
+zu halten.
+
+3.
+
+3.1 Die
+Vorbereitungs- und die Ausschaffungshaft nach Art. 75 bis 77 AIG sowie die
+Durchsetzungshaft nach Art. 78 AIG dürfen zusammen in der Regel die maximale
+Haftdauer von sechs Monaten nicht überschreiten (Art. 79 Abs. 1 AIG). Diese
+Haftdauer darf nur in den in Art. 79 Abs. 2 AIG normierten Fällen überschritten
+werden. Weiter darf der Vollzug einer allfälligen Weg- oder Ausweisung nicht
+aus rechtlichen oder tatsächlichen Gründen undurchführbar sein (Art. 80 Abs. 6
+lit. a AIG; BGE 127 II 168 E. 2c). Schliesslich muss die Haft als Ganzes
+verhältnismässig sein und müssen die Behörden das Beschleunigungsgebot wahren
+(BGE 130 II 56 E. 1, 125 II 369 E. 3a).
+
+3.2 Aufgrund
+des vorstehend Erwogenen bzw. den einschlägigen diesbezüglichen Vorstrafen ist
+auszuschliessen, dass sich der Beurteilte an eine Ein- oder Ausgrenzung (Art.
+74 AIG) im Sinne einer milderen Massnahme halten würde, sodass eine
+Inhaftierung das einzige Mittel darstellt, mit dem der Vollzug der am 7. Dezember
+2021 verfügten Wegweisung sichergestellt werden kann, zumal mangels
+Vorhandenseins auch kein Reisepass beim Migrationsamt hinterlegt werden könnte
+und eine Meldepflicht der ausgeprägten Untertauchensgefahr nicht wirksam
+begegnen kann. Das als gross einzustufende öffentliche Interesse an der
+Sicherstellung der Wegweisung überwiegt dasjenige des Beurteilten an seiner
+persönlichen Freiheit, zumal der Beurteilte auch eine Gefahr für die
+öffentliche Sicherheit darstellt und relevante gesundheitliche Probleme in den
+letzten Befragungen verneint hat, wobei solche einer Inhaftierung ohnehin nicht
+entgegenstünden, ist die medizinische Betreuung im Gefängnis Bässlergut doch sichergestellt.
+Dass er in Marseille eine Frau und 18-monatiges Kind haben soll, hat er an der
+heutigen Verhandlung das erste Mal vorgebracht und auch im Asylverfahren nie
+geltend gemacht. Zudem erscheint die Behauptung auch aufgrund des Alters des
+Kindes angesichts der Einreise am 23. August 2021 nicht besonders
+glaubhaft. Im Übrigen würde sich selbst bei Wahrunterstellung dieser Behauptung
+nichts an der Verhältnismässigkeit der Haft ändern, zumal eine frühere,
+freiwillige Ausreise möglich gewesen zu sein.
+
+3.3 Der
+Beurteilte wurde von den algerischen Behörden am 6. April 2022 als eigener
+Staatsangehöriger identifiziert und die Ausstellung eines Laissez-passer steht
+mit dem (obligatorischen) Counselling-Termin vom 31. Januar 2024 unmittelbar
+bevor. Dass eine Rückführung nach Algerien tatsächlich möglich ist, ergibt sich
+nur schon aus der Tatsache, dass täglich Linienflüge nach Algier verkehren (ab
+Basel, teilweise mit Zwischenlandung). Auch ergeben sich mit Hinweis auf den
+abschlägigen Asylentscheid keine Anhaltspunkte dafür, dass dem Beurteilten bei
+einer Rückkehr in seinen Heimatstaat mit beachtlicher Wahrscheinlichkeit eine
+durch Art. 3 der Europäischen Menschenrechtskonvention (EMRK, SR 0.101)
+verbotene Strafe oder Behandlung droht. Zudem sprechen weder die in Algerien
+herrschende politische Situation noch andere Gründe gegen die Zumutbarkeit der
+Rückführung dorthin. Aufgrund der in der Vergangenheit gezeigten Obstruktion
+(welche nicht nur in den diversen Strafbefehlen zum Ausdruck kommt) bzw. den
+deshalb nicht im Detail voraussehbaren Unwägbarkeiten ist auch die für drei
+Monate verfügte Dauer der Haft nicht zu beanstanden, zumal nach Erhalt des
+Laissez-passer auch noch ein Flug gebucht werden muss. Der Beurteilte wird
+jedoch auf die Möglichkeit eines Haftentlassungsgesuchs hingewiesen. Damit wird
+die maximale Haftdauer im Sinne von Art. 79 Abs. 1 AIG auch unter Hinzurechnung
+der bereits ausgestandenen, ausländerrechtlich motivierten Haft nicht
+überschritten.
+
+4.
+
+Nach dem
+Gesagten erweist sich die Haft als notwendig und verhältnismässig, weshalb sie
+zu bestätigen ist. Das vorliegende Verfahren ist kostenlos (§ 4 Abs. 1 des
+Gesetzes über den Vollzug der Zwangsmassnahmen im Ausländerrecht).
+
+Demgemäss
+erkennt der
+Einzelrichter :
+
+://:        Die über A____ angeordnete
+Ausschaffungshaft ist für die Dauer von drei Monaten, das heisst bis zum 15. April
+2024, rechtmässig und angemessen.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung an:
+
+- A____
+
+- Migrationsamt Basel-Stadt
+
+- SEM
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht
+
+Dr. Beat Jucker
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
+
+Der inhaftierte
+Ausländer kann einen Monat nach der Haftüberprüfung ein Haftentlassungsgesuch
+einreichen beim Verwaltungsgericht
+Basel-Stadt, Bäumleingasse 1, 4051 Basel .
