@@ -1,0 +1,486 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.208"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AH"
+docket: "AH.2022.1"
+docket_2: "SVG.2022.208"
+decided: "2022-01-07"
+published: "2022-07-06"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74071&W10_KEY=3049208&nTrefferzeile=178&Template=search_result_document.html"
+cites_decisions: ["8C_292/2016", "9C_223/2008", "AH.2018.1", "AH.2022.1", "BGE 132 II 240", "BGE 133 I 234", "BGE 134 V 145", "BGE 135 V 201", "BGE 137 I 69", "BGE 139 V 209", "BGE 140 V 299", "BGE 140 V 314", "BGE 143 V 305", "FZ.2016.3"]
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/831.10/art-025.md", "switzerland/bund/acts/831.101/art-049bis.md", "switzerland/bund/acts/831.101/art-049ter.md"]
+---
+
+# Beschwerde abgewiesen. Ausbildungsbegriff nach Art. 49bis AHVV nicht erfüllt
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 6.
+Juli 2022
+
+Mitwirkende
+
+lic. iur. R. Schnyder (Vorsitz), lic.
+iur. M. Prack Hoenen , MLaw B. Fürbringer
+
+und
+Gerichtsschreiberin MLaw N. Marbot
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch B____, Advokat, [...]
+
+Beschwerdeführer
+
+Ausgleichskasse Basel-Stadt
+
+Wettsteinplatz 1, Postfach, 4001 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AH.2022.1
+
+Einspracheentscheid vom 7. Januar
+2022
+
+Beschwerde abgewiesen.
+Ausbildungsbegriff nach Art. 49bis AHVV nicht erfüllt.
+
+Tatsachen
+
+I.
+
+a) Der im Jahr 1998 geborene Beschwerdeführer schloss im Juli 2020 die
+Ausbildung zum Multimediaelektroniker EFZ (Eidgenössisches Fähigkeitszeugnis)
+ab (Beschwerdeantwortbeilage [AB] 1, S. 18). Aufgrund des Todes seines Vaters
+im März 2012 erhielt der Beschwerdeführer während der Dauer seiner Ausbildung
+eine Waisenrente.
+
+b) In der Folge entschloss sich der Beschwerdeführer ab Juli 2021 eine
+weitere Ausbildung, namentlich eine Ausbildung zum Tontechniker mit EFZ zu
+absolvieren. Der Beschwerdeführer arbeitet in diesem Zusammenhang seit Juni
+2021 in einem zweijährigen Praktikum in einem 80%-Pensum bei der Stiftung C____
+(Ausbildungsvertrag vom 9. Juli 2021/29. Juni 2021, BB 9). Mit E-Mail vom 2.
+Februar 2021 beantragte der Beschwerdeführer bei der Beschwerdegegnerin die Ausrichtung
+einer Waisenrente für die Dauer der Ausbildung zum Tontechniker EFZ.
+
+c) Mit Verfügung vom 29. April 2021 (Beschwerdebeilage [BB] 6) sprach die
+Beschwerdegegnerin dem Beschwerdeführer ab dem 1. Juli 2021 eine Waisenrente in
+der Höhe von CHF 512.00 pro Monat zu. Am 19. Oktober 2021 erliess die
+Beschwerdegegnerin eine weitere Verfügung, mit welcher sie die rückwirkende
+Einstellung der Waisenrente sowie den Erlass der Rückforderung der bereits
+ausbezahlten Waisenrente festlegte (BB 5). Als Begründung gab die
+Beschwerdegegnerin im Wesentlichen an, das Ausbildungspraktikum bei C____ sei weder
+rechtlich noch faktisch notwendig, um zur Prüfung als Tontechniker EFZ
+zugelassen zu werden.
+
+d) Gegen die Verfügung vom 19. Oktober 2021 erhob der Beschwerdeführer am
+18. November 2021 Einsprache (BB 1). Mit Einspracheentscheid vom 7. Januar 2022
+hielt die Beschwerdegegnerin an ihrer Verfügung vom 19. Oktober 2021 fest (BB 5).
+
+II.
+
+a) Mit Beschwerde vom 7. Februar 2022 beantragt der Beschwerdeführer, es
+sei der Einspracheentscheid der Beschwerdegegnerin vom 7. Januar 2022
+aufzuheben und die Beschwerdegegnerin zu verpflichten, dem Beschwerdeführer
+rückwirkend ab dem 1. Juli 2021 und bis zum Abschluss der beruflichen
+Ausbildung zum Tontechniker eine Waisenrente gemäss den gesetzlichen Vorgaben
+auszurichten und ab Oktober 2021 entsprechend Nachzahlungen, zuzüglich 5%
+Verzugszins, zu bezahlen. Dem Beschwerdeführer sei die unentgeltliche
+Prozessführung und Verbeiständung mit B____, Advokat, als unentgeltlichem
+Rechtsbeistand zu bewilligen. Unter o-/e- Kostenfolge.
+
+b) Mit Beschwerdeantwort vom 7. April 2022 schliesst die Beschwerdegegnerin
+auf Abweisung der Beschwerde.
+
+III.
+
+Mit instruktionsrichterlicher Verfügung vom 26. April 2022 wird
+dem Beschwerdeführer die unentgeltliche Prozessführung und Verbeiständung bewilligt.
+
+IV.
+
+Da innert der angesetzten Frist keine der Parteien die
+Durchführung einer mündlichen Parteiverhandlung beantragte, findet am 6. Juli
+2022 die Beratung durch die Kammer des Sozialversicherungsgerichts Basel-Stadt
+statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist gemäss Art. 57 des
+Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des
+Sozialversicherungsrechts (ATSG; SR 830.1) in Verbindung mit § 82 Abs. 1 des
+basel-städtischen Gerichtsorganisationsgesetzes vom 3. Juni 2015 (GOG; SG
+154.100) und § 1 Abs. 1 des kantonalen Sozialversicherungsgerichtsgesetzes vom
+9. Mai 2001 (SVGG; SG 154.200) in sachlicher Hinsicht als einzige kantonale
+Instanz zur Beurteilung der vorliegenden Beschwerde zuständig. Die örtliche
+Zuständigkeit ergibt sich aus Art. 84 des Bundesgesetzes vom 20. Dezember 1946
+über die Alters- und Hinterlassenenversicherung (AHVG; SR 831.10).
+
+1.2. Da auch die übrigen formellen Voraussetzungen erfüllt sind, ist auf
+die rechtzeitig erhobene Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin macht im Wesentlichen geltend, das
+Ausbildungspraktikum bei C____ stelle keine gesetzliche oder reglementarische
+Voraussetzung für die Zulassung zur Prüfung zum Tontechniker mit eidgenössischem
+Fachausweis dar. Das Praktikum sei faktisch nicht geboten und sei somit nicht
+als Ausbildung im Sinne von Art. 49bis der Verordnung vom 31. Oktober 1947 über
+die Alters- und Hinterlassenenversicherung (AHVV; SR 831.101) zu qualifizieren.
+Hinzu komme, dass rechtsprechungsgemäss Praktika bis zur Maximaldauer von 12
+Monaten als Ausbildungen anerkannt wurden, wohingegen dasjenige des
+Beschwerdeführers vierundzwanzig Monate dauert. Ferner betrage der
+Ausbildungsaufwand des Beschwerdeführers weniger als 20 Stunden pro Woche. Der
+Lehrgang Tontechniker mit eidgenössischem Fachausweis sei daher nicht als
+rentenbegründende Ausbildung zu betrachten.
+
+2.2. Der Beschwerdeführer bringt dagegen im Wesentlichen vor, das
+Praktikum bei der Stiftung C____ sei faktisch notwendig. Da diese Anstellung
+inhaltlich weitgehend einem Lehrvertrag entspreche mit angeleiteter praktischer
+Tätigkeit im Betrieb und externer theoretischer Ausbildung an einer
+Berufsschule sei von einem klassischen Ausbildungsverhältnis analog einer
+Berufslehre auszugehen. Dementsprechend sei der Beschwerdeführer zum Bezug
+einer Waisenrente berechtigt. Schliesslich erkennt der Beschwerdeführer in der
+Wiedererwägung der initial ausgerichteten Waisenrente eine Verletzung von Treu
+und Glauben.
+
+2.3. Streitig und zu prüfen ist, ob die Beschwerdegegnerin die
+Ausrichtung der Waisenrente ab dem 1. Juli 2021 zu Recht abgelehnt hat.
+
+3.
+
+3.1. 3.1.1.  Nach Art. 25 Abs. 1 des Bundesgesetzes über die Alters-
+und Hinterlassenenversicherung (AHVG; SR 831.10) haben Kinder, deren Vater oder
+Mutter gestorben ist, Anspruch auf eine Waisenrente. Gemäss Absatz 4 dieser
+Bestimmung entsteht der Anspruch am ersten Tag des dem Tode des Vaters oder der
+Mutter folgenden Monats. Er erlischt mit der Vollendung des 18. Altersjahres
+oder mit dem Tod der Waise. Art. 25 Abs. 5 AHVG sieht vor, dass für Kinder, die
+noch in Ausbildung sind, der Rentenanspruch bis zu deren Abschluss dauert,
+längstens aber bis zum vollendeten 25. Altersjahr.
+
+3.1.2. Laut Art. 25 Abs. 5 Satz 2 AHVG kann der Bundesrat festlegen, was als
+Ausbildung gilt. Von dieser Kompetenz hat er in Art. 49bis und Art. 49ter AHVV Gebrauch
+gemacht. Gemäss Art. 49bis AHVV ist ein Kind in Ausbildung, wenn es sich auf
+der Grundlage eines ordnungsgemässen, rechtlich oder zumindest faktisch
+anerkannten Bildungsganges systematisch und zeitlich überwiegend entweder auf
+einen Berufsabschluss vorbereitet oder sich eine Allgemeinausbildung erwirbt,
+die Grundlage bildet für den Erwerb verschiedener Berufe (Abs. 1). Als in
+Ausbildung gilt ein Kind auch, wenn es Brückenangebote wahrnimmt wie
+Motivationssemester und Vorlehren sowie Au-pair- und Sprachaufenthalte, sofern
+sie einen Anteil Schulunterricht enthalten (Abs. 2). Nicht als in Ausbildung
+gilt ein Kind, wenn es ein durchschnittliches monatliches Erwerbseinkommen
+erzielt, das höher ist als die maximale volle Altersrente der AHV (Abs. 3).
+
+3.2. 3.2.1. Die Wegleitung über die Renten in der Eidgenössischen
+Alters-, Hinterlassenen- und Invalidenversicherung (RWL; gültig ab 1. Januar
+2003, Stand 1. Januar 2022) konkretisiert (Randziffer [Rz]. 3358 ff.) den
+Begriff der Ausbildung gemäss Art. 49bis AHVV. Verwaltungsweisungen wie die RWL
+richten sich an Durchführungsstellen und sind für Sozialversicherungsgerichte
+nicht verbindlich. Letztere weichen zu Gunsten der Rechtsgleichheit jedoch
+nicht ohne triftigen Grund davon ab, sofern die fragliche Weisung eine dem
+Einzelfall angepasste und gerecht werdende Auslegung der anwendbaren
+gesetzlichen Bestimmungen zulässt (vgl. Urteil des Bundesgerichts 8C_292/2016
+vom 18. August 2016 E. 3.3 mit Hinweis auf BGE 140 V 314, 317 E. 3.3 mit
+weiteren Hinweisen). Vorliegend besteht keine Veranlassung, die RWL nicht
+anzuwenden.
+
+3.2.2. Nach Rz. 3358 der RWL muss eine Ausbildung mindestens vier Wochen dauern
+und systematisch auf ein Bildungsziel ausgerichtet sein. Das angestrebte
+Bildungsziel soll zu einem bestimmten Berufsabschluss führen oder eine
+berufliche Tätigkeit ohne speziellen Berufsabschluss ermöglichen. Falls die
+Ausbildung nicht zum vornherein auf einen bestimmten Beruf ausgerichtet ist,
+muss sie eine allgemeine Grundlage für eine Mehrzahl von Berufen bilden bzw.
+eine Allgemeinausbildung beinhalten, wobei es für die Sozialversicherung
+unerheblich ist, ob es sich um eine Erst- oder Zweitausbildung handelt (vgl.
+BGE 143 V 305, E. 3.4; RWL Rz. 3358). Die Ausbildung hat auf einem
+strukturierten Bildungsgang zu beruhen, der rechtlich oder zumindest faktisch
+anerkannt ist. Ein Praktikum wird als Ausbildung anerkannt, wenn es gesetzlich
+oder reglementarisch für die Zulassung zu einem Bildungsgang oder zu einer
+Prüfung vorausgesetzt ist oder zum Erwerb eines Diploms oder eines
+Berufsabschlusses verlangt wird (Rz. 3361). Sind diese Voraussetzungen nicht
+erfüllt, so wird ein Praktikum gleichwohl als Ausbildung anerkannt, wenn es für
+eine bestimmte Ausbildung faktisch geboten ist und mit dem Antritt des
+Praktikums tatsächlich die Absicht besteht, die angestrebte Ausbildung zu
+realisieren und das Praktikum im betreffenden Betrieb höchstens ein Jahr dauert
+(Rz. 3361.1 mit Hinweis auf BGE 139 V 209 und 140 V 299). Dauert ein Praktikum
+länger als ein Jahr, überwiegt der Beschäftigungs- den Ausbildungscharakter,
+womit die Ausbildung als beendet zu betrachten ist (vgl. BGE 140 V 299, 304 E.
+3). Ebenso anerkannt werden zwischen der Schulzeit und einer Anschlusslösung
+wahrgenommene Brückenangebote wie Motivationssemester (arbeitsmarktliche
+Massnahmen) oder berufsorientierende Vorlehren, sofern, ein Schulanteil
+(Schulfächer, Werkstattunterricht) von mindestens acht Lektionen (à 45 bis 60
+Minuten) pro Woche Bestandteil dieser Zwischenlösung sei (vgl. Art. 49 bis Abs. 2 AHVV; RWL Rz. 3363). Nicht als Ausbildung anerkannt werden lediglich
+praktische Tätigkeiten zur Aneignung von Branchenkenntnissen und Fertigkeiten,
+um die Anstellungschancen bei schwieriger Beschäftigungssituation zu verbessern
+oder um eine Berufswahl zu treffen (Rz. 3362 mit Hinweis auf das Urteil des
+Bundesgerichts 9C_223/2008 vom 1. April 2008).
+
+4.
+
+4.1. Zwischen den Parteien besteht Uneinigkeit darüber, ob die Ausbildung
+zum Tontechniker EFZ, respektive das Praktikum bei der Stiftung C____ den
+Ausbildungsbegriff nach Art. 49is AHVV erfüllt. Dieser Frage ist im Folgenden
+nachzugehen.
+
+4.2. 4.2.1. Gemäss Ausbildungsvertrag vom 9. Juli 2021, respektive vom
+29. Juni 2021 (bei den AB) steht dem Beschwerdeführer pro Woche ein Tag für
+seine externe Ausbildung an der Technischen Berufsschule Zürich (TBZ) zur
+Verfügung. Aus den eingereichten Stundenplänen geht weiter hervor, dass die
+Ausbildung vier Semester dauert und jeweils einmal die Woche von 12:15 Uhr bis
+20:15 Uhr Unterricht stattfindet (Stundenplan Herbstsemester, AB 3, S. 4 ff.).
+
+4.2.2. Gemäss Rz. 3359 der RWL erfordert die systematische Vorbereitung im
+Rahmen einer Ausbildung im Sinne von Art. 49bis AHVV (vgl. E. 3.1.2. ff.), dass
+die sich in Ausbildung befindliche Person zeitlich überwiegend dem
+Ausbildungsziel widmen muss. Dies gilt nur dann als erfüllt, wenn der gesamte
+Ausbildungsaufwand mindestens zwanzig Stunden pro Woche ausmacht. Wer
+wöchentlich nur eine geringe Anzahl an Kurslektionen besucht und daneben zur
+Hauptsache arbeitet, vermag den erforderlichen überwiegenden Ausbildungsaufwand
+nur schwer nachzuweisen (Rz 3360). Es ist weiter gefordert, dass sich die
+auszubildende Person zeitlich überwiegende ihrem Ausbildungsziel widmet.
+
+4.2.3. Insgesamt beträgt die reine Unterrichtszeit acht Lektionen pro Woche.
+Selbst unter grosszügiger Hinzurechnung von Vor- und Nachbereitungszeit und
+Prüfungsvorbereitung erscheint es als nicht überwiegend wahrscheinlich, dass
+der Beschwerdeführer im Durchschnitt auf einen Ausbildungsaufwand von mindestens
+20 Stunden pro Woche kommt. Gegenteiliges macht im Übrigen auch der
+Beschwerdeführer im Rahmen seiner Beschwerde nicht geltend. Mangels
+überwiegendem Ausbildungsaufwand ist der Ausbildungscharakter der hier in Frage
+stehenden Ausbildung daher bereits vor diesem Hintergrund zu verneinen.
+
+4.3. 4.3.1. Sodann vermag auch das Praktikum bei der Stiftung C____ den
+Ausbildungsbegriff nach Art. 49bis AHVV nicht zu erfüllen.
+
+4.3.2. Gemäss Ziffer 2.2 der Wegleitung der Berufsprüfung Tontechniker
+/Tontechniker mit Eidgenössischem Fachausweis (EFZ, AB 2) umfassen die
+Zulassungsbedingungen für Inhabende eines Zeugnisses als Multimediaelektroniker
+unter anderem eine Berufserfahrung von mindestens 18 Monaten im audiovisuellen
+Bereich nach Erhalt des EFZ. Gemäss Ziffer 2.3 der Wegleitung beziehen sich die
+Zeitangaben für die berufliche Erfahrung auf eine Vollzeitbeschäftigung (100
+Prozent). Bei einer Teilzeitbeschäftigung verlängert sich die verlangte
+Zeitdauer entsprechend. In qualitativer Hinsicht sind der Wegleitung keine
+Vorgaben in Bezug auf die Modalitäten zu entnehmen. Namentlich schreibt die
+Wegleitung nicht vor, ob die zur Zulassung vorausgesetzte Berufserfahrung im
+Rahmen eines Praktikums oder einer regulären Arbeitsstelle zu absolvieren ist.
+
+4.3.3. Aus den reglementarischen Bestimmungen ergibt sich vorliegend nicht,
+dass zur Zulassung zur Prüfung zum Tontechniker EFZ ein Praktikum vorausgesetzt
+wird. Festgelegt wird lediglich der Erwerb von Berufserfahrung als Zulassungsvoraussetzung
+zur Prüfung. Ob diese Berufserfahrung im Rahmen eines Praktikums oder einer
+ordentlichen Anstellung erworben wird, wird demgegenüber nicht geregelt. Dem
+Beschwerdeführer wäre es demnach möglich gewesen, die erforderliche
+Berufserfahrung anstelle eines Praktikums auch im Rahmen einer ordentlich (entlöhnten)
+Anstellung zu erwerben (vgl. Urteil des Sozialversicherungsgerichts Basel-Stadt
+FZ.2016.3 vom 30. Juni 2016 E. 4.4.2, mit vergleichbarer Ausgangslage). Mit der
+vom Beschwerdeführer geltend gemachten schwierigen arbeitsmarktlichen Situation
+und unbelegten Arbeitsbemühungen wird nicht ein mit überwiegender
+Wahrscheinlichkeit faktisch gebotenes Praktikum dargelegt. Der in diesem
+Zusammenhang erfolgte Hinweis des Beschwerdeführers auf das Urteil des
+Sozialversicherungsgerichts AH.2018.1 vom 9. Mai 2018 ist insofern nicht
+zielführend, da es im vorgenannten Urteil um die Beurteilung eines Praktikums
+im Rahmen einer Erstausbildung handelte, wohingegen der Beschwerdeführer eine
+Zweitausbildung absolviert. Zudem ist zu bemerken, dass angesichts der Dauer
+des Praktikums von insgesamt zwei Jahren die Erfüllung des Ausbildungsbegriffs
+gemäss höchstrichterlicher Rechtsprechung abgelehnt wird (vgl. E. 3.2.2.
+hiervor). Diese Rechtsprechung bezieht sich zwar auf Praktika, welche vor Lehrbeginn
+absolviert wurden. Aber auch vorliegend wird der Erwerbscharakter des
+Praktikums nach einem Jahr überwiegen. Insgesamt erfüllt daher auch das
+Praktikum des Beschwerdeführers bei der Stiftung C____ den Ausbildungsbegriff
+nicht.
+
+5.
+
+5.1. Zu prüfen bleibt, ob sich der Beschwerdeführer aufgrund der
+Verfügung vom 29. April 2021, mit welcher die Beschwerdegegnerin den
+Ausbildungscharakter der Ausbildung zum Tontechniker EFZ zunächst bejahte, auf
+den Vertrauensschutz berufen kann.
+
+5.2. 5.2.1. Der verfassungsmässige Grundsatz von Treu und Glauben
+gebietet ein loyales und vertrauenswürdiges Verhalten im Rechtsverkehr. Es ist
+für die Beziehung unter den Privaten wie das Verhältnis zwischen dem
+Gemeinwesen und den Privaten elementar (BGE 134 V 145, 150 E. 5.2). Die
+Bundesverfassung der Schweizerischen Eidgenossenschaft (BV; SR 101) statuiert
+den Grundsatz von Treu und Glauben einerseits als Regel für das Verhalten von
+Staat und Privaten in Art. 5 Abs. 3 BV und andererseits in Art. 9 BV als
+grundrechtlichen Anspruch der Privaten gegenüber dem Staat auf Schutz des
+berechtigten Vertrauens in behördliche Zusicherungen (Vertrauensschutz) oder
+sonstiges, bestimmte Erwartungen begründendes Verhalten der Behörden (BGE 132
+II 240, 244 E. 3.2.2; 126 II 377, 387 E. 3a mit Hinweisen). Als Verbot des
+Rechtsmissbrauchs verbietet der Grundsatz von Treu und Glauben sowohl den
+staatlichen Behörden wie auch den Privaten, sich in ihren
+öffentlich-rechtlichen Rechtsbeziehungen widersprüchlich oder rechtsmissbräuchlich
+zu verhalten. In dieser Ausgestaltung bindet das Prinzip von Treu und Glauben
+also nicht nur den Staat, sondern auch die Privaten und ebenso die
+verschiedenen Gemeinwesen in ihrem Rechtsverkehr untereinander (BGE 133 I 234,
+239 E. 2.5.1).
+
+5.2.2. Der Vertrauensschutz kann auch auf den Grundsatz der Rechtssicherheit
+zurückgeführt werden. Dieser Grundsatz folgt aus dem Prinzip des Rechtsstaates,
+das in Art. 5 BV Form von Grundsätzen rechtsstaatlichen Handelns verankert ist.
+Zwischen den Grundsätzen des Vertrauensschutzes und der Rechtssicherheit
+besteht eine enge Verwandtschaft (vgl. BGE 135 V 201, 208 E. 6.2; 134 V 145,
+150 E. 5.2). Beide verlangen den Schutz der Privaten, die auf eine bestimmte
+Rechtslage vertraut haben. Während der Grundsatz von Treu und Glauben das
+individuelle Vertrauen der Privaten schützt, welches diese in einem konkreten
+Fall aus ganz bestimmten Gründen in ein Verhalten der Behörden haben, dient die
+Rechtssicherheit allgemein dazu, die Voraussehbarkeit, Berechenbarkeit und
+Beständigkeit des Rechts zu gewährleisten (Häfelin/Müller/Uhlmann, Allgemeines
+Verwaltungsrecht, 7. Aufl., Zürich/St. Gallen 2016, Rz. 625 ff.).
+
+5.3. Voraussetzung für den Vertrauensschutz ist zunächst eine taugliche
+Vertrauensgrundlage. Darunter fallen neben Auskünften und Zusagen auch
+Rechtsanwendungsakte wie Verfügungen (Häfelin/Müller/Uhlmann, a.a.O., Rz. 627
+ff.). Vorausgesetzt ist weiter, dass die Person, die sich auf den
+Vertrauensschutz beruft, berechtigterweise auf diese Grundlage vertrauen durfte
+und gestützt darauf bereits Dispositionen getroffen hat, die sie nicht mehr
+rückgängig machen kann (BGE 137 I 69, 71 f. E. 2.3 ff., mit weiteren
+Hinweisen). Sind die vorgenannten Voraussetzungen kumulativ erfüllt, so kann
+sich die betroffene Person auf den Vertrauensschutz berufen, soweit im
+Einzelfall nicht überwiegende öffentliche Interessen vorgehen
+(Häfelin/Müller/Uhlmann, a.a.O. Rz. 688).
+
+5.4. 5.4.1. Grundsätzlich stellt die Verfügung vom 29. April 2021 eine
+geeignete Grundlage zur Auslösung des Vertrauensschutzes dar. Allerdings traf
+der Beschwerdeführer gestützt auf die Verfügung vom 29. April 2021 keine
+negativen, nicht mehr rückgängig zu machenden Dispositionen, weshalb er sich
+nicht auf den Vertrauensschutz berufen kann. Zu beachten sind nachstehende
+Erwägungen.
+
+5.4.2. Am 2. Februar 2021 wendete sich der Beschwerdeführer mit einem Gesuch um
+Wiederausrichtung der Waisenrente an die Beschwerdegegnerin. Im Anhang liess er
+der Beschwerdegegnerin die Zulassungsbestätigung für den Lehrgang Tontechniker
+mit Eidgenössischem Fachausweis vom 20. Januar 2021 (AB 3, S. 2) zukommen. Aus
+der Zulassungsbestätigung geht hervor, dass sich der Beschwerdeführer
+verbindlich für den 2-jährigen Lehrgang an der Technischen Berufsschule Zürich
+TBZ angemeldet hat. Eine Bestätigung des Ausbildungspraktikums von C____ vom
+19. März 2021 (AB 3, S. 3) stellte der Beschwerdeführer der Beschwerdegegnerin
+mit E-Mail vom 19. März 2021 (AB 3, S. 1) zu. Gemäss Ausbildungsvertrag vom 29.
+Juni 2021/9. Juli 2021 beginnt das Praktikum am 14. Juni 2021 und ist per 30. Juni
+2023 befristet. Das monatliche Gehalt beträgt im ersten Anstellungsjahr Fr. 700.00
+und im zweiten Fr. 900.00 (AB 1, S. 15).
+
+5.4.3. Aus den Akten geht demnach hervor, dass der Beschwerdeführer bereits im
+Zeitpunkt seines Gesuchs um Ausrichtung einer Waisenrente vom 2. Februar 2021,
+respektive im Zeitpunkt der Nachreichung der fehlenden Unterlagen zur
+Beurteilung des Anspruchs auf Waisenrente mit E-Mail vom 19. März 2019 (AB 3,
+S. 1), die verbindliche Zulassung zur Ausbildung an der TBZ sowie das auf zwei
+Jahre befristete Praktikum veranlasst hatte. Die für ihn negative Disposition,
+namentlich und insbesondere der Abschluss eines im Gegensatz zu einer
+ordentlichen Anstellung schlechter bezahlten Praktikums, erfolgte durch den
+Beschwerdeführer somit zeitlich vor der Verfügung der Beschwerdegegnerin. An
+dieser Betrachtungsweise vermag der Umstand, dass der Ausbildungsvertrag vom
+29. Juni 2021/ 9. Juli 2021 nach der Verfügung vom 29. April 2022 datiert
+nichts zu ändern, ist doch der Arbeitsvertrag formfrei gültig und wurde
+vorliegend auch nicht die Schriftlichkeit vorbehalten (vgl. Art. 319 ff. des
+Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches
+(Fünfter Teil: Obligationenrecht) vom 30. März 1911 [SR 220]). Es scheint somit
+überwiegend wahrscheinlich, dass der Beschwerdeführer sich auch ohne Wissen um
+die finanzielle Unterstützung durch die Beschwerdegegnerin zur Ausbildung
+Tontechniker EFZ inklusive Aufnahme eines nicht existenzsichernd entlöhnten
+Praktikums entschieden hätte. Gestützt auf die Verfügung vom 29. April 2021
+erfolgte negative Dispositionen sind somit nicht ersichtlich. Darüber hinaus
+ist festzuhalten, dass die Beschwerdegegnerin einen Erlass der Rückforderung
+der bereits ausbezahlten Leistungen aufgrund grosser Härte verfügte. Damit sind
+auch für bereits getätigte Aufwendungen im Zeitraum der ausbezahlten Leistungen
+keine Vermögensdispositionen zu schützen, resp. ist dem Vertrauensschutz
+ausreichend Rechnung getragen.
+
+5.5. Zusammenfassend ist daher festzuhalten, dass die Beschwerdegegnerin
+mit Verfügung vom 19. Oktober 2021 den Anspruch des Beschwerdeführers auf eine
+Waisenrente zu Recht abgelehnt hatte. Folglich ist auch die von der
+Beschwerdegegnerin vorgenommene Wiedererwägung (Art. 53 Abs. 2 ATSG) der
+Verfügung vom 29. April 2021 aufgrund deren zweifelloser Unrichtigkeit nicht zu
+beanstanden. Schliesslich ist zu konstatieren, dass sich vorliegend keine
+Hinweise auf eine Verletzung des Gehörsanspruchs ergeben.
+
+6.
+
+6.1. Den obigen Erwägungen entsprechend ist die Beschwerde abzuweisen und
+der Einspracheentscheid vom 7. Januar 2022 zu schützen.
+
+6.2. Das Verfahren vor dem Sozialversicherungsgericht ist kostenlos.
+
+6.3. Die ausserordentlichen Kosten sind wettzuschlagen. Da dem
+Beschwerdeführer der Kostenerlass bewilligt worden ist, ist seinem Vertreter
+Dr. iur. B____, Advokat, ein angemessenes Anwaltshonorar zuzusprechen. Das
+Sozialversicherungsgericht geht bei der Bemessung der Parteientschädigung für
+anwaltlich vertretene Beschwerdeführende in durchschnittlichen Verfahren mit
+einfachem Schriftenwechsel im Sinne einer Faustregel von einem Honorar in der
+Höhe von CHF 2'500.00 (inklusiv Auslagen) zuzüglich 7.7% Mehrwertsteuer aus.
+Bei einfachen oder komplizierteren Verfahren kann dieser Ansatz erhöht oder
+reduziert werden. In vorliegendem Fall ist in Bezug auf die sich stellenden
+Sachverhalts- und Rechtsfragen von einem durchschnittlichen Fall auszugehen. Demensprechend
+erscheint ein Honorar von CHF 2'500.00 (inkl. Auslagen) zuzüglich
+Mehrwertsteuer von CHF 192.50 als angemessen.
+
+Demgemäss erkennt das Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Das Verfahren ist kostenlos
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen. Zufolge Bewilligung der unentgeltlichen Verbeiständung wird dem
+Rechtsvertreter des Beschwerdeführers, Dr. iur. B____, Advokat, wird ein
+Honorar von CHF 2'500.00 (inkl. Auslagen) zuzüglich CHF 192.50 Mehrwertsteuer
+aus der Gerichtskasse ausgerichtet.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder MLaw N.
+Marbot
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt
+für Sozialversicherungen
+
+Versandt am:
