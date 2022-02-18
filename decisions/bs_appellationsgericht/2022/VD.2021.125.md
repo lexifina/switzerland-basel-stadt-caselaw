@@ -1,0 +1,511 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.149"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2021.125"
+docket_2: "AG.2022.149"
+decided: "2022-02-18"
+published: "2022-05-10"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73114&W10_KEY=3048540&nTrefferzeile=243&Template=search_result_document.html"
+cites_decisions: ["6B_1018/2018", "6B_336/2017", "6B_467/2018", "BGE 129 IV 212", "BGE 139 III 396", "BGE 141 IV 203", "BGE 146 IV 267", "VD.2013.197", "VD.2014.116", "VD.2016.165", "VD.2017.15", "VD.2020.127", "VD.2020.242", "VD.2021.119", "VD.2021.125"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-035.md", "switzerland/bund/acts/311.0/art-036.md", "switzerland/bund/acts/311.0/art-079a.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/311.0/art-372.md"]
+---
+
+# Gesuche um Ratenzahlungen sowie um Aufschub des Strafvollzugs
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2021.125
+
+URTEIL
+
+vom 18. Februar 2022
+
+Mitwirkende
+
+lic. iur. Christian Hoenen, lic. iur.
+Marc Oser, Prof. Dr. Jonas Weber
+
+und Gerichtsschreiberin
+MLaw Sabrina Gubler
+
+Beteiligte
+
+A____ Rekurrent
+
+[...]
+
+vertreten durch [...], Advokatin,
+
+[...]
+
+gegen
+
+Abteilung Straf- und
+Massnahmenvollzug
+
+Amt für Justizvollzug
+
+Spiegelgasse 12, 4001 Basel
+
+Gegenstand
+
+Rekurs gegen eine
+Verfügung der Abteilung Straf- und Massnahmenvollzug vom 4. Juni 2021
+
+betreffend Gesuche um
+Ratenzahlungen sowie um Aufschub des Strafvollzugs
+
+Sachverhalt
+
+A____
+(Rekurrent) wurde mit Strafbefehl der Staatsanwaltschaft Basel-Stadt vom 8.
+Juli 2019 (VT.[...]) wegen Fahrenlassens ohne Fahrzeugausweis oder
+Kontrollschilder und mehrfacher Nichtabgabe von Ausweisen und/oder
+Kontrollschildern zu einer Geldstrafe von 50 Tagessätzen zu CHF 140. und zu
+einer Busse von CHF 200. verurteilt. Es handelt sich dabei um eine
+Gesamtstrafe unter Einbezug der widerrufenen bedingten Geldstrafe von fünf
+Tagessätzen zu CHF 80. gemäss dem Urteil des Ministère du canton du Jura
+Porrentruy vom 20. Oktober 2016 sowie der widerrufenen bedingten Geldstrafe von
+zehn Tagessätzen zu CHF 80. gemäss dem Urteil des Ministère du canton du Jura
+Porrentruy vom 6. Dezember 2017. Mit Vollzugsbefehl vom 28. Oktober 2020 lud
+die Abteilung Straf- und Massnahmenvollzug (Vollzugsbehörde) des Amts für
+Justizvollzug A____ auf den 28. Januar 2021 zum Strafantritt für den
+Vollzug von insgesamt 52 Tagen Ersatzfreiheitsstrafe, resultierend aus dem
+Strafbefehl vom 8. Juli 2019, im Gefängnis Bässlergut vor.
+
+Mit Schreiben
+vom 26. Januar 2021 beantragte A____, vertreten durch [...], Advokatin, die
+Verschiebung des Strafantritts. Die Abteilung Straf- und Massnahmenvollzug wies
+das Gesuch um Verschiebung des Strafantritts mit Verfügung vom 5. Februar
+2021 ab. Mit Eingabe vom 8. Februar 2021 an die Abteilung Straf- und
+Massnahmenvollzug lässt A____ den vorübergehenden Aufschub des Strafvollzugs
+für 15 Monate beantragen. Er liess geltend machen, er wolle in dieser Zeit die
+offene Geldstrafe und Busse in der Höhe von CHF 7'200. mit Ratenzahlungen
+begleichen. Die Abteilung Straf- und Massnahmenvollzug verfügte am 4.
+Juni 2021 den Widerruf der Verfügung vom 5. Februar 2021 und wies
+gleichzeitig die Gesuche um Aufschub des Strafvollzugs vom 26. Januar 2021 und
+8. Februar 2021 ab. Zudem wies sie das Gesuch um Ratenzahlung vom 8. Februar
+2021 ab.
+
+Gegen diese
+Verfügung meldete der Rekurrent, weiterhin vertreten durch [...], Advokatin, am
+15. Juni 2021 beim Verwaltungsgericht Rekurs an. Mit Rekursbegründung vom 5.
+Juli 2021 lässt der Rekurrent die kosten- und entschädigungsfällige, teilweise
+Aufhebung der Verfügung vom 4. Juni 2021 beantragen. Die vorgesehene
+Ersatzfreiheitsstrafe sei aufzuschieben und dem Rekurrenten seien monatliche
+Ratenzahlungen à CHF 500. zu gewähren. Zudem beantragt der Rekurrent die
+unentgeltliche Rechtspflege. Die Abteilung Straf- und Massnahmenvollzug
+beantragt mit Vernehmlassung vom 5. August 2021 die vollumfängliche Abweisung
+des Rekurses unter Kostenfolge zu Lasten des Rekurrenten. Mit
+instruktionsrichterlicher Verfügung vom 6. August 2021 wurde die Vernehmlassung
+der Abteilung Straf- und Massnahmenvollzug dem Rekurrenten zur Replik mit Frist
+bis zum 8. September 2021 zugestellt. Mit Eingabe vom 8. September 2021
+teilte der Rekurrent unter Hinweis auf die Rekursbegründung mit, er verzichte auf
+eine Replik. Von der Abteilung Straf- und Massnahmenvollzug wurden ergänzende
+Unterlagen beigezogen, welche am 12. Januar 2021 dem Gericht eingereicht
+wurden. Diese wurden dem Rekurrenten mit instruktionsrichterlicher Verfügung
+vom 21. Januar 2021 zur Kenntnis zugestellt. Die weiteren Tatsachen und
+Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für das vorliegende
+Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen. Das vorliegende Urteil
+erging unter Beizug der Vorakten der Vollzugsbehörde (act. 5 und act. 9) auf
+dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+§ 33 Abs. 2 des Justizvollzugsgesetzes (JVG, SG 258.200) sind Rekurse gegen
+Verfügungen der Vollzugsbehörde entsprechend der Rechtsmittelbelehrung in der
+angefochtenen Verfügung direkt beim Verwaltungsgericht zu erheben. Gestützt
+darauf ist das Dreiergericht des Verwaltungsgerichts für die Beurteilung des
+vorliegenden Rekurses zuständig (§ 88 Abs. 2 in Verbindung mit
+§ 92 Abs. 1 Ziff. 11 des Gerichtsorganisationsgesetzes [GOG,
+SG 154.100]). Das Verwaltungsgericht urteilt mit voller Kognition (Ratschlag
+Nr. 18.1330.01 vom 26. September 2018 zu einem neuen Gesetz über den
+Justizvollzug S. 32 [nachfolgend Ratschlag JVG]), es übt also eine
+Sachverhalts-, Rechts- und Angemessenheitskontrolle aus (vgl. § 8 Abs. 1 und 5
+des Verwaltungsrechtspflegegesetzes [VRPG, SG 270.100] in Verbindung mit § 33
+Abs. 2 JVG; VGE VD.2020.127 vom 24. August 2020 E. 1.3).
+
+1.2 Der
+Rekurrent ist als Adressat der angefochtenen Verfügung von dieser unmittelbar
+berührt und hat ein schutzwürdiges Interesse an deren Aufhebung oder Abänderung,
+weshalb er gemäss § 13 VRPG zum Rekurs legitimiert ist. Auf
+den frist- und formgerechten Rekurs ist somit einzutreten.
+
+2.
+
+2.1 Gegenstand des Rekursverfahrens ist
+gemäss dem Rechtsbegehren des Rekurrenten und dessen Rekursbegründung die
+Abweisung der Gesuche um Aufschub der Ersatzfreiheitsstrafe und die Abweisung
+des Gesuchs um Ratenzahlung. Kein Verfahrensgegenstand vor dem
+Verwaltungsgericht ist demgegenüber der mit der angefochtenen Verfügung
+verfügte Widerruf der Verfügung der Vollzugsbehörde vom 5. Februar 2021,
+weshalb darauf nicht weiter eingegangen wird.
+
+2.2 Mit der angefochtenen Verfügung prüfte
+die Abteilung Straf- und Massnahmenvollzug die Gesuche um Verschiebung des
+Strafantritts vom 26. Januar 2021 und 8. Februar 2021 unter den Voraussetzungen
+von § 22 Abs. 1 JVG, wobei der Rekurrent zum einen laufende Abklärungen geltend
+gemacht und zum anderen Ratenzahlungen beantragt habe. Die Vollzugsbehörde
+stellte in der angefochtenen Verfügung fest, es liege kein Grund im Sinne des
+Gesetzes vor, der eine Verschiebung des Strafantritts rechtfertigen würde und
+wies die Gesuche ab.
+
+Der Rekurrent habe
+bei der Vollzugsbehörde beantragt, die Geldstrafe und die Busse in der Höhe von
+insgesamt CHF 7'200. in monatlichen Ratenzahlungen von je CHF 500. zu
+begleichen. Entsprechend sei der Vollzug der Ersatzfreiheitsstrafe um
+mindestens 15 Monate aufzuschieben. Die Abteilung Straf- und Massnahmenvollzug
+erwog, gemäss Art. 35 Abs. 1 des Strafgesetzbuches (StGB, SR 311.0) bestimme
+die Vollzugsbehörde dem Verurteilten eine Zahlungsfrist von einem bis zu sechs
+Monaten. Dazu führe Ziffer 3.1 der Richtlinie betreffend das Inkasso von
+rechtskräftigen unbedingten Geldstrafen, Bussen und Verfahrenskosten aus, die
+gesamte Frist für Anträge auf Ratenzahlungen und Fristverlängerung dürfe grundsätzlich
+zwölf Monate (bei Bussen sechs Monate) ab Datum der Vollstreckbarkeit des
+Entscheides und auch die Verjährungsfrist nicht überschreiten. Soweit der
+Verurteilte die Geldstrafe nicht bezahle und sie auf dem Betreibungsweg
+uneinbringlich sei, trete gemäss Art. 36 Abs. 1 StGB an die Stelle der
+Geldstrafe eine Ersatzfreiheitsstrafe. Die Ersatzfreiheitsstrafe entfalle,
+soweit die Geldstrafe nachträglich bezahlt werde. Vorliegend seien die offene
+Geldstrafe und die Busse mit Mitteilung vom 27. Oktober 2020 durch die
+Inkassostelle des Justiz- und Sicherheitsdepartements in
+Ersatzfreiheitsstrafen umgewandelt worden. Dieser Umwandlung sei ein
+mehrmonatiges Mahn- und Betreibungsverfahren vorausgegangen. Dementsprechend
+hätte der Rekurrent längst die Möglichkeit gehabt, die Geldstrafe und die Busse
+vor der Umwandlung in eine Ersatzfreiheitsstrafe zu begleichen oder
+Ratenzahlungen mit der Inkassostelle zu vereinbaren. Ebenso sei die Gewährung
+von Ratenzahlungen schon mit Blick auf die Vollstreckungsverjährung nicht mehr
+möglich. Im Ergebnis wies die Abteilung Straf- und Massnahmenvollzug das Gesuch
+um Ratenzahlung in der angefochtenen Verfügung ab.
+
+Schliesslich
+hielt die Vollzugsbehörde in der angefochtenen Verfügung fest, der Vollzugsbefehl
+vom 28. Oktober 2020 sei rechtskräftig geworden. Da das Datum des damit
+angeordneten Strafantritts zwischenzeitlich verstrichen sei, habe sich der
+Rekurrent umgehend im Gefängnis Bässlergut zum Strafantritt zu melden. Bei
+Nichtbefolgen erfolge die polizeiliche Zuführung.
+
+2.3 Mit
+seinem Rekurs an das Verwaltungsgericht lässt der Rekurrent weiterhin
+geltend machen, es sei die Ersatzfreiheitsstrafe aufzuschieben und es seien ihm
+monatliche Ratenzahlungen à CHF 500. zu gewähren. Er habe der Vollzugsbehörde bereits
+am 8. Februar 2021 mitgeteilt, er sei bereit, die ausstehende Strafe sowie die
+Busse zu bezahlen. Aufgrund seiner finanziellen Situation habe er beantragt,
+monatliche Raten à CHF 500. leisten zu dürfen und dass der Vollzug der
+Freiheitsstrafe aufgeschoben werde (Rekursbegründung, Ziff. A.3). Wie bereits vor
+der Vorinstanz argumentiert der Rekurrent, er habe gemeint, es handle sich um
+ein Missverständnis, weshalb er die Geldstrafe und die Busse nicht bezahlt
+habe; die Folgen der «ganzen Sache» seien ihm nicht bewusst gewesen
+(Rekursbegründung Ziff. B.1). Es sei klar, dass Zahlungsfristen nicht endlos
+erstreckt oder Raten unangemessen tief angesetzt werden sollten. Die Behörden
+seien aber bei Zahlungserleichterungen nicht an die Zahlungsfrist von sechs
+Monaten gemäss Art. 35 Abs. 1 Satz 1 StGB gebunden. Die von der Vollzugsbehörde
+angeführte Ziffer 3.1 der Richtlinie betreffend das Inkasso von rechtskräftigen
+unbedingten Geldstrafen, Bussen und Verfahrenskosten sehe vor, dass eine
+Fristverlängerung «grundsätzlich» maximal 12 Monate betrage. Es könne deshalb
+«in geringem Masse» von diesem Grundsatz abgewichen und eine Fristverlängerung
+von 15 Monaten angeordnet werden (Rekursbegründung Ziff. B.2). Weiter führt
+der Rekurrent Gründe an, weshalb der Argumentation der Vorinstanz, die
+Ratenzahlung sei mit Blick auf die Vollstreckungsverjährung nicht möglich,
+nicht gefolgt werden könne (Rekursbegründung Ziff. B.3). Der Rekurrent
+lässt geltend machen, der Vollzug der Ersatzfreiheitsstrafe könne aufgeschoben
+werden, während er Ratenzahlungen leiste. Der Aufschub sei aus wichtigen Gründen
+gemäss § 22 Abs. 2 lit. a JVG möglich bei ausserordentlichen persönlichen
+Verhältnissen. Der Rekurrent habe Mühe damit, zu verstehen, was ihm widerfahren
+sei. Er sei immer noch der Meinung, es handle sich um ein Missverständnis.
+Offensichtlich sei es schwierig gewesen, ihn zu erreichen und ihm
+beispielsweise Post zuzustellen. Man erkenne klar, dass der Rekurrent Probleme
+damit habe, in administrativen Belangen die Übersicht zu behalten. Immerhin
+erkenne er nun in Anbetracht der anstehenden Ersatzfreiheitsstrafe, dass die
+Sache ernst sei und er nicht umhinkomme, die Geldstrafe und die Busse zu
+bezahlen. Es sei auch im Sinne des Gesetzgebers, dass die Geldstrafe und Busse
+wenn immer möglich prioritär behandelt werden sollen. Die Tatbestände, für die
+der Rekurrent verurteilt worden sei, befänden sich am unteren Rand der
+Kriminalitätsskala. Die 52 Tage Ersatzfreiheitsstrafe würden es für den
+Rekurrenten nicht einfacher machen, sein Leben künftig besser in den Griff zu
+bekommen, weshalb der Vollzug der Ersatzfreiheitsstrafe aufzuschieben sei,
+solange der Rekurrent seiner Zahlungspflicht monatlich nachkomme
+(Rekursbegründung Ziff. B. 4).
+
+2.4 Die
+Abteilung Straf- und Massnahmenvollzug führt in der Stellungnahme vom 5. August
+2021 aus, der Rekurrent habe es  angeblich in der Annahme, die unzähligen
+behördlichen Schreiben würden auf einem Missverständnis beruhen  unterlassen,
+bis zwei Tage vor dem mit Vollzugsbefehl vom 28. Oktober 2021 verfügten
+Strafantritt, den Kontakt mit der zuständigen Stelle aufzunehmen und um
+Zahlungserleichterungen zu ersuchen. Würde dem Rekurrenten nun trotz seiner
+ausgesprochen passiven Haltung während des rund 13 Monate andauernden
+Inkassoprozesses gestattet, Ratenzahlungen zu leisten, würden einerseits der
+mit der Geldstrafe und Busse verfolgten Sanktionswirkung durch eine de facto überlange Ratenzahlungsfrist nicht gerecht sowie das Gebot der rechtsgleichen
+Rechtsanwendung missachtet und andererseits der gesamte Inkassoprozess ad
+absurdum geführt. Es sei dem Rekurrenten jedoch gemäss Art. 36 Abs. 1 Satz 3
+StGB unbenommen, trotz der Umwandlung der Geldstrafe und Busse in eine
+Ersatzfreiheitsstrafe den Vollzug der letzteren durch die nachträgliche
+vollständige Bezahlung der pekuniären Strafe abzuwenden oder bei teilweiser
+Bezahlung im entsprechenden Umfang zu vermeiden. Die erneute Möglichkeit einer
+Ratenzahlung sei jedoch ausgeschlossen.
+
+3.
+
+3.1 Gemäss Art. 372 Abs. 1 und 2 StGB vollziehen
+die Kantone die von ihren Staatsanwaltschaften auf Grund des StGB erlassenen
+Strafbefehle (vgl. Imperatori , in:
+Basler Kommentar, 4. Auflage 2019, Art. 372 StGB N 5). Die Abteilung
+Straf- und Massnahmenvollzug übt als Vollzugsbehörde die Aufgaben und
+Befugnisse bei Freiheitsstrafen und strafrechtlichen Massnahmen an Erwachsenen
+aus und ist im Weiteren unter anderem zuständig für das Inkasso von
+insbesondere Verfahrenskosten, Geldstrafen und Bussen (§ 4 Abs. 1 und Abs. 2
+der Justizvollzugsverordnung [JVV, SG 258.210] in Verbindung mit § 44 des Gesetzes
+über die Einführung der Schweizerischen Strafprozessordnung [EG StPO, SG
+257.100]). Das Inkasso von unter anderem Geldstrafen und Bussen ist der
+Inkassostelle des Justiz- und Sicherheitsdepartements übertragen worden (§ 5
+Abs. 1 des Finanzreglements [SG 154.125]). Gemäss Art. 35 Abs. 1 StGB bestimmt
+die Vollzugsbehörde dem Verurteilten für Geldstrafen eine Zahlungsfrist von
+einem bis zu sechs Monaten. Sie kann Ratenzahlung anordnen und auf Gesuch die Fristen
+verlängern. Bezahlt der Verurteilte die Geldstrafe nicht fristgemäss, so ordnet
+die Vollzugsbehörde gemäss Art. 35 Abs. 3 StGB die Betreibung an, wenn davon
+ein Ergebnis zu erwarten ist. Soweit der Verurteilte die Geldstrafe nicht
+bezahlt und sie auf dem Betreibungsweg uneinbringlich ist, tritt gemäss Art. 36
+Abs. 1 StGB an die Stelle der Geldstrafe eine Freiheitsstrafe. Die
+Ersatzfreiheitsstrafe entfällt, soweit die Geldstrafe nachträglich bezahlt
+wird.
+
+3.2 Gestützt auf § 22 Abs. 1 JVG kann die
+Vollzugsbehörde den Vollzug einer Strafe aus wichtigen Gründen aufschieben oder
+unterbrechen. Wichtige Gründe liegen gemäss § 22 Abs. 2 JVG insbesondere vor
+bei ausserordentlichen persönlichen, familiären oder beruflichen Verhältnissen
+(lit. a), Hafterstehungsunfähigkeit (lit. b) oder wenn der Stand eines hängigen
+Wiederaufnahmeverfahrens oder eines Begnadigungsverfahrens den vorläufigen
+Verzicht auf den weiteren Vollzug nahelegt (lit. c). Bei den
+ausserordentlichen persönlichen, familiären oder beruflichen Verhältnissen
+gemäss lit. a kann es sich etwa um schwere Erkrankungen oder Todesfälle von
+Angehörigen handeln (Ratschlag JVG, S. 12). Beim Entscheid über
+den Aufschub des Vollzugs einer Strafe sind die Art und Schwere der begangenen
+Straftat, die voraussichtliche Vollzugsdauer, die Entweichungs- und
+Wiederholungsgefahr sowie allfällige Beurteilungen von Sachverständigen zu
+berücksichtigen (§ 22 Abs. 3 JVG). Dabei nimmt die Vollzugsbehörde eine
+Abwägung zwischen dem Interesse der eingewiesenen Person am Strafaufschub und
+dem öffentlichen Interesse an einem reibungslosen Strafvollzug bzw. am
+Strafdurchsetzungsanspruch vor (VGE VD.2020.127 vom 24. August 2020 E. 2.2, mit
+Hinweis auf Ratschlag JVG, S. 12 f.; Koller ,
+Aufschub von Strafen und Massnahmen, in: Brägger [Hrsg.], Das schweizerische
+Vollzugslexikon, Basel 2014, S. 52, 54). Das öffentliche Interesse am Vollzug
+rechtskräftig verhängter Strafen und der Gleichheitssatz schränken den
+Ermessensspielraum der Vollzugsbehörde hinsichtlich einer Verschiebung des
+Strafvollzugs erheblich ein. Der Strafvollzug bedeutet für die betroffene
+Person immer ein Übel, das von den einen besser, von den anderen weniger gut
+ertragen wird (BGE 146 IV 267 E. 3.2.1 S. 271; BGer 6B_1018/2018 vom 10. Januar
+2019 E. 3, 6B_467/2018 vom 30. Mai 2018 E. 5, 6B_336/2017 vom 27. März
+2017 E. 1.2; VGE VD.2021.119 vom 20. Oktober 2021 E. 2.3, VD.2020.127 vom 24. August 2020 E. 2.3, VD.2016.165
+vom 21. September 2016 E. 3.2, VD.2014.116 vom 25. Juli 2014 E. 2.3,
+VD.2013.197 vom 21. Februar 2014 E. 2.3).
+
+4.
+
+4.1 Der Rekurrent macht geltend, der
+Vollzug der Ersatzfreiheitsstrafe sei aufzuschieben, solange er Ratenzahlungen
+leiste. Er legt seiner Argumentation § 22 Abs. 2 lit. a JVG zugrunde, wonach die Vollzugsbehörde den Vollzug einer Strafe aus wichtigen Gründen
+aufschieben oder unterbrechen kann, wobei wichtige Gründe insbesondere bei
+ausserordentlichen persönlichen, familiären oder beruflichen Verhältnissen vorliegen
+können. Bei den ausserordentlichen Verhältnissen gemäss lit. a kann es sich wie
+erwähnt etwa um schwere Erkrankungen oder Todesfälle von Angehörigen handeln (vgl.
+E. 3.2 hiervor, mit Hinweis auf Ratschlag JVG, S. 12). Was der Rekurrent
+hierzu ausführt (vgl. E. 2.3 hiervor), erfüllt die Voraussetzungen von § 22 Abs. 2 lit. a JVG nicht annähernd. Seine Behauptungen sind
+oberflächlich und werden in keiner Art und Weise belegt, weshalb nicht
+ersichtlich ist und auch nicht konkret überprüft werden kann, inwiefern er sich
+in einer ausserordentlichen persönlichen Lage befinden würde, die einen
+Aufschub der Strafe rechtfertigen würde. Seine Argumentation, er sei weiterhin
+der Meinung, alles handle sich um ein Missverständnis, ist als blosse
+Schutzbehauptung zu werten und bewahrt den Rekurrenten nicht vor dem Vollzug
+der Ersatzfreiheitsstrafe. Insofern stellte auch die Vollzugsbehörde in der
+angefochtenen Verfügung zu Recht fest, dass kein wichtiger Grund im Sinne von §
+22 JVG vorliegt, der eine Verschiebung des Strafantritts rechtfertigen würde.
+
+4.2
+
+4.2.1 Der Rekurrent möchte die in
+Ersatzfreiheitsstrafe umgewandelten Geldstrafe und Busse in Raten abbezahlen.
+Dazu ist grundsätzlich mit der Abteilung Straf- und Massnahmenvollzug vorab zu
+bemerken, dass der Vollzugsbefehl vom 28. Oktober 2020, mit welchem
+die Geldstrafe und Busse in eine Ersatzfreiheitsstrafe umgewandelt worden sind,
+unangefochten in Rechtskraft erwachsen ist.
+
+4.2.2 Der
+Rekurrent ist jedoch weiterhin der Meinung, dass es möglich sein sollte, die
+ausstehenden CHF 7'200. in 15 Monatsraten à CHF 500. zu begleichen. Aus Art.
+35 Abs. 1 und Art. 36 Abs. 1 Abs. 3 StGB werde klar, dass die Bezahlung der
+Geldstrafe bis zuletzt möglich sein soll, diese Sanktionsart also Priorität
+habe (vgl. E. 2.3 hiervor).
+
+Was für die Wahl
+der Sanktionsart bei einer Verurteilung Geltung hat, kann nicht tel quel auf den Vollzug einer Strafe angewendet werden. Geht es um den Vollzug einer
+Strafe, kann nicht mehr davon gesprochen werden, dass eine Geldstrafe
+prinzipiell Vorrang vor einer Freiheitsstrafe hat. Wenn der
+Verurteilte eine Geldstrafe nicht bezahlt und diese auch auf dem Betreibungsweg
+uneinbringlich ist, wird sie in eine Ersatzfreiheitsstrafe umgewandelt. Die
+Ersatzfreiheitsstrafe ist ihrer Natur nach somit lediglich Geldstrafenvollzug.
+Sie ist mit andern Worten nur Behelf zur Durchsetzung des primär auf
+Geldleistung gerichteten Strafanspruchs des Staates (BGE 141 IV 203 E. 3.2.3
+S. 205, mit Hinweisen auf BGE 129 IV 212 E. 2.3, 124 IV 205 E. 8b, 105 IV
+14 E. 2 sowie weiteren Hinweisen).
+
+4.2.3 Wie die Abteilung Straf- und
+Massnahmenvollzug in der Stellungnahme vom 5. August 2021 zu Recht ausführt,
+umfasst der Geldstrafenvollzug drei Stufen: Erstens die freiwillige Zahlung der
+Geldstrafe, allenfalls aufgrund von Zahlungserleichterungen, zweitens die
+Zwangsvollstreckung auf dem Betreibungsweg und drittens als ultima ratio die Ersatzfreiheitsstrafe ( Dolge ,
+in: Basler Kommentar, 4. Auflage 2019, Art. 35 StGB N 4). Unter Geltung
+des alten Sanktionenrechts war vorgesehen, dass der Vollzug der Geldstrafe
+nachträglich noch modifiziert werden konnte, wenn der Verurteilte die
+Geldstrafe nicht bezahlen konnte, weil sich ohne sein Verschulden die für die
+Bemessung des Tagessatzes massgebenden Verhältnisse seit dem Urteil erheblich
+verschlechtert hatten. Nachträgliche Modifikationen aufgrund schuldlos
+veränderter Verhältnisse sind jedoch seit der Revision des Sanktionenrechts
+nicht mehr möglich, da die Art. 36 Abs. 3 bis 5 aStGB ersatzlos aufgehoben
+worden sind (Dolge , a.a.O., Art.
+35 StGB N 4 und Art. 36 StGB N 18). Es entfällt damit die frühere vierte Stufe
+des Vollzugs der Geldstrafe (vgl. dazu Omlin ,
+Geldstrafe, in: Brägger [Hrsg.], Das schweizerische Vollzugslexikon, Basel
+2014, S. 202). Der Gesetzgeber wollte mit dieser Gesetzesänderung im
+Wesentlichen den Vollzug von Geldstrafen beschleunigen (Dolge , a.a.O., Art. 36 StGB N 19, mit Hinweis). Dass eine
+Freiheitsstrafe an die Stelle einer uneinbringlichen Geldstrafe tritt, ist
+unter Geltung des revidierten Sanktionenrechts die zwingende Folge der
+Nichtzahlung, die nur dann entfällt, wenn die Geldstrafe im Sinne von Art. 36
+Abs. 1 Satz 3 StGB doch noch nachträglich bezahlt wird ( Wohlers , in: Wohlers et al. [Hrsg.], Handkommentar StGB,
+4. Auflage, Bern 2020, Art. 36 N 1). Eine bereits angeordnete
+Ersatzfreiheitsstrafe kann unter geltendem Recht gemäss Art. 79a Abs. 2
+StGB auch nicht mehr durch die Leistung gemeinnütziger Arbeit abgewendet
+werden. Dies aus der Überlegung, dass sich die verurteilte Person aktiv
+soll bemühen müssen, um ihre Strafe in Form der gemeinnützigen Arbeit ableisten
+zu können, dass sich aber blosses Zuwarten auf das Aufgebot zum Antritt der
+Ersatzfreiheitsstrafe nicht lohnen soll (Botschaft zur Änderung des
+Sanktionenrechts, in: BBl 2012 S. 4721, 4738). Ähnliches hat im vorliegenden
+Fall zu gelten: Der Rekurrent soll nach ratio der gesetzlichen
+Regelungen nicht nach monatelangem, passivem Verhalten seit Rechtskraft des
+Strafbefehls von weiteren Anpassungen des Vollzugs der Geldstrafe und Busse profitieren
+können. Aus den Akten ist ersichtlich, dass der Umwandlung der Geldstrafe und
+Busse in eine Ersatzfreiheitsstrafe ein länger dauernder Mahn- und
+Betreibungsprozess vorausging, während dessen sich der Rekurrent noch um
+Ratenzahlungen gemäss Art. 35 Abs. 1 StGB hätte bemühen können. Mit Schreiben
+vom 27. Oktober 2020 teilte die Inkassostelle des JSD der Vollzugsbehörde im
+Sinne von Art. 36 Abs. 1 und Art. 106 Abs. 5 StGB mit, dass die Geldstrafe und
+Busse nicht bezahlt worden beziehungsweise auf dem Betreibungsweg
+uneinbringlich gewesen seien. Wie die Abteilung Straf- und Massnahmenvollzug in
+ihrer Stellungnahme vom 5. August 2021 zu Recht ausführt, sind die drei Stufen
+des Vollzugs einer Geldstrafe mit dem von der Inkassostelle des JSD für die
+Vollzugsbehörde durchgeführten Inkassoprozess bereits durchlaufen worden. Entgegen der Ansicht des Rekurrenten kann die Vollzugsbehörde nun auch
+nicht mehr eine Fristverlängerung nach Art. 35 Abs. 1 StGB und Ziff. 3.1
+der Richtlinien betreffend das Inkasso von rechtskräftigen unbedingten
+Geldstrafen, Bussen und Verfahrenskosten vom 1. Februar 2019 gewähren,
+beziehen sich doch diese Bestimmungen auf die oben erwähnte erste Stufe der
+freiwilligen Zahlung der Geldstrafe. Insofern ist auch nicht relevant, dass der
+Rekurrent seine finanzielle Situation, die angeblich Ratenzahlungen notwendig
+macht, nicht im Entferntesten glaubhaft macht oder sogar belegt. Schliesslich
+bleibt zu erwähnen, dass der Rekurrent, hätte er sich denn in einer prekären
+finanziellen Situation befunden, auch die Abarbeitung der Geldstrafe und Busse
+durch gemeinnützige Arbeit hätte beantragen können, bevor diese in eine
+Ersatzfreiheitsstrafe umgewandelt worden sind (vgl. Art. 79a Abs. 1 lit. c
+und Abs. 2 StGB; Dolge , a.a.O., Art. 35 StGB N 4). Mit der Vollzugsbehörde ist somit
+festzustellen, dass es in diesem Stand des Verfahrens nicht mehr möglich ist,
+die Ersatzfreiheitsstrafe durch Ratenzahlungen abzuwenden oder aufzuschieben. Die
+Abteilung Straf- und Massnahmenvollzug hat das Gesuch des Rekurrenten um Ratenzahlung
+in der angefochtenen Verfügung zu Recht abgewiesen. Wie aber die Vorinstanz dem
+Rekurrenten bereits im Vollzugsbefehl vom 28. Oktober 2020 mitgeteilt
+hat, könnte dieser den Vollzug der Ersatzfreiheitsstrafe gemäss Art. 36 Abs. 1
+Satz 3 StGB noch durch nachträgliche vollständige oder teilweise Bezahlung der
+Geldstrafe in entsprechendem Umfang vermeiden. Darin zeigt sich, dass der
+Vollzug der Ersatzfreiheitsstrafe immer noch Geldstrafenvollzug ist (vgl.
+E. 4.2.2 hiervor; Dolge ,
+a.a.O. Art. 36 StGB N 16).
+
+4.2.4 Die Abteilung Straf- und
+Massnahmenvollzug hielt in der angefochtenen Verfügung  ohne weitere
+Ausführungen dazu  fest, die Gewährung von Ratenzahlungen sei auch mit Blick
+auf die Vollstreckungsverjährung nicht mehr möglich. Wie es sich damit verhält,
+kann im Ergebnis offenbleiben, da die Möglichkeit der Ratenzahlung bereits
+gesetzlich nicht vorgesehen und deshalb im derzeitigen Verfahrensstand sowieso nicht
+mehr möglich ist (vgl. E. 4.2.3 hiervor).
+
+4.3 Aus dem Gesagten folgt
+zusammenfassend, dass die Vollzugsbehörde mit der angefochtenen Verfügung die
+Gesuche um Aufschub des Strafvollzugs und das Gesuch um Ratenzahlungen zu Recht
+abgewiesen hat.
+
+5.
+
+Aus den vorstehenden
+Erwägungen folgt, dass der Rekurs abzuweisen ist.
+
+Bei diesem
+Ausgang des Verfahrens trägt der Rekurrent dessen Kosten (§ 30 Abs. 1 VRPG in
+Verbindung mit § 23 des Gerichtsgebührenreglements [GGR, SG 154.810]). Das vom
+Rekurrenten gestellte Begehren um Bewilligung der unentgeltlichen
+Prozessführung muss abgewiesen werden. Anspruch auf unentgeltliche Rechtspflege
+hat eine Person, die nicht über die erforderlichen Mittel zur Führung eines
+Prozesses verfügt, nach Art. 29 Abs. 3 der Bundesverfassung (BV, SR 101) dann,
+wenn ihr Rechtsbegehren nicht aussichtslos erscheint. Nach der Rechtsprechung
+sind Prozessbegehren als aussichtslos anzusehen, bei denen die Gewinnaussichten
+beträchtlich geringer sind als die Verlustgefahren und die deshalb kaum als
+ernsthaft bezeichnet werden können. Dagegen gilt ein Begehren nicht als
+aussichtslos, wenn sich Gewinnaussichten und Verlustgefahren ungefähr die Waage
+halten oder jene nur wenig geringer sind als diese. Massgebend ist, ob eine
+Partei, die über die nötigen Mittel verfügt, sich bei vernünftiger Überlegung
+zu einem Prozess entschliessen würde (BGE 139 III 396 E. 1.2 S. 397, 138 III
+217 E. 2.2.4 S. 218, 133 III 614 E. 5 S. 616; VGE VD.2020.242 vom 3. März
+2021 E. 4, VD.2017.15 vom 3. Juni 2017 E. 6.1.1). Aus den Erwägungen zur
+Sache ergibt sich, dass die Rechtsbegehren des Rekurrenten aussichtslos
+erscheinen. Daher hat der Rekurrent die Kosten des Verfahrens unabhängig von seinen
+finanziellen Verhältnissen, die er im Übrigen nicht weiter substantiiert, mit
+einer Gebühr von CHF 500. zu tragen.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird abgewiesen.
+
+Der Rekurrent trägt die Gerichtskosten des
+verwaltungsgerichtlichen Rekursverfahrens mit einer Gebühr von CHF 500.,
+einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Amt für Justizvollzug, Abteilung Straf- und Massnahmenvollzug
+
+- Eidgenössisches Justiz- und Polizeidepartement (EJPD)
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Sabrina Gubler
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Strafsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in Strafsachen ein
+anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde
+an das Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Strafsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen Rechtsschrift
+einzureichen.
