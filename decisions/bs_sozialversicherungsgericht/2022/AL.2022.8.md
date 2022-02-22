@@ -1,0 +1,330 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.204"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2022.8"
+docket_2: "SVG.2022.204"
+decided: "2022-02-22"
+published: "2022-08-18"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74067&W10_KEY=3049208&nTrefferzeile=158&Template=search_result_document.html"
+cites_decisions: ["8C_58/2012", "8C_583/2009", "8C_768/2014", "AL.2022.8", "BGE 133 V 89", "BGE 139 V 524", "BGE 141 V 365"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/837.0/art-017.md", "switzerland/bund/acts/837.0/art-030.md", "switzerland/bund/acts/837.0/art-100.md"]
+---
+
+# Teilweise Gutheissung der Beschwerde; Reduktion von zwei Einstelltagen auf einen Einstelltag.
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 18.
+August 2022
+
+Mitwirkende
+
+Dr. A. Pfleiderer (Vorsitz), P.
+Kaderli, MLaw A. Zalad
+
+und
+Gerichtsschreiberin Dr. K. Zimmermann
+
+Parteien
+
+A____
+
+[...]          Beschwerdeführer
+
+Regionales
+Arbeitsvermittlungszentrum
+
+Hochstrasse 37, Postfach, 4002 Basel
+
+vertreten durch Amt für
+Wirtschaft und Arbeit, Herrn lic. iur. B____, Sandgrubenstrasse 44, Postfach,
+4005 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2022.8
+
+Einspracheentscheid vom 22.
+Februar 2022
+
+Teilweise Gutheissung der
+Beschwerde; Reduktion von zwei Einstelltagen auf einen Einstelltag.
+
+Tatsachen
+
+I.
+
+Der 1964 geborene Beschwerdeführer ist gelernter [...] und
+arbeitete zuletzt vom 1. Juni 2019 bis zum 31. Januar 2021 als [...] und
+Filialleiter bei der C____ (Lebenslauf, Beschwerdeantwortbeilage/AB 1;
+Arbeitszeugnis, AB 2). Per 1. Februar 2021 meldete er sich zum Bezug von
+Arbeitslosenentschädigung an (ASAL-Daten, AB 3).
+
+Am 1. November 2021 trat der Beschwerdeführer eine neue Stelle
+im Umfang von 100% beim D____ AG in E____ an (Arbeitsvertrag, AB 4), woraufhin
+er per 31. Oktober 2021 von der Arbeitsvermittlung abgemeldet wurde (Abmeldebestätigung
+vom 03.11.2021, AB 6).
+
+In der Folge kündigte der Beschwerdeführer diese Stelle mit
+Einschreiben vom 22. November 2021 schriftlich unter Einhaltung der
+vertraglichen Kündigungsfrist von fünf Werktagen während der Probezeit per 30.
+November 2021 (Kündigung, AB 5). Sein letzter Arbeitstag war der 25. November
+2021. Am 27. November 2021 meldete er sich per 1. Dezember 2021 erneut bei der
+Beschwerdegegnerin zum Bezug von Arbeitslosenentschädigung an (Anmeldeformular,
+AB 7).
+
+Mit Verfügung vom 6. Dezember 2021 sanktionierte die
+Beschwerdegegnerin den Beschwerdeführer mit zwei Einstelltagen (Verfügung, AB
+8). Zur Begründung führte sie aus, er sei im Zeitraum vom 22. November bis 30.
+November seiner Schadenminderungspflicht nicht nachgekommen. Dagegen erhob der
+Beschwerdeführer mit Schreiben vom 19. Januar 2022 Einsprache (Einsprache, AB
+9). Weil der Beschwerdeführer darin geltend machte, er sei während seiner
+Kündigungsfrist arbeitsunfähig gewesen, wurde ihm mit Schreiben vom 8. Februar 2022
+eine Nachfrist bis zum 21. Februar 2022 zur Nachreichung eines
+Arztzeugnisses gewährt (AB 10). Daraufhin reichte der Beschwerdeführer mit
+Schreiben vom 9. Februar 2022 ein Arztzeugnis ein, welches eine
+Arbeitsunfähigkeit vom 13. August bis zum 15. September 2021 bescheinigte (AB
+11). In der Folge wurde die Einsprache mit Entscheid vom 22. Februar 2022
+abgewiesen (AB 12).
+
+II.
+
+Mit Beschwerde vom 19. März 2022 (Postaufgabe 21. März 2022) beantragt
+der Beschwerdeführer beim Sozialversicherungsgericht Basel-Stadt sinngemäss, es
+sei der Einspracheentscheid vom 22. Februar 2022 aufzuheben und es seien ihm
+die eingestellten Taggelder auszubezahlen.
+
+Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom 10.
+Mai 2022 auf Abweisung der Beschwerde. Eventualiter sei die Sanktion auf einen
+Tag zu reduzieren.
+
+Innert Frist geht keine Replik ein.
+
+III.
+
+Nachdem keine der Parteien innert Frist die Durchführung einer
+mündlichen Parteiverhandlung verlangt hat, findet am 18. August 2022 die
+Urteilsberatung durch die Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Gemäss Art. 1 Abs. 1 des Bundesgesetzes vom 25. Juni 1982 über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG;
+SR 837.0) in Verbindung mit den Art. 56 und 57 des Bundesgesetzes vom 6.
+Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR
+830.1) kann gegen Einspracheentscheide aus dem Bereich der
+Arbeitslosenversicherung Beschwerde beim kantonalen Versicherungsgericht
+erhoben werden. Örtlich zuständig ist gemäss Art. 100 Abs. 3 AVIG in Verbindung
+mit Art. 128 Abs. 1 und Art. 119 Abs. 1 lit. a und Abs. 2 der Verordnung vom
+31. August 1983 über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung (AVIV; SR 837.02) das Versicherungsgericht desjenigen
+Kantons, in dem die versicherte Person zur Zeit des Verfügungserlasses die
+Kontrollpflicht erfüllt. Der Beschwerdeführer erfüllt die Kontrollpflicht im
+Kanton Basel-Stadt, womit die örtliche Zuständigkeit des
+Sozialversicherungsgerichts Basel-Stadt zu bejahen ist.
+
+1.2. Gestützt auf § 82 des Gesetzes vom 3. Juni 2015 betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft (GOG; SG 154.100) und § 1
+Abs. 1 des Gesetzes vom 9. Mai 2001 über das Sozialversicherungsgericht des
+Kantons Basel-Stadt und über das Schiedsgericht in Sozialversicherungssachen
+(SVGG; SG 154.200) entscheidet das Sozialversicherungsgericht als einzige
+kantonale Instanz alle sich aus Bundesrecht oder kantonalem Recht ergebenden
+sozialversicherungsrechtlichen Streitigkeiten. Es ist somit auch sachlich zur
+Behandlung der vorliegenden Beschwerde zuständig.
+
+1.3. Auf die  im Übrigen frist- und formgerecht erhobene  Beschwerde
+ist deshalb einzutreten.
+
+2.
+
+2.1. Mit dem die Verfügung vom 6. Dezember 2021 schützenden
+Einspracheentscheid vom 22. Februar 2022 hat die Beschwerdegegnerin den
+Beschwerdeführer für zwei Tage in der Anspruchsberechtigung eingestellt, da er
+in Verletzung seiner Schadensminderungspflicht für den Zeitraum vom 22. bis zum
+30. November 2021 keine Arbeitsbemühungen nachgewiesen habe. Zur Erläuterung
+führt die Beschwerdegegnerin in der Beschwerdeantwort aus, dass die
+ausstehenden Arbeitsbemühungen nicht als fehlend während einer Kontrollperiode,
+sondern als fehlend vor einer Anmeldung beurteilt worden seien
+(Beschwerdeantwort, S. 2), da der Beschwerdeführer eine unbefristete Stelle
+angetreten habe und man davon ausgegangen sei, dass er abgemeldet bleiben
+würde.
+
+2.2. Der Beschwerdeführer ist mit der Sanktionierung nicht einverstanden
+und macht im Wesentlichen gesundheitliche Gründe für die fehlenden
+Arbeitsbemühungen geltend.
+
+2.3. Umstritten und zu prüfen ist demnach, ob der Beschwerdeführer zu
+Recht wegen ungenügenden Arbeitsbemühungen für zwei Tage in der
+Anspruchsberechtigung eingestellt worden ist.
+
+3.
+
+3.1. Nach Art. 17 Abs. 1 AVIG muss die versicherte Person mit
+Unterstützung des Arbeitsamtes alles Zumutbare unternehmen, um Arbeitslosigkeit
+zu vermeiden oder zu verkürzen. Insbesondere ist sie verpflichtet, Arbeit zu
+suchen, nötigenfalls auch ausserhalb ihres bisherigen Berufs. Sie muss ihre
+Bemühungen nachweisen können. Die Bestimmung regelt allgemein die materiellen Pflichten
+der versicherten Person. Mit der Formel, der Versicherte habe alles Zumutbare
+zu unternehmen, um Arbeitslosigkeit zu vermeiden oder zu verkürzen, statuiert
+sie die Pflicht zur Schadenminderung, aus welcher sich verschiedene
+Einzelpflichten ergeben. Dazu gehört die Pflicht der Versicherungsleistungen
+beanspruchenden Person zur Arbeitssuche. Art. 30 Abs. 1 lit. c AVIG
+sanktioniert eine Verletzung der in Art. 17 Abs. 1 AVIG statuierten
+Schadenminderungspflicht, insbesondere auch der Pflicht, sich genügend um
+Arbeit zu bemühen. Mittels Einstellung in der Anspruchsberechtigung soll dieser
+Pflicht zum Durchbruch verholfen werden (BGE 139 V 524 E. 2.1.1 mit weiteren
+Hinweisen).
+
+3.2. Aus der Pflicht, den Eintritt der Arbeitslosigkeit zu verhindern,
+fliesst die Last für die versicherte Person, sich bereits vom Zeitpunkt der
+Kündigung des früheren Arbeitsverhältnisses an und damit vor Eintritt der
+Arbeitslosigkeit intensiv um eine neue Arbeit zu bemühen (Urteile des
+Bundesgerichts vom 6. Juni 2012, 8C_58/2012, E. 2 und vom 22. Dezember 2009,
+8C_583/2009, E. 3.1 mit weiteren Hinweisen). Die versicherte Person hat sich
+dementsprechend während einer allfälligen Kündigungsfrist, aber auch generell
+während der Zeit vor der Anmeldung, unaufgefordert um Stellen zu bemühen. Sie
+kann sich insbesondere nicht damit exkulpieren, nicht gewusst zu haben, dass
+sie schon vor der Anmeldung zum Leistungsbezug zur ernsthaften Arbeitssuche
+verpflichtet war und nicht darauf aufmerksam gemacht worden sei (Urteil des
+Bundesgerichts vom 23. Februar 2015, 8C_768/2014, E. 2.2.2 mit Hinweisen).
+Daraus folgt, dass Versicherte in gekündigter Stellung bereits während der
+Kündigungsfrist alles Zumutbare zu unternehmen haben, um Arbeitslosigkeit zu
+vermeiden oder zu verkürzen (BGE 139 V 524 E. 2.1.2).
+
+3.3. Praxisgemäss werden durchschnittlich etwa zehn bis zwölf
+Stellenbewerbungen pro Monat als genügend erachtet (BGE 139 524, E. 2.1.4;
+Urteil 8C_583/2009 vom 22. Dezember 2009 E. 5.1 je mit Hinweisen). Die
+versicherte Person soll sich mit einer gewissen Regelmässigkeit bewerben; sie
+hat den Stellenmarkt andauernd aufmerksam zu verfolgen und sich umgehend auf
+jede in Frage kommende offene Stelle zu bewerben. Die Arbeitsbemühungen sollen
+dabei über den ganzen Monat gleichmässig verteilt werden und nicht geballt
+während eingeschränkter Zeit erfolgen. Die zuständige Amtsstelle überprüft die
+Arbeitsbemühungen der versicherten Person monatlich (vgl. Art. 26 Abs. 1 bis 3
+AVIV).
+
+3.4. Einer Verletzung der Schadensminderungspflicht hat die Verwaltung
+mit einer Einstellung in der Anspruchsberechtigung im Sinne von Art. 30 Abs. 1
+lit. c AVIG zu begegnen (BGE 133 V 89 E. 6.2). Die Dauer der Einstellung
+bemisst sich sodann nach dem Grad des Verschuldens und beträgt je
+Einstellungsgrund höchstens 60 Tage (Art. 30 Abs. 3 Satz 3 AVIG). Sie dauert
+bei leichtem Verschulden 1 bis 15 Tage, bei mittelschwerem Verschulden 16 bis
+30 Tage und bei schwerem Verschulden 31 bis 60 Tage (Art. 45 Abs. 3 lit. a bis
+c AVIV). Massgebend für die Festsetzung der Einstellungsdauer ist das
+Gesamtverhalten der versicherten Person, das unter Berücksichtigung aller
+wesentlichen Umstände des Einzelfalls, d.h. der objektiven und subjektiven
+Gegebenheiten, zu würdigen ist (BGE 141 V 365 E. 4.1 mit Hinweisen).
+
+4.
+
+4.1. Gemäss der Rechtsprechung werden durchschnittlich zehn bis zwölf
+Arbeitsbemühungen pro Monat verlangt, wobei die Umstände des Einzelfalls zu
+berücksichtigen sind (vgl. Erwägung 3.3 vorstehend). Entsprechend wäre vom
+Beschwerdeführer verlangt worden, dass er sich aus eigener Initiative in der
+Kündigungsfrist von einer Woche wenigstens um zwei bis drei Stellen beworben
+hätte. Der Beschwerdeführer bestreitet diese Pflicht im Grundsatz nicht. Er
+macht jedoch geltend, dass er aus zeitlichen und gesundheitlichen Gründen nicht
+in der Lage gewesen sei, im Zeitraum zwischen dem 22. und dem 30. November 2021
+Arbeitsbemühungen zu tätigen. Er führt weiter aus, der Einspracheentscheid
+basiere auf einem alten Arztzeugnis, welches er in der Eile fälschlicherweise
+kopiert und ohne zu kontrollieren abgesandt habe (Beschwerde, S. 1). Eine
+Krankschreibung für den 26. November 2021 könne er nicht beibringen, weil zur
+damaligen Zeit, wenn ein Patient " gefiebert " habe, aufgrund von Covid-19
+erst einen PCR-Test habe gemacht werden müssen, bevor der Hausarzt habe konsultieren
+werden dürfen. Dieser PCR-Test sei am 13. Dezember 2021 durchgeführt worden, woraufhin
+er zur Hausärztin habe gehen dürfen (Beschwerde, S. 2).
+
+4.2. Nach Lage der Akten liegt vorliegend keine Bestätigung vor, welche
+dem Beschwerdeführer eine Arbeitsunfähigkeit für den Zeitraum vom 22. bis zum
+30. November 2021 attestieren würde, sodass der Beschwerdeführer vom Nachweis
+der Arbeitssuche befreit werden könnte.
+
+4.3. Dennoch bestehen vorliegend gewichtige Gründe, die Sanktionierung
+von zwei Tagen auf einen Tag zu senken.
+
+4.4. Zunächst ist dem Beschwerdeführer vorliegend zu Gute zu halten, dass
+er trotz der gesundheitlich fragwürdigen Umstände noch bis am 25. November 2021
+im Betrieb gearbeitet und bis zu diesem Tag einen langen Arbeitsweg von seiner
+Wohnadresse in F____ zu seinem Arbeitsort in E____ von fast vier Stunden
+täglich bewältigt hat, sodass die effektive Zeit zwischen der Kündigung und dem
+Ablauf der Kündigungsfrist als sehr kurz zu beurteilen ist.
+
+4.5. Schliesslich ergibt sich aus den Akten, dass das Verhalten des
+Beschwerdeführers bisher zu keinen Beanstandungen Anlass gab, sodass es unter den
+konkreten Umständen des vorliegenden Falles als angemessen erscheint, die
+Einstellung in der Dauer der Anspruchsberechtigung von zwei Tagen auf einen Tag
+zu reduzieren, wie dies im Übrigen auch dem Eventualantrag der
+Beschwerdegegnerin entspricht.
+
+5.
+
+5.1. Zusammenfassend ist die Beschwerde teilweise gutzuheissen. Der
+Einspracheentscheid vom 22. Februar 2022 ist dahingehend abzuändern, dass die
+Einstellung in der Anspruchsberechtigung von zwei Tagen auf einen Tag reduziert
+wird.
+
+5.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        In teilweiser Gutheissung der Beschwerde wird
+der Einspracheentscheid vom 22. Februar 2022 dahingehend abgeändert, dass die
+Einstellung in der Anspruchsberechtigung von zwei Tagen auf einen Tag reduziert
+wird.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer Dr.
+K. Zimmermann
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          seco
+
+Versandt am:
