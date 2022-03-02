@@ -1,0 +1,329 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.168"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZK"
+docket: "ZK.2021.4"
+docket_2: "AG.2022.168"
+decided: "2022-03-02"
+published: "2022-09-29"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73152&W10_KEY=3048540&nTrefferzeile=225&Template=search_result_document.html"
+cites_decisions: ["4A_58/2019", "5C.177/2005", "BGE 143 II 37", "VD.2019.226", "ZK.2021.4"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/220/art-102.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/231.1/art-036.md", "switzerland/bund/acts/231.1/art-046.md", "switzerland/bund/acts/231.1/art-047.md", "switzerland/bund/acts/231.1/art-059.md", "switzerland/bund/acts/272/art-010.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-153.md"]
+---
+
+# Urheberrecht und verwandte Schutzrechte
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+ZK.2021.4
+
+ENTSCHEID
+
+vom 2. März 2022
+
+Mitwirkende
+
+Dr. Olivier Steiner und Gerichtsschreiber
+PD Dr. Benedikt Seiler
+
+Parteien
+
+A____ Klägerin
+
+[...]
+
+gegen
+
+B____ Beklagte
+
+[...]
+
+Gegenstand
+
+Klage betreffend Urheberrecht
+und verwandte Schutzrechte
+
+Sachverhalt
+
+Die A____
+(Genossenschaft der Urheber und Verleger von Musik) (Klägerin) ist die
+schweizerische Verwertungsgesellschaft für die Aufführungsrechte an nicht
+theatralischen Werken der Musik. Sie übt ihre Tätigkeit mit Bewilligung des
+Eidgenössischen Instituts für geistiges Eigentum aus. Die B____ (Beklagte) bezweckt
+unter anderem die Verbreitung von Informationen mittels elektronischer Medien,
+den Betrieb eines regionalen Privatradios mit entsprechenden Sendern sowie die Erbringung
+von Rundfunkdiensten aller Art. Am 2. August 2018 wurde der Klägerin mitgeteilt,
+dass der DAB+-Anschluss von [...] von der Beklagten übernommen wurde, um den
+Radiosender [...] zu betreiben. Daraufhin hat die Klägerin die Beklagte mit
+Schreiben vom 21. Dezember 2018 zur Anmeldung ihres Radios eingeladen und der
+Beklagten den anwendbaren Gemeinsamen Tarif zugestellt.
+
+Nachdem diverse
+Schreiben der Klägerin, welche unter anderem die Schätzung der fehlenden
+Angaben durch die Beklagte, die Rechnungstellung für das Jahr 2018 sowie
+entsprechende Mahnungen enthielten, unbeantwortet geblieben waren, reichte die
+Klägerin am 8. Juni 2021 beim Appellationsgericht Basel-Stadt Klage ein mit dem
+Antrag, es sei die Beklagte zu verpflichten, der Klägerin CHF 2'102.
+nebst 5 % Zins seit dem 4. Juni 2019 zu bezahlen. Zudem sei der
+Rechtsvorschlag in der von der Klägerin gegen die Beklagte eingeleiteten Betreibung
+Nr. [...] des Betreibungsamts Basel-Stadt zu beseitigen. Mit Verfügung vom
+23. Juni 2021 wurde der Beklagten die Klage zugestellt mit der
+Aufforderung, bis zum 23. August 2021 eine schriftliche Klageantwort
+einzureichen. Nachdem die Beklagte innert der ihr gesetzten Frist keine
+Klageantwort eingereicht hatte, wurde ihr mit Verfügung vom 25. August
+2021 eine Nachfrist von 10 Tagen ab Zustellung der Verfügung zur Einreichung
+einer Klageantwort gesetzt, unter Hinweis auf die Säumnisfolgen. Auch innert
+dieser Nachfrist reichte die Beklagte keine Klageantwort ein.
+
+Erwägungen
+
+1.         Formelles
+
+Die Klägerin ist
+eine konzessionierte Verwertungsgesellschaft im Sinn von Art. 40 ff. des
+Bundesgesetzes vom 9. Oktober 1992 über das Urheberrecht und verwandte
+Schutzrechte (URG, SR 231.1) und besitzt die Bewilligung des Eidgenössischen
+Instituts für Geistiges Eigentum (IGE) zur Geltendmachung der gesetzlichen
+Vergütungsansprüche. Für Streitigkeiten im Zusammenhang mit geistigem Eigentum ist
+eine einzige kantonale Instanz zuständig (Art. 5 Abs. 1 lit. a der
+Schweizerischen Zivilprozessordnung [ZPO, SR 272]). Da die Beklagte Sitz
+in Basel hat, sind die Gerichte des Kantons Basel-Stadt für die Beurteilung der
+vorliegenden Klage örtlich zuständig (Art. 10 Abs. 1 lit. b ZPO).
+Sachlich zuständig ist das Einzelgericht des Appellationsgerichts (§ 92
+Abs. 2 in Verbindung mit § 71 Abs. 1 Ziffer 1 lit. a des
+Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft
+[GOG, SG 154.100]).
+
+2.         Vergütungsanspruch
+
+2.1 Die
+Klägerin hat zum Zweck, die Urheberrechte von nicht-theatralischen
+musikalischen Werken zu wahren, die ihr übertragen werden. Sie ist berechtigt,
+die Rechte und Vergütungsansprüche der Urheber und Urheberinnen geltend zu
+machen (vgl. Bewilligung des IGE vom 14. Dezember 2017 [Klagebeilage
+2]). C____ sodann hat zum Zweck, die verwandten Schutzrechte von ausübenden
+Künstlern, Produzenten und Sendeunternehmen wahrzunehmen. Sie ist berechtigt,
+deren ausschliesslichen Rechte (Art. 2222c und 24b URG) und Vergütungsansprüche
+geltend zu machen (vgl. Bewilligung des IGE vom 20. Mai 2015 [Klagebeilage 4]).
+Im Rahmen der Gemeinsamen Tarife nimmt die Klägerin zusammen mit ihren Rechten
+auch die verwandten Schutzrechte an den Repertoires der C____ wahr (vgl. Art.
+47 URG; Kooperationsvertrag A____/C____ vom 30. November 2017
+[Klagebeilage 6]).
+
+Das Senden, das
+zu diesem Zweck erfolgende Vervielfältigen sowie das in Verbindung dazu
+stehende Zugänglichmachen von Musikwerken bzw. Tonträgern sind urheber- bzw.
+leistungsschutzrechtlich relevante Nutzungshandlungen (vgl. Art. 10
+Abs. 2, Art. 33 Abs. 2 und Art. 36 URG). Für diese Nutzungshandlungen hat das
+Sendeunternehmen die im anwendbaren Tarif vorgesehene Entschädigung zu zahlen
+(vgl. Art. 46 URG). Vorliegend ist der Gemeinsame Tarif S 20152019 (GT S)
+(Klagebeilage 8) anwendbar. Dieser Tarif wurde von der Eidgenössischen
+Schiedskommission für die Verwertung von Urheberrechten und verwandten
+Schutzrechten genehmigt und ist für das Gericht folglich verbindlich (vgl. Art.
+59 Abs. 3 URG).
+
+Die
+Entschädigung gemäss GT S für die Urheber- und verwandten Schutzrechte wird in
+Prozenten der Einnahmen des Sendeunternehmens berechnet (GT S Ziff. 7 ff.). Die
+entsprechenden Prozentsätze sind nach der Höhe des Musikanteils im Programm
+bzw. des Anteils geschützter Handelstonträger des Sendeunternehmens abgestuft.
+Als Einnahmen gelten alle geldwerten Leistungen, die im Zusammenhang mit der
+Sendetätigkeit eingenommen werden (GT S Ziff. 8.1). Die Sendeunternehmen haben
+Abrechnungspflichten zu erfüllen (GT S Ziff. 24 und 42). Reicht das Sendeunternehmen
+die verlangten Angaben auch nach einer schriftlichen Mahnung innert Nachfrist
+nicht ein, ist die Klägerin berechtigt, die für die Bemessung der Vergütung
+relevanten Angaben zu schätzen und auf dieser Basis die Vergütung in Rechnung zu
+stellen (GT S Ziff. 43). Aufgrund geschätzter Angaben erstellte Rechnungen
+gelten als vom Sendeunternehmen anerkannt, wenn es nicht innert 30 Tagen seit
+Zustellung der Rechnungen vollständige und korrekte Angaben nachliefert (GT S Ziff. 43).
+Die Vergütungen können verdoppelt werden, wenn das Sendeunternehmen absichtlich
+oder grobfahrlässig keine, unrichtige oder lückenhafte Angaben oder
+Abrechnungen liefert (GT S Ziff. 20).
+
+2.2 Die
+Klägerin führt in ihrer Klage aus, dass sie die Beklagte mit Schreiben vom 21. Dezember
+2018 zur Anmeldung ihres Radios eingeladen und ihr den anwendbaren GT S
+zugestellt habe (vgl. Klagebeilage 11). Da keine Antwort bzw. keine Anmeldung
+erfolgt sei, habe sie die Beklagte mit Schreiben vom 30. Januar 2019
+gemahnt, ihr eine Frist von 20 Tagen zur Anmeldung gesetzt und angedroht, dass
+bei Nichteinhaltung der Frist eine Rechnung gemäss Ziff. 20 und
+Ziff. 43 GT S gestellt werde (vgl. Klagebeilage 12). Mit Einschreiben vom
+20. März 2019 habe sie der Beklagten eine allerletzte Frist von 10 Tagen
+gesetzt (vgl. Klagebeilage 14). Da die Beklagte trotz dieser Aufforderungen auch
+nach mehreren Nachfristen keine Angaben eingereicht habe, habe sie die Beklagte
+eingeschätzt und ihr am 3. Mai 2019 aufgrund der geschätzten Angaben
+erstellte Rechnung für die Sendeperiode vom 1. August bis 31. Dezember
+2018 zugestellt. Als Grundlage sei hierbei die Mindestentschädigung gemäss Ziff. 18
+GT S verwendet worden. Für die Monate August bis Dezember 2018 seien
+dementsprechend je CHF 100. für Urheberrechte und CHF 100. für verwandte
+Schutzrechte verrechnet worden. Mit der Verdoppelung gemäss Ziff. 20 GT S
+und der Mehrwertsteuer ergebe dies einen Betrag von CHF 2'102. (vgl.
+Klagebeilage 15). Da die Beklagte die Zahlungsfrist der Rechnung habe verstreichen
+lassen, habe die Klägerin sie am 13. Juni 2019 ein erstes Mal gemahnt
+(vgl. Klagebeilage 16). Auch nach der zweiten Mahnung vom 11. Juli 2019
+(vgl. Klagebeilage 17) sei die Rechnung unbezahlt geblieben. Für den Beginn des
+Verzugszinsenlaufs sei Ziff. 26 GT S massgebend. Der dort genannte
+Zahlungstermin stelle einen Verfalltag gemäss Art. 102 Abs. 2 des
+Obligationenrechts (OR, SR 220) dar. Demnach laufe die Verpflichtung zur
+Zahlung von Verzugszins in Höhe von 5 % seit dem 4. Juni 2019. Subsidiär
+beruft sich die Klägerin hinsichtlich des Beginns des Zinsenlaufs auf die 1.
+Mahnung vom 13. Juni 2019 (Klage Rz. 1216 und 27 f.).
+
+2.3 Weil
+sich die Beklagte auch innert der ihr vom Verfahrensleiter des
+Appellationsgerichts gesetzten Nachfrist nicht zur Klage geäussert hat, kann
+das Gericht die Tatsachenbehauptungen der Klägerin als unbestritten betrachten
+und seinem Entscheid zugrunde legen. Eine Beweiserhebung von Amtes wegen
+erfolgt nur, wenn an der Richtigkeit einer unbestritten gebliebenen Tatsache
+erhebliche Zweifel bestehen (Art. 153 Abs. 2 ZPO). Dies ist
+vorliegend nicht der Fall, da die Klägerin ihre Behauptungen im Grundsatz
+substantiiert und schlüssig darlegt. Somit ist festzustellen, dass das
+unbestritten gebliebene Vorgehen der Klägerin im Einklang mit den dargestellten
+Bestimmungen des GT S (vgl. dazu oben E. 2.1) steht. Damit ist der von der
+Klägerin geltend gemachte Vergütungsanspruch grundsätzlich erstellt.
+
+In Bezug auf den
+Verzugszins, ist festzuhalten, dass der Schuldner einer Geldforderung Verzugszinsen
+von 5 % zu entrichten hat, wenn er sich mit seiner Leistung im Verzug befindet
+(Art. 104 Abs. 1 OR). Die blosse Fälligkeit der Forderung genügt nicht, um
+den Schuldnerverzug herbeizuführen. Der Schuldnerverzug setzt neben der
+Fälligkeit der Forderung grundsätzlich voraus, dass der Gläubiger den Schuldner
+gemahnt hat oder ein Verfalltagsgeschäft vorliegt (Art. 102 OR). Ein
+Verfalltagsgeschäft liegt vor, wenn der Zeitpunkt, zu dem der Schuldner
+erfüllen muss, kalendermässig bestimmt ist oder zumindest bestimmbar ist (BGE
+143 II 37 E. 5.2.3 S. 45; Weber/Emmenegger ,
+Berner Kommentar, 2. Auflage, 2020, Art. 102 OR N 110). Im Privatrecht
+begründen gesetzliche Bestimmungen der Leistungszeit in der Regel keinen
+Verfalltag (AGE VD.2019.226 vom 15. September 2020 E. 5.1.2; Weber/Emmen-egger , a.a.O., Art. 102 OR N
+119). Dies gilt auch für GT S Ziff. 26, zumal diese Bestimmung lediglich
+festhält, dass die Vergütungen innert 30 Tagen seit Rechnungsstellung oder zu
+den in der Bewilligung genannten Terminen zahlbar sind. Erforderlich für den
+Beginn des Verzugszinsenlaufs ist dementsprechend eine Mahnung. Die Klägerin
+beruft sich in diesem Zusammenhang subsidiär auf die Mahnung vom 13. Juni
+2019, nicht aber auf die in der Rechnung vom 3. Mai 2019 enthaltene Zahlungsfrist.
+Da die Mahnung vom 13. Juni 2019 keine Zahlungsfrist nennt, sondern darin
+mit der Wendung «[Überweisung] in den nächsten Tagen» zum Ausdruck gebracht
+wird, dass die Leistung ohne Säumnis verlangt wird, handelt es sich dabei nicht
+um eine sogenannte befristete Mahnung (vgl. dazu Weber/Emmenegger , a.a.O, Art. 102 OR N 76 ff . ). Folglich beginnt der Schuldnerverzug
+mit dem Zugang der Mahnung bei der Beklagten, wobei der Tag des Mahnungszugangs
+bei der Berechnung der Verzugsdauer nicht zu berücksichtigen ist (BGer 4A_58/2019
+vom 13. Januar 2020 E. 4.1, 5C.177/2005 vom 25. Februar 2006 E. 6.1; anderer
+Auffassung Weber/Emmenegger ,
+a.a.O, Art. 102 OR N 104, wonach der Verzug erst nach Ablauf einer
+angemessenen Reaktionszeit eintrete). Die Klägerin behauptet lediglich implizit,
+dass die Mahnung der Beklagten zugestellt wurde, äussert sich im Übrigen jedoch
+nicht zum Zustellungszeitpunkt bzw. zu den Umständen der Zustellung  etwa
+zur Frage, ob die Mahnung per A- oder B-Post zugestellt wurde. Es ist somit
+davon auszugehen, dass die Mahnung der Beklagten per B-Post am 15. Juni
+2019 zugestellt wurde, womit der Verzug am 16. Juni 2019 begann und der
+Verzugszins ab diesem Tag geschuldet ist. Daran ändert auch die zweite Mahnung
+vom 11. Juli 2019 nichts, da eine erneute Mahnung unter Fristansetzung
+nichts am eingetretenen Verzug ändert, soweit auf diese erneute Mahnung hin 
+wie vorliegend  keine Zahlung erfolgt (vgl. Vetter/Buff , Verzugszinsen bei «zahlbar innert 30 Tagen», in: SJZ
+115/2019, S. 152 mit weiteren Hinweisen).
+
+3.         Beseitigung
+des Rechtsvorschlags
+
+Die Klägerin
+beantragt mit ihrem zweiten Rechtsbegehren die Beseitigung des Rechtsvorschlags
+in der Betreibung Nr. [...], ohne dieses Rechtsbegehren zu beziffern. Es
+kann jedoch offengelassen werden, ob mit diesem Antrag lediglich die
+Beseitigung des Rechtsvorschlags im Umfang der in Rechtsbegehren 1 genannten
+Forderung oder auch im Umfang der weiteren im Zahlungsbefehl genannten Positionen
+«Verzugsschaden» und «Betreibungskosten» beantragt wird. Die Beseitigung des
+Rechtsvorschlags in Bezug auf den im Zahlungsbefehl genannten Verzugsschaden
+von CHF 369.40 ist ausgeschlossen, da die Klägerin diese Position in ihrer
+Klage nicht thematisiert. Für die im Zahlungsbefehl genannten und in der Klage
+ebenfalls nicht thematisierten Betreibungskosten wird praxisgemäss ohnehin keine
+Rechtsöffnung gewährt (vgl. etwa AGE BEZ.2017.18 vom 20. Juli 2017 E.
+4, BEZ.2016.34 vom 28. September 2016 E. 2.2). Folglich ist der
+Klägerin in der Betreibung Nr. [...] nur für die im vorliegenden Verfahren
+zugesprochene Forderung die definitive Rechtsöffnung zu erteilen.
+
+4.         Entscheid
+und Prozesskosten
+
+Aus diesen
+Erwägungen ergibt sich, dass die Klage gutzuheissen ist und die Beklagte
+verpflichtet wird, der Klägerin insgesamt CHF 2'102. nebst 5 % Zins
+seit dem 16. Juni 2019 zu bezahlen. Der Klägerin ist in diesem Umfang die
+definitive Rechtsöffnung in der Betreibung Nr. [...] zu gewähren.
+
+Die
+Prozesskosten werden der unterliegenden Partei auferlegt (Art. 106 Abs. 1 ZPO).
+Die Gerichtskosten des Appellationsgerichts als einziger kantonaler Instanz in
+Zivilsachen betragen das Ein- bis Anderthalbfache der erstinstanzlichen Ansätze
+(§ 11 Abs. 1 des Reglements über die Gerichtsgebühren [GGR,
+SG 154.810]). Bei einem Streitwert bis CHF 10'000. beträgt die
+erstinstanzliche Gerichtsgebühr zwischen CHF 200. und CHF 1000.
+(§ 5 Abs. 1 GGR). Ausgehend von einem Streitwert von CHF 2'102. und
+aufgrund des Zuschlags von 50 % gemäss § 11 Abs. 1 GGR sowie der Reduktion
+von einem Drittel wegen fehlender Klageantwort (vgl. § 16 Abs. 1
+lit. d GGR) werden die Gerichtskosten auf CHF 400. festgelegt.
+
+Die Klägerin
+beantragt die Zusprechung einer Umtriebsentschädigung in der Höhe von zwei
+Dritteln des Anwaltshonorars gemäss Honorarordnung des Kantons Basel-Stadt. Anwälte,
+die als Organe oder Angestellte einer Partei handeln, sind keine berufsmässigen
+Vertreter im Sinn von Art. 95 Abs. 3 lit. b ZPO ( Rüegg/Rüegg , in: Basler Kommentar,
+3. Auflage, 2017, Art. 95 ZPO N 18), weshalb sie grundsätzlich
+keine Parteientschädigung geltend machen können. Eine Umtriebsentschädigung
+gemäss Art. 95 Abs. 3 lit. c ZPO ist eine zu begründende Ausnahme hiervon. Wenn
+ein Anwalt als Organ oder als Angestellter (namentlich der Rechtsabteilung)
+eine juristische Person vertritt, ist grundsätzlich eine Umtriebsentschädigung
+gemäss Anwaltstarif, reduziert um einen Drittel, zuzusprechen ( Rüegg/Rüegg , a.a.O., Art. 95 ZPO
+N 22; Suter/von Holzen , in:
+Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung, 3. Auflage, Zürich, Art. 95 N 42). Dementsprechend wird
+der Klägerin eine Umtriebsentschädigung von CHF 400. zugesprochen (vgl. §
+5 in Verbindung mit § 8 Abs. 1 des Reglements über das Honorar und
+die Entschädigung der berufsmässigen Vertretung im Gerichtsverfahren [HoR, SG
+291.400]).
+
+Demgemäss erkennt das Appellationsgericht
+(Einzelgericht):
+
+://:        Die Beklagte wird verurteilt, der
+Klägerin CHF 2'102. nebst Zins zu 5 % seit dem 16. Juni 2019 zu
+bezahlen.
+
+Der Klägerin wird in der Betreibung Nr. [...] des
+Betreibungsamts Basel-Stadt, Zahlungsbefehl vom 23. April 2020, definitive
+Rechtsöffnung erteilt im Umfang von CHF 2'102. nebst Zins zu 5 %
+seit dem 16. Juni 2019.
+
+Die Beklagte trägt die Gerichtskosten von CHF 400.
+und bezahlt der Klägerin eine Umtriebsentschädigung von CHF 400..
+
+Mitteilung an:
+
+- Klägerin
+
+- Beklagte
+
+- Eidgenössisches Institut für Geistiges Eigentum
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+PD Dr. Benedikt Seiler
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Zivilsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
