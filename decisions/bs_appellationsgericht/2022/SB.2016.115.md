@@ -1,0 +1,351 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.225"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2016.115"
+docket_2: "AG.2022.225"
+decided: "2022-03-25"
+published: "2022-10-04"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73271&W10_KEY=3049147&nTrefferzeile=7&Template=search_result_document.html"
+cites_decisions: ["1B_486/2019", "1B_97/2017", "1F_8/2019", "6B_295/2019", "6B_296/2019", "BGE 129 III 444", "BGE 138 IV 197", "DG.2018.4", "ES.2016.537", "SB.2015.115", "SB.2016.115", "SB.2016.116", "SB.2016.155", "SB.2018.123"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# Ausstandsbegehren gegen verschiedene Mitglieder des Appellationgerichts (BGer 6B_667/2022)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+SB.2016.115
+
+ENTSCHEID
+
+vom 25.
+März 2022
+
+Mitwirkende
+
+lic. iur. Liselotte Henz,
+
+Dr. phil. und MLaw Jacqueline
+Frossard , Prof. Dr. Jonas Weber
+
+und Gerichtsschreiberin
+lic. iur. Barbara Noser Dussy
+
+Beteiligte
+
+A____ , geb. [...]                                                                     Gesuchsteller
+
+[...]
+
+Gegenstand
+
+Gesuch um nachträgliche
+Entschädigung gemäss Art. 429 StPO
+
+Ausstandsbegehren gegen verschiedene
+Mitglieder des Appellationgerichts
+
+Sachverhalt
+
+Mit Urteil des
+Einzelgerichts in Strafsachen vom 7. September 2016 wurde A____ (nachfolgend:
+Gesuchsteller) des Betrugs schuldig erklärt und kostenfällig zu einer bedingten
+Geldstrafe von 100 Tagessätzen zu Fr. 40. verurteilt.
+
+Am 8. September
+2016 meldete der Gesuchsteller Berufung gegen dieses Urteil an. Mit Schreiben
+vom 21. Oktober 2016 teilte Advokat [...] dem Strafgericht mit, dass er die
+Vertretung des  bis dahin nicht anwaltlich vertretenen  Gesuchstellers
+übernommen habe, und ersuchte um Einsicht in die Verfahrensakten. In der Folge
+wurden dem Anwalt am 26. Oktober 2016 eine Akten-CD und am 3. November 2016 das
+schriftlich begründete Urteil zugestellt. Am 21. November 2016 reichte er die
+Berufungserklärung ein, mit der er einen vollumfänglichen kostenlosen Freispruch
+des Gesuchstellers beantragte. Mit Eingabe vom 25. Januar 2017 teilte Advokat [...]
+dem Gericht mit, dass mit dem Gesuchsteller kein Mandatsverhältnis mehr
+bestehe. Mit Verfügung vom 26. Januar 2017 nahm das Gericht von der Beendigung
+des Mandatsverhältnisses Kenntnis. In der Folge übernahm der Gesuchsteller
+seine Verteidigung selbst und gelangte mit zahlreichen Eingaben an das
+Appellationsgericht.
+
+In der
+Berufungsverhandlung vom 31. Oktober 2018 wurde der Gesuchsteller von der
+Anklage des Betrugs freigesprochen. Entsprechend dem Ausgang des Verfahrens wurden
+die Verfahrenskosten gemäss Art. 428 Abs. 1 StPO auf die Staatskasse genommen.
+
+Gegen das Urteil
+des Appellationsgerichts erhob der Gesuchsteller am 25. Februrar 2019
+Beschwerde ans Bundesgericht. Dieses trat mit Entscheid 6B_296/2019 vom 11.
+April 2019 mangels eines rechtlich geschützten Interesses des freigesprochenen
+und nicht mit Kosten beschwerten Gesuchstellers nicht auf die Beschwerde ein.
+
+Auf Gesuch vom
+13. August 2019 hin stellte das Appellationsgericht dem Gesuchsteller am 29.
+August 2019 eine Akten-CD zu. In der Folge erhob dieser den Vorwurf, dass die
+Akten auf der CD nicht vollständig seien, und beantragte physische
+Akteneinsicht. Eine solche wurde von der Verfahrensleiterin mit Verfügung vom
+14. September 2019 nicht bewilligt. Auf eine hiergegen erhobene Beschwerde trat
+das Bundesgericht mit Entscheid 1B_486/2019 vom 7. November 2019 nicht ein.
+
+Nach diversen
+weiteren Akteneinsichtsgesuchen wurde dem Gesuchsteller mit Verfügung der
+Verfahrensleiterin vom 2. Januar 2020 «ein letztes Mal» für vier Stunden
+Einsicht in die Papierakten gewährt (Akten S. 1146). Am 13. Februar 2020 nahm
+der Gesuchsteller auf der Gerichtskanzlei Einsicht in die Papierakten.
+
+Mit Eingabe vom
+24. Oktober 2021 gelangte der Gesuchsteller mit einem Gesuch um «Ausgleich unseren
+Verfahrenskosten bei SB.2016.115, Anwaltskosten [] sowie alle andere Kosten
+von dem Anfang des Verfahrens August 2014 bis zu instrumentalisierten
+Hauptverhandlung vom 31.10.2018» an die Verfahrensleiterin. Als Beilage reichte
+er eine Honorarrechnung von Advokat [...] vom 27. Februar 2017 ein.
+
+Am 17. November
+2021 verfügte die Verfahrensleiterin, dass über die nachträglich eingereichte
+Honorarnote durch das Dreiergericht im Verfahren SB.2016.115 entschieden werde.
+
+Mit Eingabe vom
+21. November 2021 stellte der Gesuchsteller ein Ausstandsgesuch gegen die Präsidentin
+[...], den Präsidenten [...], die Richterin [...], den Richter [...] und den
+Gerichtsschreiber [...] (Akten S. 1176).
+
+Der vorliegende
+Entscheid ist auf dem Zirkulationsweg ergangen. Die Einzelheiten der Vorbringen
+des Gesuchstellers ergeben sich, soweit sie für den vorliegenden Entscheid von Bedeutung
+sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Beim
+Entschädigungsbegehren des Gesuchstellers handelt es sich um Forderungen im Zusammenhang
+mit dem Berufungsurteil des Appellationsgerichts SB.2016.115 vom 31. Oktober
+2017. In der Sache geht es um Entschädigungsforderungen gemäss Art. 429 der
+Strafprozessordnung (StPO, SR 312.0). Zu deren Beurteilung ist der Spruchkörper
+des Gerichts zuständig, welches das materielle Urteil gefällt hat.
+
+1.2 Das
+Ausstandsbegehren richtet sich gegen die Mitglieder dieses Spruchkörpers sowie
+gegen den Appellationsgerichtspräsidenten [...]. Über Ausstandsgesuche gegen
+einzelne Mitglieder des Berufungsgerichts entscheidet das Gerichtsgremium,
+welches in der konkreten Berufungssache zuständig ist, wobei im Normalfall diejenigen
+Gerichtsmitglieder, gegen die sich das Ausstandsgesuch richtet, durch andere
+Gerichtsmitglieder zu ersetzen sind (Art. 59 Abs. 1 lit. c StPO i.V.m. § 56
+Abs. 4 Ziff. 2 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Gemäss
+ständiger bundesgerichtlicher Praxis können indessen offensichtlich
+unbegründete, missbräuchliche oder querulatorische Ausstandsgesuche von der
+betroffenen Instanz selbst und ohne Ausstand der vom Gesuch betroffenen
+Gerichtsmitglieder abgewiesen werden, soweit überhaupt auf sie einzutreten ist
+(BGE 129 III 444 E. 4.2.2; BGer 1B_486/2019 vom 7. November 2019 E. 1,
+1B_97/2017 vom 7. Juni 2017 E. 4.3; AGE SB.2018.123 vom 30. April 2021 E. 1; Boog , in: Basler Kommentar StPO, 2.
+Auflage 2014, Art. 59 N 6). Dies ist vorliegend der Fall (vgl. unten E. 2.1),
+so dass der vorliegende Entscheid über das Ausstandsgesuch vom in der
+Berufungssache zuständigen Spruchkörper ohne Ausstand der abgelehnten
+Gerichtsmitglieder gefällt werden kann. Lediglich der damalige
+Gerichtsschreiber, welcher nicht mehr am Appellationsgericht tätig ist, ist
+ersetzt worden. [...] war nicht Mitglied dieses Spruchkörpers, weshalb er auch
+am vorliegenden Entscheid nicht mitwirkt.
+
+2.
+
+2.1 Will
+eine Partei den Ausstand einer in einer Strafbehörde tätigen Person verlangen,
+hat sie die den Ausstand begründenden Tatsachen glaubhaft zu machen (Art. 58
+Abs. 1 StPO). In der Eingabe des Gesuchstellers vom 21. November 2021 finden
+sich keine konkreten Ausführungen dazu, weshalb die abgelehnten
+Gerichtsmitglieder in Bezug auf die zu beurteilende Entschädigungsforderung
+befangen sein sollen. Soweit verständlich, macht der Gesuchsteller in
+allgemeiner Weise einzig geltend, dass die abgelehnten Gerichtsmitglieder mit
+anderen Vertreterinnen und Vertretern der Basler Justiz einen «Filz» bildeten,
+welche ihre Entscheide gegenseitig stützten und daher befangen seien. Dieser
+pauschale Vorwurf wird objektiv durch nichts gestützt. Derartige Vorwürfe
+werden vom Gesuchsteller regelmässig gegen mit seinen Angelegenheiten befasste
+Richterinnen und Richter auf sämtlichen Stufen der Rechtsprechung (Strafgericht,
+Appellationsgericht, Bundesgericht) erhoben (vgl. AGE DG.2018.4 [ebenfalls
+gegen die Verfahrensleiterin im Verfahren SB.2016.115]; BGer 1F_8/2019 vom 14.
+März 2019 E. 2). Es ist jedoch mit aller Deutlichkeit darauf hinzuweisen, dass
+ein kollegiales Arbeitsverhältnis zwischen Richtenden gleicher oder
+verschiedener Instanzen für sich allein keinen objektiven Anschein von
+Befangenheit zu begründen vermag. Andernfalls würde Art. 59 Abs. 1 lit. c StPO
+nicht die Zuständigkeit zur Beurteilung von Ausstandsgesuchen gegen einzelne
+Mitglieder des Berufungsgerichts dem Berufungsgericht übertragen. Vielmehr muss
+die Befangenheit im Einzelfall durch besondere Umstände begründet sein. Solche
+werden vom Gesuchsteller nicht nachvollziehbar geltend gemacht und sind auch in
+keiner Weise ersichtlich. Im Gegenteil: Im vorliegenden Fall SB.2015.115 hat
+der Spruchkörper des Sachurteils den Gesuchsteller in Aufhebung des
+vorinstanzlichen Urteils von der Anklage des Betrugs freigesprochen, womit es
+klar seine Unabhängigkeit von der Vorinstanz und seine Unvoreingenommenheit
+demonstriert hat. Auch Verfahrensfehler der Verfahrensleiterin [...] sind nicht
+erkennbar. Sämtliche Beschwerden, die der Gesuchsteller wegen angeblicher
+Verfahrensfehler ans Bundesgericht erhoben hat, waren erfolglos (BGer 1F_8/2019
+vom 14. März 2019, 6B_295/2019 vom 22. April 2019, 1B_486/2019 vom 7. November
+2019).
+
+2.2 Nach
+dem Gesagten sind die im vorliegenden Verfahren erhobenen Ausstandsgesuche
+offensichtlich unbegründet. Sie sind daher abzuweisen, soweit überhaupt darauf
+eingetreten werden kann. Dem Ausgang des Ausstandsverfahrens entsprechend hat
+der Gesuchsteller dessen Kosten mit einer Gebühr von CHF 500. zu tragen (Art.
+59 Abs. 4 StPO, § 21 Abs. 2 des Gerichtsgebührenreglements [SG, 154.810]).
+
+3.
+
+3.1 Der
+Gesuchsteller hat mit Eingabe vom 24. Oktober 2021  neben weitschweifigen
+Ausführungen zu anderen Verfahren und unangemessenen, beleidigenden Äusserungen
+gegen Gerichtsmitarbeitende  verschiedene Forderungen im Verfahren SB.2016.115
+geltend gemacht.
+
+3.2 Mit
+Urteil vom 31. Oktober 2017 wurde der Gesuchsteller  wie bereits ausgeführt  von
+der Anklage des Betrugs kostenlos freigesprochen. Gemäss Art. 429 Abs. 1
+StPO hat eine beschuldigte Person im Fall eines Freispruchs oder einer
+Verfahrenseinstellung u.a. Anspruch auf Entschädigung ihrer Aufwendungen für
+die angemessene Ausübung ihrer Verfahrensrechte (lit. a). Damit ist namentlich
+die Entschädigung der Kosten einer Wahlverteidigung gemeint. Voraussetzung ist,
+dass die beschuldigte Person aufgrund der Schwere des Tatvorwurfs und des Grades
+der Komplexität des Sachverhalts sowie nach den persönlichen Verhältnissen
+objektiv begründeten Anlass hatte, eine Verteidigung beizuziehen ( Wehrenberg/Frank , in: Basler Kommentar
+StPO,2. Auflage 2014, Art. 429 E. 13, mit Verweis auf Botschaft 2005c, 1329,
+Art. 437; BGE 138 IV 197 E. 2.3.1). Ein begründeter Anlass liegt nicht nur
+im Fall einer notwendigen Verteidigung im Sinne von Art. 130 StPO vor. Der
+Beizug einer Wahlverteidigung kann sich auch als angemessene Ausübung der
+Verfahrensrechte erweisen, wenn sie nicht geradezu als geboten erscheint. Nur
+in Ausnahmefällen wird bei Verbrechen und Vergehen der Beizug eines Anwalts als
+nicht angemessene Ausübung der Verfahrensrechte bezeichnet werden können, so
+z.B. wenn das Verfahren bereits nach einer ersten Einvernahme eingestellt wird
+(BGE 138 IV 197 E. 2.3.5). Im vorliegenden Fall war der Gesuchsteller
+erstinstanzlich des Betrugs  eines Verbrechens (Art. 146 i.V.m. Art. 10 Abs. 2
+des Strafgesetzbuches [StGB, SR 311.0])  schuldig erklärt und zu einer
+(bedingten) Geldstrafe von 100 Tagessätzen zu CHF 40. verurteilt worden.
+Zudem waren der Sachverhalt von einer gewissen Komplexität. Der Gesuchsteller
+hatte daher durchaus Anlass, für das Berufungsverfahren eine Verteidigung
+beizuziehen.
+
+3.3 Der
+vom Verteidiger dem Berufungskläger mit Rechnung Nr. 751 vom 27. Februar
+2017 in Sachen «Strafverfahren» für seine Bemühungen vom 21. Oktober 2016 bis
+zur Beendigung des Mandats am 25. Januar 2017 in Rechnung gestellte
+Aufwand erscheint angemessen, so dass der Betrag von 1'031.70 dem Gesuchsteller
+zu erstatten ist.
+
+Zwar hat der
+Gesuchsteller als Ersatz von Verteidigungskosten lediglich CHF 1'031.70
+verlangt (vgl. Eingabe vom 14. Oktober 2021 S. 2), doch hat er neben der
+Rechnung Nr. 751 noch eine zweite Rechnung von Anwalt [...], die Rechnung Nr.
+752 «in Sachen Strafverfahren Geschädigter», ebenfalls vom 27. Februar 2017, für
+Bemühungen vom 19. Oktober 2016 bis 18. Januar 2017, eingereicht. Da das
+Betrugsverfahren ES.2016.537 das einzige Verfahren des Gesuchstellers am
+Strafgericht war, ist davon auszugehen, dass auch die Rechnung Nr. 752 dieses
+Verfahren und somit das Berufungsverfahren SB.2016.116 betrifft. Auch diese
+Vertretungskosten im Betrag von CHF 724.50 sind dem Gesuchsteller daher
+zurückzuerstatten.
+
+Dem
+Gesuchsteller ist somit der von ihm seinem Verteidiger für die Vertretung im
+Verfahren SB.2016.115 bezahlte Betrag von insgesamt CHF 1'756.20 aus der
+Gerichtskasse zurückzuerstatten.
+
+3.4 Im
+Weiteren beantragt der Gesuchsteller die Rückerstattung von anlässlich der
+Akteneinsicht erhobenen Gebühren für Kopien. Derartige Gebühren sind
+Verfahrenskosten gemäss Art. 422 StPO. Aufgrund des kostenlosen Freispruchs des
+Gesuchstellers sind auch die von diesem bezahlten Kopiergebühren
+zurückzuerstatten. Allerdings obliegt es gemäss Art. 429 Abs. 2 Satz 2 StPO der
+freigesprochenen Partei, ihre Forderungen zu substantiieren. Dies hat der
+Gesuchsteller lediglich in Bezug auf Kopiaturkosten vom 3. Februar 2017 im
+Betrag von CHF 24. getan. Es ist nicht die Aufgabe des Gerichts, die Akten von
+Amtes wegen nach weiteren Auslagen des Gesuchstellers zu durchforsten. Da der
+Gesuchsteller verschiedene Male Akteneinsicht genommen hat, ist indessen davon
+auszugehen, dass er auch noch weitere Auslagen für Aktenkopien hatte.
+Entgegenkommenderweise ist ihm daher der Betrag von CHF 50. als
+Pauschalentschädigung von Auslagen für Aktenkopien zu erstatten.
+
+Was den Vorwurf
+des Gesuchstellers an die Mitarbeitenden des Appellationsgerichts betrifft, sie
+hätten ihm für die Akteneinsicht am 3. Februar 2017 zu hohe Gebühren in
+Rechnung gestellt, ist auf Folgendes hinzuweisen: Das Gebührenreglement der
+Gerichte (SG 154.810), auf das er sich beruft, ist erst seit dem 1. Januar 2018
+in Kraft. Zuvor war die Verordnung über die Gerichtsgebühren (in der Fassung
+vom 21. Dezember 2010) anwendbar, nach deren § 8 Abs. 1 Ziff. 12 für
+Kopien CHF 2. zu berechnen waren. Entgegen der Behauptung des Gesuchstellers
+war es daher keineswegs unzulässig, wenn im Februar 2017 für die Erstellung von
+Kopien CHF 2. pro Seite verlangt wurden.
+
+3.5 Schliesslich
+verlangt der Gesuchsteller «einen moralischen Betrag für unsere Ausgaben
+während dieses Verfahrens». Gemeint ist damit wohl eine Genugtuung i.S.v. Art.
+429 Abs. 1 lit. c StPO. Eine derartige Genugtuung setzt jedoch eine besonders
+schwere Verletzung der persönlichen Verhältnisse voraus, beispielsweise eine
+ungerechtfertigte Untersuchungshaft, eine publik gewordene Hausdurchsuchung oder
+eine breite Darlegung des Falls in den Medien. Demgegenüber genügen die mit
+jedem Strafverfahren einhergehenden psychischen Belastungen nicht, um einen
+Genugtuungsanspruch zu begründen. Die betroffene Person hat  ausser beim
+ungerechtfertigten Freiheitsentzug  die Schwere der Verletzung glaubhaft zu
+machen ( Wehrenberg/Frank , a.a.O.,
+Art. 429 N 27c). Der Gesuchsteller befand sich im vorliegenden Verfahren
+nie in Haft. Der Betrugsvorwurf gegen ihn wurde nie unter Bekanntgabe seines Namens
+in den Medien publiziert und es kam durch das Strafverfahren auch nicht zu
+schweren Beeinträchtigungen des beruflichen oder politischen Ansehens des
+Gesuchstellers. Ein Anspruch auf Genugtuung gemäss Art. 429 Abs. 1
+lit. c StPO besteht daher nicht.
+
+3.6 Da
+der Gesuchsteller mit seinem Entschädigungsgesuch weitgehend durchdringt, sind
+für das diesbezügliche Verfahren keine Kosten zu erheben.
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Das Ausstandsgesuch wird abgewiesen,
+soweit darauf einzutreten ist.
+
+In teilweiser Gutheissung des Entschädigungsgesuchs
+werden dem Gesuchsteller die von ihm im Verfahren SB.2016.155 bezahlten
+Anwaltskosten von CHF 1'756.20 sowie eine Entschädigung von Kopiaturkosten von
+pauschal CHF 50. aus der Gerichtskasse zugesprochen.
+
+Der Gesuchsteller trägt die Kosten des
+Ausstandsverfahrens von CHF 500.. Diese werden mit seinem
+Entschädigungsanspruch verrechnet, so dass ihm noch CHF 1'306.20 auszubezahlen
+sind.
+
+Für das Entschädigungsgesuch werden keine Kosten
+erhoben.
+
+Mitteilung an:
+
+- Gesuchsteller
+
+- Abgelehnte Gerichtsmitglieder [...], [...], [...], [...]
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               lic. iur. Barbara
+Noser Dussy
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
