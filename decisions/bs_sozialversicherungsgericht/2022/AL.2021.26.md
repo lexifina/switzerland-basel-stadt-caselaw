@@ -1,0 +1,559 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.136"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2021.26"
+docket_2: "SVG.2022.136"
+decided: "2022-05-12"
+published: "2022-07-02"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73611&W10_KEY=3049211&nTrefferzeile=58&Template=search_result_document.html"
+cites_decisions: ["8C_148/2019", "8C_265/2014", "8C_496/2019", "8C_565/2016", "8C_654/2015", "8C_86/2017", "9C_469/2021", "AL.2021.26", "BGE 121 V 367", "BGE 122 V 367", "BGE 123 V 230", "BGE 125 V 475", "BGE 128 V 20"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/831.10/art-005.md", "switzerland/bund/acts/831.101/art-007.md", "switzerland/bund/acts/837.0/art-021.md", "switzerland/bund/acts/837.0/art-022.md", "switzerland/bund/acts/837.0/art-023.md", "switzerland/bund/acts/837.0/art-024.md", "switzerland/bund/acts/837.0/art-095.md", "switzerland/bund/acts/837.0/art-100.md", "switzerland/bund/acts/837.02/art-023.md", "switzerland/bund/acts/837.02/art-037.md", "switzerland/bund/acts/837.02/art-040a.md"]
+---
+
+# Steigerung einer Nebenerwerbstätigkeit/Zwischenverdienst (Bundesgerichtsurteil 8C_504/2022 vom 23.12.2022)
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 12. Mai 2022
+
+Mitwirkende
+
+Dr. A. Pfleiderer (Vorsitz), Dr. med.
+W. Rühl, P. Kaderli
+
+und
+Gerichtsschreiberin lic. iur. S. Dreyer
+
+Parteien
+
+A ____
+
+[...]
+
+Beschwerdeführer
+
+Öffentliche Arbeitslosenkasse
+
+Basel-Stadt, Hochstrasse 37,
+Postfach 3759, 4002 Basel
+
+vertreten durch Amt für
+Wirtschaft und Arbeit,
+
+Herrn lic. iur. B____,
+
+Hochstrasse 37, Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2021.26
+
+Einspracheentscheid vom 21. Juni
+2021
+
+Steigerung einer
+Nebenerwerbstätigkeit/Zwischenverdienst
+
+Tatsachen
+
+I.
+
+a)        A____ (Beschwerdeführer), geboren 1964, war bis Ende
+Februar 2018 b ei der Volkswirtschaftsdirektion
+des Kantons [...] angestellt. Von 2006 bis Januar 2021 war er Mitglied des
+C____ des Kantons [...] (vgl. den
+Lebenslauf; Antwortbeilage [AB] 1).
+
+b)        Im Februar 2018 meldete sich der Beschwerdeführer zum
+Bezug von Arbeitslosenentschädigung (ALE) ab 1. März 2018 an (vgl. AB 2). Die
+Öffentliche Arbeitslosenkasse Basel-Stadt (ÖAK) richtete ihm in der Folge vom
+1. März 2018 bis zum 15. September 2019 Taggelder aus (vgl. die
+Abrechnungen; AB 5). Im Rahmen der Bemessung des Taggeldes hatte die ÖAK
+auf die Angaben des Beschwerdeführers abgestellt. Dieser hatte im Rahmen der
+Anmeldung angegeben, er erziele gegenwärtig kein Einkommen (vgl. AB 2). Im monatlich
+einzureichenden Formular ("Angaben der versicherten Person") hatte er
+jeweils vermerkt, er sei keiner Arbeit nachgegangen (vgl. AB 4).
+
+c)         Aufgrund der
+nachträglichen Überprüfung der Akten im Rahmen des Bundesgesetzes vom 17. Juni
+2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA; SR 822.41), erkannte
+die ÖAK, dass der Beschwerdeführer in der Rahmenfrist für die Beitragszeit (1.
+März 2016 bis 28. Februar 2018) nebst seiner Tätigkeit bei der
+Volkswirtschaftsdirektion des Kantons [...] vom Kanton [...] weitere
+Entschädigungen erhalten hatte. Sie forderte in der Folge zur näheren
+Sachverhaltsprüfung von der Ausgleichskasse [...] den Auszug aus dem
+Individuellen Konto (IK) des Beschwerdeführers an (vgl. das Schreiben vom 26. November
+2020 [AB 6] resp. den IK-Auszug [AB 7]). Mit Schreiben vom 28. Januar 2021 ("Stellungnahme")
+ersuchte die ÖAK den Beschwerdeführer um Einreichung einer detaillierten Aufstellung
+der Stunden, die er im Zeitraum von März 2018 bis September 2019 an Sitzungen
+des C____ des Kantons [...] teilgenommen habe (vgl. AB 9). Mit Schreiben
+vom 1. März 2021 machte der Beschwerdeführer geltend, die Entschädigung für die
+Tätigkeit im C____ stelle keinen anrechenbaren Zwischenverdienst dar (vgl. AB 11).
+
+d)        In der Folge berechnete die ÖAK den Taggeldanspruch
+des Beschwerdeführers gestützt auf die ihr zur Verfügung stehenden Akten neu
+(vgl. insb. AB 12). Gestützt auf diese Neuberechnung forderte sie vom
+Beschwerdeführer mit Verfügung 8. März 2021 (AB 13) in der Zeit von März
+2018 bis September 2019 zu Unrecht bezogene Taggelder in der Höhe von insgesamt
+Fr. 4'967.80 zurück. Einer allfälligen Einsprache wurde die aufschiebende
+Wirkung entzogen (vgl. auch die monatlichen Rückforderungen sowie die
+Zusammenfassung der Rückforderung; AB 13). Hiergegen erhob der Beschwerdeführer
+am 5. April 2021 Einsprache (vgl. AB 14), welche von der ÖAK mit
+Einspracheentscheid vom 21. Juni 2021 grundsätzlich bestätigt wurde; allerdings
+wurde der Rückforderungsbetrag auf Fr. 4'673.45 reduziert (vgl. AB 15).
+
+II.
+
+a)        Hiergegen hat der Beschwerdeführer am 22. August 2021
+Beschwerde beim Sozialversicherungsgericht Basel-Stadt erhoben. Er beantragt,
+es sei die Rückforderungsverfügung resp. der diese bestätigende
+Einspracheentscheid aufzuheben. Es sei die aufschiebende Wirkung zu gewähren.
+Unter o/e-Kostenfolge.
+
+b)        Die ÖAK (Beschwerdegegnerin) schliesst mit
+Beschwerdeantwort vom 12. November 2021 auf Abweisung der Beschwerde.
+
+c)         Der Beschwerdeführer hält mit Replik vom 1. Februar
+2022 an seiner Beschwerde fest.
+
+d)        Die Beschwerdegegnerin beantragt in ihrer Duplik vom
+6. April 2022 weiterhin die Abweisung der Beschwerde.
+
+III.
+
+Am 12. Mai 2022 findet die Beratung der Sache durch die Kammer
+des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. 1.1.1.  Gemäss
+Art. 1 Abs. 1 des Bundesgesetzes vom 25. Juni 1982 über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG; SR 837.0)
+in Verbindung mit den Art. 56 und 57 des Bundesgesetzes vom 6.
+Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts
+(ATSG; SR 830.1) kann gegen Einspracheentscheide aus dem Bereich der
+Arbeitslosenversicherung Beschwerde beim kantonalen Versicherungsgericht erhoben
+werden.
+
+1.2. 1.2.1.  Örtlich
+zuständig für die Beurteilung von Beschwerden gegen Einspracheentscheide der
+ÖAK ist gemäss Art. 100 Abs. 3 AVIG in Verbindung mit Art. 128 Abs. 1 und
+Art. 119 Abs. 1 lit. a der Verordnung vom 31. August 1983 über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung (AVIV; SR 837.02) das
+Versicherungsgericht desjenigen Kantons, in welchem die versicherte Person die
+Kontrollpflicht erfüllt. Dies ist vorliegend im Kanton Basel-Stadt. Damit ist
+das angerufene Gericht zur Behandlung der vorliegenden Beschwerde örtlich
+zuständig.
+
+1.2.2.  Gestützt auf § 82 des Gesetzes vom 3. Juni 2015
+betreffend die Organisation der Gerichte und der Staatsanwaltschaft (GOG; SG
+154.100) und § 1 Abs. 1 des Gesetzes vom 9. Mai 2001 über das
+Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht
+in Sozialversicherungssachen (SVGG; SG 154.200) entscheidet das
+Sozialversicherungsgericht als einzige kantonale Instanz über alle sich aus
+Bundesrecht oder kantonalem Recht ergebenden sozialversicherungsrechtlichen
+Streitigkeiten. Dieses ist somit auch sachlich zur Behandlung der vorliegenden
+Beschwerde zuständig.
+
+1.3. Da
+die Beschwerde rechtzeitig innert der 30-tägigen Frist nach Eröffnung des
+Einspracheentscheides erhoben worden ist (Art. 60 ATSG) und auch die übrigen
+formellen Beschwerdevoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin macht im Wesentlichen geltend, der
+Beschwerdeführer habe zu Unrecht während des Bezuges der ALE die Einkünfte aus
+dem Grossratsmandat nicht deklariert. Diese  in einem gewissen Umfang als
+Zwischenverdienst zu qualifizierenden  Einnahmen seien daher im Rahmen der
+Taggeldbemessung fälschlicherweise nicht angerechnet worden, was zu hohe
+Taggeldzahlungen ausgelöst habe (vgl. insb. den Einspracheentscheid; siehe auch
+die Beschwerdeantwort).
+
+2.2. Der Beschwerdeführer wendet hiergegen zur Hauptsache ein, es handle
+sich bei den Einkünften aus dem C____mandat um einen sog. Nebenverdienst, der
+im Rahmen der Taggeldberechnung ausser Acht zu lassen sei. Auch gelte es zu
+beachten, dass es sich um eine ideelle Tätigkeit gehandelt habe; er habe das
+politische Amt nicht zu Erwerbszwecken ausgeübt. Im Übrigen spreche für einen
+Nebenverdienst auch die Tatsache, dass er das Amt neben einem 100%-Job
+verrichtet habe; er habe es folglich in seiner Freizeit ausgeübt (vgl. S. 4 ff.
+der Beschwerde; siehe auch S. 2 f. der Replik). Schliesslich gelte es zu berücksichtigen,
+dass er seine C____tätigkeit nicht ausgeweitet habe; es habe lediglich die
+Entschädigung variiert (vgl. S. 3 der Replik).
+
+2.3. Zu prüfen ist daher im Folgenden, ob die Beschwerdegegnerin vom
+Beschwerdeführer korrekterweise mit Einspracheentscheid vom 21. Juni 2021 unrechtmässig
+bezogene Taggelder der Arbeitslosenversicherung in der Höhe von Fr. 4'673.45
+zurückfordert.
+
+3.
+
+3.1. 3.1.1.  Die Arbeitslosenentschädigung wird als Taggeld ausgerichtet.
+Für eine Woche werden fünf Taggelder ausbezahlt (Art. 21 AVIG). Ein volles
+Taggeld beträgt 80 % des versicherten Verdienstes (Art. 22 Abs. 1 Satz 1 AVIG).
+Als versicherter Verdienst gilt der im Sinne der AHV-Gesetzgebung massgebende
+Lohn, der während eines Bemessungszeitraumes aus einem oder mehreren Arbeitsverhältnissen
+normalerweise erzielt wurde; eingeschlossen sind die vertraglich vereinbarten
+regelmässigen Zulagen, soweit sie nicht Entschädigung für arbeitsbedingte
+Inkonvenienzen darstellen (Art. 23 Abs. 1 Satz 1 AVIG).
+
+3.1.2.  Gemäss Art. 37 AVIV bemisst sich der versicherte
+Verdienst nach dem Durchschnittslohn der letzten sechs Beitragsmonate (Art. 11)
+vor Beginn der Rahmenfrist für den Leistungsbezug (Abs. 1). Er bemisst sich
+nach dem Durchschnittslohn der letzten zwölf Beitragsmonate vor Beginn der
+Rahmenfrist für den Leistungsbezug, wenn dieser Durchschnittslohn höher ist als
+derjenige nach Abs. 1 (Abs. 2). Gemäss Art. 40a AVIV wird der Tagesverdienst
+ermittelt, indem der Monatsverdienst durch 21.7 geteilt wird.
+
+3.2. 3.2.1.  Der Versicherte hat Anspruch auf Ersatz des
+Verdienstausfalls (Art. 24 Abs. 1 Satz 2 AVIG). Als Verdienstausfall gilt die
+Differenz zwischen dem in der Kontrollperiode erzielten Zwischenverdienst,
+mindestens aber dem berufs- und ortsüblichen Ansatz für die betreffende Arbeit,
+und dem versicherten Verdienst ( Art. 24 Abs. 3 Satz 1 AVIG ).
+Als Zwischenverdienst gilt jedes Einkommen aus unselbstständiger oder
+selbstständiger Erwerbstätigkeit, das der Arbeitslose innerhalb einer Kontrollperiode
+erzielt ( Art. 24 Abs. 1 Satz 1 AVIG )
+und das geringer ist als die ihr zustehende ALE (AVIG-Praxis ALE, Ziffer C123).
+
+3.2.2.  Der Berechnung des Zwischenverdienstes ist
+grundsätzlich der gesamte während einer Kontrollperiode erzielte Verdienst zu
+Grunde zu legen. Dazu gehören der Grundlohn, die Feiertagsentschädigung und
+andere Lohnbestandteile, auf welche die versicherte Person einen Anspruch hat,
+wie z.B. 13. Monatslohn, Gratifikation, Provisionen, Orts- und
+Teuerungszulagen, Nacht-, Schicht-, Sonntags- und Pikettzulagen, wenn die
+versicherte Person aufgrund ihrer Tätigkeit solche Zulagen normalerweise erhält.
+Eine zusätzlich zum Grundlohn ausgerichtete Ferienentschädigung wird erst im
+Zeitpunkt des effektiven Ferienbezugs als Zwischenverdienst angerechnet (AVIG-Praxis
+ALE, Ziffer C125).
+
+3.2.3.  Das Einkommen aus Zwischenverdienst wird in jener Kontrollperiode
+angerechnet, in welcher die Arbeitsleistung erbracht worden ist
+(Entstehungsprinzip). Unerheblich ist somit, zu welchem Zeitpunkt die
+versicherte Person die Forderung realisiert (BGE 122 V 367, 372 E. 5c;
+AVIG-Praxis ALE, Ziffer C133).
+
+3.3. 3.3.1.  Ein Nebenverdienst bleibt bei der Anrechnung eines
+Zwischenverdienstes grundsätzlich unberücksichtigt (Art. 24 Abs. 3 Satz 1
+AVIG). Ein Nebenverdienst ist jeder Verdienst, den ein Versicherter ausserhalb
+seiner normalen Arbeitszeit als Arbeitnehmer oder ausserhalb des ordentlichen
+Rahmens seiner selbstständigen Erwerbstätigkeit erzielt (Art. 23 Abs. 3 Satz 2 AVIG).
+Massgebend ist das Total der zu leistenden Wochenarbeitsstunden in der
+Haupttätigkeit und nicht der genaue Zeitpunkt, wann die Arbeitsstunden zu
+absolvieren sind. Unter Nebenverdienst im Sinne von Art. 23 Abs. 3 AVIG ist in
+erster Linie jene Tätigkeit zu verstehen, die eine Person über eine
+Vollzeitstelle hinausgehend (zusätzlich) ausübt. Verrichtet jemand neben einer
+Vollzeitbeschäftigung eine weitere Tätigkeit, gilt diese zweite als Nebenerwerb
+(vgl. das Urteil des Bundesgerichts 8C_654/2015 vom 14. Dezember 2015 E. 5.2.).
+
+3.3.2.  Eine Steigerung des Nebenverdienstes kann zur Annahme von
+Zwischenverdienst führen (vgl. u.a. die Urteile des Bundesgerichts 8C_148/2019
+vom 4. Juli 2019 E. 3.3.1., 8C_565/2016 vom 26. Oktober 2016 E. 2.
+und 8C_265/2014 vom 27. August 2014 E. 2; zum Verhältnis von Zwischen- und
+Nebenverdienst: BGE 125 V 475, 477 ff.). Wird das Pensum der bisherigen
+Nebentätigkeit nach Eintritt der Arbeitslosigkeit erhöht, stellt der
+dementsprechend angestiegene Lohn einen Zwischenverdienst dar, während die
+Beibehaltung des gleichen, bereits vor der Arbeitslosigkeit ausgeübten Pensums
+auf einen Nebenverdienst hinweist (BGE 123 V 230, 233 E. 3d; Urteil des
+Bundesgerichts C 186/00 vom 28. Februar 2001 E. 2.c; siehe implizit auch das Urteil
+des Bundesgerichts 8C_496/2019 vom 30. September 2019 E. 3.). F ür die Beurteilung der Frage, ob ein
+Zwischenverdienst erzielt wird, oder ob es lediglich um die Fortführung der
+bisherigen (selbstständigen) Nebenerwerbstätigkeit gehe, ist auf die Höhe der
+erwirtschafteten Einkünfte und nicht auf die zeitliche Inanspruchnahme
+abzustellen (vgl. das Urteil des EVG C 149/02
+vom 27. Januar 2003 E. 4.).
+
+3.4. 3.4.1.  Gemäss Art. 23 AVIV übermittelt die versicherte Person die
+Kontrolldaten mit dem Formular "Angaben der versicherten Person"
+(Abs. 1). Diese Daten geben Auskunft über sämtliche Tatsachen, die für die
+Beurteilung der Anspruchsberechtigung erheblich sind, unter anderem über einen
+Zwischenverdienst (Abs. 2 lit. b).
+
+3.4.2.  Praxisgemäss sind auch Nebenverdienste (Art. 23 Abs. 3
+AVIG), die nicht versichert sind und bei der Berechnung des Zwischenverdienstes
+unberücksichtigt bleiben (Art. 24 Abs. 3 AVIG), zu melden, da ihre rechtliche
+Qualifikation der Verwaltung obliegt (vgl. u.a. die Urteile des Bundesgerichts 8C_86/2017
+vom 19. Mai 2017 E. 2.1. und 8C_565/2016 vom 26. Oktober 2016 E. 3.1 mit
+Hinweis).
+
+4.
+
+4.1. Nach Art. 95 Abs. 1 AVIG in
+Verbindung mit Art. 25 Abs. 1 Satz 1 ATSG sind unrechtmässig bezogene ALE
+zurückzuerstatten. Gemäss Art. 3 Abs. 1 der Verordnung vom 11. September
+2002 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSV;
+SR 830.11) wird über den Umfang der Rückforderung eine Verfügung erlassen.
+
+4.2. Streitig und zu prüfen ist, ob und
+allenfalls in welchem Umfang der Beschwerdeführer für die in den Monaten März
+2018 bis September 2019 bezogene Arbeitslosenentschädigung rückerstattungspflichtig
+ist. Dabei stellt sich insbesondere die Frage, ob die von ihm während der
+Arbeitslosigkeit erzielten Einkommen als Mitglied des C____ des Kantons [...]
+als Zwischenverdienste bei der Arbeitslosentaggeldberechnung miteinzubeziehen
+oder als Nebenverdienste nicht zu berücksichtigen sind.
+
+5.
+
+5.1. Der Beschwerdeführer macht zunächst geltend, es handle sich bei der
+Entschädigung für das C____mandat per se um einen Nebenverdienst; denn er habe
+damit keine Erwerbsabsicht gehabt; vielmehr sei es ihm um die Ausübung von
+politischen Rechten gegangen (vgl. S. 5 der Beschwerde und S. 1 der Replik). Dem
+kann jedoch aus den nachstehenden Überlegungen nicht gefolgt werden.
+
+5.2. 5.2.1.  In der
+Arbeitslosenversicherung gilt grundsätzlich ein einheitlicher
+Arbeitnehmerbegriff, welcher vollumfänglich auf den AHV-rechtlichen Begriff der
+unselbstständigen Erwerbstätigkeit abstellt. Ob jemand Arbeitnehmer ist, hängt
+deshalb einzig davon ab, ob er eine AHV-pflichtige unselbstständige Tätigkeit ausübt
+(Urteil des Bundesgerichts C160/04 vom 29. Dezember 2004 E. 3.3.; BGE 121 V 367
+E. 2).
+
+5.2.2.  Der Begriff der Erwerbstätigkeit
+im sozialversicherungsrechtlichen Sinne  wie er namentlich Art. 4 Abs. 1 des
+Bundesgesetzes vom 20. Dezember 1946 über die Alters- und
+Hinterlassenenversicherung (AHVG; SR 831.10) zu Grunde liegt  meint die Ausübung einer auf die Erzielung von
+Einkommen gerich teten bestimmten
+(persönlichen) Tätigkeit, durch welche die wirtschaftliche Leistungsfähigkeit
+erhöht wird. Für die Beantwortung der Frage, ob Erwerbstätigkeit vorliegt,
+kommt es nicht darauf an, ob die betreffende Person subjektiv eine Erwerbsabsicht
+für sich in Anspruch nimmt. Diese muss vielmehr auf Grund der konkreten
+wirtschaftlichen Tatsachen nachgewiesen sein ( vgl. das zur Publikation
+vorgesehene Urteil 9C_469/2021 vom 8. März 2022 E. 5.1; siehe auch BGE 128 V 20, 25 E. 3b).
+
+5.2.3.  In dem zur Publikation vorgesehenen Urteil 9C_469/2021
+vom 8. März 2022 hielt das Bundesgericht  nach einem Verweis auf mehrere Bestimmungen
+des Bundesgesetzes über Bezüge und Infrastruktur der Mitglieder der
+eidgenössischen Räte und über die Beiträge an die Fraktionen vom 18. März 1988 (Parlamentsressourcengesetz
+[PRG]; SR 171.21)  zunächst fest, der Bund richte für die Wahrnehmung des
+Parlamentsmandates eine Entschädigung aus und stellte anschliessend klar, es möge
+zutreffen, dass bei der Ausübung der politischen Tätigkeit in der
+Bundesversammlung grundsätzlich nicht das Erzielen eines Einkommens im
+Vordergrund stehe, sondern die Ausübung von politischen Rechten und Pflichten.
+Dennoch beinhalte diese politische Tätigkeit eine umfassende Arbeitsleistung,
+die entschädigt werde. Das Entgelt an die Mitglieder der Bundesversammlung
+stelle nicht eine blosse Aufwandentschädigung dar. Angesichts des
+Zeitaufwandes, der sich mit einem Parlamentsmandat verbinde, sei zumindest von
+einem Halbberufsparlament die Rede. Es handle sich daher bei der entsprechenden
+Entschädigung um Einkommen (vgl. E. 5.2.2.). Im Lichte des Gesagten stelle ein
+Parlamentsmandat daher eine Erwerbstätigkeit dar (vgl. E. 5.2.3.). Nichts Anderes
+kann in Bezug auf das infrage stehende C____mandat gelten. Zwar kann dem
+Beschwerdeführer insoweit gefolgt werden, als im Vordergrund des Mandates nicht
+die Einkommenserzielung, sondern die Ausübung von politischen Rechten und
+Pflichten steht (vgl. S. 5 der Beschwerde); mit der Entschädigung werden aber auch
+hier  wie beim Parlament auf Bundesebene  nicht bloss der Aufwand entschädigt
+bzw. die Unkosten gedeckt.
+
+5.2.4.  So wird in Bezug auf die Entschädigung in § 11 der Ausführungsbestimmungen
+vom 29. Juni 2006 zum Gesetz über die Geschäftsordnung des Grossen Rates des
+Kantons Basel-Stadt (Ausführungsbestimmungen; SG 152.110) Folgendes
+festgehalten: Der Präsident oder die
+Präsidentin des Grossen Rates erhält für jede halbtägige Sitzung im Plenum Fr.
+400.-- (Abs. 1 lit. a). Der Statthalter oder die Statthalterin erhält für eine
+halbtätige Sitzung im Plenum Fr. 300.-- (Abs. 1 lit. b). Übrige Ratsmitglieder werden
+mit Fr. 200.-- für jede halbtätige Sitzung im Plenum entschädigt (Abs. 1
+lit. c). Darüber hinaus erhalten die Mitglieder des Grossen Rates pro Amtsjahr
+einen Grundbetrag von Fr. 6'000.--. Die Präsidentin oder der Präsident erhält
+zudem eine einmalige Repräsentations- und Aufwandentschädigung in der Höhe von Fr.
+12'000.-- (Abs. 2). Die Mitglieder der Finanzkommission und der
+Geschäftsprüfungskommission erhalten zusätzlich pro Amtsjahr eine
+Aufwandentschädigung von Fr. 2'000.-- (Abs. 3). Für jede Sitzung in Kommissionen
+und Subkommissionen werden Sitzungsgelder wie folgt ausgerichtet (Abs. 4): der Präsidentin
+oder dem Präsidenten der Kommissionen und Subkommissionen Fr. 400.-- (lit. a),
+dem protokollführendes Ratsmitglied Fr. 300.-- (lit. b) und den übrigen
+Ratsmitgliedern Fr. 200.-- (lit. c). Die genannten Ansätze sind die netto
+ausbezahlten Beträge (Abs. 5). Gemäss § 12 Abs. 1 der Ausführungsbestimmungen
+kann das Ratsbüro für aufwändige Zusatz- und Untersuchungsaufträge einem
+Mitglied des Grossen Rates auf sein Gesuch hin oder auf Antrag eines
+Kommissionspräsidiums hin eine einmalige Entschädigung ausrichten. Gestützt auf
+§ 14 Abs. 1 der Ausführungsbestimmungen wird jeder Fraktion ein Grundbetrag pro
+Amtsjahr von Fr. 10'000.-- und ein Zusatzbetrag für jedes Mitglied von Fr.
+500.-- ausgerichtet.
+
+5.2.5.  Bereits aus der Tatsache, dass ein Grundbetrag ausgerichtet
+wird, ergibt sich, dass es sich bei der Entschädigung von Mitgliedern des
+Grossen Rates nicht um blosse Aufwandentschädigung resp. Unkostenersatz geht.
+Es handelt sich daher auch um AHV-pflichtiges Einkommen. Denn gemäss Art. 7
+lit. i AHVV zählen die Einkommen der Behördenmitglieder von Bund, Kantonen und
+der Gemeinden zu dem für die Berechnung der AHV-Beiträge massgebenden Lohn im
+Sinne von Art. 5 Abs. 2 AHVG (Beiträge von Einkommen aus unselbstständiger
+Erwerbstätigkeit). Der Begriff der Behördenmitglieder wird in der Wegleitung
+über den massgebenden Lohn in der AHV, IV und EO (WML, gültig ab 1. Januar
+2019, Stand: 1. Januar 2020) näher erläutert. Gemäss Ziff. 4003 WML gelten als
+Behördenmitglieder auch die Mitglieder eidgenössischer, kantonaler oder
+kommunaler Parlamente. Das Einkommen der Behördenmitglieder kann aus festen und
+variablen Entschädigungen (z.B. Gehalt, Taggeldern, Sitzungsgeldern, etc.)
+bestehen (Ziff. 4004 WML). Dieses Einkommen gehört zum massgebenden Lohn,
+soweit es sich nicht um den Ersatz von Unkosten handelt (Ziff. 4005 WML). Das
+Bundesgericht hat in dem bereits mehrfach erwähnten  zur Publikation
+bestimmten  Urteil 9C_469/2021 vom 8. März 2022 ebenfalls klargestellt, dass das
+Entgelt aus Parlamentstätigkeit grundsätzlich beitragspflichtiger Lohn nach Art.
+5 Abs. 1 und 2 AHVG in Verbindung mit Art. 7 lit. i AHVV darstellt (vgl. E.
+5.3.3. des Urteils). Die infrage stehende Entschädigung wurde denn auch im
+vorliegenden Fall dem IK des Beschwerdeführers gutgeschrieben (vgl. AB 7; siehe
+auch S. 1 unten resp. S. 2 oben der Duplik).
+
+5.3. 5.3.1.  Des Weiteren macht der
+Beschwerdeführer geltend, er habe die Tätigkeit als Parlamentarier seit
+Anbeginn immer ausserhalb seiner normalen Arbeitstätigkeit und zusätzlich zu
+einem 100%-Pensum wahrgenommen; auch dies spreche für einen Nebenverdienst und
+gegen die Annahme von Zwischenverdienst (vgl. S. 5 der Beschwerde und S. 3 der
+Replik). Diesbezüglich gilt es zu beachten, dass, wie bereits erwähnt
+(vgl. E. 3.3.2), eine Steigerung des
+Nebenverdienstes während der Arbeitslosigkeit zur Annahme von Zwischenverdienst
+führen kann (vgl. u.a. die Urteile des Bundesgerichts 8C_148/2019 vom
+4. Juli 2019 E. 3.3.1., 8C_565/2016 vom 26. Oktober 2016 E. 2. und
+8C_265/2014 vom 27. August 2014 E. 2; zum Verhältnis von Zwischen- und
+Nebenverdienst: BGE 125 V 475, 477 ff.). Wird das Pensum der bisherigen
+Nebentätigkeit nach Eintritt der Arbeitslosigkeit erhöht, stellt der
+dementsprechend angestiegene Lohn einen Zwischenverdienst dar, während die
+Beibehaltung des gleichen, bereits vor der Arbeitslosigkeit ausgeübten Pensums
+auf einen Nebenverdienst hinweist (BGE 123 V 230, 233 E. 3d; Urteil des
+Bundesgerichts C 186/00 vom 28. Februar 2001 E. 2.c; siehe implizit auch
+das Urteil des Bundesgerichts 8C_496/2019 vom 30. September 2019 E. 3.).
+
+5.3.2.  Der Beschwerdeführer wendet hiergegen ein, er habe die Tätigkeit nicht ausgeweitet; denn die
+Anzahl Sitzungen und damit der entschädigte Sitzungsaufwand richte sich nach
+den eingereichten Parlamentsgeschäften und den vom Regierungsrat vorgelegten
+Vorlagen und nicht danach, ob das einzelne Mitglied für sich die Durchführung
+von mehr Sitzungen wünsche. Entsprechend variiere die Höhe der Entschädigung
+bei allen C____mitgliedern, ohne dass irgendeine "Pensumsveränderung"
+vorliegen würde (vgl. S. 6 der Beschwerde und S. 3 der Replik). Dieser Einwand verfängt
+ebenfalls nicht. Zwar ist es richtig, dass der Aufwand resp. namentlich die
+Anzahl Sitzungen nicht vom einzelnen C____mitglied beeinflusst werden kann
+(vgl. zu den Sitzungen § 3 und § 4 der Ausführungsbestimmungen). Wie die
+Beschwerdegegnerin jedoch in ihrer Duplik zutreffend ausführt, ist es gerade
+deswegen sachgerecht, beim Zwischenverdienst auf die Entschädigung abzustellen
+und nicht auf den Arbeitsaufwand, der ohnehin nicht ausgewiesen werden kann. Im
+Übrigen hat das Eidgenössische Versicherungsgericht (EVG) klargestellt, für
+die Beurteilung der Frage, ob ein Zwischenverdienst erzielt werde, oder ob es
+lediglich um die Fortführung der bisherigen (selbstständigen)
+Nebenerwerbstätigkeit gehe, sei auf die Höhe der erwirtschafteten Einkünfte und
+nicht auf die zeitliche Inanspruchnahme abzustellen (vgl. das Urteil des EVG C 149/02 vom 27. Januar 2003 E. 4.).
+Diese Einschätzung lässt sich auch auf Fälle wie den vorliegenden übertragen.
+
+5.3.3.  Wie die Beschwerdegegnerin zutreffend ausführt, erzielte
+der Beschwerdeführer im Jahr 2017 aus seiner
+Tätigkeit für den Kanton [...] ein Einkommen von Fr. 12'863.-- (vgl. den
+IK-Auszug; AB 7). Dies entspricht einer durchschnittlichen monatlichen
+Entschädigung von Fr. 1'071.92. Gemäss IK-Auszug war der Beschwerdeführer
+im Jahr 2018 von März bis Dezember für den Kanton [...] tätig und verdiente insgesamt
+Fr. 8'104.--, woraus sich eine durchschnittliche monatliche Entschädigung
+von Fr. 810.40 ergibt. Der Durchschnittsverdienst aus den zwölf Monaten vor
+der Anmeldung bei der Arbeitslosenversicherung (März 2017 bis Februar 2018; vgl.
+Art. 37 AVIV) belief sich somit auf Fr. 1'028.35 ([10 x Fr. 1'071.92
++ 2 x Fr. 810.40]: 12).
+
+5.3.4.  Es erscheint daher als richtig,
+dass die Beschwerdegegnerin für die Dauer der Arbeitslosigkeit des
+Beschwerdeführers weitere Einnahmen bis zu einem Betrag von monatlich Fr. 1'028.35
+nicht berücksichtigt, jedoch ein darüberhinausgehendes Einkommen als
+Zwischenverdienst angerechnet hat, da diesbezüglich von einer Steigerung des
+Nebenverdiensts auszugehen ist (vgl. dazu im Einzelnen S. 5 f. der
+Beschwerdeantwort). Da gemäss Rechtsprechung das (gesamthaft) erzielte
+Einkommen und nicht der Beschäftigungsgrad für den Anspruch auf
+Kompensationszahlungen bei Zwischenverdienst massgebend ist, erscheint es
+naheliegend, für die Beurteilung der Frage, ob ein Zwischenverdienst erzielt
+wird, oder ob es lediglich um die Fortführung der bisherigen selbstständigen
+Nebenerwerbstätigkeit geht, ebenfalls auf die Höhe der erwirtschafteten
+Einkünfte und nicht auf die zeitliche Inanspruchnahme abzustellen. Hier
+gilt es im Speziellen zu beachten, dass sich die (in Abweichung vom
+Entstehungsprinzip; vgl. Erwägung 3.2.3. hiervor) vorgenommene Umrechnung
+(Annahme eines Durchschnittes über drei Jahre) im Ergebnis zugunsten des
+Beschwerdeführers auswirkt (vgl. Erwägung 5.3.5. hiernach). Soweit der Beschwerdeführer im Übrigen einwendet, die
+Parteisteuer sei fälschlicherweise nicht abgezogen worden (vgl. S. 4 f. der
+Replik), ist zu bemerken, dass bei der Berechnung des Zwischenverdienstes die
+Bruttoeinnahmen massgebend sind (vgl. Erwägung 3.2.2. hiervor; siehe auch die
+zutreffenden Ausführungen auf S. 2 der Duplik).
+
+5.3.5.  Bei einem
+durchschnittlichen Lohn von Fr. 810.40 im 2018 (vgl. Erwägung 5.3.3. hiervor)
+wurde somit zutreffend im Jahr 2018 kein Zwischenverdienst angerechnet. Hingegen
+erscheint die vorgenommene Berücksichtigung eines Zwischenverdienstes im Jahr 2019
+als korrekt. Was das Jahr 2019 angeht, so wurde nämlich im IK für das Jahr 2019
+ein vom Kanton [...] ausbezahlter Lohn von Fr. 22'394.-- verbucht (vgl. AB
+7), was einem durchschnittlichen monatlichen Einkommen von Fr. 1'866.15 entspricht.
+Damit ist  den zutreffenden Überlegungen der Beschwerdegegnerin folgend  von
+Januar 2019 bis August 2019 von einer Ausdehnung der Nebentätigkeit und
+insofern ein Zwischenverdienst von Fr. 837.80 (Fr. 1'866.15 ./.
+Fr. 1'028.35) anzurechnen. Im September 2019 ist schliesslich ein
+Zwischenverdienst von Fr. 386.10 (Fr. 837.80 : 21.7 Tage x 10 Tage
+kontrollierte Arbeitslosigkeit) anzurechnen (vgl. diesbezüglich die
+Ausführungen der Beschwerdegegnerin auf S. 6 der Beschwerdeantwort).
+
+5.4. Bei Anrechnung eines
+Zwischenverdienstes von Fr. 837.80 in den Monaten Januar bis August 2019 und
+eines Zwischenverdienstes von Fr. 386.10 im September 2019, ergibt sich ein
+unrechtmässiger Taggeldbezug in der Höhe von insgesamt Fr. 4'673.45 (vgl. die monatlichen Rückforderungen sowie die Zusammenfassung der Rückforderung vom
+8. März 2021 [AB 13]; siehe S. 5 des
+Einspracheentscheides vom 21. Juni 2021 [Akte 14]). Damit fordert die
+Beschwerdegegnerin vom Beschwerdeführer zu Recht mit Einspracheentscheid vom
+21. Juni 2021 unrechtmässig bezogene Taggelder in der Höhe von Fr. 4'673.45
+zurück.
+
+6.
+
+6.1. Den obigen Ausführungen zufolge ist die Beschwerde somit abzuweisen
+und der Einspracheentscheid vom 21. Juni 2021 ist zu bestätigen.
+
+6.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen und der
+Einspracheentscheid vom 21. Juni 2021 bestätigt.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer lic.
+iur. S. Dreyer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe
+sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin           seco
+
+Versandt am:
