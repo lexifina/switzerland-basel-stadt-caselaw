@@ -1,0 +1,635 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.550"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2022.61"
+docket_2: "AG.2022.550"
+decided: "2022-05-18"
+published: "2022-08-31"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73939&W10_KEY=3048518&nTrefferzeile=496&Template=search_result_document.html"
+cites_decisions: ["1B_375/2022", "1B_41/2019", "1B_96/2021", "6B_360/2014", "BGE 137 IV 13", "BGE 137 IV 333", "BGE 139 IV 175", "BGE 143 IV 214", "BGE 143 IV 9", "HB.2021.30", "HB.2022.4", "SB.2015.46", "SB.2015.71", "SB.2018.25", "SB.2022.61"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-224.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-363.md", "switzerland/bund/acts/312.0/art-364a.md", "switzerland/bund/acts/312.0/art-364b.md", "switzerland/bund/acts/312.0/art-387.md", "switzerland/bund/acts/312.0/art-402.md"]
+---
+
+# Sicherheitshaft während des Gerichtsverfahrens (Art. 364b StPO)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+SB.2022.61
+
+ENTSCHEID
+
+vom 31.
+August 2022
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiber
+MLaw Martin Seelmann, LL.M.
+
+Beteiligte
+
+Beschwerdeinstanz
+
+Instruktionsrichter lic. iur.
+Marc Oser Antragssteller
+
+St. Alban-Vorstadt 25, 4052 Basel
+
+gegen
+
+A____ , geb.
+[...]                                                                   Antragsgegner
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Sicherheitshaft während des
+Gerichtsverfahrens (Art. 364b StPO)
+
+Sachverhalt
+
+Mit Beschluss
+des Strafgerichts vom 30. März 2022 wurde die über A____ angeordnete
+Sicherheitshaft um 2 Wochen vom 7. April 2022 bis zum 21. April 2022 verlängert.
+
+Mit Schreiben
+vom 16. Mai 2022 ersuchte A____ das Appellationsgericht darum, dass er
+unverzüglich aus der Station [...] der UPK zu entlassen und ihm wegen
+ungesetzlicher eventualiter unrechtmässiger Haft eine Entschädigung von CHF 5'000.,
+Mehrforderung vorbehalten, auszurichten sei.
+
+Mit Verfügung
+vom 18. Mai 2022 stellte Instruktionsrichter lic. iur. Marc Oser (nachfolgend:
+Antragssteller) fest, dass die mit Beschluss des Strafgerichts vom 30. März
+2022 bis zum 21. April 2022 verlängerte Sicherheitshaft nicht nochmals
+verlängert worden sei und sich A____ (nachfolgend: Antragsgegner) seither
+rechtswidrig bzw. ohne entsprechenden Titel in Haft befinde. Zudem beantragte
+der Antragssteller gestützt auf Art. 364b Abs. 2 der Strafprozessordnung (StPO,
+SR 312.0) der Verfahrensleitung des Berufungsgerichts, über den Antragsgegner Sicherheitshaft
+bis zum Abschluss des Beschwerdeverfahrens im Verfahren BES.2022.60 anzuordnen.
+
+Mit
+Stellungnahme vom 19. Mai 2022 brachte das Amt für Justizvollzug, Straf- und
+Massnahmenvollzug vor, dass für das Beschwerdeverfahren keine Sicherheitshaft
+angeordnet werden müsse, da einer gegen einen selbständigen nachträglichen
+Entscheid gemäss Art. 363 ff. StPO erhobenen Beschwerde gemäss Art. 387 StPO
+keine aufschiebende Wirkung zukomme. Die Staatsanwaltschaft schloss sich in
+ihrer Stellungnahme vom 23. Mai 2022 diesen Ausführungen an. Der Antragsgegner
+äusserte sich zur Verfügung vom 18. Mai 2022 mit Eingabe vom 25. Mai 2022.
+
+Mit Verfügung
+des Präsidenten des Appellationsgerichts, lic. iur. Christian Hoenen, vom 13.
+Juni 2022 wurde auf den Antrag des Antragsstellers vom 18. Mai 2022 nicht
+eingetreten.
+
+Gegen diese
+Verfügung erhob der Antragsgegner am 13. Juli 2022 Beschwerde beim
+Bundesgericht. Dieses hiess die Beschwerde mit Urteil vom 4. August 2022
+teilweise gut, hob die angefochtene Verfügung vom 13. Juni 2022 auf und wies die
+Sache zu neuem Entscheid im Sinne der Erwägungen an die Vorinstanz zurück. Im
+Übrigen wurde die Beschwerde abgewiesen.
+
+Mit Verfügung
+vom 18. August 2022 hat der Antragssteller seinen Antrag auf Verhängung von
+Sicherheitshaft über den Antragsgegner wiederholt und begründet. Dazu hat der
+Antragsgegner mit Eingabe vom 29. August 2022 Stellung genommen.
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren ergangen. Auf die Einzelheiten des
+Sachverhalts und der Parteistandpunkte wird, soweit für den Entscheid von
+Relevanz, in den nachfolgenden Erwägungen eingegangen.
+
+Erwägungen
+
+1.
+
+1.1 Hebt
+das Bundesgericht einen kantonalen Entscheid auf und weist es die Sache an die
+kantonale Behörde zurück, hat diese ihrer neuen Entscheidung die rechtliche Begründung
+des Bundesgerichtsentscheides zugrunde zu legen. Dabei hat sie sich auf das zu
+beschränken, was sich aus den für sie verbindlichen Erwägungen des
+Bundesgerichts als Gegenstand der neuen Entscheidung ergibt (BGE 143 IV 214
+E. 5.3.3, 123 IV 1 E. 1, 117 IV 97 E. 4a; Dormann ,
+in: Basler Kommentar, 3. Aufl., Basel 2018, Art. 107 BGG N 18 f.; vgl. AGE
+SB.2015.46 vom 30. Mai 2018 E. 1.1, SB.2015.71 vom 6. Februar 2018 E.
+1.1 und SB.2018.25 vom 18. November 2019 E. 1.1).
+
+1.2 In
+dem im vorliegenden Fall relevanten Urteil BGer 1B_375/2022 vom 4. August
+2022 erkannte das Bundesgericht für das Appellationsgericht bindend, dass der
+letzte rechtskräftige Massnahmeentscheid vom 11. April 2017 datiere und die
+darin angeordnete Massnahmedauer von fünf Jahren grundsätzlich am 10. April
+2022 geendet habe. Nachdem der Antragsgegner den neuen Rückversetzungsbeschluss
+des Strafgerichts vom 30. März 2022 unbestrittenermassen innert der
+Rechtsmittelfrist beim Appellationsgerichts angefochten habe, stelle dieser im
+Lichte der dargelegten Rechtsprechung mangels materieller Rechtskraftwirkung
+keinen vollstreckungsrechtlichen Hafttitel dar, der zum aktuellen Zeitpunkt
+einen weiteren Freiheitsentzug des Antragsgegners zu rechtfertigen vermöchte.
+Vielmehr habe sich ein solcher bis zur Rechtskraft des
+Rückversetzungsbeschlusses nach der bundesgerichtlichen Rechtsprechung und der
+nunmehr klaren gesetzlichen Regelung von Art. 364b StPO während der Dauer des
+gerichtlichen Nachverfahrens, das heisst von dessen Einleitung bis zur
+Rechtskraft des neuen Urteils, auf strafprozessuale Sicherheitshaft zu stützen.
+Gemäss Bundesgericht möge zwar zutreffen, dass der Beschwerde nach Art. 387
+StPO keine aufschiebende Wirkung zukomme. Angesichts der Konzeption von
+Art. 364a und 364b StPO gingen diese deutlich jüngeren, besonderen
+Bestimmungen aber dem allgemeinen Grundsatz von Art. 387 StPO, wonach
+Rechtsmitteln keine aufschiebende Wirkung zukomme, vor. Andernfalls würde der
+Regelungsgehalt von Art. 364b StPO komplett seines Gehalts entleert, sobald im
+gerichtlichen Nachverfahren ein erstinstanzlicher Entscheid ergangen sei. Dieses
+Ergebnis stehe im Übrigen auch im Einklang mit der im Rahmen der jüngsten
+Revision der Strafprozessordnung vom 17. Juni 2022 eingefügten Regelung, wonach
+im selbstständigen gerichtlichen Nachverfahren getroffene Gerichtsentscheide
+mittels Berufung anfechtbar seien. Diesem Rechtsmittel komme von Gesetzes wegen
+die aufschiebende Wirkung zu (vgl. Art. 402 StPO); die Anwendung von Art. 387
+StPO falle damit künftig ohnehin ausser Betracht. Gleichzeitig habe der
+Gesetzgeber die bisher nicht ausdrücklich geregelte Frage beantwortet, welcher
+der zulässige Rechtsbehelf gegen im selbstständigen Nachverfahren ergangene
+gerichtliche Entscheide sei. Auch wenn Art. 365 Abs. 3 VE-StPO noch nicht in
+Kraft sei, gehe daraus immerhin der gesetzgeberische Wille hervor, dass sich
+der Freiheitsentzug nach Ablauf der angeordneten Massnahmedauer bis zum
+rechtskräftigen Abschluss des gerichtlichen Nachverfahrens nach den Vorgaben
+von Art. 364b StPO zu richten und sich damit auf die strafprozessuale
+Sicherheitshaft zu stützen habe.
+
+Die Inhaftierung
+des Antragsgegners sei damit seit dem 22. April 2022 als formell
+rechtswidrig zu qualifizieren. Die Beschwerde erweise sich insoweit als
+begründet. Die Unrechtmässigkeit der erstandenen Haft sei grundsätzlich im
+Dispositiv des Haftprüfungsentscheides festzustellen. Darauf könne vorliegend
+jedoch verzichtet werden, weil die angefochtene Verfügung des Präsidenten des
+Appellationsgerichts vom 13. Juni 2022 aufzuheben sei und der mit dem nachträglichen
+Massnahmeverfahren betraute Instruktionsrichter das Fehlen eines gültigen
+Hafttitels seit dem 22. April 2022 in seiner Verfügung vom 18. Mai 2022
+bereits gerichtlich festgestellt habe.
+
+Entgegen dem
+insoweit nicht näher begründeten Antrag des Antragsgegners führe das
+vorübergehende Fehlen eines Hafttitels im gerichtlichen Nachverfahren nicht
+zwingend zur automatischen Haftentlassung. Zwar könne der Ablauf richterlicher
+Haftfristen bei Untersuchungs- und Sicherheitshaft im Vor- und Hauptverfahren
+einen Haftentlassungsgrund darstellen. Dabei sei auch die Unschuldsvermutung
+zugunsten der strafprozessual inhaftierten Person (vor einer allfälligen
+rechtskräftigen Verurteilung) zu berücksichtigen. Zudem betreffe der Grundsatz,
+wonach die Person, gegen die ein Strafverfahren durchgeführt werde, in Freiheit
+bleibe, nach dem Wortlaut von Art. 212 Abs. 1 StPO die oder den
+Beschuldigten, also jene Person, die (noch) nicht verurteilt worden sei, sondern
+(lediglich) einer Straftat verdächtigt, beschuldigt oder angeklagt werde. Im
+vorliegenden Fall gehe es jedoch um Sicherheitshaft im gerichtlichen
+Nachverfahren gegenüber einem rechtskräftig Verurteilten. Zwar habe es das mit
+der Beschwerde gegen den massnahmerechtlichen Rückversetzungsbeschluss befasste
+Appellationsgericht versäumt, vor Ablauf der durch das Strafgericht letztmals
+bis am 21. April 2022 festgelegten Haftfrist die Sicherheitshaft förmlich zu
+verlängern. Vor dieser (formell unrechtmässigen) Inhaftierungsphase hätten die
+zuständigen Haftgerichte die materiellen Haftgründe der Sicherheitshaft im
+gerichtlichen Nachverfahren jedoch mehrmals geprüft und als erfüllt erachtet.
+Bei dieser Sachlage dränge sich hier von Bundesrechts wegen keine
+Haftentlassung allein aufgrund des festgestellten Verfahrensfehlers auf.
+Vielmehr werde im Rahmen eines den Vorgaben von Art. 364b StPO genügenden
+Haftverfahrens insbesondere auch dem Anliegen einer effektiven Gefahrenabwehr
+(Wiederholungsgefahr bei bereits verübten schweren Gewalttaten) hinreichend
+Rechnung zu tragen sein.
+
+Im Ergebnis
+hielt das Bundesgericht fest, dass sich die Beschwerde insoweit als begründet
+erweise, als dass die angefochtene Verfügung des Präsidenten des
+Appellationsgerichts vom 13. Juni 2022 aufzuheben und die Sache zu neuem
+Entscheid an die Vorinstanz zurückzuweisen sei. Diese habe auf den Antrag des
+mit dem gerichtlichen Nachverfahren betrauten Instruktionsrichters einzutreten
+und im Rahmen eines den Vorgaben von Art. 364b StPO genügenden
+Haftverfahrens die Anordnung von Sicherheitshaft zu prüfen. Entspreche sie dem
+Antrag, wäre das aktuelle Mass-nahmeregime, in welchem sich der Antragsgegner
+gemäss der angefochtenen Verfügung offenbar zurzeit befinde, unter dem
+formellen Hafttitel der Sicherheitshaft weiterzuführen. Dem Antrag des Antragsgegners
+auf sofortige Haftentlassung sei indes keine Folge zu leisten; insofern sei die
+Beschwerde abzuweisen.
+
+1.3 Gemäss
+den Vorgaben des Bundesgerichts ist mithin vorliegend auf den Antrag des
+Antragsstellers vom 18. Mai 2022 respektive 18. August 2022 einzutreten und ein
+den Vorgaben von Art. 364b StPO genügendes Haftverfahren durchzuführen.
+
+2.
+
+Die Anordnung
+von Sicherheitshaft während des selbstständigen gerichtlichen Nachverfahrens
+nach Art. 363 ff. StPO ist in Art. 364a und 364b StPO geregelt. Nach Art. 364a
+Abs. 1 StPO kann die Behörde, die für die Einleitung des Verfahrens auf
+Erlass eines selbstständigen nachträglichen Entscheids des Gerichts zuständig
+ist, die verurteilte Person festnehmen lassen, wenn die Voraussetzungen gemäss
+Abs. 1 lit. a und b erfüllt sind. Nach Art. 364a Abs. 2 StPO
+richtet sich das Verfahren sinngemäss nach den Artikeln 222-228 StPO. Gemäss
+Art. 364b Abs. 1 StPO kann die Verfahrensleitung des Nachverfahrens die
+verurteilte Person unter den Voraussetzungen von Art. 364a StPO festnehmen
+lassen. Sie führt in sinngemässer Anwendung von Art. 224 StPO ein Haftverfahren
+durch und beantragt dem Zwangsmassnahmengericht beziehungsweise der
+Verfahrensleitung des Berufungsgerichts die Anordnung der Sicherheitshaft. Das
+Verfahren richtet sich sinngemäss nach Art. 225 und 226 StPO (Abs. 2). Bei
+vorbestehender Sicherheitshaft richtet sich das Verfahren sinngemäss nach Art.
+227 StPO (Abs. 3). Im Übrigen gelten die Art. 222 und 230-233 StPO
+sinngemäss (Abs. 4).
+
+3.
+
+3.1 Voraussetzung
+für die Anordnung und Verlängerung von Sicherheitshaft im vollzugsrechtlichen
+gerichtlichen Nachverfahren ist die ernsthafte Erwartung, dass gegen die Person
+der Vollzug einer freiheitsentziehenden Sanktion angeordnet wird (Art. 364b
+Abs. 1 i.V.m. Art. 364a Abs. 1 lit. a StPO) und diese sich deren Vollzug
+entzieht oder die Person erneut ein Verbrechen oder schweres Vergehen begeht
+(lit. b).
+
+3.2 Was
+die erste Voraussetzung der ernsthaften Erwartung, dass gegen die betreffende
+Person der Vollzug einer freiheitsentziehenden Sanktion angeordnet wird, betrifft,
+kann nach den Materialien z.B. der Vollzug einer Restfreiheitsstrafe oder der
+Vollzug einer stationären therapeutischen Massnahme verstanden werden (Botschaft
+zur Änderung der StPO, BBl 2019 6697, 6765). Diese Voraussetzung kann mit der
+Einreichung des Antrags auf Rückversetzung in die stationäre therapeutische
+Massnahme gemäss Art. 62a Abs. 3 des Strafgesetzbuches (StGB, SR 311.0) durch
+den SMV beim Strafgericht am 6. Januar 2022 sowie dem daraufhin ergangenen
+ jedoch noch nicht rechtskräftigen  Beschluss des Strafgerichts vom 30. März
+2022, in welchem der Antrag gutgeheissen und für die Dauer von 3 Jahren die
+Rückversetzung in die stationäre therapeutische Massnahme angeordnet wurde, analog
+des Vorhandenseins eines dringenden Tatverdachts (Art. 221 Abs. 1 StPO) nach
+Einreichung einer Anklage beim Strafgericht bzw. eines erstinstanzlichen
+Entscheids, als gegeben erachtet werden.
+
+Ob die
+Voraussetzungen betreffend Antrag auf Rückversetzung eingehalten wurden, wird die
+Beschwerdeinstanz im Verfahren BES.2022.60 zu prüfen haben. Im vorliegenden
+Verfahren ist lediglich die Frage zu behandeln, ob die Haftgründe vorliegen.
+
+3.3
+
+3.3.1 Was
+den besonderen Haftgrund der Wiederholungsgefahr anbelangt, so bedarf es der
+ernsthaften Befürchtung, dass der Antragsgegner erneut ein Verbrechen oder ein
+schweres Vergehen begeht. Im vollzugsrechtlichen gerichtlichen Nachverfahren
+mit bereits rechtskräftig beurteilten Straftaten ist aufgrund einer
+Rückfallprognose zu prüfen, ob weitere sicherheitsrelevante Verbrechen oder
+schwere Vergehen ernsthaft zu erwarten sind (BGer 1B_96/2021 vom 25. März 2021
+E. 4.2). Wie bereits in den Entscheiden des Appellationsgerichts vom 15.
+Dezember 2021 (HB.2021.30) sowie vom 2. Februar 2022 (HB.2022.4) im
+jeweiligen Beschwerdeverfahren des Antragsgegners gegen die damalige Anordnung
+bzw. Verlängerung der Sicherheitshaft im vollzugsrechtlichen gerichtlichen
+Nachverfahren ausgeführt wurde, ist gemäss der bundesgerichtlichen Rechtsprechung
+für die Erfüllung von Art. 364b Abs. 1 i.V.m. Art. 364a Abs. 1 lit. b StPO
+eine negative Rückfallprognose notwendig, wobei gemäss BGer 1B_96/2021 vom 25.
+März 2021 E. 4.2 « [] in der Regel die Gefährdung der Sicherheit anderer umso
+höher erscheint, je schwerer die drohende Tat wiegt. Betreffend die
+Anforderungen an die Rückfallgefahr gilt hingegen eine umgekehrte
+Proportionalität. Dies bedeutet, je schwerer die drohenden Taten sind und je
+höher die Gefährdung der Sicherheit anderer ist, desto geringere Anforderungen
+sind an die Rückfallgefahr zu stellen. Liegen die Tatschwere und die
+Sicherheitsrelevanz am oberen Ende der Skala, so ist die Messlatte zur Annahme
+einer rechtserheblichen Rückfallgefahr tiefer anzusetzen. Zugleich ist daran
+festzuhalten, dass der Haftgrund der Wiederholungsgefahr restriktiv zu
+handhaben ist. Hieraus folgt, dass eine negative, d.h. eine ungünstige
+Rückfallprognose zur Annahme von Wiederholungsgefahr notwendig, grundsätzlich
+aber auch ausreichend ist (BGE 143 IV 9 E. 2.8-2.10)».
+
+Nach der
+Rechtsprechung des Bundesgerichts reicht grundsätzlich der (im Sanktionspunkt
+nochmals hängige) Gegenstand der bereits erfolgten Verurteilung als
+Vordelinquenz (vgl. BGE 137 IV 333 E. 2.3.3; nicht amtl. publ. E. 3.5.1 von BGE
+139 IV 175). Ausschlaggebend ist damit die Frage der potentiellen
+Gefährlichkeit der im Nachverfahren strafprozessual inhaftierten oder zu
+inhaftierenden Person (vgl. BGE 137 IV 13 E. 3-4, 137 IV 333 E. 2.3.3; E. 3.5.2
+von BGE 139 IV 175; BGer 1B_41/2019 vom 19. Februar 2019 E. 2.4; je m.H.).
+Der Grundsatz, wonach es mindestens zwei Vortaten bedarf (vgl. Schmid/Jositsch , StPO Praxiskommentar,
+3. Aufl., Zürich 2018, Art. 221 N 11) gilt im vorliegenden
+Zusammenhang also nicht.
+
+3.3.2 Der
+Antragsgegner bringt gegen das Vorliegen der Wiederholungsgefahr vor, dass ein
+möglicher Rückfall respektive eine erneute Tatausführung vom SMV und der
+Gutachterin nur in Bezug auf dessen Stiefvater als denkbar respektive als
+wahrscheinlich eingeschätzt werde. Bei dieser Ausgangssituation müsse nicht
+eine unbestimmte Vielzahl von Personen vor dem Antragsgegner geschützt werden,
+sondern gegebenenfalls einzig und allein dessen Stiefvater. Dies sei letzterem
+mehr als bewusst, und es habe auch vorgängig entsprechende
+Sicherheitsmassnahmen gegeben, wonach der Antragsgegner nicht ohne Weiteres in
+die gemeinsame seitens seiner Mutter und seines Stiefvaters bewohnte
+Liegenschaft habe eingehen können, da er zwar zu einem separaten Anbau einen
+Schlüssel habe, nicht aber zur Hauptliegenschaft, welche er nur betreten könne,
+wenn ihn sein Stiefvater oder seine Mutter in die Liegenschaft hineinlasse. Die
+Anordnung von Sicherheitshaft möge gerechtfertigt sein, wenn eine unbestimmte
+Vielzahl von Personen durch einen Beschuldigten gefährdet werden könnten,
+sodass die Allgemeinheit gefährdet sei. Präventivhaft diene nicht dem Schutze
+einer einzigen Person, wie in casu, weshalb die Voraussetzungen zur Anordnung
+von Sicherheitshaft wegen Fortsetzungsgefahr nicht vorlägen und der
+Antragsgegner aus diesem Grund aus der Haft zu entlassen sei.
+
+Im Sinne einer
+Eventualerwägung sei auch zu betonen, dass die Sachverständige in ihren beiden
+verfassten Gutachten praktisch zu identischen testpsychologischen Ergebnissen
+gelangt sei, wobei dieselben Erörterungen im Jahr 2016 Anlass dafür gewesen
+seien, eine bedingte Entlassung des Antragsgegners aus dem Massnahmenvollzug zu
+befürworten, um nunmehr eine Rückversetzung zu begründen. Insgesamt schätze sie
+dessen Rückfallrisiko im Jahr 2022 sogar tiefer als im Jahr 2016 ein. Die Ausführungen
+der Sachverständigen würden deshalb nicht zu überzeugen vermögen. Gemäss dem
+ihrerseits sowohl im Jahr 2016 als auch dieses Jahr verwendeten
+Prognoseinstrument VRAG sei das Rückfallrisiko des Antragsgegners im Vergleich
+zum Jahr 2016 zurückgegangen. Es sei inhaltlich widersprüchlich das entsprechend
+seitens der Gutachterin verwendete und für sie somit für gut befundene
+Prognoseinstrument unterschiedlich zu interpretieren, insbesondere vor dem
+Hintergrund, dass die prozentual schwerere Rückfallprognose zu einer bedingten
+Entlassung aus dem Massnahmenvollzug geführt habe und die weniger schwere eine
+Rückversetzung in denselben rechtfertigen solle.
+
+3.3.3 Wie
+einerseits in den Entscheiden des Appellationsgerichts vom 15. Dezember
+2021 (HB.2021.30) sowie vom 2. Februar 2022 (HB.2022.4) dargelegt wurde, befand
+sich der Antragsgegner zufolge der nicht regelmässig oder gar nicht erfolgten
+Einnahme seiner Medikation gemäss den Feststellungen der Fachpersonen im
+November 2021 in einem akut wahnhaften Zustand, welcher mit einem hohen
+Rückfallrisiko einherging. Es wurde im genannten Appellationsgerichtsentscheid
+vom 15. Dezember 2021 zusammengefasst festgestellt, dass der an einer schweren
+schizophrenen Grunderkrankung leidende Antragsgegner nicht mehr in dem Setting
+lebe, in welchem er sich gemäss den Weisungen im Beschluss des SMV vom
+11. April 2017 zu der Entlassung aus der stationären Massnahme (stationäre
+Massnahme angeordnet mit Strafurteil vom 24. Juli 2009) befinden müsste und
+auch die seit der Entlassung aus der stationären Massnahme erfolgte Lockerung
+des Settings vom Leben im betreuten Wohnheim zum Leben mit ambulanter
+Wohnbegleitung nicht mehr existiere. Dies nachdem die [...] der Bewährungshilfe
+am 2. Juli 2021 mitgeteilt habe, dass das Betreuungs- und Mietverhältnis
+mit dem Antragsgegner aufgrund «zunehmender und zunehmend unberechenbarer,
+unübersichtlicher und krisenhafter Situationen seit März 2021 sowie aufgrund
+des nachhaltig gestörten Vertrauensverhältnisses» aufgelöst werde. Sodann wurde
+im genannten Appellationsgerichtsentscheid auf diverse aktenkundige Vorfälle in
+der jüngsten Vergangenheit hingewiesen und es wurde aufgezeigt, dass eindeutige
+Parallelen im aktuellen Verhalten des Antragsgegners zu seinem Verhalten in den
+Wochen und Tagen vor der Straftat im Jahr 2007 auszumachen seien. Hervorgehoben
+wurde insbesondere, dass der Antragsgegner sich wie zum Tatzeitpunkt in einem
+Wahnzustand befunden habe. Er nehme den Stiefvater wiederum negativ wahr, habe
+wie vor der Tat im Jahr 2007 wiederholt behauptet, es gäbe Konflikte zwischen
+diesem und seiner Mutter und dies auch der Polizei gemeldet (deren Nachforschungen
+die Unrichtigkeit dieser Meldungen ergeben habe). Auch habe er versucht, die
+Mutter und den Stiefvater in seiner schlechten gesundheitlichen Verfassung
+aufzusuchen. Als weiteren Hinweis, dass der Antragsgegner wieder eine Gewalttat
+gegen seinen Stiefvater planen könnte, erachtete das Gericht das bei der
+Inhaftnahme auf dem Antragsgegner vorgefundene Messer, welches er gemäss
+eigenen Angaben seit Längerem stets auf sich trage. Bei der im Jahr 2007 vom
+Antragsgegner gegen den Stiefvater gerichteten Tat handelte es sich nämlich um
+die versuchte vorsätzliche Tötung des Stiefvaters mit einem Messer (der
+Freispruch des Antragsgegners erging zufolge krankheitsbedingter
+Schuldunfähigkeit). Das Appellationsgericht führte aus, dass der Umstand, dass
+er sich von seinem Vorhaben, die Mutter und den Stiefvater in einem schlechten
+Gesundheitszustand aufzusuchen, durch das Fachpersonal habe abbringen lassen, vermöge
+die von den behandelnden Fachärzten mit Verlaufsbericht vom 17. November
+2021 eindrücklich formulierte Einschätzung der vom Antragsgegner ausgehenden
+Gefahr nicht aufzuheben. Diese führten im genannten Verlaufsbericht aus: «Aus
+forensisch-psychiatrischer Sicht zeigt sich  wie schon im Bericht vom
+27. September 2021 beschrieben  eine weitere Zuspitzung und Eskalation
+des Zustandsbildes von Herrn A____. Herr A____ zeigt aktuell einen
+personenbezogenen Wahn mit hoher Wahndynamik (Anruf bei der Polizei, sich
+Vorort nach Hause zu begeben). Dabei kann aufgrund des schweren psychotischen
+Zustandsbildes mit Herrn A____ nicht erarbeitet werden, was seine Beweggründe
+sind, wiederholt zu den Eltern fahren zu wollen. Sowohl von unserer als auch
+von der Behandlerseite der Abteilung [...] ist eine deutliche Zuspitzung der
+Psychopathologie festzustellen. Aus forensisch-psychiatrischer Sicht ist daher
+akut von einem legal-prognostisch deutlich erhöhten Rückfallrisiko auszugehen».
+
+Aus dem Bericht
+der behandelnden Ärztin der UPK vom 5. Januar 2022 geht sodann zusammengefasst
+hervor, dass eine medikamentöse Behandlung des Antragsgegners in der
+geschlossenen Abteilung der UPK zwischenzeitlich habe begonnen werden können
+und der Antragsgegners sich diesbezüglich kooperativ zeige. Gemäss Bericht
+gelinge es dem Antragsgegner, sich auf eine therapeutische Beziehung
+einzulassen, er könne sich bereits «etwas mehr öffnen» und es gelinge ihm,
+transparenter mit seinen Symptomen umzugehen. Es hätten sich im bisherigen Beurteilungszeitraum
+keine Zeichen von Eigen- oder Fremdgefährdung gezeigt. Nebst diesen positiven
+Rückmeldungen wird jedoch weiter berichtet, dass es mehrfach zu
+Impulsausbrüchen gekommen sei, in denen sich der Antragsgegner «beleidigend und
+verbal aggressiv gezeigt habe». Auch sei er einmal überzeugt gewesen, jemand
+habe ihm Geschirrspülmittel in den Sirup getan, was nachweislich nicht
+zugetroffen habe. Das stark ausgeprägte Misstrauen des Antragsgegners könne am
+ehesten auf die schizophrene Grunderkrankung zurückgeführt werden. Eine
+Optimierung der antipsychotisch wirksamen Medikation habe man aufgrund der
+paranoiden Symptomatik ebenfalls begonnen. Hier befände man sich in der
+Einstellungsphase. Die Beziehung zum Stiefvater habe noch nicht adäquat thematisiert
+werden können, was teilweise an der stark misstrauischen Haltung des Antragsgegners
+liege, teilweise aber auch an den stattgefundenen Therapeutenwechseln bzw. der
+Abwesenheit von Therapeuten. Um eine adäquate Risikoeinschätzung bezogen auf
+das Rückfallrisiko zum Anlassdelikt erbringen zu können, benötige es der
+Festigung der therapeutischen Beziehung sowie der vertieften Exploration. In
+diesem Bericht stellt die behandelnde Ärztin mithin ausdrücklich klar, dass die
+Thematik der Beziehung zum Stiefvater noch nicht adäquat thematisiert worden
+und sie zu einer Einschätzung des vom Antragsgegner für den Stiefvater
+ausgehenden Risikos noch nicht in der Lage sei. Die Beschreibung der
+Krisensituationen sowie die offenbar erst behutsam erfolgende Vertrauensbildung
+zwischen dem Antragsgegner und dem oder den behandelnden Therapeuten zeigt damit
+deutlich, dass die akute Gefahrensituation bzw. die negative Rückfallprognose,
+welche zur ursprünglichen Inhaftnahme geführt hat, nicht als überwunden gelten kann.
+
+Wie des Weiteren
+dem Beschluss des Strafgerichts vom 30. März 2022 zu entnehmen ist (vgl. dort
+S. 8 ff.), gab der im Jahre 2021 behandelnde Arzt des Antragsgegners, Dr. [...],
+an der Hauptverhandlung zu Protokoll, dass letzterer zwar seine Medikamente
+grundsätzlich zuverlässig eingenommen habe, jedoch habe sich dessen
+Psychopathologie in den letzten Jahren unabhängig davon verschlechtert. Die in
+der Folge getätigten Anpassungen in der Medikation hätten sich zudem insofern
+schwierig gestaltet, als der Antragsgegner seit Behandlungsbeginn eine
+medikamentenkritische Haltung einnehme, welche vermutungsweise darin begründet
+liege, dass er zwischen Nebenwirkungen und der ohnehin bestehenden
+Negativsymptomatik seiner Krankheit nicht unterscheiden könne. In Übereinstimmung
+dazu gab die in der Hauptverhandlung befragte Dr. [...] (Verfasserin des psychiatrischen
+Gutachtens über den Antragsgegner vom 3. Februar 2022) an, der Antragsgegner weise
+eine ambivalente Haltung gegenüber seiner Medikation auf, was sich nicht
+zuletzt darin zeige, dass er diese als nicht notwendig erachte und stattdessen
+die ihm verabreichten hohen Dosen für seine Zustandsverschlechterung
+verantwortlich mache. Erschwerend trete hinzu, dass seine Krankheitseinsicht
+fragil sei, was sich durch eine deutliche Bagatellisierung der Symptomatik
+manifestiert habe. Auch die derzeit behandelnde Ärztin Dr. [...] führe gemäss
+dem Strafgericht aus, dass sich der Antragsgegner bis anhin nur sehr
+eingeschränkt auf das Behandlungssetting eingelassen habe. Gemäss Dr. [...] habe
+sich die Behandlung des Antragsgegners aber auch deshalb schwierig gestaltet,
+weil sich seine Familie für eine Reduktion der verabreichten Medikamente sowie
+gegen eine Umstellung auf das bei resistenten Schizophrenieverläufen indizierte
+Medikament [...] eingesetzt habe. Dass die Familie des Antragsgegners seiner Behandlung
+kritisch gegenüberstehe und mitunter auch auf diese einzuwirken versucht habe, werde
+denn auch von anderen Stellen bestätigt: Gemäss einer E-Mail von B____ vom 7.
+April 2021 habe sich der Antragsgegner ihm gegenüber dahingehend geäussert,
+dass seine Familie immer wieder sage, es dürfe zu keiner Verlängerung der
+Probezeit kommen. Dem Protokoll zum Standortgespräch vom 20. April 2020 lasse
+sich entnehmen, dass sich die Mutter des Antragsgegners, C____, anlässlich der
+Besprechung nicht krankheitseinsichtig gezeigt habe sowie die Empfehlung einer
+Beistandschaft als Bedrohung und Erpressung empfunden habe. Gemäss Dr. [...]
+habe sie überdies versucht, im Rahmen eines auszustellenden Berichts auf sie
+einzuwirken.
+
+Schliesslich
+führt das Strafgericht aus, dass auch die zwischenzeitlich positive Entwicklung
+des Antragsgegners in seiner Wohnung innerhalb der [...] im April 2021 ein Ende
+genommen habe. Einem Bericht der [...] sei zu entnehmen, dass der Antragsgegner
+ab diesem Zeitpunkt nicht mehr zuverlässig zu den vereinbarten Terminen
+erschienen sei, seinen Bezugspersonen gegenüber ein aggressives Verhalten an
+den Tag gelegt habe und seine Medikamente nicht mehr zuverlässig abholen
+gegangen sei. Am 2. Juli 2021 habe die [...] der Bewährungshilfe gemeldet, dass
+das Betreuungs- und Mietverhältnis aufgrund eines zunehmend bedrohlichen
+Auftretens vonseiten des Antragsgegners gegenüber seinen Wohnbegleiterinnen und
+aufgrund des nachhaltig gestörten Vertrauensverhältnisses aufgelöst werde. Als
+Folge dieser Entwicklung habe die Bewährungshilfe bei der Kindes- und
+Erwachsenenschutzbehörde noch am selben Tag die Prüfung einer fürsorgerischen
+Unterbringung beantragt, welche mit amtsärztlicher Verfügung vom 6. Juli 2021
+ausgesprochen worden sei.
+
+Im Ergebnis ist
+zu konstatieren, dass sich  wie schon im Entscheid des Appellationsgerichts
+vom 15. Dezember 2021 (HB.2021.30) dargelegt wurde  in den Akten eindrückliche
+Hinweise darauf finden, dass der Antragsgegner weiterhin ein Verhalten an den
+Tag legt, welches eindeutige Parallelen mit dem der Tat im Jahr 2007
+vorausgehenden Verhalten aufweist. Wiederum nimmt er den Stiefvater negativ
+wahr und wie auch damals behauptet er vermeintliche Konflikte zwischen der
+Mutter und dem Stiefvater, welche er der Polizei meldete. Im Jahr 2007 erzählte
+er niemanden von seiner Tötungsabsicht, vielmehr konnte das Verhalten vor der
+Tat im Nachhinein als Anzeichen der sich immer mehr konkretisierenden Planung
+der Tötung seines Stiefvaters interpretiert werden. Die Tat beging der Antragsgegner
+im Jahr 2007 mit einem Messer. Ein solches trug er bis zu seiner Inhaftnahme
+offensichtlich schon seit längerer Zeit regelmässig auf sich. Damit liegen
+klare Alarmzeichen vor, dass er in seinem aktuellen Zustand wieder massiv
+delinquieren bzw. ein schweres Gewalt-delikt, wohl zu Lasten des Stiefvaters,
+begehen könnte. Angesichts der Schwere der möglichen drohenden Tat, namentlich
+eine Tötung, ist das Bestehen einer Rückfallgefahr bei den vorliegenden
+Anzeichen klarerweise zu bejahen. Der Bejahung des Haftgrunds steht auch nicht
+entgegen, dass sich die Gefährdung  wie vom Antragsgegner vorgebracht wird 
+lediglich gegen den Stiefvater zu richten scheint, ist das gesetzliche Ziel des
+Haftgrunds doch «die Sicherheit anderer», worunter auch eine schon
+spezifizierte Einzelperson wie der Stiefvater des Antragsgegners zu subsumieren
+ist. Dessen Fixierung auf eine Einzelperson lässt  im Gegensatz zu einer
+unbestimmten Anzahl zukünftiger unbekannter Opfer  eine Tatausführung sogar
+umso wahrscheinlicher erscheinen. Dies gilt umso mehr, als der Stiefvater
+bereits einmal Opfer des Antragsgegners war. Auch kann eine Wiederholungsgefahr
+nicht verneint werden, nur weil der Antragsgegner gemäss seinen Ausführungen
+keinen Schlüssel zur elterlichen Wohnung verfügt, wäre es ihm doch auch
+möglich, seinen Stiefvater ausserhalb der Liegenschaft abzupassen respektive
+anzutreffen. Was ferner die Kritik des Antragsgegners am Gutachten bzw. an den
+Aussagen der Sachverständigen anbelangt, so ist darauf hinzuweisen, dass es für
+deren Überprüfung der Begründetheit einer abschliessenden Würdigung durch die
+Beschwerdeinstanz im Verfahren BES.2022.60 bedarf und nicht Gegenstand des
+vorliegenden Haftverfahrens ist.
+
+Zusammenfassend ist
+die für die Anordnung von Sicherheitshaft im vollzugrechtlichen gerichtlichen
+Nachverfahren notwendige negative Rückfallprognose zurzeit gegeben, womit die
+Voraussetzungen zur Anordnung der Sicherheitshaft erfüllt sind und der Antrag
+des Antragsstellers gutzuheissen ist.
+
+4.
+
+Soweit die
+Anordnung von Sicherheitshaft im vollzugsrechtlichen gerichtlichen
+Nachverfahren eine zeitliche Dringlichkeit vorsieht (s. dazu BBl 2019 6697,
+6765), ist auch diese zu bejahen. Wie dargelegt, ist von einer aktuell und real
+bestehenden Todesgefahr für den Stiefvater auszugehen. Es kann deshalb nicht
+abgewartet werden, bis ein rechtskräftiger gerichtlicher Entscheid über eine
+mögliche Rückversetzung in den stationären Massnahmevollzug vorliegt. Die angeordnete
+Sicherheitshaft ist deshalb zu bestätigen.
+
+5.
+
+Der unter
+Wahnvorstellungen leidende schizophreniekranke Antragsgegner ist zurzeit
+grundsätzlich nicht hafterstehungsfähig. Allerdings ist er nicht in einer Haftanstalt,
+sondern auf einer geschlossenen Abteilung der UPK untergebracht und damit in
+einem für seinen Zustand adäquaten psychiatrischen Behandlungssetting.
+
+6.
+
+Was die Länge
+der Sicherheitshaft anbelangt, so wird eine vorläufige Dauer von 8 Wochen bis
+zum 27. Oktober 2022 festgelegt. Diese Zeitspanne erscheint in Bezug auf die
+Dauer einer möglichen Rückversetzung in den stationären Massnahmenvollzug von
+drei Jahren (vgl. Beschluss des Strafgerichts vom 30. März 2022) verhältnismässig.
+Gleichwohl hat die Beschwerdeinstanz darum besorgt zu sein, den Beschwerdeentscheid
+zeitnah zu treffen, um der Verschlechterung des Zustands des Antragsgegners
+Rechnung zu tragen.
+
+7.
+
+Dem Antragsgegner
+ist die amtliche Verteidigung für das Beschwerdeverfahren zu bewilligen. Der
+Verteidiger hat dazu keine Honorarnote eingereicht, weshalb sein angemessener
+Aufwand zu schätzen ist. Dieser wird auf einen Zeitaufwand von sechs Stunden à
+CHF 200. inklusive Auslagen und zuzüglich Mehrwertsteuer festgelegt. Für das
+Beschwerdeverfahren werden keine Gerichtskosten erhoben. Für die Einzelheiten
+wird auf das Dispositiv verwiesen.
+
+Über den Antrag
+auf Haftentschädigung wird mit dem Beschwerdeentscheid im Verfahren BES.2022.60
+befunden. Wie zudem das Bundesgericht festgestellt hat, ist die
+Unrechtmässigkeit der erstandenen Haft vorliegend nicht im Dispositiv des
+Haftprüfungsentscheides festzustellen, da der Antragssteller das Fehlen eines
+gültigen Hafttitels seit dem 22. April 2022 in seiner Verfügung vom 18. Mai
+2022 im Beschwerdeverfahren BES.2022.60 bereits gerichtlich festgestellt hat.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Der Antrag wird gutgeheissen und es wird
+über A____ Sicherheitshaft für die vorläufige Dauer von 8 Wochen bis zum 27.
+Oktober 2022 angeordnet.
+
+Für das Verfahren werden keine Kosten erhoben.
+
+Über den Antrag auf Haftentschädigung wird mit dem
+Beschwerdeentscheid im Verfahren BES.2022.60 befunden.
+
+Dem amtlichen Verteidiger, [...], wird ein Honorar von
+CHF 1'200., inklusive Auslagen und zuzüglich 7,7% MWST von CHF 92.40, aus
+der Gerichtskasse bezahlt.
+
+Mitteilung an:
+
+- Antragssteller
+
+- Antragsgegner
+
+- Amt für Justizvollzug, Straf- und Massnahmenvollzug
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur.
+Christian Hoenen                                         MLaw Martin Seelmann,
+LL.M.
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung kann gegen einen allfälligen Entscheid betreffend ihre
+Entschädigung für das zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b
+der Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom 30.
+Oktober 2014).
