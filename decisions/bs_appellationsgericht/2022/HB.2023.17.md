@@ -1,0 +1,401 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.268"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "HB"
+docket: "HB.2023.17"
+docket_2: "AG.2023.268"
+decided: "2022-06-29"
+published: "2023-04-25"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75007&W10_KEY=3052836&nTrefferzeile=556&Template=search_result_document.html"
+cites_decisions: ["1B_110/2023", "1B_24/2021", "1B_377/2022", "1B_432/2022", "6B_360/2014", "BGE 147 IV 505", "HB.2022.28", "HB.2022.44", "HB.2022.50", "HB.2022.54", "HB.2022.71", "HB.2023.11", "HB.2023.13", "HB.2023.17"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-140.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Verlängerung der Sicherheitshaft bis zum 15. Juni 2023 (BGer-Nr. 1B_288/2023 vom 13. Juni 2023)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+HB.2023.11
+
+HB.2023.13
+
+HB.2023.17
+
+ENTSCHEID
+
+vom 25.
+April 2023
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und Gerichtsschreiberin
+lic. iur. Barbara Noser Dussy
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt,                             Beschuldigter
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten
+durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerden gegen eine
+Verfügung des Zwangsmassnahmengerichts
+
+vom 2. März 2023 und gegen einen Beschluss
+des Strafgerichts vom
+
+23. März 2023
+
+betreffend Verlängerung der
+Sicherheitshaft bis zum 15. Juni 2023
+
+Sachverhalt
+
+A____
+(nachfolgend: Beschwerdeführer) wurde am 26. Juni 2022 unter dem Vorwurf
+festgenommen, er habe wenige Minuten zuvor auf dem Centralbahnplatz in Basel B____
+von hinten mit einem Hammer auf den Kopf geschlagen und, nachdem dieser infolge
+des Schlages zu Boden gefallen sei, weiter mit dem Hammer auf ihn
+eingeschlagen, bis er von Passanten aufgehalten und fixiert worden sei. Die
+Staatsanwaltschaft leitete gegen ihn ein Strafverfahren wegen versuchter
+vorsätzlicher Tötung ein. Das Zwangsmassnahmengericht (Einzelgericht) ordnete
+mit Verfügung vom 29. Juni 2022 Untersuchungshaft auf die vorläufige Dauer von
+12 Wochen über den Beschwerdeführer an. Das Appellationsgericht (AGE HB.2022.28
+vom 14. Juli 2022) und das Bundesgericht (Urteil 1B_432/2022 vom 8. September 2022)
+bestätigten die Haftanordnung.
+
+In der Folge
+wurde die Untersuchungshaft mehrfach verlängert, letztmals mit Verfügung des
+Zwangsmassnahmengerichts vom 14. Oktober 2022 bis zum 21. Dezember 2022. Mit
+Verfügung vom 9. November 2022 wies das Zwangsmassnahmengericht zudem ein
+Haftentlassungsgesuch des Beschwerdeführers ab. Alle Verfügungen des
+Zwangsmassnahmengerichts wurden vom Beschwerdeführer erfolglos angefochten
+(vgl. AGE HB.2022.44 vom 24. Oktober 2022, HB.2022.50 vom 15. November
+2022, HB.2022.54 vom 12. Dezember 2022).
+
+Am 14. Dezember
+2022 überwies die Staatsanwaltschaft das Verfahren an das Strafgericht und
+stellte in Anwendung von Art. 374 Abs. 1 der Strafprozessordnung Antrag
+auf Anordnung einer stationären Massnahme. Gleichzeitig beantragte sie beim
+Zwangsmassnahmengericht die Anordnung von Sicherheitshaft. Mit Verfügung vom
+22. Dezember 2022 ordnete das Zwangsmassnahmengericht über den Beschwerdeführer
+Sicherheitshaft bis zum 8. März 2023 an. Die hiergegen vom Beschwerdeführer
+(persönlich) erhobene Beschwerde vom 28. Dezember 2022 wurde vom
+Appellationsgericht mit Entscheid vom 30. Januar 2023 abgewiesen. Das
+Bundesgericht wies mit Urteil 1B_110/2023 vom 6. März 2023 die gegen den
+Entscheid des Appellationsgerichts gerichtete Beschwerde ab.
+
+Mit Verfügung
+vom 2. März 2023 verlängerte das Zwangsmassnahmengericht die Sicherheitshaft
+bis zum 23. März 2023. Gegen diese Verfügung hat der Beschwerdeführer (persönlich)
+mit Eingabe vom 12. März 2023 Beschwerde erhoben, mit der er seine
+unverzügliche Haftentlassung beantragt. Mit Beschwerdeergänzung vom 16. März
+2023 hat er den Beizug seiner handschriftlichen Ergänzung der Replik zur
+Stellungnahme der Staatsanwaltschaft vom 13. Dezember 2022 sowie seiner
+handschriftlichen Stellungnahme an das Bundesgericht vom 3. März 2023
+beantragt. Die beiden Stellungnahmen wurden zu den Akten genommen und der
+Staatsanwaltschaft zur Kenntnis gebracht. Die Staatsanwaltschaft hat sich am
+21. März 2023 mit dem Antrag auf vollumfängliche Abweisung der Beschwerde
+vernehmen lassen. Hierzu hat der Beschwerdeführer am 31. März 2023 repliziert. Dieses
+Verfahren ist am Appellationsgericht unter der Verfahrensnummer HB.2023.11
+erfasst.
+
+Mit Urteil des
+Strafgerichts Basel-Stadt vom 23. März 2023 wurde festgestellt, dass A____ schuldlos
+eine versuchte vorsätzliche Tötung begangen habe, und es wurde über ihn eine
+stationäre psychiatrische Behandlung nach Art. 59 des Strafgesetzbuches angeordnet.
+Gleichentags wurde mit Beschluss des Strafgerichts die Sicherheitshaft auf die
+vorläufige Dauer von zwölf Wochen bis zum 15. Juni 2023 verlängert. Gegen
+diesen Beschluss hat der Beschwerdeführer (persönlich) mit Eingabe vom 24. März
+2023 Beschwerde erhoben, mit der er wiederum seine unverzügliche Haftentlassung
+beantragt. Der Beschwerde hat er eine Kopie aus einem anderen Schreiben
+beigelegt, mit der er die Verletzung des Untersuchungsgrundsatzes rügte. Die
+Verfahrensleiterin hat den angefochtenen Beschluss sowie das Protokoll und das
+Dispositiv der Hauptverhandlung des Strafgerichts beigezogen. Mit
+Stellungnahmen vom 29. März 2023 haben sowohl die Staatsanwaltschaft wie auch
+der Strafgerichtspräsident die Abweisung der Beschwerde beantragt. Der
+Beschwerdeführer hat mit Eingabe vom 11. April 2023 zur Stellungnahme der
+Staatsanwaltschaft, mit Eingabe vom 13. April 2023 zu jener des
+Strafgerichtspräsidenten repliziert. Dieses Beschwerdeverfahren ist unter der
+Verfahrensnummer HB.2023.13 erfasst.
+
+Mit Eingabe vom
+3. April 2023 hat auch der Verteidiger des Beschwerdeführers Beschwerde gegen
+den Beschluss des Strafgerichts vom 23. März 2023 betreffend Verlängerung der
+Sicherheitshaft erhoben und die unverzügliche Haftentlassung des
+Beschwerdeführers beantragt. Mit Stellungnahmen vom 11. und 12. April 2023 haben
+die Staatsanwaltschaft und der Strafgerichtspräsident die vollumfängliche
+Abweisung auch dieser Beschwerde beantragt. Der Verteidiger des
+Beschwerdeführers hat am 20. April 2023 repliziert. Dieses Verfahren ist unter
+der Verfahrensnummer HB.2023.17 erfasst.
+
+Die
+Verfahrensleiterin hat mit Verfügung vom 30. März 2023 die Verfahren
+HB.2023.11, HB.2023.13 und HB.2023.17 vereinigt.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten der
+Parteistandpunkte ergeben sich, soweit sie für den Entscheid von Bedeutung
+sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Da
+in allen drei Beschwerdeverfahren HB.2023.11, HB.2023.13 und HB.2023.17 die
+Zulässigkeit der Verlängerung der Sicherheitshaft des Beschwerdeführers Thema
+ist, hat die Verfahrensleiterin die drei Verfahren vereinigt.
+
+1.2 Die
+inhaftierte Person kann Entscheide betreffend Verlängerung von Sicherheitshaft
+innert zehn Tagen nach Eröffnung des entsprechenden Beschlusses mit Beschwerde
+anfechten (Art. 393 Abs. 1 lit. c in Verbindung mit Art. 222 StPO). Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88 Abs. 1
+in Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG,
+SG 154.100]), welches gemäss Art. 393 Abs. 2 StPO mit voller Kognition urteilt.
+Auf die form- und fristgerecht eingereichten Beschwerden (vgl. Art. 396 Abs. 1
+StPO) ist daher einzutreten.
+
+2.
+
+Die Verlängerung
+von Sicherheitshaft ist nach Art. 221 Abs. 1 StPO zulässig, wenn die
+beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist
+und zudem Flucht-, Kollusions- oder Fortsetzungsgefahr besteht. Die Haft muss
+überdies verhältnismässig sein. Sie ist aufzuheben, sobald Ersatzmassnahmen zum
+gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c StPO) und
+darf nicht länger dauern als die zu erwartende bzw. ausgesprochene Freiheitsstrafe
+(Art. 212 Abs. 3 StPO).
+
+3.
+
+3.1 Der
+Beschwerdeführer bestreitet das Vorliegen eines dringenden Tatverdachts. Er
+macht geltend, die Zeugen hätten sich im «Turbulenzgeschehen» irren können. Die
+Staatsanwaltschaft und das Strafgericht seien nie von der Hypothese
+ausgegangen, der Beschwerdeführer könnte doch nicht der Täter sein.
+
+3.2 Praxisgemäss
+ist beim Vorliegen der Anklageschrift und namentlich nach einer
+erstinstanzlichen Verurteilung von einem dringenden Tatverdacht auszugehen, wenn
+der Beschuldigte im Haftprüfungs- oder Haftbeschwerdeverfahren nicht darzutun
+vermag, dass die Annahme eines dringenden Tatverdachts geradezu unhaltbar ist (BGer
+1B_24/2021 vom 2. Februar 2021 E. 4.2 m.W.H.; AGE BES.2023.39 vom 31. März
+2023 E. 3). Dieser Nachweis gelingt dem Beschwerdeführer nicht, wofür auf die
+bisherigen Entscheide des Appellationsgerichts und des Bundesgerichts in dieser
+Sache verwiesen werden kann (AGE HB.2022, 28, HB.2022.44, HB.2022.50,
+HB.2022.54, HB.2022.71; BGer 1B_432/2022, 1B_110/2023). Es haben mehrere
+unbeteiligte Personen klar und übereinstimmend ausgesagt, dass der
+Beschwerdeführer das Opfer mit dem Hammer angegriffen habe; von einem
+angeblichen Dritt­täter hat niemand etwas gesehen. Entgegen den Behauptungen
+des Beschwerdeführers bestand auch kein «Turbulenzgeschehen» im Sinne einer
+unübersichtlichen Situation, da lediglich zwei (nach Behauptung des
+Beschwerdeführers drei) Personen in den Vorfall involviert waren und ein einseitiger
+Angriff erfolgte, welcher nur wenige Sekunden dauerte.
+
+4.
+
+4.1 Weiter
+bestreitet der Beschwerdeführer den Haftgrund der Fortsetzungsgefahr. Er macht
+geltend, dass die Staatsanwaltschaft den Beschwerdeführer mit einer Täuschung
+in der Rechtsbelehrung («Körperverletzung» statt «versuchte schwere
+Körperverletzung») dazu verleitet habe, Aussagen zu machen, welche er mit einer
+korrekten Rechtsbelehrung nicht gemacht hätte. Somit sei die erste Einvernahme
+des Beschwerdeführers nicht verwertbar und daher aus den Akten zu entfernen.
+Aus den bei dieser Einvernahme gemachten Aussagen sei abgeleitet worden, dass
+der Beschwerdeführer an einer psychischen Störung leiden könnte, weshalb man
+ein Gutachten eingeholt habe. Das eingeholte Gutachten sei als Folge der
+Unverwertbarkeit der ersten Einvernahme ebenfalls nicht verwertbar. Es könne
+daher nicht darauf abgestellt werden.
+
+4.2 Wie
+die Staatsanwaltschaft in ihrer Stellungnahme vom 11. April 2023 zu Recht
+geltend macht, kann von einer Täuschung bei der Rechtsbelehrung im Sinne einer
+verbotenen Beweiserhebungsmethode gemäss Art. 140 StPO keine Rede sein. Um eine
+Einvernahme wegen einer Täuschung unverwertbar zu machen, muss eine bewusste,
+vorsätzliche Täuschung durch den Befragenden über äussere Tatsachen, innere
+Tatsachen oder die Rechtslage vorliegen, mit dem Zweck, den Befragten zu
+beeinflussen (vgl. Brodbeck , Irrtum
+und Täuschung in der Einvernahme (unilu.ch), S. 9-14). Klar nicht von Art. 140
+StPO erfasst sind Täuschungen, die gar keine relevante Beeinflussung der
+Aussagen des Beschuldigten beabsichtigen, weil sie beispielsweise mit der
+Beweiserhebung gar nichts zu tun haben (Brodbeck, a.a.O. S. 25). Im
+vorliegenden Fall liegt überhaupt keine Täuschung des Beschwerdeführers vor. Es
+wurde ihm von Anfang an unverändert vorgeworfen, dass er das Opfer auf dem
+Centralbahnplatz mit einem Hammer angegriffen und verletzt habe. Aus dem
+Umstand, dass in der ersten Befragung dem Beschwerdeführer der gleiche
+Sachverhalt zuerst als eine Körperverletzung und am Schluss als versuchte
+Tötung vorgehalten wurde, lässt sich kein täuschendes Verhalten der
+Ermittlungsbehörden konstruieren. Wie die Staatsanwaltschaft zutreffend
+ausführt, kann sich die rechtliche Qualifikation einer Tat im Laufe des
+Verfahrens ändern. Das Gericht ist denn auch nicht an die rechtliche
+Qualifikation durch die Staatsanwaltschaft gebunden. Entscheidend ist, dass der
+Beschuldigte genau weiss, was ihm konkret vorgeworfen wird, damit er dazu
+Stellung nehmen und seine Verteidigung wirksam vorbereiten kann (BGE 147 IV 505
+E. 2.1 [Pra. 6/2022 Nr. 55], 141 IV 132 E. 3.4.1). Die Frage, ob eine
+in objektiver Hinsicht einfache Körperverletzung sich schliesslich als
+versuchte schwere Körperverletzung oder gar als versuchte Tötung erweist, hängt
+zudem von der inneren Gesinnung des Täters ab, welche aufgrund von Umständen zu
+ermitteln ist, die sich oft erst im Laufe des Verfahrens ergeben. Darin, dass
+in der anlässlich der ersten Einvernahme die dem Beschwerdeführer vorgeworfene
+Tat zunächst als «Körperverletzung» und später als «versuchte Tötung»
+qualifiziert wurde, liegt somit kein täuschendes Verhalten durch den
+Befragenden. Es ist auch nicht ersichtlich und wird vom Beschwerdeführer nicht
+geltend gemacht, wie er sich bei der ersten Befragung anders geäussert hätte,
+wenn ihm in der Rechtsbelehrung «versuchte schwere Körperverletzung» oder
+«versuchte Tötung» statt «Körperverletzung» vorgehalten worden wäre. So oder so
+hat der Beschwerdeführer die Täterschaft von Anfang an vehement bestritten und
+sich zu keinem Zeitpunkt selbst belastet. Es ist somit unerfindlich, inwiefern
+der Beschwerdeführer einem von der Staatsanwaltschaft durch verbotene Täuschung
+verursachen Irrtum unterlegen sein soll. Die erste Einvernahme des
+Beschwerdeführers ist daher nicht unverwertbar und macht damit auch das nach
+dieser Einvernahme in Auftrag gegebene Gutachten nicht unverwertbar.
+
+4.3 Was
+die inhaltliche Kritik des Beschwerdeführers am psychiatrischen Gutachten
+betrifft (sowohl in seinen persönlich verfassten Eingaben wie auch in der
+Eingabe seines Verteidigers), ist wie bereits in den früheren Entscheiden des
+Appellationsgerichts (HB.2022.50 E. 4.3.4 und HB.2022.71 E. 3.3) und des
+Bundesgerichts (BGer 1B_377/2022 E. 6.4.6 und 1B_110/2023 E. 4.2) darauf
+hinzuweisen, dass im Haftprüfungsverfahren grundsätzlich keine umfassende
+Würdigung von psychiatrischen Gutachten vorzunehmen ist. Es genügt eine
+summarische Würdigung des Gutachtens auf offensichtliche oder schwere Mängel.
+Solche sind vorliegend nicht ersichtlich. Vielmehr erscheinen die Ausführungen
+des Psychiaters im Gutachten vom 16. November 2022 und anlässlich der
+erstinstanzlichen Verhandlung vom 23. März 2023 als schlüssig und
+nachvollziehbar. Es ist damit weiterhin von einer sehr ungünstigen
+Rückfallprognose auszugehen, so dass auch die Haftgründe der Ausführungs- und
+Fortsetzungsgefahr nach wie vor zu bejahen sind.
+
+5.
+
+Schliesslich
+bestreitet der Beschwerdeführer die Verhältnismässigkeit der Sicherheitshaft
+und macht geltend, dass anstelle der Haft die Anordnung von Ersatzmassnahmen
+genügen würde (Antigewalt-Training, Kantonales Bedrohungsmanagement,
+Bewährungshilfe, Electronic Monitoring). Hierzu hat der Gutachter in der
+Verhandlung des Strafgerichts ausgeführt, dass sich die paranoide Schizophrenie
+nur im Rahmen einer stationären Massnahme wirksam behandeln lasse. Der
+Beschwerdeführer zeige keine Krankheitseinsicht und habe in der Vergangenheit
+Medikamente nach kurzer Zeit abgesetzt. Ein Antigewalttraining sei nicht
+geeignet, da die vom Beschwerdeführer ausgehende Gefahr Ausdruck der Erkrankung
+sei, der nicht durch kognitive Verfahren Herr zu werden sei. Auch ein
+kantonales Bedrohungsmanagement oder Bewährungshilfe würden nicht ausreichen,
+um dem Risiko für erneute Straftaten wirksam zu begegnen (Protokoll der
+Verhandlung vom 22./23. März 2023, S. 15 f.). Angesichts des Umstands, dass
+über den Beschwerdeführer eine stationäre Massnahme nach Art. 59 StGB
+angeordnet wurde (Höchstdauer gemäss Art. 59 Abs. 4 StGB: 5 Jahre,
+verlängerbar um weitere 5 Jahre), waren sowohl die Verlängerung der
+Sicherheitshaft für 15 Tage bis zur Hauptverhandlung des Strafgerichts als auch
+die Verlängerung von Sicherheitshaft nach der Urteilseröffnung bis zum 15. Juni
+2023 verhältnismässig.
+
+6.
+
+6.1 Aus
+dem Gesagten ergibt sich, dass die Beschwerde abzuweisen ist. Bei diesem
+Ausgang des Verfahrens hat der Beschwerdeführer grundsätzlich dessen
+ordentliche Kosten mit einer Gebühr von CHF 750. zu tragen (Art. 428 Abs. 1
+StPO in Verbindung mit § 21 Abs. 2 des Gerichtsgebührenreglements [GGR, SG
+154.810]). Über die definitive Auferlegung der Kosten ist allerdings erst mit
+dem Berufungsurteil oder  falls kein Berufungsurteil ergeht  in einem
+separaten Entscheid der Appellationsgerichtspräsidentin zu befinden (Art. 421
+Abs. 1 StPO).
+
+6.2 Dem amtlichen
+Verteidiger, [...], ist ein Honorar aus der Gerichtskasse auszurichten. Mangels
+Einreichung einer Honorarnote ist sein Aufwand zu schätzen, wobei angesichts
+der Kürze seiner Eingaben und des Umstands, dass er mit der Sache aus dem
+Hauptverfahren bestens vertraut war, von einem Aufwand von nicht mehr als 2
+Stunden für Beschwerde und Replik auszugehen ist. Der Entscheid über eine
+allfällige Rückforderung gemäss Art. 135 Abs. 4 StPO wird dem
+Berufungsurteil oder  falls kein Berufungsurteil ergeht einem separaten
+Entscheid der Appellationsgerichtspräsidentin vorbehalten (Art. 421 Abs. 1
+StPO).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerden gegen die Verfügung des
+Zwangsmassnahmengerichts vom 2. März 2023 und gegen den Beschluss des
+Strafgerichts vom 23. März 2023 werden abgewiesen.
+
+Die Gerichtsgebühr für die Beschwerdeverfahren wird auf CHF
+750. (einschliesslich Auslagen) festgesetzt. Die Regelung der Kostenauflage
+wird dem Berufungsurteil oder  falls kein Berufungsurteil ergeht  einem
+separaten Entscheid der Appellationsgerichtspräsidentin vorbehalten (Art. 421
+Abs. 1 StPO).
+
+Dem amtlichen Verteidiger, [...], wird für das
+Beschwerdeverfahren ein Honorar von CHF 616.65 und ein Auslagenersatz von CHF 22.85,
+zuzüglich 7,7 % MWST von CHF 49.25, insgesamt also CHF 688.75, aus der
+Gerichtskasse ausgerichtet. Der Entscheid über eine allfällige Rückforderung
+gemäss Art. 135 Abs. 4 StPO wird dem Berufungsurteil oder  falls kein
+Berufungsurteil ergeht  einem separaten Entscheid der
+Appellationsgerichtspräsidentin vorbehalten (Art. 421 Abs. 1 StPO).
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Strafgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               lic. iur. Barbara
+Noser Dussy
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung und die unentgeltliche Vertretung der Privatklägerschaft können
+gegen einen allfälligen Entscheid betreffend ihre Entschädigung für das
+zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b der
+Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom
+30. Oktober 2014).
