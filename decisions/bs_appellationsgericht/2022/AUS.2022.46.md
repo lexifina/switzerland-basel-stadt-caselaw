@@ -1,0 +1,370 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.578"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2022.46"
+docket_2: "AG.2022.578"
+decided: "2022-07-04"
+published: "2022-09-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74001&W10_KEY=3048518&nTrefferzeile=472&Template=search_result_document.html"
+cites_decisions: ["2A.115/2002", "2C_260/2018", "2C_263/2019", "2C_285/2013", "2C_526/2016", "2C_550/2020", "2C_593/2008", "2C_804/2008", "BGE 124 II 49", "BGE 125 II 377", "BGE 127 II 168", "BGE 130 II 56", "BGE 134 I 92", "BGE 140 II 409"]
+cites_law: ["switzerland/bund/acts/101/art-031.md", "switzerland/bund/acts/142.20/art-075.md", "switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-078.md", "switzerland/bund/acts/142.20/art-079.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-090.md", "switzerland/bund/acts/142.31/art-003.md"]
+---
+
+# Verlängerung der Ausschaffungshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+
+AUS.2022.46
+
+URTEIL
+
+vom 21.
+September 2022
+
+Beteiligte
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, Postfach, 4001
+Basel
+
+gegen
+
+A____, geb. [...] 2001, von
+Tunesien,
+
+Wohnort unbekannt
+
+zurzeit im Gefängnis Bässlergut, Freiburgerstr. 48,
+4057 Basel
+
+Gegenstand
+
+Verfügung des
+Migrationsamtes vom 15. September 2022
+
+betreffend Verlängerung der
+Ausschaffungshaft
+
+Sachverhalt
+
+Der nach eigenen
+Angaben tunesische Staatsangehörige A____ (nachfolgend: Beurteilter), geb. am [...] 2001,
+befindet sich seit dem 1. Juli 2022 in Ausschaffungshaft, dies nachdem
+er sich am 28. Juni 2022 anlässlich einer Kontrolle eines Fahrzeugs
+mit deutschem Kennzeichen bei der Ausreise nach Frankreich durch den
+französischen Zoll am Grenzübergang Basel/St. Louis Autobahn nicht hatte
+ausweisen können und er in der Folge den schweizerischen Behörden übergeben
+worden war. Am 1. Juli 2022 verfügte das Migrationsamt die Wegweisung
+des Beurteilten aus der Schweiz und ordnete die Ausschaffungshaft über ihn an
+für die Dauer von drei Monaten, d.h. bis zum 29. September 2022. Mit
+Urteil vom 4. Juli 2022 bestätigte der Einzelrichter für
+Zwangsmassnahmen im Ausländerrecht die Haftanordnung (VGE AUS.2022.31).
+
+Nach Befragung
+und Gewährung des rechtlichen Gehörs hat das Migrationsamt mit Verfügung vom
+15. September 2022 die Ausschaffungshaft um drei Monate, d.h. bis zum
+28. Dezember 2022, 14:00 Uhr, verlängert.
+
+Am
+21. September 2022 hat vor dem Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht unter Beizug eines Dolmetschers eine mündliche Verhandlung
+stattgefunden. Dabei ist der Beurteilte befragt worden, wofür auf das Protokoll
+verwiesen wird. Das vorliegende Urteil (einschliesslich Rechtsmittelbelehrung)
+ist dem Beurteilten anlässlich der mündlichen Verhandlung erläutert und ihm
+(und dem Migrationsamt) überdies schriftlich ausgehändigt worden.
+
+Erwägungen
+
+1.
+
+1.1 Die
+erstmalige Haftanordnung gilt noch bis zum 29. September 2022. Die
+heutige gerichtliche Überprüfung der Haftverlängerungsverfügung findet folglich
+vor Ablauf der bereits angeordneten Ausschaffungshaft und damit rechtzeitig
+statt.
+
+1.2 Die
+bedürftige Partei hat gestützt auf Art. 29 Abs. 3 Satz 2 der Bundesverfassung
+(BV, SR 101) einen Anspruch darauf, dass ihr auf Gesuch hin ein unentgeltlicher
+Rechtsvertreter bestellt wird, falls dies zur Wahrung ihrer Rechte notwendig erscheint.
+Nach Art. 31 Abs. 2 Satz 2 BV muss jede Person, welcher die Freiheit entzogen
+wird, die Möglichkeit haben, ihre Rechte  in einer den Umständen angemessenen,
+wirksamen Weise  geltend zu machen. Dem Ausländer droht bei der
+Haftverlängerung nach drei Monaten eine schwere Freiheitsbeschränkung, die für
+ihn mit rechtlichen und tatsächlichen Schwierigkeiten verbunden ist, denen er 
+auf sich selber gestellt  mangels Kenntnis der Sprache und der hiesigen
+Verhältnisse nicht gewachsen ist. Die wirksame Geltendmachung seiner Rechte
+setzt deshalb spätestens in diesem Verfahrensabschnitt voraus, dass einem
+Antrag auf unentgeltliche Verbeiständung entsprochen wird (BGE 134 I 92 E.
+3.2.3; BGer 2C_526/2016 vom 30. Juni 2016 E. 2.1).
+
+Vorliegend hat
+der Beurteilte anlässlich seiner Befragung beim Migrationsamt vom
+15. September 2022  obwohl er gemäss der zitierten Rechtsprechung des
+Bundesgerichts Anspruch auf Bewilligung eines Gesuchs um unentgeltliche
+Verbeiständung hätte  explizit auf eine anwaltliche Vertretung verzichtet. Da
+keine Anzeichen eines Willensmangels vorliegen, kann die heutige Verhandlung
+demgemäss ohne anwaltliche Begleitung durchgeführt werden.
+
+1.3 Der
+Beurteilte hat während der Haftverhandlung einen Asylantrag gestellt. Dies wird
+dem Migrationsamt mitgeteilt. Wer ein Asylgesuch gestellt hat, darf sich bis
+zum Abschluss des Verfahrens in der Schweiz aufhalten (Art. 42 des
+Asylgesetzes [AsylG, SR 142.31]). Die Verpflichtung zur Ausreise entfällt
+vorderhand, womit in einem solchen Fall eine Ausschaffungshaft im Sinne von
+Art. 76 des Ausländer- und Integrationsgesetzes (AIG, SR 142.20)
+grundsätzlich nicht mehr in Frage kommt. Es kann höchstens noch eine
+Vorbereitungshaft nach Art. 75 AIG angeordnet werden, welche nicht
+die Sicherstellung des Vollzugs eines Weg- oder Ausweisungsentscheids bezweckt,
+sondern der Durchführung eines Wegweisungsverfahrens dient (BGer 2C_260/2018
+vom 9. April 2018 E. 4.2). Stellt der sich in Ausschaffungshaft
+befindliche Ausländer während des Vollzugsverfahrens ein Asylgesuch, so hindert
+dies den Vollzug der Wegweisung bis zum Abschluss des Asylverfahrens, lässt
+aber nicht notwendigerweise die Haftvoraussetzungen der Ausschaffungshaft
+dahinfallen (BGE 140 II 409 E. 2.3.4 S. 413; BGer
+2C_593/2008 vom 22. August 2008 E. 2.2). Das Bundesgericht
+erachtet die Fortsetzung der Ausschaffungshaft unter der Voraus-setzung für
+zulässig, dass mit dem Abschluss des Asylverfahrens und dem Vollzug in
+absehbarer Zeit gerechnet werden kann (BGE 125 II 377 E. 2b
+S. 380 und 140 II 209 E. 2.3.3 S. 413 mit weiteren
+Hinweisen; BGer 2C_260/2018 vom 9. April 2018 E. 4.2).
+
+Der Beurteilte
+wurde am 28. Juni 2022 festgesetzt und befindet sich seit dem
+1. Juli 2022 in Ausschaffungshaft. Er hätte also schon längst ein
+Asylgesuch stellen können. Da er sein Asylgesuch erst nach zweieinhalb Monaten
+stellt, ist, nachdem der Wegweisungsentscheid vom 1. Juli 2022
+mangels Anfechtung längst in Rechtskraft erwachsen ist, von einem
+missbräuchlichen Nachschieben des Asylgesuchs auszugehen, um sich der drohenden
+Ausschaffung zu entziehen (Art. 75 Abs. 1 lit. f AIG; Businger , Ausländerrechtliche Haft,
+Zürich 2015, S. 168 f.). Der Beurteilte trägt nichts vor, woraus
+in ernsthafter Weise zu schliessen wäre, dass er persönlich die Flüchtlingseigenschaften
+im Sinne von Art. 3 AsylG erfüllen könnte. Es kann daher davon ausgegangen
+werden, dass das Asylverfahren in absehbarer Zeit abgeschlossen werden kann.
+Der Beurteilte braucht daher nicht in Vorbereitungshaft versetzt zu werden,
+sondern kann in Ausschaffungshaft belassen werden. Die zuständigen Behörden
+sind indessen daran zu erinnern, dass sie das Asylgesuch beschleunigt zu
+behandeln haben (Art. 75 Abs. 2 AIG; BGer 2C_593/2008 vom
+22. August 2008 E. 2.2 und 2C_260/2018 vom
+9. April 2018 E. 4.2).
+
+2.
+
+2.1 Das
+Migrationsamt hat in der Haftverlängerungsverfügung zunächst auf den
+Wegweisungsentscheid vom 1. Juli 2022 hingewiesen. Bezüglich dieser
+Haftvoraussetzung kann vollumfänglich auf die betreffenden Erwägungen im ersten
+Hafturteil verwiesen werden (VGE AUS.2022.32 vom 4. Juli 2022
+E. 2).
+
+2.2 Das
+Migrationsamt hat die Haftverlängerung mit der Untertauchensgefahr
+(Art. 76 Abs. 1 lit. b Ziff. 3 und 4 des Ausländer- und
+Integrationsgesetzes [AIG, SR 142.20]) begründet. Mit seinem bisherigen
+Verhalten zeige der Beurteilte deutlich, dass er nicht gewillt sei, sich an
+behördliche Anordnungen zu halten. Dies werde belegt durch die rege, illegal
+vorgenommene Reiseroute durch den Schengenraum, der Verweigerung der
+Mitwirkungspflicht bei der Papierbeschaffung sowie seiner Absicht, im Falle
+einer Haftentlassung illegal nach Frankreich zu reise. Mit seinem ganzen
+bisherigen Verhalten habe der Beurteilte konkrete Anzeichen gesetzt, die
+befürchten liessen, dass er sich der Ausschaffung entziehen wolle.
+
+Wie bereits im
+ersten Hafturteil (VGE AUS.2022.32 vom 4. Juli 2022 E. 3.2)
+ausgeführt wurde, hat der Beurteilte mit seiner Reise von Tunesien aus über die
+Türkei, Serbien, Ungarn, Österreich und die Schweiz eine weite, mühevolle
+Reiseroute gewählt, um nach Frankreich zu gelangen, wobei er sich in Serbien
+seiner Reisedokumente entledigte. Mit seinem Reiseverhalten ohne gültige
+Papiere und ohne gültiges Visum für Frankreich oder den Schengenraum machte er
+unmissverständlich deutlich, dass er nicht bereit ist, sich an die rechtliche
+Ordnung und behördliche Anordnungen zu halten. Es steht ernsthaft zu
+befürchten, dass der Beurteilte bei einer Freilassung den schweizerischen
+Behörden, die für seine Rückführung nach Tunesien zuständig sind, nicht mehr
+zur Verfügung stehen, sondern sich ihnen entziehen würde. Ein weiteres Indiz
+für eine Untertauchensgefahr ist, dass der Beurteilte ohne jeglichen
+Aufenthaltsort in der Schweiz ist und über keinerlei finanzielle Mittel
+verfügt, mit denen er ein Rückflugticket erwerben könnte. Ohne gültige
+Reisepapiere ist eine eigenständige Rückkehr nach Tunesien praktisch nicht
+möglich. Ohnehin ist er nicht bereit, in sein Herkunftsland zurückzukehren
+(Verhandlungsprotokoll vom 21. Sep-tember 2022, S. 4). Es bestehen
+somit unverändert erhebliche Anhaltspunkte, dass der Beurteilte sich bei
+Freilassung einer Rückschaffung in seine Heimat entziehen und untertauchen
+würde. Der Haftgrund von Art. 76 Abs. 1 lit. b Ziff. 3 und
+4 AIG ist somit erfüllt.
+
+3.
+
+3.1 Die
+Vorbereitungs- und die Ausschaffungshaft nach Art. 75 bis 77 AIG sowie die
+Durchsetzungshaft nach Art. 78 AIG dürfen zusammen in der Regel die maximale
+Haftdauer von sechs Monaten nicht überschreiten (Art. 79 Abs. 1 AIG); mit
+Zustimmung der kantonalen richterlichen Behörde kann diese um höchstens zwölf
+Monate verlängert werden, (a) wenn die betroffene Person nicht mit der
+zuständigen Behörde kooperiert oder (b) sich die Übermittlung der für die
+Ausreise erforderlichen Unterlagen durch einen Nicht-Schengenstaat verzögert
+(Art. 79 Abs. 2 AIG). Die für den Vollzug der Weg- oder Ausweisung notwendigen
+Vorkehren sind umgehend zu treffen (Art. 76 Abs. 4 AIG; Beschleunigungsgebot). Weiter
+darf der Vollzug einer allfälligen Weg- oder Ausweisung nicht aus rechtlichen
+oder tatsächlichen Gründen undurchführbar sein (Art. 80 Abs. 6 lit. a AIG; BGE
+127 II 168 E. 2c S. 171 f.). Die Ausschaffungshaft soll den Vollzug der
+Entfernungsmassnahme sicherstellen und muss ernsthaft geeignet sein, diesen
+Zweck zu erreichen, was nicht (mehr) der Fall ist, wenn die Weg- oder
+Ausweisung trotz der behördlichen Bemühungen nicht in einem angemessenen
+Zeitraum vollzogen werden kann. Die Festhaltung hat, weil unverhältnismässig,
+dann als rechtswidrig zu gelten, wenn triftige Gründe für solche Verzögerungen
+sprechen oder praktisch feststeht, dass sich der Vollzug kaum innert
+vernünftiger Frist wird realisieren lassen (vgl. statt vieler BGer 2C_263/2019
+vom 27. Juni 2019 E. 4.1 mit Hinweis auf BGE 130 II 56 E. 4.1.3 S. 61).
+Die Haft ist allerdings nur aufzuheben, wenn keine oder bloss eine höchst
+unwahrscheinliche, rein theoretische Möglichkeit besteht, dass die Wegweisung
+vollzogen werden kann, nicht jedoch bei einer ernsthaften, wenn auch allenfalls
+(noch) geringen Aussicht besteht (BGE 130 II 56 E. 4.1.3
+S. 61 mit Hinweisen; BGer 2C_550/2020 vom 16. Juli 2020 E. 3.3
+mit Hinweisen). Die Festhaltung hat so kurz wie möglich zu sein; sie darf sich
+nur auf die Dauer der laufenden Abschiebungsvorkehrungen erstrecken, soweit
+diese mit der gebotenen Sorgfalt vorangetrieben werden (vgl. Art. 15 Abs. 1 RL
+2008/115/EG). Die Haft muss als Ganzes verhältnismässig sein (vgl. BGE 130 II
+56 E. 1 S. 58 und 125 II 369 E. 3a S. 374 f.).
+
+Zum
+Beschleunigungsgebot im Wegweisungsverfahren hält das Bundesgericht im
+Entscheid 139 I 206 E. 2.1 S. 211 fest: "Nach Art. 76 Abs. 4 AIG sind die
+für den Vollzug der Weg- oder Ausweisung notwendigen Vorkehren umgehend zu
+treffen. Gemäss der bundesgerichtlichen Rechtsprechung gilt das
+Beschleunigungsgebot als verletzt, wenn während mehr als zwei Monaten keinerlei
+Vorkehren mehr im Hinblick auf die Ausschaffung getroffen wurden (Untätigkeit
+der Behörden), ohne dass die Verzögerung in erster Linie auf das Verhalten
+ausländischer Behörden oder des Betroffenen selber zurückgeht (BGE 124 II 49 E.
+3a S. 51 mit Hinweisen; bestätigt in den Urteilen 2C_285/2013 vom 23. April
+2013 E. 5.1 und 2C_804/2008 vom 5. Dezember 2008 E. 4). Die Behörden sind
+gestützt auf das Beschleunigungsgebot nicht gehalten, in jedem Fall schematisch
+bestimmte Handlungen vorzunehmen. Umgekehrt müssen die angerufenen Vorkehrungen
+zielgerichtet sein; sie haben darauf ausgelegt zu sein, die Ausschaffung
+voranzubringen. Die Frist von zwei Monaten ist nicht als Freibrief dafür zu
+verstehen, dass nach Anordnung der Ausschaffungshaft nichts getan werden müsste
+oder auf die erfolgversprechendsten Vorkehrungen verzichtet werden könnte. Das
+Bundesgericht hat das Beschleunigungsgebot in einem Fall als verletzt erachtet,
+in dem während dreier Monate mit den Behörden des Landes, aus dem der
+Betroffene stammen wollte, kein Kontakt aufgenommen und während rund sechs
+Wochen überhaupt nichts vorgekehrt worden war (so Urteil 2A.115/2002 vom
+19. März 2002 E. 3c-e)".
+
+3.2 Wie
+im ersten Hafturteil ausgeführt wurde, sind die für den Vollzug der
+Entfernungsmassnahme zuständigen Behörden bereits früh tätig geworden.
+Unmittelbar nach Übernahme des Beurteilten hat das Migrationsamt sich am
+30. Juni 2022 beim Staatssekretariat für Migration (SEM) nach der
+Dauer des Rückführungsverfahrens erkundigt. Am 1. Juli 2022 hat das
+Migrationsamt das SEM um Vollzugsunterstützung ersucht. Am 5. Juli 2022
+hat das Migrationsamt dem SEM den Fingerabdruckbogen des Beurteilten geschickt.
+In der Folge hiervon hat das SEM am 20. Juli 2022 der tunesischen
+Botschaft zuhanden der zuständigen Behörden in Tunesien ein
+Sammel-identifikationsgesuch übermittelt, auf dem auch der Beurteilte
+aufgeführt war. Die Identifizierung tunesischer Staatsangehörige, die über
+keine gültigen Papiere wie Pass oder Identitätsausweis verfügen, kann gemäss
+Auskunft des SEM vom 30. Juni 2022 erfahrungsgemäss mindestens 3 bis 4
+Monate in Anspruch nehmen. Obschon nicht mit einer so frühen Antwort zu rechnen
+war, hat das Migrationsamt sich am 15. September 2022 beim SEM nach dem
+Stand der Dinge erkundigt. Die Antwort hierauf steht noch aus. Die
+schweizerischen Behörden sind nicht untätig geblieben, sondern treiben die
+Identifizierung des Beurteilten, der die Mitwirkung an der Papierbeschaffung
+bislang beharrlich verweigert, mit der gebotenen Beförderlichkeit voran.
+
+Wie ausgeführt
+ist mit wenigstens 3 bis 4 Monaten zu rechnen, bis tunesische Staatsangehörige
+von den Behörden ihres Heimatlandes identifiziert werden können. Sobald die
+Identität der betroffenen Person feststeht, können seitens des SEM gemäss
+dessen Auskunft vom 30. Juni 2022 binnen dreier Wochen ein Laissez
+Passer für die Rückkehr beschafft und der Rückflug organisiert werden. Die
+Rückführung des Beurteilten ist damit zeitlich absehbar. Der Beurteilte hat in
+der Vergangenheit wiederholt zu Protokoll gegeben, sich bezüglich
+Papierbeschaffung nicht mit den tunesischen Behörden bzw. mit seiner Familie in
+Verbindung gesetzt zu haben und dies auch in Zukunft nicht vorzuhaben
+(Protokolle der Befragungen vom 22. Juli 2022, 5.
+und 19. August 2022 sowie 12. und 15. September 2022).
+Diese Haltung hat er heute bestätigt (Verhandlungsprotokoll vom 21. September
+2022, S. 5). Dass sich die Sache hinzieht, ist somit im Wesentlichen auf die
+beharrliche Weigerung des Beurteilten, an der Beschaffung von Reisekokumenten
+mitzuwirken, zurückzuführen. Der Beurteilte hat es in Befolgung seiner
+gesetzlichen Mitwirkungspflicht (Art. 90 lit. c AIG) selber in der
+Hand, durch Kontaktaufnahme mit der Botschaft oder mit Familienmitgliedern bei
+der Papierbeschaffung mitzuhelfen und damit zur Abkürzung der Haftzeit
+beizutragen.
+
+Es sind keine
+Umstände erkennbar, wonach der Vollzug der Wegweisung aus rechtlichen oder
+tatsächlichen Gründen undurchführbar wäre (Art. 80 Abs. 6 lit. a
+AIG). Da die Identitätsabklärung und die Papierbeschaffung noch gewisse Zeit in
+Anspruch nehmen werden, ist die Ausschaffungshaft für weitere drei Monate zu
+bewilligen. Das Migrationsamt und das SEM sind indessen gehalten, regelmässig
+bei den zuständigen Behörden nach dem Fortschritt nachzufragen und die Sache
+auch sonst voranzutreiben.
+
+4.
+
+Zusammenfassend
+ist festzustellen, dass die Voraussetzungen für die Verlängerung der
+bestehenden Ausschaffungshaft bis zum 29. Dezember 2022 gegeben sind
+und sich diese Verlängerung als verhältnismässig erweist. Es werden keine
+Kosten erhoben (§ 4 des Gesetzes über den Vollzug von Zwangsmassnahmen im
+Ausländerrecht, SG 122.300).
+
+Demgemäss
+erkennt der
+Einzelrichter :
+
+://:        Die Verlängerung der über A____
+angeordneten Ausschaffungshaft ist bis zum 28. Dezember 2022, 14:00
+Uhr rechtmässig und angemessen.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung an:
+
+-           A____
+
+-           Migrationsamt Basel-Stadt
+
+-           Staatssekretariat für Migration
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht
+
+Dr. Alexander Zürcher
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
+
+Der inhaftierte
+Ausländer kann einen Monat nach der Haftüberprüfung ein Haftentlassungsgesuch
+einreichen beim Verwaltungsgericht
+Basel-Stadt, Bäumleingasse 1, 4051 Basel .
+
+Hinweis
+
+Dieses Urteil
+wurde dem Ausländer am heutigen Tag mündlich erläutert und schriftlich
+ausgehändigt.
