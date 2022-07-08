@@ -1,0 +1,370 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.456"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2021.135"
+docket_2: "AG.2022.456"
+decided: "2022-07-08"
+published: "2022-09-24"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73741&W10_KEY=3048540&nTrefferzeile=129&Template=search_result_document.html"
+cites_decisions: ["6B_1415/2021", "6B_1430/2020", "6B_28/2020", "6B_295/2011", "6B_674/2019", "BGE 130 III 396", "BGE 141 II 429", "BGE 144 IV 64", "SB.2019.12"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung (BGer 6B_1085/2022 vom 20. Dezember 2023)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2021.135
+
+ENTSCHEID
+
+vom 8.
+Juli 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser und a.o. Gerichtsschreiberin
+BLaw Laura Wigger
+
+Beteiligte
+
+A____ , geb. [...]                                                          
+Beschwerdeführerin
+
+[...]                                                                                          
+Beschuldigte
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+vom 12. Oktober 2021
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Am 14. Juni 2020
+wurde A____ (nachfolgend: Beschwerdeführerin) wegen angeblicher Widerhandlung
+gegen die COVID-19-Verordnung (SR 818.101.24) angehalten und kontrolliert. Ihr
+wurde ein Ordnungsbussenzettel übergeben. Gegen die Ordnungsbusse in der Höhe
+von CHF 100. erhob die Beschwerdeführerin am 10. Oktober 2020 Einsprache.
+Am 30. Oktober 2020 erfolgte die Übertretungsanzeige und am 29. April 2021 wurde
+der Beschwerdeführerin eine Zahlungserinnerung zugestellt. Mit Strafbefehl der
+Staatsanwaltschaft Basel-Stadt vom 13. August 2021 wurde die Beschwerdeführerin
+schliesslich wegen Übertretung der COVID-19-Verordnung zu einer Busse in Höhe
+von CHF 100., bei schuldhaftem Nichtbezahlen ersatzweise zu einer
+Freiheitsstrafe von 1 Tag verurteilt. Ausserdem wurden der Beschwerdeführerin
+Verfahrenskosten von CHF 205.30 auferlegt. Der Strafbefehl lag als eingeschriebene
+Sendung ab dem 16. August 2021 zur Abholung bereit. Am 21. August
+2021 gab die Beschwerdeführerin der Post den Auftrag, die Abholfrist bis zum
+13. September 2022 zu verlängern. Sie holte die Sendung schliesslich am
+2. September 2021 ab.
+
+Am 7. September
+2021 erhob die Beschwerdeführerin Einsprache gegen den Strafbefehl. Die
+Staatsanwaltschaft hielt am Strafbefehl fest und überwies diesen zusammen mit
+den Akten am 6. Oktober 2021 zuständigkeitshalber an das Strafgericht
+Basel-Stadt mit dem Hinweis, die Einsprache sei aus ihrer Sicht verspätet
+erhoben worden. Mit Verfügung vom 12. Oktober 2021 trat das Einzelgericht in
+Strafsachen auf die Beschwerde nicht ein mit der Begründung, die Beschwerde sei
+verspätet eingereicht worden. Auf die Erhebung von Gerichtskosten wurde
+ausnahmsweise verzichtet.
+
+Mit Eingabe vom 5.
+November 2021 hat die Beschwerdeführerin Beschwerde beim Appellationsgericht
+Basel-Stadt erhoben mit dem Begehren, die angefochtene Verfügung des
+Strafgerichts Basel-Stadt vom 12. Oktober 2021 sei aufzuheben und das
+Strafgericht sei anzuweisen, auf die Einsprache der Beschwerdeführerin vom 7. September
+2021 gegen den Strafbefehl vom 13. August 2021 einzutreten. Die
+Staatsanwaltschaft Basel-Stadt hat in ihrer Beschwerdeantwort die
+kostenpflichtige Abweisung der Beschwerde beantragt. Die Beschwerdeführerin hat
+in ihrer Replik an den genannten Anträgen festgehalten. Der vorliegende
+Entscheid ist im schriftlichen Verfahren unter Beizug der vorinstanzlichen Akten
+ergangen. Die Einzelheiten des Sachverhalts und der Parteistandpunkte ergeben sich,
+soweit sie für den Entscheid von Bedeutung sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+angefochtene Verfügung des Einzelgerichts in Strafsachen vom 12. Oktober 2021 ist
+ein Nichteintretensentscheid, mit dem nicht materiell über Straffragen befunden
+wird. Es kommt daher gemäss Art. 393 Abs. 1 lit. b in Verbindung
+mit Art. 80 Abs. 1 der Schweizerischen Strafprozessordnung (StPO, SR
+312.0) das Beschwerdeverfahren zur Anwendung. Zuständiges Beschwerdegericht ist
+das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in Verbindung mit §
+93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG
+154.100]). Die Beschwerdeführerin hat als Adressatin des Strafbefehls ein
+rechtlich geschütztes Interesse an der Aufhebung der angefochtenen Verfügung
+und ist somit zur Beschwerde legitimiert (Art. 382 Abs. 1 StPO).
+
+1.2 Gemäss
+Art. 396 Abs. 1 StPO sind Beschwerden gegen schriftlich oder mündlich
+eröffnete Entscheide innert 10 Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen. Die Frist beginnt am Tag nach der Eröffnung
+resp. Zustellung zu laufen (Art. 90 Abs. 1 StPO) und ist eingehalten,
+wenn die Beschwerde spätestens am letzten Tag der Frist bei der zuständigen
+Behörde abgegeben oder zu deren Handen der Schweizerischen Post oder einer
+schweizerischen diplomatischen oder konsularischen Vertretung im Ausland übergeben
+wird (Art. 91 Abs. 2 StPO). Fällt der letzte Tag der Frist auf einen
+Samstag, einen Sonntag oder einen Feiertag, so endet sie am nächstfolgenden
+Werktag (Art. 90 Abs. 2 StPO).
+
+Die Verfügung
+des Einzelgerichts in Strafsachen vom 12. Oktober 2021 ist dem Vertreter der
+Beschwerdeführerin am 26. Oktober 2021 zugestellt worden. Die frühere an die
+Beschwerdeführerin direkt adressierte Zustellung (act. 8, S. 44;
+Zustellung am 21. Oktober 2021) bleibt angesichts des Vertretungsverhältnisses
+für den Fristenlauf irrelevant ( Arquint ,
+in: Basler Kommentar, 2. Auflage 2014, Art. 87 N 5; Schmid/Jositsch , Praxiskommentar StPO,
+3. Auflage, Zürich/St. Gallen 2018, Art. 87 N 7; BGE 144 IV 64
+E. 2.5; BGer 6B_295/2011 vom 26. August 2011 E. 1.4). Die
+Beschwerdefrist begann folglich am 27. Oktober 2021 zu laufen und endete
+am 5. November 2021. Die Beschwerde vom 5. November 2021 ist somit rechtzeitig
+erfolgt, so dass darauf einzutreten ist.
+
+1.3 Gegenstand
+des Beschwerdeverfahrens ist ausschliesslich die Nichteintretensverfügung der
+Vorinstanz. Es wird daher nur geprüft, ob das Einzelgericht in Strafsachen zu
+Recht nicht auf die Einsprache eingetreten ist.
+
+2.
+
+Das
+Einzelgericht in Strafsachen erwog, die Zustellung des Strafbefehls an die
+Beschwerdeführerin sei in Anwendung der Zustellfiktion gemäss Art. 85
+Abs. 4 lit. a StPO am 23. August 2021 erfolgt. Die Einsprachefrist
+habe demnach am 2. September 2021 geendet, weshalb die am 7. September 2021
+erhobene Einsprache verspätet gewesen sei.
+
+3.
+
+Die
+Beschwerdeführerin macht in ihrer Beschwerde geltend, die Voraussetzungen von
+Art. 85 Abs. 4 lit. a StPO seien nicht gegeben, da sie die
+Postsendung nach Verlängerung der Frist abgeholt habe und ohnehin nicht mit der
+Zustellung eines Strafbefehls hätte rechnen müssen.
+
+3.1 Zunächst
+ist fraglich, ob die in Art. 85 Abs. 4 lit. a StPO angeführte
+Voraussetzung des Nicht-Abholens der Postsendung erfüllt ist.
+
+3.1.1 Nach
+Ansicht der Beschwerdeführerin könne die Sendung nicht als «nicht abgeholt»
+gelten, da sie diese nach Verlängerung der Abholfrist schliesslich abgeholt
+habe. Eine Verlängerung der Abholfrist sei notwendig gewesen, da ihr während
+ihrer Abwesenheit keine bevollmächtigte Person zur Verfügung gestanden sei,
+welche das Einschreiben für sie hätte abholen können. Die Zustellung zu
+fingieren, wenn eine explizit von der Post vorgesehene Dienstleistung, nämlich
+die Verlängerung der Abholfrist, in Anspruch genommen wurde, sei eine Form von
+überspitztem Formalismus. Insbesondere angesichts der Tatsache, dass aus einer
+Abholeinladung nicht ersichtlich sei, ob es sich um ein gewöhnliches Schreiben
+oder eine fristauslösende Gerichtsurkunde handle, dürfe der Adressatin aus der
+Inanspruchnahme dieser postalischen Fristenverlängerung kein Nachteil
+erwachsen. Aus Gründen des Vertrauensschutzes hätte das Strafgericht die
+Einsprache der Beschwerdeführerin deshalb für rechtzeitig erachten müssen. Die
+Beschwerdeführerin stützt sich dabei auf ein Urteil des Obergerichts Zürich
+bezüglich Zustellungen im Zivilrecht (OGer ZH PS190091‑O/U vom 17. Juni
+2019).
+
+3.1.2 Gemäss
+Art. 354 Abs. 1 in Verbindung mit Art. 90 Abs. 1 StPO kann
+gegen einen Strafbefehl innerhalb der Frist von 10 Tagen Einsprache erhoben
+werden, wobei die Frist mit dem Tag nach der Zustellung bzw. der Eröffnung zu
+laufen beginnt. Gemäss Art. 85 Abs. 2 StPO erfolgt die Zustellung
+eines Strafbefehls durch eingeschriebene Postsendung und ist erfolgt, wenn die
+Sendung von der Adressatin bzw. dem Adressaten oder von einer angestellten oder
+im gleichen Haushalt lebenden Person entgegengenommen wurde (Art. 85
+Abs. 3 StPO).
+
+Nach der
+gesetzlichen Regelung und ständiger Rechtsprechung gelten behördliche Sendungen
+in Prozessverfahren aber nicht nur dann als zugestellt, wenn die Adressatin sie
+tatsächlich in Empfang nimmt. Es genügt, wenn die Sendung in den Machtbereich
+der Adressatin gelangt, so dass sie sie (theoretisch) zur Kenntnis nehmen kann.
+Wird die Empfängerin einer eingeschriebenen Briefpostsendung oder
+Gerichtsurkunde nicht angetroffen und wird daher eine Abholeinladung in ihren
+Briefkasten oder in ihr Postfach gelegt, so wird die Sendung in jenem Zeitpunkt
+als zugestellt erachtet, in welchem sie auf der Poststelle abgeholt wird.
+Geschieht dies nicht innert der Abholfrist von 7 Tagen, wird angenommen, dass
+die Sendung am letzten Tag dieser Frist zugestellt wurde, sofern der Adressat
+mit einer Zustellung rechnen musste (Art. 85 Abs. 4 lit. a
+StPO).
+
+Diese
+Zustellfiktion kommt, entgegen der Behauptung der Beschwerdeführerin, auch
+nicht erst zum Tragen, wenn eine Sendung überhaupt nicht abgeholt wird, sondern
+auch, wenn sie schlussendlich abgeholt wird. Die vorliegende Sendung muss
+ohnehin als «nicht abgeholt» gelten, sonst hätte die Abholfrist ja nicht
+verlängert werden müssen. Die Nichtabholung gilt für die 7-tägige Zustellfrist
+und nicht für deren Verlängerung. In den beiden einschlägigen Bundesgerichtsentscheiden
+123 III 492 und 127 I 31 wurden die Sendungen schlussendlich jeweils auch
+abgeholt, aber eben erst nach Verlängerung der Zustellfrist. Ebenfalls gleich
+entschieden wurde in einem neueren Entscheid des Bundesgerichts bei dem es
+konkret um eine Zustellung eines Strafbefehls gegangen ist. Das Gericht stellte
+in BGer 6B_1430/2020 vom 15. Juli 2021 E. 1.3 fest, dass die Zustellung
+nach Ablauf der 7-tägigen Frist gemäss Art. 85 Abs. 4 lit. a
+StPO aus Gründen der Rechtssicherheit als erfolgt gelten müsse, unabhängig
+davon, ob die Adressatin die Sendung zur Kenntnis genommen habe oder nicht.
+Eine Verlängerung dieser Frist sei nicht möglich, da es sich um eine
+gesetzliche Frist handle  selbst dann, wenn diese Tatsache der
+Beschwerdeführerin als Laiin nicht bekannt gewesen sei. Auch gemäss dem
+neuesten Entscheid des Bundesgerichts, 6B_1415/2021 vom 9. März 2022 E. 3.2,
+hat eine Verlängerung der postalischen Abholfrist keinen Einfluss auf den
+Eintritt der Zustellfiktion. Was den Hinweis der Beschwerdeführerin auf die Rechtsprechung
+des Obergerichts Zürich betrifft, kann auf das Urteil des Bundesgerichts
+6B_28/2020 vom 1. April 2020 E. 4 verwiesen werden. Demzufolge hätte
+die Beschwerdeführerin die Abholfrist nicht einfach verlängern dürfen, ohne
+sich vorher nach dem Absender des avisierten eingeschriebenen Briefs zu
+erkundigen.
+
+3.1.3 Im
+vorliegenden Fall wurde der Strafbefehl vom 13. August 2021 gleichentags per
+Einschreiben verschickt (act. 8, S. 6). Am 16. August 2021 erhielt die Beschwerdeführerin
+eine Abholeinladung, womit die 7-tägige Abholfrist am 17. August 2021 zu laufen
+begann und am 7. Tag, das heisst am 23. August 2021, endete (act. 8, S. 6). Ausgehend
+von der gesetzlichen Zustellfiktion galt die Sendung folglich als am 23. August
+2021 zugestellt.
+
+3.2 Weiter
+ist fraglich, ob die Anwendung der oben beschriebenen Zustellfiktion in casu
+auch gerechtfertigt war. Dies ist gemäss Art. 85 Abs. 4 lit. a
+StPO der Fall, wenn die Beschwerdeführerin mit der Zustellung des Strafbefehls
+rechnen musste.
+
+3.2.1 Die
+Beschwerdeführerin macht geltend, die Polizei habe ihr am 30. Oktober 2020 zwar
+mit der Überweisung des Verfahrens an die Staatsanwaltschaft gedroht, ihr zu
+gegebener Zeit jedoch stattdessen eine Zahlungserinnerung zukommen lassen. Daraufhin
+habe sie drei Monate lang nichts von der Staatsanwaltschaft gehört. Sie habe
+deshalb nicht mit einer Strafbefehlszustellung im August rechnen müssen. Auch
+hierbei handle es sich um überspitzten Formalismus. Zudem sei ein
+Strafbefehlsverfahren gar nicht möglich, wenn die beschuldigte Person den
+Sachverhalt bestreitet, was sie getan habe. Sie habe deshalb höchstens mit
+einer Vorladung zur Einvernahme, nicht jedoch mit einer fristauslösenden
+Zustellung eines Strafbefehls rechnen müssen.
+
+3.2.2 Die
+Zustellfiktion rechtfertigt sich, weil für die an einem Verfahren Beteiligten
+nach dem Grundsatz von Treu und Glauben die Pflicht besteht, dafür zu sorgen,
+dass ihnen behördliche Akte zugestellt werden können. Sie gilt mithin während
+eines hängigen Verfahrens und wenn die Verfahrensbeteiligten mit der Zustellung
+eines behördlichen oder gerichtlichen Entscheides oder einer Verfügung mit
+einer gewissen Wahrscheinlichkeit rechnen müssen (BGE 130 III 396 E. 1.2.3).
+Wer weiss, dass er Partei eines gerichtlichen Verfahrens ist, muss im Falle
+seiner Abwesenheit die geeigneten Massnahmen treffen, damit ihm richterliche
+Mitteilungen zukommen, oder zumindest die Behörde über seine Abwesenheit
+informieren (BGE 141 II 429 E. 3.1 und 3.2; AGE SB.2019.12 vom 6. Mai
+2019 E. 2.3).
+
+3.2.3 Die
+Beschwerdeführerin bestreitet nicht, die Zahlungserinnerung vom 29. April
+2021 erhalten zu haben. Zwischen diesem Schreiben und der fingierten Zustellung
+des Strafbefehls am 23. August 2021 liegt ein Zeitraum von rund 4 Monaten.
+Dieser liegt klar innerhalb der zulässigen Aufmerksamkeitsspanne gemäss
+bundesgerichtlicher Rechtsprechung, welche sich zwischen 6 Monaten und einem
+Jahr bewegt (vergleiche etwa BGer 6B_674/2019 vom 19. September 2019 E. 1.4.3,
+wonach das Bundesgericht verschiedentlich einen Zeitraum bis zu einem Jahr seit
+der letzten verfahrensrechtlichen Handlung der Behörde als vertretbar
+bezeichnet hat, im konkreten Fall jedoch eine Aufmerksamkeitsdauer von rund 6
+Monaten zwischen der polizeilichen Kontrolle und der versuchten Zustellung des
+Strafbefehls als angemessen erachtete).
+
+3.2.4 Der
+weitere Einwand der Beschwerdeführerin, sie habe höchstens mit einer Vorladung
+zur Einvernahme, nicht aber mit einer fristauslösenden Zustellung eines
+Strafbefehls rechnen müssen, überzeugt ebenfalls nicht. Es besteht keine
+Pflicht für die Staatsanwaltschaft in jedem Fall eine Einvernahme
+durchzuführen, insbesondere nicht in Verfahren aufgrund einer Ordnungsbusse. Die
+Beschwerdeführerin wurde im Übrigen zweimal darauf hingewiesen, dass bei nicht
+fristgemässer Bezahlung der Busse das Verfahren zur Beurteilung an die
+Staatsanwaltschaft überwiesen werde (act. 8, S. 19, 21). Daher musste sie auch
+den Erlass eines Strafbefehls in Betracht ziehen, zumal sie gegen die
+Ordnungsbusse am 10. August 2020 Einsprache erhoben hatte (act. 8, S. 19 f.)
+und spätestens dies als Begründung eines Prozessrechtsverhältnisses angesehen
+werden muss.
+
+3.3 Zusammenfassend
+ist dem Strafgericht Basel-Stadt zuzustimmen. Der Strafbefehl vom 13. August
+2021 gilt in Anwendung von Art. 85 Abs. 4 lit. a StPO als am 23.
+August 2021 zugestellt, womit die Beschwerdeführerin auch rechnen musste. Die
+10-tägige Einsprachefrist begann folglich am 24. August 2021 zu laufen (Art. 85
+Abs. 4 lit. a in Verbindung mit Art. 90 Abs. 1 StPO),
+weshalb die Einsprache der Beschwerdeführerin gegen den Strafbefehl spätestens
+am 2. September 2021 hätte erfolgen müssen. Ihre Eingabe vom 7. September 2021
+war somit verspätet. Das Strafgericht ist zu Recht nicht auf die Einsprache
+eingetreten.
+
+4.
+
+Die Kosten des
+Rechtsmittelverfahrens tragen die Parteien nach Massgabe ihres Obsiegens oder
+Unterliegens (Art. 428 Abs. 1 StPO). Dem Ausgang des
+Beschwerdeverfahrens folgend hat die Beschwerdeführerin dessen Kosten zu tragen.
+Die Entscheidgebühr ist in Anwendung von § 21 Abs. 2 des Reglements
+über die Gerichtsgebühren (Gerichtsgebührenreglement [GGR, SG 154.810])
+auf CHF 600. zu bemessen.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:      Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die Verfahrenskosten mit
+einer Gebühr von CHF 600.‒.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Einzelgericht für Strafsachen
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur. Marc
+Oser                                                      BLaw Laura Wigger
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48
+Abs. 1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift
+wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
