@@ -1,0 +1,295 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2022.147"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "BV"
+docket: "BV.2022.9"
+docket_2: "SVG.2022.147"
+decided: "2022-07-11"
+published: "2023-02-09"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73712&W10_KEY=3048395&nTrefferzeile=8&Template=search_result_document.html"
+cites_decisions: ["8C_333/2016", "8C_523/2012", "9C_84/2022", "BGE 134 III 669", "BGE 144 V 245", "BV.2020.20", "BV.2022.9", "C-4558/2012"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/173.110/art-123.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# Kein Eintreten auf ein Revisionsbegehren mangels neuer Tatsachen und Beweismittel
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+Urteil der Präsidentin
+
+vom 11. Juli 2022
+
+Parteien
+
+A ____
+
+Gesuchsteller
+
+Pensionskasse B____
+
+vertreten durch C____
+
+Gesuchsgegnerin
+
+Gegenstand
+
+BV.2022.9
+
+Urteil des
+Sozialversicherungsgerichts BV.2020.20 vom 31. August 2021
+
+Kein Eintreten auf ein
+Revisionsbegehren mangels neuer Tatsachen und Beweismittel
+
+Erwägungen
+
+1.
+
+1.1. Der Gesuchsteller war bei der Beklagten im Rahmen der beruflichen
+Vorsorge versichert. Aufgrund seiner Pensionierung per 30. November 2017
+unterzeichneten der Kläger und seine Ehefrau am 26. Oktober 2017 eine
+"Verfügung betreffend Rente oder Kapital aus der Pensionskasse"
+(Klageantwortbeilage [AB] 6). Darin wünschten sie, dass aus der
+Pensionskasse eine einmalige Teilkapitalauszahlung in Höhe von
+Fr. 285'991.65 erfolge sowie eine Teilrente von Fr. 1'900.00 pro
+Monat ausgerichtet werde. Hinsichtlich der Zusatzvorsorge verlangten sie, dass
+diese vollumfänglich als Kapitalauszahlung in Höhe von Fr. 553'190.60
+ausgerichtet werde.
+
+1.2. Die Gesuchsgegnerin erstellte per 30. November 2017 eine
+Pensionierungsberechnung, aus welcher hervorgeht, welche Leistungen aus der
+Pensionskasse sowie aus der Zusatzvorsorge im Falle einer einmaligen
+Kapitalauszahlung und im Falle einer monatlichen Rentenzahlung erbracht werden
+können (AB 11). Am 1. Dezember 2017 erstellte sie im Weiteren eine
+Pensionierungsübersicht (AB 12). Die Aufteilung von Renten- und
+Kapitalleistungen entspricht darin den Wünschen des Klägers und seiner Ehefrau.
+Die Pensionierungsübersicht weist dabei einen obligatorischen Anteil der
+Rentenleistungen von monatlich Fr. 902.00 aus. Bei den Kapitalleistungen
+hält sie fest, der obligatorische Anteil betrage Fr. 131'614.00. In einer
+Leistungsübersicht vom 1. Dezember 2017 wies die [] [Gesuchsgegnerin] die
+Kinderrente in Höhe von monatlich Fr. 181.00 als vollständig
+obligatorische Leistung aus (AB 13).
+
+1.3. Der Gesuchsteller zeigte sich in der Folge mit der Aufteilung von
+obligatorischen und überobligatorischen Leistungen, wie sie die Gesuchsgegnerin
+in der erwähnten Pensionierungsübersicht (AB 12) vorgenommen hatte, nicht
+einverstanden. Infolgedessen ergab sich ein längerer Schriftenwechsel mit der Gesuchsgegnerin,
+welche an ihrer Aufteilung bzw. der Darstellung in der Pensionierungsübersicht
+festhielt (AB 14 bis 27).
+
+1.4. Mit Schreiben vom 9. September 2021 wandte sich der Gesuchsteller
+an das Sozialversicherungsgericht Basel-Stadt und machte im Wesentlichen
+geltend, die Gesuchsgegnerin habe die obligatorischen und überobligatorischen
+Leistungen in der Pensionierungsübersicht falsch ausgewiesen. Das
+Sozialversicherungsgericht nahm das Schreiben als Klage entgegen. Mit Urteil
+BV.2020.20 vom 31. August 2021 wies es diese ab.
+
+2.
+
+2.1. Mit Eingabe vom 24. Januar 2022 wendet sich der Gesuchsteller
+erneut an das Sozialversicherungsgericht Basel-Stadt. Er führt sinngemäss aus,
+aus dem Urteil des Sozialversicherungsgerichts Basel-Stadt BV.2020.20 vom
+31. August 2021 könne indirekt geschlossen werden, dass das Urteil des
+Bundesgerichts B 77/06 vom 18. April 2007 tatsächlich nicht anwendbar
+sei und es auch keine anderen Normen gebe, welche die Darstellung, wie sie von
+der Gesuchsgegnerin vorgenommen worden sei, notwendig mache. Der Gesuchsteller
+bittet um eine Klärung im Sinne von Art. 73 des Bundesgesetzes vom
+25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und
+Invalidenvorsorge (BVG; SR 831.40).
+
+2.2. Mit Verfügung vom 21. März 2022 sistiert die
+Instruktionsrichterin das Verfahren bis zum Entscheid des Bundesgerichts über
+die vom Gesuchsteller gegen das Urteil des Sozialversicherungsgerichts
+Basel-Stadt BV.2020.20 vom 31. August 2021 erhobene Beschwerde.
+
+2.3. Nachdem das Bundesgericht mit Urteil 9C_84/2022 vom 5. April
+2022 nicht auf die Beschwerde des Gesuchstellers eingetreten ist, teilt die
+Instruktionsrichtern dem Gesuchsteller mit Schreiben vom 11. April 2022
+mit, dass das Urteil vom 31. August 2022 rechtskräftig geworden ist. Sie klärt
+ihn im Hinblick auf die hängige Eingabe vom 24. Januar 2022 darüber auf,
+dass nur eine Revision des Urteils vom 31. August 2022 möglich ist, sofern
+neue wesentliche Tatsachen entdeckt wurden bzw. werden. Sie bittet um
+Mitteilung, ob er das Verfahren weiterführen möchte.
+
+2.4. Der Gesuchsteller teilt in der Folge mit Eingabe vom 19. April
+2022 mit, dass er das Verfahren weiterführen möchte. Das Schreiben vom
+24. Januar 2022 wird infolgedessen als Revisionsgesuch verstanden.
+
+2.5. Mit Stellungnahme vom 3. Juni 2022 (Postaufgabe 7. Juni
+2022) ersucht die Gesuchsgegnerin das Gericht, mangels neuer erheblicher
+Tatsachen nicht auf das Revisionsbegehren einzutreten.
+
+3.
+
+3.1. Die Revision ist ein ausserordentliches Rechtsmittel und dient der
+Anfechtung formell rechtskräftiger Verfügungen, Entscheide oder
+Gerichtsurteile, im Falle des Vorliegens eines Revisionsgrundes (vgl. z.B. Ulrich Häfelin/Georg Müller/Felix Uhlmann ,
+Allgemeines Verwaltungsrecht, 8. Auflage, Zürich 2020, N 1219 und
+N 1265 sowie Urteil des Bundesverwaltungsgerichts D- 7358/2016
+vom 30. Januar 2017 E. 2.1 mit Hinweisen sowie C-4558/2012
+E. 4.4.1 ).
+
+3.2. Art. 61 lit. i des Bundesgesetzes vom 6. Oktober 2000
+über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR 830.1) gibt
+für das Verfahren vor den kantonalen Versicherungsgerichten vor, dass die
+Revision von Entscheiden wegen Entdeckung neuer Tatsachen oder Beweismittel
+oder wegen Einwirkung durch Verbrechen oder Vergehen gewährleistet sein muss. In
+Umsetzung dieser Vorgabe hat der kantonale Gesetzgeber die Revisionsvoraussetzungen
+in § 18 des basel-städtischen Sozialversicherungsgerichtsgesetzes vom 9. Mai
+2001 (SVGG; SG 154.200) geregelt. Das Verfahren für
+berufsvorsorgerechtliche Streitigkeiten richtet sich ebenfalls nach dem SVGG
+(vgl. Ingress, fünfter Beistrich mit Hinweis auf Art. 73 BVG). Somit
+richtet sich die Revision auch in solchen Streitigkeiten nach § 18 SVGG.
+
+3.3. Gemäss § 18 Abs. 1 SVGG ist die Revision eines Urteils des
+Sozialversicherungsgerichts Basel-Stadt zulässig, wenn entweder neue erhebliche
+Tatsachen oder Beweismittel entdeckt werden oder wenn der Entscheid unter
+Einwirkung durch Verbrechen oder Vergehen erging. Ein Revisionsgesuch ist
+innert 90 Tagen seit Entdeckung des Revisionsgrundes beim
+Sozialversicherungsgericht, spätestens aber vor Ablauf von 10 Jahren nach
+Rechtskraft des Urteils geltend zu machen (§ 18 Abs. 2 und 3 SVGG).
+Im Revisionsgesuch ist die Einhaltung der Frist nachzuweisen. Beweismittel sind
+dem Gesuch beizulegen oder soweit dies nicht möglich ist, genau zu bezeichnen (§ 18
+Abs. 4 SVGG).
+
+3.4. Der Begriff neue Tatsachen oder Beweismittel nach § 18
+Abs. 1 lit. a SVGG ist gleich auszulegen wie bei der Revision eines
+Verwaltungsentscheides nach Art. 53 Abs. 1 ATSG, eines kantonalen
+Gerichtsentscheids nach Art. 61 lit. i ATSG oder eines
+Bundesgerichtsurteils gemäss Art. 123 Abs. 2 lit. a BGG. Neu
+sind demnach Tatsachen, die sich bis zum Erlass des formell rechtskräftigen
+Entscheids verwirklicht haben, jedoch der Person, welche das Revisionsgesuch
+stellt, trotz hinreichender Sorgfalt nicht bekannt waren. Die erforderliche
+Erheblichkeit einer neuen Tatsache ist gegeben, wenn sie geeignet ist, die
+tatsächliche Grundlage des Urteils, das in Revision gezogen werden soll, zu
+verändern und bei zutreffender Würdigung zu einem anderen Entscheid zu führen.
+Neue Beweismittel haben entweder dem Beweis der die Revision begründenden neuen
+erheblichen Tatsachen oder dem Beweis von Tatsachen zu dienen, die zwar im
+früheren Verfahren bekannt gewesen, aber zum Nachteil der gesuchstellenden
+Person unbewiesen geblieben sind (Urteile des Bundesgerichts 8C_333/2016 vom
+24. Oktober 2016 E. 3.1 und 8C_523/2012 vom 7. November 2012
+E. 3.1, BGE 144 V 245, 248 f. E. 5.1 und E. 5.2 und BGE 134 III
+669, 670 E. 2.1 = Praxis 2009 Nr. 57, je mit Hinweisen, sowie Ueli Kieser , ATSG-Kommentar, 4. Auflage,
+Zürich 2020, Art. 53 N 24 ff.).
+
+3.5. Nach § 83 Abs. 2 GOG ist die Präsidentin des
+Sozialversicherungsgerichts berechtigt, einfache Fälle  wie den vorliegenden 
+als Einzelrichterin zu entscheiden.
+
+4.
+
+4.1. Die Gesuchsgegnerin bestreitet, dass überhaupt auf das vorliegende
+Revisionsgesuch einzutreten ist.
+
+4.2. Der Gesuchsteller bittet um eine erneute Klärung der Frage, ob eine
+Pensionskasse, in deren Reglement keine paritätische Aufteilung der
+obligatorischen und überobligatorischen Anteile des Altersguthabens auf
+verrentete und als Kapital ausbezahlte Anteile des Altersguthabens bei
+Pensionseintritt vorgesehen ist, durch das Urteil des Bundesgerichts
+B 77/06 vom 18. April 2007 gezwungen sei, dennoch eine solche
+Aufteilung vorzunehmen. Er kritisiert, dass er diese Frage bereits in seiner
+Eingabe vom 9. September 2020 (welche vom Gericht als Klage
+entgegengenommen wurde) gestellt habe. Diese sei aber in einem Verfahren
+geklärt worden, welche Sinn und Zweck von Art. 73 BVG widerspreche. Auf
+die genannte Frage sei dabei im Urteil des Sozialversicherungsgerichts
+Basel-Stadt BV.2020.20 vom 31. August 2021 nicht eingegangen worden.
+
+4.3. Der Gesuchsteller bittet in seinen Eingaben vom 24. Januar 2022
+und vom 19. April 2022 um eine erneute Prüfung der unter E. 4.2.
+genannten Frage, welche er sinngemäss bereits in seinem auf den
+9. September 2020 datierten Schreiben an das Sozialversicherungsgericht
+Basel-Stadt gestellt hatte. Weder die erneute Prüfung einer bereits im ersten
+Verfahren gestellten Frage mit dem Hinweis, diese sei nicht beantwortet worden,
+noch die Kritik, es die Frage sei nicht im Rahmen eines einfachen und
+kostengünstigen Verfahrens im Sinne von Art. 73 BVG geklärt worden,
+stellen neue Tatsachen dar, die dem Gesuchsteller bis zum Erlass des erwähnten
+Urteils vom 31. August 2021 nicht bekannt gewesen wären. Auch andere neue
+Tatsachen macht er nicht geltend bzw. legt auch keine neuen Beweismittel vor. Ohne
+das Vorliegen neuer Tatsachen im unter E. 3.4. beschriebenen Sinne, ist
+eine Urteilsrevision nach § 18 SVGG nicht möglich bzw. kann auf ein
+entsprechendes Revisionsgesuch nicht eingetreten werden. Dies gilt auch im
+vorliegenden Fall.
+
+4.4. Zur Erklärung sei an dieser Stelle darauf hingewiesen, dass sich
+beim Verfahren nach Art. 73 BVG um ein Klageverfahren an einem Gericht
+handelt. Die Klage stellt der einzige Weg dar um einen gerichtlichen Entscheid
+in einer Streitigkeit mit einer Pensionskasse zu erwirken (vgl. dazu z.B. Isabelle Vetter-Schreiber , BVG/FZG
+Kommentar, 4. Auflage, Zürich 2021, Art. 73 N 1). Sofern
+Art. 73 Abs. 2 BVG die Kostenlosigkeit des Verfahrens vorschreibt,
+bezieht sich dies darauf, dass das angerufene Berufsvorsorgegericht (bzw. in
+Basel-Stadt das Sozialversicherungsgericht)  vorbehaltlich mutwilliger oder
+leichtsinniger Prozessführung  keine Gerichtskosten erhebt (vgl. dazu Isabelle Vetter-Schreiber , Art. 73
+N 48 ff.).
+
+5.
+
+5.1. Im Lichte der obigen Ausführungen kann auf das Revisionsbegehren
+mangels neuer Tatsachen oder Beweismittel nicht eingetreten werden.
+
+5.2. Das Verfahren ist kostenlos (Art. 73 Abs. 2 BVG und
+§ 16 SVGG).
+
+5.3. Die ausserordentlichen Kosten werden wettgeschlagen (vgl. § 17
+Abs. 2 SVGG).
+
+Demgemäss erkennt die
+Präsidentin des Sozialversicherungsgerichts :
+
+://:        Auf das Revisionsbegehren wird nicht
+eingetreten.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer MLaw
+L. Marti
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+          Gesuchsteller           Gesuchsgegnerin
+
+          Bundesamt
+für Sozialversicherungen
+
+ Aufsichtsbehörde BVG
+
+Versandt am:
