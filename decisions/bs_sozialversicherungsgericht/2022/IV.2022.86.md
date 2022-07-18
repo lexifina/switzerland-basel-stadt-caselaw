@@ -1,0 +1,640 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.108"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2022.86"
+docket_2: "SVG.2023.108"
+decided: "2022-07-18"
+published: "2023-02-14"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75161&W10_KEY=3049208&nTrefferzeile=68&Template=search_result_document.html"
+cites_decisions: ["8C_385/2014", "9C_119/2021", "9C_627/2015", "BGE 122 V 158", "BGE 125 V 351", "BGE 125 V 352", "BGE 130 V 343", "BGE 130 V 71", "BGE 132 V 215", "BGE 133 V 108", "BGE 134 V 231", "BGE 135 V 254", "BGE 135 V 465", "BGE 137 V 210", "BGE 139 V 225", "BGE 140 V 41", "BGE 141 V 281", "IV.2013.196", "IV.2022.86"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-059.md", "switzerland/bund/acts/831.201/art-049.md"]
+---
+
+# Beschwerde abgewiesen. Keine Verschlechterung des Gesundheitszustandes.
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 14.
+Februar 2023
+
+Mitwirkende
+
+Dr. A. Pfleiderer (Vorsitz), C.
+Müller , Dr. med. R. von Aarburg
+
+und
+Gerichtsschreiberin MLaw N. Marbot
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2022.86
+
+Verfügung vom 18. Juli 2022
+
+Beschwerde abgewiesen. Keine
+Verschlechterung des Gesundheitszustandes.
+
+Tatsachen
+
+I.
+
+a) Der im Jahr 1965 geborene Beschwerdeführer und gelernte Automechaniker
+reiste 1980 in die Schweiz ein, wo er bei diversen Unternehmen als
+Servicetechniker arbeitete (IV-Akten 2, 43, S. 1 ff.).
+
+b) Nachdem sich der Beschwerdeführer bei einem Schlittelunfall verletzte,
+meldete er sich am 8. November 2006 (IV-Akte 2) erstmals bei der
+Beschwerdegegnerin zum Leistungsbezug an. Die Beschwerdegegnerin erteilte dem
+Beschwerdeführer daraufhin eine Kostengutsprache für eine Umschulung zum
+Maschinenteilzeichner CAD (Schreiben vom 20. Mai 2008, IV-Akte 74 und Schrieben
+vom 7. Januar 2009, IV-Akte 81), welche der Beschwerdeführer im Jahr 2010
+erfolgreich abschloss (Anlehr-Ausweis vom 10. August 2010, IV-Akte 91, S. 3). Nachdem
+die Beschwerdegegnerin dem Beschwerdeführer in der Folge weitere Kostengutsprachen
+für Praktika zusprach (vgl. IV-Akten 98,101,105,109,111,113), schloss sie mit
+Mitteilung vom 14. April 2012 die beruflichen Massnahmen ab und stellte betreffend
+Rente eine separate Verfügung in Aussicht (IV-Akte 126).
+
+c) Nach Durchführung einer psychiatrisch/rheumatologischen Begutachtung
+(vgl. Gutachten vom 22. September 2012, IV-Akte 158) sprach die
+Beschwerdegegnerin dem Beschwerdeführer mit Verfügung vom 4. November 2013
+(IV-Akte 179) ab dem 1. Februar 2007 eine ganze Rente und ab dem 1. Juli 2012
+eine Viertelsrente zu. Das Sozialversicherungsgericht Basel-Stadt hiess die
+gegen diese Verfügung erhobene Beschwerde mit Urteil vom 19. Mai 2014
+(IV.2013.196; IV-Akte 191) gut und wies die Sache zur Neuberechnung des
+Invaliditätsgrades an die Vorinstanz zurück. In Nachachtung des Gerichtsurteils
+sprach die Beschwerdegegnerin dem Beschwerdeführer mit Verfügung vom 7. Oktober
+2014 (IV-Akte 194) ab dem 1. Februar 2007 eine ganze und ab dem 1. Juli 2012
+eine halbe Rente zu. Mit Mitteilung vom 15. Januar 2016 (IV-Akte 207) stellte
+die Beschwerdegegnerin den unveränderten Rentenanspruch fest.
+
+d) Mit Schreiben vom 25. Mai 2019 (IV-Akte 2019) machte der
+Beschwerdeführer eine Verschlechterung seines Gesundheitszustandes geltend,
+woraufhin die Beschwerdegegnerin entsprechende Abklärungen tätigte. Namentlich
+ordnete die Beschwerdegegnerin eine bidisziplinäre Begutachtung in den
+Fachrichtungen Rheumatologie und Psychiatrie an (vgl. IV-Akte 233). Im
+Wesentlichen gestützt auf das Gutachten (Rheumatologisches Gutachten vom 15.
+Februar 2021, IV-Akte 236, Psychiatrisches Gutachten vom 12. Februar 2021,
+IV-Akte 237) teilte die Beschwerdegegnerin dem Beschwerdeführer mit Verfügung
+vom 18. Juli 2022 (IV-Akte 281) mit, dass er ab dem 21. Mai 2019 eine ganze
+Rente, ab dem 1. September 2019 eine halb Rente, ab dem 1. Mai 2019 eine ganze
+Rente, ab dem 1. September 2020 eine halbe Rente, ab dem 1. August 2021 eine
+ganze Rente und ab dem 1. Dezember 2021 eine halbe Rente erhalte.
+
+II.
+
+a) Mit Beschwerde vom 7. September 2022 beantragt der Beschwerdeführer die
+Aufhebung der Verfügung vom 18. Juli 2022 und die Verpflichtung der
+Beschwerdegegnerin zur Ausrichtung der gesetzlichen Leistungen. Eventualiter
+sei die Verfügung vom 18. Juli 2022 aufzuheben und die Angelegenheit an die
+Beschwerdegegnerin zurückzuweisen, damit diese nach Vornahme weiterer
+Abklärungen erneut über die Rentenansprüche des Beschwerdeführers entscheide.
+Unter o/e-Kostenfolge zu Lasten der Beschwerdegegnerin.
+
+b) Mit Beschwerdeantwort vom 2. November 2022 schliesst die
+Beschwerdegegnerin auf Abweisung der Beschwerde.
+
+III.
+
+Da innert der angesetzten Frist keine der Parteien
+die Durchführung einer mündlichen Parteiverhandlung beantragte, findet am 14.
+Februar 2023 die Beratung durch die Kammer des Sozialversicherungsgerichts
+statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz zuständig zum Entscheid über die vorliegende Streitigkeit sachlich
+zuständig (§ 82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft
+[Gerichtsorganisationsgesetz, GOG; SG 154.100]). Die örtliche Zuständigkeit des
+angerufenen Gerichts ergibt sich aus Art. 69 Abs. 1 des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG; SR 831.20).
+
+1.2. Da die Beschwerde rechtzeitig erhoben wurde und auch die übrigen
+formellen Beschwerdevoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+
+1.3. Nach den allgemeinen
+intertemporalrechtlichen Grundsätzen (vgl. BGE 140 V 41, 44 E. 6.3.1 mit
+Hinweisen) sind die Bestimmungen des ATSG, des IVG und der Verordnung vom 17.
+Januar 1961 (IVV; SR 831.201) in der bis Ende 2021 geltenden Fassung anwendbar.
+Sie werden im Folgenden jeweils in dieser Version wiedergegeben, zitiert und angewendet .
+
+2.
+
+2.1. Der Beschwerdeführer vertritt die Ansicht, der Verfügung vom
+18. Juli 2022 liege ein unrichtig und unvollständig festgestellter Sachverhalt
+zugrunde. Er verweist in diesem Zusammenhang auf diverse Berichte seiner
+behandelnden Ärzte.
+
+2.2. Die Beschwerdegegnerin ist demgegenüber der Meinung, von
+einer unvollständigen Sachverhaltsfeststellung könne nicht ausgegangen werden.
+Der angefochtene Entscheid stütze sich auf ein beweiswertiges bidisziplinäres
+Gutachten, sowie eine nachvollziehbare Verlaufsbeurteilung durch den RAD. Die
+Verfügung vom 18. Juli 2022 sei daher zu schützen.
+
+2.3. Streitig und zu prüfen ist, ob die Verfügung vom 18. Juli
+2022 rechtlich zu beanstanden ist.
+
+3.
+
+3.1. Eine versicherte Person hat Anspruch auf eine ganze
+Invalidenrente, wenn sie zu mindestens 70%, auf eine Dreiviertelsrente, wenn
+sie zu mindestens 60%, auf eine halbe Rente, wenn sie zu mindestens 50% und auf
+eine Viertelsrente, wenn sie zu mindestens 40% invalid ist (Art. 28 Abs. 2
+IVG).
+
+3.2. Tritt die Verwaltung wie vorliegend auf eine Neuanmeldung
+ein, so hat sie die Sache materiell abzuklären und zu prüfen, ob die von der
+versicherten Person glaubhaft gemachten Veränderungen des Invaliditätsgrades
+auch tatsächlich eingetreten sind (BGE 130 V 71, 73 E. 3.1). Sie hat somit
+analog einem Revisionsfall nach Art. 17 ATSG vorzugehen. Gemäss dieser Bestimmung wird eine Rente von Amtes
+wegen oder auf Gesuch hin erhöht, herabgesetzt oder aufgehoben, wenn sich der
+Invaliditätsgrad des Rentenbezügers erheblich ändert. Anlass zur Rentenrevision
+gibt jede wesentliche Änderung in den tatsächlichen Verhältnissen, die geeignet
+ist, den Invaliditätsgrad und damit den Rentenanspruch zu beeinflussen. Die
+Rente kann deshalb nicht nur bei einer wesentlichen Änderung des
+Gesundheitszustandes, sondern auch dann revidiert werden, wenn sich die
+erwerblichen Auswirkungen des an sich gleich gebliebenen Gesundheitsschadens
+erheblich verändert hat (BGE 130 V 343, 349 f.). Dagegen stellt die
+unterschiedliche Beurteilung eines im Wesentlichen unverändert gebliebenen Sachverhalts
+kein Revisionsgrund dar.
+
+3.3. Zeitlicher Referenzpunkt für die Prüfung einer
+anspruchserheblichen Änderung bei einer Rentenrevision bildet die letzte (der
+versicherten Person eröffnete) rechtskräftige Verfügung, die auf einer
+materiellen Prüfung des Rentenanspruchs mit rechtskonformer
+Sachverhaltsabklärung, Beweiswürdigung und Durchführung eines
+Einkommensvergleichs (bei Anhaltspunkten für eine Änderung in den erwerblichen
+Auswirkungen des Gesundheitszustands) beruht (BGE 133 V 108, 114 E. 5.4). Dies
+war vorliegend die Verfügung vom 7. Oktober 2014 (IV-Akte194).
+
+4.
+
+4.1. Im Lichte der aufgeführten rechtlichen Grundlagen ist somit
+zu prüfen, ob sich im zeitlichen Intervall vom 7. Oktober 2014 bis zum 18. Juli
+2022, dem Zeitpunkt der hier angefochtenen Verfügung, eine revisionsrechtlich
+relevante Änderung des Sachverhaltes ergeben hat.
+
+4.2. Zur Beurteilung der Invalidität sind die Verwaltung und im
+Streitfall das Gericht zunächst auf Unterlagen von Ärztinnen und Ärzten
+angewiesen, deren Aufgabe es ist, den Gesundheitszustand der versicherten
+Person zu beurteilen und dazu Stellung zu nehmen, in welchem Umfang und
+bezüglich welcher Tätigkeiten Arbeitsunfähigkeit besteht oder eine
+Arbeitsleistung zumutbar ist (BGE 122 V 158 E. 1b; 114 V 314 E. 3c; 132 V 93,
+99 f. E. 4 mit weiteren Hinweisen).
+
+4.3. Hinsichtlich des Beweiswertes eines Arztberichts ist
+entscheidend, ob dieser für die streitigen Belange umfassend ist, auf
+allseitigen Untersuchungen beruht, auch die geklagten Beschwerden
+berücksichtigt, in Kenntnis der Vorakten (Anamnese) abgegeben worden ist, in
+der Beurteilung der medizinischen Zusammenhänge einleuchtet und ob die
+Schlussfolgerungen der Experten begründet sind (BGE 134 V 231, 232 mit Hinweis
+auf BGE 125 V 351, 352 E. 3a).
+
+4.4. Gutachten externer Spezialärzte, welche von
+Versicherungsträgern im Verfahren nach Art. 44 ATSG eingeholt wurden und den
+Anforderungen der Rechtsprechung entsprechen, darf das Gericht vollen
+Beweiswert zuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 135 V 465, 470 E. 4.4; BGE 125 V
+352, 353 E. 3b/bb). Gemäss ständiger Praxis des Bundesgerichts kommt den im
+Rahmen eines Gutachtens erstellten Berichten unabhängiger Fachärztinnen höherer Beweiswert zu als solchen von Hausärztinnen und
+Hausärzten oder - wie im vorliegenden Fall - behandelnden Fachärzten (vgl. BGE 135 V 465, 470 E. 4.5 mit weiteren
+Hinweisen).
+
+4.5. Die Regionalen Ärztlichen Dienste (RAD) stehen den IV-Stellen
+zur Beurteilung der medizinischen Voraussetzungen des Leistungsanspruchs zur
+Verfügung. Sie setzen die für die Invalidenversicherung nach Art. 6 ATSG
+massgebende funktionelle Leistungsfähigkeit der versicherten Person fest, eine
+zumutbare Erwerbstätigkeit oder Tätigkeit im Aufgabenbereich auszuüben. Sie
+sind in ihrem medizinischen Sachentscheid im Einzelfall unabhängig (Art. 59
+Abs. 2bis IVG). RAD-Berichte sind versicherungsinterne Dokumente, die von Art.
+44 ATSG betreffend Gutachten nicht erfasst werden; die in dieser Norm
+vorgesehenen Verfahrensregeln entfalten daher bei Einholung vo n
+RAD-Berichten keine Wirkung (vgl. BGE 135 V 254 E. 3.4 S. 258; Urteil des
+Bundesgerichts 8C_385/2014 vom 16. September 2014 E. 4.2.1). Der Beweiswert von RAD- Berichten nach Art. 49 Abs. 2 IVV ist mit jenem externer
+medizinischer Sachverständigengutachten vergleichbar, sofern sie den
+praxisgemässen Anforderungen an ein ärztliches Gutachten (BGE 134 V 231 E. 5.1)
+genügen und die Arztperson über die notwendigen fachlichen Qualifikationen
+verfügt (BGE 137 V 210 E. 1.2.1). Allerdings ist hinsichtlich des Beweiswerts
+zu differenzieren: Stützt sich der angefochtene Entscheid ausschliesslich auf
+versicherungsinterne medizinische Unterlagen  zu denen die RAD-Berichte gehören , sind an die Beweiswürdigung strenge Anforderungen zu
+stellen. In solchen Fällen sind bereits bei geringen Zweifeln an der
+Zuverlässigkeit und Schlüssigkeit der ärztlichen Feststellungen ergänzende
+Abklärungen vorzunehmen (vgl. BGE 139 V 225 E. 5.2; 135 V 465 E. 4.4 und E.
+4.7; zum Ganzen auch: Urteil des Bundesgerichts vom 30. November 2015,
+9C_627/2015, E. 2 mit weiteren Hinweisen).
+
+5.
+
+5.1. 5.1.1. Die rechtskräftige Verfügung vom 7. Oktober 2014 (IV-Akte
+194) beruhte in medizinischer Hinsicht auf dem bidisziplinären Gutachten der
+Dres. med. B____, Facharzt für Innere Medizin und Rheumatologe, FMH, und C____,
+Facharzt für Psychiatrie und Psychotherapie, FMH, vom 22. September 2021
+(IV-Akte 158).
+
+5.1.2. Gemäss rheumatologischem Fachgutachten wurden beim Beschwerdeführer mit
+Auswirkung auf die Arbeitsfähigkeit (1) ein Status nach CRPS Typ I, Grad II
+Knie rechts mit/bei Status nach Distorsionstrauma des rechten Kniegelenks am 4.
+Februar 2006 mit Ruptur des medialen Seitenbandes, Bone bruise des medialen
+Femurkondylus, Knie-Arthroskopie rechts am 7. April 2006 mit medialer und
+lateraler Teilmeniskektomie und Knorpelglättung retropatellär und im Bereich
+des medialen Femurkondylus, Knie Arthroskopie rechts am 6. Juni 2007 mit
+Pilca-Resektion und Knorpel-Shaving aktuell klinisch und radiologisch keine
+Symptome objektivierbar, (2) lumbovertebrales Schmerzsyndrom mit spondylogener
+Komponente bei Hyperlordose, Chondrose L4/5 und L5/S1, Sponylarthrose L3/4
+betont und L5/S1, Haltungsschwäche und muskuläre Dysbalance, 2/5 Waddell
+Zeichen; (3) zervikovertebrales und zervikozephales Cervicalsyndrom bei
+leichten degenerativen Veränderungen der HWS mit/bei breitbasiger, medianer
+Diskushernie HWK 4/5 ohne neuronale Tangierung, breitbasige, mediolateral
+rechtsliegende Diskushernie HWK 6/7 ohne Tangierung neuronaler Strukturen (MRT
+HWS 28. Oktober 2011, IV-Akte 158, S. 14). Aus rheumatologischer Sicht bestehe
+eine medizinischtheoretische Arbeitsfähigkeit von 80% in einem Ganztagspensum
+in der angestammten Tätigkeit als CAD-Zeichner, wobei die 20%ige Reduktion zur
+Aufrechterhaltung der Entspannungsphasen und des verminderten Arbeitstempos
+gelten. Tätigkeiten insbesondere in nasskalter Umgebung, in Staubumgebung, bei
+Lärm, sollten ebenfalls vermieden werden. Ideal sei eine wechselbelastende
+Tätigkeit, stehend, gehend, sitzend (a.a.O., S. 15).
+
+5.1.3. Dr. med. C____ attestierte dem Beschwerdeführer rezidivierende leichte
+bis mittelgradige depressive Episoden (ICD-10 F33.0) und eine anhaltende
+somatoforme Schmerzstörung mit somatischen und psychischen Faktoren (ICD-10
+F45.4). Hinsichtlich der Arbeitsfähigkeit führte der Gutachter aus, der
+Beschwerdeführer könne sich ohne weiteres an Regeln und Routinen anpassen. Er
+könne planen und strukturieren und grundsätzlich auch seine fachlichen
+Kompetenzen anwenden. Die Kontakt- und Gruppenfähigkeit sei nicht
+beeinträchtigt. Gemittelt müsse aus rein psychiatrischer Sicht aufgrund der
+erwähnten Faktoren von einer 30%igen Beeinträchtigung der Arbeits- und Leistungsfähigkeit
+ausgegangen werden. Die depressive Symptomatik sei nicht immer gleich
+ausgeprägt, weshalb die Beeinträchtigung aus psychiatrischer Sicht gemittelt
+werden müsse. Eine höhergradige Beeinträchtigung der Arbeits- und Leistungsfähigkeit
+könne aus objektiven Gründen nicht festgestellt werden.
+
+5.1.4. Im Rahmen der Konsensbesprechung kamen die Gutachter zum Schluss, dass
+die psychiatrische Beurteilung der Arbeitsfähigkeit führend sei und aufgrund
+der erhobenen Befunde, des bisherigen Verlaufs und unter Berücksichtigung der
+Einschränkungen gemittelt eine 30%ige Beeinträchtigung der Arbeits- und
+Leistungsfähigkeit bestehe. Die erlernte Tätigkeit als Automechaniker oder
+Monteur sei in dieser Situation ungünstig und solle vermieden werden. Ideal sei
+eine leichte, wechselbelastende Tätigkeit, stehend gehend sitzend. Tätigkeiten
+insbesondere in nasskalter Umgebung, in Staubumgebung, bei Lärm, sollten
+vermieden werden, ebenso repetitives Treppensteigen, Zwangshaltungen des
+Rumpfes und häufiges Bücken.
+
+5.2. 5.2.1. Die hier angefochtene Verfügung vom 18. Juli 2022
+beruhte im Wesentlichen auf dem bidisziplinären Gutachten der Dres. med. D____,
+Facharzt für Psychiatrie und Psychotherapie, FMH, und E____, Facharzt für
+Rheumatologie und Facharzt für Innere Medizin, FMH, vom 15. Februar 2021
+(IV-Akte 236 und 237) und den Berichten des RAD (vgl. E. 6 hiernach).
+
+5.2.2.     Der rheumatologische Gutachter stellte folgende Diagnosen mit
+Einfluss auf die Arbeitsfähigkeit: (1) beginnende Gonarthrose rechts mit/bei
+Status nach Distorsionstrauma des rechten Kniegelenks am 4. Februar 2006 mit
+Ruptur des medialen Seitenbandes, Bone bruise des medialen Fermurkondylus,
+Status nach CRPS Typ I rechtes Knie, CRPS vollständig abgeheilt 03/2007 (MRI
+Knie rechts 29. März 2007); (2) Status nach Arthroskopie rechtes Knie, mediale
+und laterale Meniskusresektion, Knorpelglättung bei medialer und lateraler
+Meniskus-Vorderhorn Ruptur, Knorpeldefekt Outerbridge 3° am medialen
+Fermurkondylus sowie Patellerückfläche, mediale Seitenbandruptur am 7. April
+2006, Status nach Arhtroskopie Knie rechts, Plica-Resektion, Knorpelshaving bei
+Plica infrapatellaris, Knorpelschädigung retropatellär entsprechend
+Chondromalazie Grad II am 6. August 2007; (3) Periarthropathia humeroscapularis
+links mit/bei Status nach Schulterarthroskopie links, Refixation der
+Supraspinatussehne, Tenotomie der langen Bizepssehne, Bursektomie und sparsame
+Akromioplastikbei traumatischer Ruptur Supraspinatussehne, Tendinopathie lange
+Bizepssehne, Bursitis subycromialis Schulter links am 13. August 2018, Status
+nach Schulterarthroskopie links mit 2-reihiger Refixierung der Supraspinatssehne
+und Infraspinatussehne, Bursektomie, Dèbridement und Biopsieentnahme bei
+Reruptur der Rotatorenmanschette (Supraspinatussehne und Infraspinatussehne) am
+31. Januar 2020; (4) Periarthropathia humerosapularis rechts mit/bei Status
+nach Schulterarthroskopie recht mit 2-reihiger Refixation der Supraspinatussehne,
+Tenotomie der langen Bizepssehne, Bursektomie und sparsame Akromioplastik bei
+transmuraler Ruptur Supraspinatussehne, Tendinopathie der langen Bizepssehne,
+Bursitis subacromialis Schulter rechts am 4. Februar 2019; (5)
+Lumbovertebralsyndrom mit/bei Fehlform (Rundrücken), altersentsprechenden
+leichten degenerativen Veränderungen mit mehrsegmentalen leichten
+Fazettengelenksarthrosen der LWS (MRI LWS, ISG 7. Februar 2018, CT-LWS 11.
+November 2020), klinisch keine radikuläre Reizsituation; (6) zervikospondylogenes
+(zervikozephales) Syndrom mit/bei Fehlform (Rundrücken), altersentsprechenden
+leichten degenerativen Veränderungen der HWS mit breitbasiger medianer
+Diskushernie C4/5, breitbasiger mediolateral rechtsliegende Diskushernie C6/7
+ohne Neurokompression (MRI HWS 28. Oktober 2011), klinisch keine radikuläre
+Reizsituation; (7) Angabe von belastungsabhängigen Handgelenksschmerzen links
+mit/bei Status nach SL-Ligament-Rekonstruktion mittels Arhtrex-Kit DX Swivel
+Lock 3.5 x 0.8 mm Insertionen und lateral Tape 1.5 mm bei SL-Bandruptur
+komplett Handgelenk links mit/bei Status nach Handgelenksarthroskopie und
+intakter Knorpelstrukturam Lunatum sowie am Scaphoid sowie an der
+Radiuskongruität am 3. August 2017, klinisch unauffäliger Befund; (8)
+beginnende Gonarthrose links mit/bei Status nach Kniegelenksarhtroskopie links
+mit Teilmenisektomie mediale Meniskus mittleres-posteriores Drittel, Shaving
+Femur OCL und Pilca mediopatellaris bei medialer Meniskusläsion Kniegelenk
+links mit medialer Knorpeldegeneration am 4. Mai 2016 (IV-Akte 236, S. 62 f.).
+
+5.2.3. In Bezug auf die Arbeitsfähigkeit führte Dr. med. E____ aus, in der
+angestammten Tätigkeit als Automechaniker und Monteur bestehe eine
+Arbeitsfähigkeit von 0%. Als CAD-Zeichner sei von einer Arbeitsfähigkeit des Beschwerdeführers
+von 70% auszugehen. Der zeitliche Verlauf der dargestellten Arbeitsfähigkeit
+als CAD-Zeichner stelle sich wie folgt dar:  0% vom 13. August 2018 bis Ende
+Mai 2019 (13. August 2018 Schulter-OP links, postoperative Rehabilitation, 4.
+Februar 2019 Schulter-OP rechts, postoperative Rehabilitation, unauffälliger
+postoperativer Verlauf), 80% Anfang 06/2019 bis 30. Januar 2020, 0% vom 31.
+Januar 2020 bis Ende 05/2020 (31. Januar 2020 Schulter-OP links, postoperative
+Rehabilitation, unauffälliger postoperativer Verlauf), 70% Anfang 06/2020 bis
+laufend. Insgesamt sei es im Verlaufe der Jahre zu einer leichten
+Verschlechterung gegenüber der Vorbegutachtung gekommen. Dieser Zeitpunkt werde
+im Sinne einer diskreten progredienten Verschlechterung auf den Zeitpunkt nach
+der Rehabilitation nach der letzten Schulter-OP gelegt (Juni 2020). Insgesamt
+kämen keine dauernd schweren oder dauernd mittelschweren Arbeiten mehr in
+Frage. Es kämen nur noch leichte Arbeiten in Frage. Es bestünden zudem folgende
+Einschränkungen: Er könne nicht dauernd sitzen, nicht dauernd stehen, nicht in
+Zwangsstellungen wie z.B. der Vorhalte arbeiten, nicht dauernd repetitiv
+vornübergebeugt oder bücken und nicht dauernd über Kopf arbeiten. Er könne mit
+der HWS nicht in dauernden Zwangsstellungen wie dauernd inkliniert oder
+reklinierter HWS arbeiten. Insgesamt bestehe für eine leichte Tätigkeit, welche
+zusammengefasst rückenschonend und gelenkschonend sei, bestehe insgesamt eine
+Arbeitsfähigkeit von 70% bezogen auf ein Ganztagspensum (IV-Akte 236, S. 67).
+
+5.2.4. Dr. med. D____ attestierte dem Beschwerdeführer keine Diagnosen mit
+Einfluss auf die Arbeitsfähigkeit. Ohne Einfluss auf die Arbeitsfähigkeit diagnostizierte
+der Gutachter eine leichte depressive Episode (ICD-10 F32.0) und eine chronische
+Schmerzstörung mit somatischen und psychischen Faktoren (ICD-10 F45.4) fest
+(IV-Akte 237, S. 18). Hinsichtlich der Arbeitsfähigkeit stellte der Gutachter
+fest, aus psychiatrischer Sicht bestehe aktuell eine solche von 100%. Zu den
+Arbeitsrahmenbedingungen sei festzuhalten, dass aufgrund der chronischen
+Schmerzstörung mit somatischen und psychischen Faktoren von körperlichen
+Schwerarbeiten abzusehen sei. Zum zeitlichen Verlauf der Arbeitsfähigkeit
+äusserte sich Dr. med. D____ dahingehend, dass zum Zeitpunkt der Begutachtung
+durch Dr. med. C____ noch eine leichte bis mittelgradige depressive Episode
+vorlag. Unterdessen liege lediglich noch eine leichte depressive Episode vor,
+die sich allerdings nicht mehr auf die Arbeitsfähigkeit auswirke. Seit wann der
+Beschwerdeführer aus psychiatrischer Sicht wieder im Vollbesitz seiner
+qualitativen Funktionsfähigkeiten sei, sei unklar. Zumindest habe er seit
+vielen Jahren keine ambulante psychiatrische Behandlung mehr aufgesucht. Mit
+einziger Sicherheit könne festgehalten werden, dass die 100%ige
+Arbeitsfähigkeit im ersten Arbeitsmarkt ab dem hiesigen Begutachtungsdatum (10.
+Februar 2021) festgehalten werde (a.a.O., S. 27 f.).
+
+5.2.5. Anlässlich
+der Konsensbeurteilung hielten die Gutachter fest, da aus psychiatrischer Sicht
+keine Einschränkung der Arbeitsfähigkeit bestehe, gelte hier vorliegend die
+rheumatologische Begutachtung als Gesamtbeurteilung für die Fächer
+Rheumatologie und Psychiatrie. Somit sei von einer 70%igen Arbeitsfähigkeit in
+einer Tätigkeit, welche zusammengefasst also rückenschonend und gelenkschonend
+(Schulter, linke Hand, Knie) sei, insgesamt von einer 70%igen Arbeitsfähigkeit
+bezogen auf ein Ganztagspensum auszugehen (IV-Akte 236, S. 96).
+
+5.3. Auf das bidisziplinäre Gutachten der Dres. med. E____ und D____
+kann abgestellt werden. Es erfüllt die Voraussetzungen an beweiskräftige
+medizinische Erhebungen im Sinne der bundesgerichtlichen Rechtsprechung (vgl.
+E. 4.3. hiervor). Die jeweiligen Teilgutachten wurden in Kenntnis der Vorakten
+erstellt, wobei die wichtigsten Textpassagen der vorhandenen ärztlichen
+Unterlagen in den Gutachten aufgeführt wurden (IV-Akten 236, S. 10 ff. und 237,
+S. 4 ff.). Die Gutachten sind für die streitigen Belange aktuell und umfassend
+und beruhen auf allseitigen Untersuchungen (neunzigminütige rheumatologische
+Untersuchung, IV-Akte 236, S. 4; sechzigminütige psychiatrische Untersuchung,
+IV-Akte 237, S. 3). Die geklagten Beschwerden des Beschwerdeführers wurden
+hinreichend berücksichtigt und bilden ihrerseits die Grundlage für die jeweils
+sorgfältige Anamnese (vgl. Befragung und Befund, IV-Akte 236, S. 37 ff.;
+IV-Akte 237, S. 11 ff.). Zu vorhandenen früheren allfällig abweichenden
+Berichten wurde in den jeweiligen Teilgutachten Stellung genommen. Im
+psychiatrischen Teilgutachten wurden ferner die Standardindikatoren
+berücksichtigt (vgl. BGE 141 V 281, 297 f. E. 4.1.3). Schliesslich ist das
+bidisziplinäre Gutachten in der Darlegung der medizinischen Zusammenhänge und
+in der Beurteilung der medizinischen Situation einleuchtend und die
+Schlussfolgerungen und Diagnosestellungen der Expertisen schlüssig begründet
+(vgl. auch Beurteilung RAD vom 18. Oktober 2022, IV-Akte 288).
+
+6.
+
+6.1. Der Beschwerdeführer beanstandet das psychiatrische
+Teilgutachten von Dr. med. D____ zu Recht nicht. Die im rheumatologischen Teilgutachten
+attestierte Arbeitsfähigkeit bemängelt der Beschwerdeführer mit dem Hinweis auf
+eine nach der Begutachtung am 16. April 2021 erfolgten Operation an der linken
+Schulter. Unter Verweis auf seine behandelnden Ärzte geht er im Nachgang der
+vorgenannten Operation von einer vollumfänglichen und nicht wie gutachterlich
+festgestellt, von einer 30%igen Arbeitsunfähigkeit aus.
+
+6.2. 6.2.1. Am 16. April 2021 erfolgte eine Schulterarthroskopie
+links mit Teilrepair der posterosuperioren Rotatorenmanschette (Refixierung der
+Infraspinatussehne), Bursektomie der Neobursa und Lösen der subrakomialen
+Vernarbung, Débridement und Entfernung des Fadenmaterials. Zwei Wochen nach der
+Operation zeigte sich ein unauffälliger Befund (vgl. Operationsbericht F____klinik
+vom 16. April 2021, IV-Akte 246, S. 3; Bericht F____klinik vom 28. April 2021,
+IV-Akte 246, S. 7). Drei Monate postoperativ zeigte sich weiterhin ein
+zeitgerechter Befund mit regredienten Beschwerden und freier passiver Mobilität
+(vgl. Bericht F____klinik vom 12. Juli 2021, IV-Akte 255). Gemäss Bericht der F____klinik
+vom 9. November 2022 setzte sich dieser erfreuliche Verlauf fort. Insgesamt
+bestehe ein ruhiger Befund bei stabiler aktiver Mobilität bis über die
+Horizontalebene hinaus (IV-Akte 257, S. 2). Hinweise in Bezug auf die
+Arbeitsfähigkeit des Beschwerdeführers ergeben sich aus den vorgenannten
+Berichten der F____klinik nicht.
+
+6.2.2.    Mit Bericht vom 17. November 2021 (IV-Akte 257) attestierte der
+behandelnde Arzt der G____klinik, Dr. med. H____, Facharzt für Allgemeine
+Innere Medizin, FMH, dem Beschwerdeführer sieben Monate postoperativ eine nach
+wie vor bestehende 100%ige Arbeitsunfähigkeit. Eine Begründung betreffend die
+attestierte Arbeitsunfähigkeit lässt sich vorgenanntem Bericht nicht entnehmen.
+
+6.2.3.     Der RAD-Arzt, Dr. med. I____, Facharzt für
+Orthopädie und Facharzt für Physikalische und Rehabilitative Medizin, FMH,
+führte mit Beurteilung vom 5. Januar 2022 (IV-Akte 261, S. 7) aus, der
+postoperative Verlauf gestalte sich durchgehend unauffällig und völlig adäquat
+hinsichtlich eines Revisionseingriffs an der Schulter. Angesichts dessen sei
+ergänzend zum Gutachten von Dr. med. E____ ab dem Zeitpunkt der der Operation vom
+16. April 2021 bis zum 12. Juli 2021 (3 Monate postoperativ) von einer 0%igen
+Arbeitsfähigkeit, vom 13. Juli 2021 bis zum 31. August 2021 von einer 50%igen
+und ab dem 1. September 2021 wieder von der gutachterlich festgestellten 70%igen
+Arbeitsfähigkeit ausgegangen werden. Auf das bidsiziplinäre Gutachten der Dres.
+med. D____ und E____ könne weiterhin unverändert abgestützt werden.
+
+6.2.4.     Mit Schreiben vom 10. März 2022 (IV-Akte 271, S. 6)
+führte der behandelnde Arzt der F____klinik, Dr. med. J____, Facharzt für
+Orthopädische Chirurgie und Traumatologie des Bewegungsapparates, FMH, seitens
+des RAD seien sämtliche Beschwerden und Krankheiten des Beschwerdeführers
+berücksichtigt worden. Hinsichtlich der Arbeitsfähigkeit sei aufgrund der
+wieder akuten Beschwerden im Bereich der linken Schulter anzumerken, dass der
+linke Arm momentan nicht aktiv über einen längeren Zeitraum in der
+Horizontalebene stabilisiert werden könne. Es bleibe die aktuelle Entwicklung
+abzuwarten.
+
+6.2.5.     Mit erneuter Beurteilung vom 12. Mai 2022 (IV-Akte 273, S. 4)
+hielt der RAD-Arzt I____ in Bezug auf das Schreiben von Dr. med. J____ fest,
+dass es in der Natur der Sache liege, wenn es nach mehrfachen Operationen an
+der linken Schulter immer wieder zu Veränderungen der Beschwerden kommen, die
+auch einer gezielten Behandlung bedürften. Solange sich jedoch nur eine
+vorübergehende Veränderung und nicht eine richtungsweisende
+Verbesserung/Verschlechterung des Gesundheitszustandes ergebe, bleibe es bei
+dem formulierten Leistungsbild. Es verbleibe daher bei der Stellungnahme vom 5.
+Januar 2022 (vgl. E. 6.2.3. hiervor).
+
+6.2.6.    Mit Stellungnahme vom 1. Juli 2022 (IV-Akte 286, S.
+5) führte Dr. med. J____ aus, es bestehe beim Beschwerdeführer ein Status nach
+arthroskopischer Refixierung der Supraspinatussehne aus dem Jahr 2018. In der
+Folge sei es zur Re-Ruptur und Revisionsoperation mit erneuter Refixierung der
+Supraspinatussehne und Infraspinatussehne (01/2020) sowie nochmaliger Re-Ruptru
+und Revisionsrthroskopie mit hier nur noch möglichem Teilrepair der
+posterosuperioren Rotatorenmanschette (04/2021) gekommen. Momentan zeige sich
+in den postoperativen Kontrollen ein gleichbleibender Befund. Es bestehe eine
+schmerzhaft eingeschränkte Mobilität. Der klinische Befund korreliere gut mit
+dem Befund der nicht komplett zur Heilung gekommenen posterosuperioren
+Rotatorenmanschette mit dadurch resultierender anhaltender Bursitis der
+Neobursa im Subrakomialraum. Angaben bezüglich der Arbeitsfähigkeit des
+Beschwerdeführers lassen sich dem Bericht vom 1. Juli 2022 nicht entnehmen.
+
+6.2.7.     Mit Stellungnahme vom 18. Oktober 2022 (IV-Akte 288)
+hielt der RAD-Arzt I____ fest, anlässlich der Stellungnahme vom 1. Juli 2022
+habe Dr. med. J____ die bekannten Diagnosen aufgenommen und auf den aktuellen
+Befund Bezug genommen. Dr. med. J____ habe ausdrücklich angegeben, dass sich in
+den postoperativen Kontrollen ein gleichbleibender Befund zeige. Seine
+vorgängigen medizinischen Einschätzungen hätten daher nach wie vor Gültigkeit. Es
+bedürfe keiner weiteren Abklärungen und es könne an den Einschätzungen vom 5.
+Januar 2022 und vom 12. Mai 2022 festgehalten werden.
+
+6.3. 6.3.1. In beweisrechtlicher Hinsicht vorweg zu nehmen ist,
+dass der Bericht des RAD vom 18. Oktober 2022 im vorliegenden Verfahren zu
+berücksichtigen ist, obschon er nach der angefochtenen Verfügung datiert, da er
+sich inhaltlich zum vor dem Verfügungszeitpunkt liegenden Sachverhalt äussert
+(vgl. Urteil des Bundesgerichts 9C_119/2021 vom 17. Juni 2021, E. 2.1 mit
+Hinweis auf BGE 132 V 215 e. 3.1.1.; 131 V 407 E. 2.1).
+
+6.3.2.     Die Berichte des RAD vermögen in vorliegender Angelegenheit die
+praxisgemässen Anforderungen an medizinische Expertisen zu erfüllen (vgl. E.
+4.4. f.). Der nachvollziehbaren, fachärztlichen Einschätzung des RAD-Arztes I____
+bezüglich des Verlaufs der Arbeitsfähigkeit des Beschwerdeführers im Nachgang
+zum bidisziplinären Gutachten ist zu folgen, erwecken doch die Berichte der
+behandelnden Ärzte keine (geringen) Zweifel an der Darstellung des RAD. Wie der
+RAD-Arzt zutreffend ausführte, zeigte sich ein halbes Jahr nach der Operation
+vom 16. April 2021 ein ruhiger Befund mit einer stabilen aktiven Mobilität. Der
+postoperative Verlauf stellte sich durchwegs unauffällig und völlig adäquat
+hinsichtlich eines Revisionseingriffes an der Schulter dar. Angesichts dessen
+ist die Einschätzung des RAD, wonach während der Rekonvaleszenz von einer 100%igen
+und ein halbes Jahr darauf wieder eine entsprechend der gutachterlichen
+Einschätzung von einer 70%igen Arbeitsfähigkeit auszugehen sei, plausibel. Die
+seitens des behandelnden Arztes beschriebene Schmerzsituation vermag an dieser
+Einschätzung nichts zu ändern. Einerseits steht das von Dr. med. E____
+gezeichnete Verweistätigkeitsprofil dem Umstand nicht entgegen, dass der
+Beschwerdeführer den Arm momentan nicht aktiv über einen längeren Zeitraum in
+der Horizontalen halten kann. Andererseits ergeben sich aus den Akten keine
+Hinweise darauf, dass es sich bei den beklagten Schmerzen nicht bloss um eine
+vorübergehende, sondern um eine dauernde Verschlechterung des
+Gesundheitszustandes des Beschwerdeführers handelt, kann es doch bei mehrfachen
+Operationen der linken Schulter immer wieder zu Veränderungen der Beschwerde
+kommen, die auch einer gezielten Behandlung bedürfen. Es trifft zwar grundsätzlich
+zu, dass sich die medizinische Ausgangslage nach der Operation vom 16. April
+2021 insoweit anders präsentiert, als dass lediglich noch ein Teilrepair und
+nicht mehr eine vollständige Fixierung der Sehnen möglich war. Allerdings ist
+eine entsprechende Veränderung nur dann zu berücksichtigen, wenn von einer
+veränderten Befundlage auszugehen ist. Dr. med. J____ legt jedoch nicht dar,
+inwiefern diese Veränderung von Einfluss auf die Arbeitsfähigkeit des
+Beschwerdeführers sein könnte und unterlässt es, sich betreffend die
+Arbeitsfähigkeit zu äussern. Hinzu kommt, dass Dr. med. J____ im März 2022
+selbst angibt, seitens des RAD seien sämtliche Beschwerden und Krankheiten des
+Beschwerdeführers berücksichtigt worden. Schliesslich weckt auch die von Dr.
+med. H____ im November 2021 attestierte 100%ige Arbeitsunfähigkeit des
+Beschwerdeführers keine Zweifel an der Beurteilung des RAD, da Dr. med. H____
+seine Einschätzung nicht begründet.
+
+6.4. Insgesamt ist ergeben sich somit im Vergleich zum
+Verfügungszeitpunkt vom 7. Oktober 2014 jeweils im Nachgang zu den erfolgten
+Operationen Verschlechterungen des Gesundheitszustandes im Sinne von Art. 17
+ATSG.
+
+6.5. In arithmetischer Hinsicht ist die Berechnung des Validen-
+und Invalideneinkommens zu Recht nicht umstritten. Die im Beurteilungszeitraum
+massgeblichen Veränderungen der medizinischen Ausgangslage wurden seitens der
+Beschwerdegegnerin im Übrigen unter Anwendung von Art. 88a Abs. 1 der
+Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV; SR
+831.201) korrekt festgelegt. Dem Beschwerdeführer steht somit ab dem 1. Mai
+2019 eine ganze Rente, ab dem 1. September 2019 eine halbe Rente, ab dem 1. Mai
+2020 eine ganze Rente, ab dem 1. September 2020 eine halbe Rente, ab dem 1.
+August 2021 eine ganze Rente und ab dem 1. Dezember 2021 eine halbe Rente zu.
+
+7.
+
+7.1. Den obigen Ausführungen zufolge ist die Beschwerde abzuweisen
+und die Verfügung vom 18. Juli 2022 zu bestätigen.
+
+7.2. Bei diesem Ausgang des Verfahrens gehen die ordentlichen
+Kosten, bestehend aus einer Gebühr von CHF 800.00, zu Lasten des
+Beschwerdeführers.
+
+7.3. Die ausserordentlichen Kosten sind wettzuschlagen.
+
+Demgemäss erkennt das Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen
+Kosten, bestehend aus einer Gebühr von CHF 800.00.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer MLaw
+N. Marbot
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist dem
+Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt
+für Sozialversicherungen
+
+Versandt am:
