@@ -1,0 +1,456 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.2"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "UV"
+docket: "UV.2022.27"
+docket_2: "SVG.2023.2"
+decided: "2022-07-22"
+published: "2022-12-06"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74475&W10_KEY=3049208&nTrefferzeile=97&Template=search_result_document.html"
+cites_decisions: ["8C_134/2020", "8C_212/2017", "8C_227/2018", "8C_239/2021", "8C_313/2018", "8C_366/2013", "8C_366/2021", "8C_450/2014", "8C_466/2021", "8C_535/2021", "8C_581/2021", "8C_628/2015", "8C_682/2021", "8C_811/2018", "8C_939/2011", "9C_124/2019", "9C_532/2016", "9C_851/2018", "BGE 122 V 426", "BGE 134 V 64", "BGE 135 V 297", "BGE 137 V 210", "BGE 138 V 457", "BGE 146 V 16", "UV.2022.27"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-045.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.201/art-078.md", "switzerland/bund/acts/832.20/art-018.md", "switzerland/bund/acts/832.202/art-028.md"]
+---
+
+# Verwertbarkeit einer verbleibenden medizinisch-theoretischen Restarbeitsfähigkeit wegen des fortgeschrittenen Alters, leidensbedingter Abzug
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 6.
+Dezember 2022
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), Dr. med. W.
+Rühl , lic. iur. S. Bammatter-Glättli
+
+und
+Gerichtsschreiberin Dr. B. Gruber
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch B____, Frau C____,
+[...]
+
+Beschwerdeführerin
+
+SUVA
+
+Rechtsabteilung, Fluhmattstrasse 1,
+Postfach, 6002 Luzern
+
+Beschwerdegegnerin
+
+Gegenstand
+
+UV.2022.27
+
+Einspracheentscheid vom 22. Juli
+2022
+
+Verwertbarkeit einer
+verbleibenden medizinisch-theoretischen Restarbeitsfähigkeit wegen des
+fortgeschrittenen Alters, leidensbedingter Abzug
+
+Tatsachen
+
+I.
+
+Die Beschwerdeführerin arbeitete seit Juli 2014 als
+Reinigungskraft bei der D____ AG, Münchenstein, und in einem kleineren Pensum
+bei der E____ AG, Basel, und war in dieser Eigenschaft obligatorisch bei der
+Suva gegen die Folgen von Unfällen versichert (Schadenmeldung UVG vom 22.
+Februar 2021, Suva-Akte 2 und Schadenmeldung UVG vom 10. Mai 2021, Suva-Akte
+29).
+
+Am 8. Februar 2021 rutschte die Beschwerdeführerin auf nassem
+Boden aus und stürzte auf die linke Seite (Schadenmeldung UVG vom 22. Februar
+2021, Suva-Akte 2). Dabei zog sie sich eine distale mehrfragmentäre,
+dislozierte und intraartikuläre Humerusfraktur links zu (vgl. Suva-Akte 18, 19
+und 22), die am 10. Februar 2021 am F____ operativ mittels Osteosynthese
+versorgt wurde (Operationsbericht vom 18. Februar 2021, Suva-Akte 21).
+
+Kreisarzt Dr. med. G____, Facharzt für Orthopädische Chirurgie
+und Traumatologie des Bewegungsapparates FMH, kam in seinem Bericht vom 17.
+Februar 2022 (Suva-Akte 80) zum Schluss, dass eine wesentliche Besserung der
+Beweglichkeit im linken Ellenbogengelenk nicht mehr zu erwarten sei. Als
+Reinigungsfachkraft sei die Beschwerdeführerin nicht mehr arbeitsfähig. In
+einer alternativen leichten körperlichen Tätigkeit könne sie ganztags arbeiten
+bei einer Maximalbelastung von 5 kg mit dem linken Arm, wobei er weitere
+spezifische Einschränkungen bezüglich des linken Arms formulierte. Der
+Integritätsschaden betrage 5 % (Suva-Akte 81).
+
+Im Schreiben vom 21. Februar 2022 (Suva-Akte 86) teilte die
+Suva der Beschwerdeführerin mit, dass keine wesentliche Verbesserung mehr
+erreicht werden könne und sie die Heilkosten- und Taggeldleistungen per 31.
+März 2022 einstellen werde und informierte sie über das kreisärztliche
+Zumutbarkeitsprofil.
+
+Hinzu kam eine Handgelenksdistorsion links (Erstdiagnose am 25.
+August 2021) bei DRUG-Beschwerden links, mit im Verlauf rückläufigen
+Beschwerden (vgl. Suva-Akte 109).
+
+In der Verfügung vom 9. März 2022 (Suva-Akte 94) lehnte die
+Suva bei einem errechneten Invaliditätsgrad von 0 % den Anspruch auf eine
+Invalidenrente ab und sprach eine Integritätsentschädigung auf der Basis einer
+Integritätseinbusse von 5 % zu. Nach Einsprache vom 23. März 2022
+(Suva-Akte 99) und Vorlage eines Arztberichts von Dr. med. H____, Fachärztin
+für Chirurgie FMH, vom 11. April 2022 (Suva-Akte 108 S. 6) und eines weiteren
+Arztberichtes des F____ vom 29. April 2022 (Suva-Akte 109) hielt die Suva mit
+Einspracheentscheid vom 22. Juli 2022 (Suva-Akte 115) an ihrer Ablehnung fest.
+
+II.
+
+Die Beschwerdeführerin beantragt, vertreten durch C____,
+Rechtsanwältin, B____, die Aufhebung des Einspracheentscheids vom 22. Juli 2022
+und die Ausrichtung einer Invalidenrente. Eventualiter seien weitere
+medizinische Abklärungen bzw. ein Gutachten zu veranlassen. Es seien die Kosten
+des Berichts von Dr. med. H____ zu übernehmen, unter Kosten- und
+Entschädigungsfolge.
+
+In der Beschwerdeantwort vom 7. Oktober 2022 beantragt die Suva
+die Abweisung der Beschwerde. In der Replik vom 2. November 2022 hält die
+Beschwerdeführerin an ihren Anträgen fest.
+
+III.
+
+Die Beratung der Kammer des Sozialversicherungsgerichts
+Basel-Stadt findet am 6. Dezember 2022 statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz sachlich zuständig zum Entscheid über die vorliegende Streitigkeit (§
+82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die Organisation der
+Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG; SG
+154.100]). Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus
+Art. 58 Abs. 1 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil
+des Sozialversicherungsrechts (ATSG; SR 830.1).
+
+1.2. Da auch die übrigen formellen Beschwerdevoraussetzungen erfüllt
+sind, ist auf die rechtzeitig erhobene Beschwerde (Art. 60 ATSG) einzutreten.
+
+2.
+
+2.1. Die Beschwerdeführerin bringt gestützt auf die Berichte von Dr. med.
+H____ vom 11. April 2022 (Suva-Akte 108) und vom 15. August 2022 (Beschwerdebeilage
+5) vor, ihre Leistungsfähigkeit sei in einer bimanuellen Tätigkeit um ca. 40
+bis 50 % reduziert. Zusätzlich bemängelt sie, die Suva habe eine
+Anwendbarkeit von Art. 28 Abs. 4 UVV verneint. Die Verwertbarkeit hänge auch
+davon ab, welcher Zeitraum der versicherten Person für eine berufliche
+Tätigkeit und für einen allfälligen Berufswechsel noch zur Verfügung stehe (BGE
+138 V 457 E. 3.2). Die medizinische Zumutbarkeit habe im März 2022 bei
+Erreichen des medizinischen Endzustandes festgestanden. Unter Zugrundlegung des
+ausgeglichenen Arbeitsmarktes werde sie mit überwiegender Wahrscheinlichkeit
+keinen Arbeitgeber mehr finden, der sie für eine Tätigkeit gemäss dem
+vorformulierten Belastbarkeitsprofil einstellen werde. Im mass-gebenden
+Zeitpunkt stehe sie ein Jahr und acht Monate vor ihrer Pensionierung. Sie könne
+ihre Arbeitsfähigkeit daher nicht mehr verwerten.
+
+2.2. Die Suva verweist darauf, dass das Zumutbarkeitsprofil den linken
+adominanten Arm betreffe, die medizinische Zumutbarkeitsbeurteilung den
+unfallbedingten Einschränkungen angemessen Rechnung trage und sie in ihrer Berechnung
+des Invaliditätsgrades einen leidensbedingten Abzug von 10 %
+berücksichtigt habe.
+
+2.3. Zwischen den Ärzten besteht Einigkeit, dass der Fallabschluss ordnungsgemäss
+erfolgte, auch die behandelnden Orthopäden haben den Fall am 13. Januar 2022
+abgeschlossen (siehe Bericht von Dr. med. H____ Suva-Akte 108 S. 8 sowie Bericht
+des F____ vom 14. Januar 2022, Suva-Akte 74). Einigkeit besteht auch darüber,
+dass eine Tätigkeit im angestammten Beruf als Reinigungsfachkraft nicht mehr
+möglich ist.
+
+2.4. Dr. med. H____ kritisiert, das Belastungsprofil sei grundsätzlich
+korrekt, aber zu wenig differenziert, denn es berücksichtige nicht die
+Auswirkung auf die bimanuelle Leistungsfähigkeit. Nach distaler, intraartikulärer
+Humerusfraktur links sei diese um mindestens die Hälfte reduziert. Dr. med. I____,
+F____, schliesst sich im Bericht vom 29. April 2022 (Suva-Akte 109)
+hinsichtlich der Arbeitsfähigkeit den Äusserungen von Dr. med. H____ an.
+
+3.
+
+3.1. Ist eine versicherte Person infolge des Unfalls mindestens zu 10
+Prozent invalid, so hat sie gemäss Art. 18 Abs. 1 UVG Anspruch auf eine
+Invalidenrente. Zur Bestimmung des Invaliditätsgrades wird gemäss Art. 16 ATSG
+das Erwerbseinkommen, das die versicherte Person nach Eintritt der
+unfallbedingten Invalidität und nach Durchführung allfälliger
+Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei ausgeglichener
+Arbeitsmarktlage erzielen könnte (sog. Invalideneinkommen), in Beziehung
+gesetzt zum Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (sog. Valideneinkommen). Der Einkommensvergleich nach Art. 16
+ATSG hat in der Regel in der Weise zu erfolgen, dass die beiden hypothetischen
+Erwerbseinkommen ziffernmässig möglichst genau ermittelt und einander
+gegenübergestellt werden, worauf sich aus der Einkommensdifferenz der Invaliditätsgrad
+bestimmen lässt (BGE 135 V 297 E. 5.2; Urteile 9C_851/2018 vom 23. Mai 2019 E.
+5.1; 9C_532/2016 vom 25. November 2016 E. 3.1; 8C_628/2015 vom 6. April 2016 E.
+5.3.5 mit Hinweisen).
+
+3.2. Umstritten sind die Auswirkungen der Einschränkungen am linken Arm
+auf die Arbeitsfähigkeit. Gemäss Zumutbarkeitsprofil des Kreisarztes Dr. med. G____
+sind der Beschwerdeführerin in einer alternativen leichten körperlichen Tätigkeit
+ganztags Arbeiten bei einer Maximalbelastung von 5 kg mit dem linken Arm
+möglich, wobei repetitive Belastungen des linken Armes, Arbeiten in ständiger
+Armvorhalte und Arbeitstätigkeiten mit einer erforderlichen Ellenbogenbeugung
+über 120° sowie repetitive Pro- und Supinationsbewegungen und
+Vibrationsbelastungen vermieden werden sollten. Dies ist nicht zu beanstanden,
+denn der massgebende ausgeglichene Arbeitsmarkt (Art. 16 ATSG; BGE 134 V 64 E.
+4.2.1) beinhaltet Tätigkeiten, die keinen oder nur einen sehr eingeschränkten
+Einsatz der adominanten Hand voraussetzen (z.B. als Zudienhand). Zu denken ist
+an einfache Überwachungs-, Prüf- und Kontrolltätigkeiten sowie die Bedienung
+und Überwachung von (halb-)automatischen Maschinen oder Produktionseinheiten
+(Urteile 8C_366/2021 vom 10. November 2021 E. 6.8.2 und 8C_450/2014 vom 24.
+Juli 2014 E. 7.2). Im Rahmen solcher Arbeiten kommt es nicht zu einer
+erheblichen Beanspruchung der linken Hand (Urteil des Bundesgerichts vom 13.
+April 2022, 8C_682/2021, E. 8.2.2.) bzw. sie setzen keinen Einsatz von linkem Arm
+und linker Hand voraus (Urteil des Bundesgerichts vom 18. Juni 2013,
+8C_366/2013, E. 4.2.).
+
+3.3. Was die von Dr. med. H____ angesprochene bimanuelle
+Leistungsfähigkeit betrifft, so ist darauf zu verweisen, dass in konstanter
+bundesgerichtlicher Rechtsprechung selbst bei funktionell Einarmigen (vgl. etwa
+Urteile des Bundesgerichts vom 29. April 2020, 8C_134/2020, E. 4.5; vom 28. Mai
+2019, 9C_124/2019 E. 3.2; vom 10. April 2019, 8C_811/2018, E. 4.4.2 und vom 14.
+Juni 2018, 8C_227/2018, E. 4.2.1 mit weiteren Hinweisen) auf den ausgeglichenen
+Arbeitsmarkt abgestellt wird. Vorliegend ist der linke adominante Arm der
+Beschwerdeführerin betroffen, den sie für sehr leichte Tätigkeiten noch
+einsetzen kann. Einer weiteren Differenzierung des Zumutbarkeitsprofils bedarf
+es nicht, da selbst Personen mit funktioneller Einarmig- oder Einhändigkeit,
+denen die Verwertbarkeit der Restarbeitsfähigkeit wie bei der
+Beschwerdeführerin tatsächlich sehr erschwert ist, ein hinreichend grosses
+Spektrum an realistischen Betätigungsmöglichkeiten auf dem ausgeglichenen
+Arbeitsmarkt unterstellt wird (Urteil des Bundesgerichts vom 29. April 2020,
+8C_134/2020, E. 4.5).
+
+3.4. Nach dem Gesagten erweist es sich als korrekt, wenn die Suva auf das
+vom Kreisarzt Dr. med. G____ erstellte Zumutbarkeitsprofil abgestellt hat und
+von einer ganztätigen Arbeitsfähigkeit in einer leichten körperlichen Tätigkeit
+ausgegangen ist.
+
+4.
+
+4.1. Die Beschwerdeführerin bringt vor, sie könne aufgrund ihres
+fortgeschrittenen Alters ihre verbleibende Arbeitsfähigkeit nicht mehr
+verwerten.
+
+4.2. Im Bereich der Unfallversicherung hat sich keine Rechtsprechung
+etabliert, wonach die Unverwertbarkeit einer verbleibenden
+medizinisch-theoretischen Restarbeitsfähigkeit wegen des fortgeschrittenen
+Alters zu berücksichtigen wäre (Urteil des Bundesgerichts vom 10. August 2018,
+8C_313/2018, E. 6.6; ausführlich dazu auch Urteil des Bundesgerichts vom 1.
+Februar 2018, 8C_212/2017 E. 4.3 mit Hinweisen; vgl. insbesondere auch Art. 28
+Abs. 4 UVV). Ohnehin wäre die Unverwertbarkeit zu verneinen, wie im Folgenden
+gezeigt wird.
+
+4.3. Das fortgeschrittene Alter wird, obgleich an sich ein
+invaliditätsfremder Faktor, in der Rechtsprechung als Kriterium anerkannt,
+welches zusammen mit weiteren persönlichen und beruflichen Gegebenheiten dazu
+führen kann, dass die einer versicherten Person verbliebene
+Resterwerbsfähigkeit auf dem ausgeglichenen Arbeitsmarkt realistischerweise
+nicht mehr nachgefragt wird, und dass ihr deren Verwertung auch gestützt auf
+die Selbsteingliederungslast nicht mehr zumutbar ist. Fehlt es an einer
+wirtschaftlich verwertbaren Resterwerbsfähigkeit, liegt eine vollständige
+Erwerbsunfähigkeit vor, die einen Anspruch auf eine ganze Invalidenrente
+begründet (Urteil des Eidg. Versicherungsgerichts [heute Bundesgericht] vom 21.
+August 2006, I 831/05, E. 4.1.1 mit Hinweisen). Der Einfluss des
+Lebensalters auf die Möglichkeit, das verbliebene Leistungsvermögen auf dem
+ausgeglichenen Arbeitsmarkt zu verwerten, lässt sich nicht nach einer
+allgemeinen Regel bemessen, sondern hängt von den Umständen des Einzelfalls ab.
+Massgebend können die Art und Beschaffenheit des Gesundheitsschadens und seiner
+Folgen, der absehbare Umstellungs- und Einarbeitungsaufwand und in diesem
+Zusammenhang auch Persönlichkeitsstruktur, vorhandene Begabungen und
+Fertigkeiten, Ausbildung, beruflicher Werdegang oder Anwendbarkeit von
+Berufserfahrung aus dem angestammten Bereich sein (BGE 138 V 457 E. 3.1 mit
+weiteren Hinweisen).
+
+4.4. Die Möglichkeit, die verbliebene Arbeitsfähigkeit auf dem
+ausgeglichenen Arbeitsmarkt zu verwerten, hängt nicht zuletzt davon ab, welcher
+Zeitraum der versicherten Person für eine berufliche Tätigkeit und vor allem
+auch für einen allfälligen Berufswechsel noch zur Verfügung steht (BGE 138 V
+457 E. 3.2). Abzustellen ist auf das Feststehen der medizinischen Zumutbarkeit
+einer (Teil-)Erwerbstätigkeit (BGE 138 V 457 E. 3.3). Die medizinische
+Zumutbarkeit einer (Teil-)Erwerbstätigkeit steht fest, sobald die medizinischen
+Unterlagen diesbezüglich eine zuverlässige Sachverhaltsfeststellung erlauben
+(BGE 138 V 457 E. 3.4).
+
+4.5. Der Beschwerdeführerin verbleiben zum Zeitpunkt des Feststehens der
+medizinischen Zumutbarkeit (Fallabschluss per 31. März 2022) noch ein Jahr und neun
+Monate bis zum Erreichen des ordentlichen Pensionsalters.
+
+4.6. Auch wenn die verbleibende Aktivitätsdauer gering ist, so reicht diese
+bei einer Arbeitsfähigkeit im Umfang von 100 % doch aus, um eine neue einfache
+Erwerbstätigkeit aufzunehmen, sich einzuarbeiten und die Arbeit auszuüben. Einerseits
+werden gerade Hilfsarbeiten auf dem massgebenden ausgeglichenen Stellenmarkt
+altersunabhängig nachgefragt (BGE 146 V 16 E. 7.2.1 mit Hinweisen).
+Andererseits sind der Beschwerdeführerin vor dem Hintergrund des ärztlich
+ermittelten Belastbarkeitsprofils (Erw. 3.2. hiervor) (leichte) Montage-,
+Verpackungs-, Prüf-, Sortier- oder Überwachungsarbeiten zumutbar, wobei sie die
+linke Hand auch als Zudienhand einsetzen kann. Bei solchen ist meist nicht von
+einer langen Einarbeitungszeit auszugehen (vgl. Urteil des Bundesgerichts vom
+25. November 2021, 8C_535/2021, E. 5.4.1. mit weiteren Hinweisen).
+
+4.7. Mitzuberücksichtigen ist auch, dass die Beschwerdeführerin bis zu
+ihrem Unfall am 8. Februar 2021 erwerbstätig war. Eine rechtlich relevante
+berufliche Desintegration liegt somit nicht vor, sondern der Arbeitsausfall von
+einem Jahr und zwei Monaten ist verglichen mit Abwesenheiten vom Arbeitsmarkt
+von mehreren Jahren eher kurz.
+
+4.8. Im hier zu beurteilenden Fall zog sich die Beschwerdeführerin
+unfallbedingt eine mehrfragmentäre dislozierte intraartikuläre Humerusfraktur
+zu, weshalb ein umfangreicher operativer Eingriff notwendig war. Es ist nicht
+ersichtlich, dass die medizinische Situation hier unklar sein soll und im
+Rahmen einer angepassten Tätigkeit mit signifikanten, krankheitsbedingten
+Ausfällen zu rechnen wäre. Zwar zeigt das CT des Ellbogens links vom 13. Januar
+2022 (Suva-Akte 78), dass der radiale Pfeiler nicht durchgebaut ist, aber er
+ist mit dem Osteosynthesematerial fixiert, abgesehen davon wurde aber eine
+konsolidierte Fraktur des Olecranons beschrieben und es wurde auch keine
+Notwendigkeit für weitere Verlaufskontrollen gesehen (vgl. Sprechstundenbericht
+F____ vom 14. Januar 2022, Suva-Akte 74).
+
+4.9. Es ist demzufolge festzuhalten, dass der Beschwerdeführerin trotz
+ihres fortgeschrittenen Alters zugemutet werden kann, ihre Resterwerbsfähigkeit
+zu verwerten.
+
+5.
+
+5.1. Zu fragen ist schliesslich, ob zusätzlich zum von der Suva
+berücksichtigten leidensbedingten Abzug von 10 % ein weiterer
+leidensbedingter Abzug aufgrund des Alters oder der Nationalität zu gewähren
+ist.
+
+5.2. Wird das Invalideneinkommen - wie hier - auf der Grundlage der LSE
+ermittelt, kann der entsprechende Ausgangswert gekürzt werden, soweit
+anzunehmen ist, dass die verbleibende Leistungsfähigkeit infolge eines oder
+mehrerer Merkmale (leidensbedingte Einschränkung, Alter, Dienstjahre,
+Nationalität/Aufenthaltskategorie und Beschäftigungsgrad) nur mit
+unterdurchschnittlichem Einkommen verwertet werden kann. Der Abzug darf 25 %
+nicht übersteigen (BGE 135 V 297 E. 5.2 S. 301; Urteil des Bundesgerichts vom
+18. Juni 2013, 8C_366/2013, E. 4.1).
+
+5.3. Da die Gewährung eines 10%igen Abzugs für die leidensbedingte
+Einschränkung der linken Hand keine rechtsfehlerhafte Ermessensausübung
+darstellt (Urteil des Bundesgerichts vom 18. Juni 2013, 8C_366/2013, E. 4.2., vgl.
+auch Urteil des Bundesgerichts vom 13. Februar 2012, 8C_939/2011 E. 5.2.3), ist
+ein solcher angesichts des Zumutbarkeitsprofils auch vorliegend noch
+vertretbar.
+
+5.4. Im Zusammenhang mit dem Leidensabzug kommt dem Alter nur beschränkte
+Bedeutung zu. Vorliegend fehlen Anhaltspunkte dafür, dass die
+Beschwerdeführerin auf dem allgemeinen Arbeitsmarkt aufgrund ihres Alters
+verglichen mit anderen Beschäftigten ihrer Alterskategorie mit einem geringeren
+Lohn rechnen müsste. Dabei fällt der Umstand, dass die Stellensuche
+altersbedingt erschwert sein mag, als invaliditätsfremder Faktor ausser
+Betracht (BGE 146 V 16 E. 7.2.1; Urteil 8C_239/2021 vom 4. November 2021 E.
+5.3). Die seitens des Bundesgerichts bislang unbeantwortete Frage, ob das
+Merkmal «Alter» in der obligatorischen Unfallversicherung im Rahmen einer
+Anwendung der Sonderregelung von Art. 28 Abs. 4 UVV grundsätzlich überhaupt
+einen Abzug vom Tabellenlohn zu rechtfertigen vermöchte, kann weiterhin offen
+bleiben (Urteil des Bundesgerichts vom 29. Januar 2022, 8C_581/2021, E. 5.4.
+mit weiteren Hinweisen; siehe auch Urteil des Bundesgerichts vom 13. April
+2022, 8C_682/2021, E. 13.2.3. und vom 1. März 2022, 8C_466/2021, E. 3.6.1 mit
+Hinweisen).
+
+5.5. Was die Nationalität der Beschwerdeführerin betrifft, so ergibt sich
+mit Blick auf den Aufenthaltsstatus, dass Ausländerinnen ohne Kaderfunktion
+zwar bedeutend weniger als Schweizerinnen verdienen (vgl. Tabelle T12_b der LSE
+2018 Monatlicher Bruttolohn [Zentralwert und Quartilbereich], Schweizer/innen
+und Ausländer/innen, nach beruflicher Stellung und Geschlecht privater und
+öffentlicher Sektor). Der Medianlohn für Aufenthalterinnen der Kategorie B ergibt
+gemäss dieser Tabelle jedoch einen höheren Invalidenlohn (Fr. 4830 x 12 =
+57960) als der von der Suva errechnete Tabellenlohn ohne Abzug (Fr. 56670,
+vgl. Einspracheentscheid vom 22. Juli 2022 S. 5). Der tiefere Lohn von
+Ausländerinnen ist daher bereits berücksichtigt und rechtfertigt keinen
+weiteren Abzug.
+
+5.6. Abschliessend ist hinsichtlich Art. 28 Abs. 4 UVV anzumerken, dass
+im Rahmen der obligatorischen Unfallversicherung die Invalidität nur insoweit
+abgegolten werden soll, als sie in einem Unfall oder einer ihm gleichgestellten
+Schädigung gründet (vgl. Art. 6 sowie auch Art. 18 Abs. 1 und 2 Satz 2 UVG; BGE
+122 V 426 E. 6a; 113 V 135 E. 4b).
+
+5.7. Der von der Suva gewährte leidensbedingte Abzug von 10 %
+erweist sich daher als korrekt.
+
+6.
+
+6.1. Aus diesen Erwägungen folgt, dass die Beschwerde abzuweisen ist.
+
+6.2. Das Verfahren ist kostenlos (Art. 61 lit. a ATSG).
+
+6.3. Die ausserordentlichen Kosten werden wettgeschlagen.
+
+6.4. Die Beschwerdeführerin beantragt die Übernahme der Kosten der
+Berichte von Dr. med. H____. Nach Art. 45 Abs. 1 ATSG übernimmt der
+Versicherungsträger die Kosten der Abklärung, soweit er die Massnahmen angeordnet
+hat. Hat er keine Massnahmen angeordnet, so übernimmt er deren Kosten dennoch,
+wenn die Massnahmen für die Beurteilung des Anspruchs unerlässlich waren oder
+Bestandteil nachträglich zugesprochener Leistungen bilden (vgl. auch Art. 78
+Abs. 3 IVV; BGE 137 V 210 E. 4.4.2). Vorliegend wurden gestützt auf die
+Berichte weder Leistungen zugesprochen noch waren sie für die Beurteilung des
+Rentenanspruchs unerlässlich. Darum sind die Kosten der Arztberichte nicht zu
+ersetzen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+Dr. G. Thomi Dr.
+B. Gruber
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+          Bundesamt
+für Gesundheit
+
+Versandt am:
