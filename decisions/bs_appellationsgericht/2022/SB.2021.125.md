@@ -1,0 +1,445 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.482"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2021.125"
+docket_2: "AG.2022.482"
+decided: "2022-07-26"
+published: "2022-06-30"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73787&W10_KEY=3048540&nTrefferzeile=136&Template=search_result_document.html"
+cites_decisions: ["6B_300/2016", "6B_362/2012", "6B_460/2020", "6B_463/2013", "6B_636/2020", "6B_637/2020", "6B_695/2012", "6B_701/2019", "6B_782/2016", "6B_811/2014", "BGE 136 I 229", "SB.2020.73", "SB.2021.125"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-021.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Widerhandlung gegen das Gesetz über Niederlassung und Aufenthalt
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+SB.2021.125
+
+URTEIL
+
+vom 26. Juli 2022
+
+Mitwirkende
+
+lic. iur. Christian Hoenen, lic. iur.
+Liselotte Henz, Dr. Patrizia Schmid
+
+und Gerichtsschreiber
+MLaw Frédéric Barth
+
+Beteiligte
+
+A____ , geb. [...]                                                                 Berufungskläger
+
+[...]                                                                                          Beschuldigter
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Berufungsbeklagte
+
+Binningerstrasse 21, 4051 Basel
+
+Gegenstand
+
+Berufung gegen ein Urteil des
+Einzelgerichts in Strafsachen
+
+vom 1. September 2021
+
+betreffend Widerhandlung gegen
+das Gesetz über Niederlassung und Aufenthalt
+
+Sachverhalt
+
+Mit Urteil des
+Einzelgerichts in Strafsachen vom 1. September 2021 wurde A____ der Widerhandlung
+gegen das Gesetz über Niederlassung und Aufenthalt (NAG, SG 122.200) schuldig
+erklärt und zu einer Busse von CHF 100. (bei schuldhafter Nichtbezahlung 1 Tag
+Ersatzfreiheitsstrafe) verurteilt. Überdies wurden ihm die Verfahrenskosten von
+CHF 205.30 und eine Urteilsgebühr von CHF 200. auferlegt.
+
+Gegen dieses
+Urteil hat A____ (Berufungskläger) mit Schreiben vom 21. Mai 2021 (Postaufgabe
+am 11. September 2021) Berufung angemeldet und am 22. November 2021 Berufung
+erklärt. Der Berufungskläger beantragt sinngemäss, das vorinstanzliche Urteil
+sei vollumfänglich aufzuheben und er sei von Schuld und Strafe freizusprechen. Überdies
+beantragt der Berufungskläger sinngemäss die Vorladung von B____, Bevölkerungsamt
+Basel-Stadt, als Zeuge. Die Staatsanwaltschaft beantragt mit Berufungsantwort
+vom 8. März 2022 die kostenpflichtige Abweisung der Berufung. Mit Verfügung der
+Verfahrensleiterin vom 7. Juni 2022 wurde den Parteien mitgeteilt, dass in
+Anwendung von Art. 406 Abs. 1 lit. c der Strafprozessordnung (StPO,
+SR 312.0) das schriftliche Berufungsverfahren angeordnet werde.
+
+Die Tatsachen
+und die Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für den
+Entscheid von Bedeutung sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+Art. 398 Abs. 1 StPO ist die Berufung gegen Urteile erstinstanzlicher Gerichte
+zulässig, mit denen das Verfahren ganz oder teilweise abgeschlossen wird, was
+vorliegend der Fall ist. Zuständiges Berufungsgericht ist nach § 88 Abs. 1 und
+92 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes (GOG, SG 154.100) ein
+Dreiergericht des Appellationsgerichts. Der Berufungskläger ist vom
+angefochtenen Urteil berührt und hat ein rechtlich geschütztes Interesse an
+dessen Aufhebung, sodass er gemäss Art. 382 Abs. 1 StPO zur Ergreifung der
+Berufung legitimiert ist. Diese ist gemäss Art. 399 StPO form- und
+fristgemäss angemeldet und erklärt worden, womit auf sie einzutreten ist.
+
+1.2 Gemäss
+Art. 406 Abs. 1 StPO kann das Berufungsgericht die Berufung in einem
+schriftlichen Verfahren behandeln, wenn ausschliesslich Übertretungen
+Gegenstand des erstinstanzlichen Urteils bilden und mit der Berufung nicht ein
+Schuldspruch wegen eines Verbrechens oder Vergehens beantragt wird (lit. c).
+Dies ist vorliegend der Fall, weshalb die Berufung im schriftlichen Verfahren
+beurteilt werden kann. Die Verfahrensleitung setzt der Partei, welche die
+Berufung erklärt hat, Frist zur schriftlichen Begründung (Art. 406 Abs. 3 StPO).
+Vorliegend hat die Verfahrensleiterin dem Berufungskläger mit Verfügung vom 21.
+Dezember 2021 Frist bis zum 4. Februar 2022 zur Einreichung einer
+Berufungsbegründung gesetzt. Mit Verfügung vom 9. Februar 2022 wurde
+festgestellt, dass der Berufungskläger innert Frist keine die
+Berufungserklärung ergänzende Begründung eingereicht hat.
+
+Das vorliegende
+Berufungsurteil ist auf dem Zirkulationsweg ergangen (Art. 406 Abs. 4 in
+Verbindung mit Art. 390 Abs. 4 StPO). Die Verfahrensakten wurden beigezogen.
+
+1.3 Im
+Rahmen einer Berufung wird der vorinstanzliche Entscheid grundsätzlich
+bezüglich sämtlicher Tat-, Rechts- und Ermessensfragen frei überprüft
+(Art. 398 Abs. 3 StPO). Bildeten jedoch  wie vorliegend  von
+vornherein ausschliesslich Übertretungen Gegenstand des erstinstanzlichen
+Hauptverfahrens, so schränkt Art. 398 Abs. 4 StPO die Kognition
+der Berufungsinstanz ein. In solchen Fällen können mit der Berufung nur
+Rechtsfehler oder die offensichtlich unrichtige bzw. auf Rechtsverletzung
+beruhende Feststellung des Sachverhalts geltend gemacht werden. Neue Behauptungen
+und Beweise können gemäss Art. 398 Abs. 4 StPO nicht vorgebracht
+werden. Rechtsfragen überprüft das Berufungsgericht hingegen auch bei Übertretungen
+mit freier Kognition  die inhaltliche Begrenzung des Berufungsthemas in
+Art. 398 Abs. 4 StPO schränkt die Überprüfungsbefugnis diesbezüglich
+nicht ein. Ebenso überprüft das Berufungsgericht den Kostenspruch mit voller
+Kognition (vgl. AGE SB.2020.73 vom 15. Februar 2021 E. 1.3, SB.2019. 122 vom 3. Juni 2020 E. 1.3; Eugster , in: Basler Kommentar StPO, 2.
+Auflage 2014, Art. 398 N 3a, jeweils mit Hinweisen).
+
+1.4 Der
+Berufungskläger beantragt mit seiner Berufungserklärung sinngemäss die
+Vorladung von B____, Bevölkerungsamt Basel-Stadt, als Zeuge. Dieser
+Beweisantrag wurde bereits im erstinstanzlichen Verfahren gestellt und mit
+Verfügung vom 26. Mai 2021 (Akten S. 55) abgewiesen. Der Ausschluss neuer
+Behauptungen und Beweise im Sinne von Art. 398 Abs. 4 StPO hindert nicht daran,
+die von der Erstinstanz abgewiesenen Beweisanträge im Berufungsverfahren zu
+wiederholen (BGer 6B_362/2012 vom 29. Oktober 2012 E. 8.4.1, 6B_695/2012 vom
+9. April 2013 E. 2.3.1). Entsprechend ist auch auf den Beweisantrag
+einzutreten und materiell über ihn zu befinden (siehe dazu unten E. 3.3.3, S.
+8).
+
+2.
+
+2.1 Das
+Einzelgericht in Strafsachen erachtete es aufgrund der Bestätigung des
+Wohnverhältnisses vom 31. Mai 2019 und des Untermietvertrags vom 31. Mai 2019
+als erwiesen, dass der Berufungskläger per 1. Juli 2019 in die Liegenschaft an
+der [...] in Basel umgezogen war. Allerdings habe er, so das Einzelgericht in
+Strafsachen, seinen Adresswechsel erst im Jahr 2021 der Einwohnerkontrolle
+mitgeteilt, nachdem diese ihn erstmals mit Schreiben vom 15. Januar 2021 zur
+Wahrnehmung seiner Meldepflicht aufgefordert habe. Damit sei die Ummeldung mehr
+als 14 Tage nach dem Wohnungswechsel erfolgt.
+
+2.2 In
+tatsächlicher Hinsicht bringt der Berufungskläger vor, am 4. Dezember 2020
+einen Brief von B____, Bevölkerungsamt, erhalten zu haben. Im Brief sei ihm
+mitgeteilt worden, er würde verzeigt werden, sofern er nicht innert 14 Tagen
+die Meldung seines Umzugs bei der Einwohnerkontrolle nachhole. Mit Schreiben
+vom 15. Januar 2021, das den gleichen Inhalt wie das Schreiben vom
+4. Dezember 2020 aufgewiesen habe, habe ihn B____ erneut zur Ummeldung
+aufgefordert. Am 28. Januar 2021 sei er mit B____ per E-Mail in Kontakt
+getreten, um sich über Möglichkeiten zur elektronischen Ummeldung zu
+erkundigen. B____ habe ihm gleichentags mitgeteilt, er könne die Ummeldung u.a.
+vornehmen, indem er ihm eine Kopie des Mietvertrags, Untermietvertrags oder
+irgendeines Vertrags zusende. Am 2. Februar 2021 habe er B____ darauf
+aufmerksam gemacht, dass kein Mietvertrag vorliege, da er in der Wohnung seiner
+Freundin wohne. B____ habe ihm daraufhin geantwortet, er solle den
+Untermietvertrag per E-Mail zustellen oder direkt an den Schalter gehen. Am 3.
+Februar 2021 habe er sodann die entsprechenden Unterlagen B____ direkt per
+E-Mail zugestellt. B____ habe noch gleichentags die Ummeldung im System der
+Einwohnerkontrolle erfasst und die Verzeigung an die Staatsanwaltschaft vorgenommen
+(Berufungserklärung, Akten S. 103 ff.).
+
+2.3 Der
+Berufungskläger macht grundsätzlich keine vom angefochtenen Urteil abweichende
+Darstellung des Sachverhalts geltend. Insbesondere befinden sich die Schreiben
+vom 4. Dezember 2020 (Akten S. 5) und vom 15. Januar 2021 (Akten S. 24)
+sowie der vorgenannte E-Mail-Verkehr (Akten S. 22 f.) bei den erstinstanzlichen
+Akten und wurden die jeweiligen Dokumente im angefochtenen Urteil
+berücksichtigt. Eine Ausnahme ergibt sich diesbezüglich für das Schreiben vom
+4. Dezember 2020: Während das Einzelgericht in Strafsachen von einer
+erstmaligen Kontaktaufnahme durch das Bevölkerungsamt mit Schreiben vom 15.
+Januar 2021 ausging, macht der Berufungskläger zu Recht darauf aufmerksam, dass
+bereits eine vorgängige Kontaktaufnahme mit Schreiben vom 4. Dezember 2020
+erfolgt war (vgl. auch Protokoll erstinstanzliche Hauptverhandlung, Akten S.
+71). Welche Bedeutung dem Inhalt der jeweiligen Schreiben zukommt, ist eine
+Rechtsfrage, welche nachfolgend mit voller Kognition zu prüfen ist (vgl. zur
+Unterscheidung zwischen Rechts- und Tatfrage BGer 6B_636/2020 und 6B_637/2020
+vom 10. März 2022 E. 3).
+
+3.
+
+3.1 Das
+Einzelgericht in Strafsachen wies in rechtlicher Hinsicht darauf hin, dass
+gemäss § 4 Abs. 1 NAG eine Änderung der Wohnadresse innerhalb von 14 Tagen der
+Einwohnerkontrolle mitgeteilt werden müsse. Vorliegend habe der Wohnungswechsel
+am 1. Juli 2019 stattgefunden. Die Frist zur Wahrnehmung der Meldepflicht habe
+daher am 2. Juli 2019 zu laufen begonnen und am 15. Juli 2019 geendet. Der
+Berufungskläger habe sich in diesem Zeitraum nicht umgemeldet und erfülle
+demnach den Tatbestand von § 4 Abs. 1 NAG. Die Fristsetzung für die Einreichung
+der Unterlagen durch das Schreiben des Bevölkerungsamts vom 15. Januar 2021 und
+die weitere Korrespondenz sei im Hinblick auf diese Widerhandlung nicht
+relevant. Die neue Frist habe auf die Meldung des Wohnungswechsels gezielt und
+deren Nichtbefolgung hätte ein weiteres Strafverfahren auslösen können.
+Überdies könne dem Schreiben vom 15. Januar 2021 entnommen werden, dass die
+Verzeigung an die Staatsanwaltschaft ausdrücklich vorbehalten worden sei. Mit
+Versäumen der Ummeldung des Wohnsitzwechsels habe sich der Berufungskläger der
+Widerhandlung gegen das NAG gemäss § 4 Abs. 1 in Verbindung mit § 14 NAG
+schuldig gemacht.
+
+3.2 Hiergegen
+wendet der Berufungskläger ein, ihm sei mit dem Schreiben vom 15. Januar 2021
+eine neue Frist von 14 Tagen zur Meldung des Adresswechsels gesetzt worden. Insbesondere
+sei das Schreiben so zu verstehen gewesen, dass keine Anzeige an die Staatsanwaltschaft
+erfolge, wenn die neue 14-Tage-Frist eingehalten werde. Da das entsprechende
+Schreiben am 19. Januar 2021 bei ihm eingegangen sei, habe der Fristenlauf am
+3. Februar 2021 geendet. Die Einreichung der notwendigen Unterlagen zu Handen
+des Bevölkerungsamts am 3. Februar 2021 sei demnach innert Frist erfolgt. Für
+die Einräumung einer neuen Frist zur Ummeldung spreche im Übrigen auch der
+Umstand, dass das Bevölkerungsamt bis zum 3. Februar 2021 mit der Verzeigung
+bei der Staatsanwaltschaft zugewartet habe (Berufungserklärung, Akten S. 103
+ff.).
+
+3.3
+
+3.3.1 Wer
+im Kanton Basel-Stadt zwecks Niederlassung oder Aufenthalt in eine Gemeinde
+zuzieht, die Wohnadresse ändert oder die Wohnung innerhalb derselben
+Liegenschaft wechselt oder aus der Gemeinde wegzieht, hat dies gemäss § 4 Abs.
+1 NAG innerhalb von 14 Tagen einer Einwohnerkontrollbehörde mitzuteilen. Die
+An-, Um- oder Abmeldung kann durch persönliche Vorsprache am Schalter einer
+Einwohnerkontrollbehörde, schriftlich oder elektronisch erfolgen (§ 4 Abs. 3 NAG).
+
+Gemäss § 14 Abs.
+1 NAG wird mit Busse bestraft, wer § 4 NAG zuwiderhandelt. Die Zuwiderhandlung
+muss vorsätzlich begangen werden: Die vom 1. Juli 2017 bis 30. Juni 2020
+geltende Fassung des § 14 Abs. 1 NAG verlangte noch explizit eine vorsätzliche Zuwiderhandlung.
+Im Rahmen der Totalrevision des Übertretungsstrafgesetzes (ÜStG,
+SG 253.100), die am 1. Juli 2020 in Kraft trat, wurde der ausdrückliche
+Verweis auf die vorsätzliche Tatbegehung in § 14 Abs. 1 NAG gestrichen. Seither
+ergibt sich das Vorsatzerfordernis für § 14 Abs. 1 NAG aus der nunmehr auch im
+baselstädtischen Übertretungsstrafrecht geltenden Regel von Art. 12 Abs. 1 des
+Strafgesetzbuches (StGB, SR 311.0), gemäss welcher nur die vorsätzliche
+Begehung strafbar ist, es sei denn, das Gesetz stelle ausdrücklich auch die
+fahrlässige Begehung unter Strafe (§ 1 Abs. 2 und 2 Abs. 1 ÜStG in Verbindung
+mit Art. 12 Abs. 1 StGB; vgl. dazu Ratschlag des Regierungsrats
+Basel-Stadt zu einer Totalrevision des ÜStG vom 28. März 2018, S. 15).
+
+3.3.2 Es
+ist erstellt, dass der Berufungskläger seit dem 1. Juli 2019 an einer neuen
+Adresse wohnhaft ist. Weiter steht fest, dass der Berufungskläger dem
+Bevölkerungsamt diesen Adresswechsel nicht innerhalb von 14 Tagen seit dem
+Umzug mitgeteilt hat. Vielmehr reichte er die für die Erfüllung der
+Meldepflicht notwendigen Unterlagen erst am 3. Februar 2021 ein.
+
+Sollte der
+Berufungskläger sinngemäss geltend machen, keine Kenntnis der Meldepflicht
+gehabt und sich demnach in einem Rechtsirrtum (Art. 21 StGB) befunden zu haben,
+so ist Folgendes festzuhalten: Ein Rechtsirrtum ist praxisgemäss bereits dann
+ausgeschlossen, wenn der Täter das unbestimmte Empfinden hat, etwas Unrechtes
+zu tun (BGer 6B_300/2016 vom 7. November 2016 E. 9.4, 6B_782/2016 vom 27. September
+2016 E. 3.1). Vorliegend machte das Bevölkerungsamt den Berufungskläger mit
+Schreiben vom 4. Dezember 2020 ausdrücklich auf seine Pflicht zur Vornahme der
+Ummeldung aufmerksam. Das Schreiben enthält ebenfalls den Wortlaut der § 4 Abs.
+1 und 14 Abs. 1 NAG, womit der Berufungskläger spätestens nach
+Kenntnisnahme dieses Schreibens über die ihn treffende Meldepflicht informiert
+war. Der Berufungskläger hat denn auch angegeben, er habe am 4. Dezember 2020
+einen Brief erhalten, mit welchem er auf die 14-Tage-Frist zur Ummeldung
+aufmerksam gemacht worden sei (Protokoll erstinstanzliche Hauptverhandlung,
+Akten S. 71; Berufungserklärung, Akten S. 103). Weiter kann aus seinen Aussagen
+geschlossen werden, dass er sich ohne Weiteres bewusst war, mit der Nichteinhaltung
+der Frist unrechtmässig zu handeln. So gab er etwa an, die unterlassene
+Ummeldung sei wie das Überqueren der Strasse bei roter Ampel, für das eine
+Busse ausgesprochen werden könne, aber  nach seiner Ansicht  nicht müsse
+(Protokoll erstinstanzliche Hauptverhandlung, Akten S. 70;
+Berufungserklärung, Akten S. 104). Seine fehlende Reaktion auf das
+Schreiben vom 4. Dezember 2020 begründete er überdies mit seiner
+Unzufriedenheit über die Arbeitsweise der Staatsanwaltschaft in anderweitigen
+Verfahren: Weil zwei von ihm eingereichte Anzeigen seit längerer Zeit noch
+nicht bearbeitet worden seien, habe er sich gedacht, er warte nun mit der
+Erfüllung der Meldepflicht ebenfalls zu (Protokoll erstinstanzliche
+Hauptverhandlung, Akten S. 71; E-Mail vom 28. Januar 2021, Akten S. 51). Vor
+diesem Hintergrund ist ein Rechtsirrtum auszuschliessen. Da der Berufungskläger
+zumindest nach Sichtung des Schreibens vom 4. Dezember 2020 nach eigenen
+Angaben ganz bewusst die ihm bekannte Meldepflicht missachtete, handelte er
+überdies vorsätzlich.
+
+3.3.3 Weiter
+ist auch das Vorbringen des Berufungsklägers abzulehnen, wonach ihm mit
+Schreiben vom 15. Januar 2021 eine neue 14-tägige Frist zur Ummeldung gesetzt
+worden sei.
+
+Die 14-tägige
+Frist zur Wahrnehmung der Meldepflicht wird gemäss § 4 Abs. 1 NAG durch den
+Wohnungswechsel ausgelöst. Eine Möglichkeit zur Verlängerung der Frist sieht
+das Gesetz nicht vor. Es gilt der allgemeine (verwaltungsrechtliche) Grundsatz,
+wonach gesetzliche Fristen nicht erstreckbar sind (vgl. Rinow/Koller/Kiss/Thurnherr/Brühl-Moser , Öffentliches
+Prozessrecht, 4. Aufl., Basel 2020, Rz. 897; Cavelti ,
+in: Auer/Müller/Schindler [Hrsg.], VwVG Kommentar, 2. Aufl., Zürich/St. Gallen
+2019, Art. 22 N 4). Ist die Verlängerung der Frist von § 4 Abs. 1 NAG
+nicht möglich, kann ebenso wenig durch eine Fristverlängerung die Strafbarkeit der
+Missachtung der Frist entfallen. Dies hat das Bevölkerungsamt in seinen
+Schreiben vom 4. Dezember 2020 und vom 15. Januar 2021 zum Ausdruck
+gebracht. Es teilte dem Berufungskläger in beiden Schreiben ausdrücklich mit,
+dass «in jedem Fall» eine Verzeigung wegen Nichtbefolgens der Meldepflicht
+vorbehalten werde. Entgegen der Ansicht des Berufungsklägers kann beiden
+Schreiben demnach entnommen werden, dass die Anzeige wegen Nichtbeachtung der
+Meldepflicht unabhängig von einer noch nachgeholten Meldung erfolgen könne.
+
+Dass die mit Schreiben
+vom 15. Januar 2021 gesetzte Frist in keiner Verbindung zur strafrechtlichen
+Sanktionierung des Verhaltens des Berufungsklägers steht, ergibt sich auch aus
+dem weiteren Inhalt des Schreibens: Dieses hält zunächst fest, dass der
+Berufungskläger trotz der Aufforderung im Schreiben vom 4. Dezember 2020 seine
+Meldepflicht bis anhin nicht erfüllt habe. Es werde dem Berufungskläger daher letztmalig
+eine Frist von 14 Tagen gesetzt, um sich umzumelden bzw. darzulegen, weshalb
+eine Ummeldung nicht vorgenommen werden könne. Sodann erklärt das Schreiben,
+dass im Falle der Nichtbeachtung dieser Frist eine polizeiliche
+Vorführung sowie eine kostenpflichtige Ummeldung von Amtes wegen erfolgen würden.
+Die im Schreiben vom 15. Januar 2021 genannte 14-tägige Frist bezieht sich
+daher eindeutig auf die polizeiliche Vorführung und die Ummeldung von Amtes
+wegen, nicht auf die strafrechtliche Relevanz der unterlassenen Ummeldung. Die
+wiederholte Fristansetzung seitens des Bevölkerungsamtes ist insbesondere vor
+dem Hintergrund von § 13 NAG zu sehen, gemäss welchem polizeilich
+vorgeführt werden kann, wer nach wiederholter (d.h. zweimaliger) Aufforderung
+den gesetzlichen Meldepflichten gemäss § 4 NAG nicht nachkommt. Entsprechend
+wurde mit dem Schreiben vom 15. Januar 2021 keine Frist angesetzt, deren
+Beachtung sich strafrechtlich zu Gunsten des Berufungsklägers ausgewirkt hätte.
+Vielmehr hatte die Einhaltung der neuen Frist lediglich zur Folge, dass es
+weder zu einer polizeilichen Vorführung im Sinne von § 13 NAG noch zu einer kostenpflichtigen
+Ummeldung von Amtes wegen im Sinne von § 6 NAG kommen konnte.
+
+Im Übrigen kann
+der Berufungskläger auch aus dem Umstand, dass die Strafanzeige seitens des
+Bevölkerungsamts erst am 3. Februar 2021 erfolgte, nichts zu seinen Gunsten
+ableiten. Wie die Vorinstanz richtigerweise ausgeführt hat, ist es
+nachvollziehbar, dass das Bevölkerungsamt die Anzeige an die Staatsanwaltschaft
+erst vornahm, nachdem das Dossier des Berufungsklägers mit der Eintragung des
+Wohnsitzwechsels abgeschlossen werden konnte.
+
+Schliesslich ist
+auch nicht ersichtlich, inwiefern eine Befragung von B____ zu den internen
+Prozessen des Bevölkerungsamtes (vgl. Berufungserklärung, Akten S. 104) zu
+einem abweichenden Verständnis der Korrespondenz zwischen dem Bevölkerungsamt
+und dem Berufungskläger führen könnte. Demnach hat das Einzelgericht in
+Strafsachen den Antrag des Berufungsklägers auf Befragung von B____ zu Recht in
+antizipierter Beweiswürdigung abgewiesen (vgl. BGE 136 I 229 E. 5.3; BGer
+6B_463/2013 vom 25. Juli 2013 E. 2.1). Auch vorliegend ist der Beweisantrag des
+Berufungsklägers folglich abzuweisen.
+
+3.3.4 Nach
+dem Dargelegten ist mit der Vorinstanz davon auszugehen, dass der Berufungskläger
+den Tatbestand von § 14 Abs. 1 in Verbindung mit § 4 Abs. 1 NAG erfüllt hat.
+
+4.
+
+Das
+Einzelgericht in Strafsachen verurteilte den Berufungskläger zu einer Busse von
+CHF 100. (bei schuldhafter Nichtbezahlung 1 Tag Freiheitsstrafe). Aufgrund der
+Verhältnisse des Berufungsklägers sowie seines Verschuldens (vgl. § 1 Abs. 2
+und § 2 Abs. 1 ÜStG in Verbindung mit Art. 106 Abs. 3 StGB) ist die
+vorinstanzliche Bemessung der Busse als angemessen zu beurteilen und zu
+bestätigen.
+
+5.
+
+5.1 Die
+schuldig gesprochene Person hat  sofern keine gesetzlichen Ausnahmen vorliegen
+ gestützt auf Art. 426 Abs. 1 StPO sämtliche kausalen Verfahrenskosten zu tragen
+(BGer 6B_811/2014 vom 13. März 2015 E. 1.4). Die Verfahrenskosten werden
+demnach gemäss Verursacherprinzip verlegt.
+
+Da der
+Berufungskläger auch im Berufungsverfahren wegen Widerhandlung gegen das NAG
+schuldig gesprochen wird, sind die erstinstanzlichen Verfahrenskosten sowie die
+erstinstanzliche Urteilsgebühr zu belassen. Demgemäss trägt der Berufungskläger
+für das erstinstanzliche Verfahren Kosten in Höhe von CHF 205.30 und eine
+Urteilsgebühr von CHF 200..
+
+5.2 Für
+die Kosten des Rechtsmittelverfahrens kommt Art. 428 Abs. 1 StPO zum Tragen. Ob
+bzw. inwieweit eine Partei im Sinne dieser Bestimmung obsiegt oder unterliegt,
+hängt davon ab, in welchem Ausmass ihre vor der zweiten Instanz gestellten
+Anträge gutgeheissen werden (BGer 6B_460/2020 vom 10. März 2021 E. 10.3.1,
+6B_701/2019 vom 17. Dezember 2020 E. 2.3, je mit Hinweisen).
+
+Der
+Berufungskläger unterliegt mit seinen Anträgen vollständig. Entsprechend werden
+ihm die Kosten des zweitinstanzlichen Verfahrens mit Einschluss einer
+Urteilsgebühr von CHF 600. (inklusive Kanzleiauslagen, zuzüglich allfälliger
+übriger Auslagen) auferlegt (Art. 428 Abs. 1 StPO in Verbindung mit § 21 Abs. 1
+des Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://: A____ wird in Abweisung seiner
+Berufung der Widerhandlung gegen das Gesetz über Niederlassung und Aufenthalt
+schuldig erklärt und verurteilt zu einer Busse von CHF 100. (bei
+schuldhafter Nichtbezahlung 1 Tag Ersatzfreiheitsstrafe),
+
+in Anwendung von § 14 Abs. 1 in Verbindung mit § 4
+Abs. 1 des Gesetzes über Niederlassung und Aufenthalt sowie Art. 106 des
+Strafgesetzbuches.
+
+A____ trägt die Kosten von CHF 205.30 und eine
+Urteilsgebühr von CHF 200. für das erstinstanzliche Verfahren sowie die
+Kosten des zweitinstanzlichen Verfahrens mit Einschluss einer Urteilsgebühr von
+CHF 600. (inkl. Kanzleiauslagen, zuzüglich allfällige übrige Auslagen).
+
+Mitteilung an:
+
+- Berufungskläger
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Strafgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Der
+Gerichtsschreiber
+
+Dr. Patrizia
+Schmid                                                  MLaw Frédéric Barth
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
