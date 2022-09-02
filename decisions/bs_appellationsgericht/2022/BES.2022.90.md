@@ -1,0 +1,292 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.557"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2022.90"
+docket_2: "AG.2022.557"
+decided: "2022-09-02"
+published: "2023-03-07"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=73951&W10_KEY=3048518&nTrefferzeile=487&Template=search_result_document.html"
+cites_decisions: ["6B_1294/2019", "6B_277/2019", "6B_667/2017", "6B_860/2020", "BGE 143 IV 117", "BGE 145 IV 197"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-068.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-352.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2022.90
+
+ENTSCHEID
+
+vom 2.
+September 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und die
+a.o. Gerichtsschreiberin MLaw Lia Börlin
+
+Beteiligte
+
+A____ , geb.
+[...]                                                              Beschwerdeführer
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+vom 31. Mai 2022
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Mit Strafbefehl
+der Staatsanwaltschaft Basel-Stadt vom 13. Februar 2022 wurde A____ (nachfolgend:
+Beschwerdeführer) der rechtswidrigen Einreise, des rechtswidrigen Aufenthalts
+und des Vergehens gegen das Bundesgesetz über die Betäubungsmittel schuldig
+erklärt und zu einer unbedingten Freiheitsstrafe von 100 Tagen verurteilt.
+Ausserdem wurden ihm die Verfahrenskosten in Höhe von CHF 465. auferlegt,
+wobei ein Teil davon mit der Kaution i.d.H. von CHF 130. verrechnet wurde. Der
+Empfang dieses Strafbefehls hat der Beschwerdeführer noch gleichentags
+quittiert.
+
+Mit Schreiben
+vom 6. Mai 2022 erhob der Beschwerdeführer, vertreten durch [...], Advokat,
+Einsprache gegen diesen Strafbefehl. Die Staatsanwaltschaft überwies das
+Verfahren mit dem Hinweis, dass sie am Strafbefehl festhalte, am 16. Mai 2022
+zuständigkeitshalber an das Strafgericht. Das Einzelgericht in Strafsachen trat
+mit Verfügung vom 31. Mai 2022 infolge Verspätung nicht auf die Einsprache des
+Beschwerdeführers ein.
+
+Gegen diesen
+Nichteintretensentscheid erhob der Beschwerdeführer mit Eingabe vom 9. Juni
+2022 Beschwerde beim Appellationsgericht Basel-Stadt. Die Staatsanwaltschaft
+hat auf eine Stellungnahme verzichtet.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten der Standpunkte
+ergeben sich, soweit sie für den Entscheid relevant sind, aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Bei
+der angefochtenen Verfügung des Einzelgerichts in Strafsachen vom 31. Mai 2022
+handelt es sich um einen Nichteintretensentscheid, mit dem nicht materiell über
+Straffragen befunden wird. Es kommt daher das Beschwerdeverfahren zur Anwendung
+(Art. 393 Abs. 1 lit. b i.V.m. Art. 80 Abs. 1 der Schweizerischen
+Strafprozessordnung [StPO, SR 312.0]). Zuständiges Beschwerdegericht ist das
+Appellationsgericht als Einzelgericht (§ 88 Abs. 1 i.V.m. § 93 Abs. 1 Ziff. 1
+des baselstädtischen Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Der
+Beschwerdeführer ist als Beschuldigter zur Beschwerde legitimiert (Art. 382
+Abs. 1 StPO). Die Kognition des Beschwerdegerichts ist frei und nicht auf
+Willkür beschränkt (Art. 393 Abs. 2 StPO).
+
+1.2 Die
+Beschwerde ist innert zehn Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen (Art. 396 Abs. 1 StPO). Diese
+Frist hat der Beschwerdeführer eingehalten. Daher kann auf die vorliegende
+Beschwerde eingetreten werden.
+
+2.
+
+2.1 Gegenstand
+des Verfahrens bildet ausschliesslich der Nichteintretensentscheid der
+Vorinstanz. Es kann also nur geprüft werden, ob diese zu Recht nicht auf die
+Einsprache eingetreten ist.
+
+2.2 Die
+Vorinstanz hat ihr Nichteintreten damit begründet, dass der Beschwerdeführer
+die Einsprache verspätet eingereicht habe. Gemäss Art. 354 Abs. 1 StPO
+beträgt die Frist zur Erhebung einer Einsprache gegen einen Strafbefehl zehn
+Tage. Da die Einsprache erst fast drei Monate später erhoben worden ist, ist
+sie klarerweise verspätet. Das wird vom Beschwerdeführer denn auch nicht
+bestritten.
+
+3.
+
+3.1 Bemängelt
+wird jedoch sinngemäss die rechtsgültige Eröffnung. Der Vertreter des Beschwerdeführers
+stellt sich auf den Standpunkt, dass sein Mandant den Strafbefehl nicht als
+solchen erkannt habe. Er habe die Seite mit der englischen Übersetzung des
+Urteilsdispositivs nie gesehen geschweige denn verstanden. Zudem sei er der
+deutschen Sprache nicht mächtig und verstehe Englisch nur auf unterem Niveau
+als Fremdsprache. Es handle sich dabei nicht um seine Muttersprache, weshalb er
+mit der deutschen und englischen Rechtssprache gänzlich unvertraut sei. Der
+Beschwerdeführer sei Bürger von Ruanda, wo Englisch nicht einmal Amtssprache
+sei. Auch habe er die Unterschrift nur auf S. 2 des Strafbefehls anbringen
+müssen. Gerade auf der übersetzten Seite fehle sie jedoch. Daher sei die
+Vermutung des Vorderrichters, es sei «kaum anzunehmen, dass ihm nicht alle 4
+Seiten ausgehändigt worden seien» unhaltbar. Es finde sich in den Akten kein
+Hinweis auf eine Intervention, weil sein Mandant nicht habe intervenieren
+können, da er den Strafbefehl überhaupt nicht verstanden habe.
+
+3.2 Gemäss
+Art. 68 Abs. 2 StPO wird der beschuldigten Person in einer ihr verständlichen
+Sprache mindestens der wesentliche Inhalt der wichtigsten Verfahrenshandlungen
+mündlich oder schriftlich zur Kenntnis gebracht. Ein Anspruch auf vollständige
+Übersetzung aller Verfahrenshandlungen sowie der Akten besteht nicht (Art. 68
+Abs. 2 StPO). Der Umfang der Beihilfen, die einer beschuldigten Person, deren
+Muttersprache nicht der Verfahrenssprache entspricht, zuzugestehen sind, ist
+nicht abstrakt, sondern aufgrund ihrer effektiven Bedürfnisse und den konkreten
+Umständen des Falles zu würdigen (BGE 143 IV 117 E. 3.1). Die beschuldigte
+Person ist grundsätzlich gehalten, sich über den Inhalt einer Verfügung zu
+erkundigen (BGE 145 IV 197 E. 1.3.3).
+
+3.3 Sofern
+der Beschwerdeführer sich auf den Standpunkt stellt, er habe den Strafbefehl
+nicht als solchen erkannt, muss festgestellt werden, dass er über eine gewisse
+Erfahrung im Umgang mit Strafbehörden und Strafbefehlen verfügt. So wurde er in
+der Vergangenheit schon mehrfach per Strafbefehl verurteilt (act. 5, S. 10 f.).
+Zudem ist er auch schon bedingt aus dem Strafvollzug entlassen worden. Von
+einem gänzlich rechtsunkundigen Ausländer kann deshalb nicht die Rede sein. Weiter
+gibt es keine Hinweise darauf, dass der Beschwerdeführer die Übersetzung des
+Dispositivs und der Rechtsmittelbelehrung, die aufgrund der Seitenzahlen
+ohnehin ein Teil des Strafbefehls ist, nicht erhalten hat. Beispielsweise hat
+der Beschwerdeführer auch das in Englisch formulierte Informationsblatt
+betreffend erkennungsdienstliche Erfassung und DNA-Profil unterschrieben (act. 5, S. 38 ). Dieses wurde ihm gemäss Strafbefehl
+(act. 5, S. 4) zusammen mit diesem ausgehändigt. Es ist deshalb
+auszuschliessen, dass er ausgerechnet die Seite mit der Übersetzung nicht
+erhalten hat. Sodann ist auch davon auszugehen, dass er, wenn auch nicht die
+deutschen Ausführungen, zumindest die englische Übersetzung verstanden hat. Laut
+Akten erfolgte die Kommunikation mit dem Beschwerdeführer immer auf Englisch.
+Gemäss Aktennotiz (act. 5, S. 57) vom 12. Februar 2022 hat der Beschwerdeführer
+auch ein Telefongespräch in Englisch geführt. Es sind keine Anhaltspunkte
+ersichtlich, wonach er in sprachlicher Hinsicht irgendwelche Probleme hatte
+oder solche geltend gemacht hätte. Entgegen der Ansicht des Beschwerdeführers
+ist Englisch sodann auch eine Amtssprache in Ruanda: http://www.newtimes.co.rw/section/read/207840.
+Zudem wäre es dem Beschwerdeführer zumutbar gewesen, sich über den Inhalt des
+Dokuments vor der Unterzeichnung zu informieren, sollte er die englische
+Übersetzung denn tatsächlich übersehen haben.
+
+3.4 Weiter
+macht er geltend, dass ihm kein Dolmetscher beigegeben worden sei. Es genüge
+nicht, wenn lediglich das Urteilsdispositiv und die Rechtsmittelbelehrung
+übersetzt würden. Bei einer Befragung bekäme der Beschuldigte automatisch einen
+Dolmetscher, selbst wenn nur eine bedingte Strafe ausgesprochen werde,
+wohingegen bei einer Verurteilung per Strafbefehl zu einer unbedingten
+Freiheitsstrafe kein Dolmetscher beigezogen werde. Das sei willkürlich.
+
+Ein Anspruch auf
+vollständige Übersetzung aller Verfahrenshandlungen sowie der Akten besteht
+nicht (Art. 68 Abs. 2 StPO). Bei Strafbefehlen sind nach der Rechtsprechung
+zumindest das Dispositiv und die Rechtsmittelbelehrung zu übersetzen (BGE 145
+IV 197 E. 1.3.3; Urteile BGer 6B_860/2020 vom 18. November 2020 E. 1.3.2,
+6B_1294/2019 vom 8. Mai 2020 E. 1.3.1, 6B_277/2019 vom 5. Juli 2019 E. 2.2.2;
+6B_667/2017 vom 15. Dezember 2017 E. 5.4). Dass bei einer Verurteilung per
+Strafbefehl nicht in jedem Fall ein Dolmetscher beigezogen wird, ist nicht willkürlich,
+sondern aus Gründen der Prozessökonomie geboten. Ein Strafbefehl wird nach Art.
+352 Abs. 1 StPO nämlich nur erlassen, wenn die beschuldigte Person im
+Vorverfahren den Sachverhalt eingestanden hat oder dieser anderweitig
+ausreichend geklärt ist. Dem Betroffenen kommt durch die Möglichkeit der
+Einsprache, auf die er in einer ihm verständlichen Sprache hingewiesen wird,
+genügender Rechtsschutz zu.
+
+3.5 Soweit
+der Beschwerdeführer eine Verletzung von Art. 6 der Konvention zum Schutze der
+Menschenrechte und Grundfreiheiten (EMRK, SR 0.101) geltend macht, weil kein
+Verteidiger beigezogen wurde, ist festzuhalten, dass gemäss Art. 29 Abs. 3
+Satz 1 der Schweizerischen Bundesverfassung (BV, SR 101) und
+Art. 6 Ziff. 3 lit. c EMRK jede Person, die nicht
+über die erforderlichen Mittel verfügt und deren Rechtsbegehren nicht
+aussichtslos erscheinen, Anspruch auf unentgeltliche Rechtspflege hat. Dieser
+Anspruch wird für das Strafverfahren in Art. 132 Abs. 2 StPO präzisiert.
+Demgemäss wird die amtliche Verteidigung angeordnet, wenn es sich nicht um
+einen Bagatellfall handelt und der Straffall in tatsächlicher und rechtlicher
+Hinsicht Schwierigkeiten bietet, denen die beschuldigte Person nicht gewachsen
+ist. Kein Bagatellfall liegt nach Abs. 3 vor, wenn eine Freiheitsstrafe von
+mehr als 4 Monaten ausgesprochen wird. Im Einzelfall ist zwar nicht
+ausgeschlossen, dass eine unentgeltliche Verteidigung auch bei einer geringeren
+Sanktion geboten ist, im vorliegenden Fall liegen jedoch keine Anhaltspunkte
+vor, dass eine solche anzuordnen gewesen wäre. Die Schwierigkeiten, die eine
+amtliche Verteidigung bedingen, müssen umso grösser sein, je geringer die zu
+erwartende Strafe ist. Wie bereits ausgeführt, hat der Beschwerdeführer in der
+Vergangenheit schon mehrere Strafbefehle erhalten und wurde klar auf die
+Möglichkeit der Einsprache hingewiesen. Der vorgeworfene Sachverhalt sowie die
+rechtliche Würdigung bieten keine besonderen Schwierigkeiten. Wieso also der
+Beschwerdeführer dennoch aufgrund persönlicher Umstände eine amtliche
+Verteidigung benötigen sollte, wird nicht ausgeführt.
+
+3.6 Vor
+diesem ganzen Hintergrund ist die Eröffnung des Strafbefehls nicht zu
+beanstanden. Die Vorinstanz ist demgemäss zu Recht wegen Verpassen der
+Einsprachefrist auf die Einsprache nicht eingetreten, weshalb die Beschwerde
+abzuweisen ist.
+
+4. Für
+das vorliegende Verfahren wurde kein Gesuch um unentgeltliche Rechtspflege bzw.
+amtliche Verteidigung gestellt und hätte aufgrund der Aussichtslosigkeit auch
+nicht bewilligt werden können. Dem Ausgang des Beschwerdeverfahrens
+entsprechend hat der Beschwerdeführer gemäss Art. 428 Abs. 1 StPO deshalb die
+Kosten zu tragen. Die Gebühr wird auf CHF 600. festgelegt (§ 21 Abs. 2 des
+Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 600. (einschliesslich Auslagen).
+
+Mitteilung an:
+
+- Beschwerdeführer (Dispositiv und Rechtsmittelbelehrung auf Englisch)
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur. Marc Oser                                                      MLaw
+Lia Börlin
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
