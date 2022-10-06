@@ -1,0 +1,421 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.650"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "HB"
+docket: "HB.2022.48"
+docket_2: "AG.2022.650"
+decided: "2022-10-06"
+published: "2022-11-03"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74179&W10_KEY=3048518&nTrefferzeile=420&Template=search_result_document.html"
+cites_decisions: ["1B_632/2011", "HB.2022.48"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md"]
+---
+
+# Abweisung des Haftentlassungsgesuchs
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+HB.2022.48
+
+ENTSCHEID
+
+vom 3.
+November 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiber
+lic. iur. Christian Lindner
+
+Beteiligte
+
+A____ , geb. [...]                                                             Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt                             Beschuldigter
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Zwangsmassnahmengerichts
+
+vom 6. Oktober 2022
+
+betreffend Abweisung des
+Haftentlassungsgesuchs
+
+Sachverhalt
+
+A____ befindet
+sich seit dem 7. Juni 2022 in Haft. Hintergrund ist der Vorwurf der
+qualifizierten Widerhandlung gegen das Betäubungsmittelgesetz. Mit Verfügung
+vom 6. Oktober 2022 wies das Zwangsmassnahmengericht Basel-Stadt das
+Haftentlassungsgesuch von A____ ab. Neben einem dringenden Tatverdacht auf
+qualifizierte Widerhandlung gegen das Betäubungsmittelgesetz wurden Flucht- und
+Kollusionsgefahr als Haftgründe angenommen, und die Dauer der Untersuchungshaft
+wurde mit einer Verlängerung um sechs Wochen als verhältnismässig erachtet.
+Nach Ansicht des Zwangsmassnahmengerichts sind keine tauglichen
+Ersatzmassnahmen vorhanden.
+
+Gegen diese
+Verfügung hat A____ (nachfolgend Beschwerdeführer) mit Schreiben seines
+Rechtsvertreters vom 17. Oktober 2022 Beschwerde erhoben. Es wird beantragt,
+die Verfügung des Zwangsmassnahmengerichts vom 6. Oktober 2022 sei aufzuheben
+und der Beschwerdeführer ‒ allenfalls unter Anordnung von
+Ersatzmassnahmen ‒ umgehend aus der Haft zu entlassen. Eventualiter sei
+die Untersuchungshaft höchstens um zwei Wochen zu verlängern. Unter
+o/e-Kostenfolge. Die Staatsanwaltschaft hat mit Stellungnahme vom 24. Oktober
+2022 beantragt, die Beschwerde sei vollumfänglich abzuweisen, und die Verfügung
+des Zwangsmassnahmengerichts vom 6. Oktober 2022 sei zu bestätigen. Der
+Beschwerdeführer hat mit Eingabe vom 1. November 2022 replicando an seinen
+Anträgen festgehalten.
+
+Die relevanten
+Einzelheiten der Parteistandpunkte ergeben sich aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+verhaftete Person kann Entscheide des Zwangsmassnahmengerichts über die
+Verlängerung der Untersuchungshaft mit Beschwerde bei der Beschwerdeinstanz
+anfechten (Art. 393 Abs. 1 lit. c in Verbindung mit Art. 222 der
+Strafprozessordnung [StPO, SR 312.0]). Zuständiges Beschwerdegericht ist das
+Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in Verbindung mit § 93
+Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Das
+Rechtsmittel ist nach Art. 396 Abs. 1 StPO innert zehn Tagen nach Eröffnung des
+Entscheids schriftlich und begründet bei der Beschwerdeinstanz einzureichen.
+Die vorliegende Beschwerde ist form- und fristgerecht eingereicht worden, sodass
+darauf einzutreten ist. Die Kognition des Beschwerdegerichts ist nach
+Art. 393 Abs. 2 StPO frei und nicht auf Willkür beschränkt.
+
+2.
+
+Die Anordnung
+von Untersuchungshaft ist nach Art. 221 Abs. 1 StPO zulässig, wenn die
+beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist
+und zudem Flucht-, Kollusions- oder Fortsetzungsgefahr besteht. Die Haft muss
+überdies verhältnismässig sein. Sie ist aufzuheben, sobald Ersatzmassnahmen zum
+gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c StPO) und
+darf nicht länger dauern als die zu erwartende Freiheitsstrafe (Art. 212 Abs. 3
+StPO).
+
+3.
+
+3.1 Hinsichtlich
+des von der Vorinstanz angenommenen dringenden Tatverdachts moniert der
+Beschwerdeführer, die Vorinstanz stütze sich in ihren Erwägungen teilweise auf
+nicht verwertbare Unterlagen. Es mangle dort an formgenüglichen Aussagen, und
+die Akten hätten für den Fall des Beschwerdeführers keinerlei Relevanz. Zudem
+hätten die von der Staatsanwaltschaft nachgereichten Unterlagen durch die
+Vorinstanz kritischer überprüft werden müssen (Beschwerde Rz. 55-57). Im Rahmen
+des Haftprüfungsverfahrens kann auf eine Prüfung dieser Rügen verzichtet
+werden, da der Beschwerdeführer festhält, es werde ansonsten nicht bestritten,
+dass ein Tatverdacht im Raum stehe (a.a.O. Rz. 58).
+
+3.2
+
+3.2.1 Die
+Vorinstanz hat zunächst den Haftgrund der Fluchtgefahr bejaht. Bereits 2017
+habe sich der Beschwerdeführer der Strafuntersuchung durch Wegzug nach Deutschland
+entzogen. Dies führe zu einer ungünstigen Prognose seines künftigen Verhaltens
+bzgl. der aktuellen Strafuntersuchung im Falle einer Haftentlassung. Der
+Tatverdacht auf ein Verbrechen gegen das Betäubungsmittelgesetz, bei welchem
+die Strafandrohung auf eine Freiheitsstrafe von mindestens einem Jahr laute,
+habe sich verdichtet. Da der Straftatbestand gleichzeitig eine Katalogtat für
+die obligatorische Landesverweisung darstelle, müsste im Falle einer
+Verurteilung eine Landesverweisung geprüft werden, womit der Anreiz zur Flucht
+als erhöht einzustufen sei. Es könne nicht ausgeschlossen werden, dass der Beschwerdeführer
+noch über diverse Kontakte in Deutschland verfüge, die er im Falle des
+Untertauchens um Hilfe bitten könnte. Er könnte sich ins grenznahe Ausland
+absetzen, wo ihn seine Familie und Freunde ohne Weiteres besuchen könnten.
+Seine Anmeldung bei der Sozialhilfe sei ein Indiz dafür, dass der Beschuldigte
+die Befürchtung habe, im Falle einer Haftentlassung ohne Arbeit und ohne
+Existenzgrundlage dazustehen. Wegen der nicht gesicherten Existenz, der
+fehlenden finanziellen Stabilität sowie der Schwere des Tatvorwurfs und der zu
+erwartenden Sanktion sei ernsthaft zu befürchten, dass der Beschuldigte nach
+einer Haftentlassung ins Ausland absetzen und dem weiteren Verfahren nicht
+freiwillig zur Verfügung stehen würde.
+
+3.2.2 Der
+Beschwerdeführer hält dem entgegen, die Vorinstanz verkenne, dass der
+Beschwerdeführer im damaligen Verfahren VT.[...] keine Kenntnis davon gehabt
+habe, dass nach ihm gefahndet wurde, weshalb er sich gar nicht wissentlich der
+Strafuntersuchung habe entziehen können. Er sei damals einzig nach Deutschland
+gereist, um mit seiner Ehefrau zusammenzuleben. Im Verfahren VT.[...] sei der
+Beschwerdeführer nach Vollzug einer Haft im Rahmen eines vorzeitigen
+Haftantritts entlassen worden. Obschon das Strafverfahren nicht abgeschlossen sei,
+habe er sich gesetzeskonform verhalten und sei einer Erwerbstätigkeit nachgegangen.
+Auch seien die seither veränderten Lebensverhältnisse des Beschwerdeführers zu
+berücksichtigen. Mittlerweile sei er Vater einer 5-jährigen Tochter, habe eine
+unbefristete Anstellung und eine intakte Beziehung. Von seiner damaligen
+Ehefrau habe er sich getrennt, diese sei jedoch mit der gemeinsamen Tochter
+ebenfalls in Basel wohnhaft, damit der Beschwerdeführer sie regelmässig sehen könne.
+Ein Bezug zu Deutschland oder zu einem anderen Land bestehe nicht. Die
+Anmeldung bei der Sozialhilfe dürfe ihm nicht zum Nachteil gereichen. Es sei
+dies ein verantwortungsbewusster Schritt des Beschwerdeführers, der aufzeige,
+dass er eine Haftentlassung nicht dazu missbrauchen würde, um unterzutauchen,
+sondern dass er nach einer Haftentlassung wieder Fuss fassen möchte. Die
+Schwere einer drohenden Sanktion genüge nach bundesgerichtlicher Rechtsprechung
+nicht, um die Fluchtgefahr zu bejahen. Das Bundesgericht habe in weitaus
+schwerwiegenderen Fällen, in denen die Beschuldigten nicht gleichermassen
+sozial verwurzelt gewesen seien, die Wahrscheinlichkeit einer Flucht als nicht
+ausreichend erachtet, damit sich eine Fortsetzung der Untersuchungshaft
+rechtfertigen lasse. Es sei somit festzuhalten, dass keine Fluchtgefahr vorliege
+oder zumindest nicht in einer Intensität, die eine Haft und den damit verbundenen
+schwerwiegenden Grundrechtseingriff rechtfertigen würde (Beschwerde Rz. 59-68).
+
+3.2.3 Durch
+die im Falle eines Schuldspruchs zu erwartende Freiheitsstrafe ist bei einem ausländischen
+Staatsangehörigen grundsätzlich von einem erheblichen Fluchtanreiz auszugehen.
+Als Argument gegen die Fluchtgefahr sind sicherlich die veränderten
+Lebensverhältnisse des Beschwerdeführers zu berücksichtigen, dessen engste
+Bezugspersonen, namentlich seine aktuelle Partnerin und die frühere Ehefrau mit
+dem gemeinsamen Kind, in der Schweiz leben. Dies im Unterschied zur Situation im
+genannten früheren Verfahren, als er sich nach Deutschland zu seiner damaligen
+Ehefrau begab. Dass sich der Beschwerdeführer bei der Sozialhilfe angemeldet
+hat, interpretiert die Vorinstanz zu seinem Nachteil als Beleg dafür, dass er
+hier keine wirtschaftliche Perspektive sieht. Andererseits lässt sich diese
+auch als Beleg dafür sehen, dass er ungeachtet seiner beruflichen Zukunft weiterhin
+hier zu leben gedenkt, was eher ein Argument gegen die Annahme von Fluchtgefahr
+wäre.
+
+Trotz der
+veränderten Verhältnisse im Leben des Beschwerdeführers sprich indes klar für
+Fluchtgefahr, dass er sich während des Strafverfahrens VT.[...] bereits im Jahr
+2017 einmal nach Deutschland abgesetzt hat. Die Behauptung der Verteidigung,
+dass er nicht gewusst habe, dass er hier gesucht worden sei und lediglich mit
+seiner Partnerin habe zusammenleben wollen, deckt sich nicht mit den Angaben
+seines Mandanten: Dieser hat in seiner Befragung vom 22. August 2017 gegenüber
+der Staatsanwaltschaft klar ausgesagt: «ich bin geflüchtet». Als Grund gab er
+an: «Wieso ich weggegangen bin war, da ich von den Problemen wegkomme und in
+Deutschland ein neues Leben aufbauen». (Einvernahmeprotokoll vom 22. August
+2017, Beilage der Stellungnahme der Staatsanwaltschaft vom 24. Oktober 2022). Es
+ist davon auszugehen, dass der Beschwerdeführer in Deutschland auch heute noch
+zahlreiche Personen kennt, die ihm bei einer Flucht bzw. beim Untertauchen behilflich
+sein könnten. Die aktuellen Tatvorwürfe haben mit einer Drogenübergabe in Bad
+Bellingen (D) zudem einen weiteren Deutschlandbezug. Ein Aufenthalt im
+grenznahen Deutschland würde es dem Beschwerdeführer problemlos ermöglichen,
+auch nach dem Verlassen der Schweiz Kontakt zu seiner Familie zu halten.
+
+Neben der
+drohenden Freiheitsstrafe ist zu berücksichtigen, dass das im Raum stehende
+Verbrechen gegen das Betäubungsmittelgesetz eine Katalogstraftat der
+obligatorischen Landesverweisung nach Art. 66a Abs. 1 lit. o. StGB darstellt.
+Die Aussicht darauf, dass er die Schweiz womöglich nach Verbüssung der ihm
+auferlegte Freiheitsstrafe verlassen muss, könnte einen zusätzlichen
+Fluchtanreiz schaffen. Dies im Unterschied zur Ausgangslage im von der
+Verteidigung zitierten Bundesgerichtsentscheid 1B_632/2011 vom 2. Dezember 2011
+E. 5.3. Dort wurde eine Fluchtgefahr trotz langer Freiheitsstrafe verneint, es handelte
+sich bei der Beschuldigten jedoch um eine Schweizer Staatsangehörige, bei der
+sich die Frage nach einer Landesverweisung gar nicht stellen konnte. Unter
+Berücksichtigung sämtlicher Umstände ist die Fluchtgefahr somit zu bejahen.
+
+3.3
+
+3.3.1 Die
+Vorinstanz hat weiter das Vorliegen von Kollusionsgefahr bejaht. Diese sei
+aufgrund der laufenden Auswertungen sowie der noch bevorstehenden Einvernahmen
+weiterhin gegeben. Das Zwangsmassnahmengericht hat auf seine früheren
+Verfügungen verwiesen und ergänzt, dass primär noch Konfrontationseinvernahmen
+mit B____ und C____ als mutmasslich Involvierte ausstehen würden. Beim Handel
+mit Betäubungsmitteln würden erfahrungsgemäss grössere komplex vernetzte Gruppierungen
+zusammenwirken. Da die Tatvorwürfe vom Beschuldigten vollumfänglich bestritten
+würden, bestehe die ernsthafte Gefahr, dass er sich nach einer Haftentlassung
+mit mutmasslich Beteiligten in Verbindung setzen und diese zu seinen Gunsten
+beeinflussen würde, zumal die Konfrontationseinvernahmen noch nicht
+stattgefunden hätten.
+
+3.3.2 Der
+Beschwerdeführer sieht auch diesen Haftgrund nicht als gegeben an. Während der
+halbjährigen Observation seien neben dem Beschwerdeführer drei weitere Personen
+identifiziert worden: C____, D____ und B____. C____ befinde sich derzeit in
+Deutschland in Haft, D____ sei bereits mehrfach einvernommen worden und B____
+sei separat durch die Staatsanwaltschaft in Winterthur/Unterland verfolgt
+worden. Sein Verfahren sei abgeschlossen, und er befinde sich seit dem 14. Juni
+2022 auf freiem Fuss. Auch D____ sei anfangs September 2022 aus der
+Untersuchungshaft entlassen worden. Dies lasse darauf schliessen, dass es bei
+den beiden Personen, die wie auch der Beschwerdeführer observiert wurden,
+keinen weiteren Ermittlungsbedarf mehr gegeben habe, da sie andernfalls nicht
+entlassen worden wären. Eine Kollusion mit diesen drei mutmasslich Beteiligten
+sei daher ausgeschlossen. Die entsprechenden Einvernahmen seien durchgeführt
+worden, und anlässlich der Observation seien ausreichende Erkenntnisse gewonnen
+worden. Konfrontationseinvernahmen könnten keinerlei neuen sachdienlichen
+Erkenntnisse zutage fördern, vor allem vor dem Hintergrund, dass die beiden
+Personen wie auch der Beschwerdeführer über längere Zeit technisch observiert
+worden seien und es äusserst fraglich erscheine, wie sich der Beschwerdeführer
+in diesem Verfahrensstadium nunmehr mit B____ und C____ absprechen könnte, um
+die Wahrheitsfindung zu beeinträchtigen. Andererseits hätten diese Einvernahmen
+längst stattfinden sollen. Mit fortschreitender Verfahrensdauer nehme eine
+ursprünglich vorhandene Kollusionsgefahr ab und es seien höhere Anforderungen
+an den Nachweis der Kollusionsgefahr zu stellen. Dass der Beschwerdeführer als
+einziger in Haft bleibe, werde mit seiner übergeordneten Rolle begründet, die
+jedoch bestritten werde und zudem keine neuen Kollusionsfelder begründen könnte
+(Beschwerde, Rz. 69-74).
+
+3.3.3 Nach
+Annahme eines Haftgrundes in Form von Fluchtgefahr kann an sich offengelassen
+werden, ob weitere Haftgründe gegeben sind. Die Fluchtgefahr steht vorliegend
+klar im Zentrum. Das zusätzliche Vorliegen von Kollusionsgefahr erscheint
+weniger klar. Zwar ist die Konfrontation mit Belastungszeugen für die
+Verwertbarkeit derer Aussagen von zentraler Bedeutung, und die Kollusionsgefahr
+wird häufig bis zur erfolgten Konfrontation als gegeben erachtet. Vorliegend stellt
+sich jedoch die Frage, weshalb nicht schon seit geraumer Zeit zumindest damit
+begonnen wurde, die ausstehenden Konfrontationseinvernahmen zu organisieren. Es
+ist zu erwarten, dass diese innerhalb der laufenden Haftverlängerung durchgeführt
+werden, wie es die Staatsanwaltschaft in ihrem Haftantrag in Aussicht gestellt
+hat.
+
+3.4
+
+3.4.1 Schliesslich
+wird mir der Beschwerde die Verhältnismässigkeit der verfügten
+Untersuchungshaft bestritten und die Auffassung vertreten, dass bei Annahme eines
+Haftgrundes taugliche Ersatzmassnahmen zur Verfügung stünden (Beschwerde Rz. 77
+ff.). Kollusionsgefahr sei nicht gegeben, und bei Würdigung der gesamten
+Umstände sei die Wahrscheinlichkeit einer Flucht zumindest nicht von derartiger
+Intensität, dass Ersatzmassnahmen nicht zielführend wären und sich die
+Fortdauer des Freiheitsentzugs rechtfertigen liesse. Der Ausweis des
+Beschwerdeführers sei bereits gesperrt worden, was ihm eine legale Flucht
+verunmögliche. Als weitere Ersatzmassnahmen kämen eine Schriftensperre, ein
+Rayonverbot, eine Meldepflicht, eine elektronische Fussfessel oder eine Kaution
+durch seine Mutter infrage. Diese Massnahmen würden ‒ allenfalls
+kombiniert ‒ einer allfälligen Fluchtneigung des Beschwerdeführers
+ausreichend vorbeugen und es ihm ermöglichen, sich um sein soziales Umfeld und
+seine Arbeitsstelle zu kümmern, ohne dass seine persönliche Freiheit derart
+stark beschränkt würde.
+
+3.4.2 Nach
+Ansicht der Staatsanwaltschaft ist eine Schriftensperre kein taugliches Mittel,
+um der Fluchtgefahr zu begegnen, da der Beschwerdeführer bereits nach seiner
+Flucht im Oktober 2016 beim türkischen Konsulat in Deutschland einen neuen Pass
+beantragt und auch problemlos erhalten habe. Eine Kaution sei bislang nicht
+angeboten worden, scheine aber ebenfalls nicht als Ersatzmassnahme geeignet, da
+aus den Akten beider Verfahren keinerlei Kontakte zwischen dem Beschuldigten
+und seiner Mutter belegt seien. Dem Beschuldigten würden im Rahmen zweier
+Verfahren qualifizierte Widerhandlungen gegen das Betäubungsmittelgesetz
+vorgeworfen. Selbst unter Berücksichtigung der bereits ausgestandenen Haft von
+rund 13 Monaten sowie aktuell gut fünf Monaten sei die zu erwartende Dauer der
+Freiheitsstrafe noch lange nicht erreicht.
+
+3.4.3 Dem
+hat der Beschwerdegegner in seiner Replik entgegnet, dass die Mutter des
+Beschwerdeführers ihn nahezu wöchentlich in der Untersuchungshaft besuche und
+das familiäre Ehrgefühl einer Flucht trotz von seiner Mutter geleisteter
+Kaution entgegenstehe. Ob ein neues Ersuchen um einen Pass ohne Vorlage des
+bisherigen Passes erfolgreich wäre, sei fraglich. Die Verhältnismässigkeit
+einer anhaltenden Untersuchungshaft werde bestritten (Replik, Rz. 20-23).
+
+3.4.4 Unabhängig
+von der Frage, ob sich der Beschwerdeführer einen neuen Pass beschaffen könnte,
+bieten die nur sporadischen Grenzkontrollen bei der Ausreise nach Deutschland
+keine Gewähr dafür, dass der Beschwerdeführer ohne erforderliche Papiere an
+einer Ausreise gehindert würde. Ein Untertauchen in der Schweiz liesse sich
+damit offensichtlich auch nicht verhindern. Electronic Monitoring oder eine
+Meldepflicht sind dazu geeignet, eine Flucht festzustellen, sie können diese
+aber ebenfalls nicht vereiteln. Es bliebe die Möglichkeit einer
+Kautionsleistung, welche angesichts der bescheidenen legalen Mittel des
+Beschwerdeführers von einer Drittperson geleistet werden müsste. Auch dies
+würde nicht mit hinreichender Sicherheit verhindern, dass sich der
+Beschwerdeführer der Strafverfolgung entziehen würde. Der vorgeworfene
+qualifizierte Betäubungsmittelhandel beinhaltet stets Deliktserlös in
+beträchtlicher Höhe, womit auch eine hohe Kaution bestritten werden könnte
+‒ dies auch dann, wenn die Kaution in einem ersten Schritt von der Mutter
+des Beschwerdeführers geleistet würde. Es ist Staatsanwaltschaft und Vorinstanz
+somit beizupflichten, dass keine tauglichen Ersatzmassnahmen zur Verfügung
+stehen, um Flucht- und Kollusionsgefahr zu bannen.
+
+3.4.5 Die
+Vorinstanz hat die Untersuchungshaft statt der von der Staatsanwaltschaft
+beantragten acht Wochen um lediglich sechs Wochen verlängert. Dies erscheint
+angemessen, da die Staatsanwaltschaft in ihrem Haftantrag vom 28. September
+2022 in Aussicht gestellt hat, die Konfrontationseinvernahmen mit B____ und C____
+möglichst zeitnah durchführen zu wollen.
+
+Die seit dem 7.
+Juni 2022 andauernde und bis zum 25. November 2022 verlängerte Haft ist von der
+Mindeststrafe für eine qualifizierte Widerhandlung gegen das
+Betäubungsmittelgesetz, welche auf ein Jahr Freiheitsstrafe lautet, noch weit
+entfernt. Bereits angesichts der aufgefundenen Betäubungsmittelmengen von 407,4
+Gramm Crystal Meth ist im Falle eines Schuldspruchs von einem Strafmass
+auszugehen, das diese Mindeststrafe deutlich übersteigt ‒ inzwischen steht
+gar der Vorwurf des Imports von Mengen im Bereich von drei Kilogramm im Raum.
+Die Verhältnismässigkeit der Haftverlängerung ist daher gegeben.
+
+4.
+
+4.1 Nach
+dem Gesagten ist die Beschwerde abzuweisen.
+
+4.2 Die
+Regelung der Kostenfolgen hat erst im Endentscheid zu erfolgen (Art. 421 Abs. 1
+StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist zuhanden der das
+Strafverfahren abschliessenden Behörde in Beachtung von § 21 Abs. 2
+des Gerichtsgebührenreglements (GGR, SG 154.810) auf CHF 500.
+festzusetzen, einschliesslich Auslagen.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Über die Auferlegung der ordentlichen Kosten des
+Haftbeschwerdeverfahrens im Betrag von CHF 500. wird mit dem Urteil in der
+Sache entschieden.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Zwangsmassnahmengericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      lic. iur. Christian
+Lindner
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
