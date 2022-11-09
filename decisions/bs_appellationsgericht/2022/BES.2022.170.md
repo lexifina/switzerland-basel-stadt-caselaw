@@ -1,0 +1,361 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.497"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2022.170"
+docket_2: "AG.2023.497"
+decided: "2022-11-09"
+published: "2023-08-10"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75609&W10_KEY=3048518&nTrefferzeile=119&Template=search_result_document.html"
+cites_decisions: ["1B_253/2012", "6B_265/2008", "6B_317/2015", "6B_396/2008", "6B_960/2014", "BGE 129 IV 1"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-304.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-432.md"]
+---
+
+# Nichtanhandnahme (BGer 7B_637/2023 vom 6. Januar 2025)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2022.170
+
+ENTSCHEID
+
+vom 10.
+August 2023
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiber
+Dr. Beat Jucker
+
+Beteiligte
+
+A____ Beschwerdeführer
+
+[...]
+
+vertreten durch B____,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin 1
+
+Binningerstrasse 21, 4001 Basel
+
+C____ Beschwerdegegnerin 2
+
+[...] Beschuldigte
+
+vertreten durch D____,
+
+[...]
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 9. November 2022
+
+betreffend Nichtanhandnahme
+
+Sachverhalt
+
+Mit Schreiben
+vom 26. bzw. 29. September 2022 stellte A____ (Beschwerdeführer) gegen seine
+Schwester C____ (Beschuldigte) Strafanzeige wegen mutmasslicher Vermögendelikte
+zum Nachteil ihrer am 29. Oktober 2021 verstorbenen Mutter E____. Mit
+Nichtanhandnahmeverfügung vom 9. November 2022 trat die Staatsanwaltschaft
+Basel-Stadt nicht auf die Strafanzeige ein, da der fragliche Straftatbestand oder
+die Prozessvoraussetzungen eindeutig nicht erfüllt seien. Zugleich verlegte sie
+die Kosten zu Lasten des Staates.
+
+Gegen diese
+Verfügung erhob der Beschwerdeführer mit Eingabe vom 16. November 2022 Beschwerde
+an das Appellationsgericht. Es wird beantragt, es sei die streitgegenständliche
+Verfügung aufzuheben (Ziff. 1) und die Staatsanwaltschaft anzuweisen, das
+Strafverfahren unverzüglich an die Hand zu nehmen (Ziff. 2). Darüber hinaus sei
+die Staatsanwaltschaft anzuweisen, den Beschwerdeführer über die jeweils
+unternommenen Verfahrensschritte auf dem Laufenden zu halten und ihm
+Akteneinsicht zu gewähren (Ziff. 3). Unter o/e-Kostenfolge (Ziff. 4). Die Staatsanwaltschaft
+liess sich am 5. Januar 2023 mit dem Antrag auf Abweisung der Beschwerde
+vernehmen. Hierzu hat der Beschwerdeführer, mittlerweile vertreten durch B____,
+am 16. Januar 2023 repliziert. Die Beschuldigte, vertreten durch D____, hat
+sich am 13. Februar 2023 mit dem Antrag, die Beschwerde sei kosten- und
+entschädigungsfällig abzuweisen sowie dem Beschwerdeführer eine Ordnungsbusse
+wegen trölerischer Prozessführung aufzuerlegen, zur Eingabe der
+Staatsanwaltschaft vom 5. Januar 2023 ergänzend vernehmen lassen. Hierzu hat
+der Beschwerdeführer am 10. März 2023 unter Aufrechterhaltung seiner Anträge (erneut)
+Stellung bezogen.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten (einschliesslich der von der
+Staatsanwaltschaft eingereichten Verfahrensakten) ergangen. Die Einzelheiten
+der Parteistandpunkte ergeben sich  soweit sie für den Entscheid von Bedeutung
+sind  aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Nichtanhandnahmeverfügungen
+der Staatsanwaltschaft können innert zehn Tagen mittels Beschwerde bei der
+Beschwerdeinstanz angefochten werden (Art. 393 Abs. 1 lit. a und Art. 310 Abs.
+2 in Verbindung mit Art. 322 Abs. 2 der Strafprozessordnung [StPO, SR 312.0]).
+Zu deren Beurteilung ist das Appellationsgericht als Einzelgericht zuständig (§
+88 Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]), welches nach Art. 393 Abs. 2
+StPO mit freier Kognition urteilt.
+
+1.2 Der
+Beschwerdeführer hat sich mit Schreiben vom 7. Oktober 2022 als Straf- und
+Zivilkläger konstituiert. Als (Pflichtteils)Erbe ist er von der verfügten
+Nichtanhandnahme bzw. den darin behandelten Delikten direkt und persönlich
+betroffen, sodass er zur Beschwerde legitimiert ist (Art. 382 Abs. 1 StPO).
+
+1.3 Gegen
+die gleichzeitig beanzeigte F____ wurde ein separates Verfahren eröffnet,
+sodass auf diesbezügliche Ausführungen nicht weiter einzugehen ist. Dasselbe
+gilt hinsichtlich der Bemerkungen, welche die im Dokument vom 4. Juni 2010
+angeblich gefälschte Unterschrift anbetreffen, zumal auch diesbezüglich separat
+ermittelt wird.
+
+2.
+
+2.1 Gemäss
+Art. 310 Abs. 1 lit. a und b StPO verfügt die Staatsanwaltschaft die
+Nichtanhandnahme, sobald aufgrund der Strafanzeige oder des Polizeirapports
+feststeht, dass die fraglichen Straftatbestände oder die Prozessvoraussetzungen
+eindeutig nicht erfüllt sind oder Verfahrenshindernisse bestehen. Wie bei der
+Frage, ob ein Strafverfahren über eine (definitive) Verfahrenseinstellung durch
+die Strafverfolgungsbehörde erledigt werden kann, gilt auch bezüglich der
+Nichtanhandnahme der aus dem Legalitätsprinzip fliessende Grundsatz «in dubio
+pro duriore» (Art. 5 Abs. 1 der Bundesverfassung, [BV, SR 101], und Art. 2
+Abs. 1 StPO in Verbindung mit Art. 309 Abs. 1, Art. 319 Abs. 1
+und Art. 324 Abs. 1 StPO). Dieser gebietet, dass eine Nichtanhandnahme oder Einstellung durch die Staatsanwaltschaft nur bei klarer Straflosigkeit
+bzw. offensichtlich fehlenden Prozessvoraussetzungen angeordnet werden darf.
+Bei der Beurteilung dieser Frage verfügt die Staatsanwaltschaft über einen gewissen
+Spielraum (BGer 1B_253/2012 vom 19. Juli 2012 E. 2.1; 6B_960/2014 vom 30.
+April 2015 E. 2.1).
+
+2.2 Eine
+Nichtanhandnahmeverfügung hat zu ergehen, wenn bereits aus den
+Ermittlungsergebnissen oder aus der Strafanzeige selbst ersichtlich wird, dass
+der zur Beurteilung vorliegende Sachverhalt mit Sicherheit unter keinen
+Straftatbestand fällt oder gar nicht verfolgbar ist, so dass die Führung eines
+Verfahrens geradezu aussichtslos erscheint. Sie kommt somit bei Fällen in
+Frage, die allein aufgrund der Akten sowohl betreffend Sachverhalt als auch in
+rechtlicher Hinsicht klar sind ( Omlin ,
+in: Basler Kommentar, 2. Auflage 2014, Art. 310 StPO N 9; Landshut/Bosshard , in: Donatsch et
+al. [Hrsg.], Kommentar zur StPO, 3. Auflage 2020, Art. 310 N 4).
+
+3.
+
+3.1 Ob
+ E____ im fraglichen Zeitraum aufgrund ihres Gesundheitszustands nicht mehr in
+der Lage gewesen ist, entsprechende Strafanträge einzureichen, kann heute nicht
+mehr abschliessend beurteilt werden. Auch wenn in den Akten eine
+fortschreitende Verschlechterung ihres Gesundheitszustands nachvollziehbar ist,
+steht jedenfalls fest, dass sie damals durch einen Anwalt vertreten war und
+auch die zuständige Erwachsenenschutzbehörde aufgrund einer unter anderem vom
+Beschwerdeführer eingereichten Gefährdungsmeldung vom 19. September 2013
+involviert war und  E____ auch persönlich angehört hat. Es wurde ein
+entsprechendes Verfahren durchgeführt, bei dem es schon damals um die
+gesundheitlichen Probleme der Verstorbenen, die Erteilung von Bankvollmachten
+an die Tochter und Schenkungen ging, wobei im fraglichen Zeitraum nie eine
+vollständige Handlungs- bzw. Urteilsunfähigkeit festgestellt wurde. Es gibt
+vorliegend keinen Grund, von diesen Feststellungen in den Verfahren der Erwachsenenschutzbehörde
+abzuweichen.
+
+3.2 Es
+muss mit der Staatsanwaltschaft also davon ausgegangen werden, dass  E____
+selber, ihr Beistand oder die Erwachsenenschutzbehörde bei Verdacht auf
+deliktisches Verhalten der Beschuldigten  nach vorgängiger Absprache
+untereinander  eingegriffen und, soweit sie dazu berechtigt gewesen wären
+(vgl. dazu Riedo , in: Basler
+Kommentar, 4. Auflage 2019, Art. 30 StGB N 41), Strafantrag gestellt hätten
+(Art. 30 ff. des Strafgesetzbuches [StGB, SR 311.0]), zumal  E____ im
+rechtskräftig eingestellten Verfahren gegen [...], bei welchem im Wesentlichen
+die identischen Transaktionen Verfahrensgegenstand waren, als Auskunftsperson
+einvernommen wurde und ihr damaliger Rechtsanwalt H____ auf ein entsprechendes
+Gesuch hin eine Kopie der Verfahrensakten erhielt. Der vorliegend in Frage
+stehende und aufgrund der Akten erstellte Vermögensabfluss war auch in seiner
+Höhe schon damals bekannt, weshalb die Erwachsenenschutzbehörde auch
+Reduktionen der monatlichen Limiten für Barbezüge und Kreditkartenbelastungen
+verfügte. Trotzdem war ein allfällig deliktisches Verhalten der Beschuldigten 
+offenbar auch seitens des Beschwerdeführers  nie ein Thema.
+
+3.3 Die
+Frist zur Stellung des Strafantrags von drei Monaten ist nach dem Gesagten abgelaufen.
+Art. 30 Abs. 4 StGB setzt voraus, dass die Strafantragsfrist bei Tod der
+verletzten Person noch läuft oder noch gar nicht zu laufen begonnen hat, was
+nach dem vorstehend Erwogenen vorliegend beides nicht der Fall ist. Dass kein
+schriftlicher Verzicht im Sinne von Art. 304 Abs. 2 StPO vorliegt, ist daher
+nicht von Bedeutung (vgl. zum Ganzen Riedo ,
+a.a.O., Art. 30 StGB N 73 f., 117).
+
+4.
+
+4.1 Selbst
+wenn davon ausgegangen würde, dass die Frist zur Einreichung des Strafantrags
+noch nicht abgelaufen und das Strafantragsrecht mit dem Tod von  E____
+auf den Beschwerdeführer übergegangen ist, wäre die Frist mittlerweile
+abgelaufen: Der Strafantrag wurde mit Schreiben vom 26. September 2022
+eingereicht und damit fast ein Jahr nach dem Tod von  E____ vom 29. Oktober
+2021. Gemäss Entscheid der burgerlichen Kindes- und Erwachsenenschutzbehörde
+(bKESB) vom 7. November 2019 hatte der Beschwerdeführer schon im Januar 2014
+Kenntnis über allfällige Schenkungen. Es wurden in diesem Verfahren
+vorsorgliche Massnahmen zum Schutz von  E____ und ihres Vermögens beantragt.
+Gemäss den Angaben des Beschwerdeführers im Schlichtungsgesuch vom 3. November
+2022 hatte er sogar schon Ende 2011 entsprechend Kenntnis:
+
+« Gleichzeitig erhielten der Kläger und der Beklagte 2 Ende 2011 starke
+Signale, dass das Vermögen der Mutter durch enorm hohe Schenkungen an die
+Beklagte 1 stark sinkt, was überhaupt nicht zur Erblasserin passte und nur
+durch ihre fehlende Urteilsfähigkeit insbesondere in finanziellen Belangen
+und/oder durch äussere Einflussnahme zu erklären war ».
+
+Gemäss dem E-Mail-Verkehr
+unter den Geschwistern vom 12. Juni 2010 ging es schon damals um eine Schenkung
+von CHF 700'000. für ein «I____-Projekt» der Beschuldigten und eine
+Überweisung von CHF 6'300'000. auf ein Konto der J____:
+
+«Liebe C____ (und Kopie an A____),
+
+heute hat mich völlig überraschend Herr [...] von der [...] angerufen.
+Wenn ich ihn recht verstanden habe, seist Du mit einer von Mama
+handgeschriebenen Vollmacht zu ihm gekommen, die den Auftrag erteilt habe. Fr.
+700'000.- auf ein Projekt von Dir (I____?) zu überweisen, und weitere 6,3 Mio.
+auf ein Konto der (auch Dir gehörenden, oder mitgehörenden) J____, von der es
+dann auf ein [...]konto weitergehen solle. Aus Zeitnot solle das Geld aber
+sofort überwiesen werden, statt etwas (im Sinne einer Diversifizierung, die mal
+in unseren mails anklang?) später direkt auf ein Konto bei [...] auf Mamas
+Namen. Da solche Summen erbrelevant sind, hat Herr [...] mit Mama gesprochen
+und sich auserbeten, auch mit mir darüber sprechen zu dürfen, um allfällige
+spätere Erbkonflikte zu verhindern.
+
+Du wirst Dich nicht wundern, wenn ich sage, dass das alles reichlich
+merkwürdig klang. Ich habe dann mit A____ telefoniert, um zu erfahren, ob ich
+da was verpasst hätte. Er wusste aber auch von nichts, weder von der Spende
+noch von der Überweisung (im Gegensatz zu mir kennt er immerhin die J____). Was
+auch immer hinter der Aktion steckt, ich finde Du hättest uns darüber vorgängig
+informieren/konsultieren müssen. Wir haben doch letzthin einen guten e-mail
+Austausch gehabt, in dem wir uns alle - so schien es mir wenigstens - um Transparenz
+bemüht haben. War das ein falscher Eindruck?
+
+Kannst Du uns bitte aufklären, was hier vor sich geht, und um was es
+sich handelt? Und warum wir von alledem nichts wissen?
+
+[]».
+
+4.2 Auch
+wenn dem Beschwerdeführer in der Zwischenzeit neue und detailliertere
+Informationen zur Kenntnis gelangt sind, hatte er schon länger Kenntnis von
+potentiellen Straftaten und auch der mutmasslichen Täterschaft. Bei dieser
+Konstellation beginnt die Frist für die Einreichung eines Strafantrags auch
+ohne Kenntnis von Details nach Lehre und Rechtsprechung und entgegen der
+Ansicht des Beschwerdeführers in seiner Replik vom 10. März 2023 bereits zu
+laufen: «Ohne Belang bleibt das Wissen des Verletzten um die rechtliche
+Qualifikation der Tat. Insbesondere wird die Frist auch dann ausgelöst, wenn
+der Antragsberechtigte weiss, dass zu seinem Nachteil eine Straftat begangen
+wurde, aber aufgrund fehlender Detailkenntnisse noch nicht abzuschätzen vermag,
+ob es sich um ein Antrags- oder um ein Offizialdelikt handelt. In solchen
+Fällen ist vorsorglich Strafantrag zu stellen (BGE 129 IV 1 E. 3.1; BGer 6B_265/2008
+vom 9. Juli 2008 E. 3.3, 6B_396/2008 vom 25. August 2008 E. 3.3.3; Riedo , a.a.O., Art. 31 StGB N 6). Gleiches
+gilt, wenn hinsichtlich der Strafbarkeit des fraglichen Verhaltens Unklarheiten
+bestehen (BGer 6B_317/2015 vom 22. Juni 2015 E. 2; Riedo , a.a.O., Art. 31 StGB N 16).
+
+4.3 Die
+Strafantragsfrist begann nach dem Gesagten also nicht erst mit Kenntnisnahme
+der nun zugänglich gewordenen Bankunterlagen, sondern schon viel früher zu
+laufen, spätestens im Todeszeitpunkt von  E____. Auch bei dieser Konstellation
+wäre die Frist zur Einreichung eines Strafantrags aber abgelaufen.
+
+5.
+
+5.1 Die
+Vorschrift von Art. 310 StPO hat zwingenden Charakter; liegen deren Voraussetzungen
+vor, darf die Staatsanwaltschaft kein Strafverfahren eröffnen, sondern hat
+zwingend eine Nichtanhandnahmeverfügung zu erlassen (AGE BES.2022.154 vom 11. Januar
+2023 E. 2.2; Omlin , a.a.O., Art.
+310 StPO N 8). Demgemäss greift der Grundsatz «in dubio pro duriore» nicht und
+hat die Staatsanwaltschaft zu Recht die Nichtanhandnahme verfügt. Die
+Beschwerde erweist sich deshalb als unbegründet und ist abzuweisen, soweit darauf
+einzutreten ist. Bei diesem Ausgang hat der Beschwerdeführer die Verfahrenskosten
+mit einer Gebühr von CHF 800. zu tragen (§ 21 Abs. 2 des
+Gerichtsgebührenreglements [GGR, SG 154.810]). Diese wird mit dem bereits
+geleisteten Kostenvorschuss in gleicher Höhe verrechnet.
+
+5.2 Da
+eine Kostenauflage an die Privatklägerschaft für vorliegende Konstellation
+gesetzlich nicht vorgesehen ist (Art. 432 Abs. 2 StPO e contrario), ist die
+Beschuldigte aus der Gerichtskasse zu entschädigen. Es wurde keine Honorarnote
+eingereicht, weshalb der Aufwand zu schätzen ist. Ihr Vertreter hat eine sechsseitige
+Vernehmlassung eingereicht, wofür sechs Stunden zu CHF 250. (inklusive
+Auslagen, zuzüglich Mehrwertsteuer) entschädigt werden. Für den genauen Betrag
+wird auf das Dispositiv verwiesen.
+
+5.3 Was
+schliesslich die beantragte Busse wegen trölerischen Verhaltens anbetrifft, ist
+festzuhalten, dass der Beschwerdeführer mit seinen Anliegen zwar nicht
+durchdringt. Indes kann ihm keine bös- oder mutwillige Prozessführung gemäss §
+54 Abs. 4 GOG unterstellt werden. Aufgrund der Sachlage war nicht von
+vornherein klar, dass der Beschwerdeführer wider besseres Wissen an einer
+offensichtlich gesetzeswidrigen Auffassung festhält. Auch wenn von einem
+fehlerhaften Verständnis von Art. 30 Abs. 4 StGB auszugehen ist, ging es
+dem Beschwerdeführer offenbar darum, seinen Standpunkt durch ein Gericht
+beurteilen zu lassen.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen, soweit
+darauf einzutreten ist.
+
+Der Beschwerdeführer trägt die Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 800.. Diese wird mit dem bereits
+geleisteten Kostenvorschuss in gleicher Höhe verrechnet.
+
+Der Beschuldigten wird eine Parteientschädigung von CHF
+1615.50 (inklusive Auslagen und Mehrwertsteuer) aus der Gerichtskasse
+ausgerichtet.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Beschuldigte
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      Dr. Beat Jucker
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
