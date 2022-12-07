@@ -1,0 +1,305 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2024.177"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "UV"
+docket: "UV.2023.2"
+docket_2: "SVG.2024.177"
+decided: "2022-12-07"
+published: "2023-04-19"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77456&W10_KEY=3049206&nTrefferzeile=192&Template=search_result_document.html"
+cites_decisions: ["BGE 122 V 157", "BGE 129 V 177", "BGE 135 V 465", "UV.2023.2"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md"]
+---
+
+# UVG Beschwerde abgewiesen. Natürlicher Kausalzusammenhang verneint. (Bundesgerichtsurteil 8C_652/2023 vom 20.11.2024)
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 19.
+April 2023
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), P. Waegeli , Th. Aeschbach
+
+und
+Gerichtsschreiberin MLaw N. Marbot
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch B____, [...]
+
+Beschwerdeführerin
+
+SUVA
+
+Rechtsabteilung, Fluhmattstrasse 1,
+Postfach, 6002 Luzern
+
+Beschwerdegegnerin
+
+Gegenstand
+
+UV.2023.2
+
+Einspracheentscheid vom 7.
+Dezember 2022
+
+Tatsachen
+
+I.
+
+a) Die im Jahr 1970 geborene Beschwerdeführerin ist seit dem 1. September
+2008 als Angestellte bei der C____ AG in einem Vollzeitpensum tätig und in
+dieser Eigenschaft bei der Beschwerdegegnerin gegen Unfallfolgen versichert.
+
+b) Am 2. Mai 2021 nahm die Beschwerdeführerin mit drei weiteren Personen an
+einer geführten Skitour im [...] teil, als das Eis unter ihren Füssen einbrach
+und sie ca. 15 bis 20 Meter tief in eine Gletscherspalte stürzte. Nach 30
+Minuten konnte sie durch den Bergführer gerettet werden (vgl. Schadenmeldung
+UVG vom 6. Mai 2021, Suva-Akte 2, Unfallmeldung vom 12. Mai 2021, Suva-Akte 8).
+Hierbei zog sie sich eine Fraktur der rechten Augenhöhle mit wenig reaktiver
+Pupillenweitung, eine Jochbeinfraktur rechts mit Orbitalbeteiligung, eine
+Nasenbeinfraktur, eine Fraktur paranasal rechts, Rippenserienfrakturen mit
+apikalem Pneumothorax rechts von 12 mm und Lungenprellung rechts zu (Bericht
+Spital [...] vom 2. Mai 2021, Suva-Akte 19). Anlässlich einer Untersuchung im D____spital
+[...] wurde bei der Beschwerdegegnerin eine Okolomutoriuesparese innen und
+aussen bei Status nach Schieloperation 1974 festgestellt (vgl. Bericht D____spital
+[...] vom 7. Mai 2021, Suva-Akte 24). Die Beschwerdegegnerin anerkannte in der
+Folge ihre Leistungspflicht und erbrachte die gesetzlichen Leistungen
+(Suva-Akten 3 und 4).
+
+c) Am 16. Mai 2022 wurde der Beschwerdeführerin seitens der Augenklinik des
+E____spitals [...] ein Rezept für eine Gleitsichtbrille (Suva-Akte 134) ausgestellt.
+Die Anfrage auf Kostenübernahme für die verordnete Brille (Suva-Akte 135, vgl.
+auch Rechnung vom 3. Juni 2022, Suva-Akte 144, S. 2) lehnte die
+Beschwerdegegnerin nach Vorlage an ihren Kreisarzt, Dr. med. F____, Facharzt
+für Ophtalmologie und Ophtalmochirurgie, FMH (vgl. Beurteilung vom 10. Juni
+2022, Suva-Akte 142) mit informellem Schreiben vom 13. Juni 2022 (Suva-Akte
+143) ab.
+
+d) Nachdem die behandelnde Ärztin der Augenklinik des E____spitals [...] mit
+Schreiben vom 28. Juni 2022 (Suva-Akte 155) erneut ein Gesuch um
+Kostenübernahme für die Brille bei der Beschwerdegegnerin einreichte, lehnte die
+Beschwerdegegnerin das Gesuch mit Verfügung vom 15. August 2022, bestätigt
+durch den Einspracheentscheid vom 7. Dezember 2022 erneut ab (Beschwerdebeilage
+[BB] 2).
+
+II.
+
+a) Mit Beschwerde vom 9. Januar 2023 beantragt die Beschwerdeführerin, es
+sei der Einspracheentscheid der Beschwerdegegnerin vom 7. Dezember 2022
+aufzuheben und es seien der Beschwerdeführerin die gesetzlichen Leistungen
+zuzusprechen. Eventualiter sei ein Gerichtsgutachten in Auftrag zu geben. Unter
+o/e Kostenfolge.
+
+b) Mit Beschwerdeantwort vom 14. Februar 2023 schliesst die
+Beschwerdegegnerin auf Abweisung der Beschwerde.
+
+c) Mit Replik vom 13. März 2023 hält die Beschwerdeführerin an ihren
+eingangs gestellten Begehren fest.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz sachlich zuständig zum Entscheid über die vorliegende Streitigkeit (§
+82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die Organisation der
+Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG; SG
+154.100]). Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus
+Art. 58 Abs. 1 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil
+des Sozialversicherungsrechts (ATSG; SR 830.1).
+
+1.2. Da auch die übrigen formellen Beschwerdevoraussetzungen erfüllt
+sind, ist auf die rechtzeitig erhobene Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin lehnt ihre Leistungspflicht betreffend die
+Kostenübernahme für die Brillenkorrektur mit dem Argument ab, es bestehe mit
+überwiegender Wahrscheinlichkeit kein natürlicher Kausalzusammenhang zwischen
+den Sehstörungen und dem Unfallereignis vom 2. Mai 2021. Sie stützte sich
+hierbei auf die kreisärztliche Beurteilung von Dr. med. F____.
+
+2.2. Die Beschwerdeführerin hält dagegen, da die Beschwerdegegnerin ihre
+Leistungspflicht im Zusammenhang mit dem Unfallereignis vom 2. Mai 2021
+grundsätzlich anerkannt habe, müsse sie nachweisen, dass die Sehstörung der
+Beschwerdeführerin nicht mit überwiegender Wahrscheinlichkeit unfallkausal sei.
+Dieser Nachweis sei mit der kreisärztlichen Beurteilung nicht gelungen. Die
+Beschwerdegegnerin habe daher die Kosten für die Brille zu übernehmen,
+eventualiter sei ein Gerichtgutachten in Auftrag zu geben.
+
+2.3. Streitig und zu prüfen ist daher, ob die Beschwerdegegnerin ihre
+Leistungspflicht betreffend die Kostenübernahme für die Brille zu Recht
+ablehnte.
+
+3.
+
+3.1. Die Leistungspflicht eines Unfallversicherers gemäss UVG setzt
+zunächst voraus, dass zwischen dem Unfallereignis und dem eingetretenen Schaden
+ein natürlicher Kausalzusammenhang besteht. Ursachen im Sinne des natürlichen
+Kausalzusammenhangs sind alle Umstände, ohne deren Vorhandensein der
+eingetretene Erfolg nicht als eingetreten oder nicht als in der gleichen Weise
+beziehungsweise nicht zur gleichen Zeit eingetreten gedacht werden kann. Dabei
+genügt es, dass das schädigende Ereignis zusammen mit anderen Bedingungen die
+körperliche oder geistige Integrität der versicherten Person beeinträchtigt
+hat, der Unfall mit anderen Worten nicht weggedacht werden
+kann, ohne dass auch die eingetretene gesundheitliche Störung entfiele. Ob
+zwischen einem schädigenden Ereignis und einer gesundheitlichen Störung ein
+natürlicher Kausalzusammenhang besteht, ist eine Tatfrage, worüber die
+Verwaltung beziehungsweise im Beschwerdefall das Gericht im Rahmen der ihm
+obliegenden Beweiswürdigung nach dem im Sozialversicherungsrecht üblichen
+Beweisgrad der überwiegenden Wahrscheinlichkeit zu befinden hat. Die blosse
+Möglichkeit eines Zusammenhangs genügt für die Begründung eines
+Leistungsanspruches nicht (BGE 129 V 177, 181 E. 3.1).
+
+3.2. Berichten und Gutachten von versicherungsinternen Ärzten kommt
+Beweiswert zu, sofern sie als schlüssig erscheinen, nachvollziehbar begründet
+sowie in sich widerspruchsfrei sind und keine Indizien gegen ihre Zuverlässigkeit
+bestehen (BGE 135 V 465 E. 4.4. mit Hinweis auf 125 V 351 E. 3a). Soll ein
+Versicherungsfall jedoch ohne Einholung eines externen Gutachtens entschieden
+werden, so sind an die Beweiswürdigung strenge Anforderungen zu stellen.
+Bestehen auch nur geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit der
+versicherungsinternen ärztlichen Feststellungen, so sind ergänzende Abklärungen
+vorzunehmen (BGE 122 V 157 E. 1d).
+
+3.3. 3.3.1. Für die Beantwortung der Frage nach der Leistungspflicht der
+Beschwerdegegnerin im Zusammenhang mit der Brillenkorrektur ist die
+medizinische Ausgangslage näher zu beleuchten:
+
+3.3.2. Der Kreisarzt Dr. med. F____, Facharzt für Ophtalmologie und
+Ophtalmochirurgie, FMH, führte mit Beurteilung vom 10. Juni 2022 (Suva-Akte
+142) im Zusammenhang mit der Frage nach der Leistungspflicht der
+Beschwerdegegnerin bezüglich der Brille gemäss Brillenverordnung vom 16. Mai
+2021 aus, die Beschwerdeführerin habe sich im Rahmen eines Polytraumas am 2.
+Mai 2021 eine rechtsseitige Okulomotoriusparese sowie eine Jochbeinfraktur mit
+Orbitalbeteiligung rechts zugezogen. Gemäss Bericht der Universitätsklinik für
+Augenheilkunde am D____spital [...] vom 7. Mai 2021 werde ferner über einen
+Status nach Schieloperation 1974, eine Amblyopie, links bestand einer
+Hyperopie, beidseits eine Presbyopie, berichtet. Die Fraktur sei am 3. Mai 2021
+in der Universitätsklink für Schädel-  Kiefer und Gesichtschirurgie am D____spital
+[...] versorgt worden. Der Krankengeschichtenauszug der Konsultation in der
+Augenklinik des E____spitals [...] vom 2. Juli 2021 informiere, dass die
+Versicherte als Kind hyperotrop gewesen sei, nun etwas myop, sie habe nun eine
+Gleitsichtbrille. Als Kind habe sie nach innen geschielt, habe nie räumliches
+Sehen gehabt. Nach der Schiel-OP sei die Augenstellung ziemlich gerade, sie
+habe nie Doppelbilder. Das rechte Auge habe sie nie wirklich benutzt, habe nie
+lesen können mit dem rechten Auge. Der Fernvisus betrage rechts 1.0, links 1.2,
+Refraktion nicht angegeben. Rechts Ptose bei kompletter Okulomotoriusparese und
+Mydriase mit wenig Pupillenspiel. Ansonsten unauffällige vordere und hintere
+Augenabschnitte. Am 16. Mai 2022 sei der Beschwerdeführerin von der Augenklinik
+des E____spitals ein Brillenrezept verordnet worden mit der Korrektur rechts
++2.0/-0.25/0/0, Nahaddition je 1.75, keine Prismen. Bei der fraglichen
+Brillenkorrektur handle es sich um eine Brillenkorrektur für die Ferne und Nähe.
+Dabei sei rechts eine Hyperopie (Weitsichtigkeit), links eine leichte Myopie
+(Kurzsichtigkeit) mit altersentsprechender Presbyopie (Altersweitsichtigkeit) vorliegend
+(vgl. Suva-Akte 146). Diese Refraktionsfehler seien nicht in Zusammenhang mit
+dem fraglichen Unfallereignis zu stellen.
+
+3.3.3. Die behandelnde Ärztin des Augenspitals des E____spitals [...], Prof.
+Dr. med. G____, Fachärztin für Ophtalmologie und Ophtalmochirurgie, FMH, führte
+mit Bericht vom 28. Juni 2022 (Suva-Akte 155) aus, es sei zwar richtig, dass
+die Brechkraft-Änderung nicht in Zusammenhang mit dem Unfallereignis stehe.
+Dennoch gehe sie davon aus, dass die Beschwerdeführerin bei eigentlich planen Werten
+links (-0.25) und einer leichten Hyperopie ohne die Okulomotoriusparese
+vermutlich mit einer leichten Lesebrille zurechtkommen würde. Durch die
+Augenmuskelparese sehe sie jedoch doppelt, wenn die Augen abweichen. Mit einer
+entsprechenden Korrektur sei die Sehschärfe gut genug und die Augenlähmung
+ausreichend zurückgebildet, dass ihr ein zentrales binokulares Fusionsfeld
+gelinge. Dies setze aber die beidseitige Korrektur der Sehschärfe voraus, das
+heisst rechts für die Ferne mit zusätzlicher Korrektur für die Nähe und links
+minimer Ausgleich für die Ferne und Korrektur für die Nähe.
+
+3.3.4. Hierauf legte die Beschwerdegegnerin das Dossier am 11. Juli 2022 erneut
+ihrem Kreisarzt vor (Suva-Akte 160), welcher an seiner Einschätzung festhielt,
+dass die Brillenkorrektur für die Ferne und Nähe nicht in Zusammenhang mit dem
+fraglichen Unfallereignis stehe.
+
+3.4. Insgesamt ergibt sich aus den Akten einhellig das Bild, dass die in
+Frage stehende Brillenkorrektur nicht im Zusammenhang mit dem Unfallereignis zu
+sehen ist. So räumt selbst die behandelnde Ärztin mit Bericht vom 28. Juni 2022
+(vgl. E. 3.3.3. hiervor) ein, es sei richtig, dass die Brechkraft-Änderung
+nicht im Zusammenhang mit dem Unfallereignis stehe. Angesichts des Umstandes,
+dass selbst die Behandlerin nicht von einer Unfallkausalität der
+Refraktionsfehler ausgeht, bestehen nicht einmal die von der Rechtsprechung
+geforderten geringen Zweifel an der Schlüssigkeit und Zuverlässigkeit der
+kreisärztlichen Beurteilung, welche für die Einholung ergänzender Abklärungen notwendig
+wären (vgl. E. 3.2. hiervor). Zusammenfassend ist somit festzuhalten, dass
+unabhängig, ob man auf den Bericht von Dr. F____ oder denjenigen von Prof. Dr.
+med. G____ abstellt, die Beschwerdegegnerin ihre Leistungspflicht aufgrund des
+fehlenden (natürlichen) Kausalzusammenhanges zu Recht verneinte und nicht für
+die Kosten der Gleitsichtbrille aufzukommen hat.
+
+4.
+
+4.1. Zufolge obiger Ausführungen ist die Beschwerde abzuweisen.
+
+4.2. Das Verfahren ist kostenlos.
+
+4.3. Die ausserordentlichen Kosten sind wettzuschlagen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      Die Beschwerde wird abgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                    Die
+Gerichtsschreiberin
+
+Dr. G. Thomi MLaw N.
+Marbot
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+        Bundesamt für
+Gesundheit
+
+Versandt am:
