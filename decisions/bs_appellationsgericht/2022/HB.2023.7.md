@@ -1,0 +1,612 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.148"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "HB"
+docket: "HB.2023.7"
+docket_2: "AG.2023.148"
+decided: "2022-12-09"
+published: "2023-02-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74780&W10_KEY=3052836&nTrefferzeile=594&Template=search_result_document.html"
+cites_decisions: ["1B_187/2022", "1B_432/2022", "1B_449/2017", "1B_84/2018", "1B_9/2023", "6B_360/2014", "BGE 123 I 268", "BGE 137 IV 122", "BGE 143 IV 9", "BGE 145 IV 179", "BGE 146 IV 136", "BGE 146 IV 326", "HB.2023.7"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-156.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Verlängerung der Untersuchungshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+HB.2023.7
+
+ENTSCHEID
+
+vom 27.
+Februar 2023
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiberin
+Dr. Noémi Biro
+
+Beteiligte
+
+A____, geb. [...]                                                             Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt,                            Beschuldigter
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Zwangsmassnahmengerichts
+
+vom 3. Februar 2023
+
+betreffend Verlängerung der
+Untersuchungshaft
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft Basel-Stadt führt gegen A____ eine Strafuntersuchung wegen
+mehrfacher versuchter Erpressung, mehrfacher Drohung und Beschimpfungen sowie wegen
+Widerhandlung gegen das Strassenverkehrsgesetz. Konkret wird ihm vorgeworfen, die
+Ärztin Dr. B____ vom 15. September 2022 bis zum 6. Dezember 2022 mit zahlreichen
+E-Mails und zwei anonymen Briefen massiv bedroht, beschimpft und erpresst zu
+haben. Nachdem A____ am 7. Dezember 2022 festgenommen worden war, ordnete das
+Zwangsmassnahmengericht mit Verfügung vom 9. Dezember 2022 Untersuchungshaft
+auf die vorläufige Dauer von 8 Wochen, d.h. bis zum 3. Februar 2023, an. Auf
+Gesuch der Staatsanwaltschaft vom 30. Januar 2023 hin verfügte das
+Zwangsmassnahmengericht am 3. Februar 2023 die Verlängerung der
+Untersuchungshaft auf die vorläufige Dauer von sechs Wochen, d.h. bis zum 17.
+März 2023.
+
+Gegen diese
+Verfügung hat A____ mit Eingabe vom 6. Februar 2023 Beschwerde erheben lassen.
+Er beantragt die Aufhebung der angefochtenen Verfügung und seine sofortige
+Haftentlassung, eventualiter bei gleichzeitiger Verfügung von geeigneten
+Ersatzmassnahmen. Subeventualiter sei eine Verletzung des rechtlichen Gehörs im
+Haftverfahren festzustellen und es sei die Angelegenheit zur neuen Entscheidung
+an die Vorinstanz zurückzuweisen. Dies unter o/e-Kostenfolge, wobei ihm auch im
+Beschwerdeverfahren die amtliche Verteidigung zu bewilligen sei. Mit
+Stellungnahme vom 16. Februar 2023 hat die Staatsanwaltschaft die kostenfällige
+Abweisung der Beschwerde beantragt. Hierzu hat sich der Beschwerdeführer am
+20. Februar 2023 replicando vernehmen lassen und an seinen Begehren
+festgehalten.
+
+Die
+entscheidrelevanten Einzelheiten der Parteistandpunkte ergeben sich aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+verhaftete Person kann Entscheide des Zwangsmassnahmengerichts über die
+Verlängerung der Untersuchungshaft mit Beschwerde bei der Beschwerdeinstanz anfechten
+(Art. 393 Abs. 1 lit. c in Verbindung mit Art. 222 der Strafprozessordnung [StPO,
+SR 312.0]). Zuständiges Beschwerdegericht ist das Appellationsgericht als Einzelgericht
+(§ 88 Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Das
+Rechtsmittel ist gemäss Art. 396 Abs. 1 StPO innert zehn Tagen nach Eröffnung des
+Entscheids schriftlich und begründet bei der Beschwerdeinstanz einzureichen. Die
+vorliegende Beschwerde ist form- und fristgerecht eingereicht worden, sodass
+darauf einzutreten ist. Die Kognition des Beschwerdegerichts ist nach
+Art. 393 Abs. 2 StPO frei und nicht auf Willkür beschränkt.
+
+2.
+
+2.1 Die
+Verteidigung rügt in formeller Hinsicht vorab eine Verletzung des rechtlichen
+Gehörs. Sie bringt vor, das Zwangsmassnahmengericht wäre verpflichtet gewesen,
+den Beschwerdeführer persönlich anzuhören und sich ein eigenes Bild zu den
+geltend gemachten Haftgründen bzw. Gefahren zu machen. Zudem seien dem
+Beschwerdeführer im Haftverlängerungsverfahren keine Akten zur Verfügung gestellt
+worden. Er habe diese anlässlich der Verhandlung vor dem
+Zwangsmassnahmengericht einsehen wollen. Folglich sei die angefochtene Verfügung,
+sofern seinem (Eventual-)Antrag nicht stattgegeben werde, subeventualiter
+aufzuheben.
+
+2.2 Ein
+Haftverlängerungsverfahren vor dem Zwangsmassnahmengericht ist grundsätzlich
+schriftlich. Es besteht weder ein grundrechtlicher noch ein gesetzlicher
+Anspruch auf mündliche Verhandlung bzw. Anhörung der beschuldigten Person ( Forster , in: Basler Kommentar, 2.
+Auflage 2014, Art. 227 StPO N 13). Die Garantien nach Art. 31 Abs. 3 der Bundesverfassung
+der Schweizerischen Eidgenossenschaft (BV, SR 101) und Art. 5 Ziff. 1 der Europäischen
+Menschenrechtskonvention (EMRK, SR 0.101) beziehen sich nur auf das Verfahren
+bei der (erstmaligen) Inhaftierung ( Frei/Zuberbühler
+Elsässer , in: Donatsch et al. [Hrsg. ] ,
+Kommentar zur Schweizerischen Strafprozessordnung StPO, 3. Aufl. 2020, Art. 227
+N 12 mit Hinweisen). Nur «[w]enn es sich zur haftrechtlichen Wahrheitsfindung
+aufdrängt», kann das Zwangsmassnahmengericht eine Verhandlung
+durchführen. Dies kann etwa der Fall sein, wenn (ausnahmsweise) eine
+Beweiserhebung geboten oder die Begründung eines Haftverlängerungsgesuchs
+unklar scheint ( Forster , a.a.O.,
+mit Hinweisen; vgl. auch BGer 1B_84/2018 vom 28. Februar 2018 E. 2.2).
+
+Dies ist
+vorliegend nicht der Fall. Insbesondere ist festzuhalten, dass von einer
+Verhandlung keine neuen Erkenntnisse zu erwarten gewesen wären. Das
+Zwangsmassnahmengericht hatte mit Verfügung vom 9. Dezember 2022 die
+Untersuchungshaft unter anderem mit der Begründung angeordnet, es müsse ein
+Vorabgutachten zur damals vermuteten Ausführungsgefahr eingeholt werden (act.
+5, Ordner 1/5, PDF S. 208). Nachdem die Staatsanwaltschaft dem Zwangsmassnahmengericht
+mit Gesuch vom 30. Januar 2023 die Haftverlängerung beantragt hatte (act. 5,
+Ordner 1/5, PDF S. 214 ff.), wurde die erst am Abend des 30. Januar 2023
+erhaltene und von Dr. med. [...] erstellte gutachterliche
+Vorabstellungnahme der Universitären Psychiatrischen Kliniken Basel
+(nachfolgend: Vorabgutachten der UPK) der Verteidigung mit gleichtägiger
+Verfügung der Staatsanwaltschaft unmittelbar zugestellt und gleichzeitig dem
+Zwangsmassnahmengericht für die Prüfung der Haftverlängerung nachgereicht (act.
+5, Ordner 1/5, PDF S. 158). Mit Eingabe vom 1. Februar 2023 liess sich der
+Beschwerdeführer  in Kenntnis des Vorabgutachtens der UPK  zum
+Haftverlängerungsgesuch der Staatsanwaltschaft vernehmen (act. 5, Ordner 1/5,
+PDF S. 225).
+
+Da sich damit alle
+wesentlichen Angaben den Akten entnehmen liessen, ist es nicht zu beanstanden,
+dass die Vorinstanz in Anwendung von Art. 227 Abs. 6 StPO entgegen dem Antrag
+des Beschwerdeführers auf die Durchführung einer Verhandlung verzichtet hat.
+
+2.3 Im
+Übrigen hätte die Verteidigung jederzeit ein Akteneinsichtsgesuch stellen
+können. So wurde ihr die im Nachhinein mit Schreiben vom 3. Februar 2023
+beantragte Akteneinsicht in die «gesamten, aktualisierten Strafakten» ohne
+weiteres bewilligt (act. 5, Ordner 1/5, PDF S. 159). Der Beschwerdeführer macht
+nicht geltend  und es ist auch sonst nicht ersichtlich  inwiefern er im
+Zeitpunkt seiner Stellungnahme zum Haftverlängerungsgesuch der
+Staatsanwaltschaft nicht über die vollständigen aktualisierten Strafakten
+verfügt hätte bzw. welche Aktenstücke ihm vorgehalten worden wären.
+
+2.4 Eine
+Verletzung des Anspruchs auf rechtliches Gehör durch das
+Zwangsmassnahmengericht ist daher zu verneinen. Die Beschwerde erweist sich in
+diesem Punkt als unbegründet.
+
+3. Die
+Verlängerung von Untersuchungshaft ist nach Art. 221 Abs. 1 StPO zulässig, wenn
+die beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig
+ist und zudem Flucht-, Kollusions- oder Fortsetzungsgefahr besteht. Haft ist
+auch zulässig, wenn ernsthaft zu befürchten ist, eine Person werde ihre
+Drohung, ein schweres Verbrechen auszuführen, wahrmachen (Abs. 2). Die Haft
+muss verhältnismässig sein. Sie ist aufzuheben, sobald Ersatzmassnahmen zum
+gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c StPO), und
+darf nicht länger dauern als die zu erwartende Freiheitsstrafe (Art. 212 Abs. 3
+StPO).
+
+4.
+
+Der
+Beschwerdeführer bestreitet den dringenden Tatverdacht nicht. Er rügt jedoch,
+die Vorinstanz habe die besonderen Haftgründe der Fortsetzungs- resp. Wiederholungs-
+und Ausführungsgefahr zu Unrecht bejaht.
+
+4.1 Gemäss
+Art. 221 Abs. 1 lit. c StPO liegt Wiederholungsgefahr vor, wenn die
+beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist
+und ernsthaft zu befürchten ist, dass sie durch schwere Verbrechen oder
+Vergehen die Sicherheit anderer erheblich gefährdet, nachdem sie bereits früher
+gleichartige Straftaten verübt hat. Es sind somit drei Elemente für das
+Vorliegen von Wiederholungsgefahr konstitutiv: Erstens muss grundsätzlich das
+Vortatenerfordernis erfüllt sein und es müssen schwere Vergehen oder Verbrechen
+drohen. Zweitens muss hierdurch die Sicherheit anderer erheblich gefährdet
+sein. Drittens muss die Tatwiederholung ernsthaft zu befürchten sein, was
+anhand einer Rückfallprognose zu beurteilen ist (BGE 146 IV 136 E. 2.2; 143 IV
+9 E. 2.5; BGer 1B_9/2023 vom 26. Januar 2023 E. 4.2.1).
+
+4.1.1 Das
+Zwangsmassnahmengericht erwog, es bestehe aufgrund der Geständigkeit des
+Beschwerdeführers und der Aktenlage eine erdrückende Beweislage hinsichtlich
+der ihm vorgeworfenen Delikte, wobei es sich bei der (versuchten) Erpressung um
+ein Verbrechen und bei den Drohungen um ein schweres Vergehen handle. Der
+Beschwerdeführer habe die Geschädigte und weitere Familienangehörige in hoher
+Kadenz und gar mit dem Tode bedroht. Es sei bei dieser Ausgangslage anzunehmen,
+dass er seine deliktische Tätigkeit fortgeführt hätte, wäre es nicht zu seiner
+Verhaftung gekommen. Es sei nachvollziehbar, dass sich die Geschädigte aufgrund
+der Vielzahl der schweren Drohungen in ihrem Sicherheitsgefühl beeinträchtigt
+gefühlt und grosse Angst gehabt habe und es sei angesichts der ungünstigen
+Rückfallprognose in Bezug auf künftige Delikte gegen die Freiheit und das
+Vermögen wie Drohungen und Erpressungen auch künftig von einer erheblichen
+Sicherheitsgefährdung seitens des Beschwerdeführers auszugehen.
+
+4.1.2 In
+Bezug auf das Vortatenerfordernis macht die Verteidigung geltend, der aktuelle
+strafrechtliche Vorwurf könne nur dann ausnahmsweise als «Vortat» in Frage
+kommen, wenn es im Strafverfahren mit an Sicherheit grenzender
+Wahrscheinlichkeit zu einem Schuldspruch komme. Davon könne im vorliegenden
+Verfahren nicht ausgegangen werden, zumal unklar sei, ob die konkret erfolgte
+Anschlussinhaberermittlung (Zusendung eines Links, der durch den
+Beschwerdeführer angeklickt werden sollte) eine zulässige
+Beweiserhebungsmethode gewesen sei. Da sämtliche Beweise gegen den
+Beschwerdeführer (inkl. seiner Einvernahmen) Folgebeweise dieses sog. «IP-Tracking»
+gewesen seien, sei deren Verwertbarkeit fraglich (Beschwerde, act. 2, S. 5 f.).
+
+Diesbezüglich
+ist zunächst anzumerken, dass die Erhebung der IP-Adresse von dem auf dem
+betreffenden Hoheitsgebiet zuständigen Amtsgericht Freiburg (D) mit Beschluss
+vom 4. November 2022 genehmigt worden ist, womit die Beweiserhebung jedenfalls
+nicht von vornherein unverwertbar erscheint (es kann diesbezüglich auf die
+weitergehenden Ausführungen der Staatsanwaltschaft in ihrer Stellungnahme zur
+Beschwerde verwiesen werden, act. 3, S. 1 f.). Ob dieser Beweis und die daraus
+resultierenden Folgebeweise tatsächlich verwertbar sind, wird aber ohnehin erst
+das zuständige Sachgericht zu entscheiden haben. Diese Frage ist für die
+vorliegend zu beurteilende Frage der Wiederholungsgefahr bzw. des Vortatenerfordernisses
+(noch) nicht massgebend. Der Nachweis, dass die beschuldigte Person eine
+Straftat verübt hat, gilt bei einem glaubhaften Geständnis wie im vorliegenden
+Fall als erbracht (BGE 143 IV 9 E. 2.3.1; BGer 1B_9/2023 vom 26. Januar
+2023 E. 4.2.1). Entgegen dem Vorbringen der Verteidigung kann in diesem
+Zusammenhang denn auch einzig relevant sein, ob die Straftatbegehung mit an
+Sicherheit grenzender Wahrscheinlichkeit feststeht, was vorliegend zu bejahen
+und auch nicht bestritten ist (siehe E. 4), und nicht, ob die Straftatbegehung letztendlich
+mit an Sicherheit grenzender Wahrscheinlich zu einem Schuldspruch bzw. einer
+Strafverurteilung führen wird.
+
+Das
+Vortatenerfordernis ist hinsichtlich der zugestandenen mehrfachen Drohung und
+der ebenfalls zugestandenen mehrfachen versuchten Erpressung damit erfüllt.
+
+4.1.3 Der
+Beschwerdeführer macht weiter geltend, die konkret von ihm ausgehende
+Gefährlichkeit sei den Tatumständen der Anlasstat zu entnehmen. Bei dieser
+seien keine besonders geschützten Rechtsgüter wie die körperliche und sexuelle
+Integrität betroffen gewesen. Betroffen sei lediglich die psychische Integrität
+der Geschädigten gewesen. Er habe keinerlei tatsächliche Gewalt ausgeübt und er
+sei in Bezug auf Gewalt- und/oder Sexualdelikte weder vorbestraft noch
+verdächtigt. Auch seien keine besonders schützenswerten Opfergruppen (wie etwa
+Kinder) von der Anlasstat betroffen gewesen. Bei einer Würdigung der gesamten
+Umstände sei fraglich, ob schwere Delikte drohen würden.
+
+Die Einstufung
+eines Vergehens als schwer im Sinne von Art. 221 Abs. 1 lit. c StPO setzt
+zunächst voraus, dass abstrakt eine Freiheitsstrafe angedroht ist. Dies ist
+sowohl in Bezug auf die mehrfache Drohung (der Strafrahmen von Art. 180 Abs. 1
+StGB sieht eine Freiheitsstrafe bis zu 3 Jahren vor) wie auch in Bezug auf die
+(versuchte) Erpressung (Art. 156 Abs. 1 StGB sieht eine Freiheitsstrafe
+bis zu fünf Jahren vor) der Fall. Hinsichtlich der zu beurteilenden Tatschwere
+ist weiter die Intensität des Eingriffs in das verletzte Rechtsgut zu
+berücksichtigen, wobei sich die damit einhergehende erhebliche
+Sicherheitsgefährdung  entgegen den Einwänden der Verteidigung  grundsätzlich
+auf Rechtsgüter jeder Art beziehen kann (BGE 146 IV 136 E. 2.2, 143 IV 9
+E. 2.6 bis 2.7; je mit Hinweisen; BGer 1B_9/2023 vom 26. Januar 2023
+E. 4.2.1, 1B_449/2017 vom 13. November 2017 E. 3.3.3).
+
+Drohungen und
+insbesondere Todesdrohungen, können die Sicherheitslage einer Person erheblich
+beeinträchtigen und sind als «schwere» Vergehen zu qualifizieren, die die
+Annahme von Wiederholungsgefahr im Sinne von Art. 221 Abs. 1 lit. c StPO
+rechtfertigen (so explizit in BGer 1B_449/2017 vom 13. November 2017 E. 3.3.3
+mit weiteren Hinweisen; Frei/Zuberbühler
+Elsässer , in: Donatsch et al. [Hrsg. ] ,
+Kommentar zur Schweizerischen Strafprozessordnung StPO, 3. Aufl. 2020, Art. 221
+N 34). Gleiches muss in Bezug auf die  mit einem höheren Strafrahmen
+geahndete  Erpressung gelten. Dies gilt vorliegend erst recht angesichts des
+Ausmasses und der Intensität der Rechtsgutverletzungen über einen relativ
+langen Zeitraum von knapp drei Monaten: Die an die Geschädigte gerichteten
+Nachrichten des Beschwerdeführers enthielten nicht nur detaillierte Todes- bzw.
+massive Morddrohungen, sondern ihr wurden dabei auch konkrete Foltermethoden
+und Vergewaltigungsszenarien in Aussicht gestellt (vgl. die Wortwahl der
+Staatsanwaltschaft in ihrem Antrag auf Anordnung von Untersuchungshaft vom 8.
+Dezember 2022, act. 5, Ordner 1/5, PDF S. 201, wonach die Briefe und
+E-Mails u.a. aussergewöhnliche «Folterfantasien» beinhaltet hätten). Es kann in
+Bezug auf die relevanten Auszüge der Drohbriefe und E-Mails des
+Beschwerdeführers auf die zusammenfassende Darstellung im Vorabgutachten der
+UPK verwiesen werden (act. 5, Ordner 1/5, PDF S. 105 ff.). Hiernach habe er die
+Geschädigte, Dr. B____, etwa bewusst mit dem Namen «[...]» angeschrieben, weil
+er sie «Stück für Stück» schneiden und ganz langsam umbringen werde. Zuerst
+werde er sie tagelang vergewaltigen, sie «ficken bis zum Gehtsnichtmehr», bis
+sie [] aus ihrem «Arschloch» nur noch blute. Sie werde mit ihrem Leben
+zurückzahlen, was sie ihm genommen habe. Sie werde lebend «sterben spüren», er
+werde ihre Ohren schneiden, die Brüste schneiden und sie werde bitten, dass er
+sie schneller töten solle. Er werde ihr «arsch Loch mit einem ziemlich langen
+Messer ganz schön auskratzen» und ihre «Muschi mit dem Kabel ganz schön
+elektrisieren». Zudem werde er nicht nur sie, sondere ihre Familie töten. Auch
+die Erpressung bezog sich auf das Leben der Geschädigten: Sie könne mit ihrem
+Leben  oder mit EUR 250'000. zahlen (vgl. zum Ganzen act. 5, Ordner 2/5, PDF
+S. 268 ff.).
+
+Ist angesichts
+der Anlasstat ernsthaft zu befürchten, dass der Beschwerdeführer die
+Geschädigte erneut erpressen und dabei erneut Drohungen dergleichen Art
+ausstossen würde,  ohne dass zugleich Anhaltspunkte dafür beständen, dass er
+darüber hinaus seine Drohungen in die Tat umsetzen würde (hierzu sogleich, E.
+4.2) , ist damit die zweite Voraussetzung für die Annahme des Haftgrunds der
+Wiederholungsgefahr, nämlich die Gefahr neuer schwerer Vergehen, erfüllt.
+
+4.1.4 Schliesslich
+bringt der Beschwerdeführer in Bezug auf die Legal- bzw. Rückfallprognose vor,
+er sei nicht (einschlägig) vorbestraft. Er habe die Anlasstaten aus der
+Anonymität heraus begangen. Anlass sei die Verbitterung rund um seine
+Nierenspende an seinen Bruder gewesen und seine Einschätzung, dass er durch die
+Geschädigte ungerecht behandelt worden sei, was  neben den körperlichen
+Beschwerden  auch noch zu finanziellen Problemen geführt habe. Er sei aber
+fähig, gemäss seiner Einsicht zu handeln, und leide auch nicht unter einer
+erheblichen psychischen Störung. Es gebe keinen Anhaltspunkt, dass es sich um
+mehr als leere Drohungen habe handeln können. Die vermeintliche Anonymität
+bestehe nun nicht mehr und es gebe  nach Aufdeckung seiner Identität  keine
+Hinweise für weitere Drohungen. Der Beschwerdeführer gebe an, seine Drohungen
+zu bereuen und halte keinesfalls an diesen fest. Auch müsse die Warnwirkung der
+ausgestandenen Untersuchungshaft von mittlerweile über zwei Monaten
+berücksichtigt werden. Das Vorabgutachten äussere sich zur Ausführungsgefahr
+bzw. zur Gefahr der tatsächlichen Umsetzung der früher ausgestossenen
+Drohungen, weshalb es zur Legalprognose im Rahmen der Fortsetzungsgefahr nicht
+herangezogen werden könne.
+
+Zur Annahme
+einer Wiederholungsgefahr im Sinne von Art. 221 Abs. 1 lit. c StPO muss die
+Rückfallprognose ungünstig sein. Massgebende Kriterien bei der
+Beurteilung der Rückfallgefahr sind insbesondere die Häufigkeit und Intensität
+der untersuchten Delikte sowie die einschlägigen Vorstrafen. Bei der Bewertung
+sind allfällige Aggravationstendenzen, wie eine zunehmende Eskalation
+respektive Gewaltintensität oder eine raschere Kadenz der Taten, zu
+berücksichtigen. Zu würdigen sind des Weiteren die persönlichen Verhältnisse
+der beschuldigten Person. Je schwerer die drohenden Taten sind und je höher die
+Gefährdung der Sicherheit anderer ist, desto geringere Anforderungen sind an
+die Rückfallgefahr zu stellen (BGE 146 IV 326 E. 3.1; 143 IV 9 E. 2.8;
+Urteil 1B_187/2022 vom 5. Mai 2022 E. 3.2; BGer 1B_9/2023 vom 26. Januar 2023
+E. 4.2.1).
+
+Zunächst ist
+festzustellen, dass die Drohungen des Beschwerdeführers im fraglichen Zeitraum
+von September bis anfangs Dezember 2022 innert relativ Zeit massiv zugenommen
+und an Intensität gewonnen haben. Zuletzt war davon nicht mehr nur die
+Geschädigte selber, sondern deren ganze Familie betroffen (siehe hierzu act. 5,
+Ordner 2/5, PDF S. 268 ff., sowie die zusammenfassende Darstellung im
+Vorabgutachten der UPK, act. 5, Ordner 1/5, PDF S. 105 ff.). Der
+Beschwerdeführer, der sich nach seinem Geständnis zwar von seinen Taten zu distanzieren
+versuchte, gab immerhin an, während dem Verfassen seiner E-Mails an die
+Geschädigte «Genugtuung» verspürt zu haben. Erst danach sei es ihm jeweils
+schlecht gegangen. Im Rahmen der forensisch-psychiatrischen
+Untersuchungsgespräche räumte er denn auch explizit ein, dass er tatsächlich weitere
+Drohschreiben verfasst hätte, wenn er nicht von der Polizei gefasst worden wäre
+(Vorabgutachten der UPK, act. 5, Ordner 1/5, PDF S. 111). Dass er dies bei
+einer allfälligen Freilassung nunmehr einzig deshalb unterlassen würde, weil er
+seine Anonymität verloren habe, ist nicht anzunehmen, nachdem sich die 
+inzwischen diagnostizierte  Verbitterung des Beschwerdeführers speziell
+gegenüber der Geschädigten mit der nun erfolgten Inhaftierung jedenfalls nicht
+abgeschwächt haben dürfte. Schliesslich vermochten auch seine bisherigen
+Schuldgefühle (gemäss eigener Aussage habe er sich nach dem jeweiligen
+Mail-Versand schlecht gefühlt) ihn bislang nicht von weiteren Drohnachrichten
+abzuhalten. Im Übrigen  und insoweit kann entgegen den Ausführungen der
+Verteidigung durchaus auf das Vorabgutachten der UPK abgestellt werden 
+schliesst die Gutachterin aufgrund der diagnostizierten «affektgeladene[n]
+Verbitterungstörung» des Beschwerdeführers auf eine ungünstige Risikokonstellation
+hinsichtlich der Ausführung der vom Beschwerdeführer angedrohten (sexuellen)
+Gewaltstraftaten. Wenn  nota bene trotz fehlender Anonymität  gar die
+Ausführung der androhten Taten ernsthaft befürchtet werden muss (dazu sogleich,
+E. 4.2), so ist im Affekt a maiore ad minus auch in Bezug auf weitere
+(massive) Drohungen und Erpressungsversuche auf eine ebenso schlechte
+Rückfallprognose des Beschwerdeführers zu schliessen.
+
+Damit ist auch
+die dritte und letzte Voraussetzung betreffend die ungünstige Rückfallprognose
+zur Annahme einer Wiederholungsgefahr erfüllt.
+
+4.2 Grundsätzlich
+genügt das Vorliegen eines besonderen Haftgrundes, hier der Wiederholungsgefahr,
+und könnte die Frage nach weiteren Haftgründen offengelassen werden. Die
+Vorinstanz hat indessen auch die Ausführungsgefahr gemäss Art. 221 Abs. 2
+StPO bejaht. Eine solche besteht, wenn ernsthaft zu befürchten ist, eine Person
+werde ihre Drohung, ein schweres Verbrechen auszuführen, wahrmachen. Die Haft
+zielt diesfalls nicht auf Repression, sondern auf Prävention ab und verlangt
+keinen Tatverdacht hinsichtlich eines bereits verübten Verbrechens oder
+Vergehens. Er setzt aber ein ernsthaft drohendes schweres Verbrechen voraus,
+wobei die Drohung, ein schweres Verbrechen auszuführen, auch konkludent
+erfolgen kann. Erforderlich ist eine sehr ungünstige Risikoprognose. Die
+Wahrscheinlichkeit einer Ausführung muss aufgrund einer Gesamtbewertung der
+persönlichen Verhältnisse sowie der Umstände als sehr hoch erscheinen. Besonders
+bei drohenden schweren Gewaltverbrechen ist dabei auch dem psychischen Zustand
+der verdächtigen Personen bzw. ihrer Unberechenbarkeit oder Aggressivität
+Rechnung zu tragen (BGE 137 IV 122 E. 5.2, 123 I 268 E. 2e). Bei einer
+befürchteten versuchten Tötung darf an die Annahme der Ausführungsgefahr kein
+allzu hoher Massstab angelegt werden. Anders zu entscheiden hiesse, das
+potenzielle Opfer einem nicht verantwortbaren Risiko auszusetzen (BGE 123 I 268
+E. 2e; BGer 1B_432/2022 vom 8. September 2022 E. 2 a.E.; Frei/Zuberbühler Elsässer , a.a.O., Art.
+221 N 44).
+
+4.2.1 Die
+Vorinstanz erwog, die Gutachterin komme in ihrer Vorabstellungnahme vom 30.
+Januar 2023 zum Schluss, dass gemäss vorläufiger gutachterlicher Einschätzung
+in der Zusammenschau aus der Erschütterung des Wertesystems des
+Beschwerdeführers im Nachgang an die Nierenspende im Jahre 2010 sowie der
+weiteren, aktenkundigen psychischen Symptom- und Lebensentwicklung über den
+Zeitraum der letzten ca. zwölf Jahre der Verdacht auf eine Verbitterungsstörung
+nach ICD-10 bestehe.  Bezüglich der Risikoeinschätzung komme die Gutachterin
+nach einer umfassenden Prüfung von Belastungsfaktoren und weiterer Aspekte zum
+Schluss, dass nach gegenwärtigem Erkenntnisstand, die Risikokonstellation
+hinsichtlich der Ausführung der vom Beschwerdeführer angedrohten (sexuellen)
+Gewaltstraftaten im Falle seiner Entlassung in ein offenes, unstrukturiertes
+Setting ohne jegliche Auflagen kurz- bis mittelfristig als ungünstig
+eingeschätzt werde.
+
+4.2.2 Die
+Verteidigung rügt zwar, die erforderliche «sehr ungünstige Prognose» bzw. das
+«sehr hohe» Ausführungsrisiko liege offensichtlich nicht vor und könne in
+statistischer Hinsicht nicht bestätigt werden. Hierbei klammert die
+Verteidigung jedoch die Tragweite der angedrohten Straftaten und die Schwere
+der vom Beschwerdeführer angedrohten Vergewaltigungen, Folter und Ermordung
+gänzlich aus. Je schwerer aber die angedrohte Straftat ist, desto eher
+rechtfertigt sich eine Inhaftierung, selbst wenn die vorhandenen Fakten keine
+genaue Risikoeinschätzung erlauben. Zudem darf bei Gewalttaten von der Schwere
+einer Tötung an die Annahme von Ausführungsgefahr  wie soeben ausgeführt (E.
+4.2)  kein allzu hoher Massstab gelegt werden.
+
+4.2.3 In
+Anbetracht dessen muss die forensisch-psychiatrische Schlussfolgerung, wonach
+das Risiko der Ausführung der vom Beschwerdeführer angedrohten (sexuellen)
+Gewaltstraftaten im Falle seiner Entlassung ohne Auflagen kurz- bis
+mittelfristig als ungünstig eingeschätzt werden, für die Annahme einer Ausführungsgefahr
+im Sinne von Art. 221 Abs. 2 StPO jedenfalls ausreichen. Dies gilt
+umso mehr, als sich die Beurteilung der Gefährlichkeit beim Haftgrund der
+Ausführungsgefahr nicht zwingend auf ein forensisch-psychiatrisches Gutachten
+zu stützen hat und vorliegend unter Umständen schon allein aufgrund des
+expliziten Inhalts der vom Beschwerdeführer verfassten Nachrichten auf eine
+entsprechend ungünstige Prognose zu schliessen gewesen wäre, kündigte er doch
+die baldige Tatausführung mehrmals an und liess er die Geschädigte dabei
+wissen, dass er nichts mehr zu verlieren habe bzw. er auch ruhig ins Gefängnis
+gehen könne (act. 5, Ordner 2/5, PDF S. 294 und 305).
+
+4.3 Zusammenfassend
+sind die Haftgründe der Wiederholungs- und Ausführungsgefahr vorliegend mit der
+Vorinstanz zu bejahen.
+
+5.
+
+Das
+Zwangsmassnahmengericht hat schliesslich auch die Verhältnismässigkeit der Haft
+bejaht, welche vom Beschwerdeführer wiederum bestritten wird.
+
+5.1 Unter
+dem Titel der Verhältnismässigkeit ist eine Abwägung zwischen den Interessen
+des Beschwerdeführers an der Wiedererlangung seiner Freiheit und den
+entgegenstehenden Interessen des Staates an der Gewährleistung der öffentlichen
+Sicherheit und Ordnung sowie an einer wirksamen Verfolgung seines
+Strafanspruchs vorzunehmen. Die Untersuchungshaft ist aufzuheben, sobald
+Ersatzmassnahmen zum gleichen Ziel führen (Art. 197 Abs. 1 lit. c und
+Art. 212 Abs. 2 lit. c StPO). Die Dauer der Haft darf auch nicht in grosse
+Nähe der konkret zu erwartenden Strafe rücken (Art. 212 Abs. 3 StPO; vgl. BGE
+145 IV 179 E. 3.1; 143 IV 168 E. 5.1).
+
+5.2 Der
+Beschwerdeführer bringt vor, der Ausführungsgefahr liesse sich mit den von der
+Gutachterin vorgeschlagenen Ersatzmassnahmen (einem allenfalls kontrollierten
+Kontakt- und Rayonverbot, Bewährungshilfe, Einziehung des
+Führerausweise/Fahrverbot, Waffenverbot, Auflage zu ambulanter
+forensischer-psychiatrischer Behandlung und kontrollierter Suchtmittelabstinenz)
+hinreichend vermindern. Auch sei ein Kontaktverbot eine geeignete
+Ersatzmassnahme, um die Gefahr von neu ausgesprochenen Drohungen im Rahmen der
+Wiederholungsgefahr zu mindern, zumal bei einer erneuten Drohung wiederum Haft
+drohe, was ihm klar sei.
+
+5.3 Der
+Beschwerdeführer verkennt, dass gemäss Vorabgutachten noch nicht valide
+beurteilt werden kann, inwiefern er sich an allfällige Ersatzmassnahmen halten
+werde (act. 5, Ordner 1/5, PDF S. 120). So empfiehlt die Gutachterin  im Falle
+einer Entlassung des Beschwerdeführers aus der Haft  ausdrücklich auch, soweit
+möglich Opferschutzmassnahmen zugunsten der Geschädigten zu etablieren (a.a.O.),
+was kaum angezeigt gewesen wäre, wenn insbesondere der Ausführungsgefahr
+aktuell mit entsprechenden Ersatzmassnahmen hinreichend Rechnung getragen
+werden könnte. Diesbezüglich bleibt der Abschluss der Begutachtung abzuwarten.
+Sofern die Gutachterin sich in ihrem abschliessenden Gutachten klarer für
+Ersatzmassnahmen ausspricht und sich darin legalprognostisch positive
+Veränderungen abzeichnen, könnte damit allenfalls  unter Vorbehalt, dass ein
+engmaschiges Betreuungs- und Behandlungssetting in der verbleibenden Haftzeit rechtzeitig
+etabliert werden kann  eine weitere Haftverlängerung verhindert werden. Zum
+aktuellen Zeitpunkt erweisen sich Ersatzmassnahmen, auch in deren Kombination,
+jedenfalls (noch) nicht als ausreichend um der Wiederholungs- und
+Ausführungsgefahr ausreichend Rechnung zu tragen.
+
+5.4 Wie
+die Vorinstanz richtig ausführt  und von der Verteidigung insoweit auch nicht
+bestritten wird , ist die mit dem angefochtenen Entscheid angeordnete
+Verlängerung der strafprozessualen Haft um weitere sechs Wochen auf insgesamt
+3 ½ Monate auch noch nicht in grosse Nähe der im Falle eines Schuldspruchs
+zu erwartenden freiheitsentziehenden Sanktion gerückt.
+
+5.5 Mit
+der Vorinstanz und der Staatsanwaltschaft ist im Ergebnis festzuhalten, dass
+die bis zum 17. März 2023 angeordnete Untersuchungshaft weiterhin unter allen
+Aspekten verhältnismässig ist. Der zwischenzeitlich bekannt gewordene Todesfall
+der Mutter des Beschwerdeführers ist zwar selbstverständlich traurig und
+einschneidend, vermag aber an den obigen Ausführungen nichts zu ändern, selbst
+wenn der Beschwerdeführer an der Beisetzung seiner Mutter am [...]. März 2023
+auf dem Friedhof Hörnli nicht teilnehmen könnte. Darüber würde  auf
+entsprechendes Gesuch hin  die Verfahrensleitung entscheiden, wobei das
+Verlassen der Anstalt diesfalls nur unter polizeilicher Begleitung erfolgen
+darf.
+
+6.
+
+6.1 Aus
+dem Gesagten ergibt sich, dass die Beschwerde abzuweisen ist. Bei diesem
+Ausgang des Verfahrens hat der Beschwerdeführer grundsätzlich dessen
+ordentliche Kosten mit einer Gebühr von CHF 500. zu tragen (Art. 428 Abs. 1
+StPO in Verbindung mit § 21 Abs. 2 des Gerichtsgebührenreglements [GGR, SG
+154.810]). Über die definitive Auferlegung der Kosten ist allerdings erst mit
+dem Sachentscheid zu befinden (Art. 421 Abs. 1 StPO).
+
+6.2 Dem
+Beschwerdeführer ist für das vorliegende Beschwerdeverfahren die amtliche
+Verteidigung zu bewilligen. Da keine Honorarnote eingereicht wurde, ist der
+Aufwand von [...] zu schätzen. In Anbetracht des doppelten Schriftenwechsels
+erscheint ein Aufwand von praxisgemäss sechs Stunden bei einem Stundenansatz
+von CHF 200. (einschliesslich Auslagen, zuzüglich Mehrwertsteuer) als
+angemessen. Der Entscheid über eine allfällige Rückforderung gemäss Art. 135
+Abs. 4 StPO wird dem Sachentscheid vorbehalten.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Gerichtsgebühr für das Beschwerdeverfahren wird auf
+CHF 500. (einschliesslich Auslagen) festgelegt und der Staatsanwaltschaft als
+verfahrensleitender Behörde in Rechnung gestellt. Die definitive Regelung der
+Kostenauflage wird dem Sachentscheid vorbehalten.
+
+Dem amtlichen Verteidiger, [...], wird für das
+Beschwerdeverfahren ein Honorar von CHF 1200. (inklusive allfällige
+Auslagen), zuzüglich 7,7 % MWST von CHF 92.40, insgesamt also CHF 1'292.40, aus
+der Gerichtskasse ausgerichtet. Der Entscheid über eine allfällige
+Rückforderung gemäss Art. 135 Abs. 4 StPO wird dem Sachentscheid vorbehalten.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Zwangsmassnahmengericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+lic. iur. Marc
+Oser                                                      Dr. Noémi Biro
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung kann gegen den Entscheid betreffend ihre Entschädigung für das
+zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b der
+Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom
+30. Oktober 2014).
