@@ -1,0 +1,356 @@
+---
+decision_id: "bs_appellationsgericht_AG.2022.751"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "HB"
+docket: "HB.2022.60"
+docket_2: "AG.2022.751"
+decided: "2022-12-14"
+published: "2023-12-01"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74366&W10_KEY=3048518&nTrefferzeile=343&Template=search_result_document.html"
+cites_decisions: ["1B_117/2012", "6B_360/2014", "BGE 133 I 270", "HB.2022.45", "HB.2022.52", "HB.2022.60"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md"]
+---
+
+# Verlängerung der Untersuchungshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+HB.2022.60
+
+ENTSCHEID
+
+vom 14.
+Dezember 2022
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiberin
+lic. iur. Mirjam Kündig
+
+Beteiligte
+
+A____ , geb. [...]                                                            
+Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt,                            Beschuldigter
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Zwangsmassnahmengerichts
+
+vom 23. November 2022
+
+betreffend Verlängerung der
+Untersuchungshaft
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft Basel-Stadt führt gegen den seit dem 28. September 2022
+inhaftierten A____ eine Strafuntersuchung wegen Verdachts auf Angriff,
+versuchte schwere Körperverletzung und Hausfriedensbruch. Auf Antrag der Staatsanwaltschaft
+vom 18. November 2022 hin verfügte das Zwangsmassnahmengericht am 23. November
+2022 die Verlängerung der Untersuchungshaft für die vorläufige Dauer von sechs
+Wochen bis zum 6. Januar 2023.
+
+Gegen diese
+Verfügung hat A____ (nachfolgend: Beschwerdeführer), vertreten durch [...], am 4.
+Dezember 2022 Beschwerde beim Appellationsgericht erhoben und die kosten- und
+entschädigungsfällige Aufhebung der angefochtenen Verfügung sowie seine unverzügliche
+Haftentlassung beantragt. Zudem sei ihm für das Beschwerdeverfahren die
+amtliche Verteidigung zu bewilligen. Mit Stellungnahme vom 8. Dezember 2022 beantragte
+die Staatsanwaltschaft die kostenfällige Abweisung der Haftbeschwerde, soweit
+darauf einzutreten sei. Hierzu replizierte der Beschwerdeführer am 9. Dezember
+2022.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten ergangen. Die entscheidrelevanten Einzelheiten
+der Parteistandpunkte ergeben sich aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+verhaftete Person kann Entscheide des Zwangsmassnahmengerichts über die Verlängerung
+von Untersuchungshaft mit Beschwerde bei der Beschwerdeinstanz anfechten (Art.
+393 Abs. 1 lit. c in Verbindung mit Art. 222 der Strafprozessordnung [StPO, SR
+312.0]). Zuständiges Beschwerdegericht ist das Appellationsgericht als
+Einzelgericht (§ 88 Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Das
+Rechtsmittel ist nach Art. 396 Abs. 1 StPO innert zehn Tagen nach Eröffnung des
+Entscheids schriftlich und begründet bei der Beschwerdeinstanz einzureichen.
+Die vorliegende Beschwerde ist form- und fristgerecht eingereicht worden,
+sodass darauf einzutreten ist. Die Kognition des Beschwerdegerichts ist nach
+Art. 393 Abs. 2 StPO frei und nicht auf Willkür beschränkt.
+
+2.
+
+Die Anordnung
+von Untersuchungshaft ist nach Art. 221 Abs. 1 StPO zulässig, wenn die
+beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist
+und zudem Flucht-, Kollusions-, Fortsetzungs- oder Ausführungsgefahr besteht.
+Die Haft muss überdies verhältnismässig sein. Sie ist aufzuheben, sobald
+Ersatzmassnahmen zum gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art. 212
+Abs. 2 lit. c StPO) und darf nicht länger dauern als die zu erwartende
+Freiheitsstrafe (Art. 212 Abs. 3 StPO).
+
+3.
+
+Das Vorliegen
+des vom Zwangsmassnahmengericht angenommenen dringenden Tatverdachts bezüglich
+der dem Beschwerdeführer zur Last gelegten Delikte wird von ihm zwar weiterhin
+in Abrede gestellt, von der Verteidigung jedoch zu Recht nicht bestritten. Der
+aufgrund der Aussagen des Geschädigten und der Eltern des Beschwerdeführers
+bereits bestehende Tatverdacht ist durch die an der Tatwaffe sichergestellte
+DNA-Spur des Beschwerdeführers sowie die rückwirkende Teilneh-meridentifikation
+zusätzlich erhärtet worden. Im Übrigen kann auf die diesbezüglichen Ausführungen
+der Vorinstanz, die Verfügung des Zwangsmassnahmengerichts vom 16. November
+2022 sowie die Erwägungen im Entscheid des Appellationsgerichts HB.2022.45 vom 20.
+Oktober 2022 E. 3 verwiesen werden.
+
+4.
+
+4.1
+
+4.1.1 Die
+Vorinstanz hat den Haftgrund der Kollusionsgefahr bejaht. Es liege im
+Wesentlichen eine Aussage gegen Aussage-Konstellation vor, weil der vom
+Geschädigten auf einem Foto bezeichnete unbekannte Mittäter noch nicht habe
+eruiert werden können. Der Beschwerdeführer habe angesichts des schweren
+Tatvorwurfs ein gewichtiges Interesse an für ihn möglichst günstigen Aussagen
+des Geschädigten und des noch unbekannten Mittäters. Des Weiteren hat die
+Vorinstanz auf die in der Verfügung des Zwangsmassnahmengerichts vom 16.
+November 2022 gemachten Erwägungen verwiesen.
+
+4.1.2 Der
+Beschwerdeführer macht geltend, es liege eindeutig keine Kollusionsgefahr mehr
+vor. Sowohl der Geschädigte als auch der Beschwerdeführer und der mutmassliche
+Mittäter B____ seien mehrfach einvernommen worden. Das Ermittlungsverfahren der
+Staatsanwaltschaft sei grösstenteils abgeschlossen. Allfällige noch ausstehende
+Ermittlungen der Staatsanwaltschaft zielten nicht darauf ab, einen vom
+Geschädigten erstmals an seiner dritten Einvernahme erwähnten angeblichen weiteren
+Mittäter zu identifizieren, zumal dafür überhaupt kein Ermittlungsansatz
+bestehe. Vielmehr beabsichtige die Staatsanwaltschaft offenbar, den
+Beschwerdeführer bis zur Hauptverhandlung in Haft zu behalten, obwohl keine
+Kollusionsgefahr mehr bestehe; der unbekannte Dritte diene dabei als Vorwand. Hingegen
+sei B____, den die Staatsanwaltschaft weiterhin als Mittäter sehe, bereits
+entlassen worden, obwohl ein grosses Risiko bestehe, dass dieser sich mit dem
+unbekannten Dritten absprechen bzw. diesen warnen könnte. Schliesslich handle
+es sich auch nicht um eine Aussage gegen Aussage-Konstellation, lägen doch der
+DNA-Hit an der Metallstange sowie die rückwirkende Teilnehmeridentifikation als
+objektive Beweismittel vor.
+
+4.1.3 Zur
+Kollusionsgefahr macht die Staatsanwaltschaft geltend, solange der dritte
+unbekannte Täter nicht identifiziert sei, bestehe zwischen diesem und dem
+Beschwerdeführer weiterhin Kollusionsgefahr. Zwecks Ermittlung des unbekannten
+Mittäters sei das Mobiltelefon des Beschwerdeführers ein weiteres Mal zur
+Entsiegelung sichergestellt worden. Diesbezüglich wendet der Beschwerdeführer
+replicando ein, es gehe nicht an, dass sich die Staatsanwaltschaft über den
+Entscheid des Zwangsmassnahmengerichts vom 8. November 2022 betreffend
+verweigerte Entsiegelung hinwegsetze, indem sie erneut die Entsiegelung
+beantrage.
+
+4.1.4 Die
+Vorinstanz hat das Vorliegen von Kollusionsgefahr zu Recht bejaht. Der
+Beschwerdeführer bestreitet den Tatvorwurf nach wie vor. Zwar liegen inzwischen
+objektive Beweise vor (DNA-Hit auf der Tatwaffe und rückwirkende
+Teilnehmeridentifikation), welche die Teilnahme des Beschwerdeführers
+nachweisen. Weiterhin ungeklärt sind jedoch der Hintergrund der
+Auseinandersetzung und die Zuordnung der einzelnen Tathandlungen. In Bezug auf
+den Tatablauf im Einzelnen, die konkreten Tatumstände und die Vorgehensweise
+des Beschwerdeführers können nur die direkt an den Geschehnissen Beteiligten 
+wie der Geschädigte oder allenfalls der noch unbekannte Mittäter  Aussagen
+machen. Daraus folgt, dass die Aussagen des Geschädigten betreffend diese
+Punkte weiterhin zentral sind, weshalb die Vorinstanz zu Recht vom Vorliegen
+einer gewissen Aussage gegen Aussage-Konstellation ausgegangen ist. Entsprechend
+gross dürfte das Interesse des Beschwerdeführers an einer Einflussnahme auf das
+Aussageverhalten des Geschädigten auch weiterhin sein.
+
+Die Ermittlungen
+der Staatsanwaltschaft haben ergeben, dass der Beschwerdeführer sich zusammen
+mit B____ zur Tatzeit in unmittelbarer Nähe des Tatorts aufgehalten hat.
+Anlässlich seiner Einvernahme vom 2. November 2022 hat der Geschädigte B____ nicht
+als Beteiligten identifiziert, jedoch eine weitere Person als mutmasslichen
+dritten Täter auf einem Foto bezeichnet. Wie diese Aussagen des Geschädigten zu
+würdigen sein werden und ob aufgrund des Beweisergebnisses letztendlich von
+zwei oder drei Tätern auszugehen sein wird, obliegt dem urteilenden Sachgericht.
+Fest steht, dass der Geschädigte von Anfang an angegeben hat, der
+Beschwerdeführer habe nicht allein gehandelt. Die Vorinstanz geht somit
+zutreffend davon aus, dass es nach wie vor einen unbekannten Mittäter gibt, mit
+dem der Beschwerdeführer ebenfalls kolludieren könnte.
+
+Die
+Staatsanwaltschaft hat zur Identifikation des noch unbekannten Mittäters ein
+weiteres Mal die Entsiegelung des Mobiltelefons des Beschwerdeführers beantragt,
+was vom Beschwerdeführer als rechtsmissbräuchlich beanstandet wird. Gemäss der
+herrschenden Lehre sowie der höchstrichterlichen Rechtsprechung ist aber entgegen
+der Ansicht des Beschwerdeführers eine erneute Sicherstellung bzw. Entsiegelung
+von Aufzeichnungen oder Gegenständen nicht von vornherein ausgeschlossen.
+Massgeblich für die Zulässigkeit der erneuten Sicherstellung bzw. Entsiegelung
+ist eine Veränderung der rechtlichen oder tatsächlichen Verhältnisse oder auch
+nur ihrer Einschätzung durch die Strafbehörde seit der letzten Sicherstellung
+(vgl. Thormann/Brechbühl, in:
+Basler Kommentar zur Strafprozessordnung, 2. Auflage 2014, Art. 248 N 68 m.H.a.
+Art. 248 N 21; Keller, in:
+Donatsch/Lieber/Summers/Wohlers [Hrsg.], Kommentar zur Schweizerischen
+Strafprozessordnung, 3. Auflage, Zürich/Basel/Genf 2020, Art. 248 N 37 mit
+Hinweis auf Urteil BGer 1B_117/2012 vom 26. März 2012 E. 2.4). Dies dürfte
+vorliegend zu bejahen sein, womit sich durchaus ein Ansatz für weitere
+Ermittlungen ergibt. Indessen ist dies für die Annahme der Kollusionsgefahr im vorliegenden
+Fall nicht ausschlaggebend; die Verlängerung der Untersuchungshaft wurde denn von
+der Vorinstanz auch nicht allein mit der geplanten erneuten Entsiegelung des
+Mobiltelefons des Beschwerdeführers begründet.
+
+4.1.5 Zusammenfassend
+besteht insbesondere mit Blick auf den noch ungeklärten Tatbeitrag des
+Beschwerdeführers sowie die konkreten Tatumstände nach wie vor Kollusionsgefahr
+sowohl in Bezug auf den Geschädigten als auch mit dem noch unbekannten
+Mittäter.
+
+4.2
+
+4.2.1 Schliesslich
+wird mit der Beschwerde die Verhältnismässigkeit der verfügten
+Untersuchungshaft bestritten. Es sei davon auszugehen, dass der nicht
+einschlägig vorbestrafte Beschwerdeführer mit einer bedingten Strafe
+sanktioniert werde. Vor diesem Hintergrund sei die Untersuchungshaft von
+mittlerweile zweieinhalb Monaten unverhältnismässig. Dem Verteidiger sei am 10.
+November 2022 von KK [...] telefonisch mitgeteilt worden, es stünden keine
+weiteren Beweiserhebungen an. Es sei nicht nachvollziehbar, weshalb der Staatsanwaltschaft
+weitere sechs Wochen Zeit gegeben werden sollte, um Beweiserhebungen
+durchzuführen, welche wesentlich weniger Zeit in Anspruch nähmen und auf die im
+Übrigen der Beschwerdeführer keinerlei Einflussmöglichkeit habe.
+
+4.2.2 Die
+Staatsanwaltschaft macht geltend, es treffe nicht zu, dass seit dem 9. November
+2022 keine Beweiserhebungen mehr getätigt worden seien und der Abschluss der
+Ermittlungen unmittelbar bevorstehe. Die Ausfertigung der Anklageschrift nehme zudem
+weit mehr Zeit in Anspruch als vom Beschwerdeführer angenommen. Hinzu komme,
+dass den Parteien vorgängig noch eine Beweisantragsfrist einzuräumen sei. Dem
+Beschwerdeführer werde unter anderem versuchte schwere Körperverletzung
+vorgeworfen, für diesen Tatbestand sehe der Strafrahmen bis zu 10 Jahren
+Freiheitsstrafe vor. Die bisher ausgestandene und nun verlängerte
+Untersuchungshaft sei insbesondere unter Berücksichtigung der Tatumstände sowie
+der noch zu tätigenden Ermittlungsarbeiten längstens verhältnismässig.
+
+4.2.3 Die
+Vorinstanz hat die Untersuchungshaft statt der von der Staatsanwaltschaft
+beantragten acht Wochen um lediglich sechs Wochen verlängert. Dies erscheint
+mit Blick auf die von der Staatsanwaltschaft noch vorzunehmenden
+Beweiserhebungen (Auswertung des noch ausstehenden IRM-Gutachtens,
+Entsiegelungsverfahren sowie allfällige damit zusammenhängende weitere
+Ermittlungen, Beweisantragsfrist, Erstellung der Anklageschrift) durchaus angemessen.
+Aus der Aktennotiz des vom Verteidiger erwähnten Telefonats vom 10. November
+2022 ergibt sich in keiner Art und Weise, dass die Ermittlungen bereits
+abgeschlossen seien. Hinsichtlich der Haftdauer gilt es festzuhalten, dass sich
+der Beschwerdeführer seit dem 28. September 2022 und damit bis zum Ablauf
+der angefochtenen Haftverlängerung 14 Wochen in Untersuchungshaft befindet. Im
+Falle eines Schuldspruchs wegen versuchter schwerer Körperverletzung und
+Angriffs hat er mit einer Strafe zu rechnen, welche das Mass der ausgestandenen
+Haft deutlich übersteigen dürfte. Die Möglichkeit einer bedingten Sanktion
+spielt bei der Prüfung der Verhältnismässigkeit entgegen der Ansicht des
+Beschwerdeführers keine Rolle (BGE 133 I 270 E. 3.4.2; AGE HB.2022.52 vom 22.
+November 2022 E. 5.3). Die angeordnete Verlängerung der Untersuchungshaft
+erweist sich damit als klar verhältnismässig.
+
+5.
+
+5.1 Nach
+dem Gesagten ist die Beschwerde abzuweisen.
+
+5.2 Die
+Regelung der Kostenfolgen erfolgt erst im Endentscheid (Art. 421 Abs. 1 StPO).
+Die Gerichtsgebühr für das Beschwerdeverfahren ist zuhanden der das
+Strafverfahren abschliessenden Behörde in Beachtung von § 21 Abs. 2
+des Gerichtsgebührenreglements (GGR, SG 154.810) auf CHF 500., einschliesslich
+Auslagen, festzusetzen.
+
+5.3 Die
+beantragte amtliche Verteidigung für das Haftbeschwerdeverfahren wird bewilligt
+und der Verteidiger aus der Gerichtskasse entschädigt. Da der Verteidiger keine
+Honorarnote eingereicht hat, ist sein Aufwand zu schätzen und für den doppelten
+Schriftenwechsel auf sechs Stunden (inklusive Auslagen), zuzüglich
+Mehrwertsteuer festzusetzen. Der Beschwerdeführer ist nach Massgabe von
+Art. 135 Abs. 4 StPO rückzahlungspflichtig.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Über die Auferlegung der ordentlichen Kosten des
+Haftbeschwerdeverfahrens im Betrag von CHF 500. wird mit dem Urteil in der
+Sache entschieden.
+
+Dem amtlichen Verteidiger [...], werden für das
+Beschwerdeverfahren ein Honorar von 1'200. (inklusive Auslagen), zuzüglich
+7,7% MWST von CHF 92.40, insgesamt somit CHF 1'292.40, aus der Gerichtskasse
+zugesprochen. Art. 135 Abs. 4 StPO bleibt vorbehalten.
+
+Mitteilung an:
+
+-     Beschwerdeführer
+
+-     Staatsanwaltschaft Basel-Stadt
+
+-     Zwangsmassnahmengericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+lic. iur. Marc
+Oser                                                      lic. iur. Mirjam
+Kündig
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung und die unentgeltliche Vertretung der Privatklägerschaft können
+gegen einen allfälligen Entscheid betreffend ihre Entschädigung für das
+zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b der
+Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom
+30. Oktober 2014).
