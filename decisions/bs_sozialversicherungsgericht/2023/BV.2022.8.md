@@ -1,0 +1,288 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.67"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "BV"
+docket: "BV.2022.8"
+docket_2: "SVG.2023.67"
+decided: "2023-02-09"
+published: "2023-01-23"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74900&W10_KEY=3049208&nTrefferzeile=79&Template=search_result_document.html"
+cites_decisions: ["8C_780/2016", "9C_41/2012", "BGE 119 V 131", "BGE 126 V 143", "BGE 126 V 308", "BGE 141 V 162", "BGE 145 V 18", "BV.2022.8"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/831.40/art-006.md", "switzerland/bund/acts/831.40/art-015.md", "switzerland/bund/acts/831.40/art-023.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# Klage teilweise gutgeheissen. Verzugszins beträgt Reglement 1%.
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+Urteil der Präsidentin
+
+vom 9. Februar 2023
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch B____, c/o [...]
+
+Kläger
+
+C____
+
+[...]
+
+vertreten durch D____, [...]
+
+Beklagte
+1
+
+E____
+
+[...]
+
+Beklagte
+2
+
+Gegenstand
+
+BV.2022.8
+
+Leistungen aus beruflicher
+Vorsorge
+
+Klage teilweise gutgeheissen.
+Verzugszins beträgt Reglement 1%.
+
+Erwägungen:
+
+1.
+
+1.1. Der Kläger war von September 2011 bis zum 5. Dezember 2015 als
+Angestellter der F____ AG tätig und in dieser Eigenschaft bei der Beklagten 1 mit
+Sitz in [...] berufsvorsorgerechtlich versichert (vgl. Assessmentprotokoll vom
+30. März 2016, Klageantwortbeilage Beklagte 1 [KAB1]2, S. 2).
+
+1.2. Anschliessend war der Kläger gemäss Arbeitsvertrag vom 11. November
+2015 (Klagbeilage [KB] 11) vom 1. Januar 2016 bis 31. März 2019 als
+Angestellter der G____ AG tätig und bei der Beklagten 2 mit Sitz in [...] berufsvorsorgerechtlich
+versichert.
+
+1.3. Mit Verfügung vom 11. November 2019 sprach die Eidgenössische
+Invalidenversicherung (IV) dem Kläger eine ganze Invalidenrente vom 1. November
+2015 bis zum 31. Dezember 2016 zu. Vom 1. Januar 2017 bis am 31. Oktober 2017
+wurde die Rente wegen Erwerbstätigkeit eingestellt. Seit dem 1. November 2017
+besteht ein Anspruch auf eine halbe Invalidenrente, basierend auf einem
+Invaliditätsgrad von 55% (KB 10).
+
+1.4. Die Beklagte 1 richtete dem Kläger im Zeitraum vom 1. November 2015
+bis zum 31. Dezember 2016 eine ganze Rente aus beruflicher Vorsorge aus. Einen
+zeitlich darüberhinausgehenden Leistungsanspruch lehnte die Beklagte 1 ab (Schreiben
+vom 16. Juni 2020, KB 3).
+
+1.5. Mit Schreiben vom 1. April 2021 (KB 5) und 26. November 2021 (KB 7)
+lehnte die Beklagte 2 die Leistungspflicht aus dem Vorsorgeverhältnis ihrerseits
+ab und verwies an die zuständige Vorsorgeeinrichtung.
+
+1.6. Vorprozessual konnte zwischen den Parteien keine Einigung über die
+Leistungspflicht erzielt werden.
+
+2.
+
+2.1. Mit Klage vom 30. Mai 2022 verlangt der Kläger, es sei die Beklagte 2
+ ̶  eventualiter die Beklagte 1  ̶  aus dem Vorsorgeverhältnis zur
+Ausrichtung einer Invalidenrente auf Basis eines Invaliditätsgrades von 50%
+spätestens ab dem 1. November 2017 zu verpflichten, zuzüglich 5% Verzugszins ab
+dem Zeitpunkt der Klageeinreichung. Alles unter o/e Kostenfolge.
+
+2.2. Die Beklagte 1 beantragt mit Klageantwort vom 13. Juli 2022 die
+Klageabweisung unter o/e Kostenfolge.
+
+2.3. Die Beklagte 2 anerkennt mit Klageantwort vom 26. August 2022 ihre
+Pflicht zur Ausrichtung von Rentenleistungen aus beruflicher Vorsorge ab dem 1.
+November 2017 auf der Basis eines IV-Grades von 50%. Die Verzugszinsen seien auf
+1% zu reduzieren.
+
+2.4. Mit Replik vom 21. September 2022, Duplik vom 10. Oktober 2022 (Beklagte
+1) und Duplik vom 21. Oktober 2022 (Beklagte 2) halten die Parteien an ihren eingangs
+gestellten Begehren fest.
+
+2.5. Mit Verfügung vom 11. November 2022 wird der Fall zur Beurteilung
+der Einzelrichterin vorgelegt.
+
+3.
+
+3.1. Das Sozialversicherungsgericht Basel-Stadt ist für die vorliegende
+Streitigkeit zwischen Vorsorgeeinrichtungen (Art. 73 Abs. 1 des Bundesgesetzes
+vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und
+Invalidenvorsorge (BVG; SR 831.40)) als einzige kantonale Instanz zuständig zum
+Entscheid (§ 82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft
+[Gerichtsorganisationsgesetz, GOG; SG 154.100]).
+
+3.2. Die Beklagte 2 hat ihren Sitz im Kanton Basel-Stadt. Gemäss Art. 73
+Abs. 3 BVG besteht ein Gerichtstand am Sitz der Beklagten oder am Ort des
+Betriebes, bei dem der Versicherte angestellt war. Das angerufene Gericht ist
+somit örtlich zuständig (Art. 73 Abs. 1 und 3 BVG und § 82 Abs. 1 GOG). Die
+passive subjektive Klagenhäufung (Art. 15 Schweizerische Zivilprozessordnung
+[ZPO] vom 19. Dezember 2008, SR 272) im Rahmen der Gerichtsstandsregelung von
+Art. 73 Abs. 3 BVG bei Streitigkeiten über die Abgrenzung der Leistungspflicht
+mehrerer Vorsorgeeinrichtungen ist gestützt auf Art. 23 BVG mit der Folge eines
+einheitlichen Gerichtsstandes zulässig (Urteil des Bundesgerichts 9C_41/2012 vom
+12. März 2012 E. 3.4). Das angerufene Gericht ist folglich auch zur Beurteilung
+der Leistungspflicht der Beklagten 1 örtlich zuständig. Da auch die übrigen
+Voraussetzungen erfüllt sind, ist auf die Klage einzutreten.
+
+3.3. Nach § 83 Abs. 2 GOG ist die Präsidentin des
+Sozialversicherungsgerichts berechtigt, einfache Fälle als Einzelrichterin zu
+entscheiden. Ein solch einfacher Fall liegt hier vor.
+
+4.
+
+4.1. Im Beschwerdeverfahren zu Recht nicht mehr umstritten ist, dass die
+Beklagte 1 gegenüber dem Kläger nicht leistungspflichtig ist und der Kläger
+gegenüber der Beklagten 2 Anspruch auf eine halbe Invalidenrente der
+beruflichen Vorsorge ab dem 1. November 2017 hat. Es erübrigen sich
+diesbezügliche Weiterungen in den Erwägungen. Zu erwähnen bleibt lediglich,
+dass der im Bereich der gesetzlichen Mindestvorsorge (Art. 6 BVG) relevante
+Invaliditätsgrad grundsätzlich dem invalidenversicherungsrechtlichen
+Invaliditätsgrad entspricht und vorliegend 55% beträgt (vgl. Verfügung vom 11.
+November 2019, KB 10; BGE 126 V 308, 311 E. 1 in fine). Streitig und zu prüfen ist
+lediglich noch Beginn und Höhe des auf den von der Beklagten 2 zu leistenden
+Rentenbetreffnissen geschuldeten Verzugszinses.
+
+4.2. Während der Kläger der Auffassung ist, der Verzugszins sei ab
+Zeitpunkt der Klageeinreichung in Höhe von 5% geschuldet, ist die Beklagte 2
+der Ansicht, der Verzugszins betrage lediglich 1%. Hinsichtlich des Beginns des
+Zinsenlaufs äussert sich die Beklagte 2 nicht.
+
+4.3. 4.3.1. Auf Invalidenleistungen sind Verzugszinsen geschuldet, wobei
+grundsätzlich Art. 105 des Bundesgesetzes betreffend die Ergänzung des
+Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, vom 30.
+März 1911 [OR, SR 220]) anwendbar ist (BGE 145 V 18, 20 E. 3.1. mit Hinweis auf
+BGE 119 V 131, 133 E. 4). Danach ist der Verzugszins vom Tag der Anhebung der
+Betreibung oder der gerichtlichen Klage an geschuldet und somit vorliegend seit
+dem 30. Mai 2022.
+
+4.3.2.    Die Höhe des Zinssatzes beträgt gemäss
+der anwendbaren gesetzlichen Bestimmung 5% (Art. 104 Abs. 1 OR), sofern der
+Zinssatz reglementarisch nicht abweichend geregelt wird (BGE 119 V 131, 133 E.
+4). Bei reglementarischen Leistungen gerät die Vorsorgeeinrichtung
+grundsätzlich auch ohne Mahnung an die versicherte Person in Verzug (BGE 141 V
+162, 170 E. 5). Die Beklagte 2 legte in ihrem Vorsorgereglement (Ausgabe 2014)
+in Ziffer 26.4.1 fest, dass der Verzugszins bei fälligen Leistungen, worunter
+auch fällige Rentenleistungen fallen, dem vom Bundesrat festgelegten Zinssatz
+für das Altersguthaben entsprechen. Der BVG Mindestzinssatz liegt seit dem 1.
+Januar 2017 bei 1% (Art. 15 Abs. 2 BVG in Verbindung mit Art. 12 lit. i der
+Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge
+vom 18. April 1984 [BVV2, SR 831.441.1]). Folglich ist der Verzugszins in der
+Höhe von 1% seit dem 30. Mai 2022 für die bis dahin fällig gewordenen
+Rentenbetreffnisse sowie für die übrigen ab dem jeweiligen Fälligkeitsdatum
+auszurichten.
+
+5.
+
+5.1. Den obigen Ausführungen zufolge ist die gegen die Beklagte 1
+gerichtete Klage abzuweisen. Die gegen die Beklagte 2 gerichtete Klage ist
+teilweise gutzuheissen. Die Beklagte 2 ist zu verpflichten, dem Kläger ab dem
+1. November 2017 basierend auf einem Invaliditätsgrad von 50% die gesetzlichen
+und reglementarischen Invaliditätsleistungen zuzüglich Verzugszins von 1% seit
+dem 30. Mai 2022 für die bis dahin fällig gewordenen Rentenbetreffnisse sowie
+für die weiteren ab dem jeweiligen Fälligkeitsdatum auszurichten.
+
+5.2. Das Verfahren vor dem Sozialversicherungsgericht ist kostenlos (§ 16
+SVGG).
+
+5.3. Im Hauptpunkt, der Frage der grundsätzlichen Leistungspflicht,
+obsiegt die Klägerin mit ihrer gegen die Beklagte 2 gerichteten Klage. Bei
+diesem Verfahrensausgang hat die Beklagte 2 dem vertretenen Kläger eine
+angemessene Parteientschädigung auszurichten. Der Vertreter des Klägers reichte
+dem Gericht mit Eingabe vom 18. November 2022 eine Honorarnote ein. Darin wird
+ein Grundhonorar von CHF 6'125.00 (24.5 Stunden à CHF 250.00) zuzüglich einer
+Spesenpauschale von CHF 306.25 und Mehrwertsteuer von CHF 495.21 geltend
+gemacht. Diesbezüglich ist zu bemerken, dass das Sozialversicherungsgericht im Sinne
+einer Richtlinie  in durchschnittlichen Fällen bei doppeltem Schriftenwechsel
+ bei vollem Obsiegen und bei anwaltlicher Vertretung eine Parteientschädigung
+von CHF 3'750.00 (inklusive Auslagen) zuzüglich Mehrwertsteuer zuspricht. In
+Fällen der qualifizierten Vertretung wie durch die H____ beläuft sich diese
+Pauschale auf CHF 3'000.00. Im vorliegenden Fall kann nicht auf die eingereichte
+Honorarnote abgestellt werden. Sie ist vielmehr angemessen zu kürzen. Aufgrund
+der sich stellenden Sachverhalts- und Rechtsfragen ist grundsätzlich von einem
+durchschnittlichen Fall auszugehen. Allerdings richtete sich die Klage gegen
+zwei Beklagte, weshalb ein etwas erhöhter Aufwand anzunehmen ist. Es
+rechtfertigt sich daher anstatt der Pauschale für die qualifizierte Vertretung,
+die Pauschale für die anwaltliche Vertretung als Honorar zuzusprechen.
+
+5.4. Der Beklagten 2 wird praxisgemäss keine Parteientschädigung
+zugesprochen (Urteil des Bundesgerichts 8C_780/2016 vom 24. März 2017 mit
+Hinweis auf BGE 126 V 143 E 4b, vgl. auch § 17 Abs. 2 SVGG).
+
+Demgemäss erkennt die
+Präsidentin des Sozialversicherungsgerichts :
+
+://:        Die Klage gegen die Beklagte 1 wird
+abgewiesen.
+
+In teilweiser Gutheissung der Klage gegen die
+Beklagte 2 wird diese verurteilt, dem Kläger ab dem 1. November 2017 eine
+Invalidenrente basierend auf einem Invaliditätsgrad gemäss Verfügung der
+Eidgenössischen Invalidenversicherung vom 11. November 2019 (AHV-Nr. [...])
+zuzüglich Verzugszins zu 1% ab Fälligkeit zu entrichten.
+
+Das Verfahren ist kostenlos.
+
+Die Beklagte 1 trägt ihre Parteikosten
+selbst.
+
+Die Beklagte 2 bezahlt dem Kläger eine
+Parteientschädigung von CHF 3'750.00 (inkl. Auslagen) zuzüglich Mehrwertsteuer
+von CHF 288.75 (7.7%).
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder MLaw N.
+Marbot
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit Angabe
+der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+          Kläger           Beklagte 1 und 2
+
+ Aufsichtsbehörde BVG
+
+Versandt am:
