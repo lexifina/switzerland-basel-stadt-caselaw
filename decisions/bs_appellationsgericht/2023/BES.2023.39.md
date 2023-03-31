@@ -1,0 +1,418 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.215"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.39"
+docket_2: "AG.2023.215"
+decided: "2023-03-31"
+published: "2024-04-04"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=74922&W10_KEY=3052836&nTrefferzeile=577&Template=search_result_document.html"
+cites_decisions: ["1B_126/2011", "1B_176/2018", "1B_247/2016", "1B_270/2016", "1B_373/2016", "1B_379/2011", "1B_392/2013", "1B_437/2016", "1B_458/2016", "1B_512/2012", "6B_360/2014", "BGE 124 I 208", "BGE 137 IV 13", "BGE 137 IV 84", "BGE 143 IV 9", "HB.2019.70", "HB.2022.38"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-236.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Verlängerung der Sicherheitshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.39
+
+ENTSCHEID
+
+vom 31.
+März 2023
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiber
+Dr. Beat Jucker
+
+Beteiligte
+
+A____ , geb. [...]                                                            
+Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt,                            Beschuldigter
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten durch B____, Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen einen Beschluss
+des Strafdreiergerichts
+
+vom 22. Februar 2023
+
+betreffend Verlängerung der
+Sicherheitshaft
+
+Sachverhalt
+
+Mit Urteil des
+Strafdreiergerichts vom 22. Februar 2023 wurde A____ (Beschwerdeführer) der
+versuchten Gefährdung des Lebens (Rücktritt vom Versuch), der einfachen Körperverletzung,
+der mehrfachen Sachbeschädigung, der versuchten Erpressung, des mehrfachen,
+teilweise versuchten Hausfriedensbruchs, der mehrfachen, teilweise versuchten
+Drohung, der Beschimpfung, des mehrfachen geringfügigen Vermögensdelikts
+(Sachbeschädigung und Diebstahl), der Verletzung des Schriftgeheimnisses, des
+mehrfachen Ungehorsams gegen amtliche Verfügungen, der Widerhandlung gegen das
+Übertretungsstrafgesetz (ungebührliches Verhalten) sowie der Übertretung nach Art.
+19a des Betäubungsmittelgesetzes schuldig erklärt und zu 20 Monaten
+Freiheitsstrafe (unter Anrechnung der erstandenen Haft), zu einer Geldstrafe
+von sechs Tagessätzen zu CHF 30. sowie zu einer Busse in Höhe von CHF 2800.
+(bei schuldhafter Nichtbezahlung 28 Tage Ersatzfreiheitsstrafe) verurteilt. Der
+Vollzug der ausgesprochenen Freiheitsstrafe wurde aufgeschoben und eine
+stationäre psychiatrische Behandlung angeordnet. Darüber hinaus wurde die
+vorbestehende Sicherheitshaft mit Beschluss desselben Datums für die vorläufige
+Dauer von zwölf Wochen, bis zum 17. Mai 2023, verlängert.
+
+Hiergegen
+richtet sich die vorliegend zu beurteilende Beschwerde vom 6. März 2023, mit
+der beantragt wird, den Beschluss des Strafdreiergerichts vom 22. Februar 2023
+kosten- und entschädigungsfällig aufzuheben und A____ unverzüglich aus der Haft
+zu entlassen. Eventualiter seien Ersatzmassnahmen im Sinne von Art. 237 der
+Strafprozessordnung (StPO, SR 312.0) anstelle der Sicherheitshaft anzuordnen,
+insbesondere ein Kontakt- und Rayonverbot betreffend C____ und die Auflage,
+sich regelmässig beim kantonalen Bedrohungsmanagement der Kantonspolizei
+Basel-Stadt zu melden. Sowohl die Staatsanwaltschaft als auch der
+Strafgerichtspräsident haben sich mit dem Antrag auf Abweisung der Beschwerde
+vernehmen lassen. Hierzu hat der Beschwerdeführer am 27. März 2023 repliziert.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten (einschliesslich der vom Strafgericht
+eingereichten Verfahrensakten) ergangen. Die Einzelheiten der Parteistandpunkte
+ergeben sich  soweit sie für den Entscheid von Bedeutung sind  aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+Die inhaftierte
+Person kann Entscheide betreffend Verlängerung von Sicherheitshaft innert zehn
+Tagen nach Eröffnung des entsprechenden Beschlusses mit Beschwerde anfechten
+(Art. 393 Abs. 1 lit. c in Verbindung mit Art. 222 StPO). Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in
+Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG
+154.100]), welches gemäss Art. 393 Abs. 2 StPO mit voller Kognition urteilt. Auf
+die nach Art. 396 Abs. 1 StPO frist- und formgerecht eingereichte Beschwerde
+ist einzutreten.
+
+2.
+
+Die Verlängerung
+von Sicherheitshaft ist nach Art. 221 Abs. 1 StPO zulässig, wenn die
+beschuldigte Person eines Verbrechens oder Vergehens dringend verdächtig ist
+und zudem Flucht-, Kollusions- oder Fortsetzungsgefahr besteht. Die Haft muss
+überdies verhältnismässig sein. Sie ist aufzuheben, sobald Ersatzmassnahmen zum
+gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art. 212 Abs. 2 lit. c StPO) und
+darf nicht länger dauern als die zu erwartende bzw. ausgesprochene Freiheitsstrafe
+(Art. 212 Abs. 3 StPO).
+
+3.
+
+Praxisgemäss ist
+nach einer erstinstanzlichen Verurteilung von einem dringenden Tatverdacht
+auszugehen (BGer 1B_176/2018 vom 2. Mai 2018 E. 3.2, 1B_392/2013 vom 22.
+November 2013 E. 5; AGE HB.2019.70 vom 16. Dezember 2019 E. 3). Die Kritik der
+Verteidigung am Versuchsbeginn hinsichtlich des Tatbestands der Gefährdung des
+Lebens ist in einem allfälligen Berufungsverfahren vorzubringen bzw. läuft
+aktuell ins Leere. Weitere diesbezügliche Ausführungen erübrigen sich.
+
+4.
+
+4.1 Das
+Strafgericht hat den Haftgrund der Fortsetzungsgefahr hinsichtlich
+fremdschädigender Gewaltdelikte angenommen. Sinn und Zweck der Anordnung von
+Haft wegen Wiederholungs- bzw. Fortsetzungsgefahr ist die Verhütung von
+Delikten. Die Haft ist somit überwiegend Präventivhaft. Die Notwendigkeit, die
+beschuldigte Person an der Begehung einer strafbaren Handlung zu hindern,
+anerkennt Art. 5 Ziff. 1 lit. c der Europäischen Menschenrechtskonvention
+(EMRK, SR 0.101) ausdrücklich als Haftgrund. Wiederholungsgefahr liegt vor,
+wenn ernsthaft zu befürchten ist, dass die beschuldigte Person durch schwere
+Verbrechen oder Vergehen die Sicherheit anderer erheblich gefährdet, nachdem
+sie bereits früher gleichartige Straftaten verübt hat (Art. 221 Abs. 1 lit. c
+StPO). Nach dem Gesetz sind für das Vorliegen von Wiederholungsgefahr folgende
+Elemente konstitutiv: Es muss das Vortaterfordernis erfüllt sein (vgl. E. 4.2
+hiernach) und es müssen schwere Vergehen oder Verbrechen drohen (vgl. E. 4.3
+hiernach). Zudem muss hierdurch die Sicherheit anderer erheblich gefährdet sein
+(vgl. E. 4.4 hiernach). Schliesslich muss die Tatwiederholung ernsthaft zu
+befürchten sein, was anhand einer Rückfallprognose zu beurteilen ist (vgl. E.
+4.5 hiernach).
+
+4.2
+
+4.2.1 Bei
+den in Art. 221 Abs. 1 lit. c StPO verlangten Vortaten muss es sich um
+Verbrechen oder schwere Vergehen gegen gleiche oder gleichartige Rechtsgüter
+gehandelt haben, wie sie im hängigen Verfahren massgeblich sind. Voraussetzung
+dafür ist, dass der Beschuldigte in der Regel mindestens zwei schwere, die Sicherheit
+anderer erheblich gefährdende Verbrechen oder Vergehen begangen hat, wobei sich
+diese nicht notwendigerweise aus einem rechtskräftig abgeschlossenen
+Strafverfahren ergeben müssen. Es kann auch die sehr grosse Wahrscheinlichkeit
+einer Verurteilung im konkreten Einzelfall genügen. Bei akut drohenden Schwerverbrechen
+kann nach der Rechtsprechung des Bundesgerichtes sogar ausnahmsweise auf das
+Vortatenerfordernis verzichtet werden (BGE 137 IV 13 E. 3-4; vgl. dazu Forster , in: Basler Kommentar, 2.
+Auflage 2014, Art. 221 StPO N 15; Frei/Zuberbühler
+Elsässer , in: Donatsch/Lieber/Summers/Wohlers [Hrsg.], Kommentar zur
+StPO, 3. Auflage, Zürich 2030, Art. 221 N 32 ff.; BGE 143 IV 9 E.
+2.3.1, 137 IV 84 E. 3.2; BGer 1B_458/2016 vom 19. Dezember 2016 E. 3.2,
+1B_270/2016 vom 4. August 2016 E. 2.3).
+
+4.2.2 Der
+Beschwerdeführer wurde mit Strafbefehl der Staatsanwaltschaft Basel-Stadt vom
+5. April 2018 der Gewalt und Drohung gegen Behörden und Beamte sowie versuchter
+Gewalt und Drohung gegen Behörden und Beamte schuldig erklärt. Im aktuellen
+Verfahren wurde er unter anderem der versuchten Gefährdung des Lebens
+(Rücktritt vom Versuch) und der einfachen Körperverletzung schuldig erklärt. Das
+Vortaterfordernis ist damit erfüllt, wobei  wie nachfolgend zu zeigen sein
+wird (vgl. dazu E. 4.5)  auch schwere Gewaltverbrechen drohen und
+insofern sogar auf das Vortaterfordernis verzichtet werden kann.
+
+4.3
+
+4.3.1 Leichte
+Vergehen werden vom Haftgrund der Wiederholungsgefahr nicht erfasst.
+Ausgangspunkt dieser Qualifikation bildet die abstrakte Strafdrohung gemäss
+Gesetz (BGer 1B_512/2012 vom 2. Oktober 2012 E. 4.3). Voraussetzung für die
+Einstufung als schweres Vergehen ist, dass eine Freiheitsstrafe bis zu drei
+Jahren droht (vgl. hierzu Forster ,
+a.a.O., Art. 221 StPO N 12). Als drohende schwere Delikte nennt das
+Bundesgericht zum Beispiel Einbruchdiebstähle, Körperverletzungen und Drohungen
+sowie Drogendelikte (BGE 137 IV 84 E. 3.2; BGer 1B_247/2016 vom 27. Juli
+2016 E. 2.1, 1B_437/2016 vom 5. Dezember 2016 E. 2.1; vgl. Hinweise bei Forster , a.a.O., Art. 221 StPO N 15 FN
+62).
+
+4.3.2 Beim
+zur Diskussion stehenden Tatbestand der Gefährdung des Lebens handelt es sich
+um ein Verbrechen, welches vom Haftgrund der Wiederholungsgefahr erfasst wird.
+Auch dass es sich bei der einfachen Körperverletzung entsprechend der zitierten
+bundesgerichtlichen Rechtsprechung abstrakt um ein schweres Vergehen handelt,
+ist evident. In Bezug auf die konkrete Schwere der zur Diskussion stehenden
+Delikte ist Folgendes festzuhalten: Gemäss ergänzender Anklageschrift vom
+3. November 2022 (der Beschwerdeführer wurde gestützt darauf mitunter
+wegen versuchter Gefährdung des Lebens [Rücktritt vom Versuch] und einfacher
+Körperverletzung verurteilt), habe der Beschwerdeführer am 18. August 2022
+einen Streit mit C____ begonnen. Er habe Letzterer zirka ein halbes Dutzend
+Faustschläge gegen das Gesicht und den Hinterkopf verpasst, ein Mobiltelefon
+gegen sie geworfen und sie mit einem Staubsaugerrohr geschlagen. In der Folge
+habe er ein Ladekabel zur Hand genommen, dieses um den Hals von C____ gelegt,
+einen Knoten gemacht und versucht, das Kabel mit aller Kraft zusammenzuziehen. C____
+sei es indessen gelungen, in die Schlinge des Ladekabels hineinzugreifen und
+dagegen zu drücken, sodass sie die Schlinge schliesslich von ihrem Hals
+wegdrücken konnte. Gemäss Gutachten des Instituts für Rechtsmedizin vom 9.
+September 2022 zog sich C____ anlässlich dieses Vorfalls eine
+Weichgewebsschwellung innerhalb der behaarten Kopfhaut (bis 2.5 Zentimeter durchmessend),
+Hautein- und -unterblutungen in der Nasenregion und am linken Auge sowie eine Schleimhauteinblutung
+(1.5 x 0.3 Zentimeter) in der Mundvorhofschleimhaut der Oberlippe zu. Dass die
+(versuchte) Gefährdung des Lebens mittels Strangulation mit dem Ladekabel als
+schwerwiegend zu beurteilen ist, steht ausser Frage. Die skizzierten Verletzungen,
+die zu einer Verurteilung wegen einfacher Körperverletzung geführt haben, sind im
+Gesamtkontext der mehrfachen Schläge nicht mehr als an der Schwelle zur
+Tätlichkeit zu qualifizieren und damit auch in ihrem konkreten Gehalt als schwer
+im Sinne von Art. 221 Abs. 1 lit. c StPO zu qualifizieren.
+
+4.4
+
+4.4.1 Die
+erhebliche Gefährdung der Sicherheit anderer durch drohende Verbrechen oder
+schwere Vergehen kann sich grundsätzlich auf Rechtsgüter jeder Art beziehen
+(BGer 1B_126/2011 vom 6. April 2011 E. 3.7). Delikte gegen das Vermögen sind
+zwar unter Umständen in hohem Mass sozialschädlich, betreffen aber in der Regel
+nicht unmittelbar die Sicherheit der Geschädigten, ausser es handelt sich um
+besonders schwere Vermögensdelikte (BGer 1B_373/2016 vom 23. November 2016 E.
+2.7, 1B_379/2011 vom 2. August 2011 E. 2.8). Im Vordergrund stehen deshalb
+Delikte gegen die körperliche und die sexuelle Integrität (BGE 143 IV 9 E.
+2.7).
+
+4.4.2 Bei
+den in vorstehender Erwägung thematisierten Straftaten handelt es sich um
+Delikte gegen die körperliche Integrität, weshalb mit Blick auf die vorstehend
+zitierte bundesgerichtliche Rechtsprechung auch das Erfordernis der erheblichen
+Gefährdung als erfüllt betrachtet werden kann.
+
+4.5
+
+4.5.1 Nach
+dem Gesetz muss schliesslich ernsthaft zu befürchten sein, dass der
+Beschuldigte bei einer Freilassung erneut schwere Vergehen oder Verbrechen
+begehen würde (Art. 221 Abs. 1 lit. c StPO). Ob diese Voraussetzung erfüllt
+ist, ist anhand einer Legal- bzw. Rückfallprognose zu beurteilen. Massgebliche
+Kriterien bei der Beurteilung der Rückfallgefahr sind nach der
+bundesgerichtlichen Rechtsprechung insbesondere die Häufigkeit und die
+Intensität der untersuchten Delikte sowie die einschlägigen Vorstrafen. Bei
+dieser Bewertung sind allfällige Aggravationstendenzen, wie eine zunehmende
+Eskalation respektive Gewaltintensität oder eine raschere Kadenz der Taten, zu
+berücksichtigen. Notwendig, aber auch ausreichend ist grundsätzlich eine
+ungünstige Rückfallprognose (BGE 143 IV 9 E. 2.8 ff.; Frei/Zuberbühler Elsässer , a.a.O., Art. 221 N 38; Forster , a.a.O., Art. 221 StPO N 15).
+
+4.5.2 Der
+Gutachter, D____, diagnostizierte in seinem forensisch-psychiatrischen
+Gutachten vom 13. Februar 2023 beim Beschwerdeführer eine gemischte
+schizoaffektive Störung (F25.2) (DD chronische paranoide Schizophrenie), eine
+Störung durch Opioide, Abhängigkeitssyndrom (F11.22), eine Störung durch
+Kokain, Abhängigkeitssyndrom (F14.21), eine Störung durch Stimulanzien
+(Methylphenidat), Abhängigkeitssyndrom (F15.22) sowie anamnestisch eine Neigung
+zum schädlichen Gebrauch anderer psychotroper Substanzen (Cannabis,
+Benzodiazepine u.a.; F19.1). Anhand verschiedener Prognoseinstrumente schätzt
+er das Risiko erneuter (störungsbedingter) fremdschädigender
+Fehlverhaltensweisen von der Art und Schwere der ihm aktuell vorgeworfenen
+Delikte (unter anderem Gefährdung des Lebens und Körperverletzung) und
+spontaner impulsiver Gewalthandlungen als hoch ein (insbesondere bei fehlender,
+unzureichender oder ineffizienter psychiatrischer Behandlung). Abhängig von der
+jeweils bei ihm vorherrschenden psychopathologischen Symptomatik und von der
+Dynamik in seinen zwischenmenschlichen Beziehungen wie auch von den konkreten
+Tatumständen, könnten dabei auch noch gravierendere Gewaltstraftaten (unter
+anderem mit schweren Opferschäden) nicht ausgeschlossen werden. Gestützt darauf
+muss dem Beschwerdeführer eine sehr ungünstige Rückfallprognose gestellt werden,
+was unmittelbar mit den in HB.2022.38 vom 14. September 2022 zitierten Bedenken
+von E____ und F____ (der Beschwerdeführer sei unberechenbar und es bestehe die
+Gefahr eines «Femizids» zum Nachteil von C____) korrespondiert.
+
+4.6 Nach
+dem Gesagten ist mit dem Strafgericht von Fortsetzungs- bzw.
+Wiederholungsgefahr auszugehen.
+
+5.
+
+5.1 Unter
+dem Titel der Verhältnismässigkeit ist schliesslich eine Abwägung zwischen den
+Interessen des Beschwerdeführers an der Wiedererlangung seiner Freiheit und den
+entgegenstehenden Interessen des Staates an der Gewährleistung der öffentlichen
+Sicherheit und Ordnung sowie an einer wirksamen Verfolgung seines
+Strafanspruchs vorzunehmen. Die Sicherheitshaft ist aufzuheben, sobald
+Ersatzmassnahmen zum gleichen Ziel führen (Art. 197 Abs. 1 lit. c und Art. 212
+Abs. 2 lit. c StPO). Die Sicherheitshaft darf ausserdem nur solange erstreckt
+werden, als ihre Dauer nicht in grosse Nähe der konkret zu erwartenden Strafe
+rückt (Art. 212 Abs. 3 StPO; BGE 124 I 208 E. 6 S. 215).
+
+5.2 Der
+mehrfach vorbestrafte Beschwerdeführer befindet sich seit dem 28. August 2022 in
+Haft. Mit dem Urteil des Strafdreiergerichts wurde er zu einer Freiheitsstrafe
+von 20 Monaten verurteilt, wobei der Vollzug derselben aufgeschoben und eine
+stationäre psychiatrische Behandlung angeordnet wurde. Letztere ist nicht
+befristet worden, sodass der mit der stationären Behandlung verbundene
+Freiheitsentzug  sollte der Beschwerdeführer zuvor nicht im Sinne von Art. 62 des
+Strafgesetzbuches (StGB, SR 311.0) bedingt entlassen werden  vorerst fünf
+Jahre beträgt (Art. 59 Abs. 4 StGB), wobei auch ein Gesuch um vorzeitigen
+Massnahmenvollzug (Art. 236 StPO) gestellt werden könnte. Zudem hat der bisher
+in prekären Verhältnissen lebende Beschwerdeführer in der Vergangenheit bereits
+verschiedentlich manifestiert (und wurde dafür auch vom Strafgericht
+verurteilt), dass er sich weder an Haus-, Rayon- oder Kontaktverbote hält und
+ihn auch an Ort und Stelle ausgesprochene polizeiliche Wegweisungen und
+kurzfristige Inhaftierungen nicht von einer Rückkehr an bestimmte Orte (wo sich
+C____ aufhält) abhalten können. Vor diesem Hintergrund fallen die beantragten
+Ersatzmassnahmen (Kontakt- und Rayonverbot) zum vornherein ausser Betracht. Die
+Leistung einer Kaution ist nur schon aufgrund der angenommenen Fortsetzungs-
+bzw. Wiederholungsgefahr ausgeschlossen, wobei auch nicht ersichtlich ist, aus
+welchen Mitteln der Beschwerdeführer eine solche leisten sollte. Darüber hinaus
+ist nicht erkennbar, inwiefern eine wöchentliche Meldepflicht (auch beim
+kantonalen Bedrohungsmanagement der Kantonspolizei Basel-Stadt) den
+Beschwerdeführer  ohne nunmehr nachhaltige psychiatrische und
+psychotherapeutische Behandlung  an der Begehung weiterer Delikte hindern
+könnte. Wenn der Beschwerdeführer nun behauptet, dass seine Liebe zu C____
+erloschen sei, ist darauf hinzuweisen, dass er vor gut einem halben Jahr noch
+zu Protokoll gegeben hat, C____ habe eine multiple Persönlichkeitsstörung, «was
+mich nicht davon abhält, sie abgöttisch zu verehren und zu lieben». Kommt dazu,
+dass der Beschwerdeführer in naher Zukunft mit anderen Frauen Beziehungen
+eingehen könnte, welche bei weiterhin fehlender psychiatrischer und
+psychotherapeutischer Behandlung gemäss Gutachten von D____ der sehr ernsten
+Gefahr von Gewaltdelikten ausgesetzt wären.
+
+6.
+
+6.1 Aus
+dem Gesagten ergibt sich, dass die Beschwerde abzuweisen ist. Bei diesem
+Ausgang des Verfahrens hat der Beschwerdeführer grundsätzlich dessen
+ordentliche Kosten mit einer Gebühr von CHF 500. zu tragen (Art. 428 Abs. 1
+StPO in Verbindung mit § 21 Abs. 2 des Gerichtsgebührenreglements [GGR, SG
+154.810]). Über die definitive Auferlegung der Kosten ist allerdings erst mit
+dem Berufungsurteil oder  falls kein Berufungsurteil ergeht  in einem
+separaten Entscheid des Appellationsgerichtspräsidenten zu befinden (Art. 421
+Abs. 1 StPO).
+
+6.2 Dem
+amtlichen Verteidiger, B____, ist ein Honorar gemäss seiner Aufstellung aus der
+Gerichtskasse auszurichten. Für die genaue Höhe wird auf das Dispositiv
+verwiesen. Der Entscheid über eine allfällige Rückforderung gemäss Art. 135
+Abs. 4 StPO wird dem Berufungsurteil oder  falls kein Berufungsurteil ergeht
+einem separaten Entscheid des Appellationsgerichtspräsidenten vorbehalten
+(Art. 421 Abs. 1 StPO).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Gerichtsgebühr für das Beschwerdeverfahren wird auf
+CHF 500. (einschliesslich Auslagen) festgesetzt. Die Regelung der Kostenauflage
+wird dem Berufungsurteil oder  falls kein Berufungsurteil ergeht  einem
+separaten Entscheid des Appellationsgerichtspräsidenten vorbehalten (Art. 421
+Abs. 1 StPO).
+
+Dem amtlichen Verteidiger, B____, wird für das
+Beschwerdeverfahren ein Honorar von CHF 616.65 und ein Auslagenersatz von CHF 22.85,
+zuzüglich 7,7 % MWST von CHF 49.25, insgesamt also CHF 688.75, aus der
+Gerichtskasse ausgerichtet. Der Entscheid über eine allfällige Rückforderung
+gemäss Art. 135 Abs. 4 StPO wird dem Berufungsurteil oder  falls kein
+Berufungsurteil ergeht  einem separaten Entscheid des Appellationsgerichtspräsidenten
+vorbehalten (Art. 421 Abs. 1 StPO).
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Strafgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur.
+Christian Hoenen                                         Dr. Beat Jucker
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung kann gegen den Entscheid betreffend ihre Entschädigung für das
+zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b der
+Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom
+30. Oktober 2014).
