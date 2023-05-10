@@ -1,0 +1,366 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.116"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "KV"
+docket: "KV.2022.7"
+docket_2: "SVG.2023.116"
+decided: "2023-05-10"
+published: "2023-06-09"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75230&W10_KEY=3049208&nTrefferzeile=33&Template=search_result_document.html"
+cites_decisions: ["1D_8/2018", "1P.150/2003", "4A_695/2011", "8C_210/2013", "8C_336/2012", "8C_453/2008", "9C_291/2007", "9C_341/2020", "9C_366/2016", "9C_448/2014", "9C_546/2017", "9C_624/2008", "BGE 130 I 26", "BGE 138 V 86", "BGE 143 V 52", "BGE 144 II 486", "KV.2022.7"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/830.1/art-028.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-056.md", "switzerland/bund/acts/830.1/art-057.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/832.10/art-001.md", "switzerland/bund/acts/832.10/art-003.md", "switzerland/bund/acts/832.102/art-001.md", "switzerland/bund/acts/832.102/art-002.md", "switzerland/bund/acts/832.12/art-005.md", "switzerland/bund/acts/832.12/art-007.md"]
+---
+
+# Rechtsverzögerung
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+Urteil der Präsidentin
+
+vom 10.
+Mai 2023
+
+Parteien
+
+A____
+
+Beschwerdeführer
+
+B____
+
+Beschwerdegegnerin
+
+Gegenstand
+
+KV.2022.7
+
+Rechtsverzögerung
+
+Erwägungen
+
+1.
+
+1.1. Der Beschwerdeführer stellte am 3. September 2022 bei der
+Beschwerdegegnerin einen Antrag auf Aufnahme in die obligatorische
+Grundversicherung nach KVG (Bundesgesetz vom 18. März 1994 über die
+Krankenversicherung, SR 832.10) mit Versicherungsbeginn ab 1. Oktober 2022
+(Beschwerdeantwortbeilage [AB] 1). Auf dem Antragsformular gab er an, er sei am
+30. August 2022 aus dem Ausland zugezogen und wohne am [...] (AB 1). Mit E-Mail
+vom 8. September 2022 ersuchte die Beschwerdegegnerin die Gemeinde [...] um
+Mitteilung des genauen Einreisedatums, der Art der Bewilligung sowie um eine
+Zuzugsbestätigung (AB 2). Die Gemeinde [...] antwortete mit E-Mail vom
+12. September 2022, der Beschwerdeführer sei nicht im Einwohnerregister
+eingetragen worden (AB 2). Man habe ihn am 8. September 2022 darüber
+informiert, dass eine Wohnsitznahme auf dem Campingplatz nicht möglich sei, und
+er sei aufgefordert worden, seinen tatsächlichen Hauptwohnsitz ausserhalb des
+Campingplatzes zu begründen (AB 2). Mit Schreiben vom 31. Oktober 2022
+machte der Beschwerdeführer die Beschwerdegegnerin unter Hinweis auf seinen
+Antrag und die Pflicht zur Aufnahme in die Grundversicherung aufmerksam, die
+selbst für Sans-Papiers bestehe (AB 3). Er wies die Beschwerdegegnerin
+darauf hin, dass er bisher weder Unterlagen noch eine Krankenkassenkarte
+erhalten habe und forderte sie auf, ihm bis zum 15. November 2022 eine
+Krankenkassenkarte zukommen zu lassen (AB 3). Mit E-Mail vom 3. November
+2022 ersuchte die Beschwerdegegnerin den Beschwerdeführer um Zustellung einer
+Zuzugsbestätigung und zeigte ihm für den Fall, dass er sich auf den Status
+eines Sans-Papiers berufe, die dafür zuständige Stelle an (AB 4). Mit
+E-Mail vom 8. Dezember 2022 forderte die Beschwerdegegnerin den
+Beschwerdeführer erneut auf, eine Wohnsitzbestätigung der Gemeinde, in welcher
+er festen Wohnsitz habe, einzureichen (AB 5). Mit Schreiben vom 27. Dezember
+2022 bat die Beschwerdegegnerin den Beschwerdeführer um Zustellung einer Kopie
+seines Identitätsausweises und um die Beantwortung von Fragen hinsichtlich
+eines allfälligen Wohnsitzes im Ausland, seiner Absicht zum dauernden Verbleib
+in der Schweiz und zum allfälligen vorherigen Krankenversicherer in der Schweiz
+(AB 6). Der Beschwerdeführer kam den Aufforderungen der Beschwerdegegnerin
+nicht nach.
+
+1.2. Mit Beschwerde vom 2. Dezember 2022 an das
+Sozialversicherungsgericht Basel-Stadt rügt der Beschwerdeführer die Nichtaufnahme
+in die obligatorische Grundversicherung der Beschwerdegegnerin.
+
+Die Beschwerdegegnerin beantragt mit Beschwerdeantwort vom 17.
+Januar 2023, es sei auf die Beschwerde nicht einzutreten. Eventualiter sei die
+Beschwerde abzuweisen. Dies unter o/e-Kostenfolge zulasten des
+Beschwerdeführers.
+
+Mit Replik vom 8. Februar 2023 (Postaufgabe 9. Februar 2023)
+hält der Beschwerdeführer sinngemäss an seiner Beschwerde vom 2. Dezember 2022
+fest.
+
+Mit Schreiben vom 10. März 2023 verzichtet die
+Beschwerdegegnerin auf eine Duplik.
+
+2.
+
+2.1. Das Sozialversicherungsgericht Basel-Stadt ist gemäss Art. 1 Abs. 1 KVG
+in Verbindung mit Art. 57 ATSG (Bundesgesetz über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000, SR 830.1), § 82 Abs. 1 des
+Gerichtsorganisationsgesetzes des Kantons Basel-Stadt vom 3. Juni 2015 (GOG; SG
+154.100) und § 1 des Sozialversicherungsgesetzes des Kantons Basel-Stadt vom 9.
+Mai 2001 (SVGG; SG 154.200) als einzige kantonale Instanz in sachlicher
+Hinsicht zur Beurteilung der vorliegenden Beschwerde zuständig.
+
+2.2. Die örtliche Zuständigkeit knüpft in erster Linie an den Wohnsitz
+der versicherten Person im Zeitpunkt der Beschwerdeerhebung an (Art. 1 Abs. 1
+KVG in Verbindung mit Art. 58 Abs. 1 ATSG). Befindet sich der Wohnsitz der
+versicherten Person oder des beschwerdeführenden Dritten im Ausland, so ist das
+Versicherungsgericht desjenigen Kantons zuständig, in dem sich ihr letzter
+schweizerischer Wohnsitz befand oder in dem ihr letzter schweizerischer
+Arbeitgeber Wohnsitz hat. Lässt sich keiner dieser Orte ermitteln, so ist das
+Versicherungsgericht desjenigen Kantons zuständig, in dem das
+Durchführungsorgan seinen Sitz hat (Art. 1 Abs. 1 KVG in Verbindung mit Art. 58
+Abs. 2 ATSG). Der Wohnsitz der versicherten Person ist vorliegend einer der materiellen
+Streitpunkte. Es handelt sich demnach um eine doppelrelevante Tatsache.
+Vorliegend kann nach der subsidiären Regelung von Art. 58 Abs. 2 ATSG auf den
+Sitz des Durchführungsorgans (hier: der Beschwerdegegnerin) abgestellt werden.
+Die Beschwerdegegnerin hat ihren Sitz gemäss Handelsregistereintrag im Kanton
+Basel-Stadt, womit das Sozialversicherungsgericht des Kantons Basel-Stadt
+örtlich zuständig.
+
+2.3. Gemäss § 83 Abs. 2 GOG entscheidet die Präsidentin des
+Sozialversicherungsgerichts einfache Fälle als Einzelrichterin. Ein solch
+einfacher Fall ist vorliegend gegeben.
+
+2.4. Im Beschwerdeverfahren vor dem Sozialversicherungsgericht sind
+grundsätzlich Rechtsverhältnisse zu beurteilen, zu denen sich die zuständige
+Sozialversicherungsbehörde vorgängig verbindlich in Form einer Verfügung oder
+eines Einspracheentscheids geäussert hat. Gemäss Art. 1 Abs. 1 KVG in
+Verbindung mit Art. 56 Abs. 1 kann gegen Einspracheentscheide oder Verfügungen,
+gegen welche eine Einsprache ausgeschlossen ist, Beschwerde erhoben werden. Insoweit
+bestimmen die Verfügung und der nachfolgende Einspracheentscheid den
+beschwerdeweise weiterziehbaren Anfechtungsgegenstand. Vorliegend hat die
+Beschwerdegegnerin über die Aufnahme oder die Nichtaufnahme des
+Beschwerdeführers in die obligatorische Krankenversicherung bislang nicht verfügt
+und dementsprechend auch noch keinen Einspracheentscheid erlassen. Es fehlt demnach
+an einem tauglichen Anfechtungsobjekt im Sinne von Art. 56 Abs. 1 ATSG und
+damit an einer Sachurteilsvoraussetzung, was zur Folge hat, dass auf die
+Beschwerde nicht einzutreten ist.
+
+2.5. Art. 1 Abs. 1 KVG in Verbindung mit Art. 56 Abs. 2 ATSG gewährt der
+versicherten Person jedoch auch dann ein Beschwerderecht, wenn der
+Versicherungsträger entgegen dem Begehren der betroffenen Person keine
+Verfügung oder keinen Einspracheentscheid erlässt. Ein Vorgehen nach Art. 56
+Abs. 2 ATSG setzt voraus, dass die versicherte Person zuvor  ausdrücklich oder
+zumindest sinngemäss  den Erlass einer anfechtbaren Verfügung verlangt hat
+(Urteil des Bundesgerichts 8C_336/2012 vom 13. August 2012 E. 3; 8C_453/2008
+vom 12. Dezember 2008 E. 3.3). Betrachtet man das Schreiben des
+Beschwerdeführers vom 31. Oktober 2022 sinngemäss als solche Aufforderung, so ist
+die vorliegende Beschwerde unter dem Aspekt der Rechtsverzögerung entgegenzunehmen.
+Soweit der Beschwerdeführer materielle Rügen vorbringt, kann aufgrund des
+Gesagten nicht auf seine Beschwerde eingetreten werden. Zu prüfen ist demnach vorliegend
+einzig, ob ein Fall von Rechtsverzögerung vorliegt.
+
+3.
+
+3.1. Eine unzulässige Rechtsverzögerung liegt vor, wenn die Umstände,
+welche zur unangemessenen Verlängerung des Verfahrens führen, objektiv nicht
+gerechtfertigt sind (BGE 144 II 486, 489 E. 3.2; Urteil des Bundesgerichts
+8C_210/2013 vom 10. Juli 2013 E. 2.2). Ob sich die gegebene Verfahrensdauer mit
+dem Anspruch auf Rechtsschutz innert angemessener Frist verträgt, ist am konkreten
+Einzelfall zu prüfen. Für die Angemessenheit der Verfahrensdauer massgeblich
+sind namentlich Umfang und Schwierigkeit des Falles, die Schwere der
+Betroffenheit des Einzelnen, das Verhalten der Beteiligten sowie die für die
+Sache spezifischen Entscheidungsabläufe (Urteil des Bundesgerichts 1D_8/2018
+vom 3. April 2019 E. 5.1; 8C_210/2013 vom 10. Juli 2013 E. 2.2; 9C_624/2008 vom
+10. September 2008 E. 5.2.1). Eine mangelhafte Organisation oder Überlastung
+einer Behörde kann die übermässige Dauer eines Verfahrens nicht rechtfertigen (BGE
+144 II 486, 489 E. 3.2; 122 IV 103, 111 E. 5.2).
+
+3.2. 3.2.1. Das Gebot des raschen Verfahrens darf nicht zu Lasten der
+Abklärung des rechtserheblichen Sachverhalts durch den
+Sozialversicherungsträger gehen (Urteil des Bundesgerichts 9C_366/2016 vom 11.
+August 2016 E. 5.3; 9C_448/2014 vom 4. September 2014 E. 4.2;
+8C_210/2013 vom 10. Juli 2013 E. 3.2.1). Dieser hat nach dem
+Untersuchungsgrundsatz von Amtes wegen die notwendigen Abklärungen vorzunehmen
+und die erforderlichen Auskünfte einzuholen (Art. 43 Abs. 1 ATSG).
+
+3.2.2. Der Untersuchungsgrundsatz wird durch die Mitwirkungspflicht der
+Parteien beschränkt (BGE 138 V 86, 97 E. 5.2.3; 125 V 193, 195 E. 2; 122 V 157,
+158 E. 1.a). Dies vor allem in Bezug auf diejenigen Tatsachen, welche der
+Versicherte besser kennt als die Behörde und welche diese sonst gar nicht oder
+nicht mit vernünftigem Aufwand erheben könnte (Urteil des Bundesgerichts 9C_341/2020
+vom 4. September 2020 E. 2.2).
+
+4.
+
+4.1. Gemäss Art. 3 Abs. 1 KVG ist jede Person mit Wohnsitz in der Schweiz
+der obligatorischen Krankenpflegeversicherung unterstellt. Massgebend ist
+gemäss Art. 1 Abs. 1 KVV (Verordnung über die Krankenversicherung vom 27.
+Juni 1995, SR 832.102) der Wohnsitzbegriff nach den Art. 23-26 des
+Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB; SR 210). Personen
+ohne Wohnsitz in der Schweiz sind der Versicherungspflicht grundsätzlich nicht
+unterstellt. Sie können der obligatorischen Krankenpflegeversicherung jedoch gemäss
+Art. 1 Abs. 2 KVV oder gestützt auf staatsvertragliche Bestimmungen unterstellt
+sein ( Gebhard Eugster in: Blechta
+et al. (Hrsg.), Krankenversicherungsgesetz,
+Krankenversicherungsaufsichtsgesetz, Basler Kommentar, Basel 2020, Art. 3 KVG N
+21; vgl. BGE 143 V 52, 55 E. 5.2; Urteil des Bundesgerichts 9C_546/2017 vom 30.
+April 2018, E. 2 und 3). Andererseits sieht Art. 3 Abs. 2 KVG in Verbindung mit
+Art. 2 Abs. 1 KVV wiederum Ausnahmen von der Versicherungspflicht für Personen
+mit Wohnsitz in der Schweiz vor. Der Versicherer hat von Amtes wegen
+abzuklären, ob die Bedingungen einer Versicherungspflicht erfüllt sind ( Gebhard Eugster, a.a.O., Art. 3 KVG N
+13).
+
+4.2. Gemäss Art. 5 lit. i des Bundesgesetzes betreffend die Aufsicht über
+die soziale Krankenversicherung vom 26. September 2014 (KVAG; SR 832.12) müssen
+die Versicherer in ihrem örtlichen Tätigkeitsbereich jede
+versicherungspflichtige Person aufnehmen ( Ueli
+Kieser, Kommentierung von Art. 5 KVAG, in: Blechta et al. (Hrsg.),
+Krankenversicherungsgesetz, Krankenversicherungsaufsichtsgesetz, Basler
+Kommentar, Basel 2020, Art. 5 KVAG N 47). Die Aufnahmepflicht hebt die
+Vertragsfreiheit der Krankenversicherer in diesem Punkt auf (BGE 130 I 26, 41
+E. 4.3). Die Aufnahme kann nicht auf bestimmte versicherungspflichtige Personen
+beschränkt werden (Urteil des Bundesgerichts 1P.150/2003 vom 5. Dezember 2003,
+E. 5). Dagegen ist es zulässig, die obligatorische Krankenpflegeversicherung
+nur in einer bestimmten örtlich umschriebenen Region zu betreiben (vgl. Art. 7
+Abs. 2 lit. k; Kieser, a.a.O.,
+Art. 5 KVAG N 47 und Art. 7 KVAG N 70 ff.; Urteil des EVG K 133/03 vom 7. Mai
+2004 E. 3 ff.).
+
+5.
+
+5.1. Zu beurteilen ist vorliegend, ob die Beschwerdegegnerin die Aufnahme
+des Beschwerdeführers in die obligatorische Krankenpflegeversicherung in
+unzulässiger Weise verzögerte. Insbesondere ist zu prüfen, ob die
+Abklärungsmassnahmen der Beschwerdegegnerin betreffend Wohnsitz des
+Beschwerdeführers geboten erschienen und ob diese innert angemessener Frist
+durchgeführt wurden.
+
+5.2. Am 8. September 2022, fünf Tage nach der Antragsstellung durch den
+Beschwerdeführer vom 3. September 2022 (AB 1), ersuchte die Beschwerdegegnerin
+die Einwohnergemeinde [...] um Zustellung einer Wohnsitzbestätigung (AB 2). Am
+12. September 2022 erhielt sie Rückmeldung der Einwohnergemeinde, dass eine
+Wohnsitznahme auf dem Campingplatz in [...] nicht möglich sei (AB 2). Gemäss
+Angaben der Beschwerdegegnerin forderte sie den Beschwerdeführer daraufhin
+mündlich zum Einreichen einer Wohnsitzbestätigung auf (Beschwerdeantwort vom
+17. Januar 2023 S. 3). Dies ist zwar nicht belegt, wird aber vom
+Beschwerdeführer nicht bestritten (vgl. Replik vom 8. Februar 2023). Die
+Beschwerdegegnerin beantwortete das Schreiben des Beschwerdeführers vom 31.
+Oktober 2022 mit E-Mail vom 3. November 2022 (AB 4). Darin tat sie ihr Bedauern
+für die Verzögerung bei der Aufnahme in die Grundversicherung kund und bat den
+Beschwerdeführer, eine Zuzugsbestätigung bei der zuständigen Einwohnerbehörde
+zu beantragen. Gemäss ebenfalls unbestrittenen Ausführungen der
+Beschwerdegegnerin versuchte sie den Beschwerdeführer mehrfach erfolglos zu
+erreichen (Beschwerdeantwort vom 17. Januar 2023 S. 3), bevor sie ihn mit
+Schreiben vom 8. Dezember 2022 (AB 8) ein weiteres Mal um Einreichung einer
+Wohnsitzbestätigung ersuchte. Nach Kenntnisnahme der seitens des
+Beschwerdeführers erhobenen Beschwerde vom 2. Dezember 2022 wandte sich die
+Beschwerdegegnerin mit Schreiben vom 27. Dezember 2022 wiederum an den
+Beschwerdeführer und ersuchte um Zustellung einer Kopie seines Identitätsausweises
+und um die Beantwortung von Fragen betreffend den Wohnsitz und den vorherigen
+Versicherer (AB 6).
+
+5.3. Gemäss der hiervor dargelegten Rechtslage hat die Beschwerdegegnerin
+von Amtes wegen zu prüfen, ob der Antragssteller der Versicherungspflicht in
+der Schweiz unterliegt. Der örtliche Tätigkeitsbereich der Beschwerdegegnerin
+bei der Durchführung der obligatorischen Krankenpflegeversicherung erstreckt
+sich auf die gesamte Schweiz (vgl. Verzeichnis der zugelassenen
+Krankenversicherer des Bundesamtes für Gesundheit [BAG] vom 1. Februar 2023, S.
+3). In welchem Kanton die versicherte Person ihren Wohnsitz hat, ist demnach
+für die Pflicht zur Aufnahme in die obligatorische Grundversicherung der
+Beschwerdegegnerin nicht entscheidend. Massgebliches Kriterium für die
+Versicherungsunterstellung ist jedoch, ob die versicherte Person Wohnsitz in
+der Schweiz im Sinne von Art. 23 ff. ZGB hat (Art. 3 Abs. 1 KVG in Verbindung
+mit Art. 1 Abs. 1 KVV). Es ist folglich nicht zu beanstanden, dass die
+Beschwerdegegnerin nach Eingang des Antrags des Beschwerdeführers vom
+3. September 2022 (AB 1) im Hinblick auf die Feststellung der
+Versicherungspflicht des Beschwerdeführers dessen Wohnsitz abklärte und zunächst
+mit dem Entscheid über die Aufnahme in die obligatorische
+Krankenpflegeversicherung zuwartete.
+
+5.4. Das Vorliegen einer Zuzugs- bzw. einer Wohnsitzbestätigung ist zwar
+nicht Voraussetzung der Wohnsitzbegründung im Sinne von Art. 23 ff. ZGB und
+somit auch keine Bedingung der Versicherungsunterstellung. Das Einholen einer
+Wohnsitzbestätigung als objektives Indiz für die Begründung des
+zivilrechtlichen Wohnsitzes im Sinne von Art. 23 ff. ZGB (vgl. Urteil des
+Bundesgerichts 9C_291/2007 vom 12. Juli 2007 E. 2; 4A_695/2011 vom 18. Januar
+2012 E. 4.1) ist jedoch eine geeignete Massnahme zur Abklärung der
+Versicherungspflicht und läuft dem Rechtsverzögerungsverbot grundsätzlich nicht
+zuwider. Kann der Wohnsitz der versicherten Person, wie im vorliegenden Fall,
+nicht anhand der Wohnsitzbescheinigung zugeordnet werden, hat die Versicherung
+den Lebensmittelpunkt der versicherten Person gestützt auf andere Indizien zu
+ermitteln, was die Abklärung der Versicherungspflicht naturgemäss verzögert. Sie
+ist dabei auch auf die Mitwirkung der versicherten Person angewiesen, etwa auf
+Abgaben zu deren Absicht dauernden Verbleibs (Art. 1 Abs. 1 KVG in Verbindung
+mit Art. 28 Abs. 1 ATSG).
+
+Möglicherweise hätte die Versicherungspflicht rascher ermittelt werden
+können, wenn die Beschwerdegegnerin sich schon vor dem 27. Dezember 2022 (vgl.
+AB 6) beim Beschwerdeführer über andere für den Wohnsitz massgebliche
+Sachverhaltselemente erkundigt hätte. Das Verfahren wurde dadurch jedoch unter
+Beachtung der gesamten Umstände nicht in unzulässigem Masse verzögert. Zwischen
+der Antragsstellung vom 3. September 2022 (AB 1) und Erhebung der Beschwerde vom
+2. Dezember 2022 vergingen lediglich drei Monate. Die Beschwerdegegnerin nahm
+die Sachverhaltsermittlung rasch an die Hand und trieb diese ohne wesentliche
+Unterbrüche voran. Der Beschwerdeführer reagierte demgegenüber nicht auf die
+Kontaktversuche der Beschwerdegegnerin und liess sämtliche Schreiben der
+Beschwerdegegnerin (AB 4; AB 5; AB 6) unbeantwortet. In Anbetracht der
+fehlenden Mitwirkung des Beschwerdeführers kann der Beschwerdegegnerin kein
+ungerechtfertigtes Verzögern des Verfahrens vorgeworfen werden.
+
+5.5. Zusammenfassend ist die Verfahrensdauer unter Würdigung der
+Gesamtumstände, insbesondere der zu beurteilende Sach- und Rechtslage und des
+damit einhergehenden Abklärungsbedarfs sowie der unterlassenen Mitwirkung des
+Beschwerdeführers nicht als übermässig zu qualifizieren. Es liegt folglich keine
+Rechtsverzögerung vor.
+
+6.
+
+6.1. Die Beschwerde ist aufgrund der obenstehenden Erwägungen abzuweisen,
+soweit darauf einzutreten ist.
+
+6.2. Das Verfahren ist gemäss Art. 61 lit. f bis ATSG und § 16
+SVGG kostenlos.
+
+Demgemäss erkennt die
+Präsidentin des Sozialversicherungsgerichts :
+
+://:      Die Beschwerde wird abgewiesen, soweit auf sie
+eingetreten wird.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                  Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer lic. iur. H.
+Hofer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe
+sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin         Bundesamt für Sozialversicherungen
+
+Versandt am:
