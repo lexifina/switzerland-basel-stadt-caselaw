@@ -1,0 +1,410 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.126"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AH"
+docket: "AH.2023.1"
+docket_2: "SVG.2023.126"
+decided: "2023-05-10"
+published: "2023-06-23"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75317&W10_KEY=3049206&nTrefferzeile=189&Template=search_result_document.html"
+cites_decisions: ["8C_336/2012", "8C_738/2007", "8C_738/2016", "8C_781/2010", "AH.2023.1", "BGE 125 V 373", "BGE 128 V 41", "BGE 129 V 113", "BGE 133 V 188", "BGE 134 V 145", "BGE 135 III 378", "BGE 138 V 318", "BGE 144 V 280"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-030.md", "switzerland/bund/acts/830.1/art-035.md", "switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/830.1/art-051.md", "switzerland/bund/acts/830.1/art-056.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.101/art-122.md"]
+---
+
+# Rechtsverweigerungsbeschwerde. Erachtet sich ein Versicherungsträger als nicht zuständig, hat er einen formellen Nichteintretensentscheid zu erlassen, wenn seine Zuständigkeit ausdrücklich behauptet wird.
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 10.
+Mai 2023
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), P. Waegeli,
+Th. Aeschbach
+
+und a.o.
+Gerichtsschreiberin MLaw I. Mostert Meier
+
+Parteien
+
+lic. iur. A____
+
+[...]
+
+Beschwerdeführerin
+
+Ausgleichskasse Basel-Stadt
+
+Wettsteinplatz 1, Postfach, 4001 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AH.2023.1
+
+Rechtsverweigerungsbeschwerde vom
+14. März 2023
+
+Erachtet sich ein
+Versicherungsträger als nicht zuständig, hat er einen formellen
+Nichteintretensentscheid zu erlassen, wenn seine Zuständigkeit ausdrücklich
+behauptet wird.
+
+Tatsachen
+
+I.
+
+Die 1965 geborene Beschwerdeführerin ist der Beschwerdegegnerin
+seit 1996 als Selbständigerwerbende angeschlossen (Beschwerdebeilage
+[BB] 8). Mit Schreiben vom 22. Februar 2023 (BB 3) informierte
+sie die Beschwerdegegnerin, dass ihr Ehemann am 14. Februar 2023 während
+eines Auslandsaufenthalts verstorben sei. Sie ersuchte um Einstellung der
+Rentenzahlungen an den Verstorbenen per März 2023 und bat um die Zustellung des
+entsprechenden Formulars zur Anmeldung ihrer Ansprüche als Witwe. Am gleichen
+Tag wendete sie sich mit identischem Schreiben auch an die
+Sozialversicherungsanstalt Basel-Landschaft (Replikbeilage [RB] 2).
+
+Am 7. März 2023 stellte die Beschwerdeführerin bei der
+Beschwerdegegnerin einen Antrag auf eine Hinterlassenenrente der AHV
+(BB 6). Mit Schreiben vom gleichen Datum verlangte sie unter Hinweis auf Art. 122
+AHVV, dass die Beschwerdegegnerin die Hinterlassenenrente festsetze und
+ausrichte. Sollte sie sich weigern, die Rente festzusetzen und auszurichten, werde
+um Erlass einer entsprechenden Verfügung ersucht (BB 5).
+
+Mit Schreiben vom 8. März 2023 leitete die Beschwerdegegnerin
+die Anmeldung für eine Hinterlassenenrente zuständigkeitshalber an die
+Sozialversicherungsanstalt Basel-Landschaft weiter (Beilage Beschwerdeantwort
+[AB] 2). Am gleichen Tag bestätigte sie sodann der Beschwerdeführerin den
+Eingang der Anmeldung für eine Hinterlassenenrente. Ihre Abklärungen hätten
+ergeben, dass sie für die Ausrichtung der Leistung nicht zuständig seien, da
+der verstorbene Ehemann bereits eine Rente durch die Ausgleichskasse Basel-Landschaft
+bezogen habe. Diese sei für die Festsetzung der Witwenrente zuständig, weshalb
+sie den Antrag an die Ausgleichskasse Basel-Landschaft weitergeleitet habe
+(AB 3).
+
+Mit Verfügung vom 15. März 2023 (RB 2) sprach die
+Sozialversicherungsanstalt Basel-Land­schaft der Beschwerdeführerin rückwirkend
+ab dem 1. März 2023 eine Witwenrente zu.
+
+II.
+
+Mit Eingabe vom 14. März 2023 hat die Beschwerdeführerin
+eine Beschwerde wegen Rechtsverweigerung erhoben und folgende Rechtsbegehren
+gestellt:
+
+1.           ″Es
+sei festzustellen, dass es die Beschwerdegegnerin pflichtwidrig unterlassen
+hat, in Sachen Antrag der Beschwerdeführerin vom 7. März 2023 auf
+Ausrichtung einer Hinterlassenenrente eine Zuständigkeitsverfügung zu erlassen.
+
+2.           Es
+sei weiter festzustellen, dass die Weiterleitung des Antrags der
+Beschwerdeführerin vom 7. März 2023 durch die Beschwerdegegnerin an die Sozialversicherungsanstalt
+Basel-Land­schaft qua Zuständigkeit der Beschwerdegegnerin unzulässig war.
+
+3.           Es
+sei die Beschwerdegegnerin anzuweisen, die der Beschwerdeführerin zustehende
+Hinterlassenenrente festzulegen und auszurichten.
+
+4.           Unter
+o/e-Kostenfolge.″
+
+Mit Beschwerdeantwort vom 29. März 2023 schliesst die
+Beschwerdegegnerin auf Abweisung der Beschwerde.
+
+Die Beschwerdeführerin hält mit Replik vom 12. April 2023
+an den gestellten Rechtsbegehren fest.
+
+III.
+
+Am 10. Mai 2023 findet die Urteilsberatung der Kammer des
+Sozialversicherungsgerichts Basel-Stadt statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Gemäss Art. 57 des Bundesgesetzes vom 6. Oktober 2000 über
+den Allgemeinen Teil des Sozialversicherungsrechts (ATSG, SR 830.1) in
+Verbindung mit § 82 Abs. 1 des basel-städtischen Gerichtsorganisationsgesetzes
+vom 3. Juni 2015 (GOG; SG 154.100) und § 1 Abs. 1 des
+kantonalen Sozialversicherungsgerichtsgesetzes vom 9. Mai 2001 (SVGG; SG
+154.200) beurteilt das Sozialversicherungsgericht Basel-Stadt Beschwerden aus
+dem Bereich der Sozialversicherungen.
+
+1.2. Gemäss Art. 56 Abs. 2 ATSG kann Beschwerde auch erhoben
+werden, wenn der Versicherungsträger entgegen dem Begehren der betroffenen
+Person keine Verfügung oder keinen Einspracheentscheid erlässt. Nach Art. 59
+ATSG ist zur Beschwerde berechtigt, wer durch die angefochtene Verfügung
+berührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung
+hat. Bezogen auf die Rechtsverweigerungsbeschwerde bedeutet dies, dass zu deren
+Erhebung legitimiert ist, wer durch das Fehlen einer anfechtbaren Verfügung
+berührt ist und ein schutzwürdiges Interesse an deren Erlass hat (BGE 133 V 188,
+190 E. 4.1). Die Beschwerdeführerin hat im Zusammenhang mit der Frage nach
+einem allfälligen Anspruch auf Festsetzung und Ausrichtung einer
+Hinterlassenenrente durch die Beschwerdegegnerin diese um Erlass einer
+anfechtbaren Verfügung ersucht (Schreiben vom 7. März 2023 [BB 5]).
+Die Beschwerdegegnerin hat eine solche Verfügung nicht erlassen, was
+unbestritten ist. Damit lag im Zeitpunkt der Beschwerdeerhebung vom
+14. März 2023 in Bezug auf die Ausrichtung einer Witwenrente durch die
+Beschwerdegegnerin ein aktuelles Rechtsschutzinteresse vor. Da zudem die
+örtliche Zuständigkeit gegeben ist (Art. 58 Abs. 1 ATSG), ist auf die
+ansonsten form- und fristgerecht erhobene Beschwerde vorbehältlich der
+Ausführungen in E. 1.3. einzutreten.
+
+1.3. Die Beschwerdeführerin beantragt die Feststellung, dass die
+Beschwerdegegnerin pflichtwidrig den Erlass einer Zuständigkeitsverfügung
+unterlassen habe (Rechtsbegehren Ziff. 1) sowie die Feststellung, dass die
+Weiterleitung des Antrags an die Sozialversicherungsanstalt Basel-Land­schaft
+unzulässig sei (Rechtsbegehren Ziff. 2). Bei Feststellungsbegehren kann
+ein Rechtsschutzinteresse nur bejaht werden, wenn die beschwerdeführende Partei
+ein schutzwürdiges (unmittelbares und aktuelles) Interesse rechtlicher oder
+tatsächlicher Natur an der verlangten Feststellung hat, dass bestimmte Rechte
+oder Pflichten bestehen oder nicht bestehen. Daran fehlt es namentlich dann,
+wenn das Rechtsschutzinteresse der beschwerdeführenden Partei durch einen
+rechtsgestaltenden Entscheid gewahrt werden kann (BGE 128 V 41, 48 E. 3a;
+vgl. auch BGE 135 III 378, 379 f. E. 2.2; Urteil des Bundesgerichts 9C_938/215
+vom 7. Juli 2016 E. 3.2). Die Beschwerdeführerin stellt mit Rechtsbegehren
+Ziff. 3 ein Leistungsbegehren  sie verlangt explizit, die
+Beschwerdegegnerin sei anzuweisen, die ihr zustehende Hinterlassenenrente
+festzulegen und auszurichten  womit das Rechtsschutzinteresse durch einen
+rechtsgestaltenden Entscheid gewahrt werden kann. Folglich ist das
+Rechtsschutzinteresse der Klägerin hinsichtlich der Feststellungsbegehren zu
+verneinen und auf die entsprechenden Begehren ist nicht einzutreten.
+
+1.4. Die Rechtsverweigerungsbeschwerde ist ausschliesslich darauf
+gerichtet, einen anfechtbaren Entscheid des Versicherungsträgers zu erhalten (Urteil
+des Bundesgerichts 8C_738/2016 vom 28. März 2017 E. 3.1.1).
+Streitobjekt ist im vorliegenden Verfahren einzig der gegenüber der
+Beschwerdegegnerin erhobene Vorwurf der Rechtsverweigerung. Materielle Rechte
+und Pflichten sind demgegenüber nicht Gegenstand des Verfahrens (vgl. Urteil
+des Bundesgerichts 8C_336/2012 vom 13. Au­gust 2012 E. 3, nicht
+publiziert in BGE 138 V 318; siehe auch Kieser ,
+ATSG-Kommentar, 4. Aufl. 2020, Art. 56 N. 27, 37 ff.). Somit ist
+zu prüfen, ob die Beschwerdegegnerin verpflichtet gewesen wäre, eine Verfügung
+zu erlassen.
+
+2.
+
+2.1. Die Beschwerdeführerin macht diesbezüglich geltend, sie habe am
+7. März 2023 mit offiziellem Formular bei der Beschwerdegegnerin einen
+Antrag auf Ausrichtung einer Hinterlassenenrente gestellt. Gemäss Art. 35
+Abs. 1 ATSG sei der angerufene Versicherungsträger verpflichtet, seine
+Zuständigkeit von Amtes wegen zu prüfen. Erachte er sich als nicht zuständig,
+habe er eine Verfügung zu erlassen, falls eine Partei die Zuständigkeit
+behaupte (Art. 35 Abs.3 ATSG). Indem die Beschwerdegegnerin am
+8. März 2023 lediglich eine Mitteilung verfasst habe, sie sei nicht
+zuständig, weshalb sie den Antrag an die zuständige Stelle weiterleite, habe
+sie gegen Art. 35 Abs. 3 ATSG verstossen, womit ihr Anspruch auf
+Erlass einer Verfügung verletzt worden sei (Beschwerde B.1). Das Nichterlassen
+einer Verfügung trotz klarer Verpflichtung zum Erlass einer solchen, sei ein
+Fall einer formellen Rechtsverweigerung, welche gemäss Art. 29 Abs. 1
+der Bundesverfassung der Schweizerischen Eidgenossenschaft (BV; SR 101)
+untersagt sei (Beschwerde B.2).
+
+2.2. Dagegen bringt die Beschwerdegegnerin vor, nach Art. 67
+Abs. 1 der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung
+(AHVV; SR 831.101) werde der Anspruch auf eine Rente oder
+Hilflosenentschädigung durch das Einreichen eines Anmeldeformulars bei der
+gemäss den Art. 122 ff. zuständigen Ausgleichskasse beantragt. Zuständig
+für die Festsetzung und Auszahlung der Renten von Ehepaaren sei die
+Ausgleichskasse, welcher die Auszahlung der Rente des Ehegatten obliegt, der
+das Rentenalter zuerst erreicht habe (Art. 64a des Bundesgesetzes vom 20.
+Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG; SR 831.10).
+Gemäss Art. 30 ATSG hätten alle Stellen, die mit der Durchführung der Sozialversicherung
+betraut seien, versehentlich an sie gelangte Anmeldungen, Gesuche und Eingaben
+entgegenzunehmen. Sie hätten das Datum der Einreichung festzuhalten und die
+entsprechenden Unterlagen an die zuständige Stelle weiterzuleiten. Die
+Weiterleitung sei der Beschwerdeführerin formlos mitgeteilt worden, da nicht
+über den Zuspruch oder die Ablehnung einer Leistung entschieden worden sei.
+Diese Aufgabe obliege der zuständigen Ausgleichskasse, welche eine
+entsprechende Verfügung zu erlassen habe (Beschwerdeantwort Rz. 7 ff.).
+
+3.
+
+3.1. Wer eine Versicherungsleistung beansprucht, hat sich beim
+zuständigen Versicherungsträger in der für die jeweilige Sozialversicherung
+gültigen Form anzumelden. Art. 35 Abs. 1 ATSG bezieht sich auf die
+Zuständigkeit des Versicherers, womit die Zuständigkeit in örtlicher,
+sachlicher und funktioneller Hinsicht gemeint ist ( Kieser , a.a.O., Art. 35 ATSG N. 4). Nach
+Art. 35 Abs. 1 ATSG prüft der Versicherungsträger seine Zuständigkeit
+von Amtes wegen. Falls er sich als zuständig erachtet, stellt er dies durch
+Verfügung fest, wenn eine Partei die Zuständigkeit bestreitet (Abs. 2);
+erachtet er sich hingegen als unzuständig, tritt er durch Verfügung auf die Sache
+nicht ein, wenn eine Partei die Zuständigkeit behauptet (Art. 35
+Abs. 3 ATSG). Wird eine Anmeldung nicht formgerecht oder bei einer
+unzuständigen Stelle eingereicht, so ist für die Einhaltung der Fristen und für
+die an die Anmeldung geknüpften Rechtswirkungen trotzdem der Zeitpunkt
+massgebend, in dem sie der Post übergeben oder bei der unzuständigen Stelle
+eingereicht wird (Art. 29 Abs. 1 und 3 ATSG). Alle Stellen, die mit
+der Durchführung der Sozialversicherung betraut sind, haben versehentlich an
+sie gelangte Anmeldungen, Gesuche und Eingaben entgegenzunehmen. Sie halten das
+Datum der Einreichung fest und leiten die entsprechenden Unterlagen an die
+zuständige Stelle weiter (Art. 30 ATSG).
+
+3.2. Nach dem Grundsatz von Art. 49 Abs. 1 ATSG hat der
+Versicherungsträger über Leistungen, Forderungen und Anordnungen, die erheblich
+sind oder mit denen die betroffene Person nicht einverstanden ist, schriftlich
+Verfügungen zu erlassen. Die Verfügungen werden mit einer Rechtsmittelbelehrung
+versehen und sind zu begründen, wenn sie den Begehren der Parteien nicht voll
+entsprechen (Art. 49 Abs. 3 ATSG). Leistungen, Forderungen und Anordnungen,
+die nicht unter Art. 49 Abs. 1 ATSG fallen, können in Anwendung von
+Art. 51 Abs. 1 ATSG in einem formlosen Verfahren behandelt werden. Für
+ein formloses Verfahren kommen insbesondere Entscheidungen, welche nicht
+erheblich sind oder solche, mit welchen die betroffene Person einverstanden
+ist, in Frage (vgl. Kieser , a.a.O.
+Art. 51 N. 5). Für den Fall, dass die betroffene Person nicht
+einverstanden ist, räumt Art. 51 Abs. 2 ATSG die Möglichkeit ein, den
+Erlass einer Verfügung zu verlangen (BGE 134 V 145, 147 E. 2.3).
+
+3.3. Das Schreiben der Beschwerdegegnerin vom 8. März 2023 (AB 3),
+in dem sie sich als unzuständig erklärte und den Rentenantrag an die ihrer
+Meinung nach zuständige Behörde weiterleitete, war nicht als Verfügung
+bezeichnet und enthielt keine Rechtsmittelbelehrung. Mit Blick auf die
+vorstehend dargelegten Grundsätze ist der Beschwerdegegnerin insoweit
+beizupflichten, dass sie keinen Entscheid über Leistungen, Forderungen und Anordnungen,
+die unter Art. 49 Abs. 1 ATSG fallen, erliess, weshalb sie sich auf
+das formlose Verfahren gemäss Art. 51 Abs. 1 ATSG beschränken konnte (vgl.
+Urteil des Bundesgerichts 8C_738/2007 vom 26. März 2008 E. 5). Andererseits
+ist festzuhalten, dass die Beschwerdeführerin sich mit ihrem Antrag vom
+7. März 2023 auf Ausrichtung einer Witwenrente ausdrücklich an die
+Beschwerdegegnerin gewendet und explizit um den Erlass einer Verfügung gebeten
+hat. Wenn eine Partei, wie im vorliegenden Fall, die Zuständigkeit eines
+Versicherungsträgers ausdrücklich behauptet, scheidet das
+Vorgehen der formlosen Übermittlung aus (vgl. auch Art. 35
+Abs. 3 ATSG; E. 3.1. hiervor) . In diesem Fall kommt bei
+Verneinung der Zuständigkeit nur ein formeller Nichteintretensentscheid in
+Betracht. Folglich erweist sich das Schreiben der Beschwerdegegnerin vom
+8. März 2023 mit der formlosen Übermittlung des Antrags der
+Beschwerdeführerin an die Sozialversicherungsanstalt Basel-Landschaft als
+rechtswidrig.
+
+4.
+
+4.1. Die Beschwerdeführerin bezweckt mit ihrer Beschwerde offensichtlich
+die (gerichtliche) Klärung der Frage, ob die Beschwerdegegnerin zuständig zur
+Festsetzung und Ausrichtung ihrer Hinterlassenenrente ist. Würde nun die Sache
+zum Erlass einer Nichteintretensverfügung an die Beschwerdegegnerin
+zurückgewiesen, käme dies aus den nachfolgend erläuterten Gründen einem
+formellen Leerlauf gleich, welcher dem Gebot der Prozessökonomie zuwiderliefe
+(Urteil des Bundesgerichts 8C_781/2010 vom 15. März 2011 E. 2.4 mit
+Hinweisen).
+
+4.2. Die Rechtsverweigerungsbeschwerde ist ausschliesslich darauf
+gerichtet, einen anfechtbaren Entscheid des Versicherungsträgers zu erhalten
+(Urteil des Bundesgerichts 8C_738/2016 vom 28. März 2017 E. 3.1.1;
+siehe E. 1.4 hiervor). Zur Erhebung der Rechtsverweigerungsbeschwerde ist
+somit legitimiert, wer durch das Fehlen einer anfechtbaren Verfügung berührt
+ist und ein schutzwürdiges Interesse an deren Erlass hat (BGE 133 V 188, 190
+E. 4.1; siehe auch E. 1.2. hiervor). Liegt das aktuelle Interesse im
+Zeitpunkt der Beschwerdeerhebung vor, fällt es aber nachträglich im Verlaufe
+des Verfahrens dahin, ist die Beschwerde aus diesem Grunde als gegenstandslos
+oder erledigt abzuschreiben (BGE 125 V 373, 374 E. 1).
+
+4.3. Am 15. März 2023 verfügte die Sozialversicherungsanstalt
+Basel-Landschaft die Zusprache einer Hinterlassenenrente an die
+Beschwerdeführerin rückwirkend ab dem 1. März 2023 (RB 2). Damit kann
+die Beschwerdeführerin im Rahmen des mit dieser Verfügung eingeleiteten
+Verfahrens die Zuständigkeit bzw. die Nichtzuständigkeit der
+Sozialversicherungsanstalt Basel-Landschaft zur Festsetzung und Ausrichtung
+ihrer Witwenrente gerichtlich feststellen lassen. Unter diesen Umständen
+ist das Rechtsschutzinteresse an der Rechtsverweigerungsbeschwerde im Verlauf des
+Gerichtsverfahrens dahingefallen, und die Beschwerde ist gegenstandslos
+geworden und damit abzuschreiben.
+
+5.
+
+5.1. Zu befinden bleibt noch über die Verfahrens- und allfälligen
+Parteikosten des vorliegenden Beschwerdeverfahrens.
+
+5.2. Das Verfahren ist kostenlos (es liegt keine bundesrechtliche
+Regelung vor, welche im vorliegenden Fall zu einer Kostenpflicht führen würde;
+vgl. Art. 61 lit. f bis ATSG).
+
+5.3. 5.3.1.    Die Beschwerdeführerin beantragt die Ausrichtung einer
+Parteientschädigung und hat ihre Honorarnote eingereicht. Gemäss Art. 61
+lit. g ATSG hat die obsiegende Beschwerde führende Person Anspruch auf
+Ersatz der Parteikosten. Diese werden vom Versicherungsgericht festgesetzt und
+ohne Rücksicht auf den Streitwert nach der Bedeutung der Streitsache und nach
+der Schwierigkeit des Prozesses bemessen.
+
+5.3.2.     Wie dargelegt (E. 1.3. hiervor), ist auf die
+Feststellungsbegehren (Rechtsbegehren Ziff. 1 und Ziff. 2) nicht
+einzutreten. In diesem Umfang besteht also zum vorn­herein kein
+Parteientschädigungsanspruch der Beschwerdeführerin.
+
+5.3.3.     Was die Rechtsverweigerungsbeschwerde gegen die
+Beschwerdegegnerin betrifft, hat das Bundesgericht in ständiger Rechtsprechung
+den Anspruch der beschwerdeführenden Partei auf Entschädigung auch bei Eintritt
+von Gegenstandslosigkeit anerkannt, wenn es die Prozessaussichten rechtfertigen
+(BGE 129 V 113, 115 f. E. 3.1). Die Beschwerdeführerin beantragt die
+Ausrichtung einer Parteientschädigung, jedoch vertritt sie sich als Anwältin
+selbst vor Gericht. Wenn eine Anwältin oder ein Anwalt in eigener Sache
+prozessiert, ist nur ausnahmsweise  beispielsweise bei Vorliegen einer
+komplizierten Sache mit hohem Streitwert oder bei hohem Arbeitsaufwand, welcher
+den üblichen Aufwand für die Besorgungen der persönlichen Angelegenheiten
+übersteigt  eine Parteientschädigung zuzusprechen (BGE 144 V 280, 298
+E. 8.2 mit Hinweisen). Das Vorliegen solcher Umstände macht die
+Beschwerdeführerin nicht geltend; sie sind denn auch nicht ersichtlich.
+Angesichts dessen ist ihr keine Parteientschädigung zuzusprechen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird als gegenstandlos
+geworden abgeschrieben, soweit darauf eingetreten wird.
+
+Das Verfahren ist kostenlos.
+
+Es werden keine Parteientschädigungen
+zugesprochen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+Dr. G. Thomi MLaw I.
+Mostert Meier
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin           Bundesamt für Sozialversicherungen
+
+Versandt am:
