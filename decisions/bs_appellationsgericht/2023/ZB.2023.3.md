@@ -1,0 +1,1973 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.402"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2023.3"
+docket_2: "AG.2023.402"
+decided: "2023-05-30"
+published: "2023-09-05"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75377&W10_KEY=3052836&nTrefferzeile=521&Template=search_result_document.html"
+cites_decisions: ["4A_157/2016", "4A_255/2021", "4A_397/2016", "4A_536/2017", "4A_580/2015", "4A_651/2012", "4A_72/2021", "5A_105/2009", "5A_112/2020", "5A_117/2021", "5A_131/2007", "5A_141/2014", "5A_160/2011", "5A_165/2018", "5A_249/2018", "5A_281/2020", "5A_288/2021", "5A_311/2019", "5A_312/2019", "5A_373/2018", "5A_418/2019", "5A_452/2010", "5A_459/2015", "5A_467/2021", "5A_475/2018", "5A_479/2012", "5A_537/2012", "5A_555/2013", "5A_582/2020", "5A_59/2016", "5A_591/2021", "5A_60/2022", "5A_613/2022", "5A_617/2022", "5A_629/2019", "5A_685/2019", "5A_696/2019", "5A_704/2013", "5A_719/2013", "5A_72/2016", "5A_722/2020", "5A_728/2015", "5A_743/2017", "5A_744/2020", "5A_776/2021", "5A_800/2019", "5A_848/2015", "5A_875/2015", "5A_88/2020", "5A_90/2017", "5A_923/2014", "5A_952/2019", "5A_954/2021", "5D_65/2014", "BGE 127 III 289", "BGE 129 III 288", "BGE 129 III 417", "BGE 133 III 694", "BGE 134 III 151", "BGE 137 III 118", "BGE 138 III 374", "BGE 140 III 231", "BGE 141 III 472", "BGE 141 III 569", "BGE 142 III 271", "BGE 142 III 413", "BGE 142 III 481", "BGE 142 III 612", "BGE 142 III 617", "BGE 143 III 520", "BGE 144 III 394", "BGE 144 III 469", "BGE 144 III 481", "BGE 147 III 265", "BGE 147 III 301", "VD.2019.131", "ZB.2015.28", "ZB.2016.44", "ZB.2017.1", "ZB.2017.40", "ZB.2018.35", "ZB.2018.54", "ZB.2019.22", "ZB.2019.27", "ZB.2019.29", "ZB.2020.24", "ZB.2020.38", "ZB.2020.41", "ZB.2020.6", "ZB.2021.10", "ZB.2021.18", "ZB.2021.42", "ZB.2021.43", "ZB.2022.11", "ZB.2022.26", "ZB.2022.41", "ZB.2023.3"]
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-125.md", "switzerland/bund/acts/210/art-176.md", "switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-285.md", "switzerland/bund/acts/210/art-298.md", "switzerland/bund/acts/210/art-298b.md", "switzerland/bund/acts/210/art-301a.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-058.md", "switzerland/bund/acts/272/art-064.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-160.md", "switzerland/bund/acts/272/art-271.md", "switzerland/bund/acts/272/art-272.md", "switzerland/bund/acts/272/art-296.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/291/art-046.md", "switzerland/bund/acts/291/art-085.md", "switzerland/bund/acts/642.11/art-035.md"]
+---
+
+# Getrenntleben
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2023.3
+
+ENTSCHEID
+
+vom 30.
+Mai 2023
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur. André Equey,
+
+Dr. phil. und MLaw
+Jacqueline Frossard
+
+und Gerichtsschreiberin
+MLaw Nadja Fischer
+
+Parteien
+
+A____ Berufungsklägerin
+
+[...]                                                      
+                                          Ehefrau
+
+vertreten durch B____, Advokatin,
+
+[...]
+
+gegen
+
+C____ Berufungsbeklagter
+
+[...]                                                                                              Ehemann
+
+vertreten durch D____, Advokatin,
+
+[...]
+
+Gegenstand
+
+Berufung gegen einen
+Entscheid des Einzelgerichts in Zivilsachen
+
+vom 18. Oktober 2022
+
+betreffend Getrenntleben
+
+Sachverhalt
+
+Die Ehegatten A____ (nachfolgend Ehefrau bzw.
+Berufungsklägerin) und C____ (nachfolgend Ehemann bzw. Berufungsbeklagter)
+heirateten [...] 2014. Sie sind die Eltern von E____, geboren [...] 2009, und F____,
+geboren [...] 2011.
+
+Mit Entscheid vom 18. Oktober 2022 regelte die Zivilgerichtspräsidentin
+das Getrenntleben der Ehegatten wie folgt:
+
+«1.       Den Ehegatten
+wird das seit 1. April 2022 bestehende Getrenntleben bestätigt.
+
+2.         Beide
+Ehegatten und die Kinder sind bereits aus der ehelichen Wohnung ausgezogen.
+
+3.         Die
+Obhut über die Kinder E____, geb. [...] 2009, und F____, geb. [...] 2011,
+verbleibt beim Vater resp. wird dem Vater zugeteilt.
+
+4.         Der
+Kindsvater wird ermächtigt, den Wohnsitz der Kinder nach [...], Deutschland, zu
+verlegen und die Kinder dort einwohnerrechtlich anzumelden und in der Schule in
+[...] anzumelden.
+
+5.1.      Die Kindsmutter betreut die Kinder zu
+folgenden Zeiten:
+
+-           Jeden Dienstag
+nach der Schule (die Kinder fahren selbständig zur Mutter) bis am
+Mittwochmorgen mit Übernachtung bei der Mutter. Die Mutter bringt die Kinder am
+Mittwochmorgen in die Schule.
+
+-           Jede zweite Woche
+von Freitag nach der Schule (ca. 13.15 Uhr) bis 20 Uhr (inkl. Mittag- und
+Abendessen bei der Mutter). Die Kinder fahren selbständig zur Mutter und werden
+von der Mutter wieder nach [...] gebracht.
+
+-           Jede zweite Woche
+von Freitag nach der Schule (ca. 13.15 Uhr) bis Montagmorgen Schulanfang mit
+drei Übernachtungen bei der Mutter. Die Mutter bringt die Kinder am
+Montagmorgen in die Schule.
+
+Diese
+Betreuungsregelung gilt ab Freitag, dem 28. Oktober 2022, und beginnt mit dem
+langen Wochenende.
+
+5.2.      Die Kinder verbringen die
+Hälfte aller Schulferien und Feiertage bei der Mutter und die andere Hälfte
+beim Vater, alternierend wie folgt:
+
+-       Weihnachtsferien 2022 (21. Dezember 2022 bis 8. Januar 2023):
+
+21. Dezember 2022 bis 30. Dezember 2022
+nach dem Mittag beim Vater (inkl. Weihnachten)
+
+30. Dezember 2022 nach dem Mittag bis 8. Januar 2023
+bei der Mutter (inkl. Silvester/Neujahr)
+
+-        Osterferien 2023 (6. April 2023 bis 16. April
+2023)
+
+6. April 2023 bis 11. April 2023 nach dem Mittag bei
+der Mutter (inkl. Ostern)
+
+11. April
+2023 nach dem Mittag bis 16. April 2023 beim Vater
+
+-       Pfingstferien 2023
+
+29. Mai 2023 bis 4. Juni 2023 beim Vater
+
+5. Juni
+2023 bis 11. Juni 2023 bei der Mutter
+
+-        Sommerferien 2023 (27. Juli 2023 bis 10.
+September 2023)
+
+27. Juli 2023 bis 13. August 2023 bei der Mutter
+
+14. August 2023 bis 27. August 2022 beim Vater
+
+28. August 2023 bis 3. September bei der Mutter
+
+4.
+September 2023 bis 10. September 2023 beim Vater.
+
+-        Herbstferien 2023 (30. Oktober 2023 bis 3.
+November 2023) beim Vater
+
+Im Jahr
+darauf wird umgekehrt (Weihnachtsferien erste Hälfte bei der Mutter, inkl.
+Weihnachten, zweite Hälfte beim Vater inkl. Silvester/Neujahr; Osterferien
+erste Hälfte beim Vater, zweite Hälfte bei der Mutter etc.)
+
+Während
+der Ferien/Feiertage gilt die "normale Betreuungsregelung" gemäss
+Ziffer 5.1 nicht.
+
+Eine
+einvernehmliche andere Verteilung bleibt vorbehalten.
+
+5.3       Allfällige Streitigkeiten über den persönlichen
+Verkehr entscheidet die zuständige Kindesschutzbehörde / das zuständige
+Jugendamt.
+
+6.         Es wird festgehalten, dass die Ehefrau
+derzeit mangels Leistungsfähigkeit nicht in der Lage ist, Unterhaltsbeiträge
+für die beiden Kinder zu leisten.
+
+7.         Der Ehemann wird verpflichtet, der Ehefrau
+ab 1. November 2022 an ihren Unterhalt einen monatlichen und monatlich im
+Voraus zu bezahlenden Unterhaltsbeitrag von CHF 1'290.00 zu bezahlen. Der
+Unterhaltsbeitrag ist befristet bis zum 31. Oktober 2023.
+
+8.         Dieser Entscheid basiert auf einem
+monatlichen Nettoeinkommen des Ehemannes von CHF 8'300.00 (100%-Pensum, inkl.
+13 Monatslohn, inkl. Erziehungszulage, ohne Kinderzulagen, vor
+Quellensteuerabzug, die laufenden Lohnpfändungen nicht berücksichtigt) sowie
+einem monatlichen durchschnittlichen Nettoeinkommen der Ehefrau von CHF
+3'000.00 (Stundenlohn, durchschnittlich 120 Stunden pro Monat, inkl. 13.
+Monatslohn, ohne Kinderzulagen).
+
+Die
+Ehegatten verfügen über kein unterhaltsrelevantes Vermögen.
+
+Der
+Bedarf des Ehemannes beträgt CHF 3910.00 und setzt sich wie folgt zusammen:
+Grundbetrag: CHF 1350.00; Wohnkostenanteil: CHF 620.00; Krankenkasse:
+CHF 540.00; Selbstbehalt/Franchise: CHF 50.00; Transportkosten (Auto):
+CHF 250.00; Steuern pro Monat geschätzt: CHF 1100.00. Der Ehemann hat
+noch auf absehbare Zeit Lohnpfändungen.
+
+Der
+Bedarf der Ehefrau beträgt CHF 4290.00 und setzt sich wie folgt zusammen:
+Grundbetrag: CHF 1200.00; angemessene Wohnkosten: CHF 1600.00; Krankenkasse:
+CHF 550.00; SelbstbehaIt/Franchise: CHF 50.00; U-Abo: CHF 80.00; Steuern pro
+Monat: CHF 510.00, Weiterbildungskosten: CHF 300.00.
+
+Der
+Bedarf von E____ und F____ beträgt jeweils CHF 1138.00 und setzt sich wie
+folgt zusammen: Grundbetrag CHF 600.00; Wohnkostenanteil: CHF 310.00;
+Krankenkasse: CHF 145.00; SelbstbehaIt/Franchise: CHF 30.00; U-Abo: CHF 53.00.
+
+9.         Beiden Ehegatten wird die unentgeltliche
+Rechtspflege bewilligt, der Ehefrau mit B____, Advokatin, und dem Ehemann
+mit D____, Advokatin, als Rechtsbeistand. Eine Rückforderung bei verbesserten
+wirtschaftlichen Verhältnissen bleibt vorbehalten (Art. 123 Abs. 1 ZPO).
+
+10.       Die Ehegatten tragen die Gerichtskosten von
+CHF 400.00 bei Eröffnung im Dispositiv bzw. CHF 800.00 bei schriftlicher
+Entscheidbegründung je zur Hälfte, wobei sie zufolge Bewilligung der
+unentgeltlichen Rechtspflege für beide Ehegatten einstweilen zu Lasten des
+Staates gehen.
+
+Jeder
+Ehegatte trägt seine Anwaltskosten bzw. Auslagen selbst.
+
+11.       B____, Advokatin, als Vertreterin der
+Ehefrau werden CHF 3734.20 inkl. Auslagen, zuzüglich CHF 287.55 MWST
+(total CHF 4021.75) aus der Gerichtskasse ausgewiesen. D____, Advokatin, als
+Vertreterin des Ehemannes werden CHF 3120.90 inkl. Auslagen, zuzüglich CHF 240.30
+MWST (total CHF 3361.20) aus der Gerichtskasse ausgewiesen.»
+
+Nach erfolgter Eröffnung im Dispositiv ersuchte die Ehefrau
+einerseits beim Zivilgericht um Ausfertigung einer schriftlichen Begründung
+dieses Entscheids und beantragte dem Appellationsgericht andererseits, es sei
+«der hiermit angemeldeten Berufung» gegen den Entscheid des Zivilgerichts Basel
+vom 18. Oktober 2022 die aufschiebende Wirkung betreffend die Ziffern 3 und 4
+zu erteilen und dementsprechend festzuhalten, dass diese Ziffern des Urteils
+nicht vollstreckbar seien und der Wohnsitz der Kinder bis auf weiteres nicht
+wirksam ins Ausland verlegt werden könne. Mit Verfügung vom 20. Oktober 2022
+schob der Instruktionsrichter hierauf die Vollstreckbarkeit von Ziffer 4
+des Entscheids [...] des Zivilgerichts vom 18. Oktober 2022 vorläufig
+superprovisorisch auf und untersagte dem Ehemann vorläufig, den Wohnsitz der
+Kinder nach [...] in Deutschland zu verlegen, die Kinder dort
+einwohnerrechtlich anzumelden und sie in der Schule in [...] anzumelden.
+Dementsprechend wurde auch die Anwendung von Ziff. 5.3 des
+vorinstanzlichen Entscheids superprovisorisch vorläufig aufgeschoben.
+Demgegenüber sah der Instruktionsrichter von der Anordnung eines
+superprovisorischen Aufschubs der Vollstreckbarkeit der Zuteilung der Obhut
+über die Kinder E____ und F____ gemäss Ziffer 3 des genannten Entscheids des
+Zivilgerichts ab. Mit Entscheid DGZ.2022.3 vom 2. Dezember 2022 schob das
+Appellationsgericht in teilweiser Gutheissung des Gesuchs der Ehefrau die
+Vollstreckbarkeit von Ziffer 4 des Entscheids des Zivilgerichts vom 18. Oktober
+2022 ([...]) in dem Sinne teilweise auf, dass dem Ehemann vorläufig nicht
+gestattet wurde, sich und die Kinder in [...] einwohnerrechtlich anzumelden.
+Die weiter gehenden Begehren der Ehefrau wie auch das vom Ehemann mit Eingabe
+vom 28. Oktober 2022 gestellte Gesuch betreffend einen Vollstreckungsaufschub
+der Ziffern 5.2 und 7 des Entscheids des Zivilgerichts vom 18. Oktober
+2022 wurden abgewiesen. Der schriftlich begründete Entscheid des Zivilgerichts vom
+18. Oktober 2022 wurde der Ehefrau am 4. Januar 2023 eröffnet.
+
+Mit Berufung vom 16. Januar 2023 stellte die Ehefrau als
+Berufungsklägerin folgende Anträge:
+
+«1.            Es seien Ziffer 3 und 4 des Entscheids des
+Zivilgerichts Basel vom 18.10.22 aufzuheben und es sei den Eltern die hälftige
+alternierende Obhut zuzuteilen, mit Wohnsitz und einwohnerpolizeilicher Meldung
+der Kinder bei der Mutter, eventualiter sei die alleinige Obhut über die
+Töchter E____, geb. [...] 2009, und F____, geb. [...] 2011, der Mutter
+zuzuteilen, subeventualiter sei die Obhutszuteilung und Domizilzuweisung für
+die Kinder an den Vater bis Sommer 2023 zu befristen und ab Sommer 2023 die
+alternierende Obhut mit Wohnsitz der Kinder bei der Mutter anzuordnen.
+
+2.              Es sei Ziffer 5.1 des Entscheids des
+Zivilgerichts Basel vom 18.10.22 aufzuheben und die wochenweise alternierende
+Obhut mit Wechsel jeweils am Freitagabend anzuordnen, eventualiter im Falle der
+Obhutszuteilung an die Mutter sei dem Vater ein grosszügiges Kontaktrecht mit
+den beiden Mädchen im Rahmen seiner Möglichkeiten einzuräumen, subeventualiter
+für den Fall der Bestätigung der Obhutszuteilung an den Vater seien der Mutter
+per sofort mindestens die erstinstanzlich gewährten Betreuungszeiten gemäss
+Ziffer 5.1 des Entscheids vom 18.10.22 zu belassen und es sei der mütterliche
+Betreuungsanteil bis Sommer 2023 sukzessive auf die Hälfte auszuweiten.
+
+3.              Es sei in Abänderung von Ziffer 7 des
+Entscheids des Zivilgerichts vom 18.10.22 der Ehemann zur Zahlung folgender
+monatlicher Unterhaltsbeiträge an die Ehefrau zu verurteilen (bei hälftiger
+alternierender Obhut):
+
+- Ab November 2022
+je CHF 1'500 beide Töchter E____ und F____ (jeweils CHF 780 Barunterhalt und
+CHF 720 Betreuungsunterhalt) zuzüglich einer der beiden Kinderzulagen
+
+- Ab November 2022
+CHF 420 Ehegattenunterhalt
+
+Eventualiter für den Fall der Zuteilung der alleinigen Obhut
+an die Mutter sei der Ehemann zur Zahlung folgender monatlicher
+Unterhaltsbeiträge an die Ehefrau zu verurteilen:
+
+- Ab November 2022 je CHF 1'810 für beide Töchter E____
+und F____ (jeweils CHF 1090 Barunterhalt und CHF 720 Betreuungsunterhalt)
+zuzüglich beider Kinderzulagen
+
+- Ab November 2022 CHF 420 Ehegattenunterhalt
+
+Subeventualiter für den Fall der Beibehaltung der Obhut beim
+Ehemann bis Sommer 2023 und alternierender hälftiger Obhut mit Wohnsitz der
+Kinder bei der Mutter ab Sommer 2023 sei der Ehemann zur Zahlung folgender
+monatlicher Unterhaltsbeiträge an die Ehefrau zu verurteilen:
+
+- Ab November 2022 bis Sommer 2023 je CHF 1'205 für die
+beiden Töchter E____ und F____ (jeweils CHF 485 Barunterhalt und CHF 720
+Betreuungsunterhalt) zuzüglich einer der beiden Kinderzulagen, falls die
+Fixkosten der Kinder bei der Mutter lokalisiert, oder je CHF 1080 pro Kind
+(jeweils CHF 360 Barunterhalt und CHF 720 Betreuungsunterhalt) ohne
+Kinderzulage, falls die Fixkosten vorübergehend beim Vater eingesetzt werden
+sollten, eventuell statt als Kinderunterhalt als Ehegattenunterhalt
+ausgestaltet für die bei der Ehefrau anfallenden Kosten und Ausgaben der Kinder
+sowie deren Betreuungsbedarf.
+
+- Ab Sommer 2023 je CHF 1810 für die beiden Töchter E____
+und F____ (jeweils CHF 1090 Barunterhalt und CHF 720 Betreuungsunterhalt)
+zuzüglich beider Kinderzulagen
+
+- Für die Ehefrau ab November 2022 bis Sommer 2023 CHF
+588 und ab Sommer 2023 CHF 420 Ehegattenunterhalt
+
+Subsubeventualiter bei vollständiger Bestätigung der
+erstinstanzlichen Regelung der Kinderzuteilung hinsichtlich Obhut, Wohnsitz und
+Betreuung ohne Anordnung des Übergangs zur alternierenden Obhut per Sommer 2023
+sei der Ehemann zu verurteilen, der Ehefrau ab November 2022 einen monatlichen
+Unterhaltsbeitrag von CHF 2'740 zu bezahlen.
+
+4.              Es seien in Abänderung von Ziffer 8 des
+Entscheids des Zivilgerichts vom 18.10.22 die Berechnungsgrundlagen bei allen
+Beteiligten den letztlich berücksichtigten Einkommens- und Bedarfszahlen
+anzupassen.
+
+5.              Unter o/e-Kostenfolge.
+
+6.              Es sei der Ehefrau der Kostenerlass mit der
+Unterzeichnenden als unentgeltliche Rechtsbeiständin auch für das
+Berufungsverfahren zu bewilligen.
+
+Mit Berufungsantwort vom 3. Februar 2023 beantragte
+der Ehemann als Berufungsbeklagter, es sei unter Kosten- und
+Entschädigungsfolge «auf die Berufungsklage vom 16. Januar 2023 nicht
+einzutreten». Eventualiter sei diese vollumfänglich abzuweisen. In prozessualer
+Hinsicht beantragte er die Bewilligung der unentgeltlichen Rechtspflege.
+
+Die Tatsachen und Parteistandpunkte ergeben sich,
+soweit sie für den Entscheid relevant sind, aus den nachfolgenden Erwägungen.
+Der vorliegende Entscheid ist auf dem Zirkulationsweg ergangen.
+
+Erwägungen
+
+1.
+
+1.1 Gegenstand
+des angefochtenen Entscheids des Zivilgerichts vom 18. Oktober 2022 sind
+Massnahmen zum Schutz der ehelichen Gemeinschaft im Sinn von Art. 271 der
+Schweizerischen Zivilprozessordnung (ZPO, SR 272). Dieser Entscheid ist
+gemäss Art. 308 Abs. 1 lit. b ZPO mit Berufung anfechtbar. Die
+Berufung richtet sich gegen die Regelung der Obhut und des Aufenthaltsorts der
+gemeinsamen Kinder der Parteien wie auch des Unterhalts. Streitig sind damit
+sowohl vermögensrechtliche als auch nicht vermögensrechtliche Aspekte, sodass
+insgesamt kein Streitwerterfordernis gilt (vgl. BGer 5A_629/2019 vom
+13. November 2020 E. 1.1; AGE ZB.2021.18 vom 17. Oktober 2021 E. 1.1,
+ZB.2020.38 E. 1.1 vom 11. Mai 2021). Für Massnahmen zum Schutz der ehelichen
+Gemeinschaft ist das summarische Verfahren anwendbar (Art. 271 ZPO).
+
+1.2
+
+1.2.1 Mit
+seiner Berufungsantwort stellt sich der Berufungsbeklagte auf den Standpunkt,
+die Berufungsklägerin belege in ihrer Berufungsschrift nicht, inwieweit
+Berufungsgründe im Sinne einer unrichtigen Rechtsanwendung oder einer
+unrichtigen Feststellung des Sachverhalts gemäss Art. 310 ZPO erfüllt seien,
+weshalb auf die Berufung nicht einzutreten sei. Darin kann ihm offensichtlich
+nicht gefolgt werden.
+
+1.2.2 Das
+Berufungsverfahren ist als eigenständiges Verfahren ausgestaltet. Es dient
+nicht der Vervollständigung des vorinstanzlichen Verfahrens, sondern der
+Überprüfung und Korrektur des erstinstanzlichen Entscheides im Lichte konkret
+dagegen vorgebrachter Beanstandungen (BGE 142 III 413 E. 2.2.2 m. H.; Hurni , Der Rechtsmittelprozess der ZPO,
+in: ZBJV 2020, S. 71, 74). Entsprechend ist die Berufung gemäss Art. 311
+Abs. 1 ZPO zu begründen. Die berufungsklägerische Partei muss aufzeigen,
+inwiefern sie den angefochtenen Entscheid nach Massgabe von Art. 310 lit. a und
+b ZPO in tatsächlicher oder rechtlicher Hinsicht als fehlerhaft erachtet. Dabei
+genügt es nicht, wenn sie allein auf ihre Vorbringen vor der ersten Instanz
+verweist oder den angefochtenen Entscheid in allgemeiner Art und Weise
+kritisiert. Vielmehr muss im Einzelnen dargetan werden, welche vorinstanzlichen
+Erwägungen beanstandet werden. Entsprechend hat sich die berufungsklägerische
+Partei mit diesen argumentativ auseinandersetzen und die Aktenstücke zu nennen,
+auf denen ihre Kritik beruht. Die Begründung muss hinreichend explizit sein,
+damit sie von der Berufungsinstanz einfach nachvollzogen werden kann (BGer
+4A_255/2021 vom 22. März 2021 E. 3.1.6 m. H. auf BGE 138 III 374 E. 4.3.1,
+BGer 4A_580/2015 vom 11. April 2016 E. 2.2, nicht publ. in: BGE 142 III
+271, und zum Ganzen m. H. auf BGer 4A_72/2021 vom 28. September 2021 E. 7.3.2 m.
+H.; Hurni , a.a.O., S. 71, 75). Es
+muss mittels genügend präziser Verweisungen auf die Akten aufgezeigt werden, wo
+die massgebenden Behauptungen, Erklärungen, Bestreitungen und Einreden erhoben
+wurden bzw. aus welchen Aktenstellen sich der geltend gemachte Berufungsgrund
+ergeben soll ( Hurni , a.a.O., S.
+71, 76, m. H. auf OGE ZH LZ160009-O/U vom 28. November 2016 E. 2.3 und OGE BE
+ZK 2016 508 sowie BGer 4A_157/2016 vom 30. Mai 2017 E. 3.3). Zulässig ist im
+Berufungsverfahren aber eine appellatorische Kritik im Sinne einer «Vermischung
+von Kritik an den Sachverhaltsfeststellungen und an den rechtlichen Erwägungen»
+im angefochtenen Entscheid ( Hurni ,
+Folie V 3 zum Vortrag «Begründungs- und Rügepflichten im
+Rechtsmittelprozess, Basler ZPO-Tag 2022).
+
+1.2.3 Die
+Berufungsklägerin kritisiert am Entscheid der Vorinstanz im Wesentlichen die
+Regelung der Betreuung und der Obhut der Kinder sowie des Unterhalts. Sie führt
+in ihrer umfangreichen Rechtsschrift und unter Bezugnahme auf die
+vorinstanzlichen Erwägungen unter anderem aus, das Eheschutzgericht sei zu
+Unrecht von einer fehlenden Kommunikations- und Kooperationsbereitschaft der
+Eltern ausgegangen und hätte mangels Nachweises wirklicher Hinderungsgründe die
+alternierende Obhut anordnen müssen. Sie macht weiter geltend, das
+Eheschutzgericht habe mit ihrer Betreuungsaufteilung materiell eine
+alternierende Obhut angeordnet und sie kritisiert, es sei gemäss Bundesgericht
+unzulässig, einem Elternteil mit grossem Anteil an Erziehungsverantwortung die
+nominelle (Mit-)Obhut zu verweigern und ihn zum Elternteil mit blossem
+Besuchsrecht zu degradieren (act. 2, Rz. 16). Die Rechtsschrift der
+Berufungsklägerin erschöpft sich demnach nicht in generischen Ausführungen. Die
+Kritik ist hinreichend explizit begründet, so dass sie vor der Berufungsinstanz
+nachvollziehbar ist. Auf die rechtzeitig und formgültig erhobene Berufung ist
+somit einzutreten.
+
+1.3 Zuständig
+für die Beurteilung der Berufung ist ein Dreiergericht des Appellationsgerichts
+(§ 92 Abs. 1 Ziff. 6 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Nach
+Art. 316 Abs. 1 und 2 ZPO kann die Rechtsmittelinstanz sowohl eine Verhandlung
+durchführen als auch aufgrund der Akten nach Durchführung von einem oder zwei
+Schriftenwechseln entscheiden. In summarischen Verfahren sieht das
+Appellationsgericht regelmässig von der Durchführung einer mündlichen
+Berufungsverhandlung ab (AGE ZB.2020.38 vom 11. Mai 2021 E. 1.3, ZB.2020.41 vom
+3. März 2021 E. 1.1, ZB.2020.24 vom 1. Oktober 2020 E. 1.3, ZB.2020.6 vom 18.
+Juni 2020 E. 1.1, ZB.2019.27 vom 18. März 2020 E. 1.3, ZB.2017.40 vom 17.
+Januar 2018 E. 1.3; vgl. Reetz/Hilber ,
+in: Sutter-Somm et al. [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung, 3. Auflage, Zürich 2016, Art. 314 N 13 und Art. 316 N 7; Steininger , in: Brunner et al. [Hrsg.],
+ZPO Kommentar, 2. Auflage, Zürich 2016, Art. 316 N 8).
+
+1.4
+
+1.4.1 Die Kinder leben seit September 2022 in
+Deutschland und gehen dort zur Schule, auch wenn sie weiterhin in der Schweiz
+angemeldet sind. Es stellt sich daher die Frage nach der internationalen
+Zuständigkeit des Berufungsgerichts. Diese wird zwar von keiner Seite
+bestritten. Da eine Einlassung in internationalrechtlicher Hinsicht allein bei
+vermögensrechtlichen Streitigkeiten zulässig ist (vgl. Art. 6 Abs. 1 des
+Bundesgesetzes über das Internationale Privatrecht [IPRG; SR 291], dazu Vasella/Kunz , Basler Kommentar IPRG, 4.
+Aufl., Basel 2021, Art. 6 N 13), ist die internationale Zuständigkeit
+gleichwohl von Amtes wegen zu klären.
+
+1.4.2 Gemäss Art. 46 IPRG sind die Gerichte am
+Wohnsitz oder allenfalls am gewöhnlichen Aufenthalt der Ehegatten zur Regelung
+des Getrenntlebens zuständig. Soweit im Rahmen des Eheschutzes aber Massnahmen
+zum Schutz der Kinder zu treffen sind, bestimmt sich die Zuständigkeit gemäss
+Art. 85 IPRG nach dem Haager Übereinkommen über die Zuständigkeit, das
+anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem
+Gebiet der elterlichen Verantwortung und der Massnahmen zum Schutz von Kindern
+(HKsÜ, SR 0.211.231.011). Nach Art. 5 Abs. 1 HKsÜ sind grundsätzlich die
+Gerichte am gewöhnlichen Aufenthaltsort des Kindes zuständig. Sobald dieses in
+einem anderen Land gewöhnlichen Aufenthalt begründet hat, wird gemäss Art. 5
+Abs. 2 HKsÜ grundsätzlich das Gericht am neuen Aufenthaltsort
+entscheidzuständig. Es herrscht somit anders als nach Art. 64 Abs. 1 lit. b ZPO
+nicht der Grundsatz der perpetuatio fori (vgl. BGer 5A_591/2021 vom 12.
+Dezember 2022 E. 2.4 m. H. auf Lagarde ,
+explanatory report / rapport explicatif zum Haager Kindesschutzübereinkommen,
+Rz. 4, sowie Practical Handbook on the Operation of the 1996 Hague Child Protection
+Convention, Hague Conference on Private International Law 2014, S. 41 [beide
+Dokumente abrufbar auf der Website der Haager Konferenz www.hcch.net ]
+sowie BGE 129 III 288 E. 4.1; 142 III 1 E. 2.1; 143 III 193 E. 2; 144 III 469
+E. 4.2.2). Eine Ausnahme von diesem Zuständigkeitswechsel ab dem Zeitpunkt der
+Begründung neuen gewöhnlichen Aufenthalts besteht bei einem widerrechtlichen
+Verbringen des Kindes ins Ausland. Dabei bestimmt sich die Widerrechtlichkeit
+oder eben die Rechtmässigkeit des Wechsels des Aufenthaltsorts nach dem
+nationalen Recht des Herkunftsstaates (BGE 133 III 694 E. 2.1.1; BGer
+5A_591/2021 vom 12. Dezember 2022 E. 2.4.1, 5A_105/2009 vom 16. April 2009
+E. 2; 5A_479/2012 vom 13. Juli 2012 E. 4.3; 5A_537/2012 vom 20. September
+2012 E. 3; 5A_954/2021 vom 3. Januar 2022 E. 4.1.3; 5A_281/2020 vom 27. April
+2021 E. 3.2; 5A_617/2022 vom 28. September 2022 E. 4.1.2). Üben die Eltern die
+elterliche Sorge gemeinsam aus und will ein Elternteil den Aufenthaltsort des
+Kindes ins Ausland wechseln, so bedarf dies gemäss Art. 301a Abs. 2 lit. a ZGB der
+Zustimmung des andern Elternteils oder der Ermächtigung durch das Gericht oder
+die Kindesschutzbehörde. Fehlt es daran, so liegt im internationalen Verhältnis
+unter den Vertragsstaaten ein widerrechtliches Verbringen des Kindes im Sinn
+von Art. 7 Abs. 2 HKsÜ vor, weshalb der in Art. 5 Abs. 2 HKsÜ als
+Grundsatz vorgesehene Zuständigkeitswechsel trotz Begründung eines neuen
+gewöhnlichen Aufenthalts des Kindes im Ausland vorerst ausbleibt. Der
+Kompetenzwechsel tritt gemäss Art. 7 Abs. 1 HKsÜ erst ein, wenn (lit.
+a) die sorgeberechtigte Person das Verbringen genehmigt hat oder wenn (lit. b)
+das Kind sich im anderen Staat mindestens ein Jahr aufgehalten hat, nachdem die
+sorgeberechtigte Person seinen Aufenthaltsort kannte oder hätte kennen müssen,
+kein während dieser Zeit gestellter Rückführungsantrag im Sinn des Haager
+Kindesentführungsübereinkommens mehr hängig ist und das Kind sich im neuen
+Umfeld eingelebt hat (BGer 5A_591/2021 vom 12. Dezember 2022 E. 2.4.1. m.
+H. auf BGer 5A_475/2018 vom 9. Juli 2018 E. 4.5; 5A_467/2021 vom 30.
+August 2021 E. 2.5, je m. w. H.).
+
+1.4.3 Vorliegend hat der Ehemann die Kinder ohne
+Einwilligung der Ehefrau und ohne Ermächtigung gemäss Art. 301a ZGB nach
+Deutschland verbracht und dort in der Schule angemeldet. Die Vorinstanz hat
+dies zwar nachträglich genehmigt. Auf Begehren der Ehefrau schob jedoch der
+Instruktionsrichter im Verfahren DGZ.2022.3 mit Verfügung vom 20. Oktober 2022
+die Vollstreckbarkeit dieser Ermächtigung vorläufig superprovisorisch auf und
+untersagte dem Ehemann vorläufig, den Wohnsitz der Kinder nach [...] in
+Deutschland zu verlegen, die Kinder dort einwohnerrechtlich anzumelden und sie
+in der Schule in [...] anzumelden. Mit Entscheid [...] vom 2. Dezember 2022
+schob das Appellationsgericht in teilweiser Gutheissung des Gesuchs der Ehefrau
+die Vollstreckbarkeit der diesbezüglichen Ziffer 4 des Entscheids des
+Zivilgerichts vom 18. Oktober 2022 ([...]) in dem Sinne teilweise auf, als
+dem Ehemann vorläufig nicht gestattet wurde, sich und die Kinder in [...]
+einwohnerrechtlich anzumelden. Auch wenn der Aufenthalt und die Beschulung der
+Kinder in Deutschland damit implizit geduldet worden ist, blieb diese im Sinne
+von Art. 7 HKsÜ mangels rechtskräftiger Genehmigung widerrechtlich und konnte
+keinen Wechsel der Zuständigkeit begründen. Daraus folgt, dass das
+Berufungsgericht internationalrechtlich zuständig geblieben ist.
+
+1.5
+
+1.5.1 Gemäss Art. 296 Abs. 1 und 3 ZPO gelten in
+Kinderbelangen in familienrechtlichen Angelegenheiten der uneingeschränkte
+Untersuchungsgrundsatz und der Offizialgrundsatz (AGE ZB.2020.24 vom 1. Oktober
+2020 E. 2.1 m. w. H., ZB.2020.6 vom 18. Juni 2020 E. 1.2, BEZ.2019.14 vom 13.
+Februar 2019 E. 4). Im Geltungsbereich des Offizialgrundsatzes entscheidet das
+Gericht ohne Bindung an die Parteianträge (Art. 296 Abs. 3 ZPO). Dies bedeutet
+insbesondere, dass es Entscheide auch ohne entsprechende Anträge treffen kann (AGE
+ZB.2020.24 vom 1. Oktober 2020 E. 2.1, ZB.2020.6 vom 18. Juni 2020 E. 1.2; Schweighauser , in: Sutter-Somm et al.
+[Hrsg.], Kommentar zur Schweizerischen Zivilprozessordnung, 3. Auflage, Zürich
+2016, Art. 296 N 38). Zudem gilt das Verschlechterungsverbot (Verbot der
+reformatio in peius) nicht (AGE ZB.2020.24 vom 1. Oktober 2020 E. 2.1,
+ZB.2020.6 vom 18. Juni 2020 E. 1.2; Hurni, in: Berner Kommentar, 2012, Art. 58 ZPO N 69).
+
+1.5.2 Für den im Rahmen von Eheschutzverfahren
+festzulegenden Ehegatten unterhalt gilt hingegen grundsätzlich die
+Dispositionsmaxime (BGE 5A_800/2019 vom 9. Februar 2021 E. 2.2). Das Eheschutzgericht ist an die Rechtsbegehren gebunden und nicht
+befugt, einem Ehegatten von Amtes wegen mehr an seinen eigenen Unterhalt
+zuzusprechen, als er verlangt hat (BGer 5A_704/2013 vom 25. Mai 2014 E. 3.4). Der Dispositionsgrundsatz ist Ausdruck der Privatautonomie (BGer 5A_60/2022 vom
+5. Dezember 2022 E. 3.4.1, z.P.v., m.w.H.; 5A_88/2020 vom 11. Februar 2021
+E. 8.3; 5A_249/2018 vom 13. Dezember 2018 E. 4.2). Er besagt, dass das
+Gericht einer Partei nicht mehr und nichts Anderes zusprechen darf, als sie
+verlangt, und nicht weniger, als die Gegenpartei anerkannt hat (Art. 58 Abs. 1
+ZPO). Es sind die Parteien, die mit ihren Rechtsbegehren die Grenzen ziehen,
+innerhalb deren sich das Gericht mit seiner rechtlichen Beurteilung bewegen
+darf. Dem Gericht ist es im Anwendungsbereich von Art. 58 Abs. 1 ZPO versagt,
+den Streitgegenstand eigenmächtig auf nicht geltend gemachte Punkte auszudehnen
+(BGE 143 III 520 E. 8.1; Urteile 5A_696/2019 vom 19. Juni 2020 E. 3.1.2;
+4A_397/2016 vom 30. November 2016 E. 2.1). Im Rechtsmittelverfahren
+verbietet der Dispositionsgrundsatz der Rechtsmittelinstanz, über die
+Rechtsmittelanträge des Rechtsmittelklägers hinauszugehen und das
+erstinstanzliche Urteil zu dessen Ungunsten abzuändern, es sei denn, die
+Gegenpartei habe ein (Anschluss-) Rechtsmittel ergriffen
+(Verschlechterungsverbot; BGE 134 III 151 E. 3.2; 110 II 113 E. 3a; BGer
+5A_60/2022 vom 5. Dezember 2022 E. 3.4.1, zur Publikation vorgesehen). Das
+Verschlechterungsverbot ist ein klarer und unumstrittener Rechtsgrundsatz,
+dessen Missachtung das Willkürverbot (Art. 9 BV) verletzt (BGE 129 III 417 E.
+2.1.1; vgl. auch AGE ZB.2018.54 vom 6. Mai 2019 E. 1.2; Reetz , in: Sutter-Somm et al. [Hrsg.],
+Kommentar zur ZPO, 3. Auflage, Zürich 2016, Vorbemerkungen zu den
+Art. 308-318 N 17). Zu beachten ist, dass sich das Verbot der reformatio
+in peius im Unterhaltskontext nicht auf einzelne Einkommens- oder
+Bedarfspositionen bezieht, sondern auf die Rechtsbegehren insgesamt (BGer
+5A_165/2018 vom 25. September 2018 E. 3.4 m.w.H.).
+
+Für die
+Ermittlung des relevanten Sachverhalts kommt in Bezug auf den
+Ehegattinnenunterhalt der soziale respektive der eingeschränkte
+Untersuchungsgrundsatz zur Anwendung (vgl. Art. 271 lit. a in Verbindung
+mit Art. 272 ZPO; BGE 5A_800/2019 vom 9. Februar 2021 E. 2.2; Bähler , Basler Kommentar ZPO,
+3. Auflage 2017, Art. 272 N1). Die Parteien sind auch bei Geltung des
+sozialen Untersuchungsgrundsatzes nicht davon befreit, bei der Feststellung des
+entscheidrelevanten Sachverhaltes im Sinne einer prozessualen Obliegenheit
+aktiv mitzuwirken und die allenfalls zu erhebenden Beweise zu bezeichnen (vgl.
+Art. 160 Abs. 1 ZPO). Folglich tragen sie auch im Bereich der beschränkten
+Untersuchungsmaxime die Verantwortung für die Sachverhaltsermittlung und den
+Nachteil des fehlenden Beweises für einen für sie günstigeren Sachverhalt (vgl. Sutter-Somm/Hofstetter , in:
+Sutter-Somm et al. [Hrsg.], Kommentar zur Schweizerischen Zivilprozessordnung,
+3. Auflage, Zürich 2016, Art. 272 N 11 m. H.; Bähler, a.a.O., Art. 272 ZPO
+N 4; Six , Eheschutz, Ein Handbuch
+für die Praxis, 2. Auflage, Bern 2014, Rz. 1.01; Maier/Vetterli , in: Fankhauser [Hrsg.], FamKomm Scheidung,
+4. Auflage, Bern 2022, Bd. II, Art. 272 ZPO N 2b).
+
+1.5.3 Ehegatten-
+und Kinderunterhalt beruhen zwar auf verschiedenen Rechtsgründen, gleichwohl
+ist zu beachten, dass sich aus der Anwendung der zweistufigen
+Berechnungsmethode mit Überschussverteilung eine Interdependenz zwischen dem
+Ehegatten- und dem Kindesunterhalt ergibt (vgl. BGer 5A_776/2021 vom 21. Juni
+2022 E. 6.3.2, 5A_112/2020 vom 28. März 2022 E. 2.2 und 2.3). In einem
+aktuellen Entscheid (BGer 5A_60/2022 vom 5. Dezember 2022 E. 3.4.1, zur
+Publikation vorgesehen und mit weiteren Hinweisen) hält das Bundesgericht zur
+Bedeutung der Dispositionsmaxime in diesem Zusammenhang fest, dass, um sich
+gegen die Konsequenzen des Dispositionsgrundsatzes zu wappnen, der Ehegatte,
+der sowohl für ein Kind als auch für sich selbst Unterhalt erstreiten will,
+Eventualbegehren für den Fall zu stellen hat, dass er mit seinen Hauptanträgen
+nicht obsiegt (Hinweise auf BGE 140 III 231 E. 3.5, bestätigt u.a. in BGer
+5A_582/2020 vom 7. Oktober 2021 E. 6.2.3). Das gilt laut Bundesgericht
+namentlich dort, wo aufgrund der gegebenen Streitlage ausreichend Anlass zu
+solchen Eventualbegehren besteht. Das Bundesgericht hält weiter fest, dass mit
+dieser Obliegenheit indes nichts über die Situation eines Eheschutzprozesses
+gesagt sei, in welchem die Berufungsinstanz den Betreuungsunterhalt für das
+Kind reduziert und die dadurch frei werdenden Mittel neu für den
+Ehegattenunterhalt verwendet, obwohl die unterhaltsberechtigte Ehefrau den
+erstinstanzlichen Entscheid nicht anfocht. Das Bundesgericht erinnert daran,
+dass eine Anschlussberufung im Eheschutzverfahren ausgeschlossen ist, und weist
+darauf hin, dass der Ehegatte, dessen Anträgen die erste Instanz entsprochen
+hatte, kein schutzwürdiges Interesse an einer selbständigen Berufung gehabt
+hätte, um sich präventiv gegen eine Reduktion oder Aufhebung des
+Betreuungsunterhalts im Berufungsverfahren zu wehren. Es verweist schliesslich
+auf die Interdependenz zwischen dem Ehegatten- und dem Kindesunterhalt, die zur
+Folge habe, dass auf der Ebene der Sachverhaltsermittlung die für den
+Kindesunterhalt gewonnenen Erkenntnisse im Streit um den ehelichen Unterhalt
+nicht ausgeblendet werden könnten. Gleiches müsse sinngemäss für die rechtliche
+Operation der Unterhaltsfestsetzung gelten. Dem unterhaltspflichtigen
+Elternteil sei es objektiv nicht möglich, für den Fall, dass das Gericht in
+Anwendung des Offizial- und Untersuchungsgrundsatzes höheren Kindesunterhalt
+zuspreche, ein entsprechend tiefer beziffertes Eventualbegehren für den
+Ehegattenunterhalt zu stellen, da er die Höhe des Kindesunterhalts nicht
+vorhersehen könne.
+
+1.5.4 Das
+Berufungsgericht ist nicht gehalten, von sich aus wie ein erstinstanzliches
+Gericht alle sich stellenden tatsächlichen und rechtlichen Fragen zu
+untersuchen, wenn keine entsprechenden Rügen der Parteien vor der zweiten
+Instanz vorliegen. Abgesehen von offensichtlichen Mängeln hat sich das
+Berufungsgericht grundsätzlich auf die Beurteilung der in der Berufung und
+gegebenenfalls in der Berufungsantwort gegen das erstinstanzliche Urteil
+erhobenen relevanten Beanstandungen zu beschränken (BGE 144 III 394 E. 4.1.4 S.
+397 f. und E. 4.3.2.1 S. 399, 142 III 413 E. 2.2.4 S. 417; BGer
+4A_536/2017 vom 3. Juli 2018 E. 3.2; AGE ZB.2019.22 vom 10. Oktober 2019 E.
+1.5, ZB.2018.35 vom 3. Februar 2019 E. 1.2). Die hinreichend begründeten Rügen
+der Parteien geben mithin das Prüfungsprogramm der Berufungsinstanz vor (AGE
+ZB.2019.22 vom 10. Oktober 2019 E. 1.5, ZB.2018.35 vom 3. Februar 2019
+E. 1.2; vgl. BGE 144 III 394 E. 4.1.4 S. 398; BGer 4A_397/2016 vom 30.
+November 2016 E. 3.1). Bei dieser Prüfung ist das Berufungsgericht weder an die
+Erwägungen der ersten Instanz noch an die Argumente der Parteien gebunden. Es
+verfügt über freie Kognition und wendet das Recht von Amtes wegen an (AGE
+ZB.2019.22 vom 10. Oktober 2019 E. 1.5; vgl. BGE 144 III 394 E. 4.1.4 S.
+398 und E. 4.3.2.1 S. 399; BGer 4A_397/2016 vom 30. November 2016 E. 3.1; AGE
+ZB.2018.35 vom 3. Februar 2019 E. 1.2). Die vorstehenden Grundsätze müssen auch
+im Anwendungsbereich des Untersuchungsgrundsatzes gelten (BGE 141 III 569 E.
+2.3.3 S. 576 f., 138 III 374 E. 4.3.1 S. 375; BGer 4A_651/2012 vom 7.
+Februar 2013 E. 4.3; AGE ZB.2020.24 vom 1. Oktober 2020 E. 2.1, ZB.2019.22 vom
+10. Oktober 2019 E. 1.5; OGer ZH LY130029-O/U vom 21. März 2014 E. 2.2; Jeandin , in: Commentaire romand, 2.
+Auflage, Basel 2019, Art. 311 CPC N 3). Die Pflicht der Parteien, die Berufung
+zu begründen, begrenzt im Berufungsverfahren faktisch die Untersuchungsmaxime
+(AGE ZB.2020.41 vom 3. März 2021 E. 1.2.1, ZB.2020.24 vom 1. Oktober 2020
+E. 2.1, ZB.2019.22 vom 10. Oktober 2019 E. 1.5; vgl. BGer 5D_65/2014 vom
+9. September 2014 E. 5.1 zur Beschwerde). Der Umstand, dass das Gericht das
+Recht von Amtes wegen anwendet (Art. 57 ZPO), ändert nichts daran, dass die
+Berufungsinstanz nicht unabhängig von den Rügen der Parteien von sich aus alle
+rechtlichen Erwägungen der ersten Instanz zu überprüfen hat. Genauso wenig
+stellt der Umstand, dass das Gericht den Sachverhalt von Amtes wegen feststellt
+oder erforscht, für die Berufungsinstanz einen Grund dar, unabhängig von den
+Rügen der Parteien von sich aus alle tatsächlichen Feststellungen des
+erstinstanzlichen Gerichts zu überprüfen. Dies gilt umso mehr im summarischen
+Verfahren (AGE ZB.2020.24 vom 1. Oktober 2020 E. 2.1, ZB.2019.22 vom 10. Oktober
+2019 E. 1.5).
+
+1.5.5 Schliesslich genügt es im Eheschutzverfahren,
+die behaupteten Tatsachen glaubhaft zu machen (BGer 5A_848/2015 vom 4. Oktober
+2016 E. 3.1, 5A_555/2013 vom 29. Oktober 2013 E. 3.1; AGE ZB.2020.41 vom 3.
+März 2021 E. 1.2.3 m. w. H., ZB.2017.1 vom 5. Mai 2017 E. 2.2).
+
+2.
+
+2.1 Strittig ist zunächst die Regelung der
+Betreuung und der Obhut der Kinder. Mit den Rechtsschriften werden dabei über
+weite Strecken in teils redundanter Weise gegenseitige Vorwürfe ausgebreitet,
+bei denen es sich weitgehend um reine Parteibehauptungen handelt. Darauf ist
+nicht weiter einzutreten.
+
+2.2 Mit dem angefochtenen Entscheid hat die
+Vorinstanz die elterliche Obhut über die Kinder E____, geb. [...] 2009, und F____,
+geb. [...] 2011, dem Berufungsbeklagten als Vater zugeteilt. Sie hat dabei in
+rechtlicher Hinsicht erwogen, dass bei gemeinsamer elterlicher Sorge für die
+Kinder auf Begehren eines Elternteils oder des Kindes zu prüfen ist, ob eine
+alternierende Obhut möglich und mit dem Kindswohl vereinbar ist (Art. 298b Abs.
+3 ter ZGB; BGE 142 III 612 E. 4.2). Kriterien der Kindswohlprüfung
+seien die Erziehungsfähigkeit beider Eltern als Grundvoraussetzung, die
+Kommunikations- und Kooperationsfähigkeit der Eltern, die Nähe ihrer Wohnorte,
+der Wunsch des Kindes, die Möglichkeit persönlicher Betreuung sowie die
+Stabilität der Betreuung und damit mithin die Betreuungszeiten vor der
+Trennung. Dabei müssten für die Anordnung einer alternierenden Obhut die dafür
+erforderlichen Grundbedingungen von Anfang an erfüllt sein ( Maier/Vetterli , in: Fankhauser [Hrsg.], FamKomm
+Scheidung, 4. Auflage, Bern 2022, Bd. I, Art. 176 ZGB N 2b). Bezogen auf den
+vorliegenden Sachverhalt hat die Vorinstanz in einer Gesamtschau erwogen, dass
+den Eltern für eine alternierende Obhut die hierfür nötige Kommunikations- und
+Kooperationsbereitschaft derzeit noch fehle. In Würdigung der aktuellen
+Schulsituation der Kinder in [...], den seit April 2022 gelebten Verhältnissen,
+dem Verhalten der Kindseltern und der Äusserungen der Kinder sei die Obhut dem
+Kindsvater zuzuteilen. Ein späterer Übergang zu einer Regelung mit
+alternierender Obhut sei indes möglich, wenn sich die Situation zwischen den
+Eltern und auch für die Kinder durch den regelmässigen Kontakt entspannen
+sollte. In tatsächlicher Hinsicht hat sich die Vorinstanz dabei auf die
+Kinderanhörung vom 19. September 2022, Berichte der Kantonspolizei
+Basel-Landschaft über Polizeieinsätze aufgrund von zwei Konfliktsituationen vom
+7. Februar und 1. April 2022, die Akten der vom Ehemann angerufenen Kindes-
+und Erwachsenenschutzbehörde [...] (KESB), eine Eingabe der Primarschule [...]
+und die vorinstanzliche Verhandlung vom 17. Oktober 2022 gestützt. Sie hat
+erwogen, dass beide Kindseltern grundsätzlich erziehungsfähig seien. Soweit die
+Polizei Basel-Landschaft wie auch eine Lehrerin der Primarschule die
+Familienwohnung als unordentlich bezeichnet hätten, bezögen sich diese
+Feststellungen auf einen Zeitpunkt, als die Parteien noch zusammengelebt hätten,
+weshalb unklar sei, wer dafür verantwortlich gewesen sei. Jedenfalls gäben die
+Töchter an, dass sich der Vater heute viel mehr um den Haushalt kümmere und
+sich Mühe gebe. Was die Angabe der Primarschule betrifft, der Ehemann sei für
+die schulischen Belange der Töchter zuständig gewesen, während die Ehefrau kaum
+erreichbar und nicht interessiert gewesen sei, stellte die Vorinstanz dies in
+Bezug zur Aussage der Kinder, in schulischen Belangen von der Mutter unter
+Druck gesetzt worden zu sein. Es sei daher naheliegend, dass sie sich wegen
+ihrer mangelnden Deutschkenntnisse bloss beschränkt in den Schulalltag der
+Kinder habe einbringen können, während es dem Vater aus sprachlichen Gründen
+leichter gelinge, die Kinder in schulischen Belangen zu unterstützen. Die
+Vorinstanz erwog, der Ehemann habe mit dem eigenmächtigen Umzug mit den
+Töchtern nach Deutschland Fakten geschaffen. Er habe diesbezüglich aber die
+KESB einbezogen und auch den neuen Wohnsitz der Ehefrau berücksichtigt, weshalb
+ihm der bewilligungslose Umzug mit den Töchtern nicht zum Nachteil gereichen
+könne, zumal er nicht versuche, die Kinder ihrer Mutter zu entziehen. Während
+die Kinderbetreuung während dem Zusammenleben der Parteien noch vorwiegend von
+der Mutter erbracht worden sei, habe er sich seit ihrem Auszug aus der
+Familienwohnung im April 2022 hauptsächlich um die Betreuung der Kinder
+gekümmert. Auch wenn beide Eltern unter Inanspruchnahme von Drittbetreuung wohl
+eine umfassende Betreuung der Töchter gewährleisten könnten, erscheine eine
+Betreuung der Kinder an den Wochenenden, wenn die in der Gastronomiebranche
+tätige Ehefrau arbeiten müsse, zumindest fraglich. Weiter hat die Vorinstanz
+einen ausgeprägten Elternkonflikt festgestellt. Schliesslich hat sie erwogen,
+dass die beiden Töchter anlässlich der Kinderanhörung vom 19. September 2022 von
+sich aus und ohne entsprechende Frage erklärt hätten, beim Vater wohnen zu
+wollen. Der von der Mutter gewünschte tägliche Kontakt sei ihnen zu viel. Die
+Beziehung zur Mutter hätten sie als belastet geschildert. Es sei ihnen aber
+gleichzeitig wichtig gewesen, die Mutter mit ihren Aussagen an der
+Kindesanhörung nicht zu verletzen oder zu enttäuschen, zumal sie "short
+tempered" sei. Sie hätten klar erklärt, beim Vater wohnen, aber die Mutter
+regelmässig besuchen zu wollen, zum Beispiel an den Wochenenden. Beide Kinder hätten
+auch angegeben, dass es ihnen in der Schule in [...] sehr gefalle (Protokoll
+Kinderanhörung, S. 2 f.). Dabei hätten keine Anhaltspunkte bestanden, dass die
+Kinder vom Vater im Hinblick auf die Obhutsfrage «manipuliert» worden wären.
+Aufgrund dieser Würdigung der tatsächlichen Ausgangslage erfolgte die Zuteilung
+der Obhut an den Kindsvater.
+
+2.3 Die Vorinstanz hat sodann den persönlichen
+Verkehr zwischen der nicht obhutsberechtigten Mutter und den beiden Töchtern
+geregelt. Sie hat festgelegt, dass die Kinder jeden Dienstag nach der Schule
+selbständig zur Mutter nach Basel fahren, bei ihr übernachten und am
+Mittwochmorgen von der Mutter nach [...] gebracht werden. Den Freitagnachmittag
+(inkl. Mittag- und Abendessen) verbringen die Kinder bei ihrer Mutter, die sie
+abends wieder nach [...] fährt. Jede zweite Woche bleiben die Kinder von
+Freitagmittag bis Montagmorgen bei der Mutter, die sie dann zur Schule bringt.
+In Bezug auf die Schulferien und Feiertage legte die Vorinstanz fest, dass die
+Töchter diese je zur Hälfte beim Vater respektive bei der Mutter verbringen.
+
+3.
+
+3.1 Mit ihrer Berufung beantragt die
+Berufungsklägerin die Anordnung der alternierenden Obhut.
+
+3.2
+
+3.2.1 Die Berufungsklägerin macht in der
+Berufungsbegründung geltend, die Vor­instanz habe zu Unrecht die Tatsache
+ausser Acht gelassen, dass die Kinder seit April 2022 (Auszug der Mutter) vom
+berufstätigen Vater tagsüber sich selbst überlassen würden, was insbesondere
+während der 11-wöchigen Sommerferien ohne Tagesstruktur oder sonstige teilweise
+Aufsicht durch Lehrpersonen «in Richtung Verwahrlosung im Sinne einer schweren
+Verletzung der elterlichen Pflichten» gehe (act. 2 / Rz. 14) und von wenig
+Interesse am Nachwuchs zeuge. Ihr könne solches nicht vorgeworfen werden, zumal
+sie eher einen strafferen Erziehungsstil pflege, wie auch die Vorinstanz
+festgehalten habe. Mit ihrem geplanten Wechsel ins Pflegewesen beabsichtige sie
+ausserdem, ihren Verdienst zu erhöhen und gleichzeitig die Verfügbarkeit für
+die Kinderbetreuung zu verbessern (act. 2/ Rz. 13). Die Annahme, der Vater
+könne und werde in [...] eine ausreichende Betreuung gewährleisten können, sei
+hingegen nicht realistisch. Was die angeblich fehlende Kommunikations- und
+Kooperationsbereitschaft betreffe, so habe die Vorinstanz nicht ausgeführt,
+woran sie dieses Fehlen festmache. Zwar habe der Ehemann bisher tatsächlich
+nicht kooperiert, zumal er sie nie als ebenbürtige Partnerin respektiert habe.
+Dennoch sei sie zuversichtlich, dass er nun fähig und willens wäre, im
+Interesse der Kinder so mit ihr zusammen zu arbeiten, dass eine alternierende
+Obhut möglich sei (act. 2/ Rz. 15). Der Konflikt, der sich im Wesentlichen auf
+die Obhut- bzw. Betreuungsregelung und den Unterhalt beschränke, sei nicht
+derart schwerwiegend, dass er eine alternierende Obhut ausschliessen würde. Es
+sei allgemein bekannt und komme auch in der gesetzlichen Regelung zum Ausdruck,
+dass die alternierende Obhut regelmässig im besten Interesse der Kinder sei,
+namentlich wenn wie vorliegend bisher beide Elternteile an der Erziehung
+beteiligt gewesen seien. Mangels Nachweises wirklicher Hinderungsgründe sei
+deshalb alternierende Obhut anzuordnen (act. 2 /Rz. 15). Weiter führte die
+Berufungsklägerin aus, es gehe nicht an, bei grundsätzlicher Bejahung der
+Voraussetzungen einer alternierenden Obhut eine alleinige Obhutszuweisung
+vorzunehmen und lediglich den späteren Wechsel zur alternierenden Obhut in
+einem neu einzuleitenden Abänderungsverfahren in Aussicht zu stellen. Im
+Übrigen habe die Vorinstanz mit der Betreuungsaufteilung bereits materiell eine
+alternierende Obhut angeordnet, indem sie der Mutter im Alltag einen 40%-igen
+Anteil und in der Ferienzeit gar einen 50%-igen Anteil an der Kinderbetreuung zugewiesen
+habe (act. 2 / Rz. 16). Es sei unzulässig, einem Elternteil mit einem derart
+grossen Anteil an Erziehungsverantwortung die nominelle (Mit-)Obhut zu
+verweigern und ihn zum obhutslosen Elternteil mit blossem Besuchsrecht zu
+degradieren. Vorliegend sei deshalb die sofortige Anordnung der alternierenden
+Obhut angebracht, wobei die von der Vorinstanz offenkundig befürwortete
+Ausweitung auf je hälftige Betreuungsanteile beider Elternteile mit einem
+konkreten Zeitplan vorgesehen werden sollte.
+
+3.2.2 Der Berufungsbeklagte hält dem entgegen, die
+Berufungsklägerin habe in den ersten drei Monaten seit Eintritt der
+vorinstanzlichen Obhutsregelung ihre fehlende bzw. mangelnde Verfügbarkeit zur
+Eigenbetreuung eindrücklich dargetan, da sie vereinbarte Betreuungszeiten
+wiederholt ersatzlos habe ausfallen lassen (act. 5 / Rz. 39). Dass er die
+Kinder während der Sommerferien sich selbst überlassen habe, sei eine haltlose
+Parteibehauptung, habe er doch bis zur Einschulung in der Tagesschule 100 Überstunden
+abgebaut, um die Betreuung der Mädchen sicherzustellen (act. 5 / Rz. 41).
+Jeder Grundlage entbehre auch die Einschätzung, er könne grundsätzlich keine
+ausreichende Betreuung gewährleisten (act. 5 / Rz. 44). Die Vorinstanz habe die
+alternierende Obhut in Zweifel gezogen wegen mangelnder Kommunikations- und
+Kooperationsbereitschaft der Berufungsklägerin, dem klaren Willen der 12- und
+13-jährigen Töchter, beim Vater aufwachsen zu wollen, der mangelnden
+Verfügbarkeit zur Eigenbetreuung bei der Berufungsklägerin und der Stabilität
+bzw. den Betreuungszeiten vor der Trennung (100% Obhut des Kindsvaters seit 10
+Monaten). Als weiterer Faktor seien die zweifelhaften Erziehungsmethoden der
+Kindsmutter hinzugekommen, welche die Kinder häufig abschätzig behandelt und
+bezüglich schulischen Belangen unter Druck gesetzt habe (act. 5 /Rz. 45). Es
+sei eine traurige Tatsache, dass die Berufungsklägerin auch bezüglich
+Kinderbelange nicht mit ihm kommuniziere. So habe sie jeweils ohne Absprache
+die zugeteilten Obhutszeiten nicht eingehalten und dies in letzter Minute per
+SMS den Töchtern mitgeteilt (act. 5 /Rz. 47 und 48). Die Obhutszuteilung der
+Vorinstanz könne bereits jetzt als für die Berufungsklägerin zu weitgehend und
+damit als gescheitert betrachtet werden (act. 5 / Rz. 53). Die vorinstanzliche
+Regelung  auch bezüglich der Ferien  gehe im Übrigen auch den Töchtern zu
+weit, was deren Statements belegten (act. 6). Inwiefern die Kinder ihre Meinung
+nicht frei hätten bilden sollen, habe die Berufungsklägerin bisher nicht
+glaubhaft machen können (act. 5 /Rz. 51 und 52). Schliesslich sei zu
+berücksichtigen, dass die Mutter deutlich weniger Betreuung im Alltag (also von
+Montag bis Freitag) übernehme: Unter der Woche habe die Berufungsklägerin keine
+30 % Betreuungszeit, weswegen keine alternierende Obhut im Rechtssinne
+vorliegen könne (act. 5 / Rz. 59 und 60).
+
+3.2.3 Replicando bestreitet die Berufungsklägerin,
+den ihr von der Vorinstanz zugestandenen Betreuungsanteil nicht wahrzunehmen.
+Sie habe nur ein einziges Mal an einem Dienstag absagen müssen, weil ihr
+Arbeitgeber ihr nicht freigegeben habe (act. 7 / Rz. 2). Sie bestreitet
+weiter, nicht mit dem Ehemann zu kommunizieren. Absprachen scheiterten vielmehr
+daran, dass dieser ihre Anrufe nicht entgegennehme und auf SMS nicht oder nur verzögert
+reagiere (act. 7/ Rz. 4). Die Berufungsklägerin zeigt sich schockiert über die
+schriftlichen Erklärungen der Töchter (vgl. act. 6) und bezweifelt, dass die
+Kinder diese Vorwürfe aus freiem Willen formuliert haben (act. 7 / Rz. 2). In
+Bezug auf die Betreuungszeit verweist sie auf die vom Bundesgericht für
+massgeblich erklärte Berechnungsmethoden und hält dem Berufungsbeklagten
+entgegen, dessen Versuch, die Betreuungsaufteilung unter Ausschluss von
+Wochenenden und Ferien zu beurteilen, sei aussichtslos (act. 7 / Rz. 11).
+
+3.3
+
+3.3.1 Mit der Regelung des Getrenntlebens ist auch
+die Obhut über die beiden minderjährigen Töchter der Parteien, E____, geboren [...]
+2009, und F____, geboren [...] 2011 zu regeln (Art. 298 Abs. 2 ZGB).
+Unbestritten ist dabei die gemeinsame elterliche Sorge der Parteien für die
+beiden Kinder. Daher ist gemäss Art. 298b Abs. 3 ter ZGB im Sinn des
+Kindeswohls die Möglichkeit einer alternierenden Obhut zu prüfen, wenn ein
+Elternteil oder das Kind dies verlangt. Dabei hat das Gericht unabhängig von
+den Wünschen der Eltern und losgelöst von einer diesbezüglichen Übereinkunft (BGer
+5A_744/2020 vom 13. Juli 2021 E. 3.1.1 m. H.) mit Blick auf alle Umstände zu
+prüfen, ob eine alternierende Obhut aufgrund der konkreten Umstände möglich und
+mit dem Wohl des Kindes vereinbar ist (BGE 142 III 612 E. 4.2 S. 615; BGer
+5A_288/2021 vom 4. Februar 2022 E. 3.4; 5A_312/2019 vom 17. Oktober 2019 E.
+2.1; AGE ZB.2019.29 vom 6. Mai 2020 E. 4.1.4). Das Gericht hat deshalb
+gestützt auf die Feststellung der konkreten gegenwärtigen und vergangenen
+Tatsachen eine sachverhaltsbasierte Prognose darüber zu stellen, ob die
+alternierende Obhut aller Voraussicht nach dem Wohl des Kindes entspricht (BGE 142
+III 612 E. 4.2 S. 615; BGer 5A_72/2016 vom 2. November 2016 E. 3.3.1;
+AGE ZB.2019.29 vom 6. Mai 2020 E. 4.1.4). Demgegenüber ist die Obhut einem
+Elternteil allein zuzuteilen, wenn dieser nach der dem Kindswohl entsprechenden
+Betreuungsregelung die Betreuung der Kinder im Alltag hauptsächlich übernimmt ( Schwenzer/Cottier , in: Basler Kommentar,
+7. Auflage 2022, Art. 298 ZGB N 4).
+
+3.3.2 Dabei setzt die Anordnung der alternierenden
+Obhut aber nicht voraus, dass beide Eltern die Kinder je hälftig betreuen, vielmehr
+genügt hierfür auch eine «weit über vierzehntägliche Wochenendbesuche hinaus»
+gehende Beteiligung eines Elternteils, bei der das Kind auch unter der Woche
+betreut wird (BGer 5A_722/2020 vom 13. Juli 2021 E. 3.1.2, 3.4.2;
+5A_373/2018 vom 8. April 2019 E. 3.1; vgl. auch Urteil BGer 5A_418/2019 vom 29.
+August 2019 E. 3.5.2; Maier/Vetterli ,
+a. a. O., Art. 176 ZGB N 1g; Büchler/Clausen ,
+in: Fankhauser [Hrsg.], FamKomm Scheidung, 4.  Auflage, Bern 2022, Art.
+298 ZGB N 6a). Daraus folgt im Ergebnis, dass die Prüfung der alternierenden
+Obhut gleichzeitig mit der Regelung der Betreuungsanteile zu erfolgen hat,
+bestimmt sich doch deren Qualifikation als persönlicher Verkehr eines
+Elternteils ohne Obhut respektive als Betreuung im Rahmen einer alternierenden
+Obhut nach qualitativen, aber auch nach quantitativen Kriterien.
+
+3.3.3 Kriterien bei der Prüfung der
+Kindswohlverträglichkeit einer alternierenden Obhut sind die
+Erziehungsfähigkeit der Eltern, die bestehenden Bindungen des Kindes zu den
+beiden Elternteilen, die Fähigkeit und Bereitschaft der Eltern, in den
+Kinderbelangen miteinander zu kommunizieren und zu kooperieren, die
+geographische Situation der Wohnorte der Eltern, die Stabilität bzw.
+Kontinuität der Betreuung, die Möglichkeit der Eltern, das Kind persönlich zu
+betreuen, das Alter der Kindes, die Beziehung des Kindes zu Geschwistern, die
+Einbettung des Kindes in ein weiteres soziales Umfeld und der Wunsch der Kinder
+(BGE 142 III 612 E. 4.2 f; BGer 5A_722/2020 vom 13. Juli 2021 E. 3.1.3,
+5A_312/2019 vom 17. Oktober 2019 E. 2.1.2; AGE ZB.2021.10 vom 15. Mai 2022 E.
+2.1.2, ZB.2019.29 vom 6. Mai 2020 E. 4.1.4; Büchler/Clausen ,
+a. a. O., Art. 298 ZGB N 7 ff.; Maier/Vetterli ,
+a. a. O., Art. 176 ZGB N 2b ff.; Schwenzer/Cottier ,
+a.a.O., Art. 298 ZGB N 5). Während die Erziehungsfähigkeit beider
+Elternteile in jedem Fall eine notwendige Voraussetzung einer alternierenden
+Obhut ist, sind die weiteren Beurteilungskriterien vom Bundesgericht als oft
+voneinander abhängig und je nach den konkreten Umständen des Einzelfalls von
+unterschiedlicher Bedeutung bezeichnet worden (BGE 142 III 612 E. 4.3 S. 616;
+BGer 5A_312/2019 vom 17. Oktober 2019 E. 2.1.2; AGE ZB.2019.29 vom 6. Mai 2020
+E. 4.1.4). Das Betreuungsmodell ist aber praktisch nur umsetzbar, wenn die
+Eltern fähig und bereit sind, in Kinderbelangen laufend zumindest schriftlich
+oder allenfalls auch unter Vermittlung einer Drittperson miteinander zu
+kommunizieren und im Hinblick auf die notwendigen organisatorischen
+Vorkehrungen zu kooperieren (BGer 5A_629/2019 vom 13. November 2020 E. 4.2 m
+.H. auf BGE 142 III 617 E. 3.2.3 S. 621, 612 E. 4.3 S. 615, BGer 5A_685/2019
+vom 9. September 2019 E. 5; 5A_923/2014 vom 27. August 2015 E. 2 und 5.5, nicht
+publ. in: BGE 141 III 472, aber in: FamPra.ch 2015, S. 961, 970). Von einer
+alternierenden Obhut ist daher nach der bundesgerichtlichen Rechtsprechung
+unter diesem Aspekt nur abzusehen, wenn das Verhältnis unter den Eltern
+hinsichtlich anderer Kinderbelange von einer Feindseligkeit gezeichnet ist, die
+annehmen lässt, eine alternierende Obhut würde das Kind dem gravierenden
+Elternkonflikt in einer Weise aussetzen, die seinen Interessen offensichtlich
+zuwiderläuft (BGer 5A_629/2019 vom 13. November 2020 E. 4.2).
+
+3.4
+
+3.4.1 Nach dem Entscheid der Vorinstanz soll die
+Berufungsklägerin ihre Töchter auch in Zukunft in einem erheblichen Umfang
+mitbetreuen. Strittig ist, wie die von der Vorinstanz angeordnete Betreuung
+umfangmässig zu bewerten ist. Die Berufungsklägerin geht von einem
+Betreuungsanteil von 40 % während der schulfreien Zeit aus, während der
+Berufungsbeklagte den Betreuungsanteil im Alltag unter Ausschluss der
+Wochenenden berechnet, weshalb die Berufungsklägerin die Kinder seiner Meinung
+nach zu weniger als 30 % betreut. Für die Festlegung der Betreuungsanteile
+besteht in der Praxis keine einheitliche Methode. Gemäss der vom Bundesgericht
+zuletzt favorisierten Berechnungsmethode werden die Betreuungsanteile von
+schulpflichtigen Kindern bestimmt, indem der Tag in drei Zeitabschnitte
+(morgens, Schulbeginn bis Schulschluss, Abend) unterteilt wird. Sodann wird für
+eine Periode von 14 Tagen ermittelt, für wie viele Phasen jeder Elternteil
+verantwortlich ist, wobei das Bundesgericht die insgesamt 42 Phasen gleich
+gewichtete (vgl. BGer 5A_117/2021 vom 9. März 2022 E. 4.4, anders noch in
+5A_743/2017 vom 22.5.2019 E. 2.2). Die von der Vorinstanz angeordnete Betreuung
+der beiden Kinder durch die Kindsmutter an jedem Dienstag nach der Schule bis
+am Mittwochmorgen mit Übernachtung bei der Mutter und alternierend jede zweite
+Woche von Freitagmittag bis nach dem Abendessen respektive von Freitagmittag
+bis am Montagmorgen entspricht bei Anwendung des oben beschriebenen
+Phasenmodells insbesondere auch mit Bezug auf die Mahlzeiten einem
+Betreuungsanteil von 35% (Woche 1: 5 von 21 Phasen; Woche 2: 10 von 21 Phasen;
+Anteil während zweier Wochen somit 15/42). Hinzu kommt die Betreuung der Kinder
+während der Hälfte der Ferien, sodass insgesamt von einer Betreuung zu rund 38
+% ausgegangen werden kann. Damit erfüllen die Betreuungsanteile die quantitativen
+Anforderungen an eine alternierende Obhut (vgl. BGer 5A_722/2020 vom
+13. Juli 2021 E. 3.4).
+
+3.4.2 Die Wohnorte der Parteien an der [...]
+einerseits und in unmittelbarer Grenznähe an der [...] in [...] in Deutschland
+stehen einer alternierenden Obhut nicht entgegen. Mit dem Fahrrad oder dem
+öffentlichen Verkehr beträgt die Reisezeit zwischen den beiden Wohnorten
+zwischen einer Viertel- und einer halben Stunde.
+
+3.4.3 Nichts zu ihren Gunsten kann die
+Berufungsklägerin aus dem Kriterium der Stabilität respektive Kontinuität der
+Betreuung ableiten. Der Umfang der tatsächlichen Betreuung der Kinder durch die
+beiden Elternteile erscheint unklar. Gerade aus den Berichten der Primarschule [...]
+ergeben sich für die Zeit vor der Trennung der Eltern erhebliche Zweifel an
+einer umfangreichen und hauptgewichtigen Betreuung der Kinder durch die
+Berufungsklägerin. Dies folgt aus den Berichten der Primarschule [...]. Gemäss
+deren Auskunft mit Schreiben vom 3. Oktober 2022 ging sie davon aus, dass der
+Kindsvater «hauptsächlich oder allein für die Schulpflicht der Kinder
+zuständig» gewesen sei, auch wenn er nicht immer einfach zu erreichen gewesen
+sei. Nach ihrem Wegzug nach Basel habe die Kindsmutter «wenig bis kein
+Interesse mehr» gezeigt. Schon im letzten halben Jahr des Schuljahres 2021/2022
+sei bei Einladungen zu Elterngesprächen, Elternabenden etc. nur der Kindsvater
+anwesend gewesen, während die Kindsmutter kaum erreichbar gewesen sei und kein
+Interesse gezeigt habe. Mit ihrem Bericht reichte die Primarschule diverse
+Beobachtungsberichte von Klassenlehr-personen der beiden Schülerinnen ein.
+Diese Berichte sind zwar nicht unterzeichnet, ihre Urheberschaft ist aber auf
+jeweils konkretisierte Klassenlehrpersonen bezogen, sodass sie individualisiert
+zugeordnet werden können. Da sie von der Schule selbst ediert worden sind,
+können die Berichte entgegen der Auffassung der Berufungsklägerin durchaus
+berücksichtigt werden. Sie enthalten entgegen der Auffassung der
+Berufungsklägerin auch keine Anhaltspunkte für eine einseitige oder ihr
+gegenüber feindselige Einstellung der Schule, hat diese doch ein Verfahren
+wegen Verletzung der Schulpflicht gegen den Berufungsbeklagten eingeleitet und
+auch sonst dessen Kooperation mit der Schule kritisch beurteilt. Daraus folgt,
+dass beide Elternteile für die Schule nur schwer erreichbar waren. Der
+Kindsvater habe sich zwar sehr bemüht, sei aber sehr überfordert und viel
+beruflich weg gewesen. Der Austausch sei zwar mit dem Vater erfolgt, doch sei
+auch er wegen seiner Arbeit nicht immer gut erreichbar gewesen. Die ältere
+Tochter habe viel Verantwortung zu Hause übernehmen müssen. Es sei das Gefühl
+entstanden, dass die Kinder allein zu Hause gewesen seien und dort «praktisch
+keine Unterstützung» gehabt hätten und «auf sich allein gestellt gewesen»
+seien. Die jüngere Tochter habe zum Beispiel auch allein kochen und den Mittag
+verbringen müssen. Grundsätzlich sei die Unterstützung aber immer vom Vater und
+nie von der Mutter gekommen. Der Vater habe sich um alle Gespräche, die
+Teilnahme am Elternabend, das Unterschreiben von Unterlagen und die
+Weiterleitung von Informationen gekümmert. Er sei der alleinige Ansprechpartner
+für die Schule gewesen. Die Mutter sei nie zu einem Anlass, an einem
+Elterngespräch oder an einem Elternabend gewesen. Die Kinder seien manchmal zu
+spät zur Schule gekommen, ohne dass jemand hätte erreicht werden können.
+Abmachungen mit den Eltern seien nicht eingehalten worden. Die ältere Tochter
+sei vereinzelt sehr ungepflegt zur Schule gekommen.
+
+3.4.4 Daraus folgt, dass beide Elternteile trotz
+anerkannter Erziehungsfähigkeit in deren Ausübung limitiert sind. Wenn die
+Ehefrau auf ihren strafferen Erziehungsstil verweist, so muss dem
+entgegengehalten werden, dass sie damit offenbar die Kinder nicht erreicht,
+sondern im Gegenteil nach deren Wahrnehmung belastet hat. Ihr Erziehungsstil
+hat in der Aussenwahrnehmung der Schule offensichtlich auch nicht zum Eindruck
+geführt, die Kinder würden durch sie begleitet und unterstützt. Wenn sie für
+die Schule nicht wahrnehmbar war, so mag dies mit ihren  explizit
+zugestandenen (vgl. act. 2 / Rz. 3) -  begrenzten Deutschkenntnissen
+zusammenhängen. Es ist daher erstellt, dass der Kindsvater zwar auch bloss in
+nicht genügendem Masse, so doch als alleiniger Ansprechpartner für die Schule
+zur Verfügung stand. Auch beim Ehemann bestehen Defizite, haben doch die Kinder
+nach den Sommerferien 2022 während mehrerer Wochen die Schule nicht besucht.
+Zwar kann dies mit dem Wohnortwechsel ins Ausland erklärt, aber nicht begründet
+werden, verlangt die Erziehung von schulpflichtigen Kindern doch auch, dass der
+betreuende Elternteil sich darum frühzeitig kümmert. Inwieweit die Ehefrau in
+der Wahrnehmung der Erziehung der Kinder dadurch limitiert worden ist, dass sie
+vom Berufungsbeklagten nicht als ebenbürtige Partnerin in der Familie
+respektiert worden ist, kann offenbleiben. Immerhin erscheint erstellt, dass er
+sie in den Wohnortwechsel nicht einbezogen und insoweit eigenmächtig gehandelt
+hat.
+
+3.4.5 Aus dem Gesagten folgt auch,
+dass beide Elternteile bisher in der persönlichen Betreuung bei beiden
+Elternteilen limitiert gewesen sind. Beiden Ehegatten werden auch weiterhin
+durch ihre Arbeitstätigkeit bei der persönlichen Betreuung der Kinder Grenzen
+gesetzt. Immerhin ergibt sich aus dem Protokoll der vorinstanzlichen Anhörung
+der Kinder vom 19. September 2022, dass der Kindsvater mittlerweile im
+Unterschied zu früher Haushaltsarbeiten übernehme und für die Kinder koche.
+
+3.4.6 In der Kinderanhörung haben beide
+Töchter erklärt, beim Vater wohnen, aber gleichzeitig Kontakt mit der Mutter
+pflegen zu wollen. Entgegen der Auffassung der Berufungsklägerin erscheint es
+nicht problematisch, auf diesen von den Kindern klar geäusserten Wunsch
+abzustellen. Die Kinder vermochten ihre Willensäusserung in der Kinderanhörung
+differenziert zu begründen. Eine Einflussnahme des Kindsvaters erscheint zwar
+möglich, doch liegt sie in der Natur der Sache, nachdem die Kindsmutter die
+eheliche Wohnung verlassen und die Kinder in der Obhut des Kindsvaters
+zurückgelassen hat. Anhaltspunkte, dass die Kinder aber in einer eigentlichen
+«Maschinerie gefangen» wären, wie die Berufungsklägerin glaubhaft machen will,
+bestehen keine, zumal die Kinder in Kontakt mit ihr sind. Warum sie vor dem
+Hintergrund ihrer bisherigen Betreuung durch die Kindsmutter diese nicht
+selbständig sollen beurteilen können, ist nicht erfindlich. Vielmehr haben sich
+die Töchter durchaus differenziert geäussert. Die Tatsache, dass E____
+beispielsweise aussagte, gerne vor der Mutter zu singen, nicht aber vor
+Publikum, widerspricht der These der Berufungsklägerin, der Vater dämonisiere
+sie und indoktriniere die Töchter. Der im vorinstanzlichen Verfahren geäusserte
+Wille ist von den Kindern auch in diesem Verfahren von den Kindern mit
+handschriftlichen Bestätigungen erneuert worden (vgl. act. 6/ Ziff. 1 und 2).
+Der somit konstant und nachvollziehbar begründete Kinderwille ist daher zu
+berücksichtigen (AGE ZB.2021.43 vom 9. Februar 2022 E. 5.2 m.H. auf BGer
+5A_459/2015 vom 13. August 2015 E. 6.2.2 und 5A_719/2013 vom 17. Oktober
+2014 E. 4.4 sowie VGE VD.2019.131 vom 2. Juni 2020 E. 3.1.3), ohne dass dieser
+für sich allein massgebend sein könnte (AGE ZB.2021.10 vom 15. Mai 2022 E.
+2.3.1 m. H. auf BGer 5A_160/2011 vom 29. März 2011 E. 4, 5A_728/2015 vom
+25. August 2016; AGE BEZ.2020.24 vom 25. November 2020 E. 2.5.1,
+ZB.2019.29 vom 6. Mai 2020 E. 4.8.2; vgl. 5A_728/2015 vom 25. August 2016 E.
+2.1, 5A_719/2013 vom 17. Oktober 2014 E. 4.4, Michel/Schlatter ,
+in: Büchler/Jakob [Hrsg.], Kurzkommentar ZGB, 2. Auflage, Basel 2018, Art. 273
+N 10).
+
+3.4.7 Massgebend erscheint daher die Kommunikation
+unter den Eltern. Diesbezüglich hat die Vorinstanz Zweifel geäussert, ob die
+Eltern die für eine Regelung mit alternierender Obhut erforderliche
+Kommunikations- und Kooperationsbereitschaft aufbringen. Dieser Ansicht
+schliesst sich der Berufungsbeklagte mit seiner Berufungsantwort an. Zunächst
+ist festzuhalten, dass das Bundesgericht nicht allzu hohe Anforderungen an die
+Kommunikations- und Kooperationsbereitschaft stellt. Zur Verneinung der
+alternierenden Obhut genügt es nicht, dass die Eltern bereits bisher die
+Situation wegen kleinerer Streitigkeiten über die Übergabezeiten vor dem Kind
+haben eskalieren lassen (BGer 5A_722/2020 vom 13. Juli 2021 E. 3.2.1 und
+3.4.2). Vorliegend haben zwar auch die Kinder in der Kinderanhörung ausgeführt,
+dass sie sich nicht vorstellen könnten, «dass die Eltern etwas gemeinsam
+entscheiden» könnten. Weiter ist belegt, dass es bis zur Trennung der Eltern
+auch nach Auskunft der Kinder wiederholt auch in deren Anwesenheit zu zumindest
+verbalen Streitigkeiten zwischen den Eltern gekommen ist (Bericht Polizei Basel-Landschaft
+vom 7. Februar 2022; Anhörung vom 19. September 2022). Die Ehefrau sprach dabei
+gegenüber der KESB von täglichem Streit zwischen den Eltern («the kids [] are
+always seeing me and their Papa fighting everday»; Mail vom 15. August
+2022). Der Ehemann hat gegenüber der Polizei auch von leichten Tätlichkeiten
+der Ehefrau ihm gegenüber gesprochen, ohne dass Verletzungen oder Rötungen bei
+ihm haben festgestellt werden können (Bericht Polizei Basel-Landschaft vom 7.
+Februar 2022). Auch die Kinder haben in der Kinderanhörung von körperlichen
+Übergriffen gesprochen. Darauf kann es aber nicht ankommen. Einerseits ist nach
+Aussage der Töchter in der Kinderanhörung seit der Trennung der Eltern auch für
+die Kinder Ruhe eingetreten. Andererseits wird die Betreuungsregelung doch vom
+Gericht selber geregelt und stünde nötigenfalls auch eine Vermittlung durch
+Dritte zur Verfügung. Demgegenüber macht der Berufungsbeklagte geltend, dass
+die Berufungsklägerin ihre Betreuungszeiten nicht wahrnehme, ohne ihm dies vorgängig
+zu kommunizieren, weshalb er jeweils «quasi () auf Abruf» zur Verfügung stehen
+müsse. Dies wird von der Berufungsklägerin replicando bestritten. Eine
+unbegründete Unzuverlässigkeit in der Wahrnehmung der Betreuung seitens der
+Kindsmutter ist daher nicht glaubhaft gemacht. Schliesslich zeigen die im
+vorliegenden Verfahren beidseits gehässig vorgetragenen Vorwürfe bezüglich der
+Betreuung nach wie vor bestehende erhebliche gegenseitige Vorbehalte. Diese
+vermögen aber eine ausreichende Kommunikation im Rahmen einer alternierenden
+Obhut ebenfalls nicht zu verunmöglichen. Summa summarum besteht daher kein
+Elternkonflikt, der eine alternierende Obhut ausschliessen würde.
+
+3.4.8 Daraus folgt, dass die umfangreiche Betreuung
+der Kinder durch beide Elternteile nach der Rechtsprechung des Bundesgerichts
+einer alternierenden Obhut entspricht und keine konkreten Gründe bestehen, die
+trotz des massgeblichen Betreuungsanteils der Berufungsklägerin gegen die
+Anordnung bzw. die Bezeichnung der vorliegenden Betreuungsform als
+alternierende Obhut sprechen könnten.
+
+3.5
+
+3.5.1 Mit ihrer Beschwerde rügt die
+Beschwerdeführerin weiter die durch die Vor­instanz vorgenommene Regelung der
+Betreuung. An deren Stelle beantragt sie die hälftige alternierende Obhut mit
+wöchentlichen Wechseln jeweils am Freitagabend.
+
+3.5.2 Zur Begründung des Umfangs der als
+persönlicher Verkehr gemäss Art 273 Abs. 1 ZGB angeordneten Betreuung der
+Kinder hat die Vorinstanz im Wesentlichen auf die anlässlich der
+vorinstanzlichen Verhandlung geäusserten Vorstellungen der Eltern über die
+Ausgestaltung der Betreuungszeiten der Mutter abgestellt. Diese erfolgten aber
+seitens der Berufungsklägerin anerkanntermassen unter dem Vorbehalt, dass sie
+mit der vorinstanzlich festgelegten Prämisse der Zuteilung der Obhut über die
+beiden Töchter an den Kindsvater nicht einverstanden war.
+
+3.5.3 Die von ihr beantragte wochenweise
+alternierende, je hälftige Obhut wird von der Berufungsklägerin mit ihrer
+Berufungsbegründung nicht weiter begründet. Insbesondere unterlässt sie es
+weitgehend zu begründen, wieso eine paritätische Betreuung im Rahmen eines
+Wechselmodells dem Kindswohl besser entsprechen sollte. Sie macht in diesem
+Zusammenhang bloss geltend, dass das Abstellen auf den Wunsch der Kinder, bei
+ihrem Vater wohnen zu wollen, problematisch sei. Es bestünden deutliche
+Indizien, dass der Vater die Kinder bei dieser Willensbildung intensiv
+beeinflusse. Es möge zwar sein, dass die Kinder es vorzögen, beim Vater zu
+leben. Dies liege aber daran, dass der Vater ihnen alle Freiheiten lasse,
+während sie ihnen Grenzen setze. Gleichwohl würden die Mädchen seit Beginn der
+vorinstanzlich angeordneten Kontaktregelung wieder ein herzliches, enges
+Verhältnis zu ihr pflegen (act. 2 / Rz. 21). Schliesslich macht sie
+geltend, bezüglich der Bindungstoleranz gegenüber dem Ehemann klar bessere
+Bedingungen für die Kinder zu bieten (act. 2 / Rz. 18).
+
+3.5.4 Bei der Regelung der Obhut stehen nicht die
+Wünsche der Eltern, sondern das Kindswohl im Vordergrund. Dabei entspricht eine
+hälftige Aufteilung der Betreuung nicht per se dem Kindswohl. Diesbezüglich ist
+zunächst der erklärte Wille der Kinder zu berücksichtigen, die sich klar für
+einen primären Aufenthalt beim Vater ausgesprochen haben. Mit der Vorinstanz
+ist diese klare und wiederholte Willensäusserung zu berücksichtigen. Es ist
+auch nicht erkennbar, inwieweit ein Wechselmodell die Bereitschaft der Eltern, in
+Kinderbelangen zusammenzuarbeiten und insbesondere die Beziehung zum anderen
+Elternteil zuzulassen und aktiv zu fördern (sog. Bindungstoleranz), sollte
+befördern können. Dies gilt umso mehr, als die Berufungsklägerin nicht geltend
+macht, dass der Kindsvater den geregelten Kontakt zwischen ihr und den Kindern
+behindern würde. Weiter legt die Berufungsklägerin auch nicht dar, wie sie ein
+solches Wechselmodell mit ihrer Berufstätigkeit verbinden und die Betreuung der
+Kinder organisieren wollte. Schliesslich darf auch berücksichtigt werden, dass
+die Kindsmutter nach dem Gesagten bisher kaum Kontakte zur Schule gepflegt hat,
+was gegen eine wöchentlich wechselnde, im Grundsatz auch diese Kontakte
+beinhaltende Betreuungsverantwortung spricht. Da die Kindsmutter die
+Betreuungsregelung im Übrigen nicht konkret als dem Kindswohl widersprechend
+rügt, kann diese integral bestätigt werden. Bestritten und nicht belegt sind
+die Vorwürfe des Berufungsbeklagten, wonach die Kindsmutter die ihr zugeteilten
+Betreuungszeiten nicht zuverlässig wahrnehme, weshalb darauf nicht weiter
+einzutreten ist. Daraus folgt, dass die vorinstanzliche Regelung der Betreuung
+durch die Kindsmutter wie auch die vorinstanzliche Ferienregelung
+vollumfänglich bestätigt werden können.
+
+3.6
+
+3.6.1 Vor diesem Hintergrund ist weiter die Regelung
+des Aufenthaltsorts der Kinder zu bestimmen.
+
+3.6.2 Will ein verheirateter Elternteil bei
+gemeinsamer elterlicher Sorge den Wohnsitz der Kinder ins Ausland verlegen, so
+bedarf dies der Zustimmung des anderen Elternteils oder der Ermächtigung durch
+das Gericht (Art. 301a Abs. 2 lit. a ZGB). Beim gerichtlichen Entscheid über
+die Wohnsitzverlegung ist zunächst dem gesetzgeberischen Grundgedanken der
+Respektierung der Niederlassungs- und Bewegungsfreiheit der Eltern Rechnung zu
+tragen, weshalb aus Art. 301a Abs. 2 ZGB keine «faktische Residenzpflicht» von
+obhutsausübenden Elternteilen abgeleitet werden kann (BGE 142 III 481 E.
+2.5 m. H. auf 136 III 353 E. 3.3, 143 III 193 E. 7; AGE ZB.2021.42 vom
+25. Januar 2022 E. 3.1). Sind die Kinder bislang von beiden Elternteilen
+weitgehend zu gleichen Teilen betreut worden und sind beide Teile weiterhin
+willens und in der Lage, persönlich oder im Rahmen eines im Kindeswohl
+liegenden Betreuungskonzeptes für das Wohl der Kinder zu sorgen, so ist anhand
+weiterer Kriterien wie des familiären und wirtschaftlichen Umfelds, der Stabilität
+der Verhältnisse, der Sprache und Beschulung, gesundheitlicher Bedürfnisse wie
+auch der Meinungsäusserung älterer Kind zu eruieren, welche Lösung im besten
+Interesse des Kindes liegt (BGE 142 III 481 E. 2.7). Es kommen damit im
+Wesentlichen die Kriterien zur Anwendung, wie sie auch für die Obhutszuteilung
+gelten. Der weitere Aufenthaltsort des Kindes ist somit bei geteilter Obhut in
+erster Linie aufgrund der Erziehungsfähigkeit der Eltern, ihrer tatsächlichen
+Betreuungsmöglichkeiten, der Stabilität der Verhältnisse, der Sprache und
+Beschulung des Kindes und je nach Alter auch aufgrund seiner Äusserungen und
+Wünsche zu bestimmen (BGE 144 III 469 E. 4.1; AGE ZB.2021.42 vom 25. Januar
+2022 E. 3.1).
+
+3.6.3 Die Kinder gehen seit September 2022 in
+Deutschland zur Schule. Dabei hat der Berufungsbeklagte Fakten geschaffen, ohne
+sich vorgängig dazu gemäss Art. 301a ZGB ermächtigen zu lassen. Es kann
+offenbleiben, ob die Obhut nicht bereits zu diesem Zeitpunkt infolge des
+Auszuges der Ehefrau aus der ehelichen Wohnung im April 2022 und der Miete
+einer eigenen kleinen Wohnung in Basel faktisch beim Kindsvater lag. Selbst
+wenn man an die ursprüngliche gemeinsame Betreuung der Kinder anknüpfen wollte,
+ist nicht ersichtlich, inwiefern die Berufungsklägerin die Betreuung der Kinder
+im festgelegten Umfang infolge des Wegzugs des Berufungsbeklagten an einen
+neuen Wohnort in unmittelbarer Grenznähe nicht mehr wahrnehmen können soll
+(vgl. oben E. 3.3.2). Auch sonst ist nicht erkennbar und wird nicht dargelegt,
+inwieweit die Wohnsitzverlegung nach [...] dem Kindswohl widersprechen sollte.
+Die Kinder gehen dort seit September 2022 zur Schule, ohne dass die
+Berufungsklägerin geltend machen würde, dass diese Beschulung deren Wohl
+widersprechen könnte. Da die Kinder mehrheitlich beim Kindsvater leben und am
+neuen Wohnort die Schule besuchen, ist dem Berufungsbeklagten auch zu
+gestatten, die Kinder an seinem Wohnort anzumelden.
+
+3.7 Daraus folgt, dass die Regelung der
+Kinderbelange gemäss den Ziffern 3 bis 5 insoweit abzuändern ist, als
+festzustellen ist, dass den Kindseltern die alternierende Obhut zukommt. Im
+Übrigen ist die Regelung mit den konkreten Betreuungsanteilen aber
+vollumfänglich zu bestätigen.
+
+4.
+
+4.1 Strittig ist weiter die Unterhaltsregelung.
+
+4.2
+
+4.2.1 Wie die Vorinstanz zutreffend festgestellt
+hat, ist die Bemessung der Unterhaltsbeiträge unter den Ehegatten und für die
+Kinder gemäss Art. 176 Abs. 1 Ziff. 1 ZGB nach der zweistufigen Methode zu
+berechnen (BGE 147 III 301 E. 4.3; AGE ZB.2022.26 vom 24. November 2022 E.
+3.2.1). Nach dieser zweistufigen Methode wird der familienrechtliche
+Grundbedarf oder das familienrechtliche Existenzminimum der Kinder und der
+Elternteile je separat ermittelt und der nach der Deckung des
+familienrechtlichen Grundbedarfs der Kinder und der Eltern verbleibende
+Überschuss auf diese verteilt (vgl. BGE 147 III 265 E. 6.6 und 7; AGE ZB.2020.6
+vom 18. Juni 2020 E. 2.2.1 mit Nachweisen). Zum familienrechtlichen
+Grundbedarf der Elternteile zählen neben den betreibungsrechtlichen
+Grundbeträgen sowie ihren eigenen Wohnkosten, Krankenkassenbeiträgen und
+Mobilitätskosten praxisgemäss auch eine Kommunikations- und
+Versicherungspauschale sowie die Steuern, soweit kein Mangelfall vorliegt. Ein nach
+Deckung dieser Kosten vorhandener Überschuss wird in der Regel nach grossen und
+kleinen Köpfen (für einen Elternteil je zwei Teile und für ein Kind je ein
+Teil) auf die Eltern und ihre Kinder verteilt (vgl. BGE 147 III 265 E. 7.3; AGE
+ZB.2020.24 vom 1. Oktober 2020 E. 6.5, ZB.2019.27 vom 18. Mai 2020 E. 6.4.2.3).
+Besonderheiten des konkreten Falls können eine abweichende Verteilung gebieten
+(vgl. BGE 147 III 265 E. 7.3).
+
+4.2.2 Während bei alleiniger Obhut des einen Elternteils der andere
+Elternteil grundsätzlich für den gesamten Geldunterhalt aufzukommen hat (BGE
+147 III 265 E. 5.5 S. 273), ist bei geteilter Obhut von
+anderen Grundsätzen auszugehen. Muss bei alleiniger Obhut der nicht
+obhutsberechtigte Elternteil allein ein Gästezimmer für seine Kinder zur
+Verfügung stellen, benötigen bei geteilter Obhut beide Elternteile vollwertig
+ausgestattete Kinderzimmer mit entsprechender Einrichtung ( Maier/Waldner-Vontobel , Gedanken zur neuen Praxis des Bundesgerichts zum
+Unterhaltsrecht aus der Perspektive des erstinstanzlichen Gerichts, in:
+FamPra.ch 2021 S. 871, 887). Weiter ist zu definieren, welche Unterhaltskosten
+jeder Elternteil konkret trägt, soweit sich diese nicht notwendigerweise aus
+dem jeweiligen Aufenthalt ergeben (sogenannt nicht teilbare Kosten: BGer 5A_952/2019
+vom 2. Dezember 2020 E. 6.3.1, 5A_743/2017 vom 22. Mai 2019 E. 5.4.3; Maier/Vetterli , a.a.O., Art. 176 ZGB N
+37m ). Bei alternierender Obhut ist der
+Geldunterhalt im Falle ähnlicher
+Leistungsfähigkeit der Eltern umgekehrt proportional zu den Betreuungsanteilen
+zu erbringen und bei praktisch gleichen Betreuungsanteilen beider Eltern
+proportional zur Leistungsfähigkeit. Bei gleichzeitig asymmetrischem
+Betreuungsumfang und finanziellem Leistungsgefälle zwischen den Eltern muss die
+elterliche Leistungsfähigkeit zusätzlich zu den jeweiligen Betreuungsanteilen
+der Eltern ins Verhältnis gesetzt werden. Im Einzelnen wird bisweilen auch auf
+eine von Bundesrichter Nicolas von Werdt vorgeschlagene Matrix verwiesen (abgebildet in: Meyer ,
+Unterhaltsberechnung: Ist jetzt alles klar?, in: FamPra.ch 2021, S. 896, 906;
+BGE 147 III 265 E. 5.5 S. 273; kritisch und mit berechtigten Einwänden Aeschlimann/Bähler/‌Schweig­­hauser/‌Stoll ,
+Berechnung des Kindesunterhalts  Einige Überlegungen zum Urteil des
+Bundesgerichts vom 11. November 2020 i.S. A. gegen B. 5A_311/2019, in:
+FamPra.ch 2021, S. 251, 276; ebenso Maier/Waldner-Vontobel ,
+Gedanken zur neuen Praxis des Bundesgerichtes zum Unterhaltsrecht aus der
+Perspektive des erstinstanzlichen Gerichts, in: FamPra.ch 2021, S. 871, 886).
+Die vorgenannten Grundsätze zielen jedoch nicht auf eine rein rechnerische
+Operation, sondern sind vielmehr in Ausübung von Ermessen umzusetzen (so das
+obiter dictum in BGE 147 III 265 E. 5.5 S. 272 f. m. w. H.; Schweighauser , in: Fankhauser [Hrsg.],
+FamKomm Scheidung, 4. Aufl., Bern 2022, Art. 285 ZGB N 51; vgl. Fountoulakis , in: Basler Kommentar, 7.
+Auflage 2022, Art. 285 ZGB N 24-25a ).
+
+4.3 Mit dem angefochtenen Entscheid hat das
+Zivilgericht in Anwendung der zweistufigen Methode festgehalten, dass die (nicht
+obhutsberechtigte) Ehefrau derzeit mangels Leistungsfähigkeit nicht in der Lage
+ist, Unterhaltsbeiträge für die beiden Kinder zu leisten. Gleichzeitig wurde
+der Ehemann verpflichtet, der Ehefrau ab 1. November 2022 befristet bis zum 31.
+Oktober 2023 an ihren Unterhalt einen monatlichen und monatlich im Voraus zu
+bezahlenden Unterhaltsbeitrag von CHF 1'290. zu bezahlen. Dieser
+Unterhaltsentscheid basiert einerseits auf einem monatlichen Nettoeinkommen des
+Ehemannes von CHF 8'300. (100%-Pensum, inkl. 13 Monatslohn, inkl.
+Erziehungszulage, ohne Kinderzulagen, vor Quellensteuerabzug und ohne
+Berücksichtigung der laufenden Lohnpfändungen) sowie einem monatlichen
+durchschnittlichen Nettoeinkommen der Ehefrau von CHF 3'000. (Stundenlohn,
+durchschnittlich 120 Stunden pro Monat, inkl. 13. Monatslohn, ohne
+Kinderzulagen) und andererseits auf einem Bedarf des Ehemannes von CHF 3'910.
+(Grundbetrag: CHF 1'350.; Wohnkostenanteil: CHF 620.; Krankenkasse: CHF
+540.; Selbstbehalt/Franchise: CHF 50.; Transportkosten [Auto]: CHF 250.;
+Steuern pro Monat geschätzt: CHF 1100.), einem Bedarf der Ehefrau von
+CHF 4'290. (Grundbetrag: CHF 1200. ; angemessene Wohnkosten: CHF
+1'600.; Krankenkasse: CHF 550.; Selbstbehalt/Franchise: CHF 50.; U-Abo: CHF
+80.; Steuern pro Monat: CHF 510., Weiterbildungskosten: CHF 300.) sowie
+einem Bedarf der beiden Kinder E____ und F____ von jeweils CHF 1'138.
+(Grundbeträge: CHF 600.; Wohnkostenanteile: CHF 310.; Krankenkasse: CHF
+145.; Selbstbehalt/Franchise: CHF 30.; U- Abo: CHF 53.).
+
+4.4
+
+4.4.1 Nicht strittig ist zwischen den Parteien das
+dem Ehemann anzurechnende monatliche Nettoeinkommen von CHF 8'300.. Es fehlen
+auch Anhaltspunkte, um von Amtes wegen von dieser Annahme abzuweichen.
+
+4.4.2 Demgegenüber stellt der Ehemann das der
+Ehefrau angerechnete Nettoeinkommen von CHF 3'000. in Frage.
+
+4.4.2.1 Er macht geltend, es sei nicht ersichtlich,
+weshalb sie als Krankenschwester in der Schweiz nicht ein höheres Einkommen
+erzielen könne. Der Ehemann bezieht sich dabei auf den monatlichen Medianlohn
+einer Vollzeitstelle einer diplomierten Pflegefachperson von CHF 7'400.
+brutto. Zu Beginn des Berufslebens betrage dieser CHF 6'600. brutto pro
+Monat. Der Berufungsbeklagte rügt, dass das Bemühen der Berufungsklägerin um
+eine Verbesserung ihres beruflichen Fortkommens «reichlich spät» komme, zumal
+er schon früher die Voraussetzungen für eine Anerkennung ihres philippinischen Krankenschwester-Diploms
+in der Schweiz abgeklärt habe, ohne dass sie die notwendigen Weiterbildungen in
+Angriff genommen hätte (act. 5 / Rz. 72 und 73).
+
+4.4.2.2 Nicht bestritten ist, dass die Ehefrau im
+Rahmen ihrer Anstellung im Stundenlohn bei der Firma [...] in [...] derzeit ein
+tatsächliches monatliches Durchschnittseinkommen CHF 3'000. netto erzielt.
+Erzielt ein Ehegatte nicht das Einkommen, das er mit zumutbarer Anstrengung
+erreichen könnte, so ist ihm aber bei der Bemessung der Unterhaltsbeiträge der
+mögliche und zumutbare Verdienst als hypothetisches Einkommen  anzurechnen (AGE
+ZB.2018.54 vom 6. Mai 2019 E. 4.3.2; vgl. Fankhauser, in: Büchler/Jakob [Hrsg.], Kurzkommentar ZGB, 2. Auflage, Basel 2018, Art. 163
+N 9; Büchler/Raveane , in:
+Fankhauser [Hrsg.], FamKomm Scheidung, 4. Auflage, Bern 2022, Art. 125 ZGB N 22
+und 34; Maier/Vetterli , a. a. O.,
+Art. 176 ZGB N 34 ff.). Damit ein Einkommen überhaupt oder ein höheres
+Einkommen als das tatsächlich erzielte angerechnet werden kann, genügt es
+jedoch nicht, dass der betroffenen Partei weitere Anstrengungen zugemutet
+werden können. Vielmehr muss es auch möglich sein, aufgrund dieser
+Anstrengungen ein höheres Einkommen zu erzielen (BGE 137 III 118 E. 2.3 S.
+121; AGE ZB.2018.54 vom 6. Mai 2019 E. 4.3.2, ZB.2016.44 vom 13. April
+2017 E. 5.7). Die Verminderung der Leistungsfähigkeit muss rückgängig gemacht oder
+eine Einkommenssteigerung tatsächlich realisiert werden können ( Büchler/Raveane , a.a.O., Art. 125 ZGB N
+34). Daher dürfen hypothetische Einkünfte grundsätzlich nicht rückwirkend
+angerechnet, sondern bloss für die Zukunft angenommen werden ( Maier/Vetterli, a. a. O., Art. 176 ZGB N
+34c). Wo die reale Möglichkeit einer Einkommenssteigerung fehlt, muss eine
+solche ausser Betracht bleiben (BGer 5A_59/2016 vom 1. Juni 2016 E. 3.1; AGE
+ZB.2018.54 vom 6. Mai 2019 E. 4.3.2, ZB.2016.44 vom 13. April 2017 E. 5.7).
+Einem Ehegatten, der vom Gericht zur Aufnahme oder Ausweitung einer
+Erwerbstätigkeit verpflichtet und von dem durch die Anrechnung eines hypothetischen
+Einkommens eine Umstellung seiner Lebensverhältnisse verlangt wird, ist
+hinreichend Zeit zu lassen, die rechtlichen Vorgaben in die Tat umzusetzen. Die
+Dauer der Übergangsfrist beurteilt sich nach den Umständen des Einzelfalls
+(BGer 5A_90/2017 vom 24. August 2017 E. 6.2; AGE ZB.2022.41 vom 14. März
+2023 E. 3.2.2.2).
+
+4.4.2.3 Der Berufungsbeklagte macht nicht geltend,
+dass die Berufungsklägerin die Voraussetzung für eine Anstellung als
+diplomierten Pflegefachperson derzeit erfüllt. Er macht auch nicht geltend,
+dass sie bereits verpflichtet worden wäre, ihr Einkommen zu steigern oder die
+Voraussetzungen für die Aufnahmen einer Anstellung als diplomierte
+Pflegefachperson zu erfüllen. Weiter ist nicht bestritten, dass die
+Berufungsklägerin über mangelhafte Deutschkenntnisse verfügt. Es ist daher
+derzeit von ihrem tatsächlichen Einkommen ohne Aufrechnung eines hypothetischen
+Verdienstes auszugehen, zumal der Berufungsbeklagte auch nicht geltend macht,
+dass sie das ihr angerechnete Pensum bei ihrem aktuellen Arbeitgeber derzeit
+erhöhen kann.
+
+4.4.3 Da beide Ehegatten im Kanton Basel-Landschaft
+tätig sind, beträgt die den Kindern als Einkommen anzurechnende Kinderzulage je
+CHF 200..
+
+4.5
+
+4.5.1 Umstritten ist zwischen den Parteien weiter
+die Bedarfsberechnung. Strittig ist dabei zunächst die Berechnung des Bedarfs
+der Berufungsklägerin.
+
+4.5.1.1 Mit ihrer Berufung macht die Ehefrau geltend,
+aufgrund der alternierenden Obhut sei ihr der Grundbetrag einer
+alleinerziehenden Person anzurechnen. Die Bemessung der Grundbeträge hat sich
+nach den betreibungsrechtlichen Richtlinien zu orientieren (BGer 5A_743/2017
+vom 22. Mai 2019 E. 5.2.4). Die Berufungsklägerin betreut die Kinder in einem
+deutlich unter 50% liegenden Ausmass. Es rechtfertigt sich daher, ihr den
+Grundbetrag einer alleinstehenden Person anzurechnen.
+
+4.5.1.2 Bestritten wird vom Ehemann die Anrechnung von
+Weiterbildungskosten im Bedarf der Berufungsklägerin. Die Vorinstanz erwog
+diesbezüglich, dass die Berufungsklägerin über ein philippinisches Krankenschwesterdiplom
+verfüge. Gemäss ihren Angaben anlässlich der Verhandlung vom 17. Oktober 2022 müsse
+sie einen Weiterbildungs- und einen Sprachkurs absolvieren, damit dieses Diplom
+in der Schweiz anerkannt werde und sie hier als Krankenschwester- oder Pflegehelferin
+arbeiten könne. Hierfür werde ihr ein geschätzter monatlicher Betrag von CHF
+300.00 angerechnet, da von ihr grundsätzlich verlangt werde, künftig ein
+höheres Einkommen zu erzielen. Demgegenüber rügt der Berufungsbeklagte die
+Anrechnung einer Weiterbildungspauschale, wenn noch gar nicht feststehe, ob sie
+eine solche besuche. Die Anrechnung setze den Nachweis des Besuchs voraus.
+Diesen Nachweis hat die Berufungsklägerin replicando erbracht. Im Übrigen kann
+die Anrechnung solcher Kosten auch die Grundlage zur Anrechnung eines späteren
+höheren hypothetischen Einkommens bilden (vgl.  BGer 5A_613/2022 vom 2. Februar
+2023 E. 4.4.1), weshalb offenbleiben kann, ob ihr die Kosten nicht auch dann
+angerechnet werden könnten, wenn sie bisher noch keine entsprechende
+Weiterbildung aufgenommen hätte.
+
+4.5.1.3 Weiter verlangt der Berufungsbeklagte die
+Anrechnung von Krankenkassenprämienverbilligungen bei der Bestimmung des
+Bedarfs seiner Ehefrau und macht geltend, sie habe monatlich
+Prämienverbilligungen in der Höhe von CHF 107. oder CHF 135. zugute.
+Replicando legt die Berufungsklägerin dar, dass sie die Prämienverbilligung in [...]
+beantragt, bisher aber noch keine erhalten habe. Prämienverbilligungen sind bei
+der Berechnung anzurechnen, wenn darauf aufgrund des Einkommens einer Partei
+unter Berücksichtigung ihres Unterhaltsanspruchs ein Anspruch besteht (vgl. AGE
+ZB.2022.41 vom 14. März 2023 E. 4.2.1.3, ZB.2018.54. vom 6. Mai 2019 E. 6.1.1).
+Berücksichtigt man die Anmeldung der Kinder beim Ehemann, weshalb bei der
+Ehefrau diesbezüglich von einem Einpersonenhaushalt auszugehen ist, so erzielt
+die Berufungsklägerin mit ihrem Erwerbseinkommen und dem Ehegattenunterhalt ein
+Einkommen, welches bestenfalls am Rand der Anspruchsberechtigung für den Bezug
+von Prämienverbilligungen liegt. Es ist ihr daher keine solche anzurechnen.
+
+4.5.1.4 Weitere Bedarfspositionen sind von der
+Berufungsklägerin nicht geltend gemacht worden und können aufgrund der
+Dispositionsmaxime nicht berücksichtigt werden.
+
+4.5.1.5 Daraus folgt mit den nicht strittigen
+Bedarfspositionen ein Bedarf der Berufungsklägerin vor Steuern von CHF 2'980.
+(Grundbetrag CHF 1'200., Wohnkostenanteil CHF 800., Krankenkasse CHF 550.,
+Selbstbehalt/Franchise CHF 50., Mobilitätskosten CHF 80., Weiterbildung CHF
+300.).
+
+4.5.2 Strittig ist weiter der Bedarf des
+Berufungsbeklagten.
+
+4.5.2.1 Mit ihrer Berufungsbegründung verlangt die
+Berufungsklägerin eine Kürzung des Grundbetrags des Berufungsbeklagten, da
+dieser im Konkubinat mit seiner Freundin lebe, die den Mietvertrag
+mitunterzeichnet habe. Ein weiterer Abzug vom Grundbetrag sei aufgrund der
+tieferen Kosten in Deutschland angebracht. Sie sei aber insgesamt bereit, einen
+Grundbetrag von pauschal CHF 1'000. zu akzeptieren. Weiter verlangt die
+Berufungsklägerin, dass dem Ehemann ohne Ausscheidung von Kinderanteilen bloss
+der hälftige Anteil an den Kosten der gemeinsamen Wohnung, mithin CHF 900.,
+angerechnet werde (act. 2 / Rz. 25).
+
+4.5.2.2 Mit seiner Berufungsantwort macht der
+Berufungsbeklagte geltend, seine Freundin habe den Mietvertrag wegen seiner
+Verschuldung mitunterzeichnet. Er habe zum Abschluss des Vertrags eine
+solidarisch haftende Person mit einer einwandfreien Bonität benötigt. Seine
+Freundin wohne aber keineswegs mit ihm in [...] (act. 5 / Rz. 77). Dies
+entspricht den Aussagen der beiden Kinder in der Kinderanhörung vom 19.
+September 2022. Demnach komme die Freundin des Vaters «zwar oft zu Besuch, sie
+wohne aber nicht dort». Auch wenn es dem Berufungsbeklagten ohne Weiteres
+möglich gewesen wäre, diesen Umstand mit der Edition eines eigenen
+Mietvertrages seiner Freundin zu belegen, und er erst duplicando wenig
+aussagekräftige Screenshots von angeblichen Mietzinszahlungen seiner Partnerin
+belegt, so kann im Rahmen der Glaubhaftmachung davon ausgegangen werden, dass
+kein Konkubinat besteht. Deshalb sind dem Berufungsbeklagten der Grundbetrag
+einer alleinerziehenden Person und zusammen mit den Kindern die vollen
+Mietkosten anzurechnen.
+
+4.5.2.3 Mit Bezug auf das Kostenniveau hat die
+Vorinstanz erwogen, dass der Berufungsbeklagte mit den Kindern zwar [...]
+gleich an der Grenze zu Basel lebe, aber nach wie vor in der Schweiz arbeite.
+Seine Lebenshaltungskosten dürften daher mit denjenigen einer in Basel lebenden
+Person vergleichbar sein. Entsprechend macht der Berufungsbeklagte geltend, es
+sei vom Preisniveau der Stadt Basel auszugehen, zumal er zu 100 % im Kanton
+Basel-Landschaft berufstätig sei und einen Grossteil seiner
+Lebensmitteleinkäufe in der Schweiz tätige. Dies akzeptiert die
+Berufungsklägerin denn auch bezüglich der Kinder, obgleich auch diese im Rahmen
+ihrer Betreuung durch den Kindsvater vom tieferen deutschen Preisniveau
+profitierten. Bei einem Wohnsitz im grenznahen Ausland wird zur Berücksichtigung
+der leicht tieferen Lebenshaltungskosten beim Grundbetrag praxisgemäss ein
+Abzug von rund 10 % gemacht (vgl. Lötscher/Wullschleger ,
+Aus der Praxis des Einzelgerichts in Familiensachen Basel-Stadt, in: BJM 2008
+22 Fn. 74; AGE ZB.2015.28 vom 16. September 2015 E. 3.2). Wenn vorliegend
+aufgrund des Arbeitsplatzes des Berufungsbeklagten auf einen Abzug verzichtet
+worden ist, liegt dies im Beurteilungsermessen der Vorrichterin. Dies gilt umso
+mehr, als die Berufungsklägerin diese Begründung in tatsächlicher Hinsicht
+nicht bestritten hat.
+
+4.5.2.4 Mit den zwischen den Parteien nicht strittigen
+Positionen ergibt sich somit ein Bedarf des Berufungsbeklagten vor Steuern von
+CHF 2'810. (Grundbetrag CHF 1'350., Wohnkostenanteil CHF 620.,
+Krankenkasse CHF 540., Selbstbehalt/Franchise CHF 50., Mobilitätskosten CHF
+250.).
+
+4.5.3
+
+4.5.3.1 Was den Bedarf der Kinder betrifft, so
+verlangt die Berufungsklägerin zunächst die Aufteilung ihrer Grundbeträge im
+Verhältnis der Betreuungsanteile auf die beiden Elternteile. Mit den
+Grundbeträgen sind die Kosten der «Nahrung, Kleidung und Wäsche einschliesslich
+deren Instandhaltung, Körper- und Gesundheitspflege, Unterhalt der
+Wohnungseinrichtung, Privatversicherungen, Kulturelles sowie Auslagen für
+Beleuchtung, Kochstrom und/oder Gas etc.» zu decken (vgl. Weisung der Aufsichtsbehörde
+über das Betreibungs- und Konkursamt Basel-Stadt betreffend die Berechnung des
+Existenzminimums, gültig ab 1. Januar 2010 [https://www.bka.bs.ch/verfahren/aufsichtsbehoerden.html]).
+Diese Kosten stehen nur teilweise in direkter Korrelation mit der Betreuung der
+Kinder (z.B. Kleiderkäufe). Gleichwohl sind sie den Eltern nach der
+bundesgerichtlichen Rechtsprechung nach Massgabe der Betreuungsanteile
+anzurechnen (vgl. BGer 5A_743/2017 vom 22. Mai 2019 E. 5.4.3). Dies muss
+insbesondere dann gelten, wenn wie hier eine abweichende Abrede unter den
+Eltern fehlt. Entsprechend den Betreuungsanteilen unter Einschluss der
+Ferienaufenthalte von rund 62 und 38 Prozent sind den Eltern die Grundbeträge der
+Kinder von je CHF 600. im Verhältnis von CHF 372. beim Vater und CHF 228.
+bei der Mutter anzurechnen. Anteilig sind auch die nicht bestrittenen
+Mobilitätskosten von CHF 53. anzurechnen.
+
+4.5.3.2 Bei den Krankenkassenprämien handelt es sich
+demgegenüber um nicht teilbare Barauslagen. Nach Massgabe ihrer Anmeldung in
+Deutschland gilt für die Kinder sozialversicherungsrechtlich das deutsche
+Recht. Dementsprechend hat sich der Ehemann darum zu kümmern und sind ihm die
+entsprechenden Kosten anzurechnen. Die Parteien gehen mit der Vorinstanz
+diesbezüglich von den bisherigen Kosten der in der Schweiz zu leistenden
+Krankenkassenprämien von je CHF 145. aus, worin ihnen gefolgt werden kann.
+
+4.5.3.3 Obwohl dies von der Berufungsklägerin in Frage
+gestellt wird, sind bei den Wohnkosten der Parteien die jeweiligen Anteile der
+in ihrer Obhut lebenden Kinder auszuscheiden. Dies erfolgt praxisgemäss nach
+grossen und kleinen Köpfen, weshalb den Ehegatten jeweils die Hälfte und den
+Kindern je ein Viertel der im Übrigen nicht strittigen Wohnkosten anzurechnen
+sind.
+
+4.5.3.4 Soweit die Berufungsklägerin schliesslich in
+dem bei ihr anfallenden Bedarf der Kinder Drittbetreuungskosten im Betrag von
+CHF 500. geltend macht, bezieht sie diese auf Kosten der Inanspruchnahme der
+Tagesstrukturen an den Basler Schulen, welche die beiden Töchter gemäss dem
+vorliegenden Entscheid aber nicht besuchen.
+
+4.5.3.5 Daraus folgt ein Barbedarf der Kinder von je
+CHF 890. beim Vater (je Grundbetrag CHF 372., Wohnkostenanteil CHF 310.,
+Krankenkasse CHF 145., Selbstbehalt/Franchise CHF 30., Mobilität CHF 33.)
+und von CHF 648. bei der Mutter (Grundbetrag CHF 228., Wohnkostenanteil CHF
+400., Mobilität CHF 20.). Mit der Vorinstanz kann im vorliegenden Verfahren
+verheirateter Eltern auf die Ausscheidung eines Steueranteils der Kinder
+verzichtet werden. Dies gilt umso mehr, als die diesbezüglichen steuerlichen
+Verhältnisse in Deutschland nicht belegt und bekannt sind.
+
+4.6 Auf dieser Grundlage ist die Unterhaltsberechnung
+vorzunehmen.
+
+4.6.1 Nach dem oben Gesagten ist von einem
+monatlichen Gesamteinkommen der Familie von CHF 11'700. (CHF 8'300. [Ehemann]
++ CHF 3'000. [Ehefrau] + CHF 200. [Kind] + CHF 200. [Kind]) auszugehen.
+Der Grundbedarf der Familie vor Berücksichtigung der Steuern beträgt monatlich
+CHF 8'866. (CHF 2'890. [Ehemann] + CHF 2'980. [Ehefrau] + CHF 890. [Kind
+beim Ehemann] + CHF 890. [Kind beim Ehemann] + CHF 648. [Kind bei Ehefrau] +
+648. [Kind bei Ehefrau]).
+
+4.6.2 Vor Berücksichtigung der Steuern kann die Ehefrau
+ihren eigenen Bedarf knapp decken (Nettoeinkommen CHF 3'000.  Bedarf CHF
+2'980.). Den Barbedarf der Töchter, der bei ihr anfällt (je CHF 648.. vgl. E.
+4.5.3.5), hat indes der Berufungsbeklagte mit seinem Überschuss (Nettoeinkommen
+CHF 8'300.  Bedarf CHF 2'810.) zu bezahlen. Weiter wäre zu dem vom Ehemann
+an die Ehefrau zu leistenden Kindesunterhalt der nach Massgabe der
+Betreuungsanteile anteilige Überschussanteil der Kinder hinzuzurechnen. Der
+Überschussanteil der Kinder geht mithin im Umfang ihrer Betreuung durch die
+Mutter zur Ehefrau über (38 % des Überschussanteils von CHF 472., also
+CHF 179. pro Kind). Ohne Berücksichtigung der Steuern hätte der Ehemann somit
+der Ehefrau pro Kind einen Kindesunterhalt (Barunterhalt) in der Höhe von CHF 827.-
+(CHF 648. + CHF 179.) zu bezahlen, insgesamt also CHF 1'654.. Für den
+Barunterhalt der Kinder während seiner eigenen Betreuungszeit (je CHF 890. ,
+vgl. E. 4.5.3.5) hat der Vater mangels Leistungsfähigkeit der Mutter
+selbst aufzukommen. Der familienrechtliche Grundbedarf der Ehefrau ist wie
+erwähnt durch ihr Einkommen knapp gedeckt. Folglich schuldete ihr der Ehemann
+als Ehegattenunterhalt grundsätzlich nur noch ihren Überschussanteil. Aufgrund
+der Geltung der Dispositionsmaxime (vgl. E. 1.5.2) steht der
+Berufungsklägerin indes höchstens Ehegattinnenunterhalt in der beantragten Höhe
+von CHF 420. zu.
+
+4.6.3 Ausgehend
+von diesen Unterhaltsbeiträgen ist eine Steuerschätzung vorzunehmen, aufgrund
+welcher wiederum die Unterhaltsbeiträge zu präzisieren sind. Der
+Kinderunterhalt für minderjährige Kinder ist beim Schuldner abziehbar und bei
+der Inhaberin der elterlichen Sorge, welche die Unterhaltsbeiträge empfängt,
+steuerbar (vgl. § 24 lit. e und § 32 Abs. 1 lit. c Steuergesetz [StG, SG
+640.100]; Art. 23 lit. f und Art. 33 Abs. 1 lit. c Bundesgesetz über die
+direkte Bundessteuer [DBG, SR 642.11]). Der Kinderabzug für minderjährige
+Kinder kann von der Inhaberin der elterlichen Sorge, welche die
+Unterhaltsbeiträge empfängt, geltend gemacht werden (vgl. Baumgartner/ Eichenberger , in:
+Zweifel/Beusch [Hrsg.], Kommentar zum schweizerischen Steuerrecht, 4. Auflage,
+Basel 2022, Art. 35 DBG N 20 und 20b; Häfeli ,
+in: Tarolli Schmidt et al. [Hrsg.], Kommentar zum Basler Steuergesetz, Basel
+2019, § 35 N 11; Ramseier , in:
+Fankhauser [Hrsg.], FamKomm Scheidung, 4. Auflage, Bern 2022, Anh. St N 34).
+Der Elterntarif gilt bei minderjährigen Kindern für die Inhaberin der
+elterlichen Sorge, welche die Unterhaltsbeiträge erhält (vgl. Ramseier , a.a.O., Anh. St N 33). Bezüglich
+Kinderabzug und Elterntarif ist somit der durch die Bezahlung von
+Unterhaltsbeiträgen geschaffene Status entscheidend, nicht jedoch, wer in
+welchem Umfang die Betreuung der Kinder wahrnimmt ( Arndt/Bader , Steuer- und
+Familienrecht  wenn verflossene Liebe Steuern kostet, in: FamPra.ch 2020, S.
+644, 658). Ob dies rechtspolitisch richtig ist, muss vorliegend offenbleiben.
+Diese Regelung entspricht der Praxis, weshalb auch vorliegend die Steuern
+danach zu berechnen sind. Elterntarif und Kinderabzüge stehen somit der Ehefrau
+zu, die unterhaltsberechtigt ist. Die Kinderzulagen, die Bestandteil der
+Unterhaltsbeiträge im Sinn des Steuerrechts sind (vgl. Richner/Frei/ Kaufmann/Meuter , Handkommentar zum DBG, 3.
+Auflage, Zürich 2016, Art. 23 N 64 und Art. 33 N 53), hat der Ehemann als
+Zulagenempfänger zu versteuern. Ausgehend vom Nettoeinkommen und unter
+Berücksichtigung der soeben erwähnten Prinzipien (Versteuerung der
+Unterhaltsbeiträge bei Anwendung des Elterntarifs und Geltendmachung der
+Kinderabzüge) ist für die Ehefrau gemäss Basler Steuerrechner von einer
+monatlichen Steuerlast in der Höhe von rund CHF 150. auszugehen .
+Die Ehegatten äussern sich im Berufungsverfahren nicht zur Steuersituation des
+Ehemannes, weshalb es vertretbar erscheint, wie die Vorinstanz auf die
+Steuerbelastung im Kanton Basel-Landschaft abzustellen. Gemäss
+Quellensteuertarif des Kantons Basel-Landschaft (Tarif A: Alleinstehende
+Steuerpflichtige, die nicht mit Kindern im gleichen Haushalt leben) beträgt die
+so grob geschätzte monatliche Steuerbelastung (auf dem Bruttoeinkommen des
+Ehemannes zuzüglich Kinderzulagen) nach erfolgter Tarifkorrektur (Abzug der zu
+leistenden Unterhaltsbeiträge) rund CHF 740..
+
+4.6.4 Bei Berücksichtigung der so
+ermittelten Steuerlast beträgt der Grundbedarf der Familie monatlich CHF
+9756. (CHF 3550. [Ehemann] + CHF 3130. [Ehefrau] + CHF 890. [Kind
+beim Ehemann] + CHF 890. [Kind beim Ehemann] + CHF 648. [Kind bei Ehefrau] + CHF
+648. [Kind bei Ehefrau]). Ihm steht ein Gesamteinkommen von CHF 11'700.
+gegenüber.
+
+Gesamteinkommen:                       CHF 11'700.00
+
+Gesamtbedarf:                                 CHF    9'756.00
+
+Überschuss                                     CHF    1'944.00
+
+4.6.5 Nach
+der neuen bundesgerichtlichen Praxis ist der Überschuss bei Anwendung der
+zweistufigen Methode grundsätzlich nach «grossen und kleinen Köpfen»
+aufzuteilen, wobei aus mannigfaltigen Gründen von dieser Regel abgewichen
+werden kann, aufgrund der besonderen Konstellation unter Umständen sogar
+abgewichen werden muss (vgl. E. 4.2.1). Als Gründe für ein solches Abweichen
+führt das Bundesgericht unter anderem spezielle Bedarfspositionen wie etwa
+Schuldenrückzahlungen an (BGE 147 III 265 E. 7.3; = FamPra.ch 2021, 200 ff.; Maier/Vetterli , a. a. O., Art. 176
+ZGB N 36a).
+
+4.6.5.1 Der Berufungsbeklagte
+unterliegt einer Lohnpfändung. Die Vorinstanz hat diese bei der Berechnung des
+Unterhalts nicht berücksichtigt, da Unterhaltsgläubiger den übrigen Gläubigern
+vorgingen und die Lohnpfändung insofern an die Unterhaltsregelung angepasst
+werden könne (E. 7.4.1 des angefochtenen Entscheids). Der Berufungsbeklagte
+macht in seiner Berufungsantwort (act. 5 / Rz. 83) geltend, es müsse ihm
+erlaubt sein, mit dem Überschuss der Familie Schulden abzubezahlen. Dies umso
+mehr, als für die hauptsächlich aus Steuerschulden bestehenden Schulden aus der
+Zeit der gemeinsamen Veranlagung auch die Berufungsklägerin verantwortlich sei.
+
+4.6.5.2 Nach der bundesgerichtlichen Rechtsprechung
+gehen Schulden gegenüber Dritten, insbesondere auch gegenüber dem Fiskus, der
+familienrechtlichen Unterhaltspflicht nach. Drittschulden gehören damit
+grundsätzlich nicht zum Existenzminimum eines Unterhaltsschuldners, sondern
+sind nach dem Ermessen des Sachgerichts im Rahmen einer allfälligen
+Überschussaufteilung zu berücksichtigen (vgl. BGE 127 III 289, S. 292, E.
+2a/bb, m . w. H.). Auch dann sind Schulden jedoch nur zu
+berücksichtigen, wenn die Ehegatten diese für den gemeinsamen Lebensunterhalt
+aufgenommen hatten (vgl. dazu BGer 5A_141/2014 vom 28. April 2014, E. 3.1 und
+BGer 5A_452/2010 vom 23. August 2010,
+E. 3.2 , BGer 5A_131/2007 vom 8. Juni 2007, E.
+2.2 ). Entscheidend ist somit einzig, ob die eingegangene Schuld
+nicht bloss einem Ehegatten diente, sondern für den Unterhalt beider Ehegatten
+eingesetzt wurde (vgl. BGer 5A_131/2007 vom 8. Juni 2007, E.
+2.2 ). Da Lohnpfändungen durch das Betreibungsamt ebenfalls
+der Abzahlung von Drittschulden dienen, muss für deren Berücksichtigung im
+Rahmen der Ermittlung der Leistungsfähigkeit eines Unterhaltsschuldners
+grundsätzlich dasselbe gelten wie für regelmässig geleistete Abzahlungen an
+Dritte. Nach Massgabe der allgemeinen Beweislastregel ( Art. 8 ZGB ) obliegt
+es dem Unterhaltsschuldner, der zu seinen Gunsten die Berücksichtigung
+der Lohnpfändung bei der Ermittlung seiner Leistungsfähigkeit
+verlangt, hinreichend darzutun, dass die der Pfändung zugrunde liegenden
+Schulden für den gemeinsamen Unterhalt der Ehegatten aufgenommen wurden (vgl.
+z.B. BGer 5A_141/2014 vom 18. April 2014,
+E. 3.5 ). Die Geltung der Untersuchungsmaxime ändert nichts an
+der Beweislast und enthebt die Parteien nicht davon, an der Sammlung des
+Prozessstoffes mitzuwirken ( Art. 160 ZPO ;
+BGer 5A_875/2015 vom 22. April 2016,
+E. 3.2.2 ).
+
+4.6.5.3 Wie aus den Akten hervorgeht, unterliegt der
+Berufungsbeklagte einer monatlichen Lohnpfändung in der Höhe von rund CHF
+2'000.. Weil nach Deckung des (erweiterten) Existenzminimums der Familie ein
+Überschuss resultiert (vgl. E. 4.6.4), kommt eine Berücksichtigung der
+Lohnpfändung grundsätzlich in Betracht. Fraglich ist, ob der Lohnpfändung
+Schulden zugrunde liegen, die für den gemeinsamen Unterhalt der Ehegatten aufgenommen
+wurden. Der Berufungsbeklagte macht geltend, die Schulden bestünden
+«hauptsächlich aus Steuerschulden aus der Zeit der gemeinsamen Veranlagung»
+(act. 5 / Rz. 83). Die Berufungsklägerin ist der Ansicht, der Ehemann habe
+nicht nachgewiesen, dass die Schulden im Interesse der Familie entstanden seien
+(act. 2 / Rz. 26). Sie macht aber umgekehrt geltend, aufgrund ihres Wohnsitzes
+in der Schweiz ein weitaus grösseres Risiko zu tragen, für «Familienschulden
+der letzten Jahre» in Anspruch genommen zu werden (act. 2 / ebda.). Damit ist
+unbestritten, dass die Ehegatten gemeinsame Schulden haben. Im Rahmen der
+Glaubhaftmachung kann mithin davon ausgegangen werden, dass der Lohn des Berufungsbeklagten
+wegen Schulden gepfändet wird, die den Ehegatten gemeinsam entstanden sind. Es
+erscheint darum sachgerecht, den Überschuss dem Ehemann zwecks Tilgung dieser
+Schulden zuzuweisen. Dies muss umso mehr gelten, als die Schuldentilgung auch
+im Interesse der Berufungsklägerin erfolgt.
+
+4.6.6 Wird die oben (vgl. E. 4.6.3)
+geschätzte Steuerlast in die Unterhaltsberechnung einbezogen, so fehlen der
+Ehefrau CHF 130., um ihren eigenen Bedarf zu decken (Nettoeinkommen [CHF
+3000.]  Bedarf inkl. Steuern [CHF 3130.]). Den bei ihr anfallenden
+Barbedarf der Kinder von je CHF 648. (vgl. E. 4.5.3.5) vermag sie infolge-dessen
+nicht aus eigenen Kräften zu bezahlen. Der Ehemann weist bei
+Berücksichtigung der Steuerschätzung einen Überschuss von CHF 4750 . auf (Nettoeinkommen [CHF 8'300 . ] 
+Bedarf inkl. Steuern [CHF 3550 . ]). Bei asymmetrischem
+Betreuungsumfang und finanziellem Leistungsgefälle zwischen den Eltern muss
+deren Leistungsfähigkeit zusätzlich zu den jeweiligen Betreuungsanteilen ins
+Verhältnis gesetzt werden (vgl. E. 4.2.2). Mit seinem Überschuss hat der
+Ehemann darum den Bedarf der Töchter im Haushalt der Berufungsklägerin zu decken
+(je CHF 648.). Der Ehemann hat somit der Ehefrau pro Kind Barunterhalt in der
+Höhe von CHF 648. zu bezahlen. Für den Barunterhalt der Kinder während seiner
+eigenen Betreuungszeit hat der Vater mangels Leistungsfähigkeit der Mutter
+selbst aufzukommen. Die Kinderzulagen von je CHF 200. werden vom Ehemann
+bezogen und direkt für den Unterhalt der Kinder verwendet. Neben dem
+Barunterhalt umfasst der Kinderunterhaltsbeitrag auch den Betreuungsunterhalt,
+sofern ein solcher nach der vom Bundesgericht für verbindlich erklärten
+Lebenskostenmethode (vgl. BGE 144 III 481 E. 4.1; Schweighauser , in: Fankhauser [Hrsg.], FamKomm Scheidung, 4.
+Auflage, Bern 2022, Bd. I, Art. 285 ZGB N 71a) geschuldet ist. Ein
+Anspruch auf Betreuungsunterhalt besteht  auch bei geteilter Obhut und
+beidseitiger Erwerbstätigkeit , wenn einer der Eltern infolge der Betreuung
+seine Lebenshaltungskosten nicht selber finanzieren kann und der andere
+Elternteil nach dem allfällig notwendigen Ausgleich beim Barunterhalt noch
+leistungsfähig ist ( Schweighauser, a.
+a. O., Art. 285 ZGB N 92). Die Ehefrau ist zu 70 % arbeitstätig und betreut die
+Kinder zu rund 38 %. Der Ehemann macht nicht geltend, dass sie ihr Pensum
+erhöhen sollte. Wie eingangs festgestellt, fehlen der Berufungsklägerin
+CHF 130. zur Deckung ihres eigenen Bedarfs. Dementsprechend beläuft sich
+der Betreuungsunterhalt, der hälftig auf die beiden Kinder aufgeteilt wird, auf
+je CHF 65. . Der Berufungsbeklagte hat der Berufungsklägerin somit mit Wirkung
+ab 1. November 2022 pro Kind monatlich vorauszahlbare Kinderunterhaltsbeiträge
+in der Höhe von CHF 713. (davon CHF 648. Barunterhalt und CHF 65.
+Betreuungsunterhalt) zu bezahlen. Wie oben erläutert wird der familiäre
+Überschuss dem Berufungsbeklagten zugewiesen. Der Berufungsklägerin steht somit
+kein Überschussanteil zu, weshalb sie keinen Anspruch auf Ehegattinnenunterhalt
+hat.
+
+4.6.7
+
+4.6.7.1 In
+prozessualer Hinsicht bleibt zu erörtern, ob die Reduktion respektive Aufhebung
+des von der Vorinstanz gesprochenen Ehegattinnenunterhalts gegen die
+Dispositionsmaxime verstösst. Wie weiter oben erläutert (vgl. E. 1.5) gilt für
+den im Rahmen von Eheschutzverfahren festzulegenden Ehegattenunterhalt die
+Dispositionsmaxime. Diese verbietet es der Rechtsmittelinstanz, über die
+Anträge der Rechtsmittelklägerin hinauszugehen und das erstinstanzliche Urteil
+zu deren Ungunsten abzuändern, es sei denn die Gegenpartei habe ein
+(Anschluss-)Rechtsmittel ergriffen (Verschlechterungsverbot).
+
+4.6.7.2 Vorliegend hat das Eheschutzgericht der Berufungsklägerin Ehegattenunterhalt in
+der Höhe von CHF 1'290. zugesprochen. Die Berufungsklägerin verlangt Kindesunterhalt
+in der Höhe von monatlich CHF 1'500. pro Tochter und Ehegattenunterhalt in der
+Höhe von CHF 420.. Der Berufungsbeklagte hat den vorinstanzlichen Entscheid
+nicht angefochten. Eine Anschlussberufung ist im Eheschutzverfahren
+ausgeschlossen (Art. 314 Abs. 2 i.V.m. Art. 271 Bst. a ZPO).
+
+4.6.7.3 Wie
+das Bundesgericht in seiner jüngeren Rechtsprechung wiederholt festgestellt
+hat, beruhen Ehegatten- und Kindesunterhalt zwar auf verschiedenen
+Rechtsgründen. Bei Anwendung der zweistufigen Berechnungsmethode mit
+Überschussverteilung besteht jedoch eine Interdependenz zwischen dem Ehegatten-
+und dem Kindesunterhalt (vgl. E. 1.5.2), so dass bezüglich des
+Ehegattenunterhalts die Dispositionsmaxime ein Stück weit relativiert wird (vgl.
+BGer 5A_60/2022 vom 5. Dezember 2022 E. 3.4.1, 5A_776/2021 vom 21. Juni
+2022 E. 6.3.2, 5A_112/2020 vom 28. März 2022 E. 2.2 und 2.3) und sich
+eine Gesamtbetrachtung aufdrängt. Die Vorinstanz hat der Berufungsklägerin
+ausgehend von der alleinigen Obhut des Ehemanns und der mangelnden
+Leistungsfähigkeit der Ehefrau Ehegattinnenunterhalt in der Höhe von CHF
+1'290. zugesprochen. Da neu von alternierender Obhut ausgegangen wird, ist
+zunächst der Kindesunterhalt (Barunterhalt und Betreuungsunterhalt) zu decken,
+weshalb es zu einer Verschiebung der Mittel vom Ehegatten- in den
+Kindesunterhalt kommt. Der Berufungsklägerin unter Verweis auf die
+Dispositionsmaxime zusätzlich zum Kindesunterhalt Ehegattenunterhalt in der von
+der ersten Instanz gewährten Höhe zuzuweisen, wäre im Ergebnis stossend. Dies gilt
+umso mehr, als ansonsten der Elternteil, der mit der erstinstanzlichen
+Unterhaltsregelung einverstanden ist (wie vorliegend der Ehemann), gegen einen
+Eheschutzentscheid stets selbständig Berufung ergreifen müsste, um dem Fall
+vorzubeugen, dass das Rechtsmittelgericht dem anderen Elternteil in Anwendung
+des Offizial- und Untersuchungsgrundsatzes mehr (bzw. wie vorliegend überhaupt)
+Kindesunterhalt zuspricht. Tatsächlich legt nur die isolierte Betrachtung des
+Ehegattenunterhalts eine (rechtswidrige) Verschlechterung für die
+Berufungsklägerin nahe. Bei einer Gesamtbetrachtung muss die Berufungsklägerin
+hingegen wegen der Zusprechung von Kindesunterhalt (Bar- und
+Betreuungsunterhalt) keine Verschlechterung hinnehmen. Im Übrigen hat die
+Berufungsklägerin selbst über den Ehegattenunterhalt disponiert und diesen 
+vordergründig zu ihren Ungunsten  abgeändert, beantragt sie doch alternierende
+Obhut und demzufolge für sich selbst Unterhalt lediglich in der Höhe von CHF
+420.. Schon alleine darum kann es nicht sein, dass der Berufungsklägerin unter
+dem Titel Ehegattinnenunterhalt gleich viel wie vor der Vorinstanz zuzusprechen
+ist.
+
+4.7 Mit der Vorinstanz kann festgehalten werden,
+dass der Ehefrau per November 2023 wegen der von ihr besuchten Weiterbildung
+zugemutet werden kann, mit ihrer Berufserfahrung im Gesundheitsbereich mit
+einem Pensum von 80 % ein höheres Einkommen zu erzielen. Soweit die
+Berufungsklägerin dem entgegenhält, dass ihr dieses Einkommen «generell»
+anzurechnen sei und bei einer Einkommenssteigerung im Rahmen eines
+Abänderungsverfahrens eine Anpassung erfolgen könne, kann ihr darin nicht
+gefolgt werden. Gerade weil der Ehemann diese berufliche Ertüchtigung im Rahmen
+der Unterhaltsberechnung mitzufinanzieren hat, muss ihr mit der Vorinstanz ab
+Oktober 2023 ein höheres, hypothetisches Einkommen angerechnet werden (vgl.
+BGer 5A_613/2022 vom 2. Februar 2023 E. 4.4.1). Gemäss einer Berechnung mit dem
+statistischen Lohnrechner Salarium (https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeiterwerb/loehne-erwerbseinkommen-arbeitskosten/lohnniveau-schweiz/salarium.html)
+kann eine ausländische Arbeitnehmerin im Gesundheitswesen in einem
+Betreuungsberuf auch ohne Spezialkenntnisse und ohne bisherige Dienstjahre mit
+einem Pensum von 80 % als Medianwert ein Bruttoeinkommen von CHF 4'800. bis
+5'000. erzielen. Daraus folgt, dass die Berufungsklägerin ab November 2023
+keinen Anspruch auf Betreuungsunterhalt mehr hat. Demgegenüber rechtfertigt es
+sich, die Parteien bezüglich des Kinderbarunterhalts auf den Abänderungsweg zu
+verweisen, zumal bei einer Neuberechnung aufgrund des künftigen Wohnsitzes der
+Kinder wohl auch ausländisches Recht zur Anwendung kommen wird.
+
+5.
+
+5.1 Aus dem Gesagten folgt, dass die Berufungsklägerin
+mit Bezug auf die Gewährung der alternierenden Obhut ganz und bezüglich ihrer
+Unterhaltsanträge teilweise obsiegt. Demgegenüber unterliegt sie mit ihren
+Anträgen bezüglich der Betreuungsregelung, der einwohnerrechtlichen Anmeldung
+und der Verlegung des Aufenthalts der Kinder nach [...].
+
+5.2 Diesem Ausgang des Verfahrens entspricht es
+in Anwendung des Erfolgsprinzips gemäss Art. 106 Abs. 1 ZPO, die Gerichtskosten
+den Parteien je hälftig aufzuerlegen und die Vertretungskosten wettzuschlagen.
+Ein Abweichen vom Erfolgsprinzip in Anwendung von Art. 107 ZPO rechtfertigt
+sich mangels besonderer Umstände im vorliegenden Rechtsmittelverfahren nicht
+(vgl. dazu AGE ZB.2022.11 vom 8. Juni 2022 E. 5.1, mit weiteren
+Hinweisen). Die Gerichtsgebühr ist in Anwendung von § 10 Abs. 2 Ziff. 1 des
+Gerichtsgebührenreglements (GGR, SG 154.810) auf CHF 1'000. festzusetzen.
+
+5.3 Nicht bestritten ist der vorinstanzliche
+Kostenentscheid, weshalb dieser zu bestätigen ist.
+
+5.4 Beide Parteien haben um Bewilligung der
+unentgeltlichen Rechtspflege ersucht. Diese kann ihnen ohne Berücksichtigung
+der vorhandenen Überschüsse aufgrund ihrer Verschuldung bewilligt werden.
+Daraus folgt, dass die Gerichtskosten unter Vorbehalt der Nachforderung gemäss
+Art. 123 Abs. 1 ZPO zu Lasten der Gerichtskasse gehen. Ihren Vertreterinnen
+sind daher Honorare aus der Gerichtskasse auszurichten, die sich in
+familienrechtlichen Verfahren nach dem Zeitaufwand mit einem Stundenansatz von
+CHF 200. richten. Die Vertreterinnen der Parteien machen dabei einen Aufwand
+von 25.7 resp. 25.75 Stunden und Auslagen im Betrag von CHF 69.70 respektive
+eine Auslagenpauschale gemäss § 23 des Honorarreglements von CHF 154.50
+geltend. Auch wenn dieser Aufwand gerade auch mit Blick auf den ihre
+Mandantschaft belastende Nachforderungsanspruch des Gerichts gemäss § 123 Abs.
+1 ZPO hoch erscheint, kann darauf abgestellt werden. Daraus folgen Honorare von
+CHF 5'209.70 inkl. Auslagen zugunsten der Vertreterin der Ehefrau und von CHF
+5304.50 inkl. Auslagen zugunsten der Vertreterin des Ehemanns, jeweils
+zuzüglich Mehrwertsteuer. Die Ausrichtung dieser Honorare erfolgt wie
+ausgeführt unter dem Vorbehalt der Nachforderung bei den kostenpflichtigen
+Parteien gemäss Art. 123 Abs. 1 ZPO.
+
+Demgemäss erkennt das Appellationsgericht
+(Dreiergericht):
+
+://:        1. Die
+Ziffern 1, 2, 4, 5.1, 5.2, 5.3, 9, 10 und 11 des Entscheids des Zivilgerichts
+vom 18. Oktober 2022 [...] sind in Rechtskraft erwachsen.
+
+2. Die Ziffern 3, 6, 7 und 8 des Entscheids
+des Zivilgerichts vom 18. Oktober 2022 [...] werden aufgehoben und wie folgt
+neu gefasst:
+
+3. Die
+Kinder E____, geb. [...] 2009, und F____, geb. [...] 2011, stehen in der
+alternierenden Obhut beider Eltern.
+
+6. Es
+wird festgehalten, dass die Ehefrau derzeit mangels Leistungsfähigkeit nicht in
+der Lage ist, den bei ihr anfallenden Barunterhalt der Kinder zu bezahlen und
+Beiträge an deren Unterhalt in der Obhut des Ehemanns zu leisten.
+
+7.
+Der Ehemann wird verpflichtet, der Ehefrau mit Wirkung ab 1. November 2022
+an den laufenden Unterhalt seiner beiden Töchter einen monatlichen und
+monatlich im Voraus zu bezahlenden Unterhaltsbeitrag von je CHF 713. (davon
+CHF 648. Barunterhalt und CHF 65.­ Betreuungsunterhalt) zu bezahlen, für
+beide Kinder zusammen somit monatlich CHF 1'426.. Ab November 2023
+reduzieren sich diese Unterhaltsbeiträge um den Betreuungsunterhalt auf je CHF
+648., somit auf monatlich insgesamt CHF 1'296..
+
+Die
+Kinderzulagen von derzeit je CHF 200. werden vom Ehemann bezogen und direkt
+für den Unterhalt der Kinder verwendet.
+
+8.
+Dieser Entscheid basiert auf einem monatlichen Nettoeinkommen des Ehemannes von
+CHF 8'300.00 (100 %-Pensum, inkl. 13 Monatslohn, inkl. Erziehungszulage, ohne
+Kinderzulagen, vor Quellensteuerabzug, die laufenden Lohnpfändungen nicht
+berücksichtigt) sowie einem durchschnittlichen monatlichen Nettoeinkommen der
+Ehefrau von CHF 3'000.00 (Stundenlohn, durchschnittlich 120 Stunden pro
+Monat, inkl. 13. Monatslohn, ohne Kinderzulagen).
+
+Die
+Ehegatten verfügen über kein unterhaltsrelevantes Vermögen.
+
+Der
+Bedarf des Ehemannes beträgt CHF 3'550. und setzt sich wie folgt zusammen:
+Grundbetrag: CHF 1350.; Wohnkostenanteil: CHF 620.; Krankenkasse:
+CHF 540.; Selbstbehalt/Franchise: CHF 50.; Transportkosten (Auto):
+CHF 250.; Steuern pro Monat geschätzt: CHF 740. . Im Rahmen
+der Überschussverteilung wurde die Lohnpfändung in der Höhe von rund CHF
+2'000. berücksichtigt.
+
+Der
+Bedarf der Ehefrau beträgt CHF 3'130. und setzt sich wie folgt zusammen:
+Grundbetrag: CHF 1200.; angemessene Wohnkosten: CHF 800.; Krankenkasse:
+CHF 550.; SelbstbehaIt/Franchise: CHF 50.; U-Abo: CHF 80.; Steuern pro
+Monat: CHF 150., Weiterbildungskosten: CHF 300..
+
+Der
+Bedarf von E____ und F____ beim Ehemann beträgt jeweils CHF 890. und setzt
+sich wie folgt zusammen: Grundbetrag CHF 372.; Wohnkostenanteil: CHF 310.,
+Krankenkasse: CHF 145.; SelbstbehaIt/Franchise: CHF 30.; U-Abo: CHF 33..
+
+Der Bedarf
+von E____ und F____ bei der Ehefrau beträgt jeweils CHF 648. und setzt sich
+wie folgt zusammen: Grundbetrag CHF 228.; Wohnkostenanteil: CHF 400.; U-Abo:
+CHF 20..
+
+3. Der
+vorinstanzliche Kostenentscheid wird bestätigt.
+
+4. Die Gerichtskosten
+des Berufungsverfahrens von insgesamt CHF 1'000. tragen die Parteien je zur
+Hälfte. Zufolge Bewilligung der unentgeltlichen Rechtspflege gehen die
+Gerichtskosten zu Lasten der Gerichtskasse. Die Nachzahlung gemäss Art. 123
+Abs. 1 ZPO bleibt vorbehalten.
+
+5. Die Parteikosten
+des Berufungsverfahrens werden wettgeschlagen. Zufolge Bewilligung der unentgeltlichen
+Rechtspflege werden den Rechtsbeiständen Honorare aus der Gerichtskasse
+ausgerichtet. Der unentgeltlichen Rechtsvertreterin der Berufungsklägerin, B____,
+wird ein Honorar in der Höhe von CHF 5'209.70 (inkl. Auslagen), zuzüglich 7,7 %
+MWST von CHF 401.15, aus der Gerichtskasse ausgerichtet. Der
+unentgeltlichen Rechtsvertreterin des Berufungsbeklagten, D____, wird ein
+Honorar von CHF 5'304.50 (inkl. Auslagen), zuzüglich 7,7 % MWST von CHF 408.45,
+aus der Gerichtskasse bezahlt. Die Nachzahlung gemäss Art. 123 Abs. 1 ZPO bleibt
+vorbehalten.
+
+Mitteilung an:
+
+- Berufungsklägerin
+
+- Berufungsbeklagter
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Nadja Fischer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
