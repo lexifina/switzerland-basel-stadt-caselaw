@@ -1,0 +1,383 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.383"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2023.7"
+docket_2: "AG.2023.383"
+decided: "2023-06-01"
+published: "2024-09-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75323&W10_KEY=3052836&nTrefferzeile=517&Template=search_result_document.html"
+cites_decisions: ["5A_294/2021", "5A_620/2012", "5D_14/2020", "BGE 133 III 393", "BGE 142 III 498", "BGE 143 III 193", "EA.2022.15654", "ZB.2023.7"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-172.md", "switzerland/bund/acts/210/art-179.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-261.md", "switzerland/bund/acts/272/art-271.md", "switzerland/bund/acts/272/art-272.md", "switzerland/bund/acts/272/art-296.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-314.md", "switzerland/bund/acts/272/art-315.md"]
+---
+
+# Getrenntleben
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2023.7
+
+ENTSCHEID
+
+vom 1.
+Juni 2023
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur.
+André Equey, MLaw Manuel Kreis
+
+und Gerichtsschreiber
+PD Dr. Benedikt Seiler
+
+Parteien
+
+A____ Berufungskläger
+
+[...]                                                                                              Ehemann
+
+gegen
+
+B____ Berufungsbeklagte
+
+[...]                                                                                               
+Ehefrau
+
+vertreten durch [...], Rechtsanwalt,
+
+[...]
+
+Gegenstand
+
+Berufung gegen einen
+Entscheid des Zivilgerichts
+
+vom 3. Januar 2023
+
+betreffend Getrenntleben
+
+Sachverhalt
+
+A____ (Ehemann) und B____ (Ehefrau) haben am [...] 2009 geheiratet.
+Aus der Ehe sind die gemeinsamen Kinder C____, geb. [...] 2013, und D____, geb.
+[...] 2014, hervorgegangen.
+
+Am 17. Februar 2022 bzw. am 23. August 2022 stellte die
+Ehefrau ein Trennungsbegehren, welches sie mit Eingabe vom 16. März 2022 bzw.
+8. September 2022 wieder zurückzog. Mit Eingabe vom 5. Dezember 2022 beantragte
+die Ehefrau beim Zivilgericht Basel-Stadt erneut die Bewilligung des
+Getrenntlebens, wobei sie diverse Anträge in Bezug auf die Regelung des
+Getrenntlebens stellte.
+
+Mit Verfügung vom 8. Dezember 2022 wurde die Eingabe der
+Ehefrau vom 5. Dezember 2022 dem Ehemann zur Kenntnisnahme zugestellt und die in
+dieser Eingabe gestellten Anträge auf superprovisorische Zuteilung der
+ehelichen Wohnung, Ausweisung des Ehemannes aus der ehelichen Wohnung sowie
+Zuteilung der Obhut über die beiden gemeinsamen Kinder abgewiesen. Weiter wurde
+dem Ehemann eine Frist von fünf Tagen ab Zustellung der Verfügung gesetzt, um
+mitzuteilen, ob er mit dem Auszug aus der ehelichen Wohnung per 15. Dezember
+2022 einverstanden ist. Beide Ehegatten und deren Vertreter wurden auf den 3.
+Januar 2023 zur Verhandlung vorgeladen. Mit Eingabe vom 14. Dezember teilte
+der Ehemann mit, nicht mit einem Auszug aus der ehelichen Wohnung per 15.
+Dezember 2022 einverstanden zu sein.
+
+Am 21. Dezember 2022 wurde mit beiden Kindern eine
+Kinderanhörung durch den verfahrensleitenden Gerichtspräsidenten des
+Zivilgerichts durchgeführt. Mit Verfügung vom 28. Dezember 2022 wurde das
+Protokoll der Kinderanhörung vom 21. Dezember 2022 beiden Ehegatten sowie dem
+Kinder- und Jugenddienst Basel-Stadt (KJD) zur Kenntnis zugestellt. Überdies
+wurde der KJD beauftragt abzuklären, wem der beiden Ehegatten die Obhut über
+die beiden gemeinsamen Kinder zuzuteilen und wie gegebenenfalls der Kontakt des
+nicht obhutsberechtigten Elternteils zu den Kindern zu regeln ist. Zudem wurde
+der KJD beauftragt, dem Gericht Anträge betreffend allfällig zu treffende
+Kindesschutzmassnahmen zu stellen.
+
+Mit E-Mail vom 2. Januar 2022 reichte die KESB Basel-Stadt
+den Bericht zur Erstintervention nach häuslicher Gewalt des KJD sowie den
+aktuellen, der KESB Basel-Stadt am 29. Dezember 2022 zugegangenen
+Polizeirapport ein.
+
+An der Verhandlung vom 3. Januar 2023 hielt die Ehefrau an
+ihren Rechtsbegehren der Eingabe vom 5. Dezember fest und beantragte der
+Ehemann seinerseits die alleinige Obhut über die beiden gemeinsamen Kinder
+sowie die Zuteilung der ehelichen Wohnung. Mit Entscheid vom gleichen Tag
+bewilligte das Zivilgericht den Ehegatten das Getrenntleben ab Aufnahme
+desselben und regelte das Getrenntleben wie folgt:
+
+2. Die eheliche Wohnung wird der Ehefrau
+mit den Kindern zugeteilt.
+
+Der Ehemann wird verpflichtet, die eheliche Wohnung unter
+Mitnahme seiner persönlichen Fahrhabe und Übergabe seiner Wohnungsschlüssel bis
+3. Februar 2023 zu verlassen.
+
+3. Die Obhut über
+die Kinder C____, geb. [...] 2013, und D____, geb. [...] 2014, verbleibt bei der Mutter.
+
+4. Nach Eingang des
+Berichts des Kinder- und Jugenddienstes betreffend der Obhut über die Kinder
+wird der Entscheid überprüft.
+
+5. Der Vater nimmt
+die Kinder jedes zweite Wochenende von Freitagabend bis Sonntagabend zu sich.
+Für den Fall, dass der Ehemann keine Wohnung findet, die es ihm ermöglicht die
+Kinder über Nacht zu sich zu nehmen, nimmt er die Kinder jeweils jedes zweite
+Wochenende am Samstag und am Sonntag jeweils vom 9 bis 19 Uhr zu sich auf
+Besuch. Über den weitergehenden persönlichen Verkehr einigen sich die Ehegatten
+untereinander unter Berücksichtigung der berechtigten Interessen der Kinder.
+
+Allfällige Streitigkeiten über den persönlichen Verkehr
+entscheidet gemäss Art. 134 Abs. 4 Zivilgesetzbuch die zuständige
+Kindesschutzbehörde.
+
+6. Der Ehemann wird
+verpflichtet, der Ehefrau an den Unterhalt der beiden Kinder mit Wirkung ab 1.
+Februar 2023 einen monatlich vorauszahlbaren Unterhaltsbeitrag von je CHF
+375.00 zuzüglich allfälliger Kinderzulagen pro Kind zu bezahlen.
+
+[] »
+
+Gegen diesen Entscheid reichte der Ehemann mit Eingabe vom 3.
+März 2023 Berufung beim Appellationsgericht Basel-Stadt ein. Darin beantragt
+er, es sei der Entscheid des Zivilgerichts vom 3. Januar 2023 teilweise
+aufzuheben und wie folgt zu ändern:
+
+a) Es sei Ziff. 2
+aufzuheben und die eheliche Wohnung, inkl. Hausrat, dem Ehemann zur Nutzung
+zuzuweisen.
+
+b) Es sei Ziff. 3
+aufzuheben und die beiden gemeinsamen Kinder, C____ (geb. [...] 2013) und D____ (geb. [...] 2014), unter die Obhut des Ehemannes
+zu stellen.
+
+c) Es sei Ziff. 5
+aufzuheben und ein Besuchsrecht zugunsten der Ehefrau von jedem zweiten
+Wochenende von Freitagabend bis Sonntagabend festzulegen.
+
+d) Es sei Ziff. 6
+aufzuheben und es sei die Ehefrau zur Zahlung eines monatlich und monatlich
+vorauszahlbaren Kindesunterhaltsbeitrages in Höhe von mindestens CHF 1.00 zu
+verpflichten.»
+
+Zudem beantragt der Ehemann die Gewährung der unentgeltlichen
+Rechtspflege für das Berufungsverfahren.
+
+Mit Verfügung vom 13. März 2023 wies der verfahrensleitende
+Gerichtspräsident des Appellationsgerichts das Gesuch des Ehemanns um Gewährung
+der unentgeltlichen Rechtspflege ab und teilte der Ehefrau die in der Berufung
+gegen den Entscheid vom 3. Januar 2023 gestellten Rechtsbegehren mit. Auf die
+Einholung einer Berufungsantwort bei der Ehefrau wurde hingegen verzichtet. Der
+vorliegende Entscheid erging unter Beizug der Akten des Zivilgerichts auf dem
+Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Gegenstand des
+angefochtenen Entscheids ist die Regelung des Getrenntlebens durch das
+Einzelgericht in Zivilsachen und mithin eine vorsorgliche Massnahme im Sinn von
+Art. 176 Abs. 1 des Schweizerischen Zivilgesetzbuches (ZGB, SR 210).
+Dieser Entscheid ist gemäss Art. 308 Abs. 1 der Schweizerischen
+Zivilprozessordnung (ZPO, SR 272) mit Berufung anfechtbar. Über vorsorgliche
+Massnahmen nach den Artikeln 172179 ZGB ist im summarischen Verfahren zu
+entscheiden (Art. 271 lit. a ZPO). Die vorliegende Berufung ist unter Einhaltung
+der Anforderungen gemäss Art. 311 ZPO rechtzeitig innert der Frist von
+zehn Tagen gemäss Art. 314 Abs. 1 ZPO eingereicht worden. Auf das
+Rechtsmittel ist demzufolge grundsätzlich einzutreten (vgl. aber unten E. 2.2).
+
+Gemäss § 92 Abs. 1 Ziff. 6 des Gerichtsorganisationsgesetzes
+(GOG, SG 154.100) ist zur Beurteilung der Berufung das Dreiergericht des
+Appellationsgerichts zuständig. Mit der Berufung können unrichtige
+Rechtsanwendung und unrichtige Feststellung des Sachverhalts geltend gemacht
+werden (Art. 310 ZPO).
+
+1.2 Für Eheschutzverfahren im Anwendungsbereich
+von Art. 271 ZPO gilt die eingeschränkte Untersuchungsmaxime (Art. 271
+lit. a in Verbindung mit Art. 272 ZPO; Sutter-Somm/Vontobel ,
+in: Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung, 3. Auflage 2016, Art. 272 ZPO N 12). In Bezug auf die
+Kinderbelange gelten demgegenüber die uneingeschränkte Untersuchungsmaxime und
+die Offizialmaxime (Art. 296 ZPO; dazu Schweighauser ,
+in: Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung, 3. Auflage 2016, Art. 296 N 1 ff.).
+
+2.
+
+2.1 Eheschutzmassnahmen
+gemäss Art. 172 ff. ZGB kommt grundsätzlich lediglich ein provisorischer
+Charakter zu: Nehmen die Ehegatten das Zusammenleben wieder auf, fallen, mit
+Ausnahme der Gütertrennung und der Kindesschutzmassnahmen, die für das
+Getrenntleben angeordneten Vorkehren ohne Weiteres dahin (Art. 179 Abs. 2 ZGB).
+Aus diesem Grund werden Eheschutzmassnahmen nach der Rechtsprechung des
+Bundesgerichts als vorsorgliche Massnahmen qualifiziert (BGE 133 III 393
+E. 5.1 S. 396; BGer 5A_294/2021 vom 7. Dezember 2021 E. 2).
+
+2.2
+
+2.2.1 Das Zivilgericht führt in seinem Entscheid gestützt
+auf den Bericht des KJD zur Erstintervention nach häuslicher Gewalt aus, dass von
+beiden Ehegatten Paargewalt und physische Gewalt ausgehe und ein anhaltender,
+ausgeprägter Paarkonflikt vorliege. Die Konfliktdynamik unter den Ehegatten habe
+schon mehrfach zu Polizeieinsätzen und zu gegenseitigen Annäherungsverboten
+geführt. Beide Ehegatten würden sich vorwerfen, sich nicht beziehungsweise
+schlecht um die gemeinsamen Kinder zu kümmern. In der Erstintervention nach
+häuslicher Gewalt durch den KJD sei beiden Ehegatten eine «niedrige
+Kooperationsbereitschaft» zugestanden worden (angefochtener Entscheid Tatsachen
+XIII und E. 3.4). Diese Ausführungen sind belegt und werden vom Ehemann in
+seiner Berufung nicht bestritten.
+
+Es ist somit nicht zu beanstanden, dass das Zivilgericht in
+Ausübung seiner Pflicht, den Sachverhalt von Amtes wegen zu erforschen (vgl.
+oben E. 3.1), den KJD beauftragt hat, abzuklären, wem der beiden Ehegatten
+die Obhut über die beiden gemeinsamen Kinder zuzuteilen und wie gegebenenfalls
+der Kontakt des nicht obhutsberechtigten Elternteils zu den Kindern zu regeln
+ist.
+
+2.2.2 Wie in der Verfügung vom 13. März 2023
+ausgeführt, hat der verfahrensleitende Gerichtspräsident des Zivilgerichts
+vorliegend zur Regelung der streitgegenständlichen Alleinobhut über die beiden
+gemeinsamen Kinder und die darauf abzustimmende Zuteilung der ehelichen Wohnung
+zwar einen Entscheid getroffen, hierbei aber explizit die Überprüfung des Entscheids
+über die Zuteilung der Obhut aufgrund des mit Verfügung vom 28. Dezember
+2022 eingeholten Berichts des KJD in Aussicht gestellt (angefochtener Entscheid
+Dispositivziffer 4). Damit ist der angefochtene Entscheid sowohl provisorischer
+als auch bloss vorläufiger Natur. Es handelt sich mithin um eine von vornherein
+befristete Anordnung, welche durch einen neuen Entscheid unter Berücksichtigung
+des Berichts des KJD ersetzt wird, sobald dieser vorliegt.
+
+Damit stellt sich die Frage, inwieweit eine Anfechtung
+derartiger bloss befristeter Anordnung für die Dauer bis zur Neubeurteilung
+unter Berücksichtigung des Berichts des KJD betreffend die Obhut über die
+gemeinsamen Kinder mit Berufung möglich oder sinnvoll ist.
+
+Der Ehemann hat die Anordnung, wonach nach Eingang des
+Berichts des KJD betreffend der Obhut über die gemeinsamen Kinder eine
+Überprüfung erfolge (angefochtener Entscheid Dispositivziffer 4), mit seiner
+Berufung nicht (mit-)angefochten, womit diese Anordnung in Rechtskraft
+erwachsen ist (vgl. Art. 315 Abs. 1 ZPO). Diese Anordnung wäre aufgrund der
+dargestellten Umständen ohnehin nicht zu beanstanden.
+
+Gegenstand des vorliegenden Berufungsverfahrens kann somit
+nur eine befristete Neuregelung der angefochtenen Eheschutzmassnahmen bis zum
+Vorliegen des Berichts des KJD bzw. bis zur Neubeurteilung durch die Vorinstanz
+unter Berücksichtigung des Berichts des KJD sein.
+
+2.2.3 Der Ehemann beantragt keine vorsorgliche
+Abänderung der angefochtenen Obhutsregelung für die Dauer des
+Berufungsverfahrens. Dementsprechend macht er auch keine Dringlichkeit bzw. kein
+Drohen eines nicht leicht wiedergutzumachenden Nachteils (vgl. Art. 261 Abs. 1
+ZPO) geltend. Somit könnte erst mit dem vorliegenden, das Berufungsverfahren
+abschliessenden Entscheid neu über die angefochtenen Eheschutzmassnahmen
+entschieden werden, wobei diese  selbst wenn sie in Gutheissung der Berufung durch
+die Berufungsinstanz inhaltlich neu geregelt würden  durch die Vorinstanz
+erneut zu überprüfen und allenfalls abzuändern wäre, sobald der Bericht des KJD
+vorliegt (vgl. vorstehend E. 2.2.2). Im Übrigen wäre eine Neubeurteilung auf
+Grundlage des Berichts des KJD gemäss Art. 296 Abs. 1 und 3 ZPO ohnehin von
+Amtes wegen vorzunehmen.
+
+Gemäss der Verfügung vom 28. Dezember 2022 ist der
+Bericht innert drei Monate einzureichen. Es ist also davon auszugehen, dass der
+Bericht des KJD inzwischen bereits vorliegt oder in Kürze vorliegen wird.
+
+Aufgrund dieser Umstände kann kein praktisches, aktuelles
+Interesse des Ehemanns an der Beurteilung der von ihm in der Berufung
+gestellten Anträgen ausgemacht werden. Folglich ist auf die Berufung mangels
+schutzwürdigen Interesses (Art. 59 Abs. 1 lit. a ZPO) nicht einzutreten (zu den
+Anforderungen an das schutzwürdige Interesse im Rechtsmittelverfahren vgl. BGer
+5D_14/2020 vom 28. Oktober 2020 E 4.3.1; ausführlich Reetz , in:
+Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung (ZPO), 3. Aufl., Zürich 2016, Vorbem. zu Art. 308318
+N 30).
+
+2.3 Lediglich ergänzend ist darauf hinzuweisen,
+dass aufgrund der dargestellten Umstände die Berufung ohnehin abzuweisen wäre,
+wenn darauf eingetreten würde.
+
+Beim Entscheid
+über die Elternrechte und -pflichten beachtet das Gericht alle für das
+Kindeswohl wichtigen Umstände. Das Kindeswohl ist oberste Maxime des Kindesrechts
+in einem umfassenden Sinn (BGE 143 III 193 E. 3; 141 III 328 E. 5.4). Die
+Interessen und Wünsche der Eltern haben in den Hintergrund zu treten (BGE 142
+IIII 617 E. 3.2.3).
+
+Würde vorliegend
+den Anträgen des Ehemanns gefolgt und sowohl die Obhut, das Besuchsrecht sowie
+die Zuweisung der elterlichen Wohnung abgeändert, so würde dies lediglich
+vorläufig bis zur Neubeurteilung unter Berücksichtigung des Berichts des KJD und
+damit unter Vorbehalt einer erneuten Abänderung erfolgen (vgl. oben
+E. 2.2.2). Damit würde die Gefahr eines «Hin- und Her» innert kürzester
+Zeit in Bezug auf die Kinderbelange in Kauf genommen, was dem Kindeswohl offensichtlich
+abträglich ist (vgl. BGE 142 III 498 E. 4.5 S. 501; BGer 5A_620/2012 vom
+29. Oktober 2012 E. 3; OGer ZH PQ140011 vom 25. März 2014
+E. 4). Die Anträge des Ehemanns in seiner Berufung erweisen sich insofern
+auch als unbegründet.
+
+3.
+
+Aus den
+Ausführungen folgt, dass auf die Berufung vom 3. März 2023 nicht eingetreten
+wird.
+
+Dementsprechend
+hat der Ehemann die Prozesskosten des Berufungsverfahrens zu tragen (Art. 106
+Abs. 1 ZPO). In Eheschutzverfahren beträgt die Grundgebühr für das
+Berufungsverfahren CHF 300. bis CHF 2'000. (§ 10 Abs. 2 Ziff. 1
+in Verbindung mit § 12 Abs. 1 des Reglements über die Gerichtsgebühren [GGR,
+SG 154.810]) und wird vorliegend auf CHF 1'000. festgelegt. Da auf
+die Berufung nicht eingetreten wird, wird die Gebühr auf die Hälfte ermässigt
+(§ 16 Abs. 1 lit. b GGR). Aufgrund des Verzichts auf die Einholung
+einer Berufungsantwort bei der Ehefrau ist ihr keine Parteientschädigung
+zuzusprechen.
+
+Demgemäss erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf die Berufung gegen den Entscheid des
+Zivilgerichts vom 3. Januar 2023 (EA.2022.15654) wird nicht eingetreten.
+
+Der Berufungskläger trägt die Gerichtskosten des
+Berufungsverfahrens von CHF 500..
+
+Mitteilung an:
+
+- Berufungskläger
+
+- Berufungsbeklagte
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Der Gerichtsschreiber
+
+PD Dr. Benedikt Seiler
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
