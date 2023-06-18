@@ -1,0 +1,464 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.391"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2022.152"
+docket_2: "AG.2023.391"
+decided: "2023-06-18"
+published: "2024-08-13"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75353&W10_KEY=3048518&nTrefferzeile=142&Template=search_result_document.html"
+cites_decisions: ["1B_244/2017", "1B_258/2017", "1B_277/2013", "1B_387/2021", "6B_360/2014", "BGE 137 I 23", "BGE 147 I 372"]
+cites_law: ["switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/312.0/art-042.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-255.md", "switzerland/bund/acts/312.0/art-259.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# DNA-Analyse
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2022.152
+
+ENTSCHEID
+
+vom 18.
+Juni 2023
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und a.o.
+Gerichtsschreiberin MLaw Anna Gombert
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+Wohnort unbekannt                                                               Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft
+Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4051
+Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 2. Oktober 2022
+
+betreffend DNA-Analyse
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft führt gegen A____ (nachfolgend: Beschwerdeführer) diverse
+Strafverfahren, unter anderem wegen des Verdachts auf Widerhandlung gegen das
+Betäubungsmittelgesetz, Diebstahl und Missbrauch einer Datenverarbeitungsablage
+([...]). Anlässlich der vorläufigen Festnahme wurde dem Beschwerdeführer am 2.
+Oktober 2022 ein Wangenschleimhautabstrich (WSA) entnommen. Mit der «Verfügung
+DNA-Analyse (Art. 255 StPO)» vom 2. Oktober 2022 ordnete die Staatsanwaltschaft
+darüber hinaus die Erstellung eines DNA-Profils an.
+
+Gegen diese
+Verfügung hat der Beschwerdeführer, vertreten durch Advokat, [...], mit Eingabe
+vom 12. Oktober 2022 Beschwerde erhoben. Darin beantragt er, es sei
+festzustellen, dass die Entnahme der DNA-Probe rechtswidrig erfolgte, die angefochtene
+Verfügung betreffend die Erstellung eines DNA-Profils sei aufzuheben und die
+DNA-Proben umgehend zu vernichten. In verfahrensrechtlicher Hinsicht beantragt
+der Beschwerdeführer, ihm die Akten zuzustellen und Gelegenheit zur Ergänzung
+der Beschwerde zu geben. Sodann beantragt der Beschwerdeführer, dass ihm für
+das Beschwerdeverfahren die unentgeltliche Rechtspflege und Verteidigung zu
+gewähren sei. Alles unter o/e Kostenfolge. Mit Verfügung vom 18. Oktober 2022 weist
+der Verfahrensleiter den Antrag auf Gewährung einer Gelegenheit zur Ergänzung
+der Beschwerde ab. Die Staatsanwaltschaft beantragt mit Vernehmlassung vom 14.
+Dezember 2022 die kosten- und entschädigungsfällige Abweisung der Beschwerde. Mit
+Verfügung des Verfahrensleiters vom 9. Januar 2023 wird dem Beschwerdeführer
+die Akteneinsicht bewilligt. Mit Eingabe vom 16. Januar 2023 teilt die
+Staatsanwaltschaft mit, dass die Strafverfahren gegen den Beschwerdeführer mit Verfügung
+vom 12. Januar 2023 formell von der Staatsanwaltschaft Lenzburg-Aarau
+übernommen wurden. Mit Replik vom 21. Februar 2023 beantragt der
+Beschwerdeführer die Abschreibung des Verfahrens wegen Gegenstandslosigkeit,
+woraufhin die Staatsanwaltschaft mit Duplik vom 13. März 2023 auf ihre eingangs
+gestellten Begehren schliesst. Mit Triplik vom 21. März 2023 liess sich der Beschwerdeführer
+nochmals unaufgefordert vernehmen.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten (einschliesslich der von der
+Staatsanwaltschaft eingereichten Verfahrensakten) ergangen. Die Einzelheiten
+der Parteistandpunkte ergeben sich, soweit sie für den Entscheid von Bedeutung
+sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+Art. 393 Abs. 1 lit. a der Strafprozessordnung (StPO,
+SR 312.0) unterliegen Verfügungen und Verfahrenshandlungen der Polizei und
+der Staatsanwaltschaft der Beschwerde an die Beschwerdeinstanz. Für die
+Beurteilung der Zuständigkeit der Beschwerdeinstanz ist zu prüfen, ob sich der zwischenzeitliche
+Wechsel der örtlichen Zuständigkeit auf die Behandlung der vorliegenden
+Beschwerde auswirkt. Weder dem Gesetz noch den Materialien kann eine
+diesbezügliche Regelung entnommen werden. In der Literatur und kantonalen Rechtsprechung
+wird die Meinung vertreten, dass die ursprüngliche Beschwerdeinstanz für die
+Beurteilung von hängigen Beschwerden trotz eines Wechsels der örtlichen
+Zuständigkeit zuständig und mithin auch die bisherige Staatsanwaltschaft Partei
+bleibt ( Kuhn , in:
+Niggli/Heer/Wiprächtiger (Hrsg.), Basler Kommentar, 2. Auflage, Basel 2014,
+Art. 42 StPO N 1; OGer BE BK 2012 361 vom 18. Januar 2013 E. 2). Ungeachtet des
+Wechsels der örtlichen Zuständigkeit vom Kanton Basel-Stadt in den Kanton Aargau
+während der Rechtshängigkeit des Hauptverfahrens, verbleibt die Zuständigkeit
+zur Beurteilung der vorliegenden Beschwerde somit beim Beschwerdegericht des Kantons
+Basel-Stadt und behält die Staatsanwaltschaft Basel-Stadt diesbezüglich ihre
+Parteistellung. Zuständiges Beschwerdegericht ist das Appellationsgericht als
+Einzelgericht (§ 88 Abs. 1 und § 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Die Kognition des
+Beschwerde­gerichts ist frei und daher nicht auf Willkür beschränkt
+(Art. 393 Abs. 2 StPO).
+
+1.2 Der
+Beschwerdeführer ist durch die verfügte Zwangsmassnahme unmittelbar berührt. Zur
+Beurteilung der Beschwerde nach Art. 393 StPO bedarf es jedoch eines aktuellen
+Rechtsschutzinteresses an der Aufhebung oder Änderung des angefochtenen
+Entscheids. Der Beschwerdeführer muss also im Zeitpunkt des
+Rechtsmittelentscheides noch beschwert sein ( Lieber ,
+in: Donatsch et al. [Hrsg.], Kommentar zur StPO, 2. Auflage 2014, Art. 382
+N 7 und 13; Schmid/Jositsch ,
+Handbuch des schweizerischen Strafprozessrechts, 3. Auflage,
+Zürich 2017, N 1458). Auf die Beschwerde ist nicht einzutreten, wenn das
+schutzwürdige Interesse schon bei der Beschwerdeeinreichung gefehlt hat.
+Demgegenüber ist das Verfahren als erledigt abzuschreiben, wenn das
+schutzwürdige Interesse im Laufe des Verfahrens dahinfällt (vgl. BGE 137 I 23
+E. 1.3.1 S. 24 f.; vgl. zuletzt BES.2020.135 vom 3. August 2020 E. 1.2.1; Ziegler/Keller , in: Basler
+Kommentar StPO, 2. Auflage 2014, Art. 382 N 2; Guidon ,
+Die Beschwerde gemäss Schweizerischer Strafprozessordnung, Diss.
+Zürich 2011, N 554; zu den Ausnahmen vom Erfordernis des aktuellen
+Rechtsschutzinteresses statt vieler AGE BES.2021.141 vom 10. November 2022 E.
+1.3).
+
+Der
+Beschwerdeführer macht in der Replik geltend, dass im Zeitpunkt der
+streitbetroffenen Verfügung der Staatsanwaltschaft Basel-Stadt zur Erstellung
+eines DNA-Profils bereits im Kanton Aargau ein DNA-Profil erstellt worden sei. Daher
+sei das Rechtschutzinteresse entfallen, die Verfügung aufzuheben und das
+Beschwerdeverfahren wegen Gegenstandslosigkeit abzuschreiben, wobei die Kosten
+der Beschwerdegegnerin aufzuerlegen seien.
+
+Das Vorhandensein
+eines alten DNA-Profils lässt das Rechtschutzinteresse im vorliegenden Beschwerdeverfahren
+entgegen der Auffassung des Beschwerdeführers nicht dahinfallen. Existiert
+bereits ein altes DNA-Profil der betroffenen Person, ist es nach bundesgerichtlicher
+Rechtsprechung und Lehre zulässig, die Neu- oder Nacherfassung in einem neuen
+Verfahren anzuordnen und die DNA unter einer neuen PCN-Nr. zu erfassen
+(BGer 1B_244/2017 vom 7. August 2017 E. 2.3; Graf/Hansjakob , in: Donatsch/Lieber/Summers/Wohlers
+(Hrsg.), Kommentar zur Schweizerischen Strafprozessordnung StPO, 3. Auflage,
+Zürich/Basel/Genf 2020, Art. 255 N 23a). Die jeweilige Löschfrist bemisst
+sich dabei in jedem Verfahren separat ( Graf/Hansjakob ,
+a.a.O., Art. 255 N 23a). Dementsprechend ist dem Betroffenen auch das
+Beschwerderecht gegen die jeweils neu verfügte Erstellung eines DNA-Profils
+zuzugestehen. Auch kam es zu keiner Vereinigung des im Kanton Aargau hängigen
+Strafverfahrens, in welchem ein DNA-Profil erstellt wurde und dem beschwerdegegenständlichen
+Strafverfahren, sodass das rechtlich geschützte Interesse an der Behandlung der
+vorliegenden Beschwerde nicht nachträglich entfällt (zum Ganzen AGE BES. 2017.204
+vom 1. Februar 2018 E. 1.2). Der Beschwerdeführer ist demgemäss weiterhin zur
+Beschwerde legitimiert (Art. 382 Abs. 1 StPO), sodass auf die form-
+und fristgemäss eingereichte Beschwerde (Art. 396 StPO)  welche vom
+Beschwerdeführer denn auch nicht zurückgezogen wurde  einzutreten ist und die
+materiellen Vorbringen zu prüfen sind.
+
+2.
+
+2.1
+
+2.1.1 Gegenstand
+der vorliegenden Beschwerde bildet die Verfügung vom 2. Oktober 2022 betreffend
+Anordnung einer DNA-Analyse. Im Folgenden ist zu prüfen, ob die Erstellung des
+DNA-Profils zu Recht angeordnet wurde.
+
+2.1.2 Die
+Staatsanwaltschaft macht diesbezüglich geltend, dass betreffend die Anlasstat vom
+2. Oktober 2022 (Diebstahl aus Fahrzeug), die u.a. Gegenstand des von ihr
+geführten Strafverfahrens bildet, gegenüber dem Beschwerdeführer ein
+hinreichender, konkreter Tatverdacht vorliege. Zur Überprüfung dieses
+Tatverdachts und allfälliger Tatzusammenhänge hätten die am Tatort gesicherten DNA-Spuren
+mit der DNA des Beschwerdeführers abgeglichen werden müssen. Weiter sei der
+Beschwerdeführer bereits vorgängig in diverse Delikte verwickelt gewesen
+(mehrfacher Diebstahl, Sachbeschädigung, betrügerischer Missbrauch einer
+Datenverarbeitungsanlage, Widerhandlung gegen das Ausländergesetz und
+Widerhandlungen gegen das Betäubungsmittelgesetz), sodass aufgrund einer
+Gesamtwürdigung der Umstände damit zu rechnen sei, dass er erneut Vergehen oder
+Verbrechen begehen wird, die allenfalls über eine Zuordnung seines DNA-Profils
+aufgeklärt werden können. Dies sei in der angefochtenen Verfügung auch korrekt und
+kurz begründet worden. Dass diese Annahme richtig gewesen sei, würden weitere «DNA-Hits»
+zeigen, welche schliesslich zu weiteren hängigen Strafverfahren geführt hätten.
+
+2.1.3 Nach
+Ansicht des Beschwerdeführers seien die Voraussetzungen für die Erstellung
+eines DNA-Profils zur Abklärung der Anlasstat nicht gegeben gewesen. Auch seien
+zukünftige Taten nicht zu erwarten gewesen, weil die Anlasstat keine Taten von
+einer gewissen Schwere erwarten liesse.
+
+2.2
+
+2.2.1 Zur
+Aufklärung eines Verbrechens oder eines Vergehens kann unter anderem von der
+beschuldigten Person eine Probe genommen und ein DNA-Profil erstellt werden
+(Art. 255 Abs. 1 lit. a StPO). Ein solches Vorgehen ist nicht
+nur möglich zur Aufklärung bereits begangener und den Strafverfolgungsbehörden
+bekannter Delikte, deren die beschuldigte Person verdächtigt wird. Wie aus Art. 259
+StPO in Verbindung mit Art. 1 Abs. 2 lit. a des Bundesgesetzes über
+die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von
+unbekannten oder vermissten Personen (DNA-Profil-Gesetz, SR 363) klar
+hervorgeht, soll es die Erstellung eines DNA-Profils vielmehr auch erlauben,
+Täter von Delikten zu identifizieren, die den Strafverfolgungsbehörden noch
+unbekannt sind. Dabei kann es sich um vergangene oder künftige Delikte handeln.
+Das DNA-Profil kann so Irrtümer bei der Identifikation einer Person und die
+Verdächtigung Unschuldiger verhindern. Es kann auch präventiv wirken und damit
+zum Schutz Dritter beitragen. Auch hinsichtlich derartiger Straftaten bildet
+Art. 255 Abs. 1 lit. a StPO eine gesetzliche Grundlage für die
+DNA-Probenahme und -Profilerstellung (BGE 147 I 372 E. 2.1, 145 IV 263
+E. 3.3; BGer 1B_387/2021 vom 19. Mai 2022 E. 3.1).
+
+2.2.2 Erkennungsdienstliche
+Massnahmen und die Aufbewahrung der daraus gewonnenen Daten können das Recht
+auf persönliche Freiheit bzw. körperliche Integrität (Art. 10 Abs. 2
+der Bundesverfassung [BV, SR 101]) und auf informationelle Selbstbestimmung
+berühren (Art. 13 Abs. 2 BV und Art. 8 der Europäischen Menschenrechtskonvention
+[EMRK, SR 0.101]; BGE 147 I 372 E. 2.2, 145 IV 263 E. 3.4, 136 I
+87 E. 5.1, 128 II 259 E. 3.2; je mit Hinweisen). Der Eingriff in die
+körperliche Integrität durch die Entnahme eines Wangenschleimhautabstrichs bzw.
+durch die Abnahme von Fingerabdrücken, bei welchen weder die Haut verletzt noch
+Schmerzen zu erwarten sind, kann gemäss ständiger Rechtsprechung nicht als
+schwer eingestuft werden (BGE 147 I 372 E. 2.3, 145 IV 263 E. 3.4,
+144 IV 127 E. 2.1). Während das Bundesgericht den Eingriff in die
+informationelle Selbstbestimmung in seiner früheren Rechtsprechung ebenfalls
+als leicht eingestuft hatte (vgl. 145 IV 263 E. 3.4, 144 IV 127
+E. 2.1, je mit Hinweisen), liess es neuerdings offen, ob an dieser Praxis
+festgehalten werden kann (BGE 147 I 372 E. 2.3.1 ff.).
+
+2.2.3 Einschränkungen
+von Grundrechten bedürfen auf jeden Fall einer gesetzlichen Grundlage und
+müssen durch ein öffentliches Interesse gerechtfertigt sowie verhältnismässig
+sein (Art. 36 Abs. 13 BV). Diese verfassungsmässigen Vorgaben werden in
+Art. 197 Abs. 1 StPO präzisiert. Danach dürfen Zwangsmassnahmen nur
+ergriffen werden, wenn sie gesetzlich vorgesehen sind (lit. a), ein
+hinreichender Tatverdacht vorliegt (lit. b), die damit angestrebten Ziele
+nicht durch mildere Massnahmen erreicht werden können (lit. c) und die
+Bedeutung der Straftat die Zwangsmassnahme rechtfertigt (lit. d). Gemäss
+der bundesgerichtlichen Rechtsprechung ist eine DNA-Probenahme und
+-Profilerstellung, die nicht der Aufklärung der Anlasstat dient, nur dann verhältnismässig,
+wenn erhebliche und konkrete Anhaltspunkte dafür bestehen, dass die
+beschuldigte Person in andere  auch künftige  Delikte verwickelt sein könnte.
+Dabei muss es sich um Delikte von einer gewissen Schwere handeln. Es ist
+insbesondere zu berücksichtigen, ob die beschuldigte Person vorbestraft ist.
+Trifft dies nicht zu, schliesst das die Erstellung eines DNA-Profils nicht aus.
+Der Umstand fliesst vielmehr als eines von vielen Kriterien in die
+Gesamtabwägung ein und ist entsprechend zu gewichten (BGE 147 I 372 E. 4.2
+und 4.3.2, 145 IV 263 E. 3.4, 141 IV 87 E. 1.3 und 1.4; BGer
+1B_387/2021 vom 19. Mai 2022 E. 3.1). Umgekehrt bedeutet selbst das
+Vorliegen einer einschlägigen Vorstrafe nicht automatisch, dass die Erstellung
+eines DNA-Profils verhältnismässig ist. Die Vorstrafe ist vielmehr als eines
+von vielen Kriterien im Rahmen der umfassenden Verhältnismässigkeitsprüfung
+miteinzubeziehen (BGE 147 I 372 E. 4.3.2; AGE BES.2022.31 vom
+30. Juni 2022 E. 2.2).
+
+2.3
+
+2.3.1 Damit
+ist zunächst zu klären, ob hinsichtlich der Anlasstat ein hinreichender
+Tatverdacht im Sinne von Art. 197 Abs. 1 lit. b StPO vorliegt. Für die Annahme
+eines hinreichenden Tatverdachts genügt es, wenn aufgrund der bisherigen
+Untersuchungsergebnisse konkrete Hinweise für eine Straftat und eine
+Beteiligung der beschuldigten Person bestehen, wobei am Anfang der
+Strafuntersuchung weniger hohe Anforderungen zu stellen sind (BGer 1B_258/2017
+vom 2. März 2018 E. 2.2; Weber ,
+in: Niggli/Heer/Wiprächtiger (Hrsg.), Basler Kommentar, 2. Auflage, Basel 2014,
+Art. 197 StPO N 7 ff.). Je schwerer das zu untersuchende Delikt und je
+geringfügiger die Eingriffsintensität einer Zwangsmassnahme, desto weniger
+ausgeprägt müssen die Verdachtsgründe sein ( Zimmerlin ,
+in: Donatsch et al. [Hrsg.], Schulthess Kommentar, 3. Auflage, Zürich
+2020, Art. 197 StPO N 12). Die Beschwerdeinstanz hat dem Sachgericht nicht
+mit einem eigenen Beweisverfahren, einer erschöpfenden Abwägung sämtlicher
+belastender und entlastender Umstände oder einer umfassenden Bewertung der
+Glaubwürdigkeit vorzugreifen. Vielmehr ist zu prüfen, ob aufgrund der
+bisherigen Untersuchungsergebnisse ausreichend konkrete Anhaltspunkte für eine Straftat
+vorliegen (BGer 1B_277/2013 vom 15. April 2014 E. 4.2; AGE BES.2022.110 vom 14.
+November 2022 E. 4.3.1, BES.2021.83 vom 24. Dezember 2021 E. 4.1.2,
+BES.2018.124 vom 28. November 2018 E. 3.1).
+
+2.3.2 Die
+Staatsanwaltschaft führt als Anlasstat für die erfolgte Abnahme des
+Wangenschleimhautabstriches sowie die streitgegenständliche Erstellung des
+DNA-Profils einen Vorfall vom 1. Oktober 2022 an. Aus dem zugehörigen Verfahrensdossier
+(Nr. [...]) ergibt sich, dass der Beschwerdeführer am 1. Oktober 2022 anlässlich
+einer Patrouillentätigkeit angehalten und schliesslich einer Kleider- und Effektenkontrolle
+unterzogen wurde (Polizeirapport vom 1. Oktober 2022, act. 7, S. 3 ff.). Dabei
+wurden beim Beschwerdeführer u.a. eine Umhängetasche, diverse Bankkarten sowie eine
+Ausfuhr- und Abnehmerbescheinigung, welche auf einen anderen Namen lauteten,
+gefunden und sichergestellt. Diese Gegenstände konnten einer Geschädigten
+zugeordnet werden, deren Handtasche samt dem Inhalt kurz zuvor aus ihrem
+Fahrzeug entwendet wurde und mit deren Bankkarten missbräuchliche Abbuchungen durch
+diverse kontaktlose Einkäufe getätigt wurden. Im Inneren des Fahrzeugs konnte
+die Forensik mehrere Spuren sichern, wobei es sich auch um eine DNA-Spur handelte
+(Spurensicherungsbericht vom 3. Oktober 2022, act. 7, S. 15 f.). Der
+Beschwerdeführer wurde vorläufig festgenommen und anlässlich der Einvernahme
+vom 2. Oktober 2022 (Einvernahmeprotokoll vom 2. Oktober 2022, act. 7, S.
+24 ff.) u.a. mit dem Vorwurf des Diebstahls von Gegenständen aus einem Fahrzeug
+konfrontiert. Der Beschwerdeführer hat hinsichtlich dieses Tatvorwurfs ein
+Geständnis abgelegt. Gegen Ende der Einvernahme wurde dem Beschwerdeführer die streitgegenständliche
+«Verfügung DNA-Analyse (Art. 255 StPO)» vom 2. Oktober 2022 unterschriftlich
+ausgehändigt, mit welcher die Erstellung eins DNA-Profils verfügt wurde, um die
+DNA des Beschwerdeführers mit der gesicherten DNA-Tatortspur abzugleichen.
+
+2.3.3 Angesichts
+der den Akten entnommenen Angaben zur vorgeworfenen Tat liegen aufgrund der bisherigen
+Untersuchungsergebnisse (Auffinden des Deliktsgut beim Beschwerdeführer,
+Geständnis) ausreichende konkrete Anhaltspunkte für das Vorliegen einer
+Straftat vor, sodass der hinreichende Tatverdacht im Sinne von Art. 197
+Abs. 1 lit. b StPO zu bejahen ist (vgl. hiervor E. 3.2.2).
+
+2.4
+
+2.4.1 Im
+Weiteren stellt sich die Frage nach der Verhältnismässigkeit der Erstellung des
+DNA-Profils. Zur Absicherung des Geständnisses muss die im Rahmen der
+Spurensicherung gefundene DNA-Spur mit der DNA des Beschwerdeführers
+abgeglichen werden. Es ist nicht ersichtlich, wie dieses  mit der Erstellung
+des DNA-Profils angestrebte  Ziel durch mildere Massnahmen erreicht werden
+könnte. Mit anderen Worten ist die angeordnete Zwangsmassnahme geeignet, zur
+Aufklärung der Anlasstat beizutragen. Diese erweist sich überdies auch als erforderlich.
+Vorliegend war zwar der Staatsanwaltschaft Basel-Stadt entgegen ihrer
+Ausführungen bekannt, dass im Kanton Aargau ähnliche Delikte schon hängig
+gewesen sein müssten, ansonsten sie die Gerichtstandsanfrage vom 26. August
+2022 (act. 6, S. 1) nicht getätigt hätte. Allerdings konnte die
+Staatsanwaltschaft Basel-Stadt nicht wissen, ob die Strafverfolgungsbehörden
+des Kantons Aargau bereits ein DNA-Profil erstellt haben oder nicht. Eine
+entsprechende Pflicht zur Abklärung besteht jedenfalls nicht. Die erneute
+Probeentnahme und Erstellung eines DNA-Profils durch die Staatsanwaltschaft
+hätte zwar nicht zwingend erfolgen müssen, allerdings ist eine solche gemäss
+Lehre und bundesgerichtlicher Rechtsprechung auch nicht ausgeschlossen. Der
+Rechtsprechung des Bundesgerichts (BGer 1B_244/2017 vom 7. August 2017
+E. 2.3) ist jedenfalls nichts Gegenteiliges zu entnehmen. Es wird
+lediglich erwogen, dass es nicht zwingend notwendig sei, bei einem Bestand
+eines alten DNA-Profils eine neue Probeentnahme und ein neues Profil zu
+erstellen, sondern man kann mittels Erfassen einer neuen PCN-Nummer wieder das
+alte Profil benutzen. In die gleiche Richtung zielt die Lehre, wonach es
+zulässig ist, die DNA der wiederum straffälligen beschuldigten Person in einem
+neuen Verfahren unter einer neuen PCN-Nr. im CODIS zu erfassen, selbst wenn
+bereits ein altes DNA-Profil existiert. Dies rechtfertigt sich nicht zuletzt
+wegen der unterschiedlichen Löschfristen. Eine erneute Probeabnahme muss dazu
+nicht zwingend erfolgen, wenn die Qualität der bereits erfassten Daten nicht zu
+beanstanden ist und die Daten dem aktuellen Stand der Technik und Wissenschaft
+entsprechen. Bei einer entsprechenden Anordnung durch die Staatsanwaltschaft
+oder das Gericht können die vorhandenen Daten im Rahmen einer administrativen
+Nacherfassung unter einer neuen PCN-Nr. gebucht werden (hierzu Graf/Hansjakob , a.a.O., Art. 255 N
+23a). Damit ist die erneute Probenentnahme und Erstellung eines DNA-Profils
+durch die Staatsanwaltschaft nicht zu beanstanden.
+
+2.4.2 Die
+Schwere der vorliegend der Beschwerdeführerin vorgeworfenen Delikte
+rechtfertigen sodann den Eingriff in die Grundrechte des Beschwerdeführers. Die
+Anlasstat betreffend Vorwurf des Diebstahls nach Art. 139 des Strafgesetzbuches
+(StGB, SR 311.0) ist gemäss Art. 10 Abs. 3 StGB ein Vergehen und entgegen der
+Ansicht der Verteidigung kein geringfügiges Vermögensdelikt, womit die
+Zwangsmassnahme auch zumutbar erscheint.
+
+2.4.3 Die
+Verhältnismässigkeit der angefochtenen Zwangsmassnahme kann nach dem Gesagten
+bejaht werden.
+
+2.5 Vor
+diesem Hintergrund kann offenbleiben, ob erhebliche und konkrete Anhaltspunkte
+für weitere, allenfalls künftige, Delikte von gewisser Schwere bestehen. Die
+Verhältnismässigkeit der Zwangsmassnahmen ergibt sich bereits aus der
+Aufklärung der Anlasstat. Lediglich ergänzend ist daher anzumerken, dass aufgrund
+der persönlichen Umstände und der schon vorhandenen Akten in diesem Zeitpunkt
+mit Weiteren noch ungeklärten gleichartigen Taten rechnen durfte, womit die
+Voraussetzungen betreffend die Begehung künftiger Straftaten ebenfalls erfüllt
+sind.
+
+3.
+
+3.1 Zusammenfassend
+ist festzuhalten, dass die Voraussetzungen zur Anordnung der Erstellung eines
+DNA-Profils erfüllt sind und damit zu Recht erfolgte. Die Beschwerde ist damit
+abzuweisen. Bei diesem Ausgang des Verfahrens hat gemäss Art. 428
+Abs. 1 StPO der unterliegende Beschwerdeführer dessen Kosten zu tragen,
+welche auf CHF 600. festzusetzen sind (vgl. § 21 Abs. 2 des
+Gerichtsgebührenreglements [SG 154.810]).
+
+3.2 Das
+Gesuch des Beschwerdeführers um amtliche Verteidigung durch [...] für das
+Beschwerdeverfahren wird bewilligt. Dem Verteidiger ist für seine Bemühungen 
+entsprechend dem in der Triplik vom 20. März 2023 geltend gemachten Aufwand von
+sechs Stunden  ein Honorar zu einem Ansatz von CHF 200.− in der
+gesamthaften Höhe von CHF 1200. einschliesslich Auslagen und zzgl. 7,7%
+MWST von CHF 92.40, aus der Gerichtskasse zuzusprechen. Die Beschwerdeführerin
+ist nach Massgabe von Art. 135 Abs. 4 StPO rückzahlungspflichtig, sobald
+es ihre wirtschaftlichen Verhältnisse erlauben.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen Kosten für
+das Beschwerdeverfahren mit einer Gebühr von CHF 600.−, einschliesslich
+Auslagen.
+
+Das Gesuch um Gewährung der amtlichen Verteidigung
+wird bewilligt. Dem amtlichen Verteidiger, [...], wird für das
+Beschwerdeverfahren aus der Gerichtskasse ein Honorar von CHF 1200., einschliesslich
+Auslagen, zuzüglich 7,7% Mehrwertsteuer von CHF 92.40, ausgerichtet.
+Art. 135 Abs. 4 der Strafprozessordnung bleibt vorbehalten.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur. Marc
+Oser                                                      MLaw Anna Gombert
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Die amtliche
+Verteidigung kann gegen einen allfälligen Entscheid betreffend ihre
+Entschädigung für das zweitinstanzliche Verfahren gemäss Art. 135 Abs. 3 lit. b
+der Strafprozessordnung (StPO) innert 10 Tagen seit schriftlicher Eröffnung
+Beschwerde beim Bundesstrafgericht (Viale Stefano Franscini 7, Postfach 2720,
+6501 Bellinzona) erheben (vgl. dazu Urteil des Bundesgerichts 6B_360/2014 vom
+30. Oktober 2014).
