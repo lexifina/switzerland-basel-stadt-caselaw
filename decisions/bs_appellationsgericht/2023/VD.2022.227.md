@@ -1,0 +1,683 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.426"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2022.227"
+docket_2: "AG.2023.426"
+decided: "2023-06-30"
+published: "2024-10-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75474&W10_KEY=3048518&nTrefferzeile=135&Template=search_result_document.html"
+cites_decisions: ["8C_1074/2009", "8C_46/2017", "8C_612/2013", "BGE 122 I 343", "BGE 133 I 77", "BGE 136 I 1", "BGE 136 I 65", "BGE 136 II 120", "BGE 142 V 488", "BGE 143 II 685", "VB.2022.00068", "VB.2022.00134", "VB.2022.00216", "VB.2022.00285", "VD.2013.19", "VD.2017.106", "VD.2018.29", "VD.2018.43", "VD.2019.110", "VD.2019.78", "VD.2021.106", "VD.2021.25", "VD.2022.227"]
+cites_law: ["switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# Härtefallgesuche im Zusammenhang mit der Covid-19-Pandemie
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2022.227
+
+URTEIL
+
+vom 30.
+Juni 2023
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur.
+André Equey,
+
+Prof. Dr. Daniela Thurnherr Keller
+
+und Gerichtsschreiberin Dr. Michèle
+Guth
+
+Beteiligte
+
+A____ AG Rekurrentin
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Departement für Wirtschaft,
+Soziales und Umwelt
+
+Rheinsprung 16/18
+
+4001 Basel
+
+Gegenstand
+
+Rekurs gegen eine
+Verfügung des Departements für Wirtschaft,
+
+Soziales und Umwelt vom 20. Juli
+2022
+
+betreffend Härtefallgesuche im
+Zusammenhang mit der
+
+Covid-19-Pandemie
+
+Sachverhalt
+
+Die A____ AG wurde am 28. Dezember 2018 zur Betreibung von
+Hotel- und Wirtschaftsgewerbe gegründet. Sie eröffnete ihren Hotelleriebetrieb
+an der [...] in Basel am 7. März 2020. Am 4. März 2021 reichte sie beim Departement
+für Wirtschaft, Soziales und Umwelt (WSU) ein Gesuch um Härtefallbeiträge für
+Unternehmen im Zusammenhang mit der Covid-19-Pandemie ein. Das zuständige
+Fachgremium hiess das Gesuch in Bezug auf die behördlich angeordnete
+Schliessung des Restaurationsbetriebs der A____ AG gut. Insgesamt wurde eine
+Entschädigung in der Höhe von CHF 42513.29 (Zahlungen vom 10. Mai, 11. Juni
+und 11. November 2021) ausgerichtet. In Bezug auf den Hotelleriebetrieb wurde
+das Gesuch abgewiesen.
+
+Am 28. Januar 2022 stellte die A____ AG ein Gesuch um Härtefallbeiträge
+für Dezember 2021, welches das WSU am 10. Juni 2022 abwies.
+
+Die A____ AG, wandte sich mit Schreiben vom 14. Juni 2022 an
+das WSU und beantragte, die beiden Gesuche erneut zu prüfen und ihr
+Unterstützungsbeiträge für die erlittenen Umsatzrückgänge zu gewähren. Für den
+Fall, dass keine angemessene Härtefallentschädigung ausgerichtet werde,
+ersuchte sie um Erlass einer anfechtbaren Verfügung.
+
+Mit Verfügung vom 20. Juli 2022 wies das WSU das Gesuch der A____
+AG um Ausrichtung eines über den Betrag von CHF 42513.29 hinausgehenden
+Härtefallbeitrags für die bis Juni 2021 erlittenen Umsatzausfälle ab und wies
+auch das Gesuch vom 28. Januar 2022 ab.
+
+Dagegen meldete die A____ AG am 27. Juli 2022 Rekurs beim
+Regierungsrat an, den sie am 20. September 2022 begründete. Sie beantragt die
+kosten- und entschädigungsfällige Aufhebung der Verfügung des WSU vom 20. Juli
+2022 und in Gutheissung des Härtefallgesuchs vom 4. März 2021 die Bezahlung
+einer Härtefallentschädigung von CHF 478250.45. Eventualiter sei die
+Angelegenheit an das WSU zur Neubeurteilung zurückzuweisen. Der
+Regierungsratspräsident überwies den Rekurs mit Schreiben vom 13. Oktober 2022
+dem Verwaltungsgericht zum Entscheid. Dieses holte die Akten sowie eine
+Vernehmlassung der Vorinstanz ein. Das WSU beantragte am 27. Dezember 2022 die
+Abweisung des Rekurses unter Kostenfolge. Die A____ AG erhielt die Gelegenheit,
+eine schriftliche Replik einzureichen oder die Durchführung einer öffentlichen Parteiverhandlung
+zu beantragen. Mit Replik vom 26. Januar 2023 hielt sie an ihren gestellten
+Rechtsbegehren fest. Die Einzelheiten der Parteistandpunkte sowie die weiteren
+Tatsachen ergeben sich, soweit sie für das vorliegende Urteil von Bedeutung
+sind, aus den nachfolgenden Erwägungen. Das Urteil erging auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Die Zuständigkeit des Verwaltungsgerichts für
+die Beurteilung des vorliegenden Rekurses ergibt sich aus dem
+Überweisungsbeschluss des Regierungsrats vom 13. Oktober 2022 sowie § 42
+des Organisationsgesetzes (OG, SG 153.100) in Verbindung mit § 10 Abs. 1 und §
+12 des Verwaltungsrechtspflegegesetzes (VRPG, SG 270.100). Zuständig ist
+das Dreiergericht (§ 88 Abs. 2 in Verbindung mit § 92 Abs. 1 Ziff. 11 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Als Adressatin des angefochtenen Entscheids
+ist die Rekurrentin davon unmittelbar berührt und hat ein schutzwürdiges
+Interesse an dessen Aufhebung oder Abänderung, weshalb sie gemäss § 13 VRPG zum
+Rekurs legitimiert ist. Auf den frist- und formgerechten Rekurs ist somit
+einzutreten.
+
+1.3 Die Kognition des Verwaltungsgerichts richtet
+sich nach den allgemeinen Vorschriften von § 8 VRPG und umfasst die Prüfung, ob
+die Verwaltung das massgebliche öffentliche Recht nicht oder nicht richtig
+angewendet, den Sachverhalt unrichtig festgestellt, wesentliche Form- oder
+Verfahrensvorschriften verletzt oder ihr Ermessen überschritten oder
+missbraucht hat. Über die Angemessenheit der Verfügung ist dagegen nicht zu
+entscheiden.
+
+2.
+
+Der Rekurs ist nur im Rahmen des Streitgegenstands zulässig.
+Streitgegenstand bildet das im angefochtenen Verwaltungsakt geregelte oder zu
+regelnde Rechtsverhältnis, soweit es angefochten wird (statt vieler: VGE
+VD.2019.78 vom 27. Mai 2020 E. 2.5.; Schwank, Das verwaltungsinterne
+Rekursverfahren des Kantons Basel-Stadt, in: Buser [Hrsg.], Neues Handbuch des
+Staats- und Verwaltungsrechts des Kantons Basel-Stadt, Basel 2008, S. 435,
+444). Er darf sich im Lauf des Rechtsmittelzugs nicht erweitern (VGE VD.2018.43
+vom 1. März 2019 E. 1.4, VD.2018.29 vom 16. August 2018 E. 1.2.2).
+
+Gegenstand des vorliegenden Verfahrens ist grundsätzlich die Verfügung
+des WSU vom 20. Juli 2022, soweit die Gesuche der Rekurrentin vom 4. März
+2021 und 28. Januar 2022 um Ausrichtung eines Härtefallbeitrags für
+Unternehmen im Zusammenhang mit der Covid-19-Pandemie abgewiesen wurden. Die
+Rekurrentin begehrt mit ihrem Rekurs die Gutheissung ihres Härtefallgesuchs vom
+4. März 2021 und die Bezahlung einer Härtefallentschädigung von CHF 478250.45.
+Nicht angefochten und auch in der Rekursbegründung nicht erwähnt ist die
+Abweisung des Gesuchs der Rekurrentin vom 28. Januar 2022. Dieses bildet damit
+nicht Gegenstand des vorliegenden Verfahrens.
+
+3.
+
+3.1 Gemäss Art. 12 Abs. 2 des Bundesgesetzes über
+die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung
+der Covid-19-Epidemie (Covid-19-Gesetz, SR 812.102) kann der Bund auf Antrag
+eines oder mehrerer Kantone Unternehmen, die aufgrund der Natur ihrer
+wirtschaftlichen Tätigkeit von den Folgen von Covid-19 besonders betroffen
+sind, finanziell unterstützen, sofern sich die Kantone zur Hälfte an der
+Finanzierung beteiligen. Dabei liegt ein Härtefall gemäss Art. 12 Abs. 1
+Covid-19-Gesetz dann vor, «wenn der Jahresumsatz unter 60 Prozent des
+mehrjährigen Durchschnitts liegt», wobei die gesamte Vermögens- und
+Kapitalsituation zu berücksichtigen ist. Weiter setzt die Unterstützung voraus,
+«dass die Unternehmen vor Ausbruch von Covid-19 profitabel oder überlebensfähig
+waren und sie nicht bereits andere Finanzhilfen des Bundes erhalten haben»
+(Art. 12 Abs. 2 Covid-19-Gesetz).
+
+Am 1. Dezember 2020 trat vor diesem Hintergrund die Verordnung vom 25. November 2020 über
+Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
+(Covid-19-Härtefallverordnung 2020, HFMV 20, SR 951.262) in Kraft. Diese
+regelte im zweiten Abschnitt, welche Anforderungen die Unternehmen erfüllen
+müssen, damit sich der Bund an den Kosten der Härtefallmassnahmen der Kantone
+beteiligt. Nach diesem Konzept regelt der Bund somit die Kriterien bezüglich
+Anspruchsberechtigung sowie Art und Umfang der Massnahmen, welche als Mindest-voraussetzungen
+in der kantonalen Härtefallregelung erfüllt sein müssen, damit sich der Bund
+daran beteiligt. Im Übrigen entscheiden die Kantone aber frei über die
+Ergreifung und die Ausgestaltung dieser Härtefallmassnahmen (vgl. Erläuterungen
+Covid-19-Härtefallverordnung 25. November 2020, S. 2 [https://www.newsd.admin.ch/newsd/message/attachments/64090.pdf]). Dabei konnten sie die
+Voraussetzungen für die Gewährung von Beiträgen auch enger als der Bund
+formulieren (Erläuterungen zur Verordnung über Härtefallmassnahmen für
+Unternehmen in Zusammenhang mit der Covid-19-Epidemie, Bern, 31. März 2021
+[Erläuterungen HFMV 20], S. 2 [https://www.newsd.admin.ch/newsd/message/attachments/65926.pdf]) . ; Bundesrat, Botschaft zu Änderungen des
+Covid-19-Gesetzes und des Covid-19-Solidarbürgschaftsgesetzes vom
+18. November 2020, BBl 2020 8819 ff., 8822 und 8824) oder ausweiten,
+wobei in diesem erweiterten Rahmen keine Beteiligung des Bundes mehr erfolgte.
+
+Der basel-städtische Verordnungsgeber hat zu diesem Zweck die
+Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der
+Covid-19-Pandemie (Covid-19-Verordnung Härtefallprogramm, SG 819.879) erlassen.
+Damit sollen vom Kanton Unterstützungsbeiträge an Unternehmen, welche aufgrund
+der Auswirkungen der Covid-19-Pandemie und der von Bund oder Kanton dagegen
+ergriffenen Massnahmen starke wirtschaftliche Einbussen erleiden, geleistet
+werden und dadurch ein Abbau von Arbeits- und Ausbildungsplätzen eingedämmt
+werden (§ 1 Abs. 1 Covid-19-Verordnung Härtefallprogramm). Für die
+Beitragsberechtigung verweist der kantonale Verordnungsgeber auf die
+Voraussetzungen gemäss der HFMV 20, wobei ein Anspruch bereits dann
+besteht, wenn der Jahresumsatz 2020 unter 80% des durchschnittlichen
+Jahresumsatzes der Jahre 2018 und 2019 liegt.
+
+3.2 Für die Ermittlung des Durchschnittsumsatzes
+von Unternehmen, die  wie die Rekurrentin  nach dem 31. Dezember 2017
+gegründet wurden, ist auf die Bestimmungen des Bundes abzustellen, da die
+kantonale Verordnung dazu keine eigenen Regelungen aufstellt. Laut Art. 3 Abs.
+1 lit. a HFMV 20 sollten gemäss der ursprünglichen Fassung vom
+25. November 2020 nur Unternehmen unterstützt werden, die vor dem Ausbruch
+von Covid-19 anfangs März 2020 bereits existiert haben und in diesem Sinne
+bereits vor dem 1. März 2020 in das Handelsregister eingetragen worden sind
+(vgl. Erläuterungen Covid-19-Härtefallverordnung 25. November 2020, S. 4).
+Später wurde die Anspruchsberechtigung auch auf später, bis zum 1. Oktober 2020
+gegründete Unternehmen ausgedehnt (Art. 3 Abs. 1 lit. a HFMV 20 in der Fassung
+vom 31. März 2021). Voraussetzung für Ansprüche ist gemäss Art. 5 Abs. 1
+HFMV 20 der Beleg, dass der «Jahresumsatz 2020 im Zusammenhang mit behördlich
+angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent
+des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt». Für
+Unternehmen, die nach dem 31. Januar 2017 gegründet worden sind, galt zunächst
+als massgeblicher durchschnittlicher Umsatz der auf 12 Monate berechnete
+Umsatz, der zwischen dem 1. Januar 2018 und dem 29. Februar 2020 erzielt worden
+ist, auf dessen Basis der Umsatzrückgang zu berechnen war (Art. 5 Abs. 2 i.V.m.
+Art. 3 Abs. 2 HFMV 20). Gemäss der Fassung vom 31. März 2021 wurde für Unternehmen,
+die zwischen dem 31. Dezember 2017 und dem 29. Februar 2020 gegründet
+worden sind, zur Bestimmung des durchschnittlichen Jahresumsatzes der auf 12
+Monate berechnete durchschnittliche Umsatz, der von der Gründung bis zum 29.
+Februar 2020 oder der von der Gründung bis zum 31. Dezember 2020 erzielt
+wurde, vorgesehen. Diese Regelung soll sicherstellen, «dass Unternehmen, die
+bereits 2018 oder 2019 gegründet wurden, aber erst ab 2020 höhere Umsätze
+erwirtschaftet haben, nicht schlechter gestellt werden als Unternehmen, die
+nach dem 29. Februar 2020 gegründet worden sind und im Sommer 2020 Umsätze erwirtschaftet
+haben (Er läuterungen HFMV 20,
+S. 6 ). Für Unternehmen,
+die zwischen dem 1. März 2020 und dem 30. September 2020 gegründet
+worden sind, gilt als Referenzumsatz der durchschnittliche Umsatz, der von der
+Gründung bis zum 31. Dezember 2020 erzielt wurde, berechnet auf
+12 Monate (Art. 3 Abs. 2 lit. b HFMV 20). Gleichzeitig
+wurde neu vorgesehen, dass die Unternehmen bei Umsatzrückgängen in den Monaten
+Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten
+Massnahmen zur Bekämpfung der Covid-19-Epidemie für die Berechnung des
+Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren
+Periode von 12 Monaten verwenden können.
+
+3.3 Mit der angefochtenen Verfügung vom 20. Juli
+2022 erwog das WSU, § 5 Abs. 2 Covid-19-Verordnung Härtefallprogramm setze
+voraus, dass der Jahresumsatz 2020 unter 80 % des durchschnittlichen
+Jahresumsatzes der Jahre 2018 und 2019 liegen müsse, wobei für die Ermittlung
+des Durchschnittsumsatzes von Unternehmen, die nach dem 31. Dezember 2017
+gegründet worden seien, auf die Bestimmungen des Bundes abzustellen sei. Es verwies
+dabei auf Art. 3 Abs. 2 lit. a HFMV 20, wonach in diesem Fall als
+durchschnittlicher Jahresumsatz der auf 12 Monate berechnete Umsatz gelte, der
+von der Gründung bis zum 29. Februar 2020 oder zum 31. Dezember 2020 erzielt worden
+sei. Bezogen auf den vorliegenden Sachverhalt führte die Vor­instanz aus, dass
+die Rekurrentin am 28. Dezember 2018 ins Handelsregister eingetragen worden
+sei. Werde der ab diesem Zeitpunkt bis zum 31. Dezember 2020 erzielte Umsatz in
+Höhe von CHF 925262 auf 12 Monate umgerechnet, ergebe dies einen
+Referenzumsatz von CHF 460110.35. Der im Jahr 2020 tatsächlich erzielte Umsatz
+sei deutlich höher. Auch wenn auf eine versetzte Periode, etwa von März 2020
+bis Februar 2021 abgestellt würde, resultierte ebenfalls ein Umsatz, der
+deutlich höher als CHF 460110.35 wäre. Es liege somit kein Umsatzrückgang im
+Sinne von Art. 5 Abs. 1 HFMV 20 vor. Entgegen der Auffassung der Rekurrentin
+könne nicht unter Berufung auf den Zweckartikel in § 1 der Covid-19-Verordnung
+Härtefallprogramm eine Anspruchsberechnung in jedem Einzelfall aufgrund der
+Besonderheiten der jeweiligen Unternehmung abgeleitet werden, würden doch sonst
+die detailliert ausgeführten Anspruchsvoraussetzungen in der
+Covid-19-Verordnung Härtefallprogramm ins Leere laufen und aufgrund der grossen
+Anzahl Härtefallgesuche zwangsläufig zu einer rechtsungleichen Behandlung der
+verschiedenen Gesuchstellenden führen. In Art. 3 Abs. 2 HFMV 20 werde ausdrücklich
+auf die Gründung und mithin gemäss Art. 3 Abs. 1 lit. a HFMV 2020 auf das
+Datum der Eintragung im Handelsregister abgestellt. Wenn für die Ermittlung des
+Referenzumsatzes statt auf den Gründungszeitpunkt auch auf die
+Betriebseröffnung abgestellt werden könnte, so müsste dies im Verordnungstext
+ausdrücklich festgehalten worden sein. Es könne auch nicht, wie von der
+Rekurrentin vorgeschlagen, auf Umsatzzahlen eines vergleichbaren Betriebs
+abgestellt werden, finde sich doch hierfür weder ausdrücklich noch sinngemäss
+eine Grundlage im Verordnungstext. Eine rein hypothetische Ermittlung der
+Umsatzausfälle wäre objektiv nicht überprüfbar und würde wiederum zu rechtsungleichen
+Behandlungen führen.
+
+Das WSU habe auch ohne entsprechenden Antrag aufgrund der
+Mehrwertsteuerabrechnungen die Umsätze der Gastronomie- und der
+Hotelleriesparte separat betrachtet. Für die Gastronomiesparte resultiere bei
+einem Vergleich des Umsatzes im Jahr 2020, auf ein Jahr hochgerechnet, mit dem
+Umsatz von April 2020 bis März 2021 ein Rückgang von Fr. 108353.56.
+Multipliziert mit dem Fixkostensatz für Beherbergungsbetriebe von 41 % gemäss §
+6 Abs. 3 lit. a Covid-19-Verordnung Härtefallprogramm ergebe dies einen
+Härtefallbeitrag von CHF 42513.29, welcher der Rekurrentin in insgesamt vier
+Tranchen ausbezahlt worden sei. Eine Erhöhung des ausbezahlten Beitrags sei
+aufgrund des klaren Wortlauts der HFMV 2020 ausgeschlossen.
+
+3.4 Mit ihrem Rekurs führt die Rekurrentin in
+sachverhaltlicher Hinsicht aus, bereits wenige Tage nach der Eröffnung sei ihr
+Hotelleriebetrieb aufgrund der vom Bundesrat am 16. März 2020 beschlossenen
+Covid-19 bedingten Massnahmen stark beeinträchtigt worden. Aufgrund der
+Erschwerung des gesamten Lebens im öffentlichen Raum und insbesondere auch des
+Reisens durch Grenzkontrollen und Grenzschliessungen, habe sie in ihrem Hotel
+viele Stornierungen verzeichnet und praktisch keine Kunden in dieser Zeit mehr
+beherbergen können. Zudem habe sie aufgrund der behördlichen Massnahmen ihren
+Restaurationsbetrieb schliessen müssen, was ebenfalls einen negativen Einfluss
+auf die Anzahl Hotelgäste gehabt habe. Entsprechend habe sie einen tiefen
+Umsatz in dieser Zeitperiode erzielt. Sie offeriert dabei zum Beweis ihre
+Buchhaltungsunterlagen zur Edition und beantragt die Beurteilung des
+Umsatzrückgangs durch ein gerichtlich anzuordnendes Gutachten. Während sie
+aufgrund der Schliessung ihres Restaurationsbetriebes eine Entschädigung von
+insgesamt CHF 42513.29 erhalten habe, habe sie für den erlittenen
+Umsatzrückgang des Hotels keine finanziellen Unterstützungsleistungen erhalten.
+
+Diesbezüglich macht sie eine unzulässige Ermittlung des
+Referenzumsatzes auf der Grundlage von Art. 3 Abs. 2 lit. a HFMV 20, gemäss der
+vom Zeitpunkt der Gründung auszugehen ist, geltend. Das zwingende Abstellen auf
+den Zeitpunkt der Gründung für die Berechnung des Referenzumsatzes führe im vorliegenden
+Fall zu keinem aussagekräftigen Ergebnis über den erlittenen Umsatzrückgang, da
+mit dem Vorjahresvergleich nicht miteinbezogen werde, dass die Rekurrentin vom
+Zeitpunkt ihrer Gründung am 28. Dezember 2018 bis zur Betriebsaufnahme am 7.
+März 2020 gar keine operative Betriebstätigkeit ausgeübt habe und daher während
+dieser Zeit auch keine Umsatzzahlen vorweisen könne. Deshalb sei der
+Referenzumsatz, an dem schliesslich der erforderliche Umsatzrückgang gemessen
+werde, klarerweise sehr tief, was schliesslich zur Abweisung ihres Gesuches geführt
+habe. Dies verletze das Rechtsgleichheitsverbot wie auch das Willkürverbot. Die
+starre Berechnungsart des Referenzumsatzes unterlasse die notwendige
+Unterscheidung zwischen Gründungszeitpunkt und Zeitpunkt der operativen
+Geschäftsaufnahme. Dass die Rekurrentin bei der vorgenommenen Ermittlung des
+Umsatzrückgangs vermeintlich keine finanzielle Einbusse aufweise, ändert nichts
+daran, dass sie in Wirklichkeit eine sehr starke Umsatzeinbusse aufgrund der
+Covid-19 bedingten Massnahmen erlitten habe. Dies zeige sich sehr deutlich,
+wenn der hochgerechnete Umsatz 2020 (CHF 478382.70) mit dem Umsatz 2021 (CHF 1502593.35)
+und dem hochgerechneten Umsatz 2022 (CHF 1787100.90) verglichen werde.
+Unter diesem Gesichtspunkt lasse es sich nicht rechtfertigen, dass sie trotz
+der aufgrund der behördlichen Massnahmen eingetretenen Umsatzeinbusse keine
+finanzielle Entschädigung erhalte. Indem der Wortlaut von Art. 3 Abs. 2
+lit. a HFMV 20 auf die Umsätze 2018 und 2019 für die Referenzumsatzberechnung
+abstelle, würden in ihrem Falle in unverhältnismässiger Weise Unterscheidungen
+getroffen, die sachlich nicht gerechtfertigt seien.
+
+Gemäss § 1 Abs. 1 der Covid-19-Verordnung Härtefallprogramm
+leiste der Kanton Unterstützungsbeiträge an Unternehmen, welche aufgrund der
+Auswirkungen der Covid-19-Pandemie und der vom Bund und Kanton dagegen ergriffenen
+Massnahmen starke wirtschaftliche Einbussen erleiden würden, was somit Sinn und
+Zweck der Härtefallentschädigung sei. In den Erläuterungen zur Verordnung über
+Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie sei
+zum Art. 3 klar festgehalten, dass Unternehmen, die bereits 2018 oder 2019
+gegründet worden seien, aber erst ab 2020 höhere Umsätze erwirtschaftet hätten,
+nicht schlechter gestellt würden als Unternehmen, die nach dem 29. Februar 2020
+gegründet worden seien und im Sommer 2020 Umsätze erwirtschaftet hätten (S. 6).
+Der Verordnungsgeber habe sich ausdrücklich dafür ausgesprochen, dass
+Unternehmen, die in der Vergleichsperiode (2018 und 2019) einen geringen Umsatz
+vorweisen könnten, aber dennoch von den Massnahmen betroffen gewesen seien,
+auch von den Unterstützungsbeiträgen profitieren sollten. Im Ergebnis führe das
+Abstellen auf den Wortlaut von Art. 3 Abs. 2 lit. a HFMV 20 dazu, dass der in §
+1 Abs. 1 der kantonalen Covid-19-Verordnung festgehaltenen Sinn und Zweck des
+Härtefallprogramms vereitelt werde und im vorliegenden Fall eine
+verfassungswidrige Abweisung der Härtefallgesuche verfügt worden sei.
+
+Schliesslich sehe § 6 Abs. 4 der Covid-19-Verordnung
+Härtefallprogramm vor, dass bei Unternehmen, die nach dem 31. Dezember 2017
+gegründet worden seien, für die Ermittlung des Umsatzrückgangs auf den
+Zeitpunkt der Geschäftsaufnahme anstatt das Gründungsdatum abgestellt werden könne.
+Es sei daher rechtsungleich und willkürlich, dass für die Voraussetzungen der
+Unterstützungsleistungen nicht analog zu dieser Regelung auf den Zeitpunkt der
+Geschäftsaufnahme zur Ermittlung des Umsatzrückgangs abgestellt werden könne.
+Dass der Verordnungsgeber für die Voraussetzungen des Anspruchs nicht ebenfalls
+das Abstellen auf einen alternativen Zeitpunkt für die Berechnung des
+Umsatzrückganges vorgesehen hat, führe im vorliegenden Fall zu einer
+rechtsungleichen Behandlung der Rekurrentin, im Vergleich zu anderen
+vergleichbaren Betrieben, die von einer Härtefallentschädigung hätten profitieren
+können und laufe somit dem Sinn und Zweck der kantonale Covid-19-Verordnung
+entgegen.
+
+Aus diesen Gründen könne die Verordnungsbestimmung im
+vorliegenden Fall nicht angewandt werden. Vielmehr sei der Umsatz vom Zeitpunkt
+der Geschäftsaufnahme am 7. März 2020 «bis zum heutigen Zeitpunkt» auf ein Jahr
+hochzurechnen. Es müsse dabei zulässig sein, auch ihre neueren Umsatzzahlen in
+die Berechnung des Referenzumsatzes miteinzubeziehen. Für die entsprechende
+Anspruchsermittlung bezieht sich die Rekurrentin zur Berechnung des
+Referenzumsatzes auf den Umsatz 2021 von CHF 1502593.35 und den
+hochgerechneten Umsatz 2022 von CHF 1787100.90 und damit einen
+durchschnittlichen Jahresumsatz und Referenzumsatz von CHF 1644847.. Im
+Vergleich mit dem hochgerechneten Umsatz 2020 ergebe sich ein Umsatzrückgang im
+Jahr 2020 von rund 70% im Betrag von CHF 1166464.50. Damit sei die
+Voraussetzung gemäss Art. 5 Abs. 1 HFMV 20 ohne Weiteres gegeben. Bei der
+Berechnung des Anspruchs sei der erlittene Umsatzrückgang mit dem
+Fixkostenanteil von 41% zu multiplizieren (§ 6 Abs. 3 der kantonalen
+Covid-19-Verordnung), woraus im Ergebnis ein Unterstützungsbeitrag in der Höhe
+von CHF 478250.45 folge, auf den sie Anspruch habe.
+
+4.
+
+4.1 Auch im Rahmen der Leistungsverwaltung gilt
+aufgrund seiner demokratischen Funktion einerseits und zur Gewährleistung
+rechtsgleicher Behandlung das Legalitätsprinzip. Daraus folgt, dass auch
+staatliche Leistungen nur nach Massgabe und im Rahmen einer entsprechenden
+gesetzlichen Grundlage erbracht werden dürfen. Dabei gelten aber geringere
+Anforderungen an die Normdichte ( Häfelin/Müller/Uhlmann ,
+a.a.O., Rz. 379 ff., Tschannen/Müller/Kern ,
+Allgemeines Verwaltungsrecht, 5. Aufl., Bern 2022, Rz. 410 ff.). Dies wird von
+der Rekurrentin auch gar nicht bestritten. Sie macht aber geltend, dass aus
+Gründen der Gleichbehandlung und zur Vermeidung von Willkür in ihrem Fall von
+der gesetzlichen Regelung abzuweichen sei.
+
+4.2 Zu
+prüfen ist daher, ob die Anwendung der massgebenden Bestimmungen über die Voraussetzungen
+für einen Anspruch auf Härtefallleistungen im Zusammenhang mit der
+Covid-19-Epidemie mit Bezug auf den vorliegenden Einzelfall zu einer
+verfassungswidrigen Ungleichbehandlung führt.
+
+4.2.1 Die
+im Einzelfall zur Anwendung gelangende Norm ist im Rahmen einer akzessorischen
+Normenkontrolle insoweit zu überprüfen, als sie für diesen massgeblich ist (BGE
+136 I 65 S. 69 E. 2.3; VGE VD.2019.110 vom 28. April 2020 E. 3.2.1, VD.2017.106
+vom 23. Januar 2018 E. 2.2). Dazu ist vorab der Sinn und Zweck der
+Bestimmung mittels Auslegung zu ermitteln, wobei die Ermittlung dieser ratio
+legis nach bundesgerichtlicher Rechtsprechung nicht nach den eigenen,
+subjektiven Wertvorstellungen des Gerichtes, sondern nach den Vorgaben des
+Gesetzgebers zu erfolgen hat. Dazu gilt es die Regelungsabsicht des
+Gesetzgebers und die damit erkennbar getroffene Wertentscheidung mit Hilfe der
+herkömmlichen Auslegungselemente zu ermitteln (VGE VD.2019.110 vom 28. April
+2020 E. 3.2.1 m.H. auf BGer 8C_46/2017 vom 7. August 2017 E. 4.2 m.w.H.).
+
+Ausgangspunkt
+jeder Gesetzesauslegung ist der Wortlaut des Gesetzes (grammatikalisches
+Element). Vom klaren, eindeutigen und unmissverständlichen Wortlaut darf nur
+ausnahmsweise abgewichen werden, so etwa dann, wenn triftige Gründe dafür vorliegen,
+dass der Wortlaut nicht den wahren Sinn der Norm wiedergibt. Gründe zur
+Annahme, der Wortlaut entspreche nicht dem wahren Sinn der Bestimmung, können
+sich aus der Entstehungsgeschichte der Norm (historisches Element), aus ihrem
+Sinn und Zweck (teleologisches Element) oder aus dem Zusammenhang mit anderen
+Vorschriften (systematisches Element) ergeben (BGE 143 II 685 E. 4,
+140 II 80 E. 2.5.3, 139 IV 62 E. 1.5.4, 131 III 314 E. 2.2.;
+VGE VD.2019.110 vom 28. April 2020 E. 3.2.1; VGE VB.2022.00068 vom 14. Juli
+2022 E. 4.2). Insbesondere bei jüngeren Gesetzen sind auch die
+Gesetzesmaterialien zu beachten, wenn sie auf die streitige Frage eine klare
+Antwort geben. Das Bundesgericht verfolgt einen pragmatischen
+Methodenpluralismus und lehnt es namentlich ab, die einzelnen
+Auslegungselemente einer hierarchischen Ordnung zu unterstellen. (BGE 142 V 488
+E. 6.3.1; 139 V 442 E. 4.1 jeweils m.w.H.; VGE VD.2019.110 vom 28. April 2020
+E. 3.2.1).
+
+4.2.2 Dabei
+ist in verfassungskonformer Auslegung der anwendbaren Normen dem Gebot der
+Gleichbehandlung gemäss Art. 8 BV Rechnung zu tragen. Ein Erlass verletzt das
+Gebot der Rechtsgleichheit, wenn er rechtliche Unterscheidungen trifft, für die
+ein vernünftiger Grund in den zu regelnden Verhältnissen nicht ersichtlich ist,
+oder Unterscheidungen unterlässt, die sich aufgrund der Verhältnisse aufdrängen
+(BGE 136 II 120 E. 3.3.2 mit Hinweisen). Dem Gesetzgeber bleibt im Rahmen
+dieser Grundsätze und des Willkürverbots ein weiter Spielraum der Gestaltung
+(BGE 136 I 1 E. 4.1, 134 I 23 E. 9.1 mit Hinweisen; VGE VD.2019.110 vom 28.
+April 2020 E. 4.2.1). Die verfassungskonforme Interpretation einer anwendbaren
+Norm nach Massgabe des Gleichbehandlungsgrundsatzes stösst aber dort an ihre
+funktionell-rechtlichen Grenzen, wo eine Norm nach ihrem ermittelten Sinn
+eindeutig die Verfassung verletzt ( Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl., Basel 2016, Rz. 560).
+Eine klar korrigierende Auslegung der Norm gegen den Sinn des Gesetzes ist
+nicht zulässig ( Kramer , Juristische
+Methodenlehre, 6. Aufl., Bern 2019, S. 118 f.). Entzieht sich daher eine
+kantonale Vorschrift jeder verfassungskonformen Auslegung, kann sie nicht
+angewendet werden (vgl. BGE 133 I 77 S. 79; VGE VD.2019.110 vom 28. April
+2020 E. 4.3).
+
+4.3
+
+4.3.1 Mit
+den Gegenstand der Covid-19-Verordnung Härtefallprogramm bildenden
+Härtefallmassnahmen sollen Unternehmen finanziell unterstützt werden, die
+aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den Folgen von Covid-19
+besonders betroffen waren und einen Härtefall darstellen (vgl. Art. 12
+Abs. 1 Covid-19-Gesetz). Dabei setzte der Bundesgesetzgeber nur einzelne
+«Jalons für die Umsetzung und auch für die Konkretisierung des Projekts». Für
+die Definition des Härtefalls in Art. 12 Abs. 1 bis Covid-19-Gesetz
+wurde dabei ganz bewusst an den Umsatz angeknüpft. Dabei sollte der Umsatz im
+betroffenen Jahr mit dem durchschnittlichen Jahresumsatz der Vorjahre
+verglichen und gefragt werden, ob eine massgebliche («einschneidende»)
+Umsatzeinbusse vorliege, die «eine Hilfe über den Härtefall rechtfertigt» ( VGE
+ZH VB.2022.00068 vom 14. Juli 2022 E. 4.3.1; Votum Rechsteiner, AB 2020 S 876). So lässt sich dem
+Protokoll der parlamentarischen Beratungen zum Covid-19-Gesetz entnehmen, dass
+unter den Räten die Meinung vorherrschte, dass sich die Beeinflussung eines
+Betriebs durch die behördlichen Massnahmen nur am Jahresumsatz messen lasse,
+nicht etwa am Gewinn; der Jahresumsatz wie auch der «Mehrjahresvergleich»
+stellten objektive bzw. messbare Grössen dar und fingen Schwankungen auf, die
+"in einem Jahr passiert sein könnten" (vgl. AB 2020 S 879 f. und
+952 f.). Man war sich dabei «einig (), dass der Umsatzeinbruch bzw. -rückgang
+die richtige Grösse» ist. Mit der Schwelle «Jahresumsatz unter 60 Prozent des
+mehrjährigen Schnitts» sollte eine Regelung mit «klaren Kriterien» geschaffen
+werden, um die Härtefälle von Schwankungen des Umsatzes, wie sie vorkommen
+könnten, abzugrenzen (Votum Ettlin AB 2020 S 952). Weiter sollten nur Unternehmen
+unterstützt werden, die «vor Ausbruch von Covid-19 profitabel oder
+überlebensfähig waren» (Art. 12 Abs. 2 Covid-19-Gesetz). Mit dieser
+alternativen Formulierung sollten insbesondere auch «junge Unternehmen (), die
+in der Startphase noch nicht in der Gewinnzone sind, die aber vielleicht
+überlebensfähig sind», nicht von der Anspruchsberechtigung ausgeschlossen
+werden (AB 2020 S 877 f., 953).
+
+Diese gesetzlichen
+«Jalons» wurden mit der Covid-19-Härtefallverordnung (HFMV 20)
+konkretisiert. Da aber auch Unternehmen, die nach Ausbruch der Pandemie aber
+vor dem 1. Oktober 2020 gegründet worden sind, anspruchsberechtigt sind (Art. 3
+Abs. 1 lit. a HFMV 20 in der Fassung vom 31. März 2021), ist daraus zu folgern,
+dass diese Voraussetzungen des Umsatzrückgangs und der Überlebensfähigkeit oder
+Profitabilität auch von Unternehmen erfüllt werden können, die ihren Betrieb
+erst in der Pandemie aufgenommen haben. Daraus folgt, dass nach der Auffassung
+des Rechtsetzers nicht zwingend in jedem Fall als Voraussetzung für die
+Ausrichtung einer Härtefallentschädigung auf einen bereits vor der Pandemie
+erzielten Referenzumsatz zurückgegriffen werden kann. Dem entspricht denn auch
+die Regelung in Art. 3 Abs. 2 lit. a und b HFMV 20. Danach wird für
+Unternehmen, die zwischen dem 31. Dezember 2017 und dem 30. September 2020
+gegründet worden sind, eine Ausnahme vom Grundsatz getroffen, wonach sich der
+Referenzumsatz auf der Grundlage der durchschnittlichen Jahresumsätze vor der
+Pandemie in den Jahre 2018 und 2019 berechnet. Auch bei den später gegründeten
+Unternehmen sollte der Referenzumsatz auf der Grundlage des bisher erzielten
+Umsatzes errechnet werden. So sollte für Unternehmen, die zwischen dem 31.
+Dezember 2017 und dem 29. Februar 2020 gegründet worden sind, der von der
+Gründung bis zum 29. Februar 2020 oder bis zum 31. Dezember 2020 erzielte und
+auf 12 Monate berechnete Umsatz als Referenzumsatz massgebend sein (Art. 5 Abs.
+2 i.V.m. 3 Abs. 2 lit. a HFMV 20 [Fassung vom 31. März 2021]) und für
+Unternehmen, die nach Ausbruch der Pandemie zwischen dem 1. März 2020 und dem
+30. September 2020 gegründet worden sind, wurde als Referenzumsatz der von der
+Gründung bis zum 31. Dezember 2020 durchschnittlich erzielte und auf 12 Monate
+berechnete Umsatz herangezogen werden.
+
+4.3.2 Das Zürcher Verwaltungsgericht entschied
+bereits in Fällen von Unternehmen, die zwar vor dem 31. Dezember 2017 ins
+Handelsregister eingetragen wurden, ihre Geschäftstätigkeit aber erst danach
+aufnahmen, dass für die Beurteilung der Frage, ob ein Umsatzrückgang vorliegt,
+der ab Aufnahme der Geschäftstätigkeit erzielte Umsatz massgebend sei. Dasselbe
+müsse auch für die Frage der Höhe des massgeblichen Umsatzes für die Berechnung
+der maximal zuzusprechenden Beiträge gelten (VGE ZH VB.2022.00134 vom
+1. September 2022 E. 6.2.5, VB.2022.00068 vom 14. Juli 2022 E.
+4.3.3). Das Zürcher Verwaltungsgericht erachtete es dementsprechend auch in
+einem Fall, in dem das Unternehmen nach dem 31. Dezember 2017 gegründet worden
+war, nicht gerechtfertigt, aus Praktikabilitätsgründen bei der Umsatzberechnung
+auf die formelle Gründung anstatt auf die Aufnahme der Geschäftstätigkeit
+abzustellen, sofern sich genau bestimmen lasse, wann die Geschäftstätigkeit
+aufgenommen wurde, und es objektive Gründe dafür gebe, dass die
+Geschäftstätigkeit erst längere Zeit nach der formellen Gründung aufgenommen
+wurde. Insgesamt kam es zum Schluss, dass Art. 3 Abs. 2 HFMV 20 so zu verstehen
+sei, dass ein Unternehmen, welches nach dem 31. Dezember 2017 gegründet wurde
+und seine Geschäftstätigkeit erst längere Zeit nach der Gründung aufgenommen
+hat, für die Berechnung des Umsatzrückgangs seinen ab Aufnahme der
+Geschäftstätigkeit generierten Umsatz auf zwölf Monate hochrechnen kann (VGE ZH
+VB.2022.00285 vom 22. Dezember 2022 E. 5.4).
+
+4.3.3 Ziel des Gesetz- und Verordnungsgebers war es,
+eine differenzierte Härtefalllösung zu schaffen, um möglichst allen direkt
+betroffenen (überlebensfähigen) Unternehmen zu helfen und so gefährdete
+Arbeitsplätze in der Schweiz zu erhalten (vgl. Erläuterungen HFMV 20, S. 6; VGE
+ZH VB.2022.00068 vom 14. Juli 2022 E. 4.3.2). Differenzierungen zulasten von
+jungen Unternehmen, wie sie die Nichtberücksichtigung der faktischen Aufnahme
+der Geschäftstätigkeit zu Folge hätte, entsprechen dagegen nicht dem Willen des
+Gesetzgebers. Nur der nach der Aufnahme der Geschäftstätigkeit erzielte Umsatz
+ist repräsentativ für ihren (hypothetischen) Umsatz in den Folgejahren (vgl.
+VGE ZH VB.2022.00134 vom 1. September 2022 E. 6.2.4).
+
+Im Gegensatz zu
+den vom Zürcher Verwaltungsgericht entschiedenen Fällen (VGE ZH VB.2022.00285
+vom 22. Dezember 2022 E. 5.4, VB.2022.00134
+vom 1. September 2022 E. 6.3, VB.2022.00068
+vom 14. Juli 2022 E. 4.3.3) kann vorliegend aber nicht auf einen
+vorbestehen Umsatz abgestellt werden. Würde man nun bei der Rekurrentin,
+wie bei Unternehmen, die zwischen dem 1. März 2020 und dem
+30. September 2020 gegründet worden sind, auf den durchschnittlichen von
+der Gründung bis 31. Dezember 2020 erzielten, auf 12 Monate umgerechneten
+Umsatz abstellen (Art. 3 Abs. 2 lit. b HFMV), führt dies dazu, dass die zwei
+miteinander zu vergleichenden Perioden deckungsgleich sind, womit es keine
+Differenz und damit auch keinen Umsatzrückgang gibt. Der Verweis gemäss den
+Erläuterungen HFMV 2 auf Art. 3 Abs. 2 der Covid-19-Härtefallverordnung macht
+daher keinen Sinn. Für junge Unternehmen, die nach Beginn der Corona Massnahmen
+gegründet wurden, kann sich der Umsatzrückgang nur auf behördliche Massnahmen
+im Rahmen der zweiten Welle ab Ende 2020 beziehen. Dies ergibt sich sinngemäss
+auch aus Art. 12 Abs. 1 des Covid-19-Gesetzes, wonach ein Unternehmen für die
+Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 auch den Umsatz
+einer späteren Periode von zwölf Monaten verwenden kann, längstens bis und mit
+Juni 2021 (vgl. auch VGE SG B 2022/11 vom 10. Mai 2022 E. 4.1).
+
+Der Umsatz der Rekurrentin stieg indes nach der
+Inbetriebnahme stetig an, sodass der Umsatz des Jahres 2021 höher ausfiel als
+derjenige im 2020. Die von der
+Rekurrentin vorgeschlagene (gerade umgekehrte) Ermittlung des Referenzumsatzes
+in ihrem Fall würde daher im Ergebnis den gesetzten Jalons bei der Regelung der
+Härtefallmassnahmen gemäss Art. 12 Covid-19-Gesetz widersprechen. Es trifft
+regelmässig zu und entspricht insofern einer notorischen Tatsache, dass sich
+der Umsatz eines Unternehmens nach der Gründung und seinem Markteintritt
+zunächst kontinuierlich steigert. Indem die Rekurrentin auf der Grundlage des
+später erzielten Umsatz auf den mutmasslich ohne Corona-Einschränkungen
+unmittelbar nach der Eröffnung ihres Betriebes erzielten Umsatz schliessen möchte,
+lässt sie diesen Umstand ausser Betracht.
+
+4.3.4 Dem Rechtsetzer kommt ein weiter Ermessensspielraum zu, wie er den Kreis der
+Härtefälle umschreiben will. Ein Vergleich mit Budgetzahlen ist in den
+gesetzlichen Bestimmungen nicht vorgesehen, insbesondere auch nicht für neu
+gegründete Unternehmen. Ein solcher Vergleich würde das Risiko von einem zu
+hohen prognostizierten Umsatz in sich bergen, um die erforderliche
+Umsatzeinbusse von 40 Prozent zu erreichen. Es kann schliesslich auch nicht angehen, im Einzelfall den
+Referenzumsatz auf der Grundlage einer Begutachtung zu ermitteln. Bei
+der Bestimmung des Kreises der Härtefälle, für welche in einem Massenverfahren
+Entschädigungen ausgerichtet werden sollen, erscheint aus Gründen der
+Praktikabilität eine gewissen Schematisierung und Pauschalierung unausweichlich
+(VGE ZH VB.2022.00216 vom 25. August 2022 E. 5.1; VGE ZH VB.2022.00068 vom 14.
+Juli 2022 E. 4.3.3 m.H. auf BGE 122
+I 343 E. 3g/dd; BGer 8C_612/2013 vom 20. Dezember 2013 E. 6.4 ;
+vgl. auch VGE VD.2013.19 vom 30. August 2013 E. 3.3.1, VD.2021.25 vom 10.
+Januar 2022 E. 4.3.3). Diese kann zum vornherein nicht allen Einzelaspekten
+aller Einzelfälle völlig gerecht werden (VGE VD.2021.106 vom 18. Februar 2022
+E. 4.2.4). Aus Gründen der Praktikabilität sind deshalb Schematisierungen
+beziehungsweise Typisierungen zulässig, auch wenn damit ein Verlust an
+Einzelfallgerechtigkeit verbunden ist ( BGer 8C_612/2013 vom 20. Dezember 2013 E. 6.4, 8C_1074/2009
+vom 2. Dezember 2010 E. 4.3.6). Die Berechnung des Referenzumsatzes mit einer
+Begutachtung widerspräche nicht nur der Praktikabilität in einem
+Massenverfahren, es würde auch zu einer Ungleichbehandlung im Vergleich mit den
+ansonsten schematisch und pauschaliert behandelten Gesuchen anderer Ansprecherinnen
+und Ansprecher führen.
+
+Insgesamt bestehen damit genügend vernünftige Gründe in den
+zu regelnden Verhältnissen, wenn Fälle, in denen kein Umsatzrückgang
+eingetreten ist und sich der Umsatz bloss nicht hat entwickeln können, anders
+behandelt werden als Fälle, in denen aufgrund der Massnahme der Umsatz
+eingebrochen ist. Eine Verletzung des Rechtsgelichheitsgebots nach Art. 8 BV
+ist damit nicht ersichtlich.
+
+4.4 Zusammenfassend
+konnte die Rekurrentin den Nachweis des erforderlichen Umsatzrückgangs nicht
+rechtsgenüglich erbringen, womit die Vorinstanz das Gesuch für eine finanzielle
+Härtefallunterstützung zu Recht abgewiesen hat.
+
+5.
+
+Nach dem Gesagten ist der Rekurs gegen die Verfügung vom 20.
+Juli 2022 abzuweisen.
+
+Entsprechend dem Ausgang
+des Verfahrens hat die Rekurrentin gestützt auf § 30 Abs. 1 VRPG die
+Gerichtskosten des Rekursverfahrens zu tragen. Diese werden in Anwendung von §
+23 des Gerichtsgebührenreglements (GGR, SG 154.810) auf CHF 4000.
+festgesetzt.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird abgewiesen.
+
+Die Rekurrentin trägt die Gerichtskosten des
+verwaltungsgerichtlichen Rekursverfahrens mit einer Gebühr von CHF 4000.,
+einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Rekurrentin
+
+- Departement für Wirtschaft, Soziales und Umwelt
+
+- Regierungsrat des Kantons Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+Dr. Michèle Guth
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
