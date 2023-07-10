@@ -1,0 +1,425 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2024.28"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2023.12"
+docket_2: "SVG.2024.28"
+decided: "2023-07-10"
+published: "2023-11-30"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76439&W10_KEY=3049206&nTrefferzeile=102&Template=search_result_document.html"
+cites_decisions: ["8C_279/2007", "8C_291/2010", "AL.2023.12", "BGE 119 V 498", "BGE 138 V 333"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/837.0/art-032.md", "switzerland/bund/acts/837.0/art-033.md", "switzerland/bund/acts/837.0/art-100.md"]
+---
+
+# Kurzarbeitsentschädigung; normales Betriebsrisiko
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 30.
+November 2023
+
+Mitwirkende
+
+lic. iur. R. Schnyder
+(Vorsitz), Dr. med. F. W. Eymann , S.
+Schenker
+
+und
+Gerichtsschreiberin lic. iur. S. Dreyer
+
+Parteien
+
+A____ GmbH
+
+[...]
+
+Beschwerdeführerin
+
+Kantonale Amtsstelle für
+Arbeitslosenversicherung
+
+Sandgrubenstrasse 44, Postfach,
+4005 Basel
+
+vertreten durch Amt für
+Wirtschaft und Arbeit,
+
+Herrn lic. iur. B____,
+
+Sandgrubenstrasse 44, Postfach,
+4005 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2023.12
+
+Einspracheentscheid vom 10. Juli
+2023
+
+Kurzarbeitsentschädigung;
+normales Betriebsrisiko
+
+Tatsachen
+
+I.
+
+a)       Am 27. April 2023 meldete die A____ GmbH, Architekten
+und Ingenieure (Beschwerdeführerin), für die Zeit vom 15. Mai 2023 bis 14.
+August 2023 den ganzen Betrieb für Kurzarbeit an (vgl. Antwortbeilage/AB 2). Mit
+Verfügung vom 27. April 2023 bewilligte das Amt für Wirtschaft und Arbeit
+Basel-Stadt die Auszahlung von Kurzarbeitsentschädigung für den Gesamtbetrieb
+der A____ GmbH in diesem Zeitraum (vgl. AB 1).
+
+b)       Hiergegen erhob das SECO mit Schreiben vom 30 Mai 2023
+Einsprache mit dem Antrag, die Verfügung vom 27. April 2023 sei aufzuheben und
+gegen die Voranmeldung von Kurzarbeit der A____ GmbH Einspruch zu erheben (vgl.
+AB 3). Am 14. Juni 2023 nahm die Beschwerdeführerin dazu Stellung (vgl. AB 5). Ergänzende
+Angaben machte sie am 29. Juni 2023 (vgl. AB 6). Mit Einspracheentscheid der
+Kantonalen Amtsstelle für Arbeitslosenversicherung (KAST) vom 10. Juli 2023
+wurde die Einsprache antragsgemäss gutgeheissen (vgl. AB 4).
+
+II.
+
+a)       Hiergegen hat die Beschwerdeführerin am 7. August 2023
+(Datum des Einganges) Beschwerde beim Sozialversicherungsgericht Basel-Stadt
+erhoben. Sie beantragt sinngemäss die Ausrichtung von Kurzarbeitsentschädigung.
+
+b)       Die KAST (Beschwerdegegnerin) schliesst mit
+Beschwerdeantwort vom 17. August 2023 auf Abweisung der Beschwerde.
+
+c)       Die Beschwerdeführerin reicht innert Frist keine
+Replik ein.
+
+III.
+
+Am 30. November 2023 findet die Beratung der Sache durch die
+Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Gemäss Art. 1 Abs. 1 des Bundesgesetzes vom 25. Juni 1982 über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG;
+SR 837.0) in Verbindung mit den Art. 56 und 57 des Bundesgesetzes vom 6.
+Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts
+(ATSG; SR 830.1) kann gegen Einspracheentscheide aus dem Bereich der
+Arbeitslosenversicherung Beschwerde beim kantonalen Versicherungsgericht
+erhoben werden.
+
+1.2. 1.2.1.  Örtlich zuständig für die Beurteilung von Beschwerden gegen
+Einspracheentscheide der KAST ist gemäss Art. 100 Abs. 3 AVIG in Verbindung mit
+Art. 128 Abs. 2 und Art. 119 Abs. 1 lit. b der Verordnung vom 31. August
+1983 über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung (AVIV; SR 837.02) das Versicherungsgericht
+desjenigen Kantons, in dem sich der Ort des Betriebes befindet. Der Ort des Betriebes
+befindet sich vorliegend im Kanton Basel-Stadt. Damit ist das angerufene
+Gericht zur Behandlung der vorliegenden Beschwerde örtlich zuständig
+
+1.2.2.  Gestützt auf § 82 des Gesetzes vom 3. Juni 2015
+betreffend die Organisation der Gerichte und der Staatsanwaltschaft (GOG; SG
+154.100) und § 1 Abs. 1 des Gesetzes vom 9. Mai 2001 über das
+Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht
+in Sozialversicherungssachen (SVGG; SG 154.200) entscheidet das
+Sozialversicherungsgericht als einzige kantonale Instanz über alle sich aus
+Bundesrecht oder kantonalem Recht ergebenden sozialversicherungsrechtlichen
+Streitigkeiten. Dieses ist somit auch sachlich zur Behandlung der vorliegenden
+Beschwerde zuständig.
+
+1.3. Da auch die weiteren formellen Voraussetzungen erfüllt sind, kann
+somit auf die Beschwerde eingetreten werden.
+
+2.
+
+2.1. Die Beschwerdeführerin macht im Wesentlichen geltend, ihre
+Auftragslage sei schwierig. Im November und Dezember 2022 habe man mehrere
+Projekte abgeschlossen. Anfang des Jahres seien dann drei von der C____ AG in
+Auftrag gegebene Projekte in der Entwurfsphase  kurz vor dem Baugesuch  aufgrund
+der aktuellen Inflationslage sowie deutlich erhöhten Baukosten sistiert worden.
+Diese drei Projekte hätten für eine ausreichende Beschäftigung während des
+gesamten Jahres gesorgt. Aktuell befinde sich das Unternehmen in einer
+Akquisitionsphase. Hierzu würden laufend Gespräche mit potentiellen
+Auftraggebern geführt und es seien auch bereits mögliche Projekte in Aussicht
+gestellt worden. Die Situation habe sich leider seit Februar 2023 noch nicht
+verbessert. Eine kurzfristige Neubeschaffung von Projekten sei bislang nicht
+möglich gewesen (vgl. die Beschwerde; siehe auch die Voranmeldung [AB 1]).
+
+2.2. Die Beschwerdegegnerin wendet hiergegen zur Hauptsache ein, die
+Beschwerdeführerin habe für die fragliche Zeit (15. Mai 2023 bis 14. August
+2023) keinen Anspruch auf Kurzarbeitsentschädigung; denn der Arbeitsausfall gehöre
+zum normalen Betriebsrisiko der Arbeitsgeberin und sei folglich nicht
+anrechenbar. Aus diesem Grunde habe man die Einsprache des SECO zu Recht gutgeheissen
+(vgl. insb. den Einspracheentscheid; siehe auch die Beschwerdeantwort).
+
+2.3. Umstritten und im Folgenden zu prüfen ist, ob die Beschwerdegegnerin
+zu Recht mit Einspracheentscheid vom 10. Juli 2023 die gegen die Verfügung des
+Amtes für Wirtschaft und Arbeit vom 27. April 2023 (betr. die Bewilligung der
+Auszahlung von Kurzarbeitsentschädigung für den Gesamtbetrieb der Beschwerdeführerin
+für die Zeit vom 15. Mai 2023 bis 14. August 2023) erhobene Einsprache des SECO
+gutgeheissen hat.
+
+3.
+
+3.1. Anspruch auf Kurzarbeitsentschädigung besteht, wenn der
+Arbeitsausfall anrechenbar sowie voraussichtlich vorübergehend ist und erwartet
+werden darf, dass durch Kurzarbeit die Arbeitsplätze erhalten werden können
+(Art. 31 Abs. 1 lit. b und d AVIG).
+
+3.2. 3.2.1.  Anrechenbar ist der Arbeitsausfall, der kumulativ auf
+wirtschaftliche Gründe zurückzuführen ist und unvermeidbar ist (Art. 32 Abs. 1
+lit. a AVIG) und je Abrechnungsperiode mindestens 10 % der Arbeitsstunden
+ausmacht, die von den Arbeitnehmern des Betriebes normalerweise insgesamt
+geleistet werden ( Art. 32 Abs. 1 lit. b AVIG ).
+
+3.2.2.  Das AVIG definiert den Begriff der wirtschaftlichen
+Gründe nicht. Anhaltspunkte ergeben sich aus der Härtefallregel (Art. 32 Abs. 3
+AVIG) und der Umschreibung der nicht anrechenbaren Arbeitsausfälle (Art. 33
+Abs. 1 AVIG). Die Rechtsprechung legt den Begriff der wirtschaftlichen Gründe
+sehr weit aus. Sie versteht darunter den Rückgang der Nachfrage nach den
+normalerweise von einem Betrieb angebotenen Gütern und Dienstleistungen und zum
+andern Faktoren, die entweder direkt durch den Markt beeinflusst werden oder
+sich auf die Stellung eines Produkts auf dem Markt auswirken (vgl. dazu u.a.
+Thomas Gächter , Unternehmensrecht
+I, Gründung und Aufbau, Sanierung und Liquidation, 2. Aufl. 2013, 11. Kapitel,
+S. 329 ff., Rz 20).
+
+3.2.3.  Das Kriterium der Unvermeidbarkeit des Arbeitsausfalls
+beinhaltet das Fehlen einer Gegensteuerungsmöglichkeit. Es steht der Gedanke
+dahinter, dass vom Arbeitgeber verlangt werden kann, alle zumutbaren
+Vorkehrungen zu treffen, den Arbeitsausfall abzuwenden (vgl. Gerhards Gerhards , Kommentar zum AVIG, Band I, Rz
+48 zu Art. 32-33).
+
+3.2.4.  Ein auf wirtschaftliche Gründe zurückzuführender und an
+sich grundsätzlich anrechenbarer Arbeitsausfall gilt jedoch dann nicht als
+anrechenbar, wenn er branchen-, berufs- oder betriebsüblich ist oder durch
+saisonale Beschäftigungsschwankungen verursacht wird (Art. 33 Abs. 1 lit. b
+AVIG). Ebenfalls nicht anrechenbar ist ein Arbeitsausfall, der durch Umstände
+bedingt ist, die zum normalen Betriebsrisiko des Arbeitgebers gehören (Art. 33
+Abs. 1 lit. a 2. Satzteil AVIG).
+
+3.3. 3.3.1.  Zum normalen Betriebsrisiko gehören Ausfälle, die nach der
+Erfahrung regelmässig und wiederholt auftreten, womit sie voraussehbar und
+kalkulatorisch auf verschiedene Weise erfassbar sind. Was als normales
+Betriebsrisiko gilt, bestimmt sich stets aufgrund der besonderen Verhältnisse
+der spezifischen Betriebstätigkeit (BGE 138 V 333, 337 E. 4.2.2; BGE 119 V 498,
+500 E. 1). Die bundesgerichtliche Praxis ist bei der Annahme eines ausserhalb
+des normalen Betriebsrisikos liegenden Ausfalls relativ streng (vgl. Nathalie Flück , Das Betriebsrisiko im
+Arbeitsverhältnis, in: Recht in privaten und öffentlichen Unternehmen, 2022, S.
+39 ff., S. 44 FN 240, mit einer Übersicht über die Rechtsprechung). Durch den
+Ausschluss des normalen Betriebsrisikos kommt die Kurzarbeitsentschädigung nur
+bei aussergewöhnlichen oder ausserordentlichen Umständen zur Anwendung (vgl.
+die Urteile des EVG C 8/03 vom 4. Dezember 2003 E. 3. und C 253/01 vom 10. Juli
+2002 E. 3a.). Sie greift, wenn der Arbeitsausfall auf Gründen beruht, die im
+Rahmen der Unternehmerstrategie schlicht nicht berücksichtigt werden können
+(vgl. Nathalie Flück , a.a.O., S.
+45).
+
+3.3.2.  In Rz D6 der Weisung AVIG KAE werden unter anderem die
+Urteile des Bundesgerichts 8C_291/2010 vom 19. Juli 2010 und 8C_279/2007 vom
+17. Januar 2008 angeführt. Im ersten Entscheid hat das Bundesgericht
+klargestellt, mit der bewussten betriebswirtschaftlich motivierten
+Konzentration auf eine Grosskundin sei das Unternehmen ein vorhersehbares
+Risiko eingegangen, weshalb der durch den Wegfall dieser Kundin erlittene
+Arbeitsausfall nicht aussergewöhnlicher Natur und dem normalen Betriebsrisiko
+zuzurechnen sei (E. 4.4.). Im zweiten Urteil war dargetan worden, die
+Geschäftsbeziehung mit einem Hauptkunden, auch bei gutem Einvernehmen, beinhalte
+das vorhersehbare Risiko, bei veränderten Verhältnissen einen Umsatzeinbruch zu
+erleiden. Dieses Klumpenrisiko sei in Kauf genommen worden und gehöre zum
+normalen Betriebsrisiko (E. 2.3). Gemäss Rz D5 der Weisung AVIG KAE genügt
+jedoch die Tatsache, dass sich eine Arbeitgeberin auf einen einzigen Gross-
+oder Hauptauftraggeber konzentriert, für sich alleine nicht, um bei einem
+Auftragseinbruch den Anspruch mit Hinweis auf das normale Betriebsrisiko zu
+verneinen. Die KAST hat dann Einspruch gegen die Auszahlung von Kurzarbeitsentschädigung
+zu erheben, wenn der Betrieb nicht glaubhaft darlegen kann, dass in absehbarer
+Zeit die erneute Nachfrage des bisherigen Abnehmers wieder zu Vollbeschäftigung
+führen wird oder dass neue Absatzmärkte erschlossen werden können.
+
+3.3.3.  Was insbesondere die Baubranche angeht, so sind gemäss
+der Rechtsprechung des Bundesgerichts Schwankungen in der Auftragslage im
+Jahresverlauf, insbesondere ein Beschäftigungsrückgang im Winter  aber auch zu
+anderen Jahreszeiten  sowie Terminverschiebungen auf Wunsch von Auftraggebern
+oder allenfalls aus anderen Gründen, die das mit der Ausführung der Arbeiten beauftragte
+Unternehmen nicht zu verantworten hat, durchaus üblich. Der darauf
+zurückzuführende Arbeitsausfall ist somit betriebsüblich und deshalb nicht anrechenbar.
+Diese Praxis ist auch bei einer angespannten, rezessiven Wirtschaftslage und
+dem damit verbundenen Risiko, dass die Möglichkeit, andere Aufträge
+vorzuziehen, nicht mehr oder nur in eingeschränktem Masse besteht, anwendbar. Beschäftigungsschwankungen
+auf Grund verstärkter Konkurrenzsituation stellen im Baugewerbe ein normales Betriebsrisiko
+dar. Diese auf das Bauhauptgewerbe anwendbare Rechtsprechung gilt sinngemäss
+auch für das Baunebengewerbe (vgl. u.a. das Urteil des Bundesgerichts C 237/06
+vom 6. März 2007 E. 2., zitiert in Rz D6 der Weisung AVIG KAE).
+
+3.3.4.  Gemäss Rz D6b der Weisung AVIG KAE kann eine rezessive
+Wirtschaftslage ausreichen, dass Unternehmen in Schwierigkeiten geraten. Die
+damit verbundenen Arbeitsausfälle sind nicht mehr dem normalen Betriebsrisiko
+zuzurechnen, sofern der Arbeitgeber plausibel zu begründen vermag, dass die
+Arbeitsausfälle effektiv auf die rezessive Wirtschaftslage zurückzuführen sind.
+Daran ändert auch nichts, dass alle Arbeitgebenden gleichermassen von der
+Rezession betroffen sein können. Führt der Arbeitgeber den Arbeitsausfall,
+abgesehen vom Argument der rezessiven Wirtschaftslage, demgegenüber
+hauptsächlich auf Ursachen zurück, die nicht direkt mit der Wirtschaftslage zusammenhängen
+(wie z. B. Terminverzögerungen infolge Einsprachen im
+Baubewilligungsverfahren), reicht der einfache Verweis auf die Rezession nicht
+aus, um einen Anspruch auf Kurzarbeitsentschädigung zu begründen. Denn in
+diesem Fall ist der adäquate Kausalzusammenhang zwischen der rezessiven
+Wirtschaftslage und den Auftragseinbussen bzw. dem Arbeitsausfall nicht
+gegeben. Von einer rezessiven Wirtschaftslage ist insbesondere dann auszugehen,
+wenn Umsatzeinbussen oder Einbrüche im Auftragsbestand verbunden mit negativen
+Wirtschaftsprognosen bei einer erheblichen Anzahl von Betrieben in der gesamten
+Wirtschaft oder von bestimmten Branchen vorliegen.
+
+3.4. 3.4.1.  Die Beschwerdeführerin begründet den anrechenbaren
+Arbeitsausfall damit, es seien Anfang des Jahres 2023 drei von der C____ AG in
+Auftrag gegebene Projekte in der Entwurfsphase  kurz vor dem Baugesuch  auf
+unbestimmte Zeit sistiert worden. Diese drei Projekte hätten für eine
+ausreichende Beschäftigung während des gesamten Jahres gesorgt. Da Ende 2022
+mehrere Projekte hätten abgeschlossen werden können, habe man wegen der unverhofften
+Sistierung der besagten drei Projekte aktuell keine Aufträge (vgl. insb. die
+Beschwerde). Dem ist jedoch entgegenzuhalten, dass sich die Beschwerdeführerin mit
+ihrer Vorgehensweise bewusst auf eine Hauptkundin (C____ AG) konzentriert hat und
+daher ein vorhersehbares (Klumpen-)Risiko eingegangen ist. Sie räumt selber
+ein, eine kurzfristige Neubeschaffung von Projekten sei bislang nicht möglich
+gewesen (vgl. die Beschwerde; siehe auch die Voranmeldung [AB 1]). Mit
+Schreiben vom 14. Juni 2023 erklärte sie, sofern nicht eine überraschende
+kurzfristige Beauftragung reinkomme, ändere sich so schnell nichts. Für 2024
+habe man bereits zwei grössere Aufträge und man stehe in Gesprächen mit
+potentiellen Auftraggebern. Aber in ihrer Branche gehe eine Beauftragung nicht
+so schnell (vgl. AB 6). Des Weiteren wies sie darauf hin, ob die stornierten
+Projekte doch noch zur Ausführung fortgesetzt werden, würden (erst) die
+nächsten Monate ergeben (vgl. die Voranmeldung; AB 1). Die C____ AG führte
+ihrerseits mit Schreiben vom 29. Juni 2023 aus, i m
+Jahr 2023 sei nicht davon auszugehen, dass diesbezüglich weitere Planungs- und
+Umsetzungsaufträge erteilt würden (vgl. AB 6). Die Beschwerdeführerin vermag
+damit nicht glaubhaft darzutun, dass in absehbarer Zeit die erneute Nachfrage
+des bisherigen Abnehmers wieder zu Vollbeschäftigung führt oder dass neue
+Absatzmärkte erschlossen werden können. Der Auftragseinbruch resp. die fehlende
+Beschäftigungsmöglichkeit der Mitarbeitenden, ist damit  gerade auch mit Blick
+auf die strenge Rechtsprechung des Bundesgerichts (Stichwort
+"Klumpenrisiko") dem gewöhnlichen Betriebsrisiko zuzurechnen (vgl.
+dazu Erwägung 3.3.2. hiervor).
+
+3.4.2. Auch soweit die
+Beschwerdeführerin geltend macht, die Sistierung der Aufträge sei aufgrund der "aktuellen
+Inflationslage" sowie "deutlich erhöhten Baukosten" erfolgt
+(vgl. insb. die Beschwerde), kann ihr nicht ohne Weiteres gefolgt werden. Die C____
+AG legte nämlich mit Schreiben vom 29. Juni 2023 (AB 6) dar, aufgrund
+angepasster interner Wirtschaftlichkeitsanforderungen könne man derzeit keine
+abschliessende Entscheidung zu den vorgenannten Projekten kommunizieren (vgl.
+AB 6). Weshalb genau die Sistierung erfolgt ist, lässt sich daher nicht klar
+eruieren. Namentlich kann nicht ohne Weiteres davon ausgegangen werden, dass die
+Sistierung aufgrund gestiegener Baukosten vorgenommen wurde.
+
+3.4.3.  Des Weiteren wurde von der Beschwerdegegnerin zu Recht auch
+eine rezessive Wirtschaftslage als nicht gegeben erachtet (vgl. den
+Einspracheentscheid). Denn  wie dargetan wurde  ist von einer rezessiven
+Wirtschaftslage insbesondere dann auszugehen, wenn Umsatzeinbussen oder
+Einbrüche im Auftragsbestand verbunden mit negativen Wirtschaftsprognosen bei
+einer erheblichen Anzahl von Betrieben in der gesamten Wirtschaft oder von
+bestimmten Branchen vorliegen (vgl. Erwägung 3.3.4. hiervor). Gemäss Rz D6b der
+Weisung AVIG KAE kann sich ein unterstützender Hinweis auf eine rezessive
+Wirtschaftslage u.a. aus einer massiven Zunahme der Voranmeldungen von
+Kurzarbeit im Vergleich zum selben Monat des Vorjahres ergeben. Die Beschwerdegegnerin
+hat nunmehr dargetan, es seien aktuell lediglich zwei Voranmeldungen
+eingegangen (vgl. dazu S. 4 der Beschwerdeantwort). Es besteht kein Anlass, an
+der Richtigkeit dieser Darstellung zu zweifeln. Weitere unterstützende Hinweise
+können sich gemäss Rz D6b der Weisung AVIG KAE u.a. aus den folgenden Indizien
+ergeben: den Konjunkturanalysen des Bundes zur Gesamtwirtschaft und zu
+grösseren Wirtschaftszweigen (Publikation "Konjunkturtendenzen"), dem
+KOF-Konjunkturbarometer, KOF-Beschäftigungs- und Geschäftslageindikator, sowie der
+Entwicklung des Bauindexes.
+
+3.4.4.  Die Beschwerdegegnerin nimmt Bezug auf die
+Konjunkturanalyse des Bundes zur Gesamtwirtschaft und zu grösseren
+Wirtschaftszweigen ("Konjunkturtendenzen"; vgl. S. 4 der
+Beschwerdeantwort). Darin wurde Folgendes festgehalten: Die Bauinvestitionen hätten
+sich im ersten Quartal im Wesentlichen stabil auf tiefem Niveau entwickelt
+(-0,1 %), wobei die Investitionen in Wohn- und Gewerbebau angestiegen seien.
+Zwar sei die Witterung im ersten Quartal günstig gewesen, und auch die
+Belastung durch die internationalen Lieferengpässe sei zurückgegangen, wodurch
+der Preisdruck im Bau etwas abgenommen habe. Jedoch werde die Bauwirtschaft
+weiter durch einen ausgeprägten Fachkräftemangel belastet. Dieser habe sich
+aber im ersten Quartal nicht noch weiter verstärkt. Des Weiteren wurde
+klargestellt, die Auftragslage im Baugewerbe habe sich zuletzt auf hohem Niveau
+abgeschwächt, der Saldo der KOF-Umfrage sei aber noch immer höher als in den
+letzten zehn Jahren gewesen. Die Auftragslage werde im Ausbaugewerbe und im
+Hochbaugewerbe nach wie vor als sehr gut bewertet (vgl.
+"Konjunkturtendenzen" SECO, Sommer 2023, S. 4 f.). Nichts anderes
+ergibt sich aus den "Konjunkturtendenzen" SECO, Winter 22/23, wonach
+die Auftragslage sich zuletzt wieder etwas verbessert habe und im historischen
+Vergleich sehr hoch sei (vgl. S. 5).
+
+3.4.5.  Gemessen auch an diesen statistischen Daten ist es
+daher insgesamt nicht als hinreichend begründet anzusehen, dass die Arbeitsausfälle
+effektiv auf die rezessive Wirtschaftslage zurückzuführen und daher nicht mehr zum
+normalen Betriebsrisiko gehören (vgl. dazu Erwägung 3.3.4. hiervor).
+
+3.5. Aus all dem folgt, dass die Beschwerdegegnerin zu Recht mit Einspracheentscheid
+vom 10. Juli 2023 die gegen die Verfügung des Amtes für Wirtschaft und Arbeit
+vom 27. April 2023 (betr. die Bewilligung der Auszahlung von Kurzarbeitsentschädigung
+für den Gesamtbetrieb der Beschwerdeführerin für die Zeit vom 15. Mai 2023
+bis 14. August 2023) erhobene Einsprache des SECO gutgeheissen hat.
+
+4.
+
+4.1. Damit ist die Beschwerde abzuweisen und der Einspracheentscheid vom
+10. Juli 2023 zu bestätigen.
+
+4.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      Die Beschwerde wird abgewiesen und der
+Einspracheentscheid vom 10. Juli 2023 bestätigt.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                  Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder                                           lic.
+iur. S. Dreyer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin         seco
+
+Versandt am:
