@@ -1,0 +1,328 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.248"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2023.4"
+docket_2: "SVG.2023.248"
+decided: "2023-07-12"
+published: "2026-06-20"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76168&W10_KEY=3402894&nTrefferzeile=186&Template=search_result_document.html"
+cites_decisions: ["8C_380/2020", "AL.2023.4", "B-2310/2020", "BGE 125 V 465", "BGE 126 V 399", "BGE 129 V 110"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/837.0/art-008.md", "switzerland/bund/acts/837.0/art-095.md"]
+---
+
+# AVIG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 12.
+Juli 2023
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz),
+lic. iur. M. Prack Hoenen, MLaw B. Fürbringer
+
+und
+Gerichtsschreiberin lic. iur. A. Gmür
+
+Parteien
+
+A ____
+
+Beschwerdeführer
+
+B____
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2023.4
+
+Einspracheentscheid vom 20. März
+2023
+
+Rückforderung; Voraussetzung der
+zweifellosen Unrichtigkeit nicht erfüllt
+
+Tatsachen
+
+I.
+
+Der 1982 geborene Beschwerdeführer meldete sich per 1. Juli
+2020 zum Bezug von Arbeitslosenentschädigung an (vgl. Beschwerdeantwortbeilage
+[BA] 4). In der Folge erhielt der Beschwerdeführer ab Juli 2020 von der
+Beschwerdegegnerin Arbeitslosenentschädigung ausbezahlt (BA 12). Aufgrund von Arbeitsunfähigkeitsattesten
+vom 17. Februar und 1. März 2021, welche durch einen Arzt in [...] ausgestellt und
+vom Beschwerdeführer eingereicht wurden (BA 33), hatte die Beschwerdegegnerin
+Zweifel am Schweizerischen Domizil des Beschwerdeführers. Sie überwies die
+Sache zur Abklärung des Schweizerischen Wohnsitzes an die Kantonale Amtsstelle
+für Arbeitslosenversicherung (KAST) in [...] (vgl. Schreiben vom 1. April 2021,
+BA 34). Dies teilte sie gleichentags dem Beschwerdeführer mit (vgl. Schreiben
+vom 1. April 2021, BA 35). Zudem stellte die Beschwerdegegnerin die Ausrichtung
+der Arbeitslosenentschädigung per 15. April 2021 ein (Schreiben vom 27. Juli
+2021, BA 41). Mit Verfügung vom 30. Juli 2021 teilte die KAST dem Beschwerdeführer
+mit, dass er seinen gewöhnlichen Aufenthalt zwischen dem 17. Juli 2020 und dem
+16. Juli 2021 nicht in der Schweiz hatte. Dementsprechend werde der Anspruch
+auf Arbeitslosenentschädigung ab dem ersten Kontrolltag am 17. Juli 2020 bis
+zum 16. Juli 2021 verneint (BA 42). Diese Verfügung erwuchs unangefochten in
+Rechtskraft.
+
+Mit Verfügung vom 19. Januar 2023 forderte die
+Beschwerdegegnerin vom Beschwerdeführer Fr. 22'321.05 an
+Arbeitslosenentschädigung für die Zeit vom 17. Juli 2020 bis 12. März 2021 zurück
+(BA 53). Dagegen wehrte sich der Beschwerdeführer mit Einsprache vom 7. Februar
+2023 (BA 57) und verbesserter Begründung vom 26. Februar 2023 (BA 56). Mit
+Einspracheentscheid vom 20. März 2023 wies die Beschwerdegegnerin die
+Einsprache ab und hielt an der Rückforderung im Umfang von Fr. 22'321.05 fest
+(BA 59).
+
+II.
+
+Mit Beschwerde vom 17. April 2023 (Postaufgabe: 18. April 2023)
+beantragt der Beschwerdeführer sinngemäss die Aufhebung des
+Einspracheentscheids vom 20. März 2023.
+
+Mit Beschwerdeantwort vom 4. April 2023 schliesst die
+Beschwerdegegnerin auf Abweisung der Beschwerde.
+
+Mit Replik vom 18. Juni 2023 hält der Beschwerdeführer im
+Wesentlichen am gestellten Rechtsbegehren fest.
+
+III.
+
+Nachdem keine der Parteien eine Parteiverhandlung verlangt hat, findet am 12.
+Juli 2023 die Beratung durch die Kammer des Sozialversicherungsgerichtes statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist zur Beurteilung der
+vorliegenden Beschwerde sachlich zuständig (Art. 56 Abs. 1 i.V.m. Art. 57 des
+Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des
+Sozialversicherungsrechts [ATSG; SR 830.1] in Verbindung mit § 82 Abs. 1 des
+Gesetzes vom 3. Juni 2015 betreffend die Organisation der Gerichte und der
+Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG; SG 154.100] und § 1 Abs.
+1 des Gesetzes vom 9. Mai 2001 über das Sozialversicherungsgericht des Kantons
+Basel-Stadt und über das Schiedsgericht in Sozialversicherungssachen
+[Sozialversicherungsgerichtsgesetz, SVGG; SG 154.200]). Die örtliche
+Zuständigkeit des angerufenen Gerichts ergibt sich aus Art. 100 Abs. 3 des
+Bundesgesetzes vom 25. Juni 1982 über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung
+(Arbeitslosenversicherungsgesetz, AVIG; SR 837.0) in Verbindung mit Art. 128
+Abs. 1 sowie Art. 119 Abs. 1 lit. e der Verordnung vom 31. August 1983 über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+(Arbeitslosenversicherungsverordnung, AVIV; SR 837.02).
+
+1.2. Da die Beschwerde fristgerecht eingereicht worden ist und auch die
+übrigen formellen Voraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+
+2.
+
+2.1. Mit Einspracheentscheid vom 20. März 2023 weist die
+Beschwerdegegnerin die Einsprache des Beschwerdeführers ab und bestätigt die
+Rückforderung in Höhe von Fr. 22'321.05 für zu viel ausgerichtete
+Arbeitslosenentschädigung für die Zeit von Juli 2020 bis März 2021. Zur
+Begründung führte sie im Wesentlichen an, sie sei an die Entscheidungen der
+kantonalen Amtsstelle für Arbeitslosenversicherung gebunden. Diese habe mit
+rechtskräftiger Verfügung vom 30. Juli 2021 entschieden, dass der
+Beschwerdeführer vom 17. Juli 2020 bis 16. Juli 2021 keinen Wohnsitz in der
+Schweiz gehabt habe. In diesem Zusammenhang sei darauf hinzuweisen, dass die
+Wohnsitznahme eine Voraussetzung für die Gewährung von Arbeitslosenentschädigung
+sei. Mangels Wohnsitzes in der Schweiz habe der Beschwerdeführer keinen
+Anspruch mehr auf Taggelder vom 17. Juli 2020 bis 16. Juli 2021 gehabt. Die
+Taggelder seien ihm offensichtlich zu Unrecht ausbezahlt worden. Angesichts der
+periodisch ausbezahlten Beiträge könne auch die erhebliche Bedeutung der
+Berichtigung bejaht werden. Schliesslich habe die Beschwerdegegnerin auch die
+dreijährige Frist für die Rückforderung eingehalten. Damit seien sämtliche
+Voraussetzungen für eine Rückforderung erfüllt (BA 59).
+
+2.2. Der Beschwerdeführer bringt demgegenüber vor, dass er 22 Jahre lang
+in Basel gelebt habe, wo sich seine gesamte Familie und alle seine Freunde
+befinden. Er habe von April 2019 bis Dezember 2021 im Kanton [...] bei seiner
+Ex-Partnerin gelebt, aber weiterhin im Kanton Basel-Stadt gearbeitet. Während
+der Covid-Krise im Jahr 2020 habe sein Arbeitsverhältnis geendet. Da er im
+Kanton [...] bei seiner ehemaligen Partnerin gelebt habe, habe er sich beim
+kantonalen Arbeitsamt in [...] angemeldet. Entgegen der Ansicht der
+Beschwerdegegnerin habe er in der Schweiz nach wie vor Wohnsitz gehabt. Er sei
+zwar nicht immer in [...] gewesen, sondern sei oft nach Basel und dort auch zum
+Arzt gegangen. Aber dies sei normal, da er 22 Jahr in Basel verbracht habe und
+damit 2/3 seines Lebens. Die Behauptungen der Beschwerdegegnerin seien völlig
+unbegründet. Darüber hinaus habe er oft Termine bei seinem RAV-Berater in [...]
+wahrgenommen. Auf seinen Vorschlag hin habe er sogar eine mehrwöchige
+Ausbildung im Kanton [...] absolviert. Auch seine Ex-Partnerin könne
+bestätigen, dass er bei ihr gelebt habe. Schliesslich macht der
+Beschwerdeführer geltend, dass er die Verfügung vom 30. Juli 2021 der KAST nie
+persönlich erhalten habe (Beschwerde vom 17. April 2023 und Replik vom 18. Juni
+2023).
+
+2.3. Strittig und zu prüfen ist die Rechtmässigkeit der Rückforderung in Höhe von Fr. 22'321.05.
+
+3.
+
+3.1. Gemäss Art. 8 Abs. 1 lit. c AVIG setzt der Anspruch auf
+Arbeitslosenentschädigung unter anderem voraus, dass der Versicherte in der
+Schweiz wohnt. Der Begriff des Wohnens in der Schweiz ist nicht im Sinne des
+zivilrechtlichen Wohnsitzes (Art. 23 ff. ZGB) zu verstehen, sondern setzt den
+gewöhnlichen Aufenthalt in der Schweiz voraus; verlangt werden der tatsächliche
+Aufenthalt in der Schweiz und die Absicht, diesen während einer gewissen Zeit
+aufrechtzuerhalten und hier in dieser Zeit auch den Schwerpunkt der Lebensbeziehungen
+zu haben (BGE 125 V 465 E. 2a S. 467; 115 V 448 E. 1b   S. 449).
+
+Nach der Rechtsprechung setzt das Wohnen in der Schweiz im Sinne
+von Art. 8 Abs. 1 lit. c AVIG nicht einen ununterbrochenen
+tatsächlichen Aufenthalt im Inland voraus. Es genügt der gewöhnliche Aufenthalt
+in der Schweiz. Dessen Fortdauern in der Schweiz setzt aber unter anderem
+voraus, dass trotz Unterbrüchen des tatsächlichen Aufenthalts weiterhin eine
+enge Verbindung mit der hiesigen Arbeitswelt besteht. Keinesfalls genügt es für
+die Bejahung des gewöhnlichen Aufenthalts, wenn sich der Bezug zur Schweiz auf
+die regelmässige Rückkehr zwecks Erfüllung der Kontrollvorschriften beschränkt.
+
+In zeitlicher Hinsicht ist die Anspruchsvoraussetzung des Wohnens nicht nur
+bei Eintritt des Versicherungsfalles zu erfüllen, das heisst am Stichtag für
+die Festlegung der Rahmenfrist, sondern während des gesamten Zeitraumes, für
+den Leistungen geltend gemacht werden. Dies ergibt sich aus dem Verbot des
+Leistungsexports und dem Prinzip der Verfügbarkeit (Urteil des Bundesgerichts
+vom 24. September 2020 [8C_380/2020], E. 2.2.).
+
+3.2. Gemäss Art. 95 Abs. 1 AVIG in Verbindung Art. 25
+Abs. 1 ATSG sind unrechtmässig bezogene Leistungen zurückzuerstatten. Eine
+aufgrund einer formell rechtskräftigen Verfügung ausgerichtete Leistung ist
+allerdings nur zurückzuerstatten, wenn entweder die für die Wiedererwägung (wegen
+zweifelloser Unrichtigkeit und erheblicher Bedeutung der Berichtigung, Art. 53
+Abs. 2 ATSG) oder die prozessuale Revision (wegen vorbestandener neuer
+Tatsachen oder Beweismittel, Art. 53 Abs. 1 ATSG) erforderlichen
+Voraussetzungen erfüllt sind. Dies gilt auch für Entscheide, die formlos
+getroffen worden sind, insbesondere für Abrechnungen (Art. 53 ATSG, BGE 129 V
+110 E. 1.1, 126 V 399 E. 1, je mit Hinweisen). Zweifellos
+unrichtig ist eine Leistungszusprechung, wenn sie erwiesenermassen
+gesetzeswidrig ist. Nicht die Grobheit des Fehlers ist entscheidend. Massgebend
+muss vielmehr das Ausmass der Überzeugung sein, dass die bisherige Entscheidung
+unrichtig war. Es darf kein vernünftiger Zweifel bestehen, dass eine
+Unrichtigkeit vorliegt (Urteil des Bundesverwaltungsgerichts vom 27. Dezember
+2021 [B-2310/2020], E. 2.5 mit Hinweis auf BGE
+126 V 399 E. 2b/bb ).
+
+4.
+
+4.1. Vorliegend beruht die von der Beschwerdegegnerin vorgenommene
+Rückforderung auf der in der rechtskräftigen Verfügung vom 30. Juli 2021 von
+der KAST festgestellten Tatsache, dass der Beschwerdeführer keinen Wohnsitz in
+der Schweiz habe (BA 42). Indem die Beschwerdegegnerin mit Einspracheentscheid
+vom 20. März 2023 vom Beschwerdeführer Fr. 22'321.05 zurückfordert, nimmt sie
+implizit eine Wiedererwägung vor. Zu prüfen ist damit in einem ersten Schritt,
+ob sich die Taggeldabrechnungen der Beschwerdegegnerin von Juli 2020 bis März
+2021 nachträglich als zweifellos unrichtig erweisen (vgl. BGE 126 V 399, E.
+2cc)).
+
+4.2. Dies ist mit Blick auf die Aktenlage zu verneinen. Zunächst ist
+darauf hinzuweisen, dass die Tatsache, dass der Beschwerdeführer in [...]
+ausgestellte Arztzeugnisse eingereicht hat, nicht genügt, um die
+offensichtliche Unrichtigkeit der Ausrichtung der Taggelder als erfüllt
+anzusehen. In diesem Zusammenhang ist zu beachten, dass der Beschwerdeführer - bevor
+er sich in [...] zum Bezug von Arbeitslosenentschädigung angemeldet hat -
+seinen Wohnsitz in Basel hatte und dort seiner Arbeit nachging (BA 4, 8c und 8d).
+Dass er aufgrund der geografischen Nähe zum [...] einen dort ansässigen Arzt
+aufsuchte, erscheint vor diesem Hintergrund als nachvollziehbar. Jedenfalls
+kann alleine aufgrund dessen nicht die Schlussfolgerung gezogen werden, es
+bestehe kein Wohnsitz bzw. Aufenthalt in der Schweiz und dem Beschwerdeführer
+seien infolgedessen die Taggelder offensichtlich unrichtig ausbezahlt worden.
+Gegen die offensichtliche Unrichtigkeit spricht im Übrigen auch die Tatsache,
+dass der Beschwerdeführer im September 2020 während 7 Tagen an einem Programm zur
+vorübergehenden Beschäftigung in [...] im Kanton [...] teilgenommen hat (BA
+17). Sodann ist den Akten zu entnehmen, dass er über eine Wohnsitzbescheinigung
+in [...] im Kanton [...] verfügte (BA 1). Zudem hat sich der Beschwerdeführer
+im Dezember 2020 beim Migrationsamt des Kantons [...] um eine biometrische
+Aufenthaltsgenehmigung bemüht (BA 21). Schliesslich ist aus den Akten
+ersichtlich, dass der Beschwerdeführer über die Aufenthaltsbewilligung C
+verfügt (BA 43). Unter Berücksichtigung all dieser Tatsachen ist deshalb die
+ursprüngliche Annahme der Beschwerdegegnerin, der Beschwerdeführer habe seinen
+Wohnsitz bzw. Aufenthalt in der Schweiz, nicht als offensichtlich unrichtig zu
+bezeichnen.
+
+Soweit sich die Beschwerdegegnerin in diesem Zusammenhang auf die in
+Rechtskraft erwachsene Verfügung der KAST vom 30. Juli 2021 bezüglich der
+Wohnsitzfrage beruft, ist auf die bundesgerichtliche Rechtsprechung
+hinzuweisen. Danach ist zwar der Feststellungsentscheid der kantonalen
+Amtsstelle für die Kasse bindend. Im Rückforderungsverfahren hingegen hat sie
+zu prüfen, ob die Wiedererwägungs- oder Rückforderungsvoraussetzungen erfüllt
+sind (BGE 126 V 399, E. 2cc)). Dies ist nach dem oben Dargelegten nicht der
+Fall. Anzumerken bleibt, dass mit Blick auf die Aktenlage zweifelhaft ist, ob
+der Beschwerdeführer die Verfügung der KAST vom 30. Juli 2021 überhaupt
+persönlich erhalten hat und sie ihm entgegengehalten werden kann. Dies kann
+indes nach dem Vorerwähnten offengelassen werden.
+
+4.3. Gesamthaft betrachtet kann die Abrechnung der
+Arbeitslosenentschädigung für die Monate Juli 2020 bis März 2021 nicht als
+zweifellos unrichtig im Sinne von Art. 53 Abs. 2 ATSG bezeichnet werden. Aus
+diesen Gründen fällt eine diesbezügliche Rückforderung von zu
+viel ausgerichteter Arbeitslosenentschädigung ausser Betracht.
+
+5.
+
+5.1. Aus diesen Erwägungen folgt, dass die Beschwerde vom 17. April 2023
+(Postaufgabe: 18. April 2023) gutzuheissen und der Einspracheentscheid vom 20.
+März 2023 aufzuheben ist.
+
+5.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        In Gutheissung der Beschwerde vom 17. April
+2023 wird der Einspracheentscheid vom 20. März 2023 aufgehoben.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+Dr. G. Thomi lic.
+iur. A. Gmür
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          seco
+
+Versandt am:
