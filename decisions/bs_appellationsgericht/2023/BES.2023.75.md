@@ -1,0 +1,387 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.513"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.75"
+docket_2: "AG.2023.513"
+decided: "2023-08-14"
+published: "2024-02-02"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75642&W10_KEY=3048482&nTrefferzeile=425&Template=search_result_document.html"
+cites_decisions: ["SB.2022.43"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-087.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.75
+
+ENTSCHEID
+
+vom 14.
+August 2023
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiber
+MLaw Lukas von Kaenel
+
+Beteiligte
+
+A____ , geb. [...]                                                             Beschwerdeführer
+
+[...]
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+vom 21. Februar 2023
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Mit Strafbefehl
+der Staatsanwaltschaft Basel-Stadt vom 26. Oktober 2022 wurde A____ der
+mehrfachen Beschimpfung, des Hausfriedensbruchs, der Gewalt und Drohung gegen
+Behörden und Beamte, der Hinderung einer Amtshandlung, des Fahrens ohne Licht
+bei beleuchteter Strasse nachts sowie des unerlaubten Befahrens des Trottoirs
+schuldig erklärt und zu einer Geldstrafe von 120 Tagessätzen zu CHF 10.
+sowie zu einer Busse von CHF 80., bei schuldhaftem Nichtbezahlen
+ersatzweise zu einer Freiheitsstrafe von 1 Tag, verurteilt. 8 Tagessätze
+der Geldstrafe wurden dabei durch den ausgestandenen Freiheitsentzug getilgt.
+Darüber hinaus wurden ihm die Kosten des Verfahrens in Höhe von insgesamt
+CHF 1'973.60 auferlegt.
+
+Dagegen erhob A____
+mit handschriftlicher Eingabe vom 9. Februar 2023 Beschwerde bei der
+Staatsanwaltschaft (Posteingang am 10. Februar 2023). Die Staatsanwaltschaft
+überwies die Akten mit dem Hinweis, dass sie am Strafbefehl festhalte und die
+Einsprache als verspätet erachte, zuständigkeitshalber an das Einzelgericht in
+Strafsachen. Mit Verfügung vom 21. Februar 2023 trat das Einzelgericht in
+Strafsachen auf die Einsprache des Beschwerdeführers infolge Verspätung nicht
+ein.
+
+A____
+(nachfolgend Beschwerdeführer) hat auf den verfügten Nichteintretensentscheid
+vom 21. Februar 2023 mit einem undatierten handschriftlichen Schreiben an das
+Strafgericht reagiert (Posteingang am 3. April 2023). Die zuständige
+Strafgerichtspräsidentin hat die Eingabe des Beschwerdeführers mit Schreiben
+vom 12. April 2023 zuständigkeitshalber an das Appellationsgericht
+weitergeleitet. Der vorliegende Entscheid ist aufgrund der Akten ergangen. Die
+Einzelheiten der Parteistandpunkte ergeben sich  soweit sie für den Entscheid
+von Bedeutung sind  aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+angefochtene Verfügung des Einzelgerichts in Strafsachen vom 21. Februar
+2023 ist ein Nichteintretensentscheid, mit dem nicht materiell über Straffragen
+befunden wird. Es kommt daher gemäss Art. 393 Abs. 1 lit. b in Verbindung mit Art.
+80 Abs. 1 der Schweizerischen Strafprozessordnung (StPO, SR 312.0) das
+Beschwerdeverfahren zur Anwendung. Zuständiges Beschwerdegericht ist das
+Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in Verbindung mit § 93 Abs.
+1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Der
+Beschwerdeführer hat ein rechtlich geschütztes Interesse an der Aufhebung des
+angefochtenen Entscheids und ist somit zur Beschwerde legitimiert (Art. 382
+Abs. 1 StPO).
+
+1.2
+
+1.2.1 Gemäss
+Art. 396 Abs. 1 StPO ist die Beschwerde gegen schriftlich oder mündlich
+eröffnete Entscheide innert 10 Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen. Die Frist beginnt am Tag nach der Eröffnung beziehungsweise
+Zustellung zu laufen (Art. 90 Abs. 1 StPO). Wird der Empfänger einer
+eingeschriebenen Briefpostsendung oder Gerichtsurkunde nicht angetroffen und
+wird daher eine Abholeinladung in seinen Briefkasten oder in sein Postfach
+gelegt, so wird die Sendung in jenem Zeitpunkt als zugestellt erachtet, in
+welchem sie auf der Poststelle abgeholt wird. Geschieht dies nicht innert der
+Abholfrist von sieben Tagen, wird angenommen, dass die Sendung am letzten Tag
+dieser Frist zugestellt wurde, sofern der Adressat mit einer Zustellung rechnen
+musste (Art. 80 Abs. 4 lit. a StPO). Die Frist ist eingehalten, wenn die
+Beschwerde spätestens am letzten Tag der Frist bei der zuständigen Behörde
+abgegeben oder zu deren Handen der Schweizerischen Post übergeben wird (Art. 91
+Abs. 2 StPO). Der notwendige Inhalt der gemäss Art. 396 Abs. 1 StPO schriftlich
+einzureichenden Begründung richtet sich nach Art. 385 Abs. 1 StPO. Demnach
+ist in der Begründung eines Rechtsmittels genau anzugeben, welche Punkte des
+Entscheides angefochten werden, welche Gründe einen anderen Entscheid nahelegen
+und welche Beweismittel angerufen werden. Bei einer rechtsunkundigen Person
+werden an die Begründungspflicht keine allzu strengen Anforderungen gestellt.
+Allerdings muss auch ein juristischer Laie zumindest sinngemäss angeben,
+inwiefern er den angefochtenen Entscheid für unrichtig respektive fehlerhaft
+hält (AGE BES.2023.70 vom 28. Juni 2023 E. 1.3, BES.2022.32 vom 11. Mai
+2022 E. 1.3).
+
+1.2.2 Aus
+den Akten ergibt sich, dass der angefochtene Nichteintretensentscheid dem
+Beschwerdeführer am 23. Februar 2023 zur Abholung gemeldet wurde und dieser sie
+innert Frist nicht abholte. Damit gilt die Verfügung grundsätzlich ab dem
+letzten Tag der 7‑tägigen Abholfrist, also dem 2. März 2023, als
+zugestellt und wäre seine Beschwerdeeingabe, welche am 3. April 2023 beim
+Strafgericht eingegangen ist, verspätet erfolgt. Wie nachfolgend jedoch
+aufzuzeigen sein wird (vgl. unten E. 2.2.2), bestehen konkrete
+Anhaltspunkte, dass der Beschwerdeführer nicht in der Lage war, seine
+Verfahrensinteressen ausreichend zu wahren und er folglich hätte notwendig
+verteidigt werden müssen. Dass weder die Staatsanwaltschaft noch die Vorinstanz
+eine amtliche Verteidigung bestellten, darf dem Beschwerdeführer nicht zu
+seinem Nachteil gereichen, zumal die Zustellung allein an den Beschwerdeführer
+bei ordnungsgemässer Beigabe einer Verteidigung nicht fristauslösend gewesen
+wäre (vgl. Art. 87 Abs. 3 StPO). Mithin ist die Beschwerde vorliegend als
+fristgerecht eingereicht anzusehen. Darüber hinaus entspricht sie auch den
+Formerfordernissen, da aus der handschriftlichen Eingabe zumindest hervorgeht,
+dass der Beschwerdeführer die angefochtene Verfügung beanstandet und er dabei sinngemäss
+seine fehlende Verteidigung moniert. So schreibt er in seiner Beschwerdeeingabe
+(act. 3) unter anderem: «ich protestiren gegen mörderischen methoden
+Staatsmafia mit gefälschte Aktenzeichen [...] und (Vorinstanz [...]) [] Ab
+sofort Pflichtverteidiger gesetzlich opferanwalt für opferrechten». Damit ist
+den Begründungsanforderungen für den Beschwerdeführer, der offenkundig einer amtlichen
+Verteidigung bedürfte, Genüge getan. Auf die Beschwerde ist somit einzutreten.
+
+2.
+
+2.1 Die
+Vorinstanz hat ihre Nichteintretensverfügung vom 21. Februar 2023 damit
+begründet, dass der Beschwerdeführer seine Einsprache vom 9. Februar 2023 gegen
+den Strafbefehl vom 26. Oktober 2022 verspätet eingereicht habe. Im
+vorliegenden Fall sei der Strafbefehl am 27. Oktober 2022 bei der Schweizerischen
+Post aufgegeben worden und habe die Deutsche Post am 29. Oktober 2022 versucht,
+diesen zuzustellen; gleichentags sei dem Beschwerdeführer gemeldet worden, dass
+er die Sendung abholen könne. Sodann sei am 2. November 2022 die Annahme
+des Strafbefehls verweigert worden. Demzufolge sei in Anwendung von Art. 85
+Abs. 4 lit. b StPO davon auszugehen, dass die zehntägige Einsprachefrist am Tag
+der Annahmeverweigerung zu laufen begonnen und bis zum 14. November 2022
+gedauert habe. Unter diesen Vorzeichen sei die mit dem Datum vom 9. Februar
+2023 versehene Einsprache, die am 10. Februar 2023 bei der Staatsanwaltschaft
+eingegangen sei, offensichtlich verspätet. Anzumerken bleibe, dass die
+Einsprache, selbst wenn keine Annahmeverweigerung stattgefunden hätte, gemäss
+Art. 85 Abs. 4 lit. a StPO verspätet gewesen wäre, hätten doch die im
+Strafbefehl geschilderten Tathandlungen lediglich rund zwei bzw. vier Monate
+vor dem Zustellungsversuch stattgefunden. Im Zeitpunkt des Zustellungsversuchs
+vom 29. Oktober 2022 habe der mit dem Strafbefehlsverfahren vertraute
+Einsprecher demnach mit einer Zustellung seitens der Staatsanwaltschaft rechnen
+müssen. Die zehntätige Einsprachefrist hätte in diesem Fall am letzten Tag der
+siebentägigen Abholungsfrist, also am 7. November 2022, zu laufen begonnen und
+wäre am 17. November 2022 abgelaufen.
+
+2.2 Zur
+Beurteilung der Frage, ob die Einsprache rechtzeitig erfolgt ist, ist zunächst
+zu prüfen, ob der Strafbefehl überhaupt als zugestellt zu gelten hat.
+
+2.2.1 Nach
+Art. 85 Abs. 2 StPO haben die Strafbehörden ihre Mitteilungen
+durch eingeschriebene Postsendung oder auf andere Weise gegen
+Empfangsbestätigung zuzustellen, wobei die Zustellung gemäss Art. 85
+Abs. 3 StPO im dem Zeitpunkt erfolgt, in dem die Sendung entgegengenommen
+wird. Alternativ gilt die Zustellung gemäss der in Art. 85 Abs. 4
+lit. a StPO geregelten Zustellfiktion am siebten Tag nach dem
+erfolglosen Zustellungsversuch als erfolgt, sofern der Empfänger mit einer
+Zustellung rechnen musste. Mitteilungen an Parteien, die einen Rechtsbeistand bestellt
+haben, werden gemäss Art. 87 Abs. 3 StPO rechtsgültig an diesen zugestellt. Eine
+Zustellung allein an eine beschuldigte Person ist in diesem Fall ungültig, löst
+keine Fristen aus und ist zu wiederholen ( Schmid/Jositsch ,
+StPO Praxiskommentar, 3. Aufl. 2018, Art. 87 StPO N 7; Arquint , in: Basler Kommentar StPO,
+2. Aufl. 2014, Art. 87 N 5).
+
+2.2.2 Unbestritten
+und aufgrund der Akten erstellt ist, dass der fragliche Strafbefehl dem
+Beschwerdeführer am 29. Oktober 2022 zur Abholung gemeldet und am
+2. November 2022 die Annahme der eingeschriebenen Postsendung verweigert
+wurde. Unabhängig davon, ob die zehntägige Einsprachefrist mit der
+Annahmeverweigerung oder mit Verstreichen der siebentägigen Abholungsfrist zu
+laufen begonnen hat, wäre die Einsprache des Beschwerdeführers vom
+9. Februar 2023 somit grundsätzlich verspätet erfolgt. Es gilt
+diesbezüglich aber zu berücksichtigen, dass der Beschwerdeführer  wie sogleich
+aufzuzeigen sein wird  im staatsanwaltschaftlichen Verfahren zumindest
+teilweise amtlich vertreten war und im Zeitpunkt des Erlasses des Strafbefehls
+ein Fall einer notwendigen Verteidigung bestanden hat, weshalb die
+rechtsgültige Zustellung des Strafbefehls an einen Rechtsbeistand hätte erfolgen
+müssen.
+
+Die
+Verteidigungssituation des Beschwerdeführers im Untersuchungsverfahren gestaltet
+sich unübersichtlich. Aus den Akten geht hervor, dass der Beschwerdeführer an
+der ersten Einvernahme vom 30. August 2022, am Tag der Festnahme, von B____ verteidigt
+wurde. In einer Aktennotiz vom gleichen Tag hat die Staatsanwaltschaft
+festgehalten, dass für die Einvernahme eine Pikettanwältin, aufgeboten worden
+sei, weil der eigentliche Verteidiger des Beschwerdeführers, C____, verhindert
+gewesen sei. Im Haftantrag der Staatsanwaltschaft vom 30. August 2022
+wurde als amtlicher Verteidiger sodann C____ aufgeführt. An der Verhandlung vor
+dem Zwangsmassnahmengericht vom 31. August 2022 betreffend die Anordnung
+der Untersuchungshaft wurde der Beschwerdeführer wiederum von einem anderen
+Verteidiger, D____, vertreten. Dieser stellte zu Beginn seines Plädoyers indes
+klar, dass der bisherige Verteidiger des Beschwerdeführers C____ zu sein
+scheine und sich seine Vertretung daher auf die Verhandlung vor dem Zwangsmassnahmengericht
+beschränke. Er glaube, dass C____ die amtliche Verteidigung beantragt habe, sei
+sich aber nicht ganz sicher (Protokoll Zwangsmassnahmengericht vom
+31. August 2022 S. 6). Obwohl das Zwangsmassnahmengericht mit
+Verfügung vom 31. August 2022 Untersuchungshaft für die Dauer von 8 Wochen
+anordnete, wurde der Beschwerdeführer mit Verfügung der Staatsanwaltschaft vom
+6. September 2022 aus der Haft entlassen. In einer weiteren Aktennotiz vom
+6. September 2022 stellte die Staatsanwaltschaft klar, dass. C____ in
+einem anderen Verfahren vor dem Appellationsgericht als amtlicher Verteidiger
+des Beschwerdeführers fungiere, nicht aber im vorliegenden. Wie sich die
+Vertretungssituation im Anschluss an die Verhandlung vor dem
+Zwangsmassnahmengericht bzw. die Haftentlassung gestaltete, scheint anhand der
+Akten etwas unklar, zumal sich darin weder eine Verfügung betreffend die
+Gewährung der amtlichen Verteidigung noch eine betreffend einen Widerruf einer
+solchen findet. Ein anschliessendes Beschwerdeverfahren betreffend die
+Anordnung der Untersuchungshaft hat der Beschwerdeführer jedenfalls ohne
+anwaltliche Vertretung angestrebt, wobei weder das Appellationsgericht noch das
+Bundesgericht auf seine Rechtsmittel eingetreten sind. Schliesslich liegt eine
+Verfügung der Staatsanwaltschaft vom 9. Mai 2023 betreffend die Entschädigung der
+amtlichen Verteidigerin B____ vor. Diese bezieht sich auf eine von dieser eingereichte
+Honorarforderung, welche zwar einen Zeitraum vom 29. August 2022 bis 4. Mai
+2023 nennt, aber lediglich Leistungen vom 30. und 31. August 2022 beinhaltet.
+Würde davon ausgegangen, dass die amtliche Verteidigung durch B____ zeitlich
+über die erste Einvernahme hinausging und auch zum Zeitpunkt des Erlasses des
+Strafbefehls noch bestanden hat, hätte der Strafbefehl vom 26. Oktober
+2022 gemäss Art. 87 Abs. 3 StPO rechtsgültig offensichtlich nur an
+diese zustellt werden können. Angesichts aller dargelegten Umstände ist indes nicht
+davon auszugehen. Naheliegender erscheint, dass dem Beschwerdeführer (zumindest
+anfänglich versehentlich unter der Annahme, dass C____ der amtliche Verteidiger
+sei) lediglich für die Einvernahme vom 30. August 2022 und für die
+Verhandlung vor dem Zwangsmassnahmengericht eine amtliche Verteidigung
+beigebracht wurde. Im Übrigen blieb er ohne Rechtsbeistand.
+
+Weshalb die
+Staatsanwaltschaft am 6. September 2022, als sie bemerkte, dass C____ im
+laufenden Verfahren nicht amtlicher Verteidiger des Beschwerdeführers ist,
+keine anwaltliche Vertretung sicherstellte, ist indes nicht nachvollziehbar.
+Zwar ist mit der frühzeitigen Haftentlassung nach 8 Tagen ein Grund für
+die amtliche Verteidigung dahingefallen (vgl. Art. 134 Abs. 1 in Verbindung mit
+Art. 130 lit. a StPO), doch bestand aufgrund des offenkundig fragwürdigen
+geistigen Zustands des Beschwerdeführers weiterhin die Notwendigkeit einer
+Verteidigung (vgl. Art. 130 lit. c StPO). In diesem Sinne erwog das
+Appellationsgericht in einem Beschluss vom 6. April 2023 betreffend die
+Rückweisung der Strafsache an die Vorinstanz, dass derselbe Beschwerdeführer 
+bzw. im dortigen Verfahren Berufungskläger  schon vorinstanzlich hätte
+notwendig verteidigt werden müssen, da aufgrund seiner Eingaben sowie der
+staatsanwaltschaftlichen Einvernahme die grosse Wahrscheinlichkeit bestanden
+habe, dass er nicht in der Lage gewesen sei, seine Verfahrensinteressen zu
+wahren (AGE SB.2022.43 vom 6. April 2023 E. 2.5.3). Gleiches gilt auch für
+das vorliegende Verfahren: Sowohl in seinen diversen Eingaben als auch in den
+Einvernahmen vom 30. und 31. August 2022 bringt er exzessiv vor, er
+sei Opfer einer mörderischen Mafia und sämtliche Vorwürfe seien inszeniert. Er
+werde als psychisch krank abgestempelt, was er nicht akzeptiere. Auch die ihm
+zugestellten Schreiben des Strafgerichts hat er mit diesen und ähnlichen
+Äusserungen versehen. Es scheint ihm denn auch nicht möglich, auf die Fragen
+bzw. Vorwürfe der fragenden Personen einzugehen und darauf zu reagieren.
+Vielmehr betont er an jeder möglichen Stelle die angebliche Polizeigewalt, die
+ihm angetan worden sei. Auf die Frage der Zwangsmassnahmenrichterin, ob er bei
+der [...] AG etwas gestohlen habe, antwortete er etwa, dass seine Kinder
+entführt worden seien und die Staatsanwaltschaft versuche, diesen
+«Horrorskandal» zu verstecken (Protokoll Zwangsmassnahmengericht vom
+31. August 2022 S. 3). Auch gab er an, dass er seine Arbeitsstelle
+verloren habe, weil sein Arbeitgeber ihn als psychisch krank abgestempelt habe
+(Protokoll Zwangsmassnahmengericht vom 31. August 2022 S. 4). Bereits
+in einer Einvernahme zur Person aus dem Jahr 2020 gab er zudem zu Protokoll, er
+sei vier Mal gegen seinen Willen in der Psychiatrie gewesen (Einvernahme zur
+Person vom 8. Juli 2020 S. 2). Anlässlich der Einvernahme vom 30. August
+2022 konnte er wegen seines Verhaltens gar nicht zur Person befragt werden, was
+aus einer weiteren Aktennotiz der Staatsanwaltschaft hervorgeht. Angesichts des
+Dargelegten ist offenkundig, dass der Beschwerdeführer aufgrund seines
+geistigen Zustands nicht in der Lage gewesen ist, seine Verfahrensinteressen zu
+wahren. Dazu gehört insbesondere auch der Entscheid, ob gegen den Strafbefehl
+Einsprache erhoben werden soll, und gegebenenfalls die rechtzeitige und
+effektive Erledigung einer solchen Einsprache. Die Staatsanwaltschaft wäre somit
+gehalten gewesen, ihm eine amtliche Verteidigung sicherzustellen und den
+Strafbefehl folgerichtig im Sinne von Art. 87 Abs. 3 StPO an diese zuzustellen.
+Dass sie dies unterlassen hat, darf dem Beschwerdeführer nicht zu seinem
+Nachteil gereichen, weshalb nicht von einer rechtsgültigen Zustellung des
+Strafbefehls auszugehen ist.
+
+2.2.3 Nach
+dem Erwogenen ist die Zustellung des Strafbefehls nicht rechtsgültig erfolgt,
+womit auch die Einsprachefrist nicht zu laufen begonnen hat.
+
+2.2.4 Ergänzend
+ist darauf hinzuweisen, dass  selbst unter Annahme einer rechtsgültigen
+Zustellung  die Voraussetzungen für eine Wiederherstellung der Einsprachefrist
+nach Art. 94 StPO vorgelegen hätten. Das Appellationsgericht hat bereits in
+einem früheren Entscheid vom 22. November 2019 erwogen, dass den dortigen
+Beschwerdeführer kein Verschulden am Säumnis treffe, da er aufgrund seines
+psychischen Zustands nicht in der Lage gewesen sei, selber ein Rechtsmittel zu
+ergreifen. Mit dieser Begründung hiess es den Widerherstellungsantrag des
+zwischenzeitlich vertretenen Beschwerdeführers gut (BES.2019.62/BES.2019.63 vom
+22. November 2019 E. 4). Vorliegend hat der Beschwerdeführer mit seiner
+Einsprache zwar kein Gesuch um Wiederherstellung der Einsprachefrist gestellt.
+Da ihm trotz seiner psychischen Beeinträchtigungen bis heute kein
+Rechtsbeistand beigegeben wurde, kann ihm dies jedoch nicht vorgeworfen werden.
+
+2.3 Gemäss
+den vorangehenden Ausführungen wäre die Sache grundsätzlich an die
+Staatsanwaltschaft zurückzuweisen mit der Anweisung, dem Beschwerdeführer eine
+amtliche Verteidigung beizugeben und dieser den Strafbefehl vom 26. Oktober
+2022 rechtsgültig zuzustellen. Aus prozessökonomischen Gründen rechtfertigt es
+sich vorliegend aber, die Sache an die Vorinstanz zurückzuweisen mit der
+Anweisung, das Einspracheverfahren durchzuführen und dem Beschwerdeführer eine
+amtliche Verteidigung beizugeben. In diesem Rahmen wird auch zu prüfen sein, ob
+gegebenenfalls eine forensisch‑psychiatrische Begutachtung des
+Beschwerdeführers in Auftrag zu geben ist.
+
+3.
+
+Bei diesem Ausgang des Verfahrens sind keine Gerichtskosten zu erheben
+(Art. 428 Abs. 1 StPO).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird gutgeheissen und die
+Verfügung vom 21. Februar 2023 wird aufgehoben. Das Verfahren wird zur
+materiellen Beurteilung an die Vor­instanz zurückgewiesen.
+
+Für das Beschwerdeverfahren werden keine ordentlichen
+Kosten erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur.
+Christian Hoenen                                         MLaw Lukas von Kaenel
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
