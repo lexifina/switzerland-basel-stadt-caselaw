@@ -1,0 +1,223 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2023.193"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "UV"
+docket: "UV.2023.21"
+docket_2: "SVG.2023.193"
+decided: "2023-09-18"
+published: "2026-06-20"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75758&W10_KEY=3402894&nTrefferzeile=152&Template=search_result_document.html"
+cites_decisions: ["8C_1026/2010", "8C_1056/2010", "8C_217/2021", "BGE 131 II 449", "BGE 134 II 244", "BGE 136 V 131", "BGE 142 V 152", "BGE 146 V 51", "UV.2023.21"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# UVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+Urteil der Präsidentin
+
+vom 18. September 2023
+
+Parteien
+
+A ____
+
+Beschwerdeführer
+
+B____
+
+Beschwerdegegnerin
+
+Gegenstand
+
+UV.2023.21
+
+Einspracheentscheid vom 16.
+Februar 2023
+
+Nichteintreten auf die Beschwerde
+
+Erwägungen
+
+1.
+
+1.1. Der 1981 geborene Beschwerdeführer ist als Lehrer tätig und in
+dieser Eigenschaft bei der Beschwerdegegnerin gegen die Folgen von Berufs- und
+Nichtberufsunfällen versichert. Am 11. Mai 2021 zog sich der Beschwerdeführer
+anlässlich des Turnunterrichts Bänderrisse am Sprunggelenk beidseits zu (vgl.
+Bagatellunfall-Meldung UVG vom 12. August 2021, Beschwerdeantwortbeilage [BA]
+1-2). Nach erfolgten Abklärungen teilte die Beschwerdegegnerin mit Verfügung
+vom 2. Dezember 2021 mit, es bestehe für das Ereignis vom 11. Mai 2021 kein
+Anspruch auf Versicherungsleistungen aus der obligatorischen
+Unfallversicherung. Denn es liege weder ein Unfall noch eine unfallähnliche
+Körperschädigung im Sinne des Gesetzes vor, da die Bandläsion im Bereich des
+rechten oberen Sprunggelenks (OSG) überwiegend wahrscheinlich Ausdruck eines
+krankhaften Prozesses sei (BA 31-34). Dagegen wehrte sich der Beschwerdeführer
+mit Einsprache vom 21. Dezember 2021 (BA 36-50). Nach Einholung einer
+vertrauensärztlichen Beurteilung von Dr. med. C____, Facharzt für Orthopädische
+Chirurgie FMH, vom 19. Januar 2023 (BA 86-91) wies die Beschwerdegegnerin mit
+Einspracheentscheid vom 16. Februar 2023 die Einsprache des Beschwerdeführers
+ab (BA 92-98).
+
+1.2. Dagegen erhebt der Beschwerdeführer bei der Beschwerdegegnerin am
+17. April 2023 sinngemäss Beschwerde, welche die Eingabe mit Schreiben vom 27.
+April 2023 ans Sozialversicherungsgericht Basel-Stadt weiterleitet. Innert der
+mit instruktionsrichterlicher Verfügung vom 3. Mai 2023 angesetzten Frist zur
+Beschwerdeverbesserung reicht der Beschwerdeführer am 15. Mai 2023 eine
+Beschwerdeergänzung ein. Mit Beschwerdeantwort vom 2. August 2023 beantragt die
+Beschwerdegegnerin, die Beschwerde sei vollumfänglich abzuweisen, soweit darauf
+einzutreten sei. Am 7. August und 16. August 2023 geht beim
+Sozialversicherungsgericht Basel-Stadt eine Replik des Beschwerdeführers mit
+ergänzender Begründung ein. Die Parteien haben in ihren Eingaben auf eine
+mündliche Parteiverhandlung verzichtet.
+
+2.
+
+2.1. Das Sozialversicherungsgericht Basel-Stadt ist gemäss Art. 56 Abs. 1
+und Art. 57 des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000 ([ATSG]; SR 830.1) in Verbindung
+mit § 82 Abs. 1 des basel-städtischen Gerichtsorganisationsgesetzes vom 3. Juni
+2015 (GOG; SG 154.100) und § 1 Abs. 1 des kantonalen
+Sozialversicherungsgerichtsgesetzes vom 9. Mai 2001 (SVGG; SG 154.200) als
+einzige kantonale Instanz in sachlicher Hinsicht zur Beurteilung der
+vorliegenden Beschwerde zuständig. Die örtliche Zuständigkeit ergibt sich aus
+Art. 58 Abs. 1 ATSG. Nach § 83 Abs. 2 GOG ist die Präsidentin des
+Sozialversicherungsgerichts berechtigt, einfache Fälle  wie den vorliegenden 
+als Einzelrichterin zu entscheiden.
+
+2.2. Im Folgenden ist zu prüfen, ob auf die Beschwerde einzutreten ist.
+
+3.
+
+3.1. Nach dem für das erstinstanzliche Beschwerdeverfahren massgebenden
+Art. 61 lit. b ATSG muss die Beschwerde eine gedrängte Darstellung des
+Sachverhaltes, ein Rechtsbegehren und eine kurze Begründung enthalten. Diese
+Bestimmung soll dem Gericht hinreichende Klarheit darüber verschaffen, worum es
+beim Rechtsstreit geht. Nach der Praxis genügt es, wenn dies der Beschwerde
+insgesamt entnommen werden kann. Insbesondere muss zumindest aus der Begründung
+unter Einbezug des materiellrechtlichen und verfahrensmässigen Kontextes
+ersichtlich sein, was die Beschwerde führende Person verlangt ( BGE 136 V 131 E.
+1.2 S. 135) und auf welche Tatsachen sie sich beruft (Urteil des Bundesgerichts
+vom 7. Oktober 2011 [8C_1026/2010]  E. 1.2). Die Begründung muss
+sachbezogen sein, damit aus ihr ersichtlich ist, in welchen Punkten und weshalb
+der angefochtene Entscheid beanstandet wird (BGE 131 II 449, 452 E. 1.3; 123 V
+335, 336 E. 1a mit Hinweisen). Dies setzt voraus, dass sich die beschwerdeführende
+Person mit den für das Ergebnis des angefochtenen Entscheids massgeblichen
+Erwägungen auseinandersetzt (BGE 134 II 244, 245 f. E. 2.1 mit Hinweisen). Fehlt
+der Antrag oder die Begründung überhaupt und lassen sie sich auch nicht der
+Beschwerdeschrift entnehmen, so liegt keine rechtsgenügliche Beschwerde vor,
+weshalb auf sie nicht eingetreten werden kann (Urteil des Bundesgerichts vom
+29. Juni 2011 [8C_1056/2010], E. 1.2 mit Hinweisen).
+
+Genügt die Beschwerde diesen Anforderungen nicht, so setzt das
+Versicherungsgericht der Beschwerde führenden Person eine angemessene Frist zur
+Verbesserung und verbindet damit die Androhung, dass sonst auf die Beschwerde
+nicht eingetreten wird. Nach der zu dieser Bestimmung ergangenen Rechtsprechung
+hat im erstinstanzlichen Beschwerdeverfahren die Ansetzung einer Nachfrist zur
+Verbesserung einer mangelhaften Beschwerdeschrift nicht nur bei Unklarheit des
+Rechtsbegehrens oder der Begründung, sondern ganz allgemein immer dann zu
+erfolgen, wenn eine Beschwerde den gesetzlichen Anforderungen nicht genügt;
+also auch dann, wenn ein Rechtsbegehren und/oder eine Begründung überhaupt
+fehlen. Es handelt sich bei der erwähnten Bestimmung um eine formelle
+Vorschrift, die das erstinstanzliche Gericht stets verpflichtet, eine Frist zur
+Verbesserung der Mängel anzusetzen, sofern dadurch nicht in
+rechtsmissbräuchlicher Weise eine Verlängerung der Beschwerdefrist erreicht
+werden soll (Urteil des Bundesgerichts vom 7. Juli 2021 [8C_217/2021], E. 3.3.
+mit Hinweis auf BGE 142 V 152 E. 2.3 mit Hinweisen).
+
+3.2. Mit Blick auf die
+Aktenlage ist festzuhalten, dass der Beschwerde vom 17. April 2023 kein Antrag
+entnommen werden kann. Auch fehlt es an einer sachbezogenen Begründung, so dass
+unter Einbezug des materiell-rechtlichen und verfahrensmässigen
+Kontextes nicht ersichtlich ist, was der Beschwerdeführer verlangt ( BGE 136 V 131 E.
+1.2 S. 135). In der Folge hat die Instruktionsrichterin dem Beschwerdeführer
+die Möglichkeit zur Beschwerdeverbesserung gegeben (vgl.
+instruktionsrichterliche Verfügung vom 2. Mai 2023). Aber auch die Beschwerdeergänzung
+vom 14. Mai 2023 nimmt keinen Bezug zum Einspracheentscheid vom 16. Februar
+2023. So lassen sich der Beschwerdeergänzung vom 14. Mai 2023 keine
+diesbezüglichen formellen oder materiellen Rügen entnehmen. Wiederum fehlt es
+auch an einem Antrag, aus dem hervor geht, was der Beschwerdeführer möchte.
+Schliesslich werden auch in den Replikschreiben vom 7. und 16. August 2023
+keine diesbezüglichen sachbezogenen Ausführungen gemacht. Unter diesen
+Umständen erfüllt die Beschwerde vom 17. April 2023 und die Beschwerdeergänzung
+vom 14. Mai 2023 die unter E. 3.1 beschriebenen Anforderungen in keiner Weise.
+Angesichts der Tatsache, dass im vorinstanzlichen Verfahren die Anforderungen
+an eine Einsprache erfüllt waren und der Beschwerdeführer sachbezogene Einwände
+erhoben hat (vgl. Einsprache vom 21. Dezember 2021, BA 37-41), ist vorliegend
+der Beschwerdegegnerin Recht zu geben und auf die Beschwerde nicht einzutreten.
+
+Selbst wenn nun aber auf die Beschwerde eingetreten würde,
+müsste diese vorliegend abgewiesen werden. Einerseits fehlt es an einem
+Unfallereignis im Sinne von Art. 4 ATSG. Andererseits liegt auch keine
+unfallähnliche Körperschädigung gemäss Art. 6 Abs. 2 des Bundesgesetzes über
+die Unfallversicherung vom 20. März 1981 ([UVG]; SR 832.20) vor. Wie der
+Vertrauensarzt der Beschwerdegegnerin Dr. C____ nachvollziehbar darlegt, handelt
+es sich bei der Läsion des lateralen Bandapparats am OSG um eine überwiegend wahrscheinlich
+vorwiegend auf Abnützung oder Erkrankung zurückführende Problematik (BA 86-91).
+Da keine Hinweise auf eine traumatische Schädigung bestehen, gelingt der
+Beschwerdegegnerin der Entlastungsbeweis (BGE 146 V 51, E. 8.6). Damit hat sie
+zu Recht eine unfallähnliche Körperschädigung ausgeschlossen und eine
+Leistungspflicht abgelehnt.
+
+4.
+
+4.1. Aus diesen Erwägungen folgt, dass auf die Beschwerde nicht einzutreten
+ist.
+
+4.2. Das Verfahren ist kostenlos.
+
+Demgemäss erkennt die
+Präsidentin des Sozialversicherungsgerichts :
+
+://:        Auf die Beschwerde wird nicht eingetreten.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder lic. iur.
+A. Gmür
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt für Gesundheit
+
+Versandt am:
