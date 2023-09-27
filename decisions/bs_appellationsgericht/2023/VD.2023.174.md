@@ -1,0 +1,708 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.396"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2023.174"
+docket_2: "AG.2024.396"
+decided: "2023-09-27"
+published: "2024-06-14"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77041&W10_KEY=3048482&nTrefferzeile=72&Template=search_result_document.html"
+cites_decisions: ["1C_645/2022", "BGE 129 V 411", "BGE 135 I 265", "BGE 141 II 483", "BGE 146 II 335", "VD.2014.248", "VD.2015.177", "VD.2017.143", "VD.2017.175", "VD.2017.86", "VD.2018.146", "VD.2021.104", "VD.2023.147", "VD.2023.174", "VD.2024.17", "VD.2028.146"]
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/814.01/art-010g.md", "switzerland/bund/acts/814.01/art-016.md", "switzerland/bund/acts/814.01/art-017.md", "switzerland/bund/acts/814.41/art-013.md", "switzerland/bund/acts/814.41/art-017.md"]
+---
+
+# Rechtsverweigerung (Beschwerde beim Bundesgericht hängig)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2023.174
+
+VD.2024.17
+
+URTEIL
+
+vom 14.
+Juni 2024
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, Dr.
+Claudius Gelzer, Dr. Andreas Traub
+
+und Gerichtsschreiberin
+Dr. Michèle Guth
+
+Beteiligte
+
+A____ Rekurrent
+
+[...]
+
+gegen
+
+Gemeinde Riehen
+
+Wettsteinstrasse 1, 4125 Riehen
+
+Amt für Umwelt und Energie
+
+Spiegelgasse 15, 4001 Basel
+
+Gegenstand
+
+Rekurs wegen
+Rechtsverweigerung durch den Gemeinderat Riehen
+
+und
+
+Rekurs gegen einen
+Entscheid des Departements für Wirtschaft, Soziales und Umwelt vom 12. Januar
+2024
+
+betreffend Rechtsverweigerung
+
+Sachverhalt
+
+Mit Eingabe vom 31. Oktober 2023 erhob A____ (Rekurrent) beim
+Regierungsrat des Kantons Basel-Stadt Rekurs wegen Rechtsverweigerung durch das
+Amt für Umwelt und Energie (AUE) und den Gemeinderat Riehen (VD.2023.174). Mit
+seiner «Rechtsverweigerungsbeschwerde betr. sofortige Lärmsanierung des [...] , ohne weiteren Aufschub»
+stellt der Rekurrent folgende Anträge:
+
+1. Diese
+Rechtsverweigerungsbeschwerde ist gutzuheissen und die Beklagten sind zu rügen.
+
+2. Die Gemeinde ist
+zu verpflichten, ihre Vorstellungen betr. Sanierungsmassnahmen für eine
+korrekte Lärmsanierung im [...] bis am 25. November 2023 der Vollzugsbehörde
+mitzuteilen. Sollte diese Zeit ungenutzt verstreichen, ist davon auszugehen,
+dass sie definitiv auf ihr Vorschlagsrecht verzichtet.
+
+3. Die Vollzugsbehörde
+ist zu verpflichten alle Massnahmen, welche eine korrekte(!) Lärmsanierung auf
+Dauer(!) ermöglichen, bis zum 5. Dezember 2023 zu verfügen und im Kantonsblatt
+zu veröffentlichen. Dabei wird es ihr freigestellt, ob sie dies als
+Einladungs-/Einwendungsverfahren der definitiven Verfügung voranstellen will
+oder nicht. (Die definitive Verfügung dürfte sich dann um höchstens 3 Monate
+bis zum 5. März 2024 verzögern.)
+
+4. Der definitiven
+Verfügung ist die aufschiebende Wirkung zu entziehen.
+
+5. Da die
+Lärmsanierung «ohne weiteren Aufschub» zu verwirklichen ist, ist der «umgehende
+Ersatz des bestehenden lärmmindernden Belags durch einen neuen lärmmindernden
+Belag» zu verfügen. (Wie dies bereits gefordert wurde.) Weil «umgehend» in casu
+jedoch nicht der geforderten Dringlichkeit genügt, ist in der Verfügung eine
+Frist für die Verwirklichung dieses Belagsersatzes festzusetzen: 31. März 2025.
+
+6. Für die Zeit bis
+zum erfolgten Einbau des neuen Belages sind, gestützt auf Art. 16 Abs. 4
+USG, Art. 17 Abs. 1 LSV und das Vorsorgeprinzip, vorläufige Massnahmen
+anzuordnen, welche eine sofortige und wahrnehmbare Entlastung für die
+lärmgeplagten Anwohner*innen bringt. Diese Verfügung ist bis spätestens am 5.
+März 2024 zu erlassen. Auch dieser Verfügung ist die aufschiebende Wirkung zu
+entziehen.
+
+Weiter verlangt er in dieser Eingabe mit einer «Klage wegen
+Rechtsverweigerungen, Verstösse gegen Art. 10g Abs. 1 USG»:
+
+1. Falls die
+Vollzugsbehörde bei der anstehenden Lärmsanierung im [...] von niedrigeren
+Lärmwerten ausgehen will, als z.Zt. immer noch offiziell im Geo-Portal
+vorhanden sind, so sind  wie im Antrag 2 des Schreibens vom 2. August
+2023 (Beleg 25) gefordert  die Gründe und die Erklärungen hierzu dem Kläger
+fundiert und nachvollziehbar zu erklären und zu belegen.
+
+2. Dem Kläger sind
+die Werte der ganzen Strasse [...] bekannt zu geben, da er das Recht hat, auch
+betreffend anderen Liegenschaften Einsprache zu erheben, weil dies auf seine
+Liegenschaft, bzw. seine Gesundheit und Wohlbefinden massgeblichen Einfluss hat
+(Vorsorgeprinzip).
+
+3. Dem Kläger sind
+alle Fakten, welche zur Lärmberechnung verwendet wurden, gem. Art. 10g Abs. 1
+USG mitzuteilen. Es sind amtliche Dokumente.
+
+Schliesslich beantragt er als «weitere Anträge»:
+
+1. Sollte die Gemeinde
+Riehen gegen die Sanierungsverfügung der Vollzugsbehörde Rekurs erheben, ist
+der Kläger gem. § 14 Abs. 1 und 2 a) VPRG zum Verfahren beizuladen, (dieser
+Antrag ist hiermit gestellt).
+
+2. Alle hier
+gestellten Anträge sind rekursfähig zu entscheiden.
+
+Diese Eingabe überwies der Regierungsrat mit Schreiben vom
+29. November 2023 dem Verwaltungsgericht zum Entscheid und wies darauf hin,
+dass er nur für die Beschwerde betreffend die Gemeinde Riehen zuständig sei und
+«den Rekurs in diesem Sinne dem Gericht» überweise. Mit Bezug auf das AUE sei
+das Departement für Wirtschaft, Soziales und Umwelt zuständig, welches ein
+gesondertes Verfahren führe. Mit Eingabe vom 20. Dezember 2023 rügte der
+Rekurrent die Aufteilung der Verfahren durch den Regierungsrat, ohne einen
+Antrag auf eine erneute Vereinigung der Verfahren zu stellen.
+
+Mit Eingabe vom 12. Januar 2024 edierte das Departement für
+Wirtschaft, Soziales und Umwelt (WSU) dem Gericht seinen Entscheid vom gleichen
+Tag betreffend das AUE, mit welchem der Rekurs des Rekurrenten ohne Erhebung
+von Kosten abgewiesen worden ist, soweit darauf eingetreten worden ist. Gegen
+diesen Entscheid erhob der Rekurrent mit Eingabe vom 17. Januar 2024 Rekurs an
+den Regierungsrat, der den Rekurs mit Schreiben vom 26. Januar 2024 wiederum
+dem Verwaltungsgericht zum Entscheid überwies (VD.2024.17). Mit seinem Rekurs
+beantragt der Rekurrent, das Gericht solle seinen Rekurs «dem Verfahren
+VD.2023.174 angliedern». Mit der Rekursbegründung vom 7. Februar 2024 stellte
+er folgende Anträge:
+
+1. Es sei
+festzuhalten, dass der Rekurrent als direkt Betroffener für die Rechtsverweigerungsbeschwerde
+ auch gegen das Amt für Umwelt und Energie  berechtigt war.
+
+2. Der vorliegende
+Rekurs sei gutzuheissen.
+
+3. Es sei zu
+bestätigen, dass alle Anwohner*innen und Besitzer*innen am [...], Riehen 
+somit auch der Rekurrent  von einer notwendigen Lärmsanierung betroffen und
+daher legitimiert sind, offiziell zu erfahren, ob, wann und wie saniert werden
+wird  und zwar im Voraus, bevor verfügt wird, damit sie ihre Einwände
+anbringen können (Verfassungsverstoss betr. rechtliches Gehör).
+
+4. a) Es sei zu
+bestätigen, dass in casu massive Formfehler gemacht wurden, weshalb die am
+27.09.2023 ergangene «Sanierungs»-Verfügung für ungültig zu erklären ist,
+eventualiter:
+
+b) dass die ergangene Verfügung
+zwingend und sofort allen Betroffenen zugänglich gemacht wird. Damit sie ihre
+Rechte wahrnehmen können.
+
+a+b) Sowohl die Vollzugs- wie die
+Aufsichtsbehörde sind diesbezüglich zu rügen.
+
+5. Bei der
+Ungültigerklärung ist ein sofortiger neuer Entscheid innert 14 Tagen zu
+verlangen, der im sog. Einlassverfahren der unbestimmten Anzahl von Betroffenen
+zugänglich gemacht wird. Danach sei die definitive  rechtlich korrekte 
+Verfügung innert 30 Tagen endgültig zu entscheiden und zu veröffentlichen.
+Diesem Entscheid ist die aufschiebende Wirkung zu entziehen.
+
+6. Bei der
+Ungültigerklärung ist zu verlangen, dass der [...] neu in einer eigenen
+Verfügung behandelt wird. Bei einer Nicht-Ungültigerklärung ist zu entscheiden,
+dass der [...] sofort von der bestehenden Verfügung gelöst und in ein
+eigenständiges Verfahren überführt wird.
+
+7. Beim
+rechtserheblichen Sachverhalt ist sowohl von einer Lärmsanierung «ohne weiteren
+Aufschub», sowie ohne Verknüpfung mit politischen Zielen als auch von der
+ursprünglichen Lärmberechnung vom Juni 2022 auszugehen. Sollte die
+Neuberechnung nach SonROAD18 angewendet werden, ist dies bereits im Rahmen des
+Einlassverfahrens eingehend zu begründen (da Rechtsänderung).
+
+8. Die
+Vollzugsbehörde (AUE) und die sie schützende Aufsichtsbehörde (WSU) sind
+bezüglich der Rechtsverweigerung  im Sinne von Art. 10e Abs. 1 und Art. 10g
+USG bezüglich Nicht-Bekanntgabe der relevanten Fakten für die Neuberechnung des
+Lärms nach SonROAD18  zu rügen und zu verpflichten, dem Rekurrenten alle
+relevanten Fakten derart bekannt zu geben, dass er sie auf deren Korrektheit
+nachprüfen (lassen) kann.
+
+9. Die
+Vollzugsbehörde (AUE) und die sie schützende Aufsichtsbehörde (WSU) sind
+betreffend dem irreführenden Verhalten und der Lüge, bzw. der diesbezüglichen
+Vertuschung, klar und deutlich zu rügen, sowie aufzufordern dies in Zukunft zu
+unterlassen. Wer sauber und ehrlich arbeitet, hat dies nicht nötig
+(Verfassungsverstoss gegen Recht und Gesetz, sowie Treu und Glauben).
+
+10. Der Rekursgegner (WSU) ist
+bezüglich überspitztem Formalismus zu rügen.
+
+Mit Eingabe vom 14. Februar 2024 beantragt die Gemeinde
+Riehen die Abweisung des Rekurses wegen Rechtsverzögerung (VD.2023.174). Mit
+Stellungnahme zu dieser Eingabe vom 20. Februar 2024 stellte der Rekurrent neu
+die Anträge, es sei mit Bezug auf die Gemeinde Riehen auch eine
+Rechtsverweigerung zu prüfen und der Rekurs der Gemeinde Riehen gegen die
+Sanierungsverfügung des AUE vom 27. September 2023 beizuziehen. Das WSU
+beantragt im Verfahren VD.2024.17 mit Vernehmlassung vom 11. März 2024 die
+kostenfällige Abweisung des Rekurses, soweit darauf überhaupt eingetreten
+werden könne.
+
+Mit Replik vom 14. März 2024 verlangte der Rekurrent im
+Verfahren VD.2023.174 die Gutheissung seiner Rechtsverzögerungs-, allenfalls
+Rechtsverweigerungsbeschwerde sowie des Antrags, die Gemeinde Riehen und das
+WSU «betreffend ihrem gesetzes- und verfassungswidrigen Vorgehen» bzw.
+«betreffend die Aufsichtspflicht in Bezug auf die Lärmsanierung im [...] zu
+rügen». Weiter verlangt er die Aufhebung der Verfügung vom 27. September 2023
+und die Gemeinde Riehen und das WSU seien zu verpflichten, «per sofort (z.B.
+innert 14 Tagen nach dem Urteil) dafür zu sorgen, dass eine neue, separate und
+korrekte, gesetzes- und ermessenskonforme Verfügung für den [...]» mit im
+einzelnen konkretisiertem Inhalt publiziert und innert angemessener Frist
+erlassen und einer allfälligen Einsprache die aufschiebende Wirkung entzogen
+werde. Schliesslich sei «zu prüfen, ob sich die Gemeinde Riehen nicht gar
+rechtsmissbräuchlich» verhalte, «wenn sie  bezüglich [...]  einen Rekurs
+macht, obwohl sie selbst zugeben muss, dass die Immissionsgrenzwerte
+überschritten sind und weiss, dass sie ihre Sanierungsmassnahmen ohne weiteren
+Aufschub durchführen muss».
+
+Im Verfahren VD.2024.17 replizierte der Rekurrent mit Eingabe
+vom 5. April 2024. Damit stellte er neu die Anträge, es sei das WSU «zu
+verpflichten, das AUE per sofort anzuweisen, dem Rekurrenten alle Daten, welche
+zur Berechnung des geänderten Lärmwertes der Liegenschaft [...] verwendet wurden, vollständig
+mitzuteilen. Damit er die verwendeten Lärmwerte nachprüfen (lassen) kann».
+Weiter sei die «Ombudsstelle BS () offiziell anzufragen, ob sie eine Anfrage
+von Anwohner*innen aus dem [...] ,
+Riehen, hatten. Ob dabei die Einsicht in die Sanierungsverfügung (vom 27.
+September 2023) beantragt wurde und wie die Bemühungen der Ombudsstelle
+ausgefallen sind». Schliesslich macht er Verfahrenskosten im Betrag von
+CHF 1502.10 geltend, welche dem Rekursgegner aufzuerlegen seien.
+
+Die Einzelheiten der Parteistandpunkte sowie die weiteren
+Tatsachen ergeben sich, soweit sie für den Entscheid von Bedeutung sind, aus
+den nachfolgenden Erwägungen. Das vorliegende Urteil ist auf dem
+Zirkulationsweg ergangen.
+
+Erwägungen
+
+1.
+
+1.1 Die Zuständigkeit des Verwaltungsgerichts für die Beurteilung des
+Rechtsverweigerungsrekurses sowie des Rekurses gegen den Entscheid des WSU
+ergibt sich aus den Überweisungsbeschlüssen des Regierungsrates vom 29.
+November 2023 und vom 26. Januar 2024 sowie aus § 42 des Organisationsgesetzes
+(OG, SG 153.100) und § 12 des Verwaltungsrechtspflegegesetzes (VRPG, SG
+270.100). Zum Entscheid ist das Dreiergericht berufen (§ 92 Abs. 1 Ziff. 11
+des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Der Rekurs im Verfahren VD.2023.174 ist an keine Frist gebunden.
+Derjenige im Verfahren VD.2024.17 wurde fristgerecht erhoben und begründet.
+
+1.3 Der Rekurrent rügt die im regierungsrätlichen Verfahren vorgenommene
+Aufteilung der Verfahren. Diese beruht jedoch auf der unterschiedlichen
+Zuständigkeit zur Beurteilung des Rechtsverweigerungsrekurses bezüglich des
+AUE, welches der Aufsicht des WSU untersteht, einerseits und der Gemeinde
+Riehen, welche der Aufsicht des Regierungsrates untersteht, andererseits. Sie
+ist daher nicht zu beanstanden. Nachdem die vorinstanzliche Beurteilung des
+Rechtsverweigerungsrekurses durch das WSU aber vorliegt, und beide Verfahren im
+regierungsrätlichen Instruktionsprozess dem Verwaltungsgericht zum Entscheid
+überwiesen worden sind, können die Rechtsverweigerungsrügen gegen das AUE und
+die Gemeinde Riehen wieder gemeinsam beurteilt werden.
+
+1.4
+
+1.4.1 Gemäss § 13 Abs. 1 i.V.m. § 43 VRPG ist zum Rechtsverweigerungs-
+bzw. Rechtsverzögerungsrekurs nur berechtigt, wer durch den angefochtenen
+Entscheid berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder
+Änderung hat. Um schutzwürdig zu sein, muss das Interesse des Rekurrenten
+aktuell sein (VGE VD.2014.248 vom 7. Juni 2016 E. 1.2.1, VD.2015.177 vom
+1. April 2016 E. 1; Wullschleger/Schröder ,
+Praktische Fragen des Verwaltungsprozesses im Kanton Basel-Stadt, in: BJM 2005
+S. 277, 292). Dies ist dann der Fall, wenn die Anfechtung für den
+Rekurrenten sowohl beim Einreichen des Rekurses als auch im Zeitpunkt der
+Urteilsfällung eine praktische Bedeutung hat und die Gutheissung seines
+Rechtsmittels ihm einen gegenwärtigen und praktischen Nutzen einträgt in dem
+Sinn, dass dadurch der Eintritt eines wirtschaftlichen, ideellen, materiellen
+oder anderweitigen Nachteils verhindert wird (VGE VD.2017.86 und VD.2017.175
+vom 24. November 2017 E. 1.3.1; Wullschleger/Schröder ,
+a.a.O., S. 277, 292). Mit dem Erfordernis des aktuellen
+Rechtsschutzinteresses wird sichergestellt, dass dem Gericht nur konkrete und
+nicht bloss theoretische oder abstrakte Rechtsfragen unterbreitet werden (VGE VD.2014.248
+vom 7. Juni 2016 E. 1.2.1, VD.2015.177 vom 1. April 2016
+E. 1).
+
+Nach der bundesgerichtlichen Rechtsprechung kann eine Verletzung des
+Verbots der Rechtsverzögerung gemäss Art. 29 Abs. 1 der Bundesverfassung (BV,
+SR 101) und Art. 6 Ziff. 1 der Europäischen Menschenrechtskonvention (EMRK, SR.
+0.101) indes auch nach Vorliegen der als verweigert gerügten Verfügung im
+Dispositiv des Urteils festgestellt werden, als eine Art der Wiedergutmachung,
+zur konkreten und tatsächlichen Durchsetzung der durch die EMRK garantierten
+Rechte (BGE 129 V 411 E. 1.3; BGer 1C_645/2022 vom 22. Juni 2023 E. 1.3).
+Allerdings muss das Feststellungsinteresse dargetan und, soweit möglich, belegt
+werden, sofern das Bedürfnis nach Wiedergutmachung nicht auf der Hand liegt
+(wie z.B. bei Eingriffen in die persönliche Freiheit).
+
+1.4.2 Vorliegend hat das AUE bereits mit Verfügung vom
+27. September 2023 (VD.2023.174, act. 11/1) die zur Reduktion der
+Lärmimmissionen am [...] erforderlichen Massnahmen angeordnet. Diese Verfügung wurde
+aber von der Gemeinde Riehen angefochten, weshalb in Bezug auf den Gemeinderat
+der Einwohnergemeinde Riehen nach wie vor ein Interesse an der Beurteilung des
+Rechtsverzögerungsrekurses besteht (VD.2023.174).
+
+Im Verfahren VD.2024.17 betreffend das AUE ist der Rekurrent sodann als
+Adressat des angefochtenen Entscheids des WSU vom 12. Januar 2024 sowie
+aufgrund seiner Teilnahme am vor­instanzlichen Verfahren grundsätzlich zur
+Rekurserhebung legitimiert. Der Rekurrent bestreitet, dass «lediglich der
+Erlass (irgend) einer Verfügung genügen soll», um den Rechtsverweigerungsrekurs
+abzuweisen. Zudem macht er geltend, dass ihm die Verfügung des AUE zu Unrecht
+nicht zugestellt und sein Anspruch auf rechtliches Gehör im Verfahren des WSU
+verletzt worden sei. Diesbezüglich ist auf seinen Rekurs einzutreten. Nicht
+eingetreten werden kann auf die Rügen, die eine bereits abgeurteilte Sache
+betreffen oder an denen der Rekurrent kein Feststellungsinteresse belegt (s.
+unten E. 3.3.1).
+
+1.5
+
+1.5.1 Dem Rechtsverweigerungs- respektive
+Rechtsverzögerungsrekurs kommt eine aufsichtsrechtliche Funktion zu (vgl. Rhinow/Koller/Kiss/Thurnherr/Brühl-Moser ,
+Öffentliches Prozessrecht, 4. Aufl., Basel. 2021, Rz.696). Daraus folgt seine
+Subsidiarität gegenüber förmlichen Rechtsmitteln gegen getroffene Entscheide.
+Rügen, welche im Zusammenhang mit solchen behandelt werden können, sind im
+Rahmen eines Rechtsverweigerungs- oder -verzögerungsrekurses nicht zu
+beurteilen (vgl. AGE BEZ.2023.9 vom 11. Juli 2023 E. 3.3).
+
+1.5.2 Der
+Rekurrent wurde über die Verfügung des AUE vom 27. September 2023 auf seine
+Eingabe vom 31. Oktober 2023 an den Regierungsrat hin in Kenntnis gesetzt.
+Nachdem die Gemeinde Riehen gegen die Verfügung Rekurs erhoben hatte, wurde der
+Rekurrent vom WSU mit Verfügung vom 11. Dezember 2023 zu diesem Rekursverfahren
+beigeladen, soweit es die Massnahmen für den [...] in Riehen betrifft. Ein
+Beigeladener hat die Rechte und Pflichten einer Partei (vgl. § 15 VRPG), sodass
+er sowohl verfahrensrechtliche als auch materiell-rechtliche Rügen erheben
+kann. Vorliegend ist daher auf die in den Verfahren VD.2023.174 und VD.2024.17
+vorgetragene inhaltliche Kritik (vgl. Ziff. 15) an der Verfügung des AUE vom
+27. September 2023 nicht einzutreten. Diese wird im departementalen
+Rekursverfahren gegen diese Verfügung, zu dem der Rekurrent beigeladen worden
+ist, zu berücksichtigen sein.
+
+Dasselbe gilt
+für die gerügte Verletzung seiner Verfahrensrechte und des rechtlichen
+Gehörs der Anwohnerschaft im Verfügungsverfahren des AUE und im darauffolgenden
+departementalen Rekursverfahren. Diese Rügen werden in jenem Verfahren zu
+beurteilen sein, weshalb an ihrer Beurteilung und der Würdigung der
+entsprechenden Qualifikation des Verhaltens der Behörden durch den Rekurrenten
+im vorliegenden Verfahren kein Rechtschutzinteresse besteht. Auf dieses
+Verfahren ist er auch zu verweisen, soweit er Einsicht in die Akten dieses
+Verfahrens (offizielle Schreiben der Vollzugsbehörde an die Gemeinde) verlangt.
+Zudem kann der Rekurrent nur die Verletzung eigener Verfahrensrechte geltend
+machen. Durch eine allfällige Verletzung jener anderer Anwohnerinnen und
+Anwohner ist er nicht beschwert. Diesbezüglich ist auf seinen Rekurs nicht
+einzutreten.
+
+2.
+
+Eine Person, die
+Anspruch auf eine Verfügung hat, kann gemäss § 50 Abs. 1 OG mit Rekurs an die
+nächsthöhere Behörde rügen, dass der Erlass der Verfügung zu Unrecht verweigert
+oder verzögert werde ( Schwank , Das
+verwaltungsinterne Rekursverfahren des Kantons Basel-Stadt, Diss. Basel 2003,
+S. 39). Das Verbot der (formellen) Rechtsverweigerung (im engeren Sinn) und der
+Rechtsverzögerung sowie der materielle Beurteilungsmassstab ergeben sich
+insbesondere aus Art. 29 Abs. 1 BV (vgl. Müller/Bieri ,
+in: Auer et al. [Hrsg.], VwVG Kommentar, 2. Auflage, Zürich 2019,
+Art. 46a N 2; Uhlmann/Wälle-Bär ,
+in: Waldmann/Krauskopf [Hrsg.], Praxiskommentar VwVG, 3. Auflage, Zürich 2023,
+Art. 46a N 3 f., 13 und 23). Eine (formelle) Rechtsverweigerung (im engeren
+Sinn) liegt dann vor, wenn sich eine Behörde weigert, eine Verfügung zu
+erlassen, obwohl sie dazu aufgrund der einschlägigen Rechtsnormen verpflichtet
+wäre. Eine Rechtsverzögerung liegt demgegenüber dann vor, wenn eine Behörde den
+Anspruch auf Erlass einer Verfügung zwar anerkennt, diese aber nicht innert der
+Frist erlässt, die gesetzlich vorgeschrieben oder nach den Umständen
+angemessenen ist (vgl. Müller/Bieri ,
+a.a.O., Art. 46a N 9 und 16; Schwank ,
+a.a.O, S. 38). Die Angemessenheit einer Verfahrensdauer beurteilt sich insbesondere
+nach der Art des Verfahrens, dem Umfang und der Komplexität der aufgeworfenen
+Sachverhalts- und Rechtsfragen, der Beschaffenheit des Streitgegenstands, der
+Bedeutung der Sache für die Parteien, dem Verhalten der Parteien und Behörden
+im Verfahren sowie den spezifischen Entscheidungsabläufen (vgl. BGE 135 I 265
+E. 4.4; Müller/Bieri , a.a.O., Art.
+46a N 16; Steinmann/Schindler/Wyss ,
+in: St. Galler Kommentar, 4. Auflage, Zürich 2023, Art. 29 BV N 36).
+
+3.
+
+3.1 Gegenstand des Verfahrens VD.2024.17 bildet
+die Frage, ob die Vorinstanz den gegen das AUE gerichteten
+Rechtsverweigerungsrekurs des Beschwerdeführers vom 31. Oktober 2023 zu Recht abgewiesen
+hat, soweit sie darauf eingetreten ist.
+
+3.2 Das WSU erwog mit seinem
+Entscheid vom 12. Januar 2024, dass der Rekurrent mit seiner Eingabe vom 31.
+Oktober 2023 den Erlass einer Verfügung des AUE verlangt hat, mit welcher die
+Gemeinde Riehen zur Durchführung von Massnahmen zur Lärmsanierung am [...]
+verpflichtet wird. Eine solche Verfügung habe das AUE jedoch bereits am 27.
+September 2023 erlassen. Die Gemeinde Riehen sei damit unter anderem
+verpflichtet worden, am [...] den bestehenden Belag durch einen lärmmindernden
+Belag mit einer langfristigen Wirkung von mindestens -1 dB zu ersetzen. Da
+das AUE die verlangte Verfügung somit bereits vor der Einreichung des Rekurses
+wegen Rechtsverweigerung erlassen habe, erweise sich dieser als unbegründet und
+sei abzuweisen. Dass die besagte Verfügung von der Gemeinde Riehen angefochten worden
+und somit noch nicht rechtskräftig geworden sei, ändere daran nichts. Immerhin
+stellte das WSU aber fest, dass der Ablauf «insoweit unglücklich» erscheine,
+als das AUE dem Rekurrenten am gleichen Tag, an dem es die Verfügung erlassen habe,
+ein Schreiben in dieser Angelegenheit habe zukommen lassen, welches keinen
+Hinweis auf den Verfügungserlass enthalten habe. Der Rekurrent habe daher im
+Zeitpunkt der Einreichung seines Rekurses gar nicht wissen oder auch nur ahnen
+können, dass die von ihm schon seit längerer Zeit geforderte Verfügung des AUE
+bereits ergangen war. Aus diesem Grund verzichtete das WSU auf die Erhebung von
+Kosten.
+
+3.3
+
+3.3.1 Mit seinem Rekurs gegen diesen Entscheid rügt
+der Rekurrent, dass damit nur ein Teil seiner Rechtsverweigerungsrüge vom 31.
+Oktober 2023 beurteilt worden sei, was ein überspitzter Formalismus sei. Nicht
+berücksichtigt worden sei, dass der [...] seit Jahren und spätestens per 31.
+März 2018 wegen Lärm hätte korrekt saniert werden müssen. Die
+Sanierungsbemühungen bis und mit dem Entscheid des WSU vom 24. März 2021 sind
+aber bereits im verwaltungsgerichtlichen Verfahren VD.2021.104 beurteilt
+worden. Insoweit liegt eine abgeurteilte Sache («res iudicata») vor. Mit Urteil
+vom 31. Oktober 2022 erwog das Verwaltungsgericht in jenem Verfahren, dass in
+der Verfügung des AUE vom 26. Februar 2019 zwar festgehalten worden sei, die
+Immissionsgrenzwerte beim [...] seien eingehalten, dass diese Feststellung aber
+unter dem Vorbehalt eines anderslautenden Ergebnisses aus der Überprüfung des Gesamtverkehrsmodells
+(GVM) 2010 stehe und dass entsprechende Werte erhoben würden. Das
+Verwaltungsgericht zeigte in seinem Urteil auf, weshalb nicht auf eine
+Datenerhebung aus dem Jahr 2015 habe abgestellt werden können. Auf den von der [...] AG verfassten Bericht
+«Überprüfung der Verkehrszahlen» vom 2. September 2019, mit welchem
+wiederum die Einhaltung der massgebenden Grenzwerte festgestellt worden ist,
+habe sodann nicht abgestellt werden können, da er auf einer während Schulferien
+erstellten Verkehrserhebung beruhte. In der Folge wären neue Zählungen aufgrund
+der pandemiebedingten Einschränkungen wiederum nicht valid gewesen. Das
+Verwaltungsgericht kam zum Schluss, es lägen keine Anzeichen dafür vor, dass
+sich das AUE nicht in guten Treuen um eine Klärung der Differenzen zwischen dem
+GVM 2008 und dem im Jahr 2018 nach wie vor angewandten GVM 2010 bemüht habe.
+Inzwischen sei die in der Verfügung des AUE vom 26. Februar 2019 vorbehaltene
+Prüfung aufgrund von neu zu erhebenden Werten erfolgt und die im Jahr 2021
+durchgeführten Verkehrszählungen hätten zum Ergebnis geführt, dass die
+Immissionsgrenzwerte am [...] während den Tagstunden flächendeckend
+überschritten seien. Dementsprechend habe das AUE dem Gemeinderat Riehen am 29.
+Juni 2022 eine Sanierungsaufforderung zugestellt. Auf diese Ausführungen im
+Verwaltungsgerichtsentscheid vom 31. Oktober 2022 ist nicht zurückzukommen,
+weshalb auf den Rekurs insoweit nicht mehr einzutreten ist.
+
+Soweit nicht bereits eine «res iudicata» vorliegt, ist weder
+dargetan noch ersichtlich, dass ein aktuelles Interesse daran besteht, zu
+untersuchen und festzustellen, ob der auf die Sanierungsaufforderung folgende
+Verfahrensablauf ungebührlich viel Zeit in Anspruch genommen hat, nachdem die
+Verfügung des AUE nun ergangen ist (s. oben E. 1.4.1). Im Übrigen ging das AUE
+in seiner Verfügung vom 27. September 2023 von der Dringlichkeit zur
+Lärmsanierung des [...] aus und hat damit dem Umstand, dass die Frist zur
+lärmschutzrechtlichen Sanierung am 31. März 2018 abgelaufen ist, Rechnung
+getragen.
+
+3.3.2 Weiter rügt der
+Rekurrent, dass er auf seine Rechtsverzögerungsbeschwerde vom 31. Oktober 2023
+hin zwar über den Erlass der Verfügung des AUE vom 27. September 2023 in
+Kenntnis gesetzt, ihm diese aber nicht zugestellt worden sei. Es wäre zwar im
+vorliegenden Fall angezeigt gewesen, dass das AUE die Sanierungsverfügung auch
+dem Rekurrenten als betroffenem Anwohner  zumindest auf sein explizites
+Begehren hin  zustellt. Schliesslich können neben der Verfügungsadressatin
+auch Dritte, namentlich Anwohner, zum Rekurs gegen die Verfügung berechtigt
+sein (vgl. Caluori , Das
+altlastenrechtliche Sanierungsverfahren, Zürich etc. 2022, S. 337; Hunger , Die Sanierungspflicht im
+Umweltschutz- und Gewässerschutzgesetz, Zürich etc. 2010, S. 42 f.).
+In der Sache ist dem Rekurrenten daraus aber kein Nachteil erwachsen. Nachdem
+die Gemeinde Riehen gegen die Verfügung des AUE Rekurs erhoben hatte, wurde der
+Rekurrent vom WSU mit Verfügung vom 11. Dezember 2023 zu diesem Rekursverfahren
+beigeladen, soweit es die Massnahmen für den [...] in Riehen betrifft. Der
+Rekurrent konnte in diesem Verfahren seine Rechte wahrnehmen (vgl.
+Vernehmlassung WSU VD.2024.17). Da sowohl in jenem (vgl. Replik VD.2024.17,
+Ziff. 7, act. 4) als auch in den vorliegenden Verfahren dem Rekurrenten
+die Verfügung zur Kenntnis gebracht worden ist (vgl. VD.2023.147,
+act. 11/1 und VD.2024.17, act. 7/1), ist seine Rüge damit gegenstandslos
+geworden. Es bedarf daher auch keiner weiteren Eröffnung dieser Verfügung, wie
+sie der Rekurrent verlangt. Insbesondere ist der Rekurrent durch eine
+unterbliebene Eröffnung dieser Verfügung an Dritte auch nicht beschwert, sodass
+seinem Begehren, die Verfügung auch Dritten zuzüglich zu machen, die
+prozessuale Grundlage fehlt.
+
+3.3.3 Der Rekurrent rügt
+zudem eine Verletzung seiner Verfahrensrechte und des rechtlichen
+Gehörs, da die Vorinstanz nicht auf alle Anträge in seinem Schreiben vom 27.
+November 2023 eingehe. Merkwürdig erscheint zwar tatsächlich, dass das WSU dem
+Verwaltungsgericht im, Rahmen der Aktenedition gemäss § 23 Abs. 2 VRPG das Schreiben
+vom 27. November 2023 nicht mitsandte. Dieses wurde aber bereits vom
+Rekurrenten mit seiner Rekursbegründung eingereicht (vgl. VD.2024.17 act. 5)
+und ist daher Teil der Akte des Verwaltungsgerichts. Im Übrigen wurde darauf im
+angefochtenen Entscheid des WSU verwiesen. Grundsätzlich darf sich eine
+Rechtsmittelinstanz auf die für den Entscheid wesentlichen Punkte beschränken
+(BGE 146 II 335 E. 5.1). Eine diesbezügliche Verletzung des rechtlichen Gehörs des
+Rekurrenten im vorliegenden Verfahren ist nicht erkennbar.
+
+3.3.4 Soweit der Rekurrent
+unter Berufung auf Art. 10e Abs. 1 und Art. 10g des Bundesgesetzes über den
+Umweltschutz (USG, SR 814.01) die Herausgabe verschiedener, im Verfahren des
+AUE erhobener Umweltinformationen  wie die Fakten zur Neuberechnung nach
+sonROAD18  verlangt, ist er wiederum auf das departementale Rekursverfahren
+gegen die Verfügung des AUE vom 27. September 2023, in welchem er als
+Beigeladener teilnimmt, zu verweisen.
+
+3.4 Zusammenfassend ist
+daher festzustellen, dass der im Verfahren VD.2024.17 angefochtene Entscheid
+des WSU, mit welchem dieses seinen gegen das AUE erhobenen
+Rechtsverweigerungsrekurs abgewiesen hat, nicht zu beanstanden ist. Soweit der
+Rekurrent darüber hinaus Verfahrensansprüche im Zusammenhang mit dem Erlass der
+Sanierungsverfügung des AUE vom 27. September 2023 geltend macht, sind diese in
+dem gegen diese Verfügung erhobenen Rekursverfahren, zu welchem der Rekurrent
+beigeladen worden ist, geltend zu machen. Auch die im Zusammenhang mit dem
+Rekurs gegen die Abweisung des Rechtsverweigerungsrekurses gestellten Anträge
+sind daher abzuweisen, soweit darauf überhaupt eingetreten werden kann.
+
+4.
+
+Es bleibt somit aufgrund des mit
+Eingabe vom 31. Oktober 2023 begründeten Rechtsverweigerungsrekurses im
+Verfahren VD.2023.174 noch zu prüfen, ob eine Rechtsverweigerung seitens der
+Gemeinde Riehen vorliegt.
+
+4.1 Diesbezüglich
+bezieht sich der Rekurrent zur Begründung der Rechtsverweigerung auf die «viel
+zu lange andauernde widerrechtliche Lärmsituation des [...]». Es bestehe schon
+seit 5 Jahren und 8 Monaten ein widerrechtlicher Zustand. Es kann auch hier auf
+die obigen Ausführungen verwiesen werden (E. 3.3.1). Aus der Verfügung des AUE
+vom 27. September 2023 ist ersichtlich, dass der Gemeinderat Riehen dem AUE
+entgegen dessen Aufforderung nicht mitgeteilt hat, welche
+Lärmsanierungsmassnahmen geprüft werden sollten, sondern am 7. November 2022 um
+eine Fristerstreckung zur Überprüfung der durch das AUE errechneten Lärmwerte
+ersucht hat. Wie der Vernehmlassung der Gemeinde im vorliegenden Verfahren
+entnommen werden muss, bestreitet sie auf der Grundlage eigener Lärmmessungen
+weiterhin eine Überschreitung der Immissionsgrenzwerte (VD.2023.174, act.10).
+Davon ist aber abhängig, ob der [...] als bestehende Anlage der Pflicht zur
+Sanierung unterliegt (Art. 16 Abs. 1 USG in Verbindung mit Art. 37a
+Abs. 2 der Lärmschutz-Verordnung [LSV, SR 814.41]; Jäger in: Griffel/Liniger/Rausch/Thurnherr (Hrsg.),
+Fachhandbuch Öffentliches Baurecht, Zürich 2016, N 4.246). Dabei müssen
+bestehende Anlagen mit Bezug auf den Lärmschutz bei einer Überschreitung der
+Immissionsgrenzwerte soweit saniert werden, als dies technisch und betrieblich
+möglich sowie wirtschaftlich tragbar ist und dass die Immissionsgrenzwerte
+nicht überschritten werden (Art. 13 Abs. 2 lit. a und b LSV). Als
+Sanierungsmassnahmen stehen bei Strassen neben baulichen vor allem verkehrliche
+und betriebliche Massnahmen im Vordergrund. Ist eine Sanierung aufgrund der
+Kosten oder überwiegender anderer Interessen unverhältnismässig, so kann die
+Vollzugsbehörde Erleichterungen gewähren. Hierbei handelt es sich um
+Ausnahmebewilligungen, die dementsprechend restriktiv und nur in Sonderfällen
+unter Berücksichtigung der konkreten Verhältnisse des Einzelfalls zu erteilen
+sind (Art. 17 Abs. 1 USG; Gossweiler ,
+Strassenlärmsanierung bei Kantons- und Gemeindestrassen nach Ablauf der
+lärmschutzrechtlichen Sanierungsfrist, in: URP 2018, S. 600, 603 f.; BGE 141 II
+483 E. 3.2). Die gesetzliche Frist für die Sanierung von Gemeindestrassen
+ist am 31. März 2018 abgelaufen (Art. 17 Abs. 4 LSV). Soweit eine solche
+noch nicht erfolgt ist und eine Überschreitung der Immissionsgrenzwerte
+feststeht, ist sie nun ohne weiteren Aufschub vorzunehmen ( Gossweiler , a.a.O., S. 606 f.; VGE
+VD.2018.146 vom 1. April 2019 E. 5.3.1).
+
+4.2 Wie das
+Verwaltungsgericht bereits mehrfach festgestellt hat, ist dabei die Gemeinde
+Riehen als für die Gemeindestrasse zuständiges Gemeinwesen verpflichtet, über
+eine Sanierung und die zu ergreifenden Massnahmen im Sinn von Art. 13 ff. LSV
+förmlich zu beschliessen (VGE VD.2028.146 vom 1. April 2019 E. 5.5, VD.2017.143
+vom 30. Januar 2018 E. 3.6). Als Inhaberin der «Anlage [...]» ist die Gemeinde
+für die Einhaltung der Vorgaben der Lärmschutzverordnung und die Ergreifung der
+erforderlichen Sanierungsmassnahmen bei Grenzwertüberschreitungen
+verantwortlich. Aus ihrer diesbezüglich bestehenden Gemeindeautonomie folgt
+auch ihre Pflicht zur Ergreifung der geeigneten Massnahmen. Nur wo sie dieser
+Verpflichtung selber nicht gemeindeautonom nachzukommen gewillt oder in der
+Lage ist, hat das AUE als kantonale Vollzugsbehörde über die Sanierung zu
+entscheiden (VGE VD.2028.146 vom 1. April 2019 E. 5.5.3). Dies verkennt die
+Gemeinde Riehen mit ihrer Vernehmlassung im Verfahren VD.2023.174 einmal mehr,
+wenn sie eine Rechtsverzögerung «mangels Zuständigkeit» zurückweist. Hinzu
+kommt, dass selbst wenn eine Behörde der Ansicht ist, dass sie für den Erlass
+einer Verfügung nicht zuständig sei, sie ebenfalls nicht untätig bleiben darf.
+Wenn die gesuchstellende Person ausdrücklich den Erlass einer Verfügung
+verlangt, hätte die Behörde einen Nichteintretensentscheid zu fällen und ihre
+Unzuständigkeit festzustellen (vgl. BVGE 2009/1 E. 3). Sanierungsmassnahmen
+werden zwar bei Untätigkeit der als Anlageneigentümerin zuständigen Gemeinde
+vom AUE verfügt. Dies ändert aber nichts daran, dass die Gemeinde primär dafür
+verantwortlich ist, proaktiv die notwendigen Lärmschutzmassnahmen in die Wege
+zu leiten. Wie der Verfügung des AUE vom 27. September 2023 entnommen werden
+kann, hat die Gemeinde Riehen sich im Rahmen der Gewährung des rechtlichen
+Gehörs innert der ihr gesetzten Frist zu den vorgeschlagenen oder alternativen
+umzusetzenden respektive zu prüfenden Massnahmen nicht geäussert, wobei sie
+sich aber offenbar auf den Standpunkt gestellt hat, dass die
+Immissionsgrenzwerte gar nicht überschritten werden.
+
+4.3 Inwieweit die
+Gemeinde zur Vornahme solcher Massnahmen verpflichtet ist, hängt daher
+einerseits vom Bestand einer Überschreitung der Immissionsgrenzwerte einerseits
+und von der Möglichkeit der Gewährung von Erleichterungen gemäss Art. 17
+USG andererseits ab. Diese sind Gegenstand des departementalen Rekursverfahrens.
+Daraus folgt, dass auch die Frage, ob die Gemeinde Riehen in rechtsverzögernder
+oder gar rechtsverweigernder Weise ihren Sanierungspflichten gemäss Art. 16 USG
+nicht nachkommt, nicht im vorliegenden Verfahren, sondern im departementalen
+Rekursverfahren gegen die Verfügung vom 27. September 2023 zu entscheiden sein
+wird. Entgegen der Auffassung des Rekurrenten kann der Gemeinde dabei aber
+nicht vorgeworfen werden, gegen diese Verfügung einen Rekurs erhoben zu haben.
+Sie ist durch diese Verfügung in ihrer Autonomie tangiert und ist daher wie der
+Rekurrent berechtigt, deren Rechtsmässigkeit in einem Rechtsmittelverfahren
+überprüfen zu lassen. Die Erhebung dieses Rekurses kann daher entgegen der
+Auffassung des Rekurrenten keine Rechtsverweigerung begründen. Es kann daher
+auch offensichtlich nicht Gegenstand dieses Verfahrens sein, die Argumentation
+der Gemeinde zur Begründung dieses Rekurses im vorliegenden Verfahren zu
+beurteilen. Aufgrund der längst abgelaufenen Sanierungsfrist und des 
+zumindest teilweise aufgrund äusserer Umstände  unglücklichen Verlaufs des
+gesamten bisherigen Verfahrens wird das Departement sich dabei äusserster
+Beförderung dieses Verfahrens zu bemüssigen haben. Zu berücksichtigen ist dabei
+von allen beteiligten Organen, dass der korrekte Vollzug des geltenden Rechts
+Grundlage des Vertrauens in den Rechtsstaat und damit für den Rechtsfrieden
+bildet.
+
+4.4 Nachdem aber
+unbestrittenermassen über die Sanierungspflicht vom AUE mit Verfügung vom 27.
+September 2023 entschieden worden ist, liegt unabhängig vom Verhalten der
+Gemeinde Riehen nun auch keine Rechtsverweigerung mehr vor. Es kann daher auch
+nicht auf den vom Rekurrenten ausgesprochenen Verdacht einer «unstatthaften
+Zusammenarbeit von AUE und Gemeinde i.S. einer Verschwörung» weiter eingegangen
+werden.
+
+5.
+
+Daraus folgt, dass sowohl der Rekurs
+VD.2024.17 gegen den Entscheid des WSU vom 12. Januar 2024 wie auch der
+Rechtsverweigerungsrekurs VD.2023.174 abgewiesen werden müssen, soweit darauf
+eingetreten werden kann.
+
+Da der Rekurrent aufgrund des
+Vorgehens der beteiligten Behörden aber insbesondere nicht über die Verfügung
+vom 27. September 2023 unterrichtet worden ist, ist auf die Erhebung von Kosten
+für diese Verfahren zu verzichten.
+
+Demgemäss erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Die Rekurse werden abgewiesen, soweit
+darauf eingetreten wird.
+
+Auf die Erhebung von Gerichtskosten für das
+verwaltungsgerichtliche Rekursverfahren wird verzichtet.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Gemeinde Riehen
+
+- Departement für Wirtschaft, Soziales und Umwelt
+
+- Regierungsrat Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+Dr. Michèle Guth
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
