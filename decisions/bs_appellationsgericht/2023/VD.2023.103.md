@@ -1,0 +1,473 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.673"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2023.103"
+docket_2: "AG.2023.673"
+decided: "2023-10-09"
+published: "2024-02-17"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76007&W10_KEY=3048482&nTrefferzeile=355&Template=search_result_document.html"
+cites_decisions: ["2A.293/2001", "2A.494/2005", "2C_179/2021", "2C_430/2009", "2C_570/2011", "2C_711/2012", "2C_712/2012", "BGE 105 III 43", "BGE 129 I 8", "BGE 130 II 65", "BGE 142 IV 125", "VD.2013.104", "VD.2016.249", "VD.2023.103", "VD.2023.104"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/642.11/art-116.md", "switzerland/bund/acts/642.11/art-132.md", "switzerland/bund/acts/642.11/art-140.md", "switzerland/bund/acts/642.11/art-145.md"]
+---
+
+# Kantonale Steuern und direkte Bundessteuer pro 2018 / Einhaltung der Einsprachefrist
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2023.103
+
+VD.2023.104
+
+URTEIL
+
+vom 26. Oktober 2023
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur.
+André Equey, lic. iur. Mia Fuchs
+
+und Gerichtsschreiber
+MLaw Lukas von Kaenel
+
+Beteiligte
+
+A____ Rekurrent 1
+
+[...]                                                                              Beschwerdeführer
+1
+
+B____ Rekurrentin 2
+
+[...] Beschwerdeführerin
+2
+
+gegen
+
+Steuerverwaltung Basel-Stadt
+
+Fischmarkt 10, 4001 Basel
+
+Gegenstand
+
+Rekurs und Beschwerde gegen
+zwei Entscheide der Steuerrekurskom-
+
+mission vom 24. November 2022
+
+betreffend kantonale Steuern und
+direkte Bundessteuer pro 2018 / Ein-
+
+haltung der Einsprachefrist
+
+Sachverhalt
+
+Nachdem eine von der Steuerverwaltung am 21. August 2020 mit
+Bezug auf die Steuererklärung pro 2018 an die Ehegatten A____ und B____
+gerichtete Rückfrage hinsichtlich der selbständigen Erwerbstätigkeit von A____
+unbeantwortet blieb, wurde unter Berücksichtigung der Vermögenszunahme ein angemessenes
+Einkommen aus selbständigem Haupterwerb taxiert. Die entsprechende
+Veranlagungsverfügung vom 10. Juni 2021 wurde uneingeschrieben versendet.
+Mit einer Zahlungserinnerung vom 22. Juli 2021 und einer Zahlungsmahnung
+vom 26. August 2021, welche beide uneingeschrieben versendet wurden, machte die
+Steuerverwaltung die Ehegatten [...] auf den ausstehenden Steuerbetrag
+aufmerksam. Am 9. September 2021 beglichen die Ehegatten [...] ohne weitere
+Hinweise die ausstehende Steuerforderung pro 2018, worauf die Steuerverwaltung
+den Ehegatten [...] am 15. September 2021 die Abschlusszinsrechnung
+zukommen liess. Letztere beglichen die Ehegatten [...] am 2. November 2021
+ebenso kommentarlos. Mit E‑Mail vom 28. Januar 2022 wendeten sich
+die Ehegatten [...] an die Steuerverwaltung und machten geltend, dass ihnen die
+Veranlagungsverfügung pro 2018 nie zugestellt worden sei und ihnen eine solche folglich
+rechtmässig unter Einräumung einer entsprechenden Rechtsmittelfrist zu eröffnen
+sei. Gleichentags liess die Steuerverwaltung den Ehegatten [...] eine Kopie der
+Veranlagungsverfügung vom 10. Juni 2021 mit eingeschriebener Sendung zukommen.
+
+Am 4. März 2022 erhoben die Ehegatten [...] Einsprache,
+welche von der Steuerverwaltung als Revisionsbegehren behandelt wurde. Mit Eingabe
+vom 4. April 2022 bekräftigten die Ehegatten [...] unter anderem, dass es sich
+um eine Einsprache und nicht um ein Revisionsgesuch handle, da ihnen die
+Veranlagungsverfügung erstmals am 4. Februar 2022 zugestellt worden sei. Die
+Steuerverwaltung trat mit Entscheid vom 30. Mai 2022 nicht auf die Einsprache
+ein und wies das Gesuch um Abänderung der Veranlagungsverfügung vom 10. Juni
+2021 ab.
+
+Der dagegen durch die Ehegatten [...] erhobene Rekurs sowie
+die dagegen erhobene Beschwerde wurden von der Steuerrekurskommission
+Basel-Stadt mit Entscheiden vom 24. November 2022 abgewiesen. Darüber hinaus
+auferlegte die Steuerrekurskommission den Ehegatten [...] Spruchgebühren für
+das Rekurs- und Beschwerdeverfahren von je CHF 500..
+
+Gegen diese Entscheide haben die Ehegatten [...] (Rekurrierende
+und Beschwerdeführende, nachfolgend Rekurrierende) mit Eingaben vom 3. Juli
+2023 Rekurs und Beschwerde beim Verwaltungsgericht erhoben. Darin beantragen
+sie die Aufhebung der vorinstanzlichen Entscheide der Steuerrekurskommission und
+der Steuerverwaltung sowie die Gutheissung der Einsprachen vom 4. März 2022,
+alles unter o/e‑Kostenfolge. Die Steuerverwaltung hat innert Frist keine
+Stellungnahme eingereicht. Die Steuerrekurskommission beantragt mit
+Vernehmlassung vom 10. August 2023 die kostenfällige Abweisung des
+Rekurses und der Beschwerde. Die Rekurrierenden haben von der Möglichkeit, eine
+allfällige Replik einzureichen, keinen Gebrauch gemacht. Die weiteren Tatsachen
+und die Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für das
+Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen. Das vorliegende
+Urteil erging unter Beizug der Vorakten auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Die
+angefochtenen Entscheide beziehen sich einerseits auf das Verfahren betreffend
+kantonale Steuern pro 2018 (Verfahren VD.2023.103) und andererseits auf jenes
+betreffend die direkte Bundessteuer pro 2018 (Verfahren VD.2023.104). Beide
+Verfahren betreffen dieselben Parteien und beruhen auf demselben
+Tatsachenfundament. Zudem stellen sich in beiden Verfahren dieselben
+Rechtsfragen, die aufgrund identischer Bestimmungen zu beurteilen sind. Es
+rechtfertigt sich daher, über den Rekurs und die Beschwerde in einem einzigen
+Urteil zu befinden (vgl. VGE VD.2016.249/250 vom 2. November 2017 E. 1.1 und
+BGer 2C_711/2012, 2C_712/2012 vom 20. Dezember 2012 E. 1.2).
+
+1.2 Gegen
+Entscheide der Steuerrekurskommission als vom Regierungsrat gewählte Kommission
+kann bezüglich der kantonalen Steuern Rekurs an das Verwaltungsgericht erhoben
+werden (§ 171 des Steuergesetzes [StG, SG 640.100]; § 10 Abs. 1 des
+Verwaltungsrechtspflegegesetzes [VRPG, SG 270.100]). Zuständig ist das
+Dreiergericht (§ 92 Abs. 1 Ziff. 11 in Verbindung mit § 32 Abs. 1 des Gerichts­organisationsgesetzes
+[GOG, SG 154.100]). Das Verfahren richtet sich nach den Be­stimmungen des VRPG,
+soweit das Steuergesetz keine spezielle Vorschrift enthält (§ 171 Abs. 4
+StG).
+
+Bezüglich der
+direkten Bundessteuer kann das kantonale Recht den Weiterzug des
+Beschwerdeentscheids mittels Beschwerde an eine weitere verwaltungsunabhängige
+Instanz vorsehen (Art. 145 Abs. 1 des Bundesgesetzes über die direkte
+Bundessteuer [DBG, SR 642.11]). Sieht das kantonale Recht ein zweistufiges
+Rekursverfahren für die kantonalen Steuern vor, muss dasselbe Verfahren auch
+für die direkte Bundessteuer gelten (BGE 130 II 65 E. 6). Da das
+baselstädtische Recht für die kantonalen Steuern ein zweistufiges
+Rekursverfahren vorsieht, kommt dieses auch für die direkte Bundessteuer zur Anwendung
+(VGE 608/2006 vom 22. Juni 2006, in: BJM 2008, S. 220; vgl. Wullschleger/Schröder , Praktische Fragen
+des Verwaltungsprozesses im Kanton Basel-Stadt, in: BJM 2005, S. 277, 287). Im
+Beschwerdeverfahren der direkten Bundessteuer gelten in erster Linie die
+Verfahrensbestimmungen der Art. 140144 DBG, subsidiär jene des kantonalen
+Rechts über die Organisation und das Verfahren, insbesondere jene über den
+Rekurs (Art. 145 Abs. 2 DBG, § 1 der Verordnung über den Vollzug der
+direkten Bundessteuer [SG 660.100]; VGE VD.2013.104 vom 31. Oktober 2013).
+Zuständig für die Beurteilung der Beschwerde ist daher ebenfalls das
+Verwaltungsgericht als Dreiergericht.
+
+1.3 Zum
+Rekurs und zur Beschwerde ist legitimiert, wer durch die angefochtenen
+Verfügungen berührt ist und ein schutzwürdiges Interesse an ihrer Aufhebung
+oder Änderung hat (§ 13 Abs. 1 VRPG). Dies trifft auf die Rekurrierenden als
+Adressaten der angefochtenen Verfügungen zu. Der Rekurs und die Beschwerde
+wurden frist- und formgerecht eingereicht (§ 171 Abs. 2 in Verbindung mit § 164
+Abs. 2 StG, Art. 145 Abs. 2 in Verbindung mit Art. 140 Abs. 1 und 2 DBG). Somit
+ist auf die Rechtsmittel einzutreten.
+
+1.4 In
+Bezug auf die kantonalen Steuern richtet sich die Kognition des
+Verwaltungsgerichts nach der allgemeinen Bestimmung von § 8 VRPG, da das
+Steuergesetz diesbezüglich keine speziellen Vorschriften über das
+Rekursverfahren vor dem Verwaltungsgericht enthält (vgl. § 171 StG). Demnach
+prüft das Gericht insbesondere, ob die Vorinstanz das öffentliche Recht nicht oder
+nicht richtig angewandt, den Sachverhalt unrichtig festgestellt, wesentliche
+Form- oder Verfahrensvorschriften verletzt oder von dem ihr zustehenden
+Ermessen einen unzulässigen Gebrauch gemacht hat. In Bezug auf die direkte
+Bundessteuer können mit der Beschwerde alle Mängel des angefochtenen Entscheids
+und des vorangegangenen Verfahrens gerügt werden (Art. 145 Abs. 2 in
+Verbindung mit Art. 140 Abs. 3 DBG).
+
+2.
+
+Vorliegend
+strittig und zu prüfen ist, ob die Einsprache der Rekurrierenden vom
+4. März 2022 fristgerecht erfolgte und damit zusammenhängend, zu welchem
+Zeitpunkt die fristauslösende Veranlagungsverfügung vom 10. Juni 2021
+zugestellt wurde.
+
+2.1 Die Beweislast für die Zustellung von
+Verfügungen und deren Zeitpunkt tragen die Steuerbehörden ( Richner/Frei/Kaufmann/Meuter ,
+Handkommentar zum DBG, 3. Auflage, Zürich 2016, Art. 116 N 41; Zweifel/Hunziker , in: Zweifel/Beusch
+[Hrsg.], Kommentar zum schweizerischen Steuerrecht, 4. Auflage, Basel 2022,
+Art. 116 DBG N 19; vgl. BGE 129 I 8 E. 2.2, 122 I 97 E. 3b; BGer 2A.494/2005
+vom 7. Februar 2006 E. 2.1). In gewissen Entscheiden findet sich die
+Formulierung, es sei Sache der Behörde, den Beweis dafür zu erbringen, dass und
+an welchem Tag die Verfügung zugestellt worden ist (vgl. angefochtener Entscheid
+E. 3d.bb; BGer 2C_570/2011 vom 24. Januar 2012 E. 4.1, 2C_430/2009 vom 14.
+Januar 2010 E. 2.4). Entgegen der Ansicht der Rekurrierenden (vgl. Rekurs S. 3
+f.) kann dies jedoch nicht bedeuten, dass die Behörde in jedem Fall das genaue
+Datum der Zustellung zu beweisen hat. Wenn bloss die Zustellung als solche und
+die Einhaltung der Rechtsmittelfrist zur Diskussion stehen, muss vielmehr der
+Beweis genügen, dass die Verfügung in einem bestimmten Zeitraum zugestellt
+worden ist (vgl. BGer 2A.494/2005 vom 7. Februar 2006 E. 2.1; Richner/Frei/Kaufmann/Meuter , a.a.O.,
+Art. 116 N 29). Der Beweis der Zustellung der Verfügung und des Zeitpunkts oder
+Zeitraums, in dem diese erfolgt ist, kann auch aufgrund von Indizien oder
+gestützt auf die gesamten Umstände erbracht werden (vgl. BGE 142 IV 125 E. 4.3,
+105 III 43 E. 3; BGer 2C_430/2009 vom 14. Januar 2010 E. 2.4, 2A.293/2001
+vom 21. Mai 2002 E. 1b; Uhlmann/Schilling-Schwank ,
+in: Waldmann/Krauskopf [Hrsg.], Praxiskommentar Verwaltungsverfahrensgesetz, 3.
+Auflage, Zürich 2023, Art. 34 N 13). So kann sich aus der Zahlung der
+Forderung, aus der mit den Steuerbehörden gewechselten Korrespondenz oder aus
+dem sonstigen Verhalten des Steuerpflichtigen ergeben, dass und wann die
+Verfügung eröffnet worden ist (BGE 105 III 43 E. 3; vgl. Uhlmann/ Schilling-Schwank , a.a.O., Art.
+34 N 13; Zweifel/Hun­ziker ,
+a.a.O., Art. 116 DBG N 19). Beispielsweise darf in der Regel angenommen
+werden, dass sich der Steuerpflichtige gegen wiederholte unberechtigte
+Mahnungen und Steuerrechnungen zu Wehr setzt und nicht zuwartet bis er
+betrieben wird. In einem so späten Zeitpunkt wäre der Einwand, er habe die
+Veranlagungsverfügung nie empfangen, daher wenig glaubhaft (BGE 105 III 43 E.
+3).
+
+2.2
+
+2.2.1 Mit Veranlagungsverfügung vom 10. Juni 2021
+(Akten STRK.2022.56 S. 33 ff.) veranlagte die Steuerverwaltung die kantonalen
+Steuern und die direkte Bundessteuer, welche die Rekurrierenden für die
+Steuerperiode 2018 schulden, definitiv. Die kantonalen Steuern wurden auf CHF
+29'227. und die direkte Bundessteuer auf CHF 5'144. festgesetzt. Aus den
+bisher erfolgten Buchungen resultierte betreffend die kantonalen Steuern ein
+Saldo zugunsten der Steuerverwaltung von CHF 29'849.70 (Akten STRK.2022.56 S.
+37 f.) und betreffend die direkte Bundessteuer ein Saldo zugunsten der
+Rekurrierenden von CHF 2'663.40 (Akten Steuerverwaltung Veranlagungsverfahren
+Steuerperiode 2018). Mit Steuerabrechnung vom 10. Juni 2021 (Akten STRK.2022.56
+S. 37) forderte die Steuerverwaltung die Rekurrierenden auf, den Betrag von CHF
+29'894.70 bis am 10. Juli 2021 zu bezahlen.
+
+2.2.2 Mit Zahlungserinnerung vom 22. Juli 2021
+(Akten STRK.2022.56 S. 39) wies die Steuerverwaltung die Rekurrierenden darauf
+hin, sie habe bei der Überprüfung des Kontos festgestellt, dass die kantonalen
+Steuern 2018 noch nicht bezahlt worden seien, und ersuchte sie die
+Rekurrierenden, den ausstehenden Betrag von CHF 29'849.70 innerhalb von 20
+Tagen zu überweisen. Gemäss der Darstellung der Steuerverwaltung war der Zahlungserinnerung
+ein Kontoauszug kantonale Steuern 2018 vom 22. Juli 2021 beigelegt (Akten
+STRK.2022.56 S. 22). Darin ist unter anderem der Betrag von CHF 29'227. mit
+dem Text «Ordentliche Steuer (def.)» verbucht.
+
+2.2.3 Mit Zahlungsmahnung vom 26. August 2021 (Akten
+STRK.2022.56 S. 41) wies die Steuerverwaltung die Rekurrierenden darauf hin,
+dass die Forderung für die kantonalen Steuern 2018 noch nicht ausgeglichen sei
+und für die Mahnung eine Gebühr von CHF 40. erhoben werde, und ersuchte sie
+die Rekurrierenden, den ausstehenden Betrag von CHF 29'934.70 innerhalb von 20
+Tagen zu begleichen. Gemäss der Darstellung der Steuerverwaltung war der
+Zahlungsmahnung ein Kontoauszug kantonale Steuern 2018 vom 26. August 2021
+beigelegt (Akten STRK.2022.56 S. 22). Darin sind unter anderem der Betrag von
+CHF 29'227. mit dem Text «Ordentliche Steuer (def.)» und der Betrag von
+CHF 40. mit dem Text «Inkasso-Mahngebühr» verbucht.
+
+2.2.4 Am 9. September 2021 bezahlten die Rekurrierenden
+den Betrag von CHF 29'934.70 (Akten STRK.2022.56 S. 22 und 45).
+
+2.2.5 Mit Abschlusszinsrechnung vom 15. September
+2021 (Akten STR.2022.56 S. 43) ersuchte die Steuerverwaltung die
+Rekurrierenden, den beiliegenden Kontoauszug zu prüfen und ihr den Saldo von
+CHF 206.35 zu überweisen. Beim beiliegenden Kontoauszug handelt es sich
+offensichtlich um den Kontoauszug kantonale Steuern 2018 vom 15. September 2021
+(Akten STRK.2022.56 S. 44). Darin sind unter anderem der Betrag von CHF
+29'227. mit dem Text «Ordentliche Steuer (def.)» und der Betrag von CHF
+2'158.85 mit dem Text «Belastungszins» verbucht.
+
+2.2.6 Am 2. November 2021 bezahlten die Rekurrierenden
+den Betrag von CHF 206.35 (Akten STRK.2022.56 S. 23 und 45).
+
+2.2.7 Mit E-Mail vom 28. Januar 2022 (Akten
+STRK.2022.56 S. 47 f.) behauptete der Rekurrent, dass die Veranlagungsverfügung
+für das Jahr 2018 nie bei den Rekurrierenden eingegangen sei, und ersuchte er
+die Steuerverwaltung um Zustellung der Veranlagungsverfügung.
+
+2.3 Der angefochtene Entscheid beruht auf der
+Annahme, dass zumindest die Zahlungsmahnung und der Kontoauszug vom 26. August
+2021 sowie die Abschlussrechnung und der Kontoauszug vom 15. September 2021 den
+Rekurrierenden zugestellt worden sind (vgl. angefochtener Entscheid E. 4b).
+Dies wird von den Rekurrierenden nicht bestritten. Im Übrigen ist es
+offensichtlich, dass sie nicht genau die von der Steuerverwaltung geforderten
+Beträge hätten bezahlen können, wenn sie von der Zahlungsmahnung und der
+Abschlusszinsrechnung keine Kenntnis gehabt hätten. Damit besteht kein
+ernsthafter Zweifel daran, dass zumindest die Zahlungsmahnung und der
+Kontoauszug vom 26. August 2021 sowie die Abschlussrechnung und der
+Kontoauszug vom 15. September 2021 den Rekurrierenden zugestellt worden sind.
+
+2.4 Nach allgemeiner Lebenserfahrung erscheint es
+höchst unwahrscheinlich, dass die Rekurrierenden den erheblichen Betrag von CHF
+29'934.70 bezahlt haben, ohne vorher auf dem Kontoauszug zu prüfen, woraus er
+resultiert. Bei der Prüfung des Kontoauszugs haben sie zweifellos den
+Buchungstext «Ordentliche Steuer (def.)» gesehen. Aufgrund des Vermerks «def.»,
+der den definitiven Charakter der Steuerforderung eindeutig zum Ausdruck
+bringt, müssen sie erkannt haben, dass bereits eine Veranlagungsverfügung
+ergangen war. Eine Abschlusszinsrechnung wird offensichtlich nicht ausgestellt,
+bevor der Steuerbetrag, für den die Belastungszinsen geschuldet sind, mit einer
+Veranlagungsverfügung festgesetzt worden ist. Daher müssen die Rekurrierenden
+auch aufgrund der Abschlusszinszahlung erkannt haben, dass die Steuerverwaltung
+bereits eine Veranlagungsverfügung erlassen hatte. Dass die
+Veranlagungsverfügungen der Steuerverwaltung sowohl die kantonalen Steuern als
+auch die direkte Bundessteuer betreffen, war den Rekurrierenden aufgrund der
+bisherigen Veranlagungsverfügungen zweifellos bekannt. Insgesamt besteht
+aufgrund der vorstehend dargelegten Umstände kein ernsthafter Zweifel daran,
+dass sich die Rekurrierenden spätestens im Zeitpunkt der Zahlung vom 2.
+November 2021 bewusst gewesen sind, dass betreffend die kantonalen Steuern und
+die direkte Bundessteuer für die Steuerperiode 2018 bereits eine
+Veranlagungsverfügung der Steuerverwaltung ergangen war. Wenn sie diese noch
+nicht erhalten hätten, hätten sie die Steuerverwaltung nach allgemeiner
+Lebenserfahrung höchstwahrscheinlich bereits im Jahr 2021 um Zustellung der
+Veranlagungsverfügung ersucht, nachdem sie aufgrund der Zahlungsmahnung und der
+Abschlusszinsrechnung erkannt hätten, dass sie eine solche erlassen hat.
+
+2.5 Dass die Steuerverwaltung die Rekurrierenden
+mahnen musste, stellt jedenfalls im vorliegenden Fall entgegen der Ansicht der
+Rekurrierenden (Akten STRK.2022.56 S. 2) kein Indiz dafür dar, dass ihnen
+die Veranlagungsverfügung mit der Zahlungsaufforderung nicht zugestellt worden
+ist. In den Akten findet sich eine 1. Mahnung vom 27. Januar 2020, mit der die
+Steuerverwaltung die Rekurrierenden darauf hinwies, dass sie die
+Steuererklärung 2018 nicht innerhalb der Abgabefrist eingereicht hatten, und
+sie ersuchte, innerhalb von 30 Tagen die Steuererklärung einzureichen oder um
+Erstreckung der Abgabefrist zu ersuchen (Akten Steuerverwaltung
+Veranlagungsverfahren 2018). Mit einer sich ebenfalls in den Akten befindenden
+2. Mahnung vom 26. März 2020 stellte die Steuerverwaltung fest, dass die
+Rekurrierenden auf die erste Mahnung nicht reagiert hatten, und ersuchte sie
+unter Androhung einer Veranlagung nach pflichtgemässem Ermessen innert 20 Tagen
+die Steuererklärung 2018 oder ein Gesuch um Verlängerung der Abgabefrist
+einzureichen (Akten Steuerverwaltung Veranlagungsverfahren 2018).
+Dementsprechend stellte die Steuerverwaltung den Rekurrierenden eine 1.
+Steuererklärungs-Mahngebühr und eine 2. Steuererklärungs-Mahngebühr in Rechnung
+(Akten STRK.2022.56 S. 42). Die Rekurrierenden machen nicht geltend, dass sie
+die Mahnungen nicht erhalten hätten oder die Gebühren zu Unrecht erhoben worden
+seien. Folglich ist davon auszugehen, dass sie zwei Mal gemahnt werden mussten,
+bevor sie ihre Steuererklärung 2018 eingereicht haben. Mit Schreiben vom 21.
+August 2020 ersuchte die Steuerverwaltung die Rekurrierenden unter Androhung
+der Veranlagung der fraglichen Positionen nach pflichtgemässem Ermessen um
+Einreichung von Unterlagen und Belegen betreffend die selbständige
+Erwerbstätigkeit des Rekurrenten (Akten STRK.2022.56 S. 32; vgl. dazu angefochtener
+Entscheid Sachverhalt lit. A). Gemäss den insoweit unbestrittenen
+Feststellungen der Vorinstanz blieb diese Rückfrage unbeantwortet
+(angefochtener Entscheid Sachverhalt lit. A). Dass sie das Schreiben vom
+21. August 2020 nicht erhalten hätten, machen die Rekurrierenden nicht geltend.
+Somit haben die Rekurrierenden mehrere von der Steuerverwaltung angesetzte
+Fristen nicht eingehalten und sind sie ihrer gesetzlichen Pflicht zur
+Einreichung der Steuererklärung 2018 erst nach zweimaliger Mahnung nachgekommen.
+Unter diesen Umständen erscheint es naheliegend, dass sie auch den geschuldeten
+Steuerbetrag erst aufgrund der Zahlungsmahnung vom 26. August 2021 bezahlt
+haben, obwohl sie bereits mit der Veranlagungsverfügung vom 10. Juni 2021 die
+Steuerabrechnung mit Zahlungsaufforderung vom gleichen Tag erhalten haben.
+
+2.6 Insgesamt besteht aufgrund der vorstehend
+dargelegten Umstände kein vernünftiger Zweifel daran, dass sich die
+Rekurrierenden spätestens im Zeitpunkt der Zahlung vom 2. November 2021 bewusst
+gewesen sind, dass betreffend die kantonalen Steuern und die direkte
+Bundessteuer für die Steuerperiode 2018 bereits eine Veranlagungsverfügung der
+Steuerverwaltung ergangen war. Wenn sie diese noch nicht erhalten hätten,
+hätten sie die Steuerverwaltung nach allgemeiner Lebenserfahrung
+höchstwahrscheinlich bereits im Jahr 2021 um Zustellung der
+Veranlagungsverfügung ersucht, nachdem sie aufgrund der Zahlungsmahnung und der
+Abschlusszinsrechnung erkannt hätten, dass sie eine solche erlassen hat.
+
+2.7 Nach allgemeiner Lebenserfahrung erscheint es
+höchst unwahrscheinlich, dass die Rekurrierenden am 9. September und 2.
+November 2021 die auf der Veranlagungsverfügung beruhenden Beträge bezahlt
+hätten, wenn sie die Veranlagungsverfügung noch nicht erhalten hätten. Der
+Einwand der Rekurrierenden, ein Mahnschreiben einer Behörde entfalte einen
+psychologischen Zahlungsdruck, ändert daran nichts. Da die Zahlungsfrist 20
+Tage betrug, wäre es den Rekurrierenden ohne weiteres möglich gewesen, die
+Steuerverwaltung innert dieser Frist um Zustellung der Veranlagungsverfügung zu
+ersuchen und die Zahlung nach deren Erhalt rechtzeitig zu leisten. Noch
+unwahrscheinlicher ist es, dass die Rekurrierenden sogar die Mahngebühr bezahlt
+hätten, wenn sie die Veranlagungsverfügung noch nicht erhalten hätten. Nach
+allgemeiner Lebenserfahrung ist davon auszugehen, dass sie die Gebühr in diesem
+Fall bestritten hätten mit dem Argument, die Mahnung sei mangels Zustellung der
+Veranlagungsverfügung zu Unrecht erfolgt.
+
+2.8 Insgesamt besteht aufgrund der vorstehend
+dargelegten Umstände kein ernsthafter Zweifel daran, dass die
+Veranlagungsverfügung vom 10. Juni 2021 betreffend die kantonalen Steuern und
+die direkte Bundessteuer für die Steuerperiode 2018 den Rekurrierenden nach dem
+10. Juni 2021 und vor dem 2. November 2021 zugestellt worden ist. Damit ist
+bewiesen, dass die Veranlagungsverfügung den Rekurrierenden im Zeitraum
+zwischen dem 11. Juni und 1. November 2021 zugestellt worden ist. Aus dem von
+ihnen zitierten Bundesgerichtsurteil 2C_179/2021 vom 25. Oktober 2021 können
+die Rekurrierenden nichts zu ihren Gunsten ableiten, weil ihre Darstellung,
+dass ihnen die Veranlagungsverfügung erst aufgrund ihrer Nachfrage im Januar
+2022 zugestellt worden sei, aus den vorstehend dargelegten Gründen weder
+plausibel noch nachvollziehbar und mit an Sicherheit grenzender
+Wahrscheinlichkeit auszuschliessen ist. Dass ihr guter Glaube zu vermuten ist
+(vgl. BGer 2C_179/2021 vom 25. Oktober 2021 E. 4.6, 2C_570/2011 vom 24. Januar
+2012 E. 4.3; Zweifel/Hunziker ,
+a.a.O., Art. 116 DBG N 19), ändert daran nichts.
+
+2.9 Die
+Einsprache ist innert 30 Tagen nach der Zustellung zu erheben (§ 160
+Abs. 1 StG; Art. 132 Abs. 1 DBG). Da aus den vorstehend dargelegten
+Gründen bewiesen ist, dass die Veranlagungsverfügung den Rekurrierenden
+spätestens am 1. November 2021 zugestellt worden ist, hat die Einsprachefrist
+spätestens am 1. Dezember 2021 geendet. Damit sind die Einsprachen vom 4.
+März 2022 verspätet. Folglich ist die Steuerverwaltung darauf zu Recht nicht
+eingetreten. Die Feststellung der Steuerrekurskommission, dass die
+Steuerverwaltung die Veranlagungsverfügung zu Recht nicht revidiert habe
+(angefochtener Entscheid E. 5 f.), wird im Rekurs und der Beschwerde nicht
+beanstandet. Daher ist im vorliegenden Urteil nicht weiter darauf einzugehen.
+
+3.
+
+Aus den vorstehenden Erwägungen folgt, dass die angefochtenen Entscheide
+nicht zu beanstanden sind. Der Rekurs und die Beschwerde sind daher abzuweisen.
+Bei diesem Ausgang der Verfahren tragen die Rekurrierenden in solidarischer
+Verbindung deren Kosten mit Gebühren von CHF 800. für das Rekursverfahren und
+CHF 600. für das Beschwerdeverfahren (§ 30 Abs. 1 VRPG, § 23 des
+Reglements über die Gerichtsgebühren [SG 154.810]).
+
+Demgemäss erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs und die Beschwerde werden
+abgewiesen.
+
+Die Rekurrierenden und Beschwerdeführenden tragen in
+solidarischer Verbindung die Gerichtskosten des verwaltungsgerichtlichen
+Rekurs- und Beschwerdeverfahrens mit einer Gebühr von CHF 1'400.,
+einschliesslich Auslagen (CHF 800. entfallend auf das Rekursverfahren
+VD.2023.103 und CHF 600. entfallend auf das Beschwerdeverfahren VD.2023.104).
+
+Mitteilung an:
+
+- Rekurrierende
+
+- Steuerverwaltung
+Basel-Stadt
+
+- Steuerrekurskommission
+Basel-Stadt
+
+- Eidgenössische
+Steuerverwaltung
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Der Gerichtsschreiber
+
+MLaw Lukas von Kaenel
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
