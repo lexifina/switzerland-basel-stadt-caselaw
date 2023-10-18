@@ -1,0 +1,432 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2024.41"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "EL"
+docket: "EL.2023.5"
+docket_2: "SVG.2024.41"
+decided: "2023-10-18"
+published: "2024-02-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76509&W10_KEY=3049206&nTrefferzeile=72&Template=search_result_document.html"
+cites_decisions: ["8C_939/2008", "9C_103/2021", "9C_242/2018", "9C_313/2020", "9C_326/2022", "9C_623/2016", "BGE 105 V 271", "BGE 130 V 263", "BGE 138 I 225", "BGE 142 V 299", "BGE 142 V 457", "EL.2023.5"]
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-002.md", "switzerland/bund/acts/830.1/art-013.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/831.30/art-009.md", "switzerland/bund/acts/831.30/art-010.md", "switzerland/bund/acts/831.301/art-016c.md"]
+---
+
+# Mietzinsaufteilung (Bundesgerichtsurteil 8C_223/2024 vom 04.11.2024)
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 8.
+Februar 2024
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz),
+Dr. med. W. Rühl , P. Kaderli
+
+und
+Gerichtsschreiberin lic. iur. S. Dreyer
+
+Parteien
+
+A ____
+
+[...]
+
+vertreten durch Dr. B____, Advokat,
+
+substituiert durch MLaw C____,
+
+[...]
+
+Beschwerdeführer
+
+Amt für Sozialbeiträge
+Basel-Stadt
+
+Rechtsdienst, Grenzacherstrasse 62,
+Postfach, 4005 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+EL.2023.5
+
+Einspracheentscheid vom 18.
+Oktober 2023
+
+Mietzinsaufteilung
+
+Tatsachen
+
+I.
+
+a)       A____ (Beschwerdeführer), geboren 1976, bezieht seit längerer
+Zeit Ergänzungsleistungen (EL) und kantonale Beihilfen (BH) zu seiner Rente der
+Eidgenössischen Invalidenversicherung. Nachdem er im Fragebogen betreffend die
+periodische Überprüfung der EL (eingegangen beim Amt für Sozialbeiträge [ASB]
+am 22. Mai 2023) angegeben hatte, sein Sohn (D____, geboren [...] März
+2023) wohne im gleichen Haushalt wie er, leitete das ASB weitere Abklärungen in
+die Wege (vgl. das Schreiben vom 23. Mai 2023; in den Antwortbeilagen [AB]).
+Zu zusätzlichen Abklärungen veranlasst sah sich das ASB schliesslich, als es vom
+Amt für Migration (mit E-Mail vom 2. Juni 2023; in den AB) darüber in Kenntnis
+gesetzt worden war, dass der Beschwerdeführer beabsichtige zu heiraten und sich
+auch die künftige Ehefrau (E____, geboren 1998) bereits in der Schweiz aufhalte.
+Aufgrund der eingereichten Unterlagen (eingegangen am 19. Juni 2023) nahm
+das ASB rückwirkend ab Januar 2023 eine Neuberechnung der EL vor. Namentlich
+wurde ab Januar 2023 auf der Einnahmenseite ein Sparguthaben von Fr. 2'860.--
+(anstatt Fr. 250.--) angerechnet. Darüber hinaus wurde (wegen des
+Zusammenwohnens des Beschwerdeführers mit E____ seit dem 4. Januar 2023) ab
+Februar 2023 auf der Ausgabenseite eine Mietzinsaufteilung vorgenommen,
+mithin Fr. 9'000.-- (anstatt wie bisher Fr. 18'000.--), als
+Mietkosten abgezogen. Aufgrund der Neuberechnung ergab sich ab Februar 2023
+noch ein EL-Anspruch des Beschwerdeführers von Fr. 2'532.-- (anstatt wie bisher
+von Fr. 3'247.--) (vgl. die Berechnungsblätter; AB 1).
+
+b)       Mit Verfügung vom 27. Juni 2023 forderte das ASB vom
+Beschwerdeführer in der Zeit von Januar 2023 bis Juni 2023 zu viel bezogene EL
+im Umfang von Fr. 3'575.-- zurück (durch Verrechnung ab dem 1. Oktober
+2023 mit den monatlichen BH). Zudem wurde der monatliche Beitrag von Fr. 3'247.--
+per Februar 2023 auf neu Fr. 2'532.-- herabgesetzt (vgl. AB 1). Hiergegen erhob
+der Beschwerdeführer am 6. Juli 2023 Einsprache (vgl. AB 2), welche er am 23.
+August 2023 näher begründete. Namentlich machte er geltend, eine Mietzinsaufteilung
+sei nicht rechtens, da E____ sich nicht an den Mietkosten beteiligen könne,
+zumal sie aufgrund ihres Aufenthaltsstatus (Duldung ohne Arbeitsbewilligung) nicht
+arbeiten dürfe. Was die Zeit vor der Geburt des gemeinsamen Sohnes angehe, so
+habe ihr eine Arbeitstätigkeit auch gar nicht zugemutet werden können; bis Juni
+2023 müsse ihr Mutterschutz zugestanden werden (vgl. AB 3). Am 12. September
+2023 erliess das ASB eine Revisionsverfügung, in welcher die in der Verfügung
+vom 27. Juni 2023 zugrunde gelegten Bemessungsfaktoren übernommen wurden (vgl. AB).
+Mit Einspracheentscheid vom 18. Oktober 2023 wies das ASB die gegen
+die Verfügung vom 27. Juni 2023 erhobene Einsprache des Beschwerdeführers
+ab (vgl. AB 4).
+
+II.
+
+a)       Hiergegen hat der Beschwerdeführer am 23. Oktober 2023
+Beschwerde beim Sozialversicherungsgericht Basel-Stadt erhoben. Er beantragt,
+es sei der Einspracheentscheid vom 18. Oktober 2023 vollumfänglich aufzuheben. Dementsprechend
+seien ihm die verrechneten Leistungen vollumfänglich zurückzuerstatten und die
+Höhe der monatlichen EL rückwirkend per Februar 2023 wieder auf Fr. 3'247.--
+festzulegen. Eventualiter sei die Angelegenheit im Sinne der Erwägungen zur
+neuen Entscheidung an die Vorinstanz zurückzuweisen. Unter o/e Kostenfolge. E ventualiter sei ihm für
+das vorliegende Verfahren die unentgeltliche Prozessführung und Verbeiständung
+mit Dr. B____ als Advokaten zu bewilligen.
+
+b)       Das Amt für Sozialbeiträge Basel-Stadt (Beschwerdegegnerin)
+schliesst mit Beschwerdeantwort vom 1. Dezember 2023 auf Abweisung der
+Beschwerde.
+
+c)       Der Beschwerdeführer hält mit Replik vom 8. Januar
+2024 an seiner Beschwerde fest. Gleichzeitig beantragt er die Durchführung
+einer mündlichen Parteiverhandlung.
+
+III.
+
+a)       Am 8. Februar 2024 findet eine mündliche
+Parteiverhandlung vor der Kammer des Sozialversicherungsgerichts statt.
+
+b)       An dieser nehmen der Beschwerdeführer persönlich sowie
+sein Vertreter MLaw C____ teil. Für die Beschwerdegegnerin erscheinen MLaw F____
+und Frau Leibundgut.
+
+c)       Zunächst erfolgt die Befragung des Beschwerdeführers. Anschliessend
+erhalten die Parteien Gelegenheit zum Vortrag.
+
+d)       Für sämtliche Ausführungen wird auf das geführte
+Verhandlungsprotokoll sowie die nachstehenden Entscheidungsgründe verwiesen.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist nach § 82 Abs. 1 des
+Gesetzes vom 3. Juni 2015 betreffend die Organisation der Gerichte und der
+Staatsanwaltschaft (Gerichtsorganisationsgesetz [GOG]; SG 154.100) in
+Verbindung mit § 1 Abs. 1 des Gesetzes vom 9. Mai 2001 über das
+Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht
+in Sozialversicherungssachen (Sozialversicherungsgerichtsgesetz [SVGG]; SG
+154.200) in Verbindung mit Art. 56 Abs. 1 und Art. 57 des Bundesgesetzes vom 6.
+Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR
+830.1) als einzige kantonale Instanz sachlich zuständig zum Entscheid über die
+vorliegende EL-Streitigkeit. Die örtliche Zuständigkeit des angerufenen
+Gerichts ergibt sich aus Art. 58 Abs. 1 ATSG resp. § 24a Abs. 1 des kantonalen
+Gesetzes vom 11. November 1987 über die Einführung des ELG sowie über die
+Ausrichtung von kantonalen BH (EG/ELG; SG 832.700).
+
+1.2. Da neben der Rechtzeitigkeit (vgl. Art. 60 ATSG resp. § 24a Abs. 1 EG/ELG)
+auch die übrigen formellen Voraussetzungen gegeben sind, ist auf die Beschwerde
+einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin macht im Wesentlichen geltend, man habe im
+Rahmen der EL-Berechnung ab Februar 2023 korrekterweise eine Mietzinsaufteilung
+vorgenommen, da die Lebenspartnerin des Beschwerdeführers fortan mit ihm
+zusammengewohnt habe (vgl. insb. die Beschwerdeantwort). Die Richtigkeit dieser
+Ansicht wird vom Beschwerdeführer in Abrede gestellt. Er wendet zur Hauptsache
+ein, die Lebenspartnerin des Beschwerdeführers hätte sich nicht an den
+Mietkosten beteiligen können, da sie wegen ihrer fortgeschrittenen
+Schwangerschaft nicht dazu in der Lage gewesen sei, zu arbeiten. Im Übrigen habe
+sie aus rechtlichen Gründen (Aufenthaltsstatus) auch gar nicht arbeiten dürfen
+(vgl. insb. die Beschwerde; siehe auch das Verhandlungsprotokoll).
+
+2.2. Umstritten und im Folgenden zu prüfen ist somit, ob die
+Beschwerdegegnerin  wegen des Zusammenwohnens des Beschwerdeführers mit seiner
+Lebenspartnerin  im Rahmen der EL-Berechnung ab Februar 2023 eine
+Mietzinsaufteilung vorgenommen und aufgrund dieser Neuberechnung mit Verfügung
+vom 27. Juni 2023, bestätigt mit Einspracheentscheid vom 18. Oktober 2023,
+zu Recht vom Beschwerdeführer zu viel bezogene EL in der Höhe von insgesamt Fr. 3'575.--
+zurückgefordert und den monatlichen EL-Betrag ab Februar 2023 auf Fr. 2'532.--
+festgelegt hat.
+
+3.
+
+3.1. Gestützt auf Art. 25 Abs. 1 Satz 1 ATSG, der auch auf die EL
+Anwendung findet (Art. 2 ATSG in Verbindung mit Art. 1 Abs. 1 des Bundesgesetzes
+vom 6. Oktober 2006 über die Ergänzungsleistungen [ELG; SR 831.30]), sind
+unrechtmässig bezogene EL zurückzuerstatten. Die Rückforderung unrechtmässig
+bezogener Leistungen kann nicht nur durch Zahlung, sondern auch durch
+Verrechnung getilgt werden (vgl. u.a. das Urteil des Bundesgerichts 9C_313/2020
+vom 3. März 2021 E. 4.1.). Die Rechtsgrundlage für die Verrechnung der
+EL-Rückforderungen mit Beihilfen findet sich in § 22 Abs. 2 EG/ELG.
+
+3.2. Anspruch auf EL haben insbesondere Personen mit Wohnsitz und
+gewöhnlichem Aufenthalt (Art. 13 ATSG) in der Schweiz, wenn sie Anspruch auf
+eine Rente der Eidgenössischen Invalidenversicherung haben (Art. 4 Abs. 1 lit.
+c des Bundesgesetzes vom 6. Oktober 2006 über die Ergänzungsleistungen [ELG;
+SR 831.30]), sofern die gemäss ELG anerkannten Ausgaben die anerkannten
+Einnahmen übersteigen. Die Berechnung der jährlichen EL ist in den Art. 9 ff.
+ELG und Art. 1 ff. der Verordnung vom 15. Januar 1971 über die
+Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV;
+SR 831.301) geregelt. Der Anspruch auf kantonale BH richtet sich nach § 14
+EG/ELG.
+
+3.3. 3.3.1.  Gemäss Art. 10 Abs. 1 ELG werden bei zu Hause lebenden
+Personen u.a. der Mietzins einer Wohnung und die damit zusammenhängenden
+Nebenkosten als Ausgaben anerkannt (lit b). Laut Art. 16c Abs. 1 Satz 1 ELV ist
+der Mietzins auf die einzelnen Personen aufzuteilen, wenn Wohnungen oder
+Einfamilienhäuser auch von Personen bewohnt werden, die nicht in die
+EL-Berechnung eingeschlossen sind. Nicht in der EL-Berechnung berücksichtigt
+sind u.a. die mit den EL-Berechtigten im Konkubinat lebenden Personen (C arigiet E rwin /K och U we , Ergänzungsleistungen zur AHV/IV, 3. Auflage, 2021, Randziffer
+[Rz.] 440; Rz. 3121.01 der Wegleitung über die Ergänzungsleistungen zur AHV und
+IV [WEL, ab Januar 2023 in Kraft stehende Fassung]). Es hat daher auch für
+Personen, die im Konkubinat leben, (grundsätzlich) eine Mietzinsaufteilung
+vorgenommen zu werden (vgl. Rz 3231.03 WEL). Mit Mietzinsaufteilung ist
+gemeint, dass vom anrechenbaren Mietzins des EL-Anspruchstellers ein Abzug für
+den Anteil der Mitbewohnerin vorzunehmen ist (vgl. u.a. BGE 130 V 263, 267 E.
+5.2).
+
+3.3.2.  In Bezug auf die Frage der Mietzinsaufteilung kommt es
+lediglich auf die Tatsache des gemeinsamen Bewohnens an und nicht darauf, ob
+die Mitbewohnerin dafür eine Mietbeteiligung geleistet hat oder nicht (vgl.
+u.a. das Urteil des Bundesgerichts 9C_326/2022 vom 23. November 2022 E. 5.2.).
+Keine Rolle spielt daher auch, wie der Mietzins innerhalb einer
+Wohngemeinschaft getragen wird (vgl. u.a. das Urteil des Bundesgerichts
+9C_103/2021 vom 15. März 2021 E. 2.3.).
+
+3.4. 3.4.1.  Die Mietzinsaufteilung hat gemäss Art. 16c Abs. 2 ELV "grundsätzlich"
+zu gleichen Teilen zu erfolgen. Die Rechtsprechung des Bundesgerichts ist
+jedoch in Bezug auf die Anerkennung eines Ausnahmetatbestandes gemäss Abs. 2
+von Art. 16c ELV restriktiv; denn mit der Mietzinsaufteilung soll
+verhindert werden, dass die EL auch für Mietanteile von Personen auszukommen
+haben, die nicht in die EL-Berechnung eingeschlossen sind (BGE 142 V 299, 305
+E. 3.2.2. und E. 5.2.2.; siehe auch das Urteil des Bundesgerichts 9C_326/2022
+vom 23. November 2022 E. 5.2.).
+
+3.4.2.  So kann eine Ausnahme im Wesentlichen nur dann angenommen
+werden, wenn das Wohnen im gemeinsamen Haushalt auf einer zivilrechtlichen
+Unterhaltspflicht beruht (vgl. BGE 142 V 299, 394 E. 3.2.2.; siehe auch das
+Urteil des Bundesgerichts 9C_326/2022 vom 23. November 2022 E. 3.2.2.). Eine
+solche ist jedoch  wie der Rechtsprechung des Bundesgerichts entnommen werden
+kann  bei einem Konkubinat zu verneinen (vgl. u.a. das Urteil des
+Bundesgerichts 8C_939/2008 vom 25. August 2009 E. 2.2) und fällt daher auch
+vorliegend nicht in Betracht; denn der Beschwerdeführer ist gemäss Auszug aus
+dem schweizerischen Zivilstandsregister (in Kopie anlässlich der
+Parteiverhandlung vom 8. Februar 2024 abgegeben) erst seit dem 31. Januar 2024 mit
+E____ verheiratet. Ergänzend ist im vorliegenden Zusammenhang auf das Urteil
+des Bundesgerichts 8C_939/2008 vom 25. August 2009 zu verweisen. In diesem
+hatte das Bundesgericht klargestellt, die Tatsache des (gestützt auf Art. 8
+Abs. 1 der Konvention zum Schutz der Menschenrechte und Grundfreiheiten [EMRK];
+SR 0.101) erhaltenen Aufenthaltsrechts begründe in rechtlicher Hinsicht keinen
+Sachverhalt, der ausnahmsweise eine Abweichung vom Grundsatz des Art. 16c Abs.
+2 ELV rechtfertige (E. 2.2. des Urteils).
+
+3.4.3.  Als weiterer Ausnahmetatbestand gilt es, wenn der
+grösste Teil der Wohnung durch die andere Person genutzt wird (vgl. BGE 142 V
+299, 304 E. 3.2.1.; siehe auch u.a. die Urteile des Bundesgerichts 9C_326/2022
+vom 23. November 2022 E. 5.2. und 9C_242/2018 vom 21. Februar 2019 E. 4.1.;
+siehe auch WEL Rz 3231.04). Davon kann vorliegend ebenfalls nicht ausgegangen
+werden.
+
+3.4.4.  In der Rechtsprechung des Bundesgerichts erwähnt wird
+schliesslich auch, dass das gemeinsame Wohnen auf einer moralischen Pflicht
+beruhen kann (vgl. u.a. BGE 130 V 263, 268 E. 5.3 und BGE 105 V 271, 273 E. 2).
+Eine sittliche, mithin moralisch begründete, Pflicht wurde jedoch bislang nur
+äusserst selten angenommen. Vom Grundsatz gleichmässiger Aufteilung des
+Mietzinses auf alle Mitbewohner abgewichen wurde in einem Fall, in welchem ein
+pensionierter ausgebildeter Psychiatriepfleger in derselben Wohnung wie eine
+psychisch und körperlich beeinträchtigte betagte Bezügerin von
+Ergänzungsleistungen, die ständig betreuungsbedürftig war, wohnte. Der Pfleger
+erbrachte kostenlos zahlreiche Hilfeleistungen, ohne welche die
+Leistungsbezügerin in ein Pflegeheim hätte ziehen müssen. Dafür bezahlte er
+keinen Beitrag an die Miete. Unter solchen Umständen rechtfertigte es sich
+ausnahmsweise, im Sinne eines Ausgleichs den anrechenbaren Mietzins nicht zu
+reduzieren (BGE 105 V 271). Anders wurde hingegen bei der Beurteilung
+eines Falles entschieden, in dem die EL-Bezüger ihre pflege- und
+betreuungsbedürftige Tochter samt Familie während der mit starken
+Komplikationen verbundenen Schwangerschaft und während der ersten Zeit nach der
+Fehlgeburt bei sich aufgenommen hatten (Urteil des Bundesgerichts P 53/01 vom
+13. März 2002). Das Eidgenössische Versicherungsgericht war dabei zum Ergebnis
+gelangt, dass weder eine rechtliche noch  angesichts der wirtschaftlichen
+Verhältnisse der EL-Bezüger unter den gegebenen Umständen  eine moralische
+Pflicht anerkannt werden konnte, die Familie der Tochter
+kostenfrei bei sich aufzunehmen. Insofern unterscheide sich die Situation von
+jener in BGE 105 V 271, wo sich die moralische Pflicht aus einer unentgeltlich
+erbrachten Gegenleistung ergeben habe (E. 3a/cc). Verneint worden war eine
+Ausnahmekonstellation schliesslich auch  insbesondere vor dem Hintergrund der
+seit 1. Januar 2008 geltenden Rechtslage (vgl. dazu BGE 142 V 299,
+309 E. 5.2.3)  im Fall einer Enkelin, die ihre im selben Haushalt lebende,
+EL-beziehende Grossmutter pflegte und dafür keinen Beitrag an die Miete
+bezahlte. Offen gelassen wurde dabei, ob im BGE 105 V 271 zugrundeliegenden
+Sachverhalt tatsächlich von einem aus moralischen oder sittlichen Gründen
+erfolgten Verzicht auf eine Beteiligung des Mitbewohners am Mietzins auszugehen
+sei oder ob es sich dabei nicht vielmehr um eine Gegenleistung der EL-Bezügerin
+für die ihr erbrachten Betreuungsleistungen gehandelt habe. Eine korrekte
+EL-Anspruchsberechnung hätte diesfalls, so das Gericht, einerseits einen
+reduzierten Mietzins und anderseits entsprechende Ausgaben für Pflegeleistungen
+ausweisen müssen, denn die Pflegeleistungen seien im Wert der von der
+betreuenden Person verursachten Wohnkosten in natura vergütet worden. Es erscheine
+daher zumindest zweifelhaft, ob BGE 105 V 271 überhaupt als Präjudiz für eine
+Praxis herangezogen werden könne, die es zulasse, aus sittlichen oder
+moralischen Gründen auf eine Mietzinsaufteilung zu verzichten (BGE 142 V 299,
+306 ff. E. 4 und 5).
+
+3.4.5.  Im bereits erwähnten Urteil 8C_939/2008 vom 25. August
+2009 E. 2.2. (betr. Beherbergung des Konkubinatspartners) hat das Bundesgericht
+am Rande noch bemerkt, die Versicherte habe (auch) keine moralische oder
+sittliche Unterstützungspflicht im EL-rechtlichen Sinne getroffen (vgl. E. 2.2.).
+Schliesslich wurde vom Bundesgericht im ebenfalls bereits angeführten Urteil
+9C_326/2022 vom 23. November 2022 (vgl. Erwägung 3.4.2. und 3.4.3.
+hiervor) speziell betont, es gelte dem mit Art. 16c ELV verfolgten Ziel
+nachzuleben, zu verhindern, dass die EL auch für Mietanteile von Personen
+aufzukommen haben, welche nicht in die EL-Berechnung eingeschlossen seien. Die
+Triebfeder, die den Beschwerdegegner dazu bewogen habe, die betreffende Person
+über einen längeren Zeitraum respektive immer wieder unentgeltlich bei sich zu
+beherbergen, spiele dabei, auch wenn sie uneigennützig gewesen sei ("...
+helfen wollte"; "... hat davon keinen Vorteil"), keine
+entscheidwesentliche Rolle (vgl. E. 5.2. des Urteils). Gemessen an dieser sehr restriktiven
+Bundesgerichtspraxis ist daher auch im vorliegenden Fall nicht von einer moralischen
+Unterstützungspflicht des Beschwerdeführers auszugehen. Ein ausnahmsweises
+Abweichen vom Grundsatz des Art. 16c Abs. 2 ELV erscheint folglich nicht angezeigt.
+
+3.4.6.  Schliesslich geht auch die Rüge der Verletzung des
+Rechtes auf Familie (vgl. S. 5 der Beschwerde) fehl. Weder Art.
+13 Abs. 1 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18.
+April 1999 (BV; SR 101) noch Art. 8 Ziff. 1 der
+Konvention zum Schutz der Menschenrechte und Grundfreiheiten (EMRK; SR 0.101) verleihen
+einen unmittelbaren Anspruch auf finanzielle Leistungen zu Gunsten von
+Familien. Garantiert wird ein Recht auf Zusammenleben und auf persönliche
+Kontakte unter den Familienmitgliedern (BGE 138 I 225, 231 E. 3.8.1.). Dass
+sich durch die in Art. 16c ELV vorgesehene Mietzinsaufteilung die finanzielle
+Situation der Familie verschlechtert, stellt jedoch keinen Eingriff in das
+durch die Verfassung und EMRK geschützte Grundrecht auf Achtung der Familie dar
+(vgl. diesbezüglich auch das Urteil des Bundesgerichts 9C_623/2016 vom 21. März
+2017 E. 2.2.1). Aus dem Grundrecht auf Achtung des Familienlebens ( Art. 8 EMRK und Art.
+13 Abs. 1 BV ) lässt sich kein Anspruch auf finanzielle Leistungen
+zugunsten von Familien und
+keine Garantie eines bestimmten Niveaus der Lebenshaltung ableiten (BGE 142 V 457, 463 E. 3.4.2).
+
+3.5. Aus all dem folgt, dass die Beschwerdegegnerin in korrekter Art und
+Weise die EL des Beschwerdeführers neu berechnet und gestützt darauf 
+fristgerecht (vgl. Art. 25 Abs. 2 erster Satz ATSG)  mit Verfügung vom 27.
+Juni 2023, bestätigt mit Einspracheentscheid vom 18. Oktober 2023, vom Beschwerdeführer
+zu viel bezogene EL in der Höhe von insgesamt Fr. 3'575.-- zurückgefordert
+und den monatlichen EL-Betrag ab Februar 2023 auf Fr. 2'532.-- festgelegt
+hat.
+
+4.
+
+4.1. Den obigen Ausführungen zufolge ist die Beschwerde somit abzuweisen
+und der Einspracheentscheid vom 18. Oktober 2023 zu bestätigen.
+
+4.2. Das Verfahren ist kostenlos.
+
+4.3. Die ausserordentlichen Kosten sind wettzuschlagen. Da dem
+Beschwerdeführer die unentgeltliche Verbeiständung gewährt wurde, ist seinem
+Vertreter ein angemessenes Honorar aus der Gerichtskasse auszurichten. Das
+Sozialversicherungsgericht spricht im Sinne einer Richtlinie  in
+durchschnittlichen Fällen mit doppeltem Schriftenwechsel ein Honorar von Fr.
+3'000.-- (inklusive Auslagen) zuzüglich Mehrwertsteuer zu. Vorliegend ist in
+Bezug auf die sich stellenden Sachverhalts- und Rechtsfragen von einem
+durchschnittlichen Fall auszugehen. Allerdings ist aufgrund der Durchführung einer
+Parteiverhandlung von einem etwas überdurchschnittlichen anwaltlichen Aufwand auszugehen,
+so dass sich ein Zuschlag von Fr. 600.-- rechtfertigen lässt. Daraus ergibt
+sich ein Honorar von Fr. 3'600.-- (inklusive Auslagen) zuzüglich
+Mehrwertsteuer. Da davon auszugehen ist, dass die anwaltlichen Bemühungen zu
+zwei Dritteln im 2023 und zu einem Drittel im 2024 angefallen sind, ist daher
+auf Fr. 2'400.-- eine Mehrwertsteuer von 7.7 % und auf Fr. 1'200.-- von 8.1 %
+zuzusprechen. Dr. B____ ist folglich ein Anwaltshonorar von Fr. 3'600.--
+zuzüglich Mehrwertsteuer von 7.7 % auf Fr. 2'400.-- und von 8.1 % auf Fr.
+1'200.-- aus der Gerichtskasse auszurichten.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      Die Beschwerde wird abgewiesen und der
+Einspracheentscheid vom 18. Oktober 2023 bestätigt.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen. Dr. B____ wird ein Anwaltshonorar von Fr. 3'600.-- (inklusive
+Auslagen) zuzüglich Mehrwertsteuer von 7.7 % auf Fr. 2'400.-- und von 8.1 % auf
+Fr. 1'200.-- aus der Gerichtskasse ausgerichtet.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                    Die
+Gerichtsschreiberin
+
+Dr. G. Thomi lic.
+iur. S. Dreyer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin         Bundesamt für Sozialversicherungen
+
+Versandt am:
