@@ -1,0 +1,488 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.661"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2022.253"
+docket_2: "AG.2023.661"
+decided: "2023-10-26"
+published: "2024-05-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=75985&W10_KEY=3048518&nTrefferzeile=87&Template=search_result_document.html"
+cites_decisions: ["8C_818/2010", "BGE 136 I 17", "VD.2013.180", "VD.2015.35", "VD.2016.136", "VD.2016.77", "VD.2017.200", "VD.2018.164", "VD.2022.253"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# Kündigung des Arbeitsverhältnisses
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2022.253
+
+URTEIL
+
+vom 26. Oktober 2023
+
+Mitwirkende
+
+Dr. Stephan Wullschleger , lic. iur. André Equey, Dr. Andreas Traub
+
+und Gerichtsschreiber
+Dr. Urs Thönen
+
+Beteiligte
+
+Basler Verkehrs-Betriebe (BVB) Rekurrentin
+
+Claragraben 55, 4005 Basel
+
+vertreten durch [], Advokat,
+
+[]
+
+gegen
+
+A____ Rekursgegner
+
+[]
+
+vertreten durch [],
+Rechtsanwältin,
+
+[]
+
+Gegenstand
+
+Rekurs gegen einen Entscheid
+der Personalrekurskommission
+
+vom 1. November 2022
+
+betreffend Kündigung des
+Arbeitsverhältnisses
+
+Sachverhalt
+
+A____ (Rekursgegner) arbeitet seit dem 1. Juli 2018 als
+Wagenführer bei den Basler Verkehrs-Betrieben (BVB; Rekurrentin). Am 19. Mai
+2022 erstellte er um 20.25 Uhr während der Fahrt mit dem Tram mit einer Geschwindigkeit
+von 40 km/h auf der Dreirosenbrücke in Basel mit seinem Smartphone ein Foto des
+Sonnenuntergangs. An einer Haltestelle um 20.29 Uhr postete er das Foto in
+seinem WhatsApp-Status. Nachdem der Teamleiter davon am Folgetag Kenntnis
+erhalten und mit dem Mitarbeiter ein Gespräch zur Klärung der Situation geführt
+hatte, wurde dieser vorsorglich von der Arbeitsleistung freigestellt. Nach
+Einholung einer schriftlichen Stellungnahme des Mitarbeiters kündigten die
+Basler Verkehrsbetriebe das Arbeitsverhältnis mit Verfügung vom 10. Juni 2022
+gestützt auf § 30 Abs. 2 lit. d des Personalgesetzes aufgrund
+schwerer, sicherheitsrelevanter Pflichtverletzung per 30. September 2022 und
+stellten ihn bis zum Ende der Kündigungsfrist frei. Den dagegen erhobenen Rekurs
+des Mitarbeiters hiess die Personalrekurskommission mit Entscheid vom 1.
+November 2022 gut, hob die Kündigungsverfügung auf und sprach dem
+rekurrierenden Mitarbeiter eine Parteientschädigung von CHF 2500. inkl.
+Auslagen zuzüglich Mehrwertsteuer zu.
+
+Gegen diesen Entscheid richtet sich der mit Eingabe vom 15.
+November 2022 angemeldete Rekurs der Basler Verkehrs-Betriebe. Nach Eröffnung
+des begründeten Entscheids begründete die Rekurrentin ihren Rekurs mit Eingabe
+vom 5. April 2023, mit dem sie die kosten- und entschädigungsfällige Aufhebung
+des angefochtenen Entscheids und die Bestätigung der Kündigung vom 10. Juni
+2022 beantragte. Mit Vernehmlassungen vom 19. Mai 2023 und 30. Mai 2023
+beantragten die Personalrekurskommission und der Mitarbeiter die Abweisung
+resp. die kosten- und entschädigungsfällige Abweisung des Rekurses. Die
+Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für das vorliegende
+Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen. Das Urteil ist auf
+dem Zirkulationsweg ergangen.
+
+Erwägungen
+
+1.
+
+1.1 Nach § 40 Abs. 1 des
+Personalgesetzes (PG, SG 162.100) können Verfügungen über
+personalrechtliche Massnahmen gemäss den §§ 24 und 25 PG mittels Rekurs
+bei der Personalrekurskommission angefochten werden. Deren Entscheid unterliegt
+nach § 40 Abs. 1 in Verbindung mit § 43 PG dem Rekurs an das
+Verwaltungsgericht, das in der Besetzung mit drei Mitgliedern entscheidet.
+Unter Vorbehalt abweichender Bestimmungen des Personalgesetzes gelten gemäss
+§ 40 Abs. 5 PG für das Verfahren die Bestimmungen des
+Verwaltungsrechtspflegegesetzes (VRPG, SG 270.100; vgl. zum Ganzen Meyer , Staatspersonal, in: Buser
+[Hrsg.], Neues Handbuch des Staats- und Verwaltungsrechts des Kantons
+Basel-Stadt, Basel 2008, S. 667, 700 f.).
+
+1.2 Die Anstellungsbehörde kann gegen einen
+Entscheid der Personalrekurskommission selbstständig Rekurs beim
+Verwaltungsgericht erheben (§ 40 Abs. 3 PG). Auf den frist- und
+formgerecht eingereichten Rekurs ist daher einzutreten.
+
+1.3 Die Kognition des Verwaltungsgerichts richtet
+sich nach der allgemeinen Bestimmung von § 8 VRPG. Demnach prüft das
+Gericht insbesondere, ob die Personalrekurskommission das öffentliche Recht
+nicht oder nicht richtig angewandt, den Sachverhalt unrichtig festgestellt,
+wesentliche Form- oder Verfahrensvorschriften verletzt oder von dem ihr
+zustehenden Ermessen einen unzulässigen Gebrauch gemacht hat (statt vieler
+VGE VD.2016.77 vom 3. November 2016 E. 1.3).
+
+2.
+
+Strittig ist die Zulässigkeit der mit Verfügung vom 10. Juni
+2022 vorgenommenen Kündigung des Rekursgegners aufgrund schwerer,
+sicherheitsrelevanter Pflichtverletzungen gemäss § 30 Abs. 2
+lit. d PG.
+
+2.1 Gemäss § 30 Abs. 2 lit. d PG kann
+die Anstellungsbehörde das Arbeitsverhältnis kündigen, wenn die Mitarbeiterin
+oder der Mitarbeiter die vertraglichen oder gesetzlichen Pflichten wiederholt
+missachtet oder eine schwere Pflichtverletzung begangen hat. Die Kündigung
+wegen wiederholter Pflichtverletzung setzt dabei gemäss § 30 Abs. 3
+PG die vorgängige Mahnung mit Ansetzung einer angemessenen Bewährungsfrist
+voraus. Wegen normaler oder leichter Pflichtverletzungen wie z.B.
+Unpünktlichkeit, übermässiger privater Telefonate, übermässigen privaten
+Internet-Surfens oder Flüchtigkeiten in der Arbeitserledigung ist eine
+Kündigung nur dann zulässig, wenn sich die betroffene Person während der ihr
+gesetzten Bewährungszeit nicht gebessert hat. Eine schwere Pflichtverletzung,
+die keine Ansetzung einer Bewährungsfrist erfordert, muss deshalb geeignet
+sein, das dem Arbeitsverhältnis zugrundeliegende Vertrauensverhältnis so
+empfindlich zu stören, dass auch mit einer Bewährungsfrist das verlorene
+Vertrauen in der Regel nicht wieder hergestellt werden kann
+(VGE VD.2018.164 vom 9. August 2019 E. 2.1.2, VD.2013.180 vom 23.
+Dezember 2014 E. 3.1, VD.621/2001 vom 12. August 2002 E. 3c; Meyer , a.a.O., S. 667, 694; Mühlebach , Aus der Praxis der
+Personalrekurskommission des Kantons Basel-Stadt, in: BJM 2015, S. 285,
+290 f.). Der Ratschlag und Entwurf zum Personalgesetz führt hierzu
+Folgendes aus: «Damit schon eine einmalige Pflichtverletzung für eine Kündigung
+genügt, muss sie schwer sein. Dies ist dann der Fall, wenn das Vertrauen des
+Arbeitgebers in die künftige ordnungsgemässe Aufgabenerfüllung wesentlich
+beeinträchtigt ist oder aber der Verbleib der betroffenen Person an der Arbeitsstelle
+das Vertrauen des Volkes in das ordnungsgemässe Funktionieren des Staates
+erschüttern würde» (VGE VD.2016.136 vom 26. Juni 2017 E. 4.2, mit
+Hinweis auf Ratschlag Nr. 8941 vom 7. September 1999, S. 52; vgl.
+auch VGE 689/2003 vom 21. Januar 2004 E. 3b; Meyer/‌Weihrauch/Hafner/Reimann, Öffentliche
+Arbeitsverhältnisse im Kanton Basel-Stadt, Basel 2019, S. 208 f.).
+Bei der Prüfung des Vorliegens einer schweren Pflichtverletzung bedarf es einer
+Würdigung aller Umstände des Einzelfalls unter Berücksichtigung der Dauer der
+Anstellung, des bisherigen Verhaltens oder der Stellung und Verantwortung der
+betroffenen angestellten Person ( Meyer/Weihrauch/
+Hafner/‌Reimann , a.a.O., S. 207 f.). In diesem Sinne
+gilt das Verhältnismässigkeitsprinzip bei der Qualifikation eines Verhaltens
+als schwere Pflichtverletzung ( Merker/Conradin/‌Häggi
+Furrer , in: Bürgi/Bürgi-Schneider [Hrsg.], Handbuch öffentliches
+Personalrecht, Zürich 2017, Kapitel 4 Rz. 207).
+
+2.2 Unbestritten ist vorliegend folgender
+Sachverhalt. Der Rekursgegner hat am 19. Mai 2022 um 20.25 Uhr während
+seiner Fahrt als Tramführer über die Dreirosenbrücke bei einer Geschwindigkeit
+von 40 km/h ein Foto des Sonnenuntergangs geschossen, welches er danach bei
+einem Halt an einer Haltestelle in seinem WhatsApp-Status gepostet hat. Diesen
+Sachverhalt hat der Rekursgegner zunächst mit schriftlicher Stellungnahme vom
+24. Mai 2022 (Vorakten [act. 3] S. 29 und 63) anerkannt, mit einem
+emotionalen Reflex aufgrund aktueller privater Probleme mit seiner Ehefrau begründet
+und als Fehler bereut. Nachdem er den Sachverhalt gegenüber seinem Vorgesetzten
+noch gleichentags wiederum in Abrede gestellt hatte, bestätigte er im Rahmen
+der Gewährung des rechtlichen Gehörs mit Stellungnahme vom 7. Juni 2022
+(Vorakten [act. 3] S. 28 und 70) wiederum den Sachverhalt wie auch den
+Umstand, damit einen sicherheitsrelevanten Regelverstoss begangen zu haben, und
+bereute seine Handlung erneut.
+
+2.3 Mit ihrer Verfügung vom 10. Juni 2022 hat die
+Rekurrentin diesen Sachverhalt unter Berücksichtigung der Instruktionen in den
+Ziffern 9.1 und 9.3 der aktuellen Fahrdienstvorschriften BVB / BLT vom 1. Juli
+2018 (Kapitel «Fahrdienst», Seite 82 ff.) und der BVB-Betriebsweisung vom
+19. Januar 2016, wonach die Benutzung von Mobil-telefonen während der Fahrt
+verboten ist, wie auch unter Berufung auf den Verhaltenskodex BVB als mehrfache
+und in schwer sicherheitsrelevanter Art und Weise erfolgte Verletzung der
+dienstlichen, vertraglichen und gesetzlichen Pflichten qualifiziert. Der
+Mitarbeiter habe damit explizit gegen seine Treuepflicht, die
+Fahrdienstvorschriften, eine explizite Weisung und den Verhaltenskodex der BVB
+verstossen. Er habe mit seinem Verhalten seine Wahrnehmungsfähigkeit im Sinne
+der Verkehrssicherheit erheblich eingeschränkt und damit sich selbst, seine
+beförderten Fahrgäste und alle übrigen Verkehrsteilnehmenden in schwer
+sicherheitsrelevanter Art und Weise gefährdet. Dieses hoch sicherheitsrelevante
+Verhalten bilde eine schwere Pflichtverletzung respektive ein schwer
+pflichtwidriges Verhalten, welches das dem Arbeitsverhältnis zugrunde liegende
+Vertrauensverhältnis so empfindlich gestört habe, dass der Anstellungsbehörde
+eine Weiterbeschäftigung nicht zugemutet werden könne.
+
+2.4 Auch die Vor­instanz hat die Benutzung eines
+Smartphones im Strassenverkehr durch einen Wagenführer unter Hinweis auf die
+genannten und dem Rekursgegner bekannten Bestimmungen der
+Fahrdienstvorschriften BVB / BLT als Pflichtverletzung qualifiziert. Für die
+Prüfung, ob dabei eine schwere Pflichtverletzung vorliegt, verwies sie aber auf
+eine Abwägung der Gesamtumstände des Einzelfalls. Sie erwog zunächst, dass die
+Gefährdung aufgrund der Unachtsamkeit beim Hantieren mit einem Mobiltelefon
+nicht zu unterschätzen sei. Ein leeres Tram habe bei einer Geschwindigkeit von
+40 km/h einen Bremsweg von 30 Metern. Zudem lege es in den fünf Sekunden, die
+der Wagenführer gemäss seiner eigenen Aussage benötigte, um das Mobiltelefon
+aus der Hosentasche zu nehmen und das Foto aufzunehmen, mindestens 55 Meter
+zurück, welche zum Bremsweg hinzugerechnet werden müssten. Mit der verzögerten
+Einleitung einer Notbremsung erhöhe sich das Risiko eines Verkehrsunfalls,
+wobei Notbremsungen auch ohne Unfall zu Verletzungen von Passagieren führen
+könnten. Allerdings sei auch die konkrete Verkehrssituation mit einem geringen
+Verkehrsaufkommen, wenigen weit entfernten Fahrzeugen und abgetrennten
+Verkehrsflächen zu berücksichtigen. Es sei daher nicht mit überraschend
+agierenden anderen Verkehrsteilnehmenden zu rechnen gewesen. Durch die
+Unaufmerksamkeit habe der Wagenführer nur eine abstrakte, keine konkrete
+Gefährdung verursacht. Zudem sei sich der Wagenführer während des Vorgangs
+weder der Tragweite noch der massiven Konsequenzen seines Handelns bewusst
+gewesen. Er habe die Fotografie aus einem Reflex geschlossen. Dass er sie in
+seinen WhatsApp-Status gestellt habe, zeige, dass er sich der verkehrs- und
+arbeitsrechtlichen Bedeutung seines Handelns nicht bewusst gewesen sei. Trotz
+der regelmässigen Hinweise der Anstellungsbehörde auf das Verbot seien Hinweise
+auf die Konsequenzen eines Verstosses unterblieben. Der Rekursgegner habe die
+Pflichtverletzung umgehend eingestanden und es handle sich um ein einmaliges
+Fehlverhalten bei ansonsten guter Arbeitsleistung. Daraus zog die Vor­instanz
+den Schluss, der einmalige Vorfall erweise sich aufgrund der Verkehrssituation,
+des unmittelbaren Geständnisses und der Reue des Rekursgegners als nicht derart
+gravierend, dass eine Weiterführung des Dienstverhältnisses nicht zumutbar
+wäre. Objektiv betrachtet sei der Vorfall nicht geeignet, das Vertrauen der
+Anstellungsbehörde in den Mitarbeiter zu zerstören, weshalb unter den konkreten
+Umständen keine schwere Pflichtverletzung im Sinne von § 30 Abs. 2
+lit. d PG vorliege.
+
+3.
+
+3.1 Dem hält die Rekurrentin entgegen, es liege
+entgegen der Auffassung der Vor­instanz eine konkrete Pflichtverletzung und
+nicht eine abstrakte Gefährdung vor. Die Vor­instanz stelle unrichtigerweise in
+den Vordergrund, dass die pflichtwidrige Handlung des Rekursgegners folgenlos
+geblieben ist. Sie beurteile damit nicht das pflichtwidrige Verhalten selbst,
+sondern orientiere sich fälschlicherweise an dessen Folge. Das Verhalten sei
+aber nach seinem abstrakten Gefährdungs- und Risikopotential zu qualifizieren. Die
+Vorinstanz spreche dabei beschönigend davon, dass die pflichtwidrige
+Manipulation am Smartphone zu einer Unaufmerksamkeit geführt habe und komme zum
+verharmlosenden Schluss, dass dadurch eine abstrakte Gefährdung verursacht
+worden sei. Für die Beurteilung des Sachverhalts und die Wahl der adäquaten
+personalrechtlichen Massnahme sei allein entscheidend, worin die tatsächliche
+Pflichtverletzung durch den Mitarbeitenden liege. Entscheidend sei dabei die
+Art und Schwere der Pflichtverletzung, nicht deren Folge. Sei die
+Pflichtverletzung derart gravierend, dass das Arbeitsverhältnis nicht
+weitergeführt werden könne, so dürfe und müsse als angemessene
+personalrechtliche Massnahme die Kündigung des Arbeitsverhältnisses erfolgen.
+Die mit dem unbestrittenen Sachverhalt begangene Pflichtverletzung sei schwer. Die
+Sicherheit von anderen Verkehrsteilnehmern und Passagieren im öffentlichen
+Verkehr lasse keinerlei Kompromisse zu. Wagenführer bewegten sich in ihrer
+beruflichen Tätigkeit in einem hoch anspruchsvollen Umfeld. Ihre wichtigste und
+schwierigste Aufgabe liege darin, während ihres Fahrdienstes zu absolut jedem
+Zeitpunkt die volle Aufmerksamkeit auf den Verkehr und ihre Aufgabe als
+Wagenführer zu legen. In den Händen eines Wagenführers liege die alleinige
+Verantwortung über ein Tramfahrzeug von 55 Tonnen, das bereits bei einer
+Geschwindigkeit von 40 km/h einen Bremsweg von mindestens 30 Metern aufweise.
+Pflichtverletzungen eines Wagenführers könnten schnell zu schweren Schäden an
+Leib, Leben und Eigentum führen, woraus sich gegebenenfalls bedeutende
+Haftungsansprüche gegenüber der BVB (und damit dem Steuerzahler) ergeben könnten.
+Es sei deshalb geradezu essentiell, dass ein Wagenführer jederzeit in der Lage sei,
+schnell auf äussere Umstände zu reagieren und durch richtiges Verhalten im
+Führerstand die Gesundheit und Unversehrtheit von anderen Verkehrsteilnehmern
+und Passagieren zu schützen. Die Wagenführer wüssten dies und würden wiederholt
+darauf aufmerksam gemacht. Daher stelle das Verhalten des Rekursgegners für die
+Rekurrentin eine gravierende Dienstpflichtverletzung dar. Der Umstand, dass der
+Rekursgegner seinen Tramzug bei einer Geschwindigkeit von 40 km/h während einer
+verhältnismässig langen Zeit nicht ordnungsgemäss geführt habe, könne nicht als
+minder gravierende Unaufmerksamkeit verstanden werden. Es handle sich vielmehr
+um einen ganz gravierenden, gefährlichen und riskanten absichtlichen Verstoss
+gegen die eigentliche Kernverpflichtung eines Wagenführers im öffentlichen
+Verkehr. Es scheine wenig plausibel, wenn die Vor­instanz wiederum
+verharmlosend davon ausgehe, dass der Rekursgegner die Fotografie «aus einem
+Reflex geschossen» habe. Aus all diesen Gründen könne es sich nicht um eine
+leichte Pflichtverletzung handeln. Da der Rekursgegner gemäss Beurteilung der BVB
+absichtlich gegen hoch sicherheitsrelevante Vorschriften verstossen habe,
+qualifiziere sie das Vertrauensverhältnis zum betreffenden Mitarbeitenden als
+so stark beschädigt, dass es nicht mehr hergestellt werden könnte.
+
+Schliesslich rügt die Rekurrentin, dass die Vor­instanz ihren
+Ermessenspielraum verletzt habe. Sie sei darauf angewiesen, zur Gewährleistung
+eines jederzeit sicheren Fahrbetriebs entsprechend den spezifischen Umständen
+und Bedürfnissen in den jeweiligen Fällen harte Massnahme aussprechen zu
+können, wo infolge der Schwere einer Pflichtverletzung das notwendige
+Vertrauensverhältnis nicht mehr hergestellt werden könne. Die Vor­instanz habe
+vorliegend zu Unrecht ihre eigene Beurteilung an die Stelle der verfügenden
+Behörde gesetzt. Sie habe dabei unberücksichtigt gelassen, dass die Rekurrentin
+für ihre Entscheidung auch die Wirkung der betreffenden Pflichtverletzung in
+der Öffentlichkeit zu berücksichtigen habe. Es sei ein nachvollziehbares
+betriebliches Bedürfnis der Rekurrentin, gegenüber der Öffentlichkeit sowie dem
+Fahrpersonal klar zu zeigen, dass sie die Sicherheit des öffentlichen Verkehrs
+und die pflichtgemässe Aufgabenerfüllung ihres Personals konsequent verfolge
+und auf hoch risikobehaftete Sicherheitsverstösse mit einer geeigneten und erforderlichen
+Massnahme reagiere.
+
+3.2
+
+3.2.1 Der Rekurrentin ist insoweit zu folgen, als
+die Beurteilung der Leistung einer angestellten Person in erster Line Sache der
+Anstellungsbehörde ist (BGer 8C_818/2010 vom 2. August 2011 E. 3.4).
+Dem entspricht, dass auch die korrekte Aufgabenerfüllung und damit die
+Bedeutung einzelner Pflichten in einem Anstellungsverhältnis primär von der
+Anstellungsbehörde zu gewichten sind (vgl. VGE VD.2018.164 vom 9. August
+2019 E. 3.4.8). Es ist einem Verkehrsbetrieb daher unbenommen, an die
+konsequente und strenge Einhaltung von Sicherheitsbestimmungen hohe
+Anforderungen zu stellen. Daraus folgt, dass die Rekurrentin die Vornahme einer
+Fotografie während einer Tramfahrt mit 40 km/h, welche die Aufmerksamkeit des
+Rekursgegners während rund fünf Sekunden absorbierte, als Verletzung einer
+zentralen Dienstpflicht hat werten dürfen, welche grundsätzlich eine schwere
+Pflichtverletzung im Sinne von § 30 Abs. 2 lit. d PG zu begründen
+vermag. Insoweit kommt der Anstellungsbehörde ein gewisser
+Entscheidungsspielraum zu, in den die Rechtsmittel-instanzen nicht einzugreifen
+befugt sind.
+
+3.2.2 Zu berücksichtigen ist aber, dass bei der
+Kündigung einer Mitarbeiterin oder eines Mitarbeiters der staatlichen
+Verwaltung wie bei jedem Handeln des Staates das Verhältnismässigkeitsprinzip zu
+wahren ist (Art. 5 Abs. 2 und Art. 36 Abs. 3 der
+Bundesverfassung [BV, SR 101]; § 5 Abs. 2 der Verfassung des
+Kantons Basel-Stadt [SG 111.100]). Die Verhältnismässigkeit einer
+Kündigung bemisst sich dabei im Wesentlichen nach der Zweckgeeignetheit,
+Erforderlichkeit und Zumutbarkeit für die betroffene Person (BGE 136 I 17 E. 4.4
+S. 26). Es ist daher zu prüfen, ob sie personalpolitisch geeignet und erforderlich
+ist für die Durchsetzung der damit verfolgten Zwecke und in einem vernünftigen
+Verhältnis zu den Belastungen steht, die der betroffenen Person damit auferlegt
+werden (vgl. Häfelin/Müller/Uhlmann ,
+Allgemeines Verwaltungsrecht, 8. Auflage, Zürich 2020, Rz. 514;
+VGE VD.2018.164 vom 9. August 2019 E. 3.2, VD.2017.200 vom 22.
+Februar 2018 E. 8.2, VD.2015.35 vom 10. November 2015 E. 3.1). Dieser
+Überprüfung steht auch der Beurteilungsspielraum des Arbeitgebers bei der
+Beurteilung einer korrekten Aufgabenerfüllung, auf die er vertrauen darf, nicht
+entgegen (VGE VD.2018.164 vom 9. August 2019 E. 3.4.8).
+
+3.2.3 Der
+Gewährleistung der Verhältnismässigkeit einer Kündigung als personalrechtliche Massnahme
+dient dabei auch schon die gesetzliche Regelung der Kündigungsgründe. Deren
+Anforderungen sind dabei wie ausgeführt nach Massgabe des
+Verhältnismässigkeitsprinzips zu konkretisieren. Eine schwere Pflichtverletzung
+im Sinne von § 30 Abs. 2 lit. d PG, die keine Ansetzung einer
+Bewährungsfrist erfordert, muss deshalb geeignet sein, das dem
+Arbeitsverhältnis zugrundeliegende Vertrauensverhältnis so empfindlich zu
+stören, dass auch mit einer Bewährungsfrist das verlorene Vertrauen in der
+Regel nicht wieder hergestellt werden kann. Davon kann dann ausgegangen werden,
+wenn das Vertrauen des Arbeitgebers in die künftige ordnungsgemässe
+Aufgabenerfüllung wesentlich beeinträchtigt ist oder aber der Verbleib der
+betroffenen Person an der Arbeitsstelle das Vertrauen des Publikums in das
+ordnungsgemässe Funktionieren des Staates erschüttern müsste. In Anwendung des
+Verhältnismässigkeitsprinzips muss daher das Vorliegen einer schweren
+Pflichtverletzung in Würdigung aller Umstände des Einzelfalls unter
+Berücksichtigung der Dauer der Anstellung, des bisherigen Verhaltens und der
+Stellung und Verantwortung der betroffenen angestellten Person beurteilt werden
+(oben E. 2.1).
+
+3.2.4 Vor
+diesem Hintergrund durfte die Vor­instanz gerade auch mit Blick auf die Wahrung
+des Vertrauens der Öffentlichkeit in den Betrieb der Rekurrentin feststellen,
+dass der Rekursgegner mit seiner klaren Verletzung einer zentralen
+Verpflichtung zur Gewährleistung eines sicheren Tramverkehrs aufgrund der
+konkreten Verkehrsverhältnisse bloss eine abstrakte Gefahr für andere
+Verkehrsteilnehmende und die Passagiere des eigenen Wagens geschaffen hat.
+Weniger nachvollziehbar erscheint zunächst, wieso es den Rekursgegner entlasten
+soll, dass er sich der Tragweite seines Verhaltens bei der Vornahme der
+Fotografie nicht bewusst gewesen sein soll. Eine solche Ignoranz gegenüber
+einer zentralen Sicherheitspflicht scheint im Gegenteil geeignet, das Vertrauen
+des Arbeitsgebers in eine künftig ordnungsgemässe Aufgabenerfüllung zu
+beeinträchtigen (vgl. auch VGE VD.2018.164 vom 9. August 2019
+E. 3.4.4). Der Rekursgegner ist daher nicht zu hören, wenn er mit seiner
+Stellungnahme bestreiten lässt, dass er auf die sicherheitsrelevanten
+Bestimmungen aufmerksam gemacht worden sei. Dass während dem Führen eines
+Motorfahrzeugs nicht mit einem Mobiltelefon hantiert und fotografiert werden
+darf, entspricht dem Allgemeinwissen und dürfte selbst ohne wiederholte
+Hinweise der Arbeitgeberin vorausgesetzt werden. Offen gelassen werden kann
+auch, ob die Anstellungsbehörde proaktiv für alle erdenklichen Verletzungen
+zentraler Sicherheitsvorschriften explizit die Kündigung in Aussicht stellen
+muss, wie dies aus dem angefochtenen Entscheid abgeleitet werden könnte.
+Massgebend erscheint vorliegend aber, dass sich der Rekursgegner von Anfang an
+grundsätzlich geständig und reuig gezeigt hat. Zwar hat er sein Verhalten
+zwischenzeitlich und beeindruckt von den ihm erkennbar gewordenen möglichen
+Folgen seiner Pflichtverletzung abgestritten, ist davon aber, wenngleich erst
+auf eine Widerlegung seiner nachgereichten Hypothese bezüglich der Aufnahme der
+Fotografie, rasch und noch im Rahmen des erstinstanzlichen Kündigungsverfahrens
+zurückgekommen. Weiter ist zu berücksichtigen, wie sich aus den vorliegenden
+Mitarbeiterbeurteilungen ergibt, dass der Rekursgegner während seinem
+vierjährigen Anstellungsverhältnis als Tramführer jeweils gut qualifiziert
+worden ist und sich bisher keine sicherheitsrelevanten oder sonstigen
+Verletzungen seiner Dienstpflichten hat zu Schulde kommen lassen. Vor diesem
+Hintergrund darf nach dem allgemeinen Lauf der Dinge nach Treu und Glauben
+gerade auch vor dem Hintergrund der Warnwirkung des von der Arbeitsgeberin
+eingeleiteten Kündigungsverfahrens davon ausgegangen werden, dass sich der
+Rekursgegner eine Verletzung sicherheitsrelevanter Dienstvorschriften von der
+Art des inkriminierten Verhaltens nicht mehr zu Schulde kommen lassen wird
+(vgl. auch VGE VD.2018.164 vom 9. August 2019 E.3.4.6). Damit erscheint
+aber eine sofortige Kündigung des Arbeitsverhältnisses weder erforderlich noch
+angemessen zur Gewährleistung eines sicheren Fahrbetriebs der Rekurrentin. Vor
+diesem Hintergrund kann trotz der gravierenden Verletzung einer zentralen
+Dienstvorschrift nicht von einer schweren Pflichtverletzung im Sinne von
+§ 30 Abs. 2 lit. d PG gesprochen werden.
+
+3.2.5 Vor
+diesem Hintergrund braucht auf die Rüge des Rekursgegners, die Rekurrentin
+wende eine rechtsungleiche Praxis bezüglich Kündigungen nach schwerwiegenden
+Ereignissen im Verkehr von Tramführern an, nicht weiter eingetreten zu werden.
+
+3.2.6 Der
+Rekurrentin bleibt es aber unbenommen, die Pflichtverletzung mit einer milderen
+Massnahme wie der Ansetzung einer Bewährungsfrist gemäss § 30 Abs. 3
+PG zur Gewährleistung einer künftig ordnungsgemässen Aufgabenerfüllung zu
+sanktionieren.
+
+4.
+
+Aus den
+vorstehenden Erwägungen folgt, dass sich der Rekurs als unbegründet erweist und
+daher abzuweisen ist. Das Verfahren ist kostenlos (§ 40 Abs. 4 PG). Aufgrund
+ihres Unterliegens hat die Rekurrentin dem Rekursgegner eine angemessene
+Parteientschädigung zu bezahlen (§ 30 Abs. 1 VRPG). Dieser hat darauf
+verzichtet, dem Gericht eine Honorarnote seiner Vertreterin einzureichen,
+weshalb der angemessene Vertretungsaufwand zu schätzen ist. Aufgrund des
+bereits im vor­instanzlichen Verfahren bestehenden Vertretungsverhältnisses und
+in Berücksichtigung der Vernehmlassung erscheint ein Bemühungsaufwand von rund
+vier Stunden angemessen. Daraus folgt unter Zugrundelegung des gerichtsüblichen
+Überwälzungsansatzes von CHF 250. pro Stunde und unter Berücksichtigung
+der Auslagenpauschale gemäss § 23 Abs. 1 des Honorarreglements (HoR;
+SG 291.400) von CHF 30. eine Partei­entschädigung von CHF 1030.,
+zuzüglich 7,7 % Mehrwertsteuer von CHF 79.30, angemessen.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird abgewiesen.
+
+Das verwaltungsgerichtliche Rekursverfahren ist
+kostenlos.
+
+Die Rekurrentin hat dem Rekursgegner für das
+verwaltungsgerichtliche Rekursverfahren eine Parteientschädigung von
+CHF 1'030., zuzüglich 7,7 % Mehrwertsteuer von CHF 79.30 zu bezahlen.
+
+Mitteilung an:
+
+- Rekurrentin
+
+- Rekursgegner
+
+- Personalrekurskommission
+des Kantons Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+Dr. Urs Thönen
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
