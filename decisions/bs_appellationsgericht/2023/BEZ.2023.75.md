@@ -1,0 +1,313 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.707"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2023.75"
+docket_2: "AG.2023.707"
+decided: "2023-11-14"
+published: "2025-04-12"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76070&W10_KEY=3048482&nTrefferzeile=299&Template=search_result_document.html"
+cites_decisions: ["1B_97/2017", "1C_443/2015", "2C_912/2017", "6B_720/2015", "BGE 129 III 445", "BGE 140 I 240", "BGE 140 III 221", "BGE 145 III 469"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# Ausstand
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2023.75
+
+ENTSCHEID
+
+vom 14. November 2023
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und
+a.o. Gerichtsschreiberin MLaw Lilith Fluri
+
+Parteien
+
+A____ Beschwerdeführer
+
+[...]
+
+gegen
+
+Kanton Basel-Stadt Beschwerdegegner
+
+vertreten durch
+
+Steuerverwaltung des Kantons
+Basel-Stadt
+
+Fischmarkt 10, Postfach, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid des Zivilgerichts
+
+vom 7. September 2023
+
+betreffend Ausstand
+
+Sachverhalt
+
+Mit
+Zahlungsbefehl vom 9. September 2022 setzte der Kanton Basel-Stadt
+(Beschwerdegegner), vertreten durch die Steuerverwaltung des Kantons Basel-Stadt,
+gegen A____ (Beschwerdeführer) eine Steuerforderung in der Höhe von CHF 4'915.50
+mit Zins zu 3 % seit dem 9. September 2022, zuzüglich CHF 187.60 aufgelaufenem
+Zins sowie CHF 710.00 Kosten und gesetzliche Gebühren in Betreibung (Betreibung
+Nr. [...]). Der Zahlungsbefehl wurde am 29. März 2023 dem Beschwerdeführer
+zugestellt, welcher am 18. April 2023 gegen die gesamte Forderung
+Rechtsvorschlag erhob.
+
+Am 9. August
+2023 beantragte der Beschwerdegegner beim Zivilgericht Basel-Stadt die
+definitive Rechtsöffnung für diesen Zahlungsbefehl. Mit Verfügung vom 15.
+August 2023 liess der Instruktionsrichter dem Beschwerdeführer das
+Rechtsöffnungsbegehren zustellen und setzte ihm Frist zur Begründung des von
+ihm erhobenen Rechtsvorschlags. Am 28. August 2023 reichte der Beschwerdeführer
+eine Stellungnahme ein, mit welcher er folgende Anträge stellte:
+
+«
+
+· Verfahrensantrag:
+ Es sei bis zum rechtskräftigen Entscheid über das Ausstandsbegehren (nächste
+ Seite) dem Verfahren die aufschiebende Wirkung zu erteilen.
+
+· Es sei
+ festzustellen, dass die Prozessvoraussetzungen gemäss Art. 59 ZPO nicht oder
+ zumindest noch nicht erfüllt sind.
+
+· Ich sei von
+ allen beteiligten Gerichten und Behörden und der Gläubigerin ab sofort mit
+ dem korrekten amtlichen Namen «A____» in exakt dieser Schreibweise
+ anzuschreiben, wobei das Komma alternativ durch eine Zeilenschaltung ersetzt
+ werden kann.
+
+· Das
+ Rechtsöffnungsgesuch sei abzuweisen.
+
+· Alle Kosten seien
+ von vornherein auf die Staatskasse zu nehmen.»
+
+Zudem stellte
+der Beschwerdeführer ein Ausstandsbegehren gegen alle Richterinnen und Richter,
+«welche über die Hälfte ihres Erwerbseinkommens direkt oder indirekt durch den
+Kanton Basel-Stadt bezahlt erhalten». Am 7. September 2023 trat der Zivilgerichtspräsident
+auf dieses Begehren nicht ein. Mit Eingabe vom 22. September 2023 verlangte des
+Beschwerdeführer eine schriftliche Begründung dieses Entscheids, welche am 6.
+Oktober 2023 ausgefertigt wurde.
+
+Mit einer als
+«Beschwerde gegen Entscheide des Zivilgerichts (Ausstandsbegehren) Aktenzeichen
+[...] und [...]» bezeichneten Eingabe vom 28. Oktober 2023 wandte sich der Beschwerdeführer
+an das Appellationsgericht Basel-Stadt. Darin stellte er folgende Anträge:
+
+«
+
+· Die jeweils
+ drei Entscheidpunkte seien aufzuheben. Es sei festzustellen, dass das
+ Ausstandsbegehren vor Zivilgericht berechtigt war und einzuhalten ist.
+
+· Alle Kosten
+ seien von vornherein auf die Staatskasse zu nehmen.»
+
+Ausserdem
+stellte der Beschwerdeführer wiederum ein Ausstandsbegehren gegen alle Richterinnen
+und Richter, «welche über die Hälfte ihres Erwerbseinkommens direkt oder
+indirekt durch den Kanton Basel-Stadt bezahlt erhalten». Der Verfahrensleiter
+des Appellationsgerichts zog die Akten des Zivilgerichts bei und sah von der
+Einholung einer Stellungnahme des Beschwerdegegners ab. Der Entscheid ist auf
+dem Zirkulationsweg ergangen.
+
+Erwägungen
+
+1.
+
+Angefochten ist ein Entscheid des Zivilgerichts betreffend
+Ausstand des Gerichtspräsidenten. Ausstandsentscheide sind mit Beschwerde
+anfechtbar (Art. 50 Abs. 2 und Art. 319 lit. b der Schweizerischen
+Zivilprozessordnung [ZPO, SR 272]). Zuständig zur Beurteilung der Beschwerde
+ist das Dreiergericht des Appellationsgerichts (§ 92 Abs. 1 Ziff. 6 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Da über ein Ausstandsbegehren
+im summarischen Verfahren entschieden wird, beträgt die Beschwerdefrist zehn
+Tage (Art. 321 Abs. 2 ZPO; BGE 145 III 469 E. 3.3. f.). Auf die frist- und
+formgerecht eingereichte Beschwerde ist einzutreten.
+
+Mit der Beschwerde können die unrichtige Rechtsanwendung und
+die offensichtlich unrichtige Feststellung des Sachverhalts geltend gemacht
+werden (Art. 320 ZPO).
+
+2.
+
+Der Beschwerdeführer verlangt zunächst, dass alle
+Richterinnen und Richter, die über die Hälfte ihres Erwerbseinkommens direkt
+oder indirekt vom Kanton Basel-Stadt erhalten, in den Ausstand treten. Dieses
+Ausstandsbegehren begründet der Beschwerdeführer damit, dass das beim
+Zivilgericht hängige Rechtsöffnungsverfahren grossmehrheitlich Steuern und
+Gebühren des Kantons Basel-Stadt betreffe, sich das Gericht im Wesentlichen aus
+allgemeinen Kantonsmitteln finanziere und Gerichtspersonen nicht über die
+Quelle ihres eigenen Einkommens entscheiden dürften.
+
+Über ein streitiges Ausstandsbegehren entscheidet gemäss § 56
+Abs. 4 GOG unter Vorbehalt bundesrechtlicher Vorschriften eine Einzelrichterin
+oder ein Einzelrichter des betreffenden Gerichts, wenn es sich gegen ein
+Mitglied eines Einzelgerichts richtet (Ziff. 1), und das Dreiergericht des
+betreffenden Gerichts ohne die abgelehnte Gerichtsperson, wenn es sich gegen
+ein Mitglied des Dreiergerichts richtet (Ziff. 2). Bei einem Ausstandsbegehren
+gegen ein Mitglied des Dreiergerichts wird dieses für die Beurteilung des
+Ausstandsbegehrens durch ein ihm entsprechendes Gerichtsmitglied ersetzt (§ 56
+Abs. 5 GOG). Der Grundsatz, dass die abgelehnte Gerichtsperson am
+Ausstandsentscheid, der sie betrifft, nicht selber mitwirken darf, gilt jedoch
+nicht ausnahmslos. Auf ein missbräuchliches oder offensichtlich unzulässiges
+oder unbegründetes Ausstandsgesuch darf unter Mitwirkung der abgelehnten
+Gerichtsperson nicht eingetreten werden, selbst wenn diese nach dem anwendbaren
+Verfahrensrecht durch ein anderes Gerichtsmitglied zu ersetzen wäre (AGE BEZ.2023.49
+vom 20. Oktober 2023 E. 2; vgl. BGE 129 III 445 E. 4.2.2; BGer
+2C_912/2017 vom 18. Dezember 2017 E. 2.1 f., 1B_97/2017 vom 7. Juni
+2017 E. 4.3 f., 6B_720/2015 vom 5. April 2016 E. 5.5, 1C_443/2015 vom
+23. Februar 2016 E. 1; Wullschleger ,
+in: Sutter-Somm et al. [Hrsg.], Kommentar zur ZPO, 3. Auflage, Zürich
+2016, Art. 50 N 2).
+
+Die ZPO regelt den Ausstand in Art. 4751.
+Gemäss Art. 47 Abs. 1 lit. a ZPO tritt eine Gerichtsperson in den Ausstand,
+wenn sie in der Sache ein persönliches Interesse hat. Gemäss Art. 47
+Abs. 1 lit. f ZPO tritt eine Gerichtsperson in den Ausstand, wenn sie
+aus anderen Gründen als den in Art. 47 Abs. 1 lit. ae ZPO genannten,
+insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder ihrer
+Vertretung, befangen sein könnte. Art. 4751 ZPO konkretisieren den
+verfassungs- und menschenrechtlichen Anspruch der Parteien auf ein
+unparteiisches Gericht gemäss Art. 30 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft (BV, SR 101) und Art. 6 Ziff. 1 der
+Konvention zum Schutze der Menschenrechte und Grundfreiheiten (EMRK, SR 0.101)
+(AGE BEZ.2020.55 vom 10. März 2021 E. 2, BEZ.2019.63 vom 13. November 2019
+E. 2, BEZ.2017.49 vom 7. Februar 2018 E. 3.1; vgl. Kiener , in: Oberhammer et
+al. [Hrsg.], Kurzkommentar ZPO , 3. Auflage, Basel
+2021, Art. 47 N 1). Befangenheit und damit ein Ausstandsgrund ist
+generell anzunehmen, wenn Umstände bestehen, die geeignet sind, Misstrauen in
+die Unparteilichkeit der Gerichtsperson zu erwecken. Das subjektive Empfinden
+einer Partei ist bei der Beurteilung solcher Umstände nicht massgebend.
+Vielmehr müssen die Umstände bei objektiver Betrachtung den Anschein der
+Befangenheit oder Voreingenommenheit begründen. Dass die Gerichtsperson
+tatsächlich befangen ist, wird nicht verlangt (AGE BEZ.2020.55 vom 10. März
+2021 E. 2; vgl. BGE 140 I 240 E. 2.2 S. 242, 139 I 121
+E. 5.1 S. 125; Kiener ,
+a.a.O., Art. 47 N 2).
+
+Zu den persönlichen Interessen gemäss Art. 47
+Abs. 1 lit. a ZPO gehören zwar nicht nur solche, welche die Gerichtsperson
+direkt, sondern auch solche, die sie indirekt betreffen. Um ihre Unabhängigkeit
+in Frage zu stellen, muss das Interesse die betreffende Gerichtsperson aber nicht
+nur allgemein berühren, sondern ihre Interessensphäre spürbar und mehr als
+diejenige anderer Gerichtspersonen tangieren (BGE 140 III 221 E. 4.2). Selbst
+wenn der in Betreibung gesetzte Betrag als Bestandteil der allgemeinen
+Kantonsmittel zur Finanzierung der Löhne der Gerichtspersonen dienen sollte,
+hat die Frage, ob die Rechtsöffnung zu erteilen ist oder nicht und ob der vom
+Kanton in Betreibung gesetzte Betrag erhältlich gemacht werden kann oder nicht,
+offensichtlich keinen Einfluss darauf, wie hoch die Lohnansprüche der
+Gerichtspersonen sind und ob sie vom Kanton erfüllt werden oder nicht. Die
+Erfüllung der Lohnansprüche der Gerichtspersonen ist vielmehr völlig unabhängig
+davon gewährleistet, ob das beim Zivilgericht hängige Rechtsöffnungsgesuch des Kantons
+gutgeheissen oder abgewiesen wird. Damit berühren das Rechtsöffnungsverfahren
+und erst recht das diesbezügliche Ausstandsverfahren die Interessensphäre der
+damit befassten Gerichtspersonen offensichtlich nicht. Auch auf andere Art und
+Weise ist der vom Beschwerdeführer geltend gemachte Umstand bei objektiver
+Betrachtung offensichtlich nicht geeignet, den Anschein der Befangenheit oder
+Voreingenommenheit von Gerichtspersonen, die über die Hälfte ihres
+Erwerbseinkommens direkt oder indirekt vom Kanton Basel-Stadt erhalten, zu
+begründen oder Misstrauen in ihre Unparteilichkeit zu erwecken. Damit ist das
+Ausstandsbegehren des Beschwerdeführers offensichtlich unbegründet. Folglich
+kann darauf nicht eingetreten werden, dies unter Mitwirkung von Gerichtspersonen,
+die mehr als die Hälfte ihres Einkommens vom Kanton Basel-Stadt erhalten (vgl.
+AGE BEZ.2023.49 vom 20. Oktober 2023 E. 2, BEZ.2023.46 vom 20. Oktober 2023 E.
+2). Soweit sich das Ausstandsbegehren des Beschwerdeführers über seinen
+Wortlaut hinaus auch auf Gerichtsschreibende beziehen sollte, gelten die
+vorstehenden Erwägungen auch für diese.
+
+3.
+
+Bereits im Rechtsöffnungsverfahren vor Zivilgericht hat der
+Beschwerdeführer am 28. August 2023 ein Ausstandsgesuch gestellt, das mit
+dem im vorliegenden Beschwerdeverfahren gestellten Ausstandsgesuch identisch
+ist. Mit Entscheid vom 7. September 2023 trat ein vom Ausstandsbegehren
+betroffener Zivilgerichtspräsident als Einzelgericht auf das Ausstandsbegehren
+nicht ein.
+
+In erster Linie hat der Zivilgerichtspräsident das
+Nichteintreten auf das Ausstandsbegehren damit begründet, dass der vom
+Beschwerdeführer geltend gemachte Ausstandsgrund von vornherein untauglich sei.
+Wie sich aus den vorstehenden Erwägungen (oben E. 2) ergibt, ist diese
+Beurteilung korrekt und war der Zivilgerichtspräsident berechtigt, auf das
+offensichtlich unbegründete Ausstandsbegehren nicht einzutreten, obwohl er
+selbst davon betroffen war. Damit ist der angefochtene Entscheid jedenfalls im
+Ergebnis nicht zu beanstanden.
+
+4.
+
+Aus den vorstehenden Erwägungen folgt, dass auf das
+Ausstandsbegehren nicht einzutreten ist und die Beschwerde abzuweisen ist.
+Deshalb hat der Beschwerdeführer die Gerichtskosten des Beschwerdeverfahrens zu
+tragen (Art. 106 Abs. 1 ZPO). Diese werden auf CHF 200. festgesetzt (§ 13 Abs.
+2 in Verbindung mit § 10 Abs. 1 des Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf
+das Ausstandsbegehren vom 28. Oktober 2023 wird nicht eingetreten.
+
+Die Beschwerde gegen den Entscheid
+des Zivilgerichts vom 7. September 2023 ([...]) wird abgewiesen.
+
+Der Beschwerdeführer trägt die
+Gerichtskosten des Beschwerdeverfahrens von CHF 200..
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Steuerverwaltung Kanton Basel-Stadt
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die a.o. Gerichtsschreiberin
+
+MLaw Lilith Fluri
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. In vermögensrechtlichen Angelegenheiten gilt dies nur dann,
+wenn der Streitwert die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG
+erreicht (CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis
+bzw. CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage
+von grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht
+dem Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an
+deren Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des
+Rechtsmittels entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in
+der gleichen Rechtsschrift einzureichen.
