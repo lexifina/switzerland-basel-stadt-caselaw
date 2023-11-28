@@ -1,0 +1,533 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2024.53"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "UV"
+docket: "UV.2023.41"
+docket_2: "SVG.2024.53"
+decided: "2023-11-28"
+published: "2026-06-20"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76592&W10_KEY=3402894&nTrefferzeile=122&Template=search_result_document.html"
+cites_decisions: ["8C_354/2007", "8C_734/2021", "9C_527/2020", "BGE 115 V 62", "BGE 117 V 359", "BGE 119 V 335", "BGE 122 V 157", "BGE 125 V 351", "BGE 129 V 177", "BGE 134 V 231", "BGE 135 V 465", "BGE 138 V 218", "BGE 142 V 435", "BGE 147 V 161", "UV.2023.41"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-045.md", "switzerland/bund/acts/832.20/art-006.md"]
+---
+
+# UVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 28.
+November 2023
+
+Mitwirkende
+
+Dr. A. Pfleiderer
+(Vorsitz), Dr. med. W. Rühl , lic. iur. S.
+Bammatter-Glättli
+
+und
+Gerichtsschreiberin lic. iur. A. Gmür
+
+Parteien
+
+A_ ___
+
+vertreten durch B____
+
+Beschwerdeführer
+
+SUVA
+
+Rechtsabteilung, Fluhmattstrasse 1,
+Postfach, 6002 Luzern
+
+Beschwerdegegnerin
+
+Gegenstand
+
+UV.2023.41
+
+Einspracheentscheid vom 8. August
+2023
+
+Kausalzusammenhang
+
+Tatsachen
+
+I.
+
+Der 1972 geborene Beschwerdeführer arbeitete als diplomierter
+Gebäudereiniger und war in dieser Eigenschaft bei der Beschwerdegegnerin gegen
+die Folgen von Berufs- und Nichtberufsunfällen sowie Berufskrankheiten
+versichert. Am 5. August 2022 erlitt der Beschwerdeführer einen Auffahrunfall
+und verletzte sich dabei die Lunge und den Unterarm (vgl. Schadenmeldung UVG
+vom 12. August 2022, Suva-Akte 1). Noch am Unfalltag begab sich der
+Beschwerdeführer in die Notfallstation des C____, wo die Ärzte eine Blunt cardiac
+injury nach Hochgeschwindigkeitstrauma sowie einen Verdacht auf mehrere
+kleinste Lungenkontusionen / -einblutungen im rechten Lungenunterlappen
+diagnostizierten (Suva-Akte 12). In der Folge wurde der Beschwerdeführer von
+seinem Hausarzt, Dr. med. D____, ab 5. August 2022 zu 50% und ab 15. August
+2022 zu 100% arbeitsunfähig geschrieben (Suva-Akte 2). Die Beschwerdegegnerin
+erbrachte in diesem Zusammenhang die gesetzlichen Leistungen in Form von
+Übernahme der Heilkosten und Taggeldleistungen (vgl. u.a. Suva-Akte 31).
+
+Nachdem die Beschwerdegegnerin weitere medizinische Unterlagen
+zum Verfahren beigezogen hatte (Suva-Akte 15ff.), holte sie eine Beurteilung
+der Versicherungsmedizin ein (vgl. versicherungsmedizinische Beurteilung vom 3.
+November 2022, Suva-Akte 37). Mit Schreiben vom 8. November 2022 teilte sie dem
+Beschwerdeführer mit, dass die bestehenden Beschwerden am rechten Handgelenk
+nicht mehr unfallbedingt seien. Die Operation vom 8. November 2022 sei aufgrund
+von vorbestehenden degenerativen Befunden notwendig. Sie würden den Fall per 7.
+November 2022 abschliessen und den Anspruch auf weitere Versicherungsleistungen
+ab diesem Zeitpunkt ablehnen (Suva-Akte 39). Nach Eingang von weiteren
+medizinischen Unterlagen nahm der Versicherungsmediziner Dr. med. E____, Arzt
+für Allgemeinmedizin, am 1. März 2023 eine ärztliche Beurteilung betreffend die
+Beschwerden am rechten Handgelenk vor (Suva-Akte 96). Im Wesentlichen gestützt
+auf diese Beurteilung gab die Beschwerdegegnerin mit Verfügung vom 2. März 2023
+bekannt, dass gemäss der Versicherungsmedizin der im MRI vorgefundene und operierte
+Befund des «Triangular Fibrocartilage Complex (TFCC)» ausschliesslich
+vorbestehend degenerativer Natur bzw. Folge einer früheren Verletzung und nicht
+Folge oder Teilfolge des geltend gemachten Ereignisses vom 5. August 2022 sei.
+Es sei der Status quo sine eingetreten. Sie würden demnach an der
+Leistungseinstellung per 7. November 2022 festhalten (Suva-Akte 102). Dagegen
+erhob der Beschwerdeführer  unter Verweis auf einen Bericht des behandelnden
+Operateurs Dr. med. F____  am 17. April 2023 Einsprache (Suva-Akte 108). Mit
+Schreiben vom 24. Mai 2023 liess der Beschwerdeführer der Beschwerdegegnerin
+eine radiologische Stellungnahme von Dr. med. G____, Radiologie FMH, vom 17.
+Mai 2023 zukommen (Suva-Akten 115 und 116). Dazu nahm Dr. med. H____, Facharzt
+für Orthopädische Chirurgie und Traumatologie des Bewegungsapparates, von der
+Versicherungsmedizin der Beschwerdegegnerin am 4. Juli 2023 Stellung (Suva-Akte
+121). Nachdem sich der Beschwerdeführer am 13. Juli 2023 dazu vernehmen liess
+(Suva-Akte 122), wies die Beschwerdegegnerin mit Einspracheentscheid vom 8.
+August 2023 die Einsprache des Beschwerdeführers ab (Suva-Akte 124).
+
+II.
+
+Mit Beschwerde vom 11. September 2023 wird beantragt, es sei
+der Einspracheentscheid vom 8. August 2023 aufzuheben und die
+Beschwerdegegnerin sei zu verpflichten, dem Beschwerdeführer die gesetzlichen
+Leistungen zurückgehend auf das Unfallereignis vom 5. August 2022 über das
+Einstellungsdatum vom 7. November 2022 hinaus bis heute und bis auf Weiteres
+zuzusprechen und auszurichten. Eventualiter sei ein gerichtliches medizinisches
+Gutachten zur Klärung der Unfallkausalität der Verletzungen des Beschwerdeführers
+einzuholen. Subeventualiter sei die Streitsache an die Beschwerdegegnerin
+zurückzuweisen und es sei diese zu verpflichten, ein medizinisches Gutachten
+gemäss Art. 44 ATSG bei neutraler und objektiver Stelle einzuholen und nach
+Vorliegen dieses Gutachtens neu über den Leistungsanspruch des
+Beschwerdeführers zu befinden. In verfahrensrechtlicher Hinsicht wird um die
+Erstattung der Kosten für die vorprozessual eingeholte medizinische Expertise bei
+Dr. G____ in der Höhe von Fr. 600.-- ersucht.
+
+Mit Beschwerdeantwort vom 17. Oktober 2023 schliesst die
+Beschwerdegegnerin auf Abweisung der Beschwerde.
+
+Mit Eingabe vom 25. Oktober 2023 verzichtet der
+Beschwerdeführer auf eine Stellungnahme im Rahmen des zweiten
+Schriftenwechsels.
+
+III.
+
+Nachdem die Parteien auf eine mündliche Parteiverhandlung
+verzichtet haben, findet am 28. November 2023 die Urteilsberatung durch die
+Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+Das Sozialversicherungsgericht Basel-Stadt ist
+als einzige kantonale Instanz zuständig zum Entscheid über die vorliegende
+Streitigkeit (§ 82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz],
+GOG; SG 154.100). Die örtliche Zuständigkeit des angerufenen Gerichts ergibt
+sich aus Art. 58 Abs. 1 des Bundesgesetzes vom 6. Oktober 2000 über den
+Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR 830.1).
+
+Da auch die übrigen formellen Voraussetzungen
+erfüllt sind, ist auf die rechtzeitig erhobene Beschwerde einzutreten.
+
+2.
+
+2.1. Mit Einspracheentscheid vom 8. August 2023 verneint die
+Beschwerdegegnerin einen weiteren Anspruch des Beschwerdeführers auf
+Versicherungsleistungen über den 7. November 2022 hinaus. Gestützt auf die
+beiden Berichte der Versicherungsmediziner lägen am rechten Handgelenk keine
+Unfallfolgen betreffend das Ereignis vom 5. August 2022 vor. Allenfalls habe
+das Ereignis vorübergehende Beschwerden ausgelöst, welche jedoch sicherlich im
+Zeitpunkt der Leistungseinstellung am 7. November 2022 abgeheilt gewesen seien.
+In Anbetracht des ausführlichen Berichts des Versicherungsmediziners Dr. H____,
+der einerseits die Beurteilung des Versicherungsmediziners Dr. E____ bestätige
+und andererseits die Einschätzung des Radiologen Dr. G____ entkräfte, sei der
+Sachverhalt hinreichend abgeklärt und es erübrigten sich weitere
+Untersuchungen. Entsprechend sei der Antrag auf Einholen eines Gutachtens
+abzuweisen (Suva-Akte 124).
+
+2.2. Der Beschwerdeführer bringt demgegenüber vor, die Beschwerdegegnerin
+habe den Untersuchungsgrundsatz gemäss Art. 43 Abs. 1 ATSG verletzt, indem sie 
+nach Eingang der gutachterlichen Stellungnahme von Dr. G____ ­ lediglich eine
+Aktenbeurteilung durch ihren kreisärztlichen Dienst veranlasst und gestützt
+hierauf eine Leistungseinstellung verfügt habe. Die Beschwerdegegnerin hätte
+indes zwingend eine externe Expertise veranlassen müssen. Weiter komme auch dem
+kreisärztlichen Bericht von Dr. E____ eine verminderte Beweiskraft zu. Denn es
+handle sich um einen Arzt für Allgemeinmedizin. Er sei somit von vorneherein
+weder radiologisch noch orthopädisch und / oder traumatologisch besonders
+qualifiziert. Auffallend sei sodann, dass sowohl der Radiologe Dr. G____ als
+auch der Kreisarzt Dr. H____ davon ausgingen, dass die vorliegenden
+Bildgebungen zur Beurteilung der Unfallkausalität nicht ausreichten bzw. dass
+zumindest gewisse Fragen offen blieben. In Anbetracht der Äusserungen der Dres.
+G____ und H____ bezüglich der vorliegenden Bildgebung sei festzustellen, dass
+ganz offensichtlich Zusatzbildgebungen notwendig seien, um die Unfallkausalität
+der Beschwerden des Beschwerdeführers definitiv zu klären. Es werde somit
+ersichtlich, dass zur Beurteilung des Leistungsfalls des Beschwerdeführers nur
+unzureichend Abklärungen getätigt worden seien und somit der
+Untersuchungsgrundsatz von Art. 43 ATSG verletzt worden sei. Schliesslich sei
+festzuhalten, dass sich im vorliegenden Fall zwei medizinische Einschätzungen
+diametral widersprechend gegenüberstünden. Jedenfalls sei es aus juristischer
+Sicht unmöglich, die sich gegenüberstehenden medizinischen Einschätzungen
+bezüglich ihrer Beweiskraft einzuschätzen, was die Einholung eines
+medizinischen «Obergutachtens» zwingend erforderlich mache (vgl. Beschwerde vom
+11. September 2023).
+
+2.3. Im Nachfolgenden ist zu untersuchen, ob der Einspracheentscheid vom
+8. August 2023 einer rechtlichen Überprüfung standhält.
+
+3.
+
+3.1. Nach Art. 6 Abs. 1 UVG werden - soweit das Gesetz
+nichts anderes bestimmt - die Versicherungsleistungen bei Berufsunfällen,
+Nichtberufsunfällen und Berufskrankheiten gewährt. Für die Leistungspflicht
+eines Unfallversicherers setzt das UVG nebst dem Vorliegen
+eines Unfalls (Art. 4 ATSG) oder einer unfallähnlichen Körperschädigung (Art. 6
+UVG) voraus, dass zwischen dem Unfallereignis und dem eingetretenen Schaden ein
+natürlicher und ein adäquater Kausalzusammenhang besteht (BGE 142 V 435, 438 E.
+1).
+
+3.2. Als natürlich kausale Ursachen für einen gesundheitlichen Schaden
+gelten alle Umstände, ohne deren Vorhandensein der eingetretene Erfolg nicht,
+nicht in der gleichen Weise oder nicht zur gleichen Zeit eingetreten wäre.
+Entsprechend dieser Umschreibung genügt es für die Bejahung des natürlichen
+Kausalzusammenhangs, dass das schädigende Ereignis zusammen mit anderen
+Bedingungen die körperliche oder geistige Integrität der versicherten Person
+beeinträchtigt hat, der Unfall mit anderen Worten nicht weggedacht werden kann,
+ohne dass auch die eingetretene Gesundheitsstörung entfiele (BGE 147 V 161, E.
+3.2 mit Hinweisen; siehe auch BGE 119 V 335, E. 1). Für die Bejahung des
+natürlichen Kausalzusammenhangs genügt es daher, wenn der Unfall für eine
+bestimmte gesundheitliche Störung eine Teilursache darstellt (BGE 117 V 359 E.
+4b).
+
+Ob zwischen dem schädigenden Ereignis und einer Gesundheitsstörung ein
+natürlicher Kausalzusammenhang besteht, ist eine Tatfrage, worüber die
+Verwaltung und das Gericht nach dem im Sozialversicherungsrecht üblichen
+Beweisgrad der überwiegenden Wahrscheinlichkeit zu befinden haben. Die blosse
+Möglichkeit eines Zusammenhangs genügt für die Begründung der Leistungspflicht
+nicht (BGE 129 V 177, 181 E. 3.1; siehe auch BGE 138 V 218, 221 E. 6.).
+
+3.3. Ist die Unfallkausalität einmal mit der erforderlichen
+Wahrscheinlichkeit nachgewiesen, entfällt die deswegen anerkannte
+Leistungspflicht des Unfallversicherers erst, wenn der Unfall nicht mehr die
+natürliche und adäquate Ursache des Gesundheitsschadens darstellt, wenn also
+letzterer nur noch und ausschliesslich auf unfallfremden Ursachen beruht. Dies
+trifft dann zu, wenn entweder der (krankhafte) Gesundheitszustand, wie er
+unmittelbar vor dem Unfall bestanden hat (Status quo ante), oder aber derjenige
+Zustand, wie er sich nach dem schicksalsmässigen Verlauf eines krankhaften
+Vorzustandes auch ohne Unfall früher oder später eingestellt hätte (Status quo
+sine), erreicht ist. Ebenso wie der leistungsbegründende natürliche
+Kausalzusammenhang muss das Dahinfallen jeder kausalen Bedeutung von
+unfallbedingten Ursachen eines Gesundheitsschadens mit dem im
+Sozialversicherungsrecht allgemein üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit nachgewiesen sein. Die blosse Möglichkeit nunmehr gänzlich
+fehlender ursächlicher Auswirkungen des Unfalls genügt nicht. Da es sich
+hierbei um eine anspruchsaufhebende Tatfrage handelt, liegt die entsprechende
+Beweislast  anders als bei der Frage, ob ein leistungsbegründender natürlicher
+Kausalzusammenhang gegeben ist  nicht beim Versicherten, sondern beim
+Unfallversicherer (Urteil 8C_734/2021, E. 2.2.2. mit Hinweis auf SVR 2009 UV
+Nr. 3 S. 9, Urteil 8C_354/2007 E. 2.2).
+
+4.
+
+4.1. Umstritten ist, ob im Zeitpunkt der Leistungseinstellung per 7.
+November 2022 noch natürlich kausale Unfallfolgen vorgelegen haben.
+
+4.2. Zur Feststellung natürlicher Kausalzusammenhänge ist die
+rechtsanwendende Behörde naturgemäss auf Angaben ärztlicher Fachpersonen
+angewiesen. Hinsichtlich des Beweiswerts eines Arztberichts ist entscheidend,
+ob er für die streitigen Belange umfassend ist, auf allseitigen Untersuchungen
+beruht, auch die geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten
+(Anamnese) abgegeben worden ist, in der Beurteilung der medizinischen
+Zusammenhänge und der medizinischen Situation einleuchtet und ob die Schlussfolgerungen
+des Experten begründet und nachvollziehbar sind (BGE 134 V 231, 232 E. 5.1; BGE
+125 V 351, 352 E. 3a).
+
+In Bezug auf versicherungsinterne Berichte gilt es zu beachten, dass diesen
+nicht dieselbe Beweiskraft zukommt wie einem gerichtlichen oder einem im
+Verfahren nach Art. 44 ATSG vom Versicherungsträger in Auftrag gegebenen
+Gutachten. Soll ein Versicherungsfall ohne Einholung eines externen Gutachtens
+entschieden werden, sind an die Beweiswürdigung strenge Anforderungen zu
+stellen. Bestehen auch nur geringe Zweifel an der Zuverlässigkeit und
+Schlüssigkeit der versicherungsinternen ärztlichen Feststellungen, so sind
+ergänzende Abklärungen vorzunehmen (BGE 135 V 465, 470 E. 4.4; BGE 125 V 351,
+353 f. E. 3b/ee; BGE 122 V 157, 162 f. E. 1d).
+
+4.3. Im Nachfolgenden werden die wichtigsten medizinischen Berichte
+kurz dargestellt:
+
+Mit Bericht vom 29. September 2022 erhebt der behandelnde
+orthopädische Chirurg Dr. F____ eine Discus triangularis Läsion dominantes
+rechtes Handgelenk vom 5. August 2022 sowie einen Diabetes mellitus als
+Diagnosen mit Einfluss auf die Arbeitsfähigkeit. Der Beschwerdeführer habe vor
+dem Trauma keine Beschwerden im Bereich des rechten Handgelenkes gehabt. Das
+stattgehabte Trauma mit Abstützen am Lenkrad und Anprall mit beiden
+Handgelenken und sehr wahrscheinliche Extension bzw. Hyperextension sei mehr
+als adäquat. Es sei zu einer zusätzlichen Thoraxprellung gekommen. Das bei
+einem 50-jährigen Beschwerdeführer gewisse degenerative Veränderungen im
+Bereich des Discus triangularis vorlägen, sei natürlich. Es sei jedoch
+anzunehmen, dass ohne das adäquate Trauma keine Verletzung des Discus
+triangularis stattgefunden hätte. Das Trauma sei deutlich adäquat, im
+MRI-Befund werde auch eine Ruptur des zentralen skapholunären Bandes
+beschrieben, was auf eine hohe Energie mit Potenzial zur Ruptur des Discus
+triangularis zusätzlich hinweise. Mehr als 4 Wochen nach stattgehabtem Trauma
+sei es durchaus möglich, dass im MRI bis auf geringe Ergussbildungen keine
+akuten weiteren Traumafolgen ersichtlich seien. Für ihn sei die Konklusion,
+dass der Riss eine degenerative Grundlage habe aufgrund des eindeutig
+stattgehabten Unfalles nicht richtig (Suva-Akte 16).
+
+Mit versicherungsmedizinischer Beurteilung vom 3. November 2022
+hält der Versicherungsmediziner Dr. E____ fest, dass der Unfall mit
+überwiegender Wahrscheinlichkeit zu keinen zusätzlichen strukturellen Läsionen
+geführt habe. Der Schaden, welcher operiert werde, sei mit überwiegender
+Wahrscheinlichkeit nicht auf den Unfall zurückzuführen. Es bestehe ein vorbestehender
+degenerativer Befund. Aufgrund der Prellungen spielten längstens zwei Monate
+nach dem Ereignis die Unfallfolgen keine Rolle mehr (Suva-Akte 37).
+
+Anlässlich der Operation vom 8. November 2022 hält der orthopädische
+Chirurg Dr. F____ fest, dass sich eine traumatische Ruptur des Discus
+triangularis Typ Palmer 1A, direkt am Übergang vom Radius zum Diskus
+triangularis, korrespondierend zum Defekt, der im MRI gesehen wurde, gezeigt
+habe. Der Tasthaken könne ganz bis zum Ulnakopf in die Tiefe versenkt werden,
+der Riss sei transmural und teilweise horizontal. Der Discus triangularis werde
+nun mit dem Punch und dem Shaver ausgeschnitten und reseziert bis der
+transmurale Diskus keine horizontalen Einrisse mehr zeige. Bei der Überprüfung
+der Tasthaken zeige sich weiterhin palmar und dorsal eine stabile Anheftung.
+Der restliche Discus sei verschmälert, aber insgesamt stabil und zeige keine
+degenerativen Veränderungen (Suva-Akte 50).
+
+Mit versicherungsmedizinsicher Beurteilung vom 1. März 2023 kommt Dr. E____
+zum Schluss, dass aufgrund der objektivierten Befunde, sowohl im Röntgen als
+auch im MRI, eine frühere Verletzung des rechten Unterarms / der rechten Hand
+mit daraus resultierender Fehlstellung des Radius gegenüber der Ulna und
+folglich Ruptur des radioulnaren Bandapparats ausser Diskussion stehe. Zudem
+fänden sich auch eine degenerative zystische Veränderung und Knorpeldefekt am
+Ulnakopf als Folge der früheren Verletzung. Die horizontale Läsion des TFCC mit
+auch zentraler Läsion sei ausschliesslich Folge der über Jahre erfolgten
+unphysiologischen Scher-, Druck- und Zugbelastungen auf den TFCC infolge der
+Fehlstellung und des rupturierten radioulnaren Bandapparats. Inwieweit durch
+die Vergrösserung des degenerativen Defekts eine Besserung der
+Beschwerdesymptomatik erreicht werden könne, bleibe offen. Die Unfallkausalität
+von Befunden sei nach überwiegender Wahrscheinlichkeit zu beurteilen, welche im
+vorliegenden Fall sowohl für die Fehlstellung des Radius, die Läsion des
+radio-ulnaren Bandapparats als auch die Läsion des TFCC mit an Sicherheit
+grenzender Wahrscheinlichkeit auszuschliessen sei. Gegebenenfalls sei es
+anlässlich des Ereignisses zu einer vorübergehenden Beschwerdeauslösung
+gekommen, wobei aufgrund der früheren Verletzung mit daraus resultierenden
+Befunden auszuschliessen sei, dass der Beschwerdeführer früher nie
+Handgelenksbeschwerden gehabt habe, wie dies im Bericht von Dr. F____ vom 29.
+September 2022 festgehalten werde (Suva-Akte 96).
+
+Mit radiologischer Stellungnahme vom 17. Mai 2023 würdigt Dr. G____
+die radiologischen Befunde. Er führt hierbei aus, dass ein traumatisch
+bedingter Riss des Discus ulnocarpalis an der radialen Anheftung (Typ 1a nach
+Palmer), eine Ruptur / ein Defekt der palmarseitigen Gelenkkapsel des distalen
+radioulnaren Gelenkes (DRUG) mit Fehlstellung von Ulnakopf zu distalem Radius
+(palmare Subluxation des Ulnakopfes) bestehe. Daraus ergebe sich, dass eine
+anatomisch-pathologische Konstellation vorhanden sei, aus der eine instabile
+Situation im DRUG resultiere. Der Riss des Discus ulnocarpalis Typ 1a nach
+Palmer, der Defekt der plamarseitigen Gelenkkapsel des DRUG und die daraus
+resultierende Fehlstellung im DRUG seien aufgrund der bildmorphologischen
+Kriterien mit überwiegender Wahrscheinlichkeit als unfallkausale
+Strukturveränderungen einzustufen (Suva-Akte 116).
+
+Mit Bericht vom 24. Mai 2023 äussert sich der behandelnde Chirurg Dr. F____
+wiederholt zur Unfallkausalität der Handgelenkbeschwerden rechts. Aus dem
+Unfallereignis habe der Beschwerdeführer eine Teilinstabilität des Ulnakopfes
+mit nachvollziehbaren Belastungsbeschwerden zurückbehalten. An dieser Stelle wolle
+er noch einmal vermerken, dass durch den Verkehrsunfall mit Anprall des
+Handgelenkes gegen das Lenkrad ein absolut adäquates Trauma vorliege. Der
+intraoperative Befund sei völlig klar einer Verletzung zuzuordnen und keiner
+degenerativen Veränderung. Es gebe keinerlei Beweise für degenerative
+Vorerkrankungen oder ein inadäquates Trauma (Suva-Akte 114).
+
+Mit ärztlicher Beurteilung vom
+29. Juni 2023 schildert der Versicherungsmediziner und orthopädische Chirurg
+Dr. H____, dass zweifellos ein Defekt des Diskus triangularis bestehe. Dieser
+sei aber nach Auffassung des Unterzeichners nicht mit überwiegender
+Wahrscheinlichkeit auf das geltend gemachte Ereignis zurückzuführen. Dagegen
+sprächen die Instabilität der palmaren Kapsel des DRUG, welche überwiegend
+wahrscheinlich deutlich älteren Datums sei, ebenso die degenerativen
+Veränderungen an der Fascies articularis mit Zysten- und Osteophytenbildung wie
+auch die pathologische Stellung des Radius gegenüber der Ulna mit
+Palmarluxation aus der Incisura ulnaris radii. Auffällig sei eine Fehlstellung des
+Radius am Übergang der Metaphyse zur Diaphyse. Hierbei handle es sich
+überwiegend wahrscheinlich um eine alte Fraktur, am ehesten in der Kindheit. Auf
+ein Trauma in der Kindheit lasse sich daraus schliessen, dass die rechte Hand
+gegenüber der linken als kleiner beschrieben werde, was auf Wachstumsstörungen
+hinweise. Die Fehlstellung zwischen Radius und Ulna führe zu einer verstärkten
+palmaren Belastung im DRUG, unter der sich die palmare Kapselbandstrukturen sukzessive
+aufweiteten und zu der beschriebenen Instabilität des Gelenkes führten. Diese
+Instabilität sei nicht mit überwiegender Wahrscheinlichkeit auf das
+Unfallereignis zurückzuführen. Hingegen führe diese Instabilität mit Sicherheit
+auch zu einer verstärkten Belastung der Strukturen des Triangular
+Fibrocartilage Complex (TFCC), insbesondere des Diskus triangularis, aber auch
+der Aufhängung desselben an Radius und Ulna. Daher gehe er davon aus, dass der
+Diskusschaden bereits vor dem Unfallereignis bestanden habe und durch dieses
+erst zutage getreten sei (Suva-Akte 121).
+
+4.4. In Würdigung dieser medizinischen Unterlagen ist eine abschliessende
+Beurteilung der medizinischen Situation nicht möglich. Zunächst ist mit dem
+Beschwerdeführer darauf hinzuweisen, dass sich die Beurteilung des Radiologen
+Dr. G____ und des Versicherungsmediziners Dr. H____ betreffend die
+Unfallkausalität der Handgelenksbeschwerden rechts diametral entgegenstehen. Der
+Radiologe Dr. G____ geht in seiner Beurteilung davon aus, dass die umschriebene
+Perforation des Diskus ulnocarpalis direkt an der Inzisura ulnaris radii mit
+einer dorsopalmaren Ausdehnung von 3 mm bestehe . Die Läsion
+weise einen schlitzförmigen Charakter auf mit einem irregulär konturiertem
+Flap. Die Läsion entspreche einer Palmer besser Typ 1d Läsion und sei nach morphologischen
+Kriterien traumatisch bedingt. Eine degenerative Läsion wäre weiter zentral
+lokalisiert gewesen, ohne Flap und mit retrahiertem Rissrand. Weiter sei 
+gemäss den Angaben von Dr. G____  eine Ulna-Plus-Variante zu erwarten gewesen,
+welche nicht ansatzweise vorliege. Der angrenzende Knorpel der proximalen
+Lunatumgelenkfläche sei vollständig intakt. Es ergäben sich keine Hinweise auf
+ein Ulnaimpaktionssyndrom. Weiter führt Dr. G____ eine instabile Situation im
+DRUG auf, welche überwiegend wahrscheinlich unfallkausal sei (Suva-Akte 116, S.
+2). Gemäss dem Versicherungsmediziner Dr. H____ hingegen bestehe indes sehr
+wohl eine Ulna-Plus-Variante als auch eine relative Palmarfehlstellung der
+distalen Ulna, welche auf eine Fehlstellung des distalen Radius zurückzuführen
+sei. Diese Fehlstellung resultiere aus einer Fraktur des distalen Radius in der
+Kindheit. Deshalb sei die Diskusperforation im vorliegenden Fall nicht
+traumatischer, sondern degenerativer Art (Suva-Akte 121). Angesichts dieser
+divergierenden Beurteilungen ist es für einen medizinischen Laien nicht
+nachvollziehbar, ob die Handgelenksbeschwerden rechts unfallbedingt oder
+degenerativer Natur sind. Ebenso wenig kann aufgrund der Ausführungen der
+beiden Ärzte eine Teilursächlichkeit des Unfallereignisses für die
+Handgelenksbeschwerden rechts ausgeschlossen werden. Auch die weiteren
+medizinischen Unterlagen sind diesbezüglich widersprüchlich. Vor diesem
+Hintergrund besteht ein weiterer Abklärungsbedarf. Abschliessend bleibt mit dem
+Beschwerdeführer anzumerken, dass Dr. H____ als auch Dr. G____ erwähnen, das
+Ligamentum triangulare im ulnaren Bereich sei aufgrund der Bildgebung nicht
+eindeutig beurteilbar bzw. eine Teilläsion im Bereich des Ligamentum
+trianglulare beim Discus ulnocarpalis ohne entsprechende Bildgebung könne nicht
+ausgeschlossen werden (Suva-Akten 116, S. 2 und 121, S. 6). Unter diesen
+Umständen ist fraglich, ob die Bildgebung zur Beurteilung der Unfallkausalität ausreicht
+oder ob diesbezüglich noch weitere Abklärungen vorzunehmen sind.
+
+4.5. Gesamthaft betrachtet bestehen Zweifel an der Schlüssigkeit
+der kreisärztlichen Feststellungen. Es kann daher nicht ohne weiteres auf die
+kreisärztlichen Beurteilungen abgestellt werden. Angesichts der vorliegenden
+medizinischen Unklarheiten lässt es sich rechtfertigen, die Sache an die
+Beschwerdegegnerin zur Einholung eines neutralen Gutachtens im Sinne von Art.
+44 ATSG zurückzuweisen. Das Gutachten hat sich zur Frage zu äussern, ob die
+Handgelenksbeschwerden rechts (noch) unfallkausal zum Ereignis vom 5. August
+2022 sind bzw. ob vom Erreichen des status sine vel ante ausgegangen werden
+kann. In diesem Zusammenhang ist ebenfalls zu klären, ob ein allfälliger
+Vorzustand durch das Ereignis vom 5. August 2022 vorübergehend oder dauerhaft
+(richtungsgebend) verschlimmert worden ist. Allenfalls ist hierzu  soweit
+realisierbar und erforderlich  eine weitere Bildgebung vorzunehmen.
+
+5.
+
+5.1. Den obigen Ausführungen zufolge ist die Beschwerde somit
+gutzuheissen und der angefochtene Einspracheentscheid aufzuheben. Die
+Beschwerdegegnerin ist dazu zu verpflichten, ein orthopädisches bzw.
+handchirurgisches Gutachten einzuholen und anschliessend erneut über die
+Leistungsansprüche des Beschwerdeführers zu entscheiden.
+
+5.2. Das Verfahren ist gemäss Art. 61 lit. f bis ATSG und § 16
+SVGG kostenlos.
+
+5.3. Die Beschwerdegegnerin hat dem anwaltlich vertretenen
+Beschwerdeführer eine angemessene Parteientschädigung auszurichten. Das
+Sozialversicherungsgericht spricht im Sinne einer Richtlinie in
+durchschnittlichen (IV-)Fällen bei vollem Obsiegen eine Parteientschädigung von
+Fr. 3'750.-- (inklusive Auslagen) zuzüglich Mehrwertsteuer zu. Bei
+komplizierten Verfahren kann dieser Ansatz erhöht, bei einfachen reduziert
+werden. Da vorliegend nur ein einfacher Schriftenwechsel stattgefunden hat,
+erscheint ein reduziertes Honorar entsprechend 2/3 des Durchschnittshonorars von
+Fr. 2'500.-- (inklusive Auslagen) nebst Mehrwertsteuer als angemessen.
+
+Unter dem Titel Parteientschädigung sind auch die notwendigen
+Kosten privat eingeholter Gutachten zu vergüten, soweit die Parteiexpertise für
+die Entscheidfindung unerlässlich war (Art. 45 Abs. 1 ATSG; vgl. Urteil des Bundesgerichts vom 9.
+Juli 2021 [9C_527/2020] E. 6 mit Hinweis auf BGE 115 V 62, 63 E. 5c ff.). Die
+radiologische Stellungnahme vom 17. Mai 2023 von Dr. G____ ist im Rahmen der
+vorliegenden Entscheidfindung als wesentlich zu betrachten, vermochte sie doch Zweifel
+an den kreisärztlichen Beurteilungen zu wecken. Sie war damit für den
+Verfahrensausgang von Bedeutung und erweist sich im Sinne der
+bundesgerichtlichen Rechtsprechung als unerlässlich. Dem Beschwerdeführer sind
+daher die Kosten hierfür in Höhe von Fr. 600.-- (vgl. Rechnung vom 17. Mai 2023,
+Beschwerdebeilage [BB] 3) von der Beschwerdegegnerin zu ersetzen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        In Gutheissung der Beschwerde wird der
+Einspracheentscheid vom 8. August 2023 aufgehoben und die Sache zur Einholung
+eines versicherungsexternen medizinischen Gutachtens und zum anschliessenden
+Erlass einer neuen Verfügung an die Beschwerdegegnerin zurückgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Die Beschwerdegegnerin bezahlt dem
+Beschwerdeführer eine Partei-entschädigung von Fr. 2500.-- (inkl. Auslagen)
+zuzüglich Mehrwertsteuer von Fr. 192.50.
+
+Die Beschwerdegegnerin hat dem
+Beschwerdeführer die Kosten für die Beurteilung von Dr. G____ vom 17. Mai 2023
+in Höhe von Fr. 600.-- zu ersetzen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer lic.
+iur. A. Gmür
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt für Gesundheit
+
+Versandt am:
