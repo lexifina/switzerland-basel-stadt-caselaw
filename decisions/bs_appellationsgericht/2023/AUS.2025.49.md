@@ -1,0 +1,405 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.273"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2025.49"
+docket_2: "AG.2025.273"
+decided: "2023-11-30"
+published: "2025-05-13"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78397&W10_KEY=3048456&nTrefferzeile=150&Template=search_result_document.html"
+cites_decisions: ["2C_112/2016", "2C_490/2019", "2C_550/2020", "2C_724/2016", "BGE 122 I 275", "BGE 122 II 49", "BGE 130 II 56", "BGE 139 I 206", "BGE 140 II 409", "BGE 149 II 6"]
+cites_law: ["switzerland/bund/acts/142.20/art-075.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-081.md"]
+---
+
+# Haftentlassungsgesuch
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+
+AUS.2025.49
+
+URTEIL
+
+vom 13.
+Mai 2025
+
+Beteiligte
+
+A____, geb. [...], von
+Algerien,
+
+zur Zeit im Gefängnis Bässlergut,
+
+Freiburgerstrasse 48, 4057 Basel
+
+vertreten durch Lea Hungerbühler,
+Rechtsanwältin,
+
+AsyLex, Gotthardstrasse 52,
+8002 Zürich
+
+gegen
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, Postfach, 4001
+Basel
+
+Gegenstand
+
+Haftentlassungsgesuch
+
+Sachverhalt
+
+Mit Urteil vom
+30. November 2023 sprach das Strafgericht Basel-Stadt A____, geb. [...] 1996,
+von Algerien des gewerbs- und bandenmässigen Diebstahls, der mehrfachen
+Sachbeschädigung, des mehrfachen geringfügigen betrügerischen Missbrauchs einer
+Datenverarbeitungsanlage, der mehrfachen Hehlerei, des mehrfachen
+Hausfriedensbruchs und der mehrfachen Übertretung nach Art. 19 des
+Betäubungsmittelgesetzes schuldig und verurteilte ihn zu 3 Jahren und 2
+Monaten Freiheitsstrafe sowie zu einer Busse von CHF 2'300.. Ausserdem
+verwies das Strafgericht den Beurteilten für acht Jahre des Landes unter Eintragung
+im Schengener Informationssystem. Mit Urteil vom 1. November 2024
+sprach das Appellationsgericht Basel-Stadt A____ vom Vorwurf des bandenmässigen
+Diebstahls frei und reduzierte die Freiheitsstrafe auf 33 Monate. Die
+Landesverweisung von acht Jahren mit Eintrag im Schengener Informationssystem
+wurde bestätigt. Nach Verbüssung seiner Freiheitsstrafe wurde A____ am
+24. März 2025 aus dem Strafvollzug entlassen. Das Migrationsamt ordnete
+gleichentags über ihn eine Ausschaffungshaft von drei Monaten bis zum
+23. Juni 2025 an, welche der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht (nachfolgend: Haftrichter) mit Urteil vom
+26. März 2025 bestätigte.
+
+Am
+2. Mai 2025 ging beim Verwaltungsgericht Basel-Stadt ein
+(undatiertes) Haftentlassungsgesuch ein, mit welchem A____ (nachfolgend: Gesuchsteller ) um Haftentlassung ersuchte. Am
+13. Mai 2025 hat vor dem Haftrichter unter Beizug eines Dolmetschers
+und in Anwesenheit eines Mitarbeiters des Migrationsamts eine mündliche
+Verhandlung stattgefunden. Dabei ist der Gesuchsteller befragt worden und sind die Beteiligten zum Vortrag gelangt. Das vorliegende
+Urteil ist mündlich eröffnet worden. Die vorliegende Begründung wird den
+Parteien schriftlich eröffnet worden.
+
+Erwägungen
+
+Die inhaftierte
+Person kann einen Monat nach erfolgter Haftüberprüfung ein
+Haftentlassungsgesuch einreichen. Die letzte Haftüberprüfung erfolgte am
+26. März 2025 (VGE AUS.2025.33), womit das vorliegende
+Haftentlassungsgesuch vom 29. April 2025 (Postaufgabe) an die Hand zu
+nehmen ist. Die richterliche Behörde hat hierüber innert acht Arbeitstagen
+aufgrund einer mündlichen Verhandlung zu entscheiden (Art. 80 Abs. 5
+Satz 1 des Ausländer- und Integrationsgesetzes [AIG, SR 142.20]). Das
+Gesuch des Gesuchstellers ist am 2. Mai 2025 per Post beim Verwaltungsgericht
+eingegangen. Die heutige Verhandlung hat mit der Eröffnung des mündlichen
+Entscheids innerhalb von acht Arbeitstagen (Art. 80 Abs. 5
+Satz 2 AIG) und damit rechtzeitig stattgefunden ( Businger , Ausländerrechtliche Haft,
+Zürich 2015, S. 250; Baumann/Göksu ,
+Zwangsmassnahmen im Ausländerrecht, Zürich/St. Gallen 2022, Rz 479).
+
+2.
+
+Die
+Haft wird u.a. beendet, wenn der Haftgrund nachträglich entfällt oder sich
+erweist, dass der Vollzug der Weg- oder Ausweisung aus rechtlichen oder
+tatsächlichen Gründen undurchführbar ist, oder wenn einem Haftentlassungsgesuch
+entsprochen wird (Art. 80 Abs. 6 AIG). Das richterliche Prüfprogramm bei einem
+Entlassungsgesuch deckt sich mit demjenigen bei der Haftgenehmigung bzw.
+-verlän-gerung (BGE 140 II 409 E. 2.3.1; BGer 2C_724/2016
+vom 21. Dezember 2016 E. 2.2 mit weiteren Hinweisen; Hugi Yar , Zwangsmassnahmen im
+Ausländerrecht, in: Uebersax et al. [Hrsg.], Ausländerrecht, 3. Auflage,
+Basel 2022, Rz 12.40; Zünd ,
+in: Spescha et al. [Hrsg.], Kommentar Migrationsrecht, 5. Auflage,
+Zürich 2019, Art. 80 N 7 und 8). Dabei ist auch zu prüfen,
+ob die Behörden die für den Vollzug der Wegweisung oder Landesverweisung
+nötigen Vorkehrungen rechtzeitig getroffen haben und damit dem
+Beschleunigungsgebot nachgekommen sind und ob die Haft weiterhin
+verhältnismässig erscheint.
+
+3.
+
+Bei der
+erstmaligen Haftanordnung wurden als Haftgründe unter anderem die Verurteilung
+des Gesuchstellers wegen eines Verbrechens (Art. 76 Abs. 1 lit. b
+Ziff. 1 in Verbindung mit Art. 75 Abs. 1 lit. h AIG)
+und die Untertauchensgefahr (Art. 76 Abs. 1 lit. b Ziff. 3
+und 4 AIG) angeführt. Diese Haftgründe haben unverändert ihren Bestand, so
+dass hierzu vollumfänglich auf die entsprechenden Ausführungen in VGE
+AUS.2025.33 vom 26. März 2025 E. 3 verwiesen werden kann (vgl.
+BGE 122 I 275 E. 3b; Hugi
+Yar , a.a.O., Rz 12.40). Das Vorliegen von Haftgründen wird
+grundsätzlich nicht bestritten (vgl. Plädoyernotizen, S. 2).
+
+4.
+
+4.1 Der Gesuchsteller begründet sein
+Haftentlassungsgesuch im Wesentlichen mit der fehlenden Verhältnismässigkeit
+der Haft. Unter dem Blickwinkel ihrer Eignung als Teil der Verhältnismässigkeit
+im Sinne von Art. 36 Abs. 3 der Bundesverfassung (BV, SR 101)
+muss die Ausschaffungshaft zweckgebunden bleiben und daher ernsthaft geeignet
+sein, den Vollzug der Entfernungsmassnahme sicherzustellen. Entsprechend muss
+im Zeitpunkt der Haftüberprüfung geprüft werden, ob der Vollzug der Wegweisung
+bzw. der Rückschaffung mit hinreichender Wahrscheinlichkeit innert absehbarer
+Zeit möglich erscheint oder nicht. Eine Haft erscheint als unverhältnismässig,
+da gegen Art. 80 Abs. 6 lit. a AIG wie auch gegen
+Art. 5 Ziff. 1 lit. f der Europäischen Menschenrechtskonvention
+(EMRK, SR 0.101) verstossend, wenn triftige Gründe dafür sprechen, dass
+die Wegweisung innert vernünftiger Frist nicht vollzogen werden kann. Die Haft
+ist allerdings nur aufzuheben, wenn keine oder bloss eine höchst
+unwahrscheinliche, rein theoretische Möglichkeit besteht, dass die Wegweisung
+vollzogen werden kann, nicht jedoch bei einer ernsthaften, wenn auch allenfalls
+(noch) geringen Aussicht besteht (BGE 130 II 56 E. 4.1.3 mit
+Hinweisen; BGer 2C_550/2020 vom 16. Juli 2020 E. 3.3 und
+2C_490/2019 vom 18. Juni 2019 E. 5.1, je mit Hinweisen).
+
+4.2. Die
+bestehende Haft ist in jeder Hinsicht verhältnismässig, so dass eine
+Freilassung des Gesuchsteller s auch unter
+diesem Gesichtspunkt nicht in Frage kommt. Die Schweiz hat ein eminentes
+Interesse daran, dass die ausgesprochene Landesverweisung möglichst bald
+vollzogen werden kann, umso mehr als der Gesuchsteller die Freiheit zum Untertauchen nutzen könnte und damit den Behörden nicht mehr
+zwecks Vollstreckung der Landesverweisung zur Verfügung würde. Eine Auflage,
+sich regelmässig beim Migrationsamt zu melden, könnte die Untertauchensgefahr
+nicht bannen. Der Gesuchsteller will
+heute zwar zur Rückkehr in seine Heimat bereit sein. In der Zwischenzeit habe
+er begriffen, dass er die Schweiz verlassen müsse. Ihm sei der Asylentscheid
+nie mit Übersetzung eröffnet worden. Da er noch einen sog. N-Ausweis besitze, sei
+er bis vor kurzem fälschlicherweise der Ansicht gewesen, die Schweiz eigentlich
+gar nicht verlassen zu müssen (Plädoyernotizen, S. 2 f.). Diese
+Vorbringen sind unglaubwürdig. Aus der von ihm selber eingereichten Kopie des
+Ausweises für Asylsuchende geht hervor, dass dieser Ausweis nur bis zum
+9. Juni 2023 gültig war. Keine Kenntnis vom negativen Asylentscheid vom 5.
+Dezember 2022 gehabt zu haben, ist insofern auch fadenscheinig, als in den
+beiden Strafurteilen des Strafgerichts bzw. des Appellationsgerichts
+ausdrücklich auf die diesen Asylentscheid verwiesen wurde. Der Gesuchsteller musste infolgedessen vom
+negativen Ausgang des Asylverfahrens gewusst haben, ansonsten er die angeblich
+mangelhafte Entscheideröffnung schon damals angefochten hätte. Entscheidend ist
+aber, dass der Gesuchsteller mit seiner
+strafrechtlichen Verurteilung rechtskräftig für acht Jahre des Landes verwiesen
+wurde. Er war im Strafverfahren anwaltlich vertreten, so dass ihm seine
+Rechtsvertretung zweifelsohne klar gemacht hat, dass er nach dem Absitzen der
+Strafe die Schweiz verlassen muss. Der Gesuchsteller konnte somit nicht in guten Treuen davon ausgehen, dass er gestützt auf ein vermeintlich
+noch offenes Asylverfahren in der Schweiz bleiben könne.
+
+Bei der
+Befragung durch das Migrationsamt nach der Entlassung aus dem Strafvollzug gab
+der Gesuchsteller an, nach Frankreich
+ausreisen zu wollen (Befragungsprotokoll vom 24. März 2025,
+S. 2). In der Haftverhandlung vom 26. März 2025 sagte er aus,
+für fünf bis sechs Monate in der Schweiz bleiben zu wollen, um sich hier zu
+«erholen», bevor er dann nach Algerien gehe. Der Haftrichter hat diese Aussage
+als unglaubhaft eingestuft (VGE AUS.2025.33 vom 26. März 2025
+E. 3.3). Nach dem vorstehend Gesagten bleibt es wenig wahrscheinlich, dass
+der Gesuchsteller tatsächlich zur
+freiwilligen Rückkehr nach Algerien bereit ist. Vielmehr steht unverändert zu
+befürchten, dass er die Freiheit nutzen könnte, um unterzutauchen, womit er den
+Migrationsbehörden nicht mehr zur Verfügung stehen würde, ihn rückzuführen.
+Daran ändern auch seine heute geltend gemachten gesundheitlichen Beschwerden
+nichts. Eine nächste ärztliche Untersuchung der Augen steht nach seinen Angaben
+erst wieder in einem Jahr an. Die gegenwärtigen Rückbeschwerden kann er
+vorderhand mit Schmerzmittel in erträglichem Rahmen halten
+(Verhandlungsprotokoll, S. 2). Der Gesuchsteller lässt im Übrigen auf seine angebliche Kooperationsbereitschaft verweisen
+(Plädoyernotizen, S. 3). Davon war bislang nichts zu sehen. Bis dato hatte
+er sich geweigert, aus eigenen Stücken mit den algerischen Behörden zwecks
+Beschaffung von Reisepapieren Kontakt aufzunehmen. Dass er am kürzlichen
+Counseling teilgenommen hat, ist nicht aus freien Stücken erfolgt. Der Gesuchsteller wurde dem SEM, wo die Counselings
+stattfanden, unter polizeilicher Begleitung direkt aus der Ausschaffungshaft
+zugeführt. Mit Bezug auf den Vollzug auf asylrechtliche Wegweisung ist
+anzumerken, dass der Asylentscheid des SEM vom 5. Dezember 2022 am
+5. Januar 2023 rechtskräftig wurde (Schreiben SEM an das Asylbüro des
+Migrationsamts Solothurn vom 15. September 2023). Wie sich aus den beiden
+Strafurteilen des Strafgerichts bzw. des Appellationsgericht ergibt, befand
+sich der Gesuchsteller zwischen Mitte
+September 2022 und Mitte Januar 2023 wiederholt tageweise in
+Polizeigewahrsam, bevor er am 23. Januar 2023 in Untersuchungshaft
+genommen wurde, von wo er aus am 15. Mai 2023 in den vorzeitigen
+Strafvollzug übertrat. Es versteht sich von selbst, dass in dieser Zeit der
+Vollzug der Wegweisung seitens des solothurnischen Migrationsamts ruhte. Der Gesuchsteller konnte sich insoweit auch nicht
+kooperativ zeigen.
+
+Der Gesuchsteller ist bereits vor über zwei Jahren
+von den algerischen Behörden identifiziert worden (E-Mail SEM vom
+13. April 2023). Am 30. April 2025 hat das obligatorische
+Counseling stattgefunden. Nach Angaben des Migrationsamts ist binnen der
+nächsten zwei bis drei Wochen mit dem Entscheid der algerischen Behörden zu
+rechnen, ob für den Gesuchsteller ein
+Laissez Passer ausgestellt werden kann. Sobald dieser Bescheid vorliegt, wird
+mit einer Vorlaufzeit von weiteren zwei bis drei Wochen der Rückflug gebucht
+werden können, bevor dann die effektive Ausstellung des Ersatzreisepapiers
+beantragt werden kann (Verhandlungsprotokoll, S. 3). Die Rückführung des Gesuchstellers ist damit absehbar. Die
+schweizerischen Behörden behandeln im Übrigen die Ausschaffung des Gesuchsteller s mit der gebotenen
+Beschleunigung. Daran ändert entgegen seinem Vorbringen nichts, dass er bereits
+im Juni 2024 für das Counseling vorgesehen gewesen war, dann aber nichts
+mehr geschehen sei. Es können nach Erfahrung des Haftrichters pro Monat immer
+nur eine beschränkte Anzahl von Personen den algerischen Behörden zum
+Counseling vorgeführt werden. Das SEM bittet die Kantone deshalb im Vorfeld der
+Counseling-Termine jeweils nur die Personen mit erhöhter Priorität zur
+Teilnahme anzumelden. Es ist damit in keiner Weise zu beanstanden, dass das
+Migrationsamt den Gesuchsteller mit Blick
+auf den noch bis Ende März 2025 dauernden Strafvollzug im Juni 2024 in
+der Priorität zurückstellte und anderen algerischen Staatsangehörigen den
+Vorrang gab, deren Ausschaffung dringlicher war. Das Migrationsamt hat den Gesuchsteller mit dem Ende des Strafvollzugs
+unversäumt wieder für das Counseling angemeldet, an welchem er bereits am
+30. April 2025 teilnehmen konnte.
+
+Zusammenfassend
+ist festzustellen, dass der Vollzug der gegen den Gesuchsteller ausgesprochenen Landesverweisung mittels Haft
+sicherzustellen ist und die Haft insofern auch verhältnismässig erscheint. Im
+Übrigen liegt es im öffentlichen Interesse sicherzustellen, dass der Gesuchsteller , der schon kurz nach seiner Einreise
+in die Schweiz im August 2022 mit erheblicher krimineller Energie zu
+delinquieren begonnen hatte, was er trotz eröffneter Strafverfahren fortsetzte,
+seine deliktische Tätigkeit nicht wieder aufnimmt.
+
+5.
+
+5.1 Der Gesuchsteller lässt heute geltend machen,
+dass das Internet auf der Gefängnisstation nicht funktioniere und dass es zu
+wenig Internetstationen gebe. Seine Rechtsvertreterin erklärt sich nach einem
+Hinweis des Haftrichters, dass diese Frage unlängst bereits geprüft worden sei,
+einverstanden, auf die Befragung des Leiters des Administrativhaftabteilung hierzu
+zu verzichten. Im Sinne kann in allgemeiner Weise auf die nachfolgenden
+Erwägungen aus dem Urteil des Haftrichters in VGE AUS.2025.43 vom
+29. April 2025 verwiesen werden.
+
+5.2 Gemäss
+Art. 80 Abs. 4 AIG prüft der Haftrichter bei der Überprüfung des
+Entscheids über die Anordnung, Fortsetzung und Aufhebung der Haft auch die
+Umstände des Haftvollzugs. Die Haftbedingungen (Art. 81 AIG) gehören
+damit ausdrücklich zum Prüfungsgegenstand des Haftverfahrens. Dabei geht es
+ausschliesslich um die konkreten Haftbedingungen, denen der betroffene
+Ausländer unterworfen ist, nicht um die Haftbedingungen der übrigen
+Inhaftierten oder das abstrakte Vollzugsrecht, das sich aus der Gefängnisordnung
+ergibt (vgl. BGE 122 II 49 E. 5b/bb; Businger , a.a.O., S. 331). Das Internet ermöglicht es
+ausländerrechtlich inhaftierten Personen, sich über die Geschehnisse ausserhalb
+der Gefängnismauern zu informieren und den Kontakt zur Aussenwelt und zur
+Heimat aufrechtzuerhalten, was für ihr Sozialleben in der Festhaltungssituation
+von grundlegender Bedeutung ist. Mit Blick auf die Meinungs- und
+Informationsfreiheit (Art. 16 der Schweizerischen Bundesverfassung [BV,
+SR 101] und Art. 10 der Europäischen Menschenrechtskonvention [EMRK,
+SR 0.101]) hat das Bundesgericht festgehalten, dass in der
+Administrativhaft eine generelle Verweigerung des Internetzugangs sich nicht
+rechtfertigen lässt und auch keine durch den Haftzweck gebotene und
+verhältnismässige Einschränkung dieses Grundrechts darstellt. Allfällige
+Missbräuche können im Einzelfall unterbunden und organisatorische Vorgaben in
+einer Hausordnung geregelt werden (BGE 149 II 6 E. 5.2).
+
+5.3 Die
+Hausordnung des Gefängnisses Bässlergut, Administrativhaft (Stand: 9. Oktober
+2023) hält unter Ziff. 3.10 mit dem Titel «Internet und Videotelefonie»
+fest, dass die eingewiesenen Personen auf Kosten des Gefängnisses Zugang zum
+Internet und die Möglichkeit haben, über Video zu telefonieren. Für die
+Einzelheiten wird auf das separate Merkblatt Nr. 12 verwiesen. Das
+betreffende Merkblatt hält als Grundsatz u.a. fest, dass die bei der Nutzung
+des Internet bzw. der Videotelefonie konsumierten oder verbreiteten Daten die
+Ruhe, Ordnung und Sicherheit inner- und ausserhalb des Gefängnisses nicht
+gefährden dürfen. Verboten sind namentlich Pornografie, Gewaltdarstellungen,
+Beleidigungen oder Beschimpfungen. Entsprechende Seiten bzw. Suchbegriffe sind
+gesperrt (Ziff. 1.2). Die Internetstationen befinden sich in einem
+speziellen Raum (Ziff. 2.1). Gemäss Ziff. 2.2 des Merkblatts haben
+sich die eingewiesenen Personen, die das Internet nutzen möchten, sich zur auf
+dem Tagesplan angegebenen Zeit bereitzuhalten. Anschliessend werden sie durch
+das Gefängnispersonal zum Internetraum zugeführt und am Ende wieder auf ihre
+Station rückgeführt. Nach Angaben des heute befragten Leiters der Abteilung
+Administrativhaft, haben die Insassen wöchentlich Anspruch auf zweimal 50 Minuten, sich in einem
+separaten Raum an einer eigenen Computerstation ins Internet einzuloggen
+(Verhandlungsprotokoll, S. 5 f.). Die Videotelefonie steht den
+eingewiesenen Personen demgegenüber während den gesamten Zellenöffnungszeiten
+im Aufenthaltsraum der betreffenden Station zur Verfügung
+(Ziff. 3.1 f. des Merkblatts), mithin täglich während rund 12
+Stunden. Die Insassen der jeweiligen Station verständigen sich über die Nutzung
+der Videotelefonie grundsätzlich selbständig untereinander. Nach Angaben des
+Gefängnisleiters erfolgen Video- und Sprachanrufe derzeit noch über Skype, allerdings
+stehe eine Umstellung an, weil Skype von Microsoft im Mai abgestellt werde. Ein
+Problem sei, dass sich Skype geöffnet habe, so dass man auch auf Google
+zugreifen könne (Verhandlungsprotokoll, S. 5 f.). Es versteht sich
+von selbst, dass es aufgrund der bevorstehenden Änderungen zu Arbeiten am
+gefängnisinternen System kommen kann, die zu vorübergehenden Unterbrüchen in
+der Internetnutzung führen können. Solch technisch bedingten Systemunterbrüche
+sind von den Insassen hinzunehmen, solange sie zeitlich beschränkt sind. Im
+Übrigen weist der Gefängnisleiter auf die aktuell sehr hohe Belegung der
+verschiedenen Stationen hin. Auf der fraglichen Station befänden sich derzeit
+neun Personen. Wenn jemand länger im Internet sei, könne dies zu Konflikten
+führen. Auf der Station werde deshalb eine Liste geführt, wo man sich eintragen
+könne, wenn man das Internet nutzen möchte (Verhandlungsprotokoll, S. 6).
+Diese Ausführungen zeigen, dass der Internetzugang für den Gesuchsteller grundsätzlich gewährleistet ist,
+auch wenn auch nicht immer zu den Zeiten bzw. im Ausmass, wie der er es sich
+möglicherweise wünscht. Allfällige Einschränkungen in der Verfügbarkeit sind
+betrieblich-technisch begründet und deshalb hinzunehmen. Jedenfalls sind sie
+nicht derart einschneidend, als dass sie die Festhaltung des Gesuchsteller s unzumutbar erscheinen liessen,
+so dass er hierauf gestützt freizulassen wäre (vgl. Hugi Yar , a.a.O., Rz 12.191). Falls die Insassen auf
+seiner Station sich nicht einvernehmlich über die Nutzung der Videotelefonie
+verständigen können  gemäss Ziff. 3.3 des Merkblatts sind die
+eingewiesenen Personen angehalten, bezüglich der Dauer und Lautstärke der
+Videotelefonie gegenseitig Rücksicht zu nehmen , wird es an der Stations- bzw.
+Gefängnisleitung liegen, geeignete Massnahmen zu ergreifen, um für geordnete
+Verhältnisse zu sorgen und unerwünschte Konflikte in der Nutzung zu vermeiden.
+
+6.
+
+Für das
+Verfahren werden keine Kosten erhoben (§ 4 des Gesetzes über den Vollzug
+der Zwangsmassnahmen im Ausländerrecht [SG 122.300]).
+
+Der Gesuchsteller hat um unentgeltliche
+Verbeiständung ersucht. Nach der bundesgerichtlichen Rechtsprechung besteht ein
+auf Art. 29 Abs. 3 der Bundesverfassung (BV, SR 101) gestützter
+Anspruch auf unentgeltliche Verbeiständung nach drei Monaten Haft bzw. bei
+einer Haftanordnung von über drei Monaten (BGE 139 I 206
+E. 3.3.1). Bei kürzer Haftdauer besteht dieser Anspruch nur, wenn der Fall
+besondere rechtliche oder tatsächliche Schwierigkeiten stellt (BGer 2C_112/2016
+vom 19. Februar 2016 E. 2.2.2). Der Gesuchsteller befindet sich seit dem 24. März 2025 in administrativ-rechtlich
+motivierter Haft. Die bisherige Haftdauer ist damit noch weit entfernt von der
+genannten Dauer von drei Monaten. Der vorliegende Fall weist weder in
+rechtlicher noch in tatsächlicher Hinsicht besondere Schwierigkeiten auf, die
+einer anwaltlichen Verbeiständung bedürften. Dies gilt auch und insbesondere
+bezüglich der Vorbringen, vom negativen Asylentscheid keine Kenntnis erhalten und
+sich kooperativ gezeigt zu haben (oben E. 4.2). Das Gesuch um
+unentgeltliche Verbeiständung ist daher abzuweisen.
+
+Demgemäss
+erkennt der
+Einzelrichter :
+
+://:        Das Haftentlassungsgesuch von A____ wird
+abgewiesen.
+
+Das Gesuch um unentgeltliche
+Verbeiständung wird abgewiesen.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung:
+
+- A____
+
+- Migrationsamt
+
+- Staatssekretariat für Migration
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht
+
+Dr. Alexander Zürcher
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
