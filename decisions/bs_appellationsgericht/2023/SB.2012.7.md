@@ -1,0 +1,234 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.736"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2012.7"
+docket_2: "AG.2023.736"
+decided: "2023-12-01"
+published: "2024-10-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76130&W10_KEY=3859021&nTrefferzeile=3&Template=search_result_document.html"
+cites_decisions: ["6B_1184/2019", "6B_886/2019", "SB.2012.17", "SB.2012.7", "SB.2014.28", "SB.2017.15", "SB.2017.64", "SB.2017.73", "SB.2018.13"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-425.md"]
+---
+
+# Gesuch um Erlass der Verfahrenskosten
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+SB.2012.7
+
+SB.2012.17
+
+ENTSCHEID
+
+vom 1.
+Dezember 2023
+
+Mitwirkende
+
+lic. iur. Eva Christ
+
+und Gerichtsschreiber
+Dr. Beat Jucker
+
+Beteiligte
+
+A____ Gesuchsteller
+
+c/o [...],
+
+[...]
+
+Gegenstand
+
+Gesuch um Erlass der
+Verfahrenskosten
+
+(Urteil des Appellationsgerichts
+vom 14. März 2013)
+
+Sachverhalt
+
+Mit Urteil des
+Appellationsgerichts vom 14. März 2013 wurde A____ (Gesuchsteller) in den
+vereinigten Verfahren SB.2012.7 und SB.2012.17 des Verbrechens nach Art. 19
+Ziff. 2 lit. a und b des Betäubungsmittelgesetzes (grosse Gesundheitsgefährdung
+und Bandenmässigkeit), des banden- und gewerbsmässigen Diebstahls sowie der
+Hehlerei schuldig erklärt und zu einer (Gesamt)Freiheitsstrafe von sieben Jahren
+und sieben Monaten verurteilt (unter Einrechnung von fünf Tagen bereits ausgestandener
+Untersuchungshaft). Zudem wurden ihm Verfahrenskosten von CHF 1'208. sowie
+eine Urteilsgebühr in Höhe von CHF 1000. (Rechnung Nr. 2014d361 in SB.2012.7)
+bzw. Verfahrenskosten von CHF 15'707.60 sowie Urteilsgebühren von CHF 4'500.
+(Rechnung Nr. 2014d360 in SB.2012.17) auferlegt.
+
+Mit Datum vom
+28. November 2019 (Postaufgabe) hat der Gesuchsteller ein erstes
+Kostenerlassgesuch betreffend die Rechnungen 2014d360 und 2014d361 eingereicht.
+Damals war er noch im Strafvollzug. Mit Verfügung vom 29. November 2019 hat der
+damalige Verfahrensleiter eine Sistierung der Forderungen während der Haft bzw.
+dem Strafvollzug angeordnet und den Gesuchsteller aufgefordert, vor seiner
+Entlassung aus dem Strafvollzug ein neues Gesuch zu stellen. Mit Entscheid der Abteilung
+Straf- und Massnahmenvollzug des Amts für Justizvollzug des Kantons Basel-Stadt
+(SMV) vom 15. Juli 2022 ist der Gesuchsteller per 22. August 2022 bedingt aus
+dem Strafvollzug entlassen worden. Für die Dauer der Probezeit von 998 Tagen
+wurde Bewährungshilfe angeordnet. In der Folge wurde ihm vom Inkasso des Justiz-
+und Sicherheitsdepartements (JSD) mit Schreiben vom 13. September 2022
+bezugnehmend auf sein «Gesuch vom 29. November 2019» ein Zahlungsaufschub für
+die offenen Forderungen mit Fristverlängerung bis 31. Oktober 2022 gewährt. Auf
+diesen Termin werde die Begleichung der Forderung oder ein konkreter
+Abzahlungsvorschlag bis maximal 15 Raten erwartet, ansonsten rechtliche
+Schritte eingeleitet würden. Eine erneute Vereinbarung sei dann ausgeschlossen.
+Mit Schreiben vom 17. Oktober 2022 teilte der Gesuchsteller dem Inkasso
+mit, dass er aktuell von der Arbeitslosenkasse lebe und den Gesamtbetrag von
+CHF 22'455.60 (darin sind Mahngebühren von CHF 40. inkludiert) nicht in 15
+Raten bezahlen könne. Er bitte daher um einen weiteren Zahlungsaufschub und
+sicherte zu, sich beim Inkasso zu melden, sobald er eine Anstellung gefunden
+hätte. Mit Schreiben vom 18. Oktober gewährte ihm das Inkasso hierauf für die
+Forderungen in Höhe von CHF 20'227.60 und CHF 2'228. eine weitere
+Fristverlängerung bis zum 10. November 2022. Bis dann seien die Forderungen zu
+begleichen oder ein konkreter Abzahlungsvorschlag einzureichen mit Angabe einer
+Ratenhöhe, die für den Gesuchsteller zahlbar sei. Ein erneuter Zahlungsaufschub
+werde nicht gewährt. Nachdem offenbar keine Reaktion seitens des Gesuchstellers
+erfolgte, ergingen im März 2023 die Inkassoaufträge für die ausstehenden
+Forderungen und wurden im Juli 2023 betreibungsrechtliche Schritte eingeleitet.
+
+Mit Eingabe vom
+18. Oktober 2023 reichte B____ vom [...] in Vertretung des Gesuchstellers eine
+«Bitte um Zurückziehung der betreibungsrechtlichen Schritte» ein. Er verwies darauf,
+dass ein Angebot zur monatlichen Abzahlung eingereicht und vom kantonalen
+Inkasso geprüft worden sei und dass das Inkasso auf Rückfrage erklärt habe, es
+liege ein Missverständnis vor. Indessen könnten betreibungsrechtliche Schritte
+nicht mehr rückgängig gemacht werden. Es werde im Januar 2024 das
+Fortsetzungsbegehren gestellt und eine Lohnpfändung eingeleitet. Der Vertreter
+schlug eine Schuldentilgung in Raten von CHF 500. pro Monat vor, wies aber
+zugleich darauf hin, dass eine langfristige Vereinbarung gegenwärtig nicht
+möglich sei und die monatliche Rate bei einer Veränderung der finanziellen
+Situation neu bewertet werden müsste.
+
+Mit Verfügung
+vom 23. Oktober 2023 hat die unterzeichnete Appellationsgerichts-präsidentin in
+Stellvertretung des bisherigen Instruktionsrichters das Ratenzahlungsgesuch vom
+18. Oktober 2023 vorläufig ad acta genommen und einen Inkassostopp bis zum
+Entscheid darüber verfügt. Mit Verfügung vom 30. Oktober 2023 ist der bisherige
+Instruktionsrichter wegen [...] in den Ausstand getreten und hat das Verfahren
+der unterzeichneten Appellationsgerichtspräsidentin übertragen.
+
+Erwägungen
+
+1.
+
+Gemäss Art. 425
+der Strafprozessordnung (StPO, SR 312.0) können Forderungen aus
+Verfahrenskosten unter bestimmten Voraussetzungen gestundet, herabgesetzt oder
+erlassen werden. Verfahrenskosten im Sinne von Art. 425 StPO sind die Kosten
+des Strafverfahrens und die Gerichtsgebühren, nicht jedoch Bussen oder
+Geldstrafen. Zuständig für den Entscheid nach Art. 425 StPO ist die
+Strafbehörde. Im Kanton Basel-Stadt sind Gesuche um Erlass der Verfahrenskosten
+von dem Gericht zu entscheiden, welches als letzte kantonale Instanz die
+Tragung der Verfahrenskosten festgelegt hat. Die funktionelle Zuständigkeit
+innerhalb des Gerichts liegt gemäss § 43 Abs. 3 des
+Gerichtsorganisationsgesetzes (GOG, SG 154.100) beim Einzelgericht (statt
+vieler: AGE SB.2018.13 vom 10. September 2021 E. 1). Das Berufungsurteil wurde
+durch das Appellationsgericht erlassen, weshalb zur Behandlung des
+Kostenerlassgesuchs die Einzelrichterin des Appellationsgerichts zuständig ist.
+
+2.
+
+2.1 Art.
+425 StPO schafft die Möglichkeit, Forderungen aus Verfahrenskosten zu stunden
+oder, unter Berücksichtigung der wirtschaftlichen Verhältnisse der
+kostenpflichtigen Person, herabzusetzen oder zu erlassen. Für eine Herabsetzung
+oder einen Erlass müssen die wirtschaftlichen Verhältnisse der
+kostenpflichtigen Person derart angespannt sein, dass eine (ganze oder
+teilweise) Kostenauflage unbillig erscheint. Das ist dann der Fall, wenn der
+Betroffene mittellos ist oder die Höhe der Kosten zusammen mit seinen übrigen Schulden
+seine Resozialisierung beziehungsweise sein finanzielles Weiterkommen ernsthaft
+gefährden kann ( Griesser , in
+Donatsch et al. [Hrsg.], Kommentar zur Schweizerischen Strafprozessordnung. 3.
+Auflage 2020, Art. 425 N 1a; Domeisen ,
+in: Basler Kommentar, 3. Auflage 2023, Art. 425 StPO N 4; vgl. statt vieler AGE
+SB.2017.15 vom 27. Mai 2020 E. 2.1). Zu bedenken ist in diesem Zusammenhang
+immer, dass der definitive Erlass von Gerichtskosten eine weitreichende Wirkung
+aufweist. So können einmal erlassene Verfahrenskosten selbst dann nicht mehr
+geltend gemacht werden, wenn der Schuldner in der Folgezeit in günstigere
+finanzielle Verhältnisse kommt. Die Gewährung des Kostenerlasses ist deshalb
+mit Zurückhaltung vorzunehmen; deutlich weniger weit geht eine Ratenzahlung
+(AGE SB.2017.73 vom 24. März 2021 E. 2.1, SB.2014.28 vom 28. August 2019 E.
+2.1, SB.2017.64 vom 25. Januar 2019 E. 2.1). Mit der Konzipierung von Art. 425
+StPO als Kann-Bestimmung bleibt der zuständigen Strafbehörde ein grosser
+Ermessens- und Beurteilungsspielraum (BGer 6B_1184/2019 vom 25. Juni 2020
+E. 1.1, 6B_886/2019 vom 25. September 2019 E. 2).
+
+2.2 Der
+Gesuchsteller hat während seiner Haftzeit erfolgreich eine Berufsausbildung zum
+[...] sowie weiterbildende Kurse absolviert. Seit März 2023 arbeitet er zu 100
+% als [...] und konnte sich daher von der Sozialhilfe lösen. Aus dem vom
+Gesuchsteller eingereichten Sanierungsbudget vom 1. Oktober 2023 ergibt sich,
+dass er aktuell einen monatlichen Überschuss von CHF 840. erzielen kann. Die
+von ihm vorgeschlagene, doch substantielle Rate von monatlich CHF 500.
+erscheint vor diesem Hintergrund angemessen. Inwiefern eine langfristige
+Vereinbarung gegenwärtig nicht möglich sein sollte, ist nicht ersichtlich, ist
+die Einsatzdauer gemäss Vertrag vom 6. Juli 2023 doch mit «unbefristet»
+angegeben. Bezahlt der Gesuchsteller die Raten während zwei Jahren pünktlich, kann
+dannzumal im Rahmen einer Neubeurteilung über einen Teilerlass der verbliebenen
+Verfahrenskosten entschieden werden. Die Raten sind jeweils am ersten Tag des
+Monats fällig, erstmals zahlbar per 1. Januar 2024. Der Gesuchsteller ist
+darauf hinzuweisen, dass bei Ausbleiben auch nur einer Ratenzahlung der gesamte
+Betrag der Verfahrenskosten sofort fällig und verzinslich ist.
+
+3.
+
+Auf die Erhebung
+einer Gerichtsgebühr ist zu verzichten (§ 40 des Gerichtsgebührenreglements
+[GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        In Gutheissung des Gesuchs von A____ ist von
+weiteren Inkassomassnahmen abzusehen. Der Gesuchsteller hat an die
+Verfahrenskosten von insgesamt CHF 22'455.60 (inklusive Mahngebühren von
+CHF 40.) während zwei Jahren monatliche Raten zu jeweils CHF 500. zu bezahlen,
+wobei dannzumal eine Neubewertung vorgenommen werden wird. Die Raten sind
+jeweils am ersten Tag des Monats fällig, erstmals zahlbar per 1. Januar
+2024. Bei Ausbleiben einer einzigen Ratenzahlung wird der gesamte Restbetrag
+sofort fällig und verzinslich.
+
+Es werden keine Kosten erhoben.
+
+Mitteilung an:
+
+- B____ ([...] für den Gesuchsteller)
+
+- Finanzdepartement, Rechtsinkasso der Steuerverwaltung
+
+- Rechnungswesen der Gerichte
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Der
+Gerichtsschreiber
+
+lic. iur. Eva
+Christ                                                      Dr. Beat Jucker
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
