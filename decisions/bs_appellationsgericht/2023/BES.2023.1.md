@@ -1,0 +1,381 @@
+---
+decision_id: "bs_appellationsgericht_AG.2023.768"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.1"
+docket_2: "AG.2023.768"
+decided: "2023-12-21"
+published: "2024-05-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76212&W10_KEY=3048482&nTrefferzeile=262&Template=search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-092.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-110.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-387.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# nachperemptorische Fristerstreckung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.1
+
+ENTSCHEID
+
+vom 21. Dezember 2023
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und Gerichtsschreiber
+Dr. Urs Thönen
+
+Beteiligte
+
+A____ Beschwerdeführerin
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001
+Basel
+
+Gegenstand
+
+Beschwerde gegen eine
+Verfügung der Staatsanwaltschaft
+
+vom 15. Dezember 2022
+
+betreffend nachperemptorische
+Fristerstreckung
+
+Sachverhalt
+
+A____
+(Beschwerdeführerin) reichte im Zusammenhang mit einer Erbschaftsstreitigkeit
+bei der Staatsanwaltschaft Basel-Stadt am 16. September 2022 Strafanzeige gegen
+den Basler Notar B____ sowie die Herren [...] und [...] ein. Die
+Staatsanwaltschaft antwortete ihr mit Schreiben vom 21. September 2022, dass
+sich der Sachverhaltsdarstellung und den eigereichten Beilagen keine strafbaren
+Handlungen der beanzeigten Personen entnehmen liessen, setzte ihr Frist zur
+Ergänzung der Anzeigesachverhalte und empfahl die Inanspruchnahme anwaltlicher
+Hilfe. Die Frist wurde mit Schreiben der Staatsanwaltschaft vom 10. November
+2022 «letztmals» bis zum 27. Dezember 2022 verlängert. Die eingeschriebene
+Postsendung kam mit dem Vermerk «nicht abgeholt» zurück. Zwischen den Parteien
+wurde auch per E-Mail kommuniziert, so dass die Beschwerdeführerin mit E-Mail vom
+21. November 2022 davon Kenntnis erhielt, dass die Staatsanwaltschaft eine
+letztmalige Fristerstreckung verfügt hatte.
+
+Mit E-Mail vom
+6. Dezember 2022 nannte die Beschwerdeführerin als Beschuldigte bzw. Beteiligte
+zusätzlich die Firmen [...] AG, [...] AG, [...] AG, [...] AG sowie die Miterben
+[...] und [...]. Mit E-Mail vom 14. Dezember 2022 ersuchte die
+Beschwerdeführerin bei der Staatsanwaltschaft um Aufschub der Ergänzungsfrist bis
+zum 7. Januar 2023, worauf ihr die Staatsanwaltschaft mit Schreiben vom 15.
+Dezember 2022 mitteilte, dass eine nochmalige nachperemptorische Fristerstreckung
+nicht in Frage komme.
+
+Mit (auf elektronischer
+Zustellplattform eingereichter) Beschwerde vom 2. Januar 2023 beantragt die
+Beschwerdeführerin die Anweisung der Staatsanwaltschaft, die angezeigten
+Delikte zu untersuchen und folgende Akten beizuziehen: Akten der Nachlässe
+ihrer Mutter [...] sel. und ihrer Grossmutter [...] sel. beim Erbschaftsamt
+Basel-Stadt, die Krankenakte der Mutter und Grossmutter bei den jeweiligen
+Hausärzten, die Belege zu den Liegenschaftsverkäufen [...] und [...] beim
+Grundbuchamt Basel-Stadt, das Aktienbuch der [...] AG in Aesch BL sowie die
+Testamentsprotokolle ihrer Grossmutter beim Notar B____. Am 3. Januar 2023 hat
+die Beschwerdeführerin weitere Dokumente als Beschwerdebeilagen eingereicht.
+
+Mit
+Nichtanhandnahmeverfügung vom 6. Januar 2023 ist die Staatsanwaltschaft auf die
+Strafanzeige nicht eingetreten, da kein hinreichender Anfangsverdacht für eine
+strafbare Handlung vorliege. Mit Schreiben an das Appellationsgericht vom 24.
+Januar 2023 (Postaufgabe 26. Januar 2023) hat die Beschwerdeführerin die
+Aufhebung dieser Nichtanhandnahmeverfügung beantragt.
+
+Die
+Staatsanwaltschaft beantragt mit Vernehmlassung vom 6. Februar 2023, auf die
+Beschwerde kostenfällig nicht einzutreten, eventualiter sie abzuweisen. Überdies
+hat die Staatsanwaltschaft dem Beschwerdegericht die Vorakten eingereicht.
+
+Am 14. März 2023
+hat die Staatsanwaltschaft der Beschwerdeinstanz eine Kopie des E-Mails der
+Beschwerdeführerin vom 13. März 2023 überwiesen. Mit Verfügung vom 8. November 2023
+wurde der Beschwerdeführerin die Vernehmlassung der Staatsanwaltschaft vom 6.
+Februar 2023 zur Kenntnis zugestellt, wobei die Beschwerdeführerin die
+Zustellung gemäss Verfallquittung der elektronischen Zustellplattform nicht abholte.
+Der vorliegende Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten
+ergeben sich  soweit sie für den Entscheid von Bedeutung sind  aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss Art. 393 Abs. 1
+lit. a der Strafprozessordnung (StPO, SR 312.0) unterliegen
+Verfügungen und Verfahrenshandlungen der Staatsanwaltschaft grundsätzlich der
+Beschwerde an das Appellationsgericht. Dieses ist als Einzelgericht für die
+Beurteilung zuständig (§ 93 Abs. 1 des Gerichtsorganisationsgesetzes
+[GOG, SG 154.100]) und urteilt gemäss Art. 393 Abs. 2 StPO
+mit freier Kognition.
+
+1.2 Gemäss Art. 396 Abs. 1
+StPO ist die Beschwerde gegen schriftlich oder mündlich eröffnete Entscheide
+innert 10 Tagen schriftlich und begründet bei der Beschwerdeinstanz
+einzureichen. Die Frist beginnt am Tag nach der Eröffnung beziehungsweise
+Zustellung des angefochtenen Entscheids zu laufen (Art. 90 Abs. 1 StPO). Eine
+eingeschriebene Postsendung wird als zugestellt erachtet, sobald sie auf der
+Poststelle abgeholt wird. Jedenfalls gilt gemäss Art. 85 Abs. 4 lit. a StPO die
+eingeschriebene Postsendung am siebten Tag nach dem erfolglosen Zustellversuch
+als zugestellt, unabhängig davon, ob der Adressat die Sendung zur Kenntnis
+genommen hat oder nicht, sofern er mit einer Zustellung rechnen musste (Zustellungsfiktion).
+Die Beschwerdefrist ist eingehalten, wenn die Beschwerde spätestens am letzten
+Tag der Frist bei der zuständigen Behörde abgegeben oder zu deren Handen der
+Schweizerischen Post übergeben wird (Art. 91 Abs. 2 StPO). Bei elektronischer
+Einreichung ist der Zeitpunkt der Quittung im Sinne von Art. 91 Abs. 3
+StPO massgebend.
+
+Die angefochtene Verfügung vom 15.
+Dezember 2022 wurde an die von der Beschwerdeführerin genannte Absenderadresse
+in [...] (Kanton Tessin) gesandt und dort am 16. Dezember 2022 zur Abholung am
+Postschalter avisiert. Nachdem die Beschwerdeführerin die Sendung innert sieben
+Tagen nicht abholte, begann die Beschwerdefrist gemäss der Zustellungsfiktion von
+Art. 85 Abs. 4 lit. a StPO am 23. Dezember 2022 (Freitag) zu laufen. Im
+Strafverfahren gibt es keine Gerichtsferien (Art. 89 Abs. 2 StPO). Die 10-tägige
+Beschwerdefrist lief demnach bis zum 2. Januar 2023 (Montag, sog. Berchtolds­tag),
+wobei dieser am Wohnsitz der Beschwerdeführerin im Kanton Tessin kein
+gesetzlicher Feiertag ist (vgl. Riedo ,
+in: Basler Kommentar StPO I, 3. Auflage 2023, Art. 90 N 44; https://de.wikipedia.org/wiki/Feiertage_in_der_Schweiz).
+Die Beschwerde wurde gemäss elektronischem Zeitstempel am 2. Januar 2023
+eingereicht, also am letzten Tag der Beschwerdefrist, und ist damit rechtzeitig
+erfolgt. Vorliegend war die Beschwerdeführerin offensichtlich imstande, rechtzeitig
+Beschwerde zu erheben, weshalb ihr im vorliegenden Einzelfall aus der fehlenden
+Rechtsmittelbelehrung, soweit diese im Zusammenhang mit der Zustellfiktion
+überhaupt ihre Wirkungen entfaltet, keine Nachteile erwuchsen.
+
+1.3 Soweit die
+Beschwerdeführerin mit ihrem Schreiben vom 24. Januar 2023 (Postaufgabe 26.
+Januar 2023) gegen die Nichtanhandnahmeverfügung vom 6. Januar 2023 Beschwerde
+führt, erweist sich diese als verspätet. Gemäss dem postalischen Nachweis zur
+Sendungsverfolgung in den Vorakten wurde die Beschwerdeführerin am 7. Januar
+2023 zur Abholung der Sendung am Postschalter avisiert. Da eine Abholung
+unterblieb, begann die Beschwerdefrist kraft der Zustellungsfiktion von Art. 85
+Abs. 4 lit. a StPO am 14. Januar 2023 zu laufen und endete am 24. Januar 2023.
+Massgeblich für die Wahrung der Beschwerdefrist ist nicht die Datierung des
+Schreibens, sondern die effektive Postaufgabe, welche vorliegend am 26. Januar
+2023 und damit nach Ablauf der Beschwerdefrist erfolgte. Ein Rückkommen auf die
+Nichtanhandnahmeverfügung ist indessen möglich, wenn sich die vorliegende Beschwerde
+als begründet erweist und die Frist zur Sachverhaltsergänzung wiederhergestellt
+wird.
+
+1.4 Angefochten ist die
+Verfügung der Staatsanwaltschaft über eine weitere Frist­erstreckung im
+Hinblick auf die Ergänzung einer unverständlichen Strafanzeige, nachdem diese
+Frist mit dem Vermerk «letztmals» erstreckt wurde. Zu den beschwerdefähigen Entscheiden
+zählen auch Verfügungen über Fristerstreckungs­gesuche ( Riedo , a.a.O., Art. 92 N 35; Brüschweiler/Grünig ,
+in: Donatsch et al. [Hrsg.], Kommentar zur schweizerischen Strafprozessordnung,
+3. Auflage, Zürich 2020, Art. 92 N 12; BES.2020.204 vom 5. Februar 2021 E. 1.2,
+BES.2020.170 vom 18. November 2020 E. 2). Dies gilt auch für Verfügungen über
+Fristerstreckungsgesuche resp. betreffend die Modalitäten der Fristsetzung zur
+Stellung von Beweisanträgen, auch wenn gemäss
+Art. 394 lit. b und 318 Abs. 3 StPO
+Beschwerden gegen die Ablehnung von Beweisanträgen durch die Staatsanwaltschaft
+grundsätzlich nicht zulässig sind. Zur Begründung wird auf das Mitwirkungsrecht
+der Parteien gemäss Art. 318 StPO verwiesen (AGE BES.2020.204 vom 5.
+Februar 2021 E. 1.2, BES. 2017.26 vom 2. Mai 2017 E. 1.3, BES.2012.16 vom 17.
+Oktober 2012 E. 1.2 und 2.5.2), welches grundsätzlich auch für geschädigte
+Personen gilt, soweit diesen eine Parteistellung zukommt (vgl. Art. 105 Abs. 2,
+Art. 115, 118, 301 Abs. 3 StPO) und deren Eingabe wegen Unverständlichkeit oder
+Weitschweifigkeit zur Überarbeitung zurückgewiesen wird (vgl. Art. 110 Abs. 4
+StPO). Die vorliegende Beschwerde gegen die Verweigerung einer nachperemptorischen
+Fristverlängerung zur Ergänzung der Strafanzeige ist demnach zulässig.
+
+1.5 Nicht stattgegeben werden
+kann dem Nichteintretensantrag der Staatsanwaltschaft, wonach mit der
+zwischenzeitlich ergangenen Nichtanhandnahmeverfügung vom 6. Januar 2023 das
+aktuelle Rechtsschutzinteresse der Beschwerdeführerin an der Beschwerde
+entfallen sei. Es besteht im vorliegenden Einzelfall weiterhin ein aktuelles
+Interesse an der Frage, ob die Staatsanwaltschaft eine nochmalige
+Fristverlängerung gewähren musste oder nicht. Der Eingang der vorliegenden Beschwerde
+wurde der Staatsanwaltschaft am 23. Januar 2023 mitgeteilt, nachdem die Beschwerdeführerin
+den Kostenvorschuss geleistet hatte. In diesem Zeitpunkt war die Nichtanhandnahmeverfügung
+bereits ergangen. Die im vorliegenden Beschwerdeverfahren aufgeworfenen Fragen betreffen
+die Formulierung der Strafanzeige und sind auch für die daran anschliessende
+Nichtanhandnahme von Bedeutung, so dass diese mit der angefochtenen
+Fristverlängerung steht und fällt. Zudem sprechen auch verfahrensökonomische
+Gesichtspunkte für eine Behandlung der Beschwerde. Demnach ist auf das
+Rechtsmittel einzutreten.
+
+1.6 Soweit die
+Beschwerdeführerin um eine Nachfrist zur Verbesserung der Beschwerdebegründung
+ersucht, kann ihrem Antrag nicht stattgegeben werden. Gründe für eine
+Fristwiederherstellung nach Art. 94 StPO, namentlich eine unverschuldete
+Säumnis, werden keine geltend gemacht und sind nicht ersichtlich. Die
+Beschwerdeführerin hat ihre Anschrift im Tessin stets als Absenderadresse
+gegenüber der Staatsanwaltschaft verwendet (vgl. Strafanzeige vom 16. September
+2022, Schreiben vom 11. Oktober 2022 und 8. November 2022, alle in den Vorakten).
+Als sie mit E-Mail vom 14. Dezember 2022 um nochmalige Fristerstreckung
+ersuchte, hat sie keine abweichende Zustelladresse angegeben. Sie hat damit
+rechnen müssen, dass die Staatsanwaltschaft ihre Antwort an die im Verfahren
+hinterlegte Zustelladresse im Tessin senden würde. Folglich oblag es der
+Beschwerdeführerin dafür zu sorgen, dass die eingeschriebene Postsendung abgeholt
+wird.
+
+1.7 Das Gesuch um
+aufschiebende Wirkung der Beschwerde ist abzuweisen. Zum einen kommt der
+Beschwerde gemäss Art. 387 StPO grundsätzlich keine aufschiebende Wirkung zu. Zum
+anderen könnte der Beschwerdeführerin im Falle der Gutheissung ihres
+Rechtsmittels die Frist zur Ergänzung ihres Strafantrags (einschliesslich des
+Rückkommens auf die Nichtanhandnahme) jederzeit und ohne Nachteile wieder
+gewährt werden.
+
+2.
+
+2.1 Die Beschwerdeführerin
+macht geltend, es handle sich um komplexe Deliktsvorwürfe, nicht um einen
+Handtaschen-Diebstahl. Der Wert des Nachlasses ihrer Grossmutter betrage CHF 17
+Millionen. Der am 6. Dezember 2022 angezeigte Deliktsvorwurf beziehe sich auf
+einen Mindestbetrag von CHF 8 Millionen. In der Verfügung vom 15. Dezember 2022
+fehle eine Rechtsmittelbelehrung. Die durch den Staatsanwalt am 29. Dezember
+2022 nachgeschobene Rechtsmittelbelehrung sei falsch.
+
+2.2 Die Staatsanwaltschaft macht
+in der Vernehmlassung geltend, dass sie der Beschwerdeführerin Gelegenheit
+gegeben habe, ihre Sachverhaltsdarstellung in der Strafanzeige zu ergänzen.
+Zudem habe sie ihr empfohlen, anwaltliche Hilfe in Anspruch zu nehmen. Die
+Frist sei mehrmals erstreckt worden. Die Beschwerdeführerin habe mit E-Mail vom
+6. Dezember 2022 nochmals die drei beschuldigten Personen aufgezählt, ohne auch
+nur im Ansatz darauf einzugehen, wessen sich die genannten Personen und Firmen
+im Einzelnen konkret strafbar gemacht hätten. Im E-Mail vom 8. Dezember
+2022 habe die Beschwerdeführerin einen Fehlbetrag von CHF 431'000. im
+Zusammenhang mit einer Urkundenfälschung genannt. Allerdings fehlten eine nachvollziehbare
+Erklärung und jegliche Beweise für ihre Behauptung. Am 20. Januar 2023 (also
+nach Erlass der angefochtenen Verfügung) sei bei der Staatsanwaltschaft eine Anzeige
+mit Vorwürfen gegen den Willensvollstrecker und Notar B____ in zwei Nachlassabwicklungen
+eingegangen, mit unübersichtlichen, weitgehend nicht nummerierten Beilagen. Auch
+diese nachträglichen Eingaben der Beschwerdeführerin seien nicht geeignet, einen
+hinreichenden Anfangsverdacht zur Einleitung eines Untersuchungsverfahrens zu begründen.
+
+3.
+
+3.1 Der Beschwerde vom 2.
+Januar 2023 lässt sich zwar entnehmen, dass die Beschwerdeführerin eine
+nochmalige Fristverlängerung wünscht. Es wird jedoch nicht überzeugend
+dargelegt, weshalb sie die Strafvorwürfe nicht schon in der Strafanzeige vom 16.
+September 2022 oder dann jedenfalls innert der zweimal verlängerten, bis am 27.
+Dezember 2022 dauernden Frist klar hätte benennen können. Dasselbe gilt für
+ihre weiteren, nach Ablauf der Beschwerdefrist eingereichten Eingaben. Aus der
+umfangreichen Dokumentation erschliesst sich nicht, weshalb die Ergänzungsfrist
+über die bereits mehrfach verlängerte Dauer hinaus zu erstrecken wäre.
+
+3.2 Gemäss
+Art. 92 StPO können Behörden die von ihnen angesetzten Fristen von Amtes
+wegen oder auf Gesuch hin erstrecken. Das Gesuch muss vor Ablauf der Frist
+gestellt werden und hinreichend begründet sein. Bei wiederholter Gesuchs­einreichung
+gelten strengere Massstäbe. Dies gilt namentlich, wenn die Frist zunächst mit
+der Bezeichnung «einmalig» oder «letztmalig» erstreckt wurde, womit eine
+weitere, daran anschliessende Erstreckung auf Notsituationen beschränkt bleibt.
+Diesfalls trägt nach Ansicht der Kommentierungen die gesuchstellende Partei das
+Risiko der Gesuchsabweisung und es muss, jedenfalls wenn die vorangehende
+Fristverlängerung als «letztmalig» bezeichnet wurde, keine Nachfrist bzw.
+Notfrist gesetzt werden ( Riedo , a.a.O.,
+Art. 92 N 26, 33; Brüschweiler/Grünig ,
+a.a.O., Art. 92 N 5).
+
+Im vorliegenden
+Fall ist in den Vorakten dokumentiert, dass die Beschwerdeführerin mehrfach um
+Fristerstreckung ersucht hat. Die Staatsanwaltschaft eröffnete ihr die Verfügungen
+auf formellem Weg. Zusätzlich liess sich die Staatsanwaltschaft auf eine
+E-Mail-Korrespondenz mit der Beschwerdeführerin ein, wobei sie ihr die
+Notwendigkeiten einer Strafanzeige mehrfach erläuterte. Die Beschwerdeführerin
+wusste seit dem Schreiben der Staatsanwaltschaft vom 21. September 2022, dass
+diese bei unbenutztem Fristablauf nach Massgabe der Aktenlage entscheiden würde.
+Auf Ersuchen der Beschwerdeführerin vom 11. Oktober 2022 erstreckte die
+Staatsanwaltschaft am 12. Oktober 2022 die Frist antragsgemäss bis zum 24.
+November 2022. Ein weiteres Erstreckungsgesuch vom 8. November 2022 bewilligte
+die Staatsanwaltschaft am 10. November 2022, indem die Frist bis zum 27. Dezember
+2022 erstreckt wurde. Dabei wurde die Bezeichnung «letztmals» verwendet.
+Zusammen mit der Empfehlung des Staatsanwalts, anwaltliche Unterstützung
+beizuziehen (Schreiben vom 21. September 2022 und 12. Oktober 2022) musste der
+Beschwerdeführerin der Ernst der Lage spätestens dann bewusst sein, als sie das
+E-Mail der Staatsanwaltschaft vom 21. November 2022 erhielt und darauf am
+gleichen Tag antwortete. Dass sich die Beschwerdeführerin darauf beruft, sie
+habe die eingeschriebene Sendung nicht abgeholt, ist nicht entscheidend, da
+diese als Reaktion auf ihr Gesuch an die von ihr selber bezeichnete Adresse
+spediert wurde (hiervor E. 1.2). Als sie am 14. Dezember 2022 ihr E-Mail
+verfasste, mit dem sie um «Zuschub an Zeit [] bis zum 7. Januar 2023» ersuchte,
+wusste sie um die Letztmaligkeit der früheren Erstreckung. Sie durfte also nicht
+davon ausgehen, dass die Staatsanwaltschaft die Frist noch einmal verlängern
+würde.
+
+Weiter fällt
+auf, dass die Beschwerdeführerin vom 16. September 2022 (Strafanzeige) bis zum
+mehrfach erstreckten Fristablauf am 27. Dezember 2022 rund drei Monate Zeit
+hatte, um ihre Strafanzeige zu ergänzen. Diese Zeit ist grosszügig bemessen,
+zumal die Staatsanwaltschaft ihr mehrfach Unterstützung bot und Auskunft per
+E-Mail erteilte. Dass die Beschwerdeführerin die gebotene Ergänzung der
+Strafanzeige in dieser Zeit nicht liefern konnte, hat sie sich selber
+zuzuschreiben. Die Staatsanwaltschaft handhabte die Fristen und Verlängerungen
+in sachgerechter Art und Weise und war keinesfalls zu streng oder übertrieben
+formalistisch. Sie durfte in Übereinstimmung mit den Regeln der
+Strafprozessordnung schliessen, dass die Ergänzungsfrist unbenutzt abgelaufen
+war. Die dagegen gerichtete Kritik der Beschwerdeführerin erweist sich demnach
+als unbegründet.
+
+4.
+
+Die Beschwerde
+ist nach dem Gesagten abzuweisen.
+
+Bei diesem
+Ausgang des Verfahrens hat die Beschwerdeführerin die Kosten zu tragen
+(Art. 428 Abs. 1 StPO), wobei vorliegend eine Gebühr von
+CHF 1000. als angemessen erscheint und mit dem geleisteten
+Kostenvorschuss zu verrechnen ist (§ 21 Abs. 2 des
+Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die Kosten des Beschwerdeverfahrens
+mit einer Gebühr von CHF 1000., einschliesslich Auslagen. Diese wird mit
+dem bereits geleisteten Kostenvorschuss in gleicher Höhe verrechnet.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Der
+Gerichtsschreiber
+
+lic. iur.
+Liselotte Henz                                               Dr. Urs Thönen
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
