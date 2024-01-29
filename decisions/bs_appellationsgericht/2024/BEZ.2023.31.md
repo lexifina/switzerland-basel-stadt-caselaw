@@ -1,0 +1,470 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.84"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2023.31"
+docket_2: "AG.2024.84"
+decided: "2024-01-29"
+published: "2024-02-22"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76397&W10_KEY=3048482&nTrefferzeile=219&Template=search_result_document.html"
+cites_decisions: ["SB.2022.286", "ZB.2019.1"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-023.md", "switzerland/bund/acts/272/art-212.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-328.md"]
+---
+
+# Forderung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2023.31
+
+ENTSCHEID
+
+vom 29. Januar 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius Gelzer,
+lic. iur. André Equey
+
+und Gerichtsschreiber lic. iur.
+Johannes Hermann
+
+Parteien
+
+A____ AG Beschwerdeführerin
+
+[...]                                                                                      
+Gesuchstellerin
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+B____ Beschwerdegegnerin
+
+[...]                                                                                  
+Gesuchsgegnerin
+
+Gegenstand
+
+Beschwerde gegen einen Entscheid
+der Schlichtungsbehörde
+
+vom 17. November 2022
+
+betreffend Forderung
+
+Sachverhalt
+
+Die A____ AG (Beschwerdeführerin) reichte am 2. Mai 2022 bei
+der Schlichtungsbehörde des Zivilgerichts Basel-Stadt ein Schlichtungsgesuch
+ein. Darin beantragte sie die Verpflichtung von B____ (Beschwerdegegnerin) zur Zahlung
+von CHF 184.80 nebst Zins zu 5 % seit 15. Oktober 2021 sowie die Beseitigung
+des Rechtsvorschlags in der Betreibung Nr. [...] des Betreibungsamts [...]. Anlässlich
+der Schlichtungsverhandlung vom 7. Juli 2022 schlossen die Parteien einen Vergleich
+mit folgendem Inhalt ab:
+
+«1.  Die Gesuchsbeklagte leistet der
+Gesuchstellerin CHF 150.00 in Abgeltung sämtlicher Ansprüche aus dem Verfahren
+SB.2022.286 (eingeklagte Forderung plus Verfahrenskosten).
+
+2.  Die Gesuchsbeklagte hat ihre
+Zahlung an die Gesuchstellerin bis zum 15. Juli 2022 zu leisten.
+
+3.  Die Parteien erklären sich damit
+per Saldo aller gegenseitigen Ansprüche als ausein­andergesetzt.»
+
+Die Schlichtungsbehörde schrieb das Schlichtungsverfahren mit
+Entscheid vom gleichen Tag als erledigt ab. Mit Schreiben vom 15. Juli 2022 wandte
+sich die Beschwerdegegnerin an die Schlichtungsbehörde, welche die Eingabe als
+Revisionsgesuch entgegennahm. Am 13. Oktober 2022 fand erneut eine
+Schlichtungsverhandlung statt. Mit Entscheid vom 17. November 2022 hiess die
+Schlichtungsbehörde das Revisionsgesuch gut, hob den Entscheid vom 7. Juli 2022
+auf und wies das Schlichtungsgesuch ab. Auf Gesuch der Beschwerdeführerin hin
+begründete die Schlichtungsbehörde den Entscheid schriftlich.
+
+Mit Eingabe vom 24. April 2023 erhob die Beschwerdeführerin
+beim Appellationsgericht Beschwerde. Sie beantragt, es sei der Entscheid der
+Schlichtungsbehörde vom 17. November 2022 aufzuheben, das Revisionsgesuch
+abzuweisen und der Vergleich vom 7. Juli 2022 zu bestätigen. Die
+Beschwerdegegnerin nahm mit Eingabe vom 6. Juli 2023 zur Beschwerde Stellung.
+Sie beantragt, «das Revisionsgesuch vom 17.11.2022 gutzuheissen» und die
+Beschwerde unter Kosten- und Entschädigungsfolge zulasten der
+Beschwerdeführerin abzuweisen. Ausserdem seien die geleisteten CHF 150. von
+der Beschwerdeführerin nebst den noch nicht bezahlten CHF 60. zusätzlich an
+die Beschwerdegegnerin zurückzuerstatten. Die Schlichtungsbehörde verzichtete auf
+eine Stellungnahme. Der vorliegende Entscheid erging auf dem Zirkulationsweg.
+
+Erwägungen
+
+1. Formelles
+
+1.1 Erstinstanzliche
+Endentscheide in vermögensrechtlichen Angelegenheiten sind mit Berufung
+anfechtbar, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren
+mindestens CHF 10'000. beträgt (Art. 308 der Schweizerischen Zivilprozessordnung
+[ZPO, SR 272]). Beim angefochtenen Entscheid der Schlichtungsbehörde vom 17.
+November 2022 handelt es sich um einen erstinstanzlichen Endentscheid. Da der
+Streitwert weniger als CHF 10'000. beträgt, ist der angefochtene Entscheid
+nicht berufungsfähig, weshalb Beschwerde erhoben werden kann (Art. 319 lit. a
+ZPO). Auf die frist- und formgerecht erhobene Beschwerde ist einzutreten.
+
+1.2 Für
+den Entscheid über die vorliegende Beschwerde ist das Dreiergericht des Appellationsgerichts
+zuständig (§ 92 Abs. 1 Ziffer 6 des Gerichtsorganisationsgesetzes [GOG, SG
+154.100]). Mit der Beschwerde können die unrichtige Rechtsanwendung und die
+offensichtlich unrichtige Feststellung des Sachverhalts gerügt werden (Art. 320
+ZPO).
+
+1.3 Der
+Entscheid vom 17. November 2022 wurde ausschliesslich von der
+Beschwerdeführerin angefochten. Auf die Anträge der Beschwerdegegnerin, die
+über die Abweisung der Beschwerde unter Kosten- und Entschädigungsfolge
+hinausgehen, kann daher nicht eingetreten werden.
+
+2.         Entscheid
+der Schlichtungsbehörde
+
+Die Schlichtungsbehörde beurteilte im angefochtenen Entscheid
+zunächst das Gesuch der Beschwerdegegnerin um Revision des
+Abschreibungsentscheids vom 7. Juli 2022. Die Beschwerdegegnerin mache geltend,
+darauf vertraut zu haben, dass der Zustand der Nichtbekanntgabe der Betreibung
+nach Abschluss des Vergleichs aufrechterhalten bleibe, zumal die
+Nichtbekanntgabe der Betreibung anlässlich der Verhandlung vom 7. Juli 2022
+thematisiert worden und zentraler Bestandteil des Vergleichs und damit
+zwingende Voraussetzung einer Einigung gewesen sei. Damit mache sie einen Grundlagenirrtum
+im Sinn von Art. 23 in Verbindung mit Art. 24 Abs. 1 Ziffer 4 des
+Obligationenrechts (OR, SR 220) geltend. Anlässlich der Schlichtungsverhandlung
+vom 7. Juli 2022 habe sie gefragt, ob eine Formulierung betreffend die
+Nichtbekanntgabe der Betreibung in den Vergleich aufgenommen werden soll. Darauf
+habe der Schlichter den Parteien geantwortet, dass es sich mit Unterzeichnung
+der eine Saldoklausel enthaltenden Vergleichsvereinbarung von selbst verstehe,
+dass der Zustand der Nichtbekanntgabe der Betreibung aufrechterhalten werde und
+die Betreibung zurückzuziehen sei. Die Beschwerdegegnerin habe folglich keine
+Zweifel daran gehabt, dass der Zustand der Nichtbekanntgabe der Betreibung nach
+Abschluss des Vergleichs aufrechterhalten bleibe bzw. dass die Betreibung
+zurückgezogen werde. Sie habe sich somit über einen Umstand geirrt, der in der
+Ausganslage des Vergleichsabschlusses als gewiss verstanden worden sei und für
+sie eine unabdingbare Grundlage gebildet habe, die Vergleichserledigung über
+die ungewissen, zweifelhaften Punkte  nämlich die Zahlung der eingeklagten
+Forderung  überhaupt einzugehen. Diese für die Beschwerdegegnerin als gewiss
+verstandene Ausgangslage, dass die Betreibung weiterhin nicht bekannt gegeben bzw.
+zurückgezogen werde, sowie der Umstand, dass die Beschwerdegegnerin unter keinen
+Umständen einen Vergleich geschlossen hätte, wenn sie gewusst hätte, dass die Beschwerdeführerin
+die Betreibung nicht zurückziehe, seien auch für letztere erkennbar gewesen.
+Der Rückzug der Betreibung habe deshalb keinen Eingang in den Wortlaut der Vergleichsvereinbarung
+gefunden, weil er für die Parteien als gewiss angesehen worden sei. Die Beschwerdegegnerin
+sei somit bei ihrer Willensäusserung einem Irrtum über die notwendige Grundlage
+des Vergleichs erlegen. Ein diesbezüglicher Irrtum berechtige zur Anfechtung bzw.
+Revision nach Art. 328 Abs. 1 lit. c ZPO. Demzufolge hiess die
+Schlichtungsbehörde das Revisionsgesuch gut und hob den Entscheid vom 7. Juli
+2022 auf (Entscheid der Schlichtungsbehörde, E. 2 und 5).
+
+In der Folge prüfte die Schlichtungsbehörde die von der
+Beschwerdeführerin im Schlichtungsverfahren geltend gemachte Forderung. Sie
+gelangte zum Ergebnis, dass es der Beschwerdeführerin nicht gelinge, den
+zweifelsfreien Nachweis zu erbringen, dass die Beschwerdegegnerin noch einen Geldbetrag
+schulde. Sie habe anlässlich der Schlichtungsverhandlung auf die Einreichung
+weiterer Beweismittel mit der Begründung verzichtet, sie wolle «hier nicht
+weiter Zeit vergeuden». Der Beschwerdegegnerin sei es gelungen, den strittigen
+Restbetrag in verschiedenen Punkten substantiiert zu bestreiten. Daher wies die
+Schlichtungsbehörde das Schlichtungsgesuch der Beschwerdeführerin ab (Entscheid
+der Schlichtungsbehörde, E. 35).
+
+Die Kosten des Revisions- und des Entscheidverfahrens von
+insgesamt CHF 120. auferlegte die Schlichtungsbehörde der Beschwerdeführerin
+(Entscheid der Schlichtungsbehörde, E. 6).
+
+3.         Rügen
+der Beschwerdeführerin
+
+3.1 Die Beschwerdeführerin schildert zunächst den
+Sachverhalt aus ihrer Sicht (Beschwerde, Rz. 37). Sie zeigt dabei nicht auf,
+inwiefern die Schlichtungsbehörde den Sachverhalt offensichtlich unrichtig
+festgestellt hat. Auf ihre Schilderung des Sachverhalts ist daher nicht weiter einzugehen.
+
+3.2      Vorliegen
+eines Revisionsgesuchs
+
+3.2.1 In rechtlicher Hinsicht bringt die Beschwerdeführerin
+vor, die Schlichtungsbehörde habe das Schreiben der Beschwerdegegnerin vom 15.
+Juli 2022 zu Unrecht als Revisionsgesuch behandelt. Das Schreiben enthalte
+lediglich einen Antrag auf schriftliche Begründung des Kostenentscheids. Mit
+Eingabe vom 6. Oktober 2022 habe sie dies moniert. Die Schlichtungsbehörde habe
+auch nicht von Amtes wegen von einem Revisionsgesuch ausgehen dürfen. Indem die
+Schlichtungsbehörde das Schreiben dennoch als Revisionsgesuch behandelt habe,
+habe sie ihr Ermessen in willkürlicher Weise überschritten, das Recht unrichtig
+angewandt und den Sachverhalt unzutreffend festgestellt (Beschwerde, Rz. 812).
+
+3.2.2 Die Schlichtungsbehörde erwog, dass die
+Beschwerdegegnerin die Revision des Abschreibungsentscheids vom 7. Juli 2022 verlangt
+habe. Dies bestreitet die Beschwerdeführerin in ihrer Beschwerde. Sie begehrt
+in ihren Beschwerdeanträgen, «das Revisionsgesuch der Beschwerdegegnerin» sei
+abzuweisen. Die Abweisung eines Revisionsgesuchs kann aber nicht damit
+begründet werden, dass gar kein Revisionsgesuch vorliege. Enthält eine
+Rechtsmitteleingabe keine genügenden Rechtsbegehren bzw. Anträge, führt dies zu
+einem Nichteintretensentscheid und nicht zu einer Abweisung des Rechtmittels
+(vgl. AGE ZB.2019.1 vom 29. April 2019 E. 1.3). Da die Beschwerdeführerin in
+ihrer Beschwerde ausschliesslich beantragt, es sei der angefochtene Entscheid
+aufzuheben und das Revisionsgesuch abzuweisen, kann im Beschwerdeverfahren
+nicht mehr geprüft werden, ob die Schlichtungsbehörde zu Recht auf das
+Revisionsgesuch eingetreten ist bzw. dieses materiell behandelt hat.
+
+Ergänzend wird darauf hingewiesen, dass ein Rechtsmittel, wie
+von der Beschwerdeführerin zutreffend ausgeführt, ein Rechtsbegehren enthalten
+muss. Allerdings kann ein solches gerade bei Eingaben von Laien nach Treu und
+Glauben als gestellt erachtet werden, wenn sich unter Beizug der Begründung
+klar ergibt, was die Rechtsmittelklägerin von der Rechtsmittelinstanz begehrt.
+Die Beschwerdegegnerin ist eine juristische Laiin. Sie teilte in ihrer Eingabe
+vom 15. Juli 2022 der Schlichtungsbehörde mit, von welchen Voraussetzungen sie
+bei Abschluss des Vergleichs ausgegangen sei. Die Schlichtungsbehörde nahm die
+Eingabe in ihrer Verfügung vom 22. Juli 2022 als Revisionsgesuch entgegen und teilte
+dies den Parteien auch so mit. Die Beschwerdeführerin erhielt Gelegenheit,
+innert Frist bis zum 12. August 2022 zur Eingabe vom 15. Juli 2022 Stellung zu
+nehmen. Sie nutzte diese Gelegenheit nicht. Am 12. August 2022 wandte sich die
+Beschwerdegegnerin ihrerseits mit einer weiteren Eingabe, die sie unter anderem
+mit «Revisionsbegehren» betitelte, an die Schlichtungsbehörde. Daraufhin teilte
+die Schlichtungsbehörde den Parteien mit, dass sie in einem einstufigen
+Verfahren über die Zulässigkeit der Revision und in der Sache selber
+entscheiden werde (Verfügung vom 29. August 2022). Auch dazu äusserte sich die
+Beschwerdeführerin nicht. Erst nach der Zustellung der Vorladung zur
+Verhandlung teilte die Beschwerdeführerin mit, dass sie an der Verhandlung
+nicht teilnehmen werde. Mit dem Entscheid und der Annahme des Vergleichs sei
+abschliessend aufgezählt worden, was der Vergleich beinhalte. Ein Rückzug der
+Betreibung sei nie Gegenstand des Vergleichs gewesen. Sie würde auf ihrer noch
+offenen Faktura vom 26. Juli 2022 über CHF 48.45 bestehen, damit sie die
+Betreibung zurückziehen könne (Schreiben vom 6. Oktober 2022). Damit steht
+fest, dass die Beschwerdeführerin  entgegen ihren Ausführungen (Beschwerde,
+Rz. 10)  im Schreiben vom 6. Oktober 2022 die Qualifizierung der Eingabe der
+Beschwerdegegnerin vom 15. Juli 2022 (ergänzt durch die Eingabe vom 12. August
+2022) als Revisionsgesuch nicht moniert hat. Unter diesen Umständen ist es
+nicht zu beanstanden, dass die Schlichtungsbehörde auf die Eingaben der
+Beschwerdegegnerin als Revisionsgesuch eingetreten ist und geprüft hat, ob ein
+Revisionsgrund vorliegt.
+
+3.3      Beurteilung
+des Revisionsgesuchs
+
+3.3.1 In materieller Hinsicht bestreitet die Beschwerdeführerin
+das Vorliegen eines Revisionsgrunds. Sie macht geltend, dass sich die
+Beschwerdegegnerin in ihrer Eingabe vom 15. Juli 2022 bezüglich des Abschlusses
+des Vergleichs nicht auf einen Irrtum berufen habe. Vielmehr habe die
+Beschwerdegegnerin ausgeführt, verstanden zu haben, dass in der Saldoklausel
+auch die Nichtbekanntgabe der Betreibung inbegriffen sei. Damit seien die
+Anforderungen an einen Grundlagenirrtum nicht erfüllt. Es sei nicht die Meinung
+der Parteien gewesen, dass mit der Saldoklausel auch die Löschung der
+Betreibung gemeint sei. Dass die Löschung der Betreibung für die
+Beschwerdegegnerin derart wesentlich für den Abschluss des Vergleichs gewesen
+sei, sei nicht erstellt. Da die Beschwerdegegnerin nach der Thematisierung der
+Löschung der Betreibung nicht auf die Aufnahme einer derartigen Bestimmung in
+den Vergleich bestanden habe, habe die Beschwerdeführerin davon ausgehen
+dürfen, dass dieser Punkt für die Beschwerdegegnerin nicht wesentlich sei. Die
+Beschwerdegegnerin habe ihren vermeintlichen Irrtum nicht nachgewiesen. Für die
+Löschung einer Betreibung ständen ihr zudem die entsprechenden Rechtsbehelfe
+zur Verfügung. Es sei nicht Sache der Schlichtungsbehörde, darüber zu befinden.
+Es handle sich um einen rechtlich unwesentlichen Motivirrtum, bei dem die
+Beschwerdegegnerin sich über den Beweggrund zum Abschluss des Vergleichs geirrt
+habe. Sie habe eine irrige Vorstellung vom Sachverhalt gehabt, indem sie
+nachträglich davon ausgegangen sei, die Saldoklausel erfasse auch die Löschung
+der Betreibung. Dass die Nichtbekanntgabe der Betreibung gegenüber Dritten nicht
+zeitlich unbeschränkt erfolge, hätte der Beschwerdegegnerin selbst klar sein
+müssen. Der Motivirrtum sei unwesentlich und führe nicht zur Revision bzw. zur
+Aufhebung des rechtskräftigen Vergleichs. Die Richtigkeit des Vergleichs ergebe
+sich auch aus der Verfügung der Schlichtungsbehörde vom 22. Juli 2022, wonach
+das Revisionsverfahren als gegenstandslos abgeschrieben werde, wenn die
+Betreibung zurückgezogen werde (Beschwerde, Rz. 1317, 22).
+
+3.3.2 Ob eine Partei in einem Punkt einem Irrtum
+unterlegen ist, ist eine Tatfrage ( Schwenzer/Fountoulakis ,
+in: Basler Kommentar, 7. Aufl. 2020, Art. 23 OR N 2). Mit ihren Ausführungen,
+wonach die Beschwerdegegnerin erst nachträglich davon ausgegangen sei, dass der
+Rückzug der Betreibung Teil des abgeschlossenen Vergleichs und nicht Bedingung
+für dessen Abschluss gewesen sei, weicht die Beschwerdeführerin vom
+vorinstanzlichen erkannten Sachverhalt ab. Sie zeigt aber nicht auf, dass
+dieser offensichtlich unrichtig festgestellt worden ist (vgl. Art. 320 ZPO und oben
+E. 1.2). Mit der blossen Rüge, die Vorinstanz habe den Sachverhalt unrichtig
+festgestellt (Beschwerde, Rz. 21), genügt die Beschwerdeführerin den Anforderungen
+an die Begründung einer Sachverhaltsrüge im Beschwerdeverfahren nicht. Eine
+offensichtlich unrichtige Sachverhaltsfeststellung ist denn auch nicht
+erkennbar. Die Beschwerdegegnerin brachte mit dem von ihr initiierten Verfahren
+auf Anordnung der Nichtbekanntgabe einer Betreibung an Dritte bereits vor der
+Schlichtungsverhandlung vom 7. Juli 2022 die Bedeutung der Nichtbekanntgabe der
+Betreibung zum Ausdruck. Darauf wies sie in ihrer Eingabe vom 15. Juli 2022 hin.
+Darin führte sie aus, dass ihr anlässlich der Verhandlung auch vom Schlichter
+bestätigt worden sei, dass dieser Punkt im Vergleich nicht aufgeführt werden
+müsse, weil mit der Zahlung gemäss Vergleich alles erledigt sei. Auch in der
+Eingabe vom 12. August 2022 brachte die Beschwerdegegnerin klar zum Ausdruck,
+dass sie anlässlich des Abschlusses des Vergleichs davon ausgegangen sei, der
+Rückzug der Betreibung sei Teil der Vereinbarung gewesen. In ihrer Entgegnung
+vom 6. Oktober 2022 führte die Beschwerdeführerin lediglich aus, dass im
+Vergleich abschliessend aufgezählt worden sei, was dieser beinhalte und dass
+der Rückzug der Betreibung nicht Gegenstand des Vergleichs gewesen sei. Die
+übrigen Sachverhaltsvorbringen der Beschwerdegegnerin, insbesondere in Bezug
+auf die vom Schlichter erteilte Auskunft, dass eine explizite Erwähnung des
+Rückzugs der Betreibung nicht erforderlich sei, bestritt die Beschwerdeführerin
+nicht. Auch anlässlich der Schlichtungsverhandlung vom 13. Oktober 2022 wies
+die Beschwerdegegnerin bei der Begründung des Revisionsgesuchs darauf hin, dass
+die anlässlich der Verhandlung vom 7. Juli 2022 erhaltene Auskunft Grundlage
+für die Zustimmung zum Vergleich gewesen sei (Protokoll der
+Schlichtungsverhandlung vom 13. Oktober 2022, S. 2 f.). Die Beschwerdeführerin entgegnete
+daraufhin allein, dass ein Rückzug der Betreibung nicht Inhalt der Vereinbarung
+gewesen sei. Die Thematisierung des Rückzugs der Betreibung und die vom
+Schlichter in Anwesenheit der Parteien erteilte Auskunft bestritt sie dagegen
+nicht (Protokoll der Schlichtungsverhandlung vom 13. Oktober 2022, S. 3).
+
+Es ist mithin unbestritten und damit bewiesen, dass der
+Schlichter in der Verhandlung vom 7. Juli 2022 den Parteien die Auskunft
+erteilt hat, dass der Rückzug der Betreibung in der Saldoklausel des Vergleichs
+enthalten sei. Deshalb kann der Verzicht der Beschwerdegegnerin auf die
+Aufnahme einer ausdrücklichen Erwähnung des Rückzugs der Betreibung in den
+Vergleichstext nicht als Hinweis dafür gesehen werden, dass dieser Punkt für
+die Beschwerdegegnerin nicht entscheidend gewesen ist. Die Schlichtungsbehörde erachtete
+daher unter den dargestellten Umständen zu Recht als erstellt, dass der Rückzug
+der Betreibung für die Beschwerdegegnerin eine wesentliche Grundlage für den
+Abschluss des Vergleichs gewesen war. Es stand auch fest, dass die Beschwerdegegnerin
+aufgrund der (falschen) Auskunft des Schlichters der irrtümlichen Ansicht
+gewesen ist, dass der Rückzug der Betreibung im Vergleich mitenthalten sei.
+
+Die Schlichtungsbehörde qualifizierte den Irrtum der
+Beschwerdeführerin auch zutreffend als wesentlich. Wesentlich ist ein Irrtum,
+wenn nach den Umständen davon auszugehen ist, dass die irrende Person bei
+Kenntnis des wahren Sachverhalts die Erklärung (hier: die Zustimmung zum
+Vergleich) nicht oder nicht so abgegeben hätte ( Schwenzer/Fountoulakis ,
+a.a.O., Art. 23 OR N 4). Vorliegend ergibt sich die Wesentlichkeit insbesondere
+aus den Bemühungen der Beschwerdegegnerin, die Einsehbarkeit der Betreibung für
+Dritte zu verhindern, und aus der im Schlichtungsverfahren aufgezeigte Absicht,
+mit dem Vergleich das Ganze zu einem Ende zu bringen (vgl. Protokoll der
+Schlichtungsverhandlung vom 13. Oktober 2022, S. 2). Die Schlichtungsbehörde
+durfte unter diesen Umständen davon ausgehen, dass die Beschwerdegegnerin in
+Kenntnis der wahren Sachlage dem Vergleich in dieser Form nicht zugestimmt
+hätte und dass es sich somit um einen Irrtum über eine wesentliche Grundlage
+des Vergleichs gehandelt hat. Sie ist daher richtigerweise zum Ergebnis
+gelangt, dass die Voraussetzungen für die Irrtumsanfechtung des Vergleichs und
+damit auch für die Revision des Entscheids vom 7. Juli 2022 erfüllt sind.
+
+Daran ändert entgegen den Ausführungen der Beschwerdeführerin
+auch nichts, dass die Schlichtungsbehörde vor der Verhandlung vom 13. Oktober
+2022 angekündigt hat, dass sie das Revisionsverfahren als gegenstandslos abschriebe,
+wenn die Betreibung zurückgezogen würde. Da die Schlichtungsbehörde gemäss den
+vorstehenden Erwägungen zu Recht zum Ergebnis gelangte, dass der Rückzug der
+Betreibung für die Beschwerdegegnerin eine notwendige Grundlage für den
+Abschluss des Vergleichs war, durfte die Schlichtungsbehörde davon ausgehen,
+dass an der Weiterführung des Revisionsverfahrens kein Interesse mehr bestände,
+wenn die Betreibung auch tatsächlich zurückgezogen würde. Aus der Ankündigung
+der Schlichtungsbehörde kann demzufolge gerade nicht «die Richtigkeit des
+Vergleichs» abgeleitet werden.
+
+3.4      Beurteilung
+des Schlichtungsgesuchs
+
+3.4.1 Des Weiteren rügt die Beschwerdeführerin, dass
+die Beschwerdegegnerin in ihrer Eingabe vom 15. Juli 2022 den Vergleich gar
+nicht in seiner Gesamtheit bestritten habe. Der angebliche Willensmangel könne
+sich nicht auf die zuvor anerkannte Forderung der Beschwerdeführerin beziehen.
+Entsprechend gelte dieser Teil des Vergleichs als anerkannt. Es sei nicht Sache
+der Revisionsinstanz, über den Bestand der Forderung zu entscheiden, weil
+anlässlich der Schlichtungsverhandlung vom 7. Juli 2022 ein Vergleich abgeschlossen
+worden sei, der die Beilegung eines Streits zum Zweck habe, ohne dass ein
+materieller Entscheid gefällt werde. Die Beschwerdegegnerin habe den
+Vergleichsinhalt indes auch in der Vergangenheit nicht bestritten. Somit habe die
+Forderung nach wie vor als anerkannt zu gelten und könne nicht ohne Weiteres
+aufgehoben werden. Entsprechend habe die Schlichtungsbehörde auch hier ihr
+Ermessen in grobem Mass überschritten, das Recht unrichtig angewandt und den
+Sachverhalt unrichtig festgestellt. Zudem lägen keine Zweifel am Bestand der
+Forderung vor. Es befänden sich entsprechende Belege und Mahnungen in den Akten
+des Schlichtungsverfahrens. Es sei unklar, inwiefern die Rechtsgrundlage für
+den Bestand der Forderung fehle. In den Akten seien keine Gegenbeweise und die
+Beschwerdegegnerin habe die Rechnungen der Beschwerdeführerin nie bestritten;
+selbst dann nicht, als sie Mahnungen erhalten habe (Beschwerde, Rz. 16, 1821).
+
+3.4.2 Nachdem die Schlichtungsbehörde den Vergleich
+und den darauf basierenden Abschreibungsentscheid aufgehoben hatte, war sie
+dazu befugt, inhaltlich über das Schlichtungsgesuch zu entscheiden (vgl. Art.
+212 ZPO), weil die Beschwerdeführerin in ihrem Schlichtungsgesuch vom 30. April
+2022 einen solchen Antrag gestellt hatte. Die Parteien wurden in der Vorladung
+zur Verhandlung vom 13. Oktober 2022 auch ordnungsgemäss auf die Möglichkeit
+der Entscheidung hingewiesen. Da der Vergleich infolge erfolgreicher Anfechtung
+aufgehoben worden war, konnte dieser entgegen der Ansicht der
+Beschwerdeführerin nicht als wirksame Anerkennung der Forderung qualifiziert
+werden. Die Schlichtungsbehörde durfte und musste unter diesen Umständen im
+Entscheidverfahren auf die Ausführungen der Parteien und auf die eingereichten
+Beweismittel abstellen. Sie erwog zutreffend, dass die Beschwerdegegnerin im
+Entscheidverfahren in der Parteibefragung diverse substantielle Einwände gegen
+die Forderung der Beschwerdeführerin erhoben und entsprechende Beweismittel
+eingereicht hatte (Protokoll der Schlichtungsverhandlung vom 13. Oktober 2022, S.
+57). Die Beschwerdeführerin entkräftete diese Einwände nicht. Sie behauptete
+anlässlich der Schlichtungsverhandlung zwar, dass sie Beweismittel dafür habe,
+was sie alles gemacht habe. Diese vorzulegen, wäre aber lächerlich und sie möchte
+nicht weiter Zeit vergeuden (Protokoll der Schlichtungsverhandlung vom 13. Oktober
+2022, S. 5). Unter diesen Umständen ist es nicht zu beanstanden, dass die
+Schlichtungsbehörde zum Ergebnis gekommen ist, dass die Beschwerdeführerin den
+von ihr geltend gemachten Anspruch nicht hat belegen können, und dass sie das
+Schlichtungsgesuch daher abgewiesen hat.
+
+4.         Beschwerdeentscheid
+
+Aufgrund dieser
+Erwägungen ist der angefochtene Entscheid zu bestätigen und die dagegen
+erhobene Beschwerde abzuweisen. Bei diesem Ausgang des Verfahrens trägt die
+Beschwerdeführerin die Kosten des Beschwerdeverfahrens mit einer Gebühr von CHF
+200. (§ 13 Abs. 1 in Verbindung mit § 5 des Reglements über die
+Gerichtsgebühren [SG 154.810]). Der Beschwerdegegnerin ist keine Parteientschädigung
+zuzusprechen, weil sie nicht anwaltlich vertreten war.
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Die Beschwerde gegen den Entscheid der
+Schlichtungsbehörde des Zivilgerichts vom 17. November 2022 (SB.2022.286) wird
+abgewiesen.
+
+Auf die über die kosten- und entschädigungsfällige
+Abweisung der Beschwerde hinausgehenden Anträge der Beschwerdegegnerin wird
+nicht eingetreten.
+
+Die Beschwerdeführerin trägt die Kosten des Beschwerdeverfahrens
+von CHF 200..
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Beschwerdegegnerin
+
+- Schlichtungsbehörde des Zivilgerichts Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+lic. iur. Johannes Hermann
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. In vermögensrechtlichen Angelegenheiten gilt dies nur dann,
+wenn der Streitwert die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG
+erreicht (CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
