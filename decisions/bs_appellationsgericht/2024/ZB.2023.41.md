@@ -1,0 +1,272 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.68"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2023.41"
+docket_2: "AG.2024.68"
+decided: "2024-01-30"
+published: "2024-09-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76364&W10_KEY=3048482&nTrefferzeile=216&Template=search_result_document.html"
+cites_decisions: ["ZB.2017.43", "ZB.2021.35", "ZB.2022.3", "ZB.2022.31", "ZB.2023.41"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-311.md"]
+---
+
+# Forderung (BGer 4A_126/2024 vom 12.03.2024)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2023.41
+
+ENTSCHEID
+
+vom 30. Januar 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und Gerichtsschreiber
+PD Dr. Benedikt Seiler
+
+Parteien
+
+A____ Berufungsklägerin
+
+[...]                                                                                                 Klägerin
+
+vertreten durch B____,
+
+[...]
+
+B____ Berufungskläger
+
+[...]                                                                                                   Kläger
+
+gegen
+
+C____ Berufungsbeklagte
+
+[...]                                                                                              Beklagte
+
+Gegenstand
+
+Berufung gegen einen
+Entscheid des Zivilgerichts
+
+vom 30. Mai 2023
+
+betreffend Forderung
+
+Sachverhalt
+
+Mit dem angefochtenen Entscheid trat die
+Zivilgerichtspräsidentin auf eine Klage der A____ (nachfolgend Klägerin) und
+von B____ (nachfolgend Kläger) gegen die C____ (nachfolgend Beklagte) nicht
+ein, wies das Gesuch der Klagparteien um Gewährung der unentgeltlichen
+Rechtspflege ab und auferlegte den Klagparteien die Gerichtskosten von
+CHF 200.. Gegen diesen Entscheid erhob der Kläger mit Eingabe vom 25.
+Juli 2023 «Rekurs» beim Appellationsgericht. Ob er dieses Rechtsmittel auch im
+Namen der Klägerin erhoben hat, erscheint fraglich. Die Frage kann
+offenbleiben, weil auf die Berufung ohnehin nicht einzutreten ist. Am 4.
+September 2023 wurden innert der Rechtsmittelfrist weitere Dokumente
+eingereicht. Auf die Einholung einer Rechtsmittelantwort wurde verzichtet. Der
+vorliegende Entscheid erging auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+1.1 Beim angefochtenen Entscheid handelt es sich
+um einen erstinstanzlichen Endentscheid in einer vermögensrechtlichen
+Angelegenheit. Solche Entscheide sind mit Berufung anfechtbar, wenn der
+Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren mindestens CHF
+10'000. beträgt (Art. 308 Abs. 1 lit. a und Abs. 2 der Schweizerischen Zivilprozessordnung
+[ZPO, SR 272]). Gemäss der Rechtsmittelbelehrung des angefochtenen
+Entscheids kann gegen diesen Berufung erhoben werden. Damit ist die
+Zivilgerichtspräsidentin offensichtlich von einem Streitwert von mindestens
+CHF 10'000. ausgegangen. Dies ist nicht zu beanstanden, auch wenn der
+konkrete Streitwert mangels Bezifferung nicht bestimmbar ist. Folglich ist das
+als «Rekurs» bezeichnete Rechtsmittel als Berufung entgegenzunehmen. Die
+Berufung wurde rechtzeitig eingereicht. Für ihre Beurteilung ist das
+Dreiergericht des Appellationsgerichts zuständig (§ 92 Abs. 1 Ziff. 6 des Gesetzes
+betreffend die Organisation der Gerichte und der Staatsanwaltschaft [GOG,
+SG 154.100]).
+
+1.2
+
+1.2.1 Gemäss Art. 311 Abs. 1 ZPO ist die Berufung schriftlich und begründet einzureichen. Begründen im Sinn von
+Art. 311 Abs. 1 ZPO bedeutet, dass aufzuzeigen ist,
+inwiefern der angefochtene Entscheid als fehlerhaft erachtet wird. Dieser
+Anforderung genügt die Berufungsklägerschaft nicht, wenn sie lediglich auf die
+vor der ersten Instanz vorgetragenen Vorbringen verweist, sich mit Hinweisen
+auf frühere Prozesshandlungen zufriedengibt oder den angefochtenen Entscheid in
+allgemeiner Weise kritisiert. Die Begründung muss
+hinreichend genau und eindeutig sein, um von der Berufungsinstanz mühelos
+verstanden werden zu können. Dies setzt voraus, dass die Berufungsklägerschaft
+im Einzelnen die vorinstanzlichen Erwägungen bezeichnet, die sie anficht, und
+die Aktenstücke nennt, auf denen ihre Kritik beruht. Erforderlich ist somit (1)
+die Formulierung einer Gegenargumentation (2) gegenüber konkreten Erwägungen
+(3) unter Angabe von Belegstellen. Dabei muss die Berufungsklägerschaft mittels
+genügend präziser Verweisungen auf die Akten aufzeigen, wo die massgebenden
+Behauptungen, Erklärungen, Bestreitungen und Einreden erhoben worden sind bzw.
+aus welchen Aktenstellen sich der geltend gemachte Berufungsgrund ergeben soll.
+Praxisgemäss werden bei rechtsunkundigen Personen keine allzu strengen
+Anforderungen an die Begründung gestellt. Aber auch aus der
+Berufungsschrift juristischer Laien muss zumindest erkennbar sein, weshalb sie den
+angefochtenen Entscheid für fehlerhaft halten (AGE ZB.2022.31 vom 7. April 2023
+E. 1.4 mit Nachweisen). Wenn der angefochtene Entscheid mehrere selbständige
+Begründungen oder eine Haupt- und eine Eventualbegründung enthält, hat sich die
+Berufungsklägerschaft mit allen Begründungen einzeln auseinanderzusetzen. Tut
+sie dies nicht, so ist auf die Berufung nicht einzutreten (AGE ZB.2022.3 vom
+30. Juli 2022 E. 3.1 mit Nachweisen, ZB.2021.35 vom 20. Oktober 2021 E. 3.1 mit
+Nachweisen, ZB.2017.43 vom 21. Juni 2018 E. 3.1 mit Nachweisen). Das
+Erfordernis der Auseinandersetzung mit allen Begründungen des angefochtenen
+Entscheids muss grundsätzlich auch für juristische Laien gelten (vgl. AGE
+ZB.2021.35 vom 20. Oktober 2021 E. 3.2), wobei es bei solchen genügt, dass aus
+der Berufungsschrift für alle Begründungen erkennbar ist, weshalb die
+Berufungsklägerschaft sie für fehlerhaft hält.
+
+1.2.2 Im angefochtenen Entscheid wird das
+Nichteintreten auf die Klage damit begründet, dass die Klagparteien ihre Klage
+vom 23. März 2023 innert der von der Zivilgerichtspräsidentin angesetzten
+Nachfrist nicht exakt beziffert hätten und dass die Klagparteien trotz
+Rechtsbelehrung bewusst auf die Durchführung eines Schlichtungsverfahrens
+verzichtet hätten und daher für ihre Klage vom 23. März 2023 keine
+Klagebewilligung vorliege. Betreffend die Klägerin wird das Nichteintreten
+zusätzlich damit begründet, dass sie am 2. März 2018 im Handelsregister
+gelöscht worden und daher nicht parteifähig sei. Damit enthält der angefochtene
+Entscheid betreffend den Kläger zwei und betreffend die Klägerin drei
+selbständige Begründungen. Die Berufung enthält überhaupt keine Auseinandersetzung
+mit diesen Begründungen und aus der Berufung ist nicht erkennbar, ob und wenn
+ja weshalb die Klagparteien die Begründungen des angefochtenen Entscheids für
+fehlerhaft halten. Damit genügt die Begründung der Berufung betreffend den
+Nichteintretensentscheid den gesetzlichen Anforderungen nicht. Diesbezüglich
+ist daher auf die Berufung nicht einzutreten.
+
+Betreffend die Abweisung des Gesuchs um Gewährung der
+unentgeltlichen Rechtspflege wird in der Berufung bloss sinngemäss geltend
+gemacht, dass der Kläger seine prozessuale Bedürftigkeit glaubhaft gemacht
+habe. Die Zivilgerichtspräsidentin hat die Abweisung dieses Gesuchs aber nicht
+mit dem Fehlen der prozessualen Bedürftigkeit begründet, sondern damit, dass
+die Klage aussichtslos sei, weil der Kläger es versäumt habe, seine
+Rechtsbegehren zu beziffern und trotz Rechtsbelehrung bewusst auf die
+Durchführung des erforderlichen Schlichtungsverfahrens verzichtet habe. Die
+Berufung enthält überhaupt keine Auseinandersetzung mit diesen zwei selbständigen
+Begründungen für die Abweisung des Gesuchs um unentgeltliche Rechtspflege.
+Damit genügt die Begründung auch betreffend die Abweisung des Gesuchs um
+unentgeltliche Rechtspflege den gesetzlichen Anforderungen nicht, weshalb auf
+die Berufung auch diesbezüglich nicht einzutreten ist.
+
+2.
+
+Im Sinn einer Eventualbegründung ist festzuhalten, dass die
+Rügen unbegründet sind oder an der Sache vorbeigehen, soweit aus der Berufung
+überhaupt erkennbar ist, weshalb der angefochtene Entscheid für unrichtig
+gehalten wird.
+
+In der Berufung wird geltend gemacht, es könne nicht sein,
+dass der Kläger die Eingabe vom 26. April 2023 dem Zivilgericht ohne
+Unterschrift eingereicht habe. Beim im angefochtenen Entscheid als Eingabe vom
+26. April 2023 bezeichneten Dokument handelt es sich um eine mit 24. April 2023
+datierte Eingabe. In den Akten des Zivilgerichts finden sich ein nicht
+eigenhändig unterzeichnetes Exemplar dieses Schreibens und ein Briefumschlag,
+der am 26. April 2023 der Schweizerischen Post übergeben worden ist. Damit
+besteht kein Zweifel, dass die Eingabe vom 26. April 2023 entsprechend der
+Feststellung des Zivilgerichts zunächst nicht eigenhändig unterzeichnet
+eingereicht worden ist. Im Übrigen ist die Frage, ob die Eingabe vom 26. April
+2023 nicht eigenhändig unterzeichnet gewesen ist, für den Ausgang des
+vorliegenden Berufungsverfahrens ohnehin irrelevant, weil die
+Zivilgerichtspräsidentin den angefochtenen Entscheid nicht mit der fehlenden
+Unterzeichnung dieser Eingabe begründet hat.
+
+Als weitere Rüge wird in der Berufung geltend gemacht, der
+Gerichtsentscheid sei nicht ordnungsgemäss, weil auf dem Schreiben, das der
+Kläger erhalten habe, «die Seite (2) ohne die Seite (1) fehlt». Diese
+Behauptung kann sich höchstens auf das Dispositiv ohne schriftliche Begründung beziehen,
+weil der schriftlich begründete Entscheid sechs Seiten umfasst. Da rechtzeitig
+eine schriftliche Begründung verlangt und gegen den schriftlich begründeten
+Entscheid rechtzeitig Berufung erhoben wurde, wäre den Klagparteien aus dem
+Fehlen einer Seite keinerlei Nachteil erwachsen. Daher könnten sie daraus
+nichts zu ihren Gunsten ableiten. Im Übrigen wäre die Behauptung, beim Exemplar
+des nicht schriftlich begründeten Entscheids, das dem Kläger zugestellt worden
+ist, habe eine Seite gefehlt, völlig unglaubhaft, weil er mit Eingabe vom 15.
+Juni 2023 (Postaufgabe 17. Juni 2023) selbst dem Zivilgericht Kopien beider
+Seiten des nicht schriftlich begründeten Entscheids eingereicht hat. Auch die
+unterzeichneten Originale der nicht schriftlich begründeten Entscheide in den
+Akten des Zivilgerichts sind vollständig.
+
+Die Begründung der Berufung besteht zu einem Grossteil aus
+Ausführungen betreffend die von den Klagparteien gegenüber der Beklagten
+geltend gemachten Ansprüche. Diese Vorbringen sind unbeachtlich, weil die Zivilgerichtspräsidentin
+aus formellen Gründen auf die Klage nicht eingetreten ist, sich daher zu den
+geltend gemachten Ansprüchen nicht geäussert hat und nicht zu äussern hatte und
+auch die Aussichtslosigkeit der Klage als Grund für die Abweisung des Gesuchs
+um unentgeltliche Rechtspflege ausschliesslich mit formellen Mängeln begründet
+hat.
+
+3.
+
+Entsprechend dem Ausgang des Berufungsverfahrens hat der
+Kläger dessen Kosten zu tragen (vgl. Art. 106 Abs. 1 ZPO). Mangels Bezifferung
+der Rechtsbegehren ist der konkrete Streitwert der Berufung nicht feststellbar.
+Aufgrund der Behauptungen der Klagparteien ist aber davon auszugehen, dass es
+sich um eine vermögensrechtliche Streitigkeit mit erheblichem Streitwert
+handelt. Daher werden die Gerichtskosten in Anwendung von § 12 Abs. 1 in
+Verbindung mit § 5 Abs. 1, § 16 Abs. 1 lit. b und Abs. 2 sowie § 2 des Reglements
+über die Gerichtsgebühren (GGR, SG 154.810) auf CHF 300. festgesetzt.
+
+Demgemäss erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf
+die Berufung gegen den Entscheid des Zivilgerichts vom 30. Mai 2023 ([...])
+wird nicht eingetreten.
+
+Der Berufungskläger trägt die
+Gerichtskosten des Berufungsverfahrens von CHF 300..
+
+Mitteilung an:
+
+- Berufungsklägerin
+
+- Berufungskläger
+
+- Berufungsbeklagte
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Der Gerichtsschreiber
+
+PD Dr. Benedikt Seiler
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
