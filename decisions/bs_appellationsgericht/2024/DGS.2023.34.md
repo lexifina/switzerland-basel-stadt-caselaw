@@ -1,0 +1,233 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.92"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "DGS"
+docket: "DGS.2023.34"
+docket_2: "AG.2024.92"
+decided: "2024-02-05"
+published: "2025-04-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76416&W10_KEY=3048482&nTrefferzeile=203&Template=search_result_document.html"
+cites_decisions: ["1B_100/2015", "1B_274/2013", "1B_442/2018", "1B_474/2018", "1B_514/2017", "BGE 122 II 471", "BGE 136 I 207", "BGE 140 I 271", "DG.2016.25", "DG.2017.32", "DG.2017.41"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md"]
+---
+
+# Ausstandsbegehren gegen die Verfahrensleiterin
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+DGS.2023.34
+
+ENTSCHEID
+
+vom 5.
+Februar 2024
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiberin
+lic. iur. Barbara Noser Dussy
+
+Beteiligte
+
+A____ Gesuchstellerin
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Ausstandsbegehren gegen die
+Verfahrensleiterin
+
+im Verfahren BES.2023.[...]
+
+Sachverhalt
+
+A____ (nachfolgend: Gesuchstellerin), vertreten durch Advokat
+[...], reichte am 2. November 2022 Strafanzeige gegen sechs Mitarbeitende
+des Gesundheitsdepartements wegen Amtsmissbrauchs, falscher Anschuldigung und
+Verletzung des Amtsgeheimnisses ein. Mit Nichtanhandnahmeverfügung vom 10. Juli
+2023 trat die Staatsanwaltschaft nicht auf die Strafanzeige ein, da die
+fraglichen Straftatbestände eindeutig nicht erfüllt seien. Gegen diese
+Verfügung erhob die Gesuchstellerin Beschwerde. Das Appellationsgericht
+eröffnete in der Folge das Beschwerdeverfahren BES.2023.[...], welches vom
+Vorsitzenden der strafrechtlichen Abteilung des Appellationsgerichts der
+Gerichtspräsidentin B____ zur Instruktion zugeteilt wurde. Mit Verfügung vom
+24. Juli 2024 forderte die Verfahrensleiterin B____ die Staatsanwaltschaft zur
+Stellungnahme zur Beschwerde sowie zur Einreichung der Akten auf. Diese
+Verfügung wurde am 31. Juli 2023 der Staatsanwaltschaft sowie dem Vertreter der
+Gesuchstellerin zugestellt. Die am 23. August 2023 eingegangene Stellungnahme
+der Staatsanwaltschaft wurde mit Verfügung vom 24. August 2023 dem Vertreter
+der Gesuchstellerin zugestellt, mit Frist zur Replik bis 22. September 2023.
+Mit Schreiben vom 22. September 2023 bat der Vertreter der Gesuchstellerin um
+Erstreckung der Replikfrist. Gleichzeitig ersuchte er namens der
+Gesuchstellerin die Verfahrensleiterin B____, zufolge Vorbefassung in den
+Ausstand zu treten, da sie «in ihrer Funktion als Strafpräsidentin» einen Fall der
+Gesuchstellerin entschieden habe.
+
+In der Folge wurde unter der Verfahrensnummer DGS.2023.34 ein
+Ausstandsverfahren eröffnet. Dessen Verfahrensleiter lic. iur. Christian Hoenen
+forderte B____ mit Verfügung vom 28. September 2023 zur Stellungnahme zum
+Ausstandsbegehren der Gesuchstellerin auf. Mit Schreiben vom 4. Oktober 2023
+beantragte B____ die kostenfällige Abweisung des Ausstandsgesuchs, da objektiv
+keine Befangenheitsgründe gemäss Art. 56 StPO vorlägen und sie sich auch
+subjektiv in keiner Art und Weise befangen fühle. Der Vertreter der Gesuchstellerin
+hat innert mehrfach erstreckter Frist mit dem Antrag auf Gutheissung des
+Ausstandsgesuchs repliziert. Die Einzelheiten der Parteistandpunkte ergeben
+sich, soweit sie für den Entscheid von Bedeutung sind, aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Zur
+Beurteilung eines Ausstandsgesuchs gegen ein Mitglied der Beschwerdeinstanz ist
+gemäss Art. 59 Abs. 1 lit. c der Strafprozessordnung (StPO, SR 312.0) das
+Berufungsgericht zuständig. Hinsichtlich des Spruchkörpers ist § 56 Abs. 4
+Ziff. 1 des baselstädtischen Gerichtsorganisationsgesetzes (GOG,
+SG 154.100) massgebend, wonach das Einzelgericht über Begehren
+entscheidet, mit welchen der Ausstand einer als Mitglied eines Einzelgerichts
+handelnden Gerichtsperson verlangt wird. Praxisgemäss gilt § 56 Abs. 4 Ziff. 1
+GOG auch für die Besetzung des Berufungsgerichts als Ausstandsgericht (AGE DGS.2023.26&30
+vom 29. September 2023 E. 1.1, DG.2017.32 vom 17. November 2017 E. 1.1;
+DG.2017.41 vom 14. November 2017 E. 1.1; DG.2016.25 vom 29. November 2016 E. 1.1;
+abweichend AGE DGS.2020.16 vom 14. Dezember 2020 E. 1.1), zumal eine
+Einzelbesetzung des Berufungsgerichts (mit hier nicht gegebenen
+Einschränkungen) bundesrechtlich als zulässig erachtet wird ( Keller , in: Donatsch et al. [Hrsg.], Kommentar
+zur Schweizerischen Strafprozessordnung, 3. Auflage 2020, Art. 21 N 3).
+
+1.2 Die vom Ausstandsgesuch betroffene
+Gerichtspräsidentin hat  wie in Art. 58 Abs. 2 StPO vorgesehen  zum Gesuch
+Stellung genommen.
+
+1.3 Ein Ausstandsgesuch ist «ohne Verzug» zu
+stellen, sobald die den Ausstand verlangende Partei vom Ausstandsgrund Kenntnis
+hat (Art. 58 Abs. 1 StPO). Wer einen Ausstandsgrund nicht unverzüglich nach
+dessen Kenntnisnahme geltend macht, verwirkt den Anspruch auf seine spätere
+Anrufung. Ein verspätetes Ausstandsgesuch führt zum Nichteintreten auf das
+Gesuch (BGE 136 I 207 E. 3.4 mit Hinweisen, 134 I 20 E. 4.3.1, 132 II 485 E.
+4.3; Keller , a.a.O., Art. 58 N 4).
+Ein Ausstandsgesuch, das sechs bis sieben Tage nach Kenntnis des
+Ausstandsgrunds eingereicht wird, gilt nach bundesgerichtlicher Rechtsprechung
+als rechtzeitig. Unzulässig ist hingegen ein Zuwarten während zwei oder drei
+Wochen (BGE 140 I 271 E. 8.4.5; BGer 1B_514/2017 vom
+19. April 2018 E. 3.2, 1B_100/2015 vom 8. Juni 2015 E. 4.1,
+1B_274/2013 vom 19. November 2013 E. 4.1).
+
+Im vorliegenden Fall hat die Verfahrensleiterin
+im Verfahren BES.2023. [...] ihre erste Verfügung als
+Instruktionsrichterin am 24. Juli 2023 erlassen. Diese wurde am 31. Juli 2023
+versandt, so dass sie in der ersten Augustwoche 2023 bei den Parteien
+eingetroffen sein muss. Das Ausstandsgesuch wurde hingegen erst mit Schreiben
+vom 22. September 2023, zusammen mit dem Fristerstreckungsgesuch in Bezug
+auf die Replik der Gesuchstellerin, eingereicht, also rund sieben Wochen nachdem
+die Gesuchstellerin vom Umstand, dass B____ Instruktionsrichterin im
+Beschwerdeverfahren BES.2023. [...] ist, Kenntnis nehmen
+konnte. Damit ist das Ausstandsgesuch im Lichte der zitierten
+Bundesgerichtspraxis verspätet erfolgt, so dass nicht darauf einzutreten ist.
+
+2.
+
+Der Vollständigkeit halber ist hinzuzufügen, dass das
+Ausstandsgesuch abzuweisen wäre, wenn darauf einzutreten wäre.
+
+2.1 Die Gesuchstellerin begründet ihr
+Ausstandsgesuch gegen die Verfahrensleiterin im Beschwerdeverfahren BES.2023.[...]
+mit deren angeblicher Vorbefassung. B____ habe «in ihrer Funktion als
+Strafpräsidentin» einen Fall der Gesuchstellerin entschieden. Die
+Gesuchstellerin möchte daher, dass das Verfahren BES.2023.[...] einer anderen
+Person zugeteilt wird. Wie die Verfahrensleiterin in ihrer Stellungnahme vom 4.
+Oktober 2023 ausgeführt hat, hatte sie sich im Jahr 2016 als
+Beschwerderichterin des Appellationsgerichts (nicht als
+Strafgerichtspräsidentin) schon einmal mit einer von der Gesuchstellerin
+erhobenen Beschwerde zu befassen (AGE BES.2016.[]). Es ging dabei um einen
+ganz anderen Sachverhalt als im Fall BES.2023.[...].
+
+2.2 Gemäss Art. 56 lit. b StPO hat eine in einer
+Strafbehörde tätige Person in den Ausstand zu treten, wenn sie in einer
+anderen Stellung mit der gleichen Strafsache befasst war. Das war
+vorliegend nicht der Fall. Vielmehr war B____ in der gleichen Stellung mit
+einer anderen Strafsache der Gesuchstellerin befasst. Diese Konstellation
+gilt nach Lehre und Rechtsprechung nicht als Vorbefassung im Sinne von Art. 56
+lit. b StPO und begründet keinen Anschein der Befangenheit ( Boog , in: Basler Kommentar StPO, 3.
+Auflage 2023, Art. 56 N 17a, BGer 1B_474/2018 vom 22. November 2018 E.
+3,1B_442/2018 vom 21. November 2018 E. 2.3). Ebensowenig führt diese
+Konstellation per se zu einer Befangenheit «aus anderen Gründen» gemäss Art. 56
+lit. f StPO. Dies wird in der Replik anerkannt und es wird ausdrücklich nicht
+geltend gemacht, dass es zu schwerwiegenden Differenzen zwischen der
+Gesuchstellerin und B____ gekommen wäre, welche einen Ausstand wegen des
+Anscheins von Feindschaft i.S.v. Art. 56 lit. f StPO begründen würden (Replik
+S. 2, Akten S. 28; vgl. zu diesem Ausstandsgrund: Boog , a.a.O., Art. 56 N 39b).
+
+2.3 Der blosse Umstand, dass sich die
+Gesuchstellerin wünscht, ihr aktueller Fall werde von jemandem entschieden, der
+«bisher in keiner Art und Weise mit ihr in Berührung» gekommen ist, stellt
+keinen Ausstandsgrund dar. Das subjektive Empfinden einer Partei ist bei der
+Beurteilung, ob in einem konkreten Fall ein Ausstandsgrund vorliegt, nicht
+massgebend. Vielmehr müssen bei objektiver Betrachtung Umstände vorliegen, die
+den Anschein der Befangenheit oder Voreingenommenheit begründen. Da das
+Ausstandsverfahren in einem gewissen Spannungsverhältni s zum
+Anspruch auf den (primär) gesetzlichen Richter (vgl. grundsätzlich BGE 105
+Ia 157 E. 5 S. 161) steht, muss der Ausstand die Ausnahme bleiben,
+soll die regelhafte Verfahrensordnung nicht ausgehöhlt werden (BGE 122 II
+471 E. 3b S. 477; 115 Ia 172 E. 3 S. 175 f.; 114 Ia 50
+E. 3d S. 60). Es liegt nicht im Belieben einer Prozesspartei, die
+Gerichtsperson, welche sich mit ihrem Fall befassen soll, selbst zu bestimmen
+oder ohne objektive Ausstandsgründe abzulehnen.
+
+3.
+
+Bei diesem Ausgang des Ausstandsverfahrens hat die
+Gesuchstellerin dessen Kosten zu tragen (Art. 59 Abs. 4 StPO), wobei die Gebühr
+auf CHF 1'000. festzusetzen ist (§ 33 des Reglements über die
+Gerichtsgebühren, SG 154.810).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Auf das Ausstandsgesuch ist nicht
+einzutreten.
+
+Die Gesuchstellerin trägt die Kosten des Verfahrens mit
+einer Gebühr von CHF 1'000. (einschliesslich Kanzleiauslagen).
+
+Mitteilung an:
+
+- Gesuchstellerin
+
+- Verfahrensleiterin im Verfahren BES.2023.[...], B____
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+lic. iur. Christian Hoenen                                         lic.
+iur. Barbara Noser Dussy
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
