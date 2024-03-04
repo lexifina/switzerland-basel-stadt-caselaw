@@ -1,0 +1,293 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.181"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.146"
+docket_2: "AG.2024.181"
+decided: "2024-03-04"
+published: "2025-01-25"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76593&W10_KEY=3048482&nTrefferzeile=160&Template=search_result_document.html"
+cites_decisions: ["6B_688/2013"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-114.md", "switzerland/bund/acts/312.0/art-205.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Wiederherstellungsgesuch
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.146
+
+ENTSCHEID
+
+vom 4. März 2024
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und a.o.
+Gerichtsschreiberin MLaw Naime Süer
+
+Beteiligte
+
+A____ , geb. [...]                                                             Beschwerdeführer
+
+c/o [...]                                                                                   Beschuldigter
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+Vom 29. August 2023
+
+betreffend Wiederherstellungsgesuch
+
+Sachverhalt
+
+A____
+(Beschwerdeführer) wurde mit Strafbefehl vom 7. Februar 2022 wegen Führens
+eines Motorfahrzeugs trotz Entzug des Ausweises, mehrfacher Verletzung der
+Verkehrsregeln und Nichtmitführens von Ausweisen oder Bewilligungen im Sinne
+des Strassenverkehrsgesetzes für schuldig erklärt und zu einer bedingten
+Geldstrafe von 30 Tagessätzen zu CHF 160. mit einer Probezeit von 2 Jahren sowie
+einer Busse von CHF 1'100. verurteilt. Dagegen erhob der Beschwerdeführer am
+16. Februar 2022 Einsprache bei der Staatsanwaltschaft Basel-Stadt. Diese überwies
+die Akten am 30. September 2022 zuständigkeitshalber an das Strafgericht
+Basel-Stadt, da sie an ihrem Strafbefehl festhielt. Das Strafgericht setzte für
+den 16. März 2023 eine Verhandlung vor dem Einzelgericht an. Der
+Beschwerdeführer blieb dieser Verhandlung unentschuldigt fern. Daraufhin verfügte
+das Strafgericht am 16. März 2023, dass die Einsprache gegen den
+Strafbefehl vom 7. Februar 2022 abgeschrieben wird.
+
+Am 15. Mai 2023 reichte
+der Beschwerdeführer der Staatsanwaltschaft per E-Mail ein
+Wiederherstellungsgesuch für die verpasste Verhandlung vor dem Strafgericht ein.
+Die Staatsanwaltschaft leitete die Anfrage zuständigkeitshalber an das
+Strafgericht weiter. Mit Verfügung vom 22. Mai 2023 setzte der Verfahrensleiter
+des Strafgerichts dem Beschwerdeführer Frist bis zum 5. Juni 2023 zur
+Erläuterung und allenfalls Verbesserung der E-Mail vom 15. Mai 2023 mit der
+gleichzeitigen Ankündigung, die besagte E-Mail ohne seine Rückmeldung
+zuständigkeitshalber an das Appellationsgericht Basel-Stadt zur Prüfung der
+Eingabe als Beschwerde gegen die Verfügung des Strafgerichts vom 16. März 2023
+weiterzuleiten. Nachdem der Beschwerdeführer auf diese Verfügung nicht reagiert
+hatte, leitete das Strafgericht die E-Mail-Eingabe des Beschwerdeführers vom
+15. Mai 2023 an das Appellationsgericht weiter. Der Verfahrensleiter des
+Appellationsgerichts setzte dem Beschwerdeführer mit Verfügung vom 14. Juli
+2023 Frist bis zum 7. August 2023, um mitzuteilen, was er mit seiner
+E-Mail vom 15. Mai 2023 beabsichtigt. Mit Eingabe vom 7. August 2023
+(Postaufgabe) stellte der Beschwerdeführer den Antrag auf «Wiederherstellung
+der Einsprachefrist», welche vom Verfahrensleiter des Appellationsgerichts mit
+Verfügung vom 11. August 2023 dem Strafgericht zur allfälligen Entgegennahme
+als Widerherstellungsgesuch betreffend die nicht wahrgenommene Hauptverhandlung
+vom 16. März 2023 weitergeleitet wurde. Der Strafgerichtspräsident wies das Wiederherstellungsgesuch
+vom 15. Mai 2023 bzw. vom 7. August 2023 in der Folge mit Verfügung
+vom 29. August 2023 ab, soweit er darauf eintrat.
+
+Am 14. September
+2023 hat der Beschwerdeführer das Strafgericht um eine Fristsetzung zur
+Einreichung von medizinischen Unterlagen ersucht. Mit Verfügung des
+Strafgerichtspräsidenten vom 18. September 2023 wurde dieses Gesuch
+abgewiesen. Mit derselben Verfügung bzw. mit Rektifikat vom 27. Oktober
+2023 bzw. mit Verfügung vom 9. November 2023 wurde dem Beschwerdeführer mitgeteilt,
+dass ohne seine Rückmeldung bis zum 2. Oktober 2023 bzw. 15. November 2023
+(Rektifikat) bzw. 23. November 2023 (Verfügung vom 9. November 2023) das
+Schreiben vom 14. September 2023 zuständigkeitshalber an das Appellationsgericht
+zur allfälligen Entgegennahme als Beschwerde gegen die Verfügung vom
+29. August 2023 weitergeleitet wird. Da eine Rückmeldung des
+Beschwerdeführers innert der Frist(en) ausblieb, wurde die Eingabe des
+Beschwerdeführers vom 14. September 2023 mit Verfügung des
+Strafgerichtspräsidenten vom 29. November 2023 zuständigkeitshalber an das
+Appellationsgericht zur allfälligen Entgegennahme als Beschwerde gegen die
+Verfügung vom 29. August 2023 weitergeleitet. Die Akten wurden beigezogen. Der
+vorliegende Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten der
+Parteistandpunkte ergeben sich  soweit sie für den Entscheid von Bedeutung
+sind  aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Mit
+Beschwerde können nach Massgabe von Art. 393 Abs. 1 lit. b der Strafprozessordnung
+(StPO, SR 312.0) Verfügungen und Beschlüsse sowie die Verfahrenshandlungen der
+erstinstanzlichen Gerichte angefochten werden. Die Bestimmung ist auf
+Wiederherstellungsentscheide anwendbar, soweit diese nicht gutgeheissen werden
+und damit als verfahrensleitende Entscheide vom Anwendungsbereich von
+Art. 393 Abs. 1 lit. b StPO ausgeschlossen sind (vgl. AGE BES.2019.245 vom
+9. Dezember 2019 E. 1, mit weiteren Hinweisen). Vorliegend hat das
+Strafgericht das Gesuch des Beschwerdeführers um Wiederherstellung betreffend
+die nicht wahrgenommene Hauptverhandlung abgewiesen, soweit es darauf
+eingetreten ist, womit ein gültiges Beschwerdeobjekt vorliegt. Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88
+Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes
+[GOG, SG 154.100]). Der Beschwerdeführer hat ein rechtlich geschütztes
+Interesse an der Aufhebung des angefochtenen Entscheids und ist somit zur Beschwerde
+legitimiert (Art. 382 Abs. 1 StPO).
+
+1.2
+
+1.2.1 In
+der Beschwerdebegründung ist genau anzugeben, welche Punkte des Entscheids angefochten
+werden, welche Gründe einen anderen Entscheid nahe legen und welche Beweismittel
+angerufen werden (Art. 385 Abs. 1 StPO). Es gilt demnach ein
+(beschränktes) Rügeprinzip (AGE BES.2015.11 vom 7. April 2015 E. 1.2.2,
+BES.2013.53 vom 19. August 2014 E. 1.3) und es obliegt dem
+Beschwerdeführer, sich in der Beschwerdeschrift mit dem angefochtenen Entscheid
+in den Einzelheiten auseinanderzusetzen ( Oberholzer ,
+Grundzüge des Strafprozessrechts, 3. Auflage, Bern 2012, N 1570). Bereits
+die Beschwerdeschrift selbst muss die Begründung enthalten. Eine nachträgliche
+Ergänzung, Vervollständigung oder Korrektur ist nicht zulässig ( Guidon , in: Basler Kommentar, 3. Auflage,
+2023, Art. 396 StPO N 9e; BGer 6B_688/2013 vom 28. Oktober 2013 E. 4.2).
+Die Anträge des Beschwerdeführers werden durch die angefochtene
+Verfahrenshandlung begrenzt. Der Streitgegenstand kann demnach nicht frei
+bestimmt werden, er wird vielmehr durch die Verfahrenshandlung verbindlich festgelegt
+( Guidon , a.a.O., Art. 396
+StPO N 9b). Zwar ist der Beschwerdeführer kein Jurist, so dass die
+Anforderungen an die Begründungspflicht nicht überspannt werden dürfen. Jedoch
+hat sich auch ein Laie die Mühe zu machen, in seiner Beschwerde kurz anzugeben,
+was er an der angefochtenen Verfügung für falsch hält ( Guidon , a.a.O., Art. 396 StPO N 9e; AGE BES.2015.11 vom
+7. April 2015 E. 1.2.2).
+
+1.2.2 Nachdem
+der Beschwerdeführer Einsprache gegen den Strafbefehl vom 7. Februar 2022
+erhoben und die Staatsanwaltschaft das Verfahren an das Strafgericht
+weitergeleitet hatte, setzte dieses eine erstinstanzliche Hauptverhandlung auf
+den 16. März 2023 an. Da der Beschwerdeführer dieser Hauptverhandlung unentschuldigt
+ferngeblieben war, schrieb das Strafgericht die Einsprache mit Verfügung vom
+16. März 2023 gemäss Art. 356 Abs. 4 StPO als zurückgezogen ab (vgl.
+Akten S. 221 ff.). Das darauffolgende Wiederherstellungsgesuch des
+Beschwerdeführers vom 15. Mai 2023 bzw. vom 7. August 2023 betreffend die
+Hauptverhandlung wies der Strafgerichtspräsident mit der angefochtenen
+Verfügung vom 29. August 2023 ab, soweit er darauf eintrat. Zur Begründung
+führte er aus, ein Burnout  wie es vom Beschwerdeführer dargestellt werde 
+könne zweifellos zu ernsten gesundheitlichen Problemen führen und gemäss
+Rechtsprechung könne eine Krankheit ein unverschuldetes Hindernis darstellen,
+sofern sie derart schwer sei, dass sie die rechtsuchende Person davon abhalte,
+innert Frist zu handeln oder einen Vertreter beizuziehen. Gemäss eingereichtem
+Arztzeugnis vom 7. März 2023 werde dem Beschwerdeführer zwar eine
+vollumfängliche Arbeitsunfähigkeit attestiert, jedoch könne daraus nicht
+gefolgert werden, dass es ihm nicht möglich gewesen sei, an der fraglichen Verhandlung
+teilzunehmen. Dem Beschwerdeführer sei weder eine Verhandlungs- noch eine
+Handlungsunfähigkeit bescheinigt worden. In Anbetracht, dass mit Strassenverkehrsdelikten
+keine komplexen Vorwürfe im Raum gestanden seien, wäre es dem Beschwerdeführer
+möglich gewesen, trotz allfälliger Arbeitsunfähigkeit an der Verhandlung zu
+erscheinen, zumal an die Verhandlungsfähigkeit keine allzu hohen Anforderungen
+gestellt würden. Es genüge, wenn der Betroffene körperlich und geistig in der
+Lage sei, der Verhandlung zu folgen und allenfalls durch einen Verteidiger
+seine Verfahrensrechte auszuüben und seine Verfahrenspflichten zu erfüllen.
+Vorliegend sei mit dem eingereichten Arztzeugnis nicht dargetan, weshalb dies
+nicht möglich gewesen sei, sodass von Verhandlungsfähigkeit im Sinne von Art.
+114 Abs. 1 StPO auszugehen sei. Komme hinzu, dass das eingereichte Arztzeugnis
+eine Arbeitsunfähigkeit bis am 8. März 2023 bescheinige. Zwar sei vermerkt,
+dass die Weiterbehandlung durch einen Spezialarzt auf den Philippinen erfolgen
+werde, doch ein entsprechendes Arztzeugnis sei nicht ins Recht gelegt worden,
+womit die Arbeits- resp. Verhandlungsunfähigkeit über den 8. März 2023 hinaus und
+damit auch im Zeitpunkt der Hautverhandlung nicht dokumentiert sei. Dies sei im
+Übrigen auch insofern von Relevanz, als die 30-tägige Frist nach Wegfall des Säumnisgrundes
+zu laufen beginne und daher die Rechtzeitigkeit des Wiederherstellungsgesuchs
+gar nicht geprüft werden könne. Nicht nachvollziehbar sei im Weiteren, weshalb
+der Beschwerdeführer nicht früher auf seine gesundheitlichen Probleme resp.
+damit allenfalls verbundene Einschränkungen im Verfahren hingewiesen habe.
+Gemäss Attest sei er bereits seit dem 6. Januar 2023 in ärztlicher Behandlung.
+Es sei ihm damit möglich und zumutbar gewesen, dem Gericht eine entsprechende
+Mitteilung zu machen, damit der Termin der Hauptverhandlung mit ihm
+abgesprochen werde, oder zumindest sein Nichterscheinen vor der
+Hauptverhandlung rechtzeitig telefonisch anzukündigen, kurz zu begründen und
+ein Verschiebungsgesuch zu stellen. Eine entsprechende Pflicht ergebe sich aus
+Art. 205 Abs. 2 StPO. Der Beschwerdeführer habe sich hingegen erst mit E-Mail
+vom 15. Mai 2023 über die Staatsanwaltschaft gemeldet, obschon ihm die drohende
+Rückzugsfiktion wegen des Hinweises auf Art. 356 StPO auf der Vorladung
+vom 30. Januar 2023 resp. aus früheren Einspracheverfahren habe bekannt sein müssen.
+Nicht zu hören sei schliesslich der Einwand, seine Ehefrau resp. sein Bruder
+seien dem Auftrag, sein Postfach zu leeren, nicht nachgekommen. Abgesehen
+davon, dass deren gesundheitliche Probleme im interessierenden Zeitraum in
+keiner Weise nachgewiesen seien, sei ein allfälliges Fehlverhalten resp.
+Verschulden von Hilfspersonen dem Auftraggeber anrechenbar. Komme hinzu, dass sich
+der Beschwerdeführer im Zeitpunkt der Zustellung der massgebenden
+Korrespondenz, insb. der Vorladung, noch in der Schweiz befunden habe und ihm
+die Angabe von alternativen Zustellmöglichkeiten möglich und zumutbar gewesen
+sei. Insgesamt ergebe sich, dass von einer klaren Schuldlosigkeit des Beschwerdeführers
+an der Säumnis von der Hauptverhandlung keine Rede sein könne, weshalb sein
+Wiederherstellungsgesuch abzuweisen sei, soweit überhaupt darauf eingetreten
+werden könne.
+
+1.2.3 Der
+Beschwerdeführer setzt sich in seiner Beschwerde vom 14. September 2023 mit
+dieser Begründung in der angefochtenen Verfügung materiell in keiner Weise
+auseinander. Er stellt lediglich eine schriftliche Stellungnahme seines Arztes
+sowie Nachweise in Aussicht, welche «eine klare Schuldlosigkeit aus
+medizinischer Sicht» belegen würden (vgl. Akten Beschwerdeverfahren S. 4). Er
+legt damit aber nicht einmal ansatzweise dar, inwiefern die Verfügung des
+Strafgerichts fehlerhaft sein soll. Kommt hinzu, dass die von ihm in Aussicht
+gestellten Unterlagen nie eingetroffen sind. Damit kommt der Beschwerdeführer
+selbst der aufgrund seiner juristischen Unerfahrenheit an geringere
+Anforderungen geknüpften Begründungspflicht nicht nach, weshalb auf die
+Beschwerde nicht einzutreten ist. Im Übrigen wäre die Beschwerde aber auch in
+der Sache aussichtslos. Diesbezüglich kann vollumfänglich auf die zutreffenden
+Ausführungen des Strafgerichtspräsidenten in der angefochtenen Verfügung
+verwiesen werden (vgl. E. 1.2.2 oben).
+
+2.
+
+Bei diesem
+Ausgang des Beschwerdeverfahrens hätte der Beschwerdeführer gemäss
+Art. 428 Abs. 1 StPO grundsätzlich die Kosten zu tragen.
+Umständehalber ist jedoch auf die Erhebung einer Gerichtsgebühr zu verzichten
+(§ 40 Abs. 1 des Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Auf die Beschwerde gegen die Verfügung
+des Strafgerichts Basel-Stadt vom 29. August 2023 wird nicht eingetreten.
+
+Für das Beschwerdeverfahren werden umständehalber keine
+Kosten erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur.
+Christian Hoenen                                         MLaw Naime Süer
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
