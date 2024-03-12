@@ -1,0 +1,261 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.180"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.171"
+docket_2: "AG.2024.180"
+decided: "2024-03-12"
+published: "2025-02-04"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76591&W10_KEY=3048482&nTrefferzeile=149&Template=search_result_document.html"
+cites_decisions: ["1B_182/2014", "6B_370/2016", "6B_761/2016", "6B_990/2017", "BGE 138 IV 258", "BGE 145 IV 491"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-305.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-138.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Einholen schriftlicher Bericht
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.171
+
+ENTSCHEID
+
+vom 12. März 2024
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiber
+MLaw Martin Manyoki
+
+Beteiligte
+
+A____ Beschwerdeführer
+
+c/o Untersuchungsgefängnis
+Basel-Stadt,
+
+Innere Margarethenstrasse 18,
+4051 Basel
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4051 Basel
+
+B____ Beschwerdegegner
+
+[...] Beschuldigter
+
+Gegenstand
+
+Beschwerde gegen eine Verfahrenshandlung
+der Staatsanwaltschaft
+
+vom 4. September 2023
+
+betreffend Einholen schriftlicher
+Bericht
+
+Sachverhalt
+
+Am
+3. April 2023 erstattete A____ gegen B____ bei der Staatsanwaltschaft
+Basel-Stadt Strafanzeige wegen Begünstigung und erklärte, sich als Privatkläger
+zu konstituieren. Am 19. Dezember 2023 erhielt A____ aufgrund der
+gewährten Akteneinsicht Kenntnis davon, dass B____ zur Abgabe eines
+schriftlichen Berichts aufgefordert worden war.
+
+Mit Eingabe vom
+28. Dezember 2023 hat A____ (nachfolgend: Beschwerdeführer),
+vertreten durch [...], Beschwerde erhoben. Er beantragt, der Auftrag der
+Staatsanwaltschaft an die Kriminalpolizei, B____ (nachfolgend: Beschwerdegegner)
+zur Abgabe eines schriftlichen Berichts aufzufordern, sei aufzuheben und die
+Staatsanwaltschaft anzuweisen, den Beschwerdegegner als beschuldigte Person
+einzuvernehmen. Alles unter o/e Kostenfolge und unter Gewährung der unentgeltlichen
+Rechtspflege. Die Staatsanwaltschaft hat sich mit Stellungnahme vom
+24. Januar 2024 mit dem Antrag auf Nichteintreten, eventualiter
+Abweisung der Beschwerde vernehmen lassen. In der Replik vom
+12. Februar 2024 hält der Beschwerdeführer an den zuvor gestellten
+Anträgen fest.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten ergangen. Die weiteren Tatsachen und die
+Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für den
+vorliegenden Entscheid von Bedeutung sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gegen
+Verfügungen und Verfahrenshandlungen der Staatsanwaltschaft kann nach
+Art. 393 Abs. 1 lit. a der Schweizerischen
+Strafprozessordnung (StPO, SR 312.0) Beschwerde erhoben werden. Handelt
+die Polizei auf Anordnung der Staatsanwaltschaft, so bildet nicht die Handlung
+der Polizei, sondern die Verfügung der Staatsanwaltschaft Gegenstand der
+Beschwerde; es sei denn, es ginge allein um die Modalitäten des polizeilichen
+Handelns. Da die Abgrenzung in der Praxis schwierig sein kann, kann sich die
+Beschwerde im Zweifel gegen beides richten ( Keller, in: Zürcher Kommentar, 3. Aufl. 2020, Art. 393 StPO
+N 14; Guidon, in: Basler Kommentar,
+3. Aufl. 2023, Art. 393 StPO N 6). Bei der an die
+Kriminalpolizei gerichteten staatsanwaltlichen Anordnung handelt es sich somit
+um ein zulässiges Anfechtungsobjekt.
+
+1.2 Zur
+Beurteilung der Beschwerde ist das Appellationsgericht als Einzelgericht
+zuständig (§ 88 Abs. 1 in Verbindung mit § 93 Abs.1 Ziff.1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Die Beschwerde ist im Übrigen
+frist- und formgerecht im Sinne von Art. 396 Abs. 1 StPO
+erhoben worden.
+
+1.3
+
+1.3.1 Zur
+Beschwerde gegen Verfügungen oder Verfahrenshandlungen der Staatsanwaltschaft
+berechtigt ist jede Partei, die ein rechtlich geschütztes Interesse an deren
+Aufhebung oder Änderung hat (Art. 382 Abs. 1 in Verbindung mit
+Art. 393 Abs. 1 lit. a StPO). Die Person, die Anzeige
+erstattet, ist im kantonalen Beschwerdeverfahren nur legitimiert, sofern sie
+durch die angezeigten Straftaten in ihren Rechten unmittelbar verletzt wurde
+und demnach geschädigte Person im Sinne von Art. 115 Abs. 1 StPO ist
+(BGer 6B_139-141/2019 vom 22. Oktober 2019 E. 3.1.1 mit Hinweisen;
+siehe ferner Lieber , in: Zürcher
+Kommentar, 3. Auflage 2020, Art. 382 StPO N 15a). Ist die
+anzeigende Person hingegen nicht Geschädigte und kann sie folglich auch nicht
+als Privatklägerin am Strafverfahren teilnehmen (Art. 104 Abs. 1
+lit. b in Verbindung mit Art. 118 Abs. 1 und Art. 115 StPO),
+so hat sie bloss Anspruch darauf, dass ihr die Strafverfolgungsbehörden auf
+Anfrage mitteilen, ob ein Strafverfahren eingeleitet und wie es erledigt wird;
+weitergehende Verfahrensrechte stehen ihr dann nicht zu
+(Art. 301 Abs. 2 und 3 StPO; BGer 6B_139-141/2019 vom
+22. Oktober 2019 E. 3.1.1; AGE BES.2021.140 vom
+5. April 2022 E. 1.2, BES.2014.62 vom 3. November 2014
+E. 1.2.4).
+
+1.3.2 Als
+im Sinne von Art. 115 StPO geschädigte  d.h. durch die Straftat in ihren
+Rechten unmittelbar verletzte  Person, gilt nach der konstanten Rechtsprechung
+des Bundesgerichts und der herrschenden Lehre nur jene Person, die Trägerin des
+Rechtsgutes ist, das durch die fragliche Strafbestimmung vor Verletzung oder
+Gefährdung geschützt werden soll (BGE 138 IV 258 E. 2.3, 129 IV 95
+E. 3.1; AGE BES.2014.62 vom 3. November 2014 E. 1.2.3; Mazzucchelli/Postizzi , in: Basler
+Kommentar, 3. Aufl. 2023, Art. 115 StPO N 21 mit weiteren
+Hinweisen). Bei Straftaten gegen kollektive Interessen kommt die Annahme der
+Geschädigtenstellung dann in Betracht, wenn das von der geschädigten Person
+angerufene Individualrechtsgut zumindest als Nebenzweck geschützt wird. Werden
+durch Delikte, die (nur) öffentliche Interessen verletzen, private Interessen
+auch, aber bloss mittelbar beeinträchtigt, so ist die betroffene Person nicht
+Geschädigte im Sinne von Art. 115 Abs. 1 StPO (BGE 145 IV 491 E. 2.3, 143 IV 77
+E. 2.2, 141 IV 454 E. 2.3.1; AGE BES.2022.158 vom 8. August 2023
+E. 1.3, BES.2021.140 vom 5. April 2022 E. 1.2, BES.2020.209 vom 23.
+Dezember 2020 E. 1.3.3, BES.2018.78 vom 10. Januar 2019 E. 1.2).
+
+Durch den
+Tatbestand der Begünstigung (Art. 305 des Schweizerischen Strafgesetzbuchs
+[StGB, SR 311.0]) wird das Funktionieren der Strafrechtspflege geschützt ( Delnon / Rüdy, in: Basler Kommentar, 4. Aufl. 2019, Art. 305 StGB
+N 5). Nach Lehre und Rechtsprechung bezweckt Art. 305 StGB
+ausschliesslich den Schutz kollektiver Interessen (vgl. BGer 6B_761/2016
+vom 16. Mai 2017 E. 3.4.1, 1B_182/2014 vom
+21. Mai 2014 E. 2.2; Mazzuchelli/Postizzi, a.a.O., Art. 115 StPO N 80; Lieber , in: Zürcher Kommentar, 3. Aufl. 2020,
+Art. 115 StPO N 3a). Da Individualrechtsgüter vom Schutzbereich
+des Art. 305 StGB demnach nicht miterfasst sind, kann der
+Beschwerdeführer im vorliegenden Verfahren nicht Geschädigter sein.
+
+1.3.3 Zusammenfassend
+ist festzuhalten, dass sich der Beschwerdeführer mangels Geschädigtenstellung
+im vorliegenden Verfahren nicht als Privatkläger konstituieren kann und damit
+nicht zur Beschwerde legitimiert ist. Auf die Beschwerde ist somit nicht
+einzutreten.
+
+2.
+
+2.1 Gemäss
+Art. 428 Abs. 1 StPO gilt eine Partei, auf deren Rechtsmittel nicht
+eingetreten wird, als unterliegend. Dies ist vorliegend der Fall, weshalb der
+Beschwerdeführer grundsätzlich die Verfahrenskosten mit einer Gebühr von
+CHF 300. zu tragen hat (Art. 428 Abs. 1 StPO in Verbindung mit § 21 Abs.
+2 des Gerichtsgebührenreglements [GGR, SG 154.810]). Da dem
+Beschwerdeführer für das vorliegende Beschwerdeverfahren die unentgeltliche
+Prozessführung zu bewilligen ist, ist er von der Kostentragung befreit (Art. 136
+Abs. 2 lit. b StPO). Er ist jedoch in analoger Anwendung von
+Art. 135 Abs. 4 lit. a StPO verpflichtet, dem Staat
+die Verfahrenskosten zurückzuerstatten, sobald es seine wirtschaftlichen
+Verhältnisse zulassen (BGer 6B_370/2016 vom 16. März 2017 E. 1.2,
+6B_990/2017 vom 18. April 2018 E. 4.3; AGE BES.2021.80 vom
+7. Februar 2022 E. 5.2).
+
+2.2 Die
+unentgeltliche Verbeiständung
+(Art. 136 Abs. 2 lit. c StPO) kann dem
+Beschwerdeführer ebenfalls bewilligt werden. Mangels Einreichung einer
+Honorarnote ist der Aufwand zu schätzen. Angesichts des doppelten
+Schriftenwechsels erscheint ein Aufwand von 6 Stunden angemessen. Diese sind
+gemäss § 20 Abs. 2 des Honorarreglements (HoR, SG 291.400) zu
+einem Ansatz von CHF 200. zu vergüten. Hinzu kommt die Mehrwertsteuer von
+7,7 bzw. 8,1 %. Da schätzungsweise vier Stunden des Aufwands auf das
+Jahr 2023 und zwei Stunden auf das Jahr 2024 entfallen, beläuft sich diese auf
+CHF 61.60 und CHF 32.40. Gesamthaft sind somit dem Rechtsbeistand des
+Beschwerdeführers, [...], CHF 1'294. aus der Gerichtskasse auszurichten.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Auf die Beschwerde wird nicht
+eingetreten.
+
+Der Beschwerdeführer trägt die Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 300.. Diese Kosten gehen
+zufolge Bewilligung der unentgeltlichen Prozessführung zu Lasten der
+Gerichtskasse. Die Rückzahlung bleibt in analoger Anwendung von
+Art. 135 Abs. 4 StPO vorbehalten.
+
+Zufolge Bewilligung der unentgeltlichen Verbeiständung
+wird dem Rechtsbeistand des Beschwerdeführers, [...], für das
+Beschwerdeverfahren ein Honorar von CHF 1'200., zuzüglich Mehrwertsteuer
+von insgesamt CHF 94. (7,7 % auf CHF 800. sowie 8,1 % auf
+CHF 400.), insgesamt somit CHF 1'294., aus der Gerichtskasse
+ausgerichtet. Art. 135 Abs. 4 in Verbindung mit
+Art. 138 Abs. 1 StPO bleibt vorbehalten.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Beschwerdegegner
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      MLaw Martin Manyoki
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
