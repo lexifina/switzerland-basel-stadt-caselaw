@@ -1,0 +1,763 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.410"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2022.115"
+docket_2: "AG.2024.410"
+decided: "2024-04-10"
+published: "2025-04-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77071&W10_KEY=3048518&nTrefferzeile=43&Template=search_result_document.html"
+cites_decisions: ["6B_1211/2015", "6B_130/2017", "6B_281/2014", "6B_303/2018", "6B_57/2017", "6B_873/2018", "6B_971/2018", "BGE 104 IV 1", "BGE 129 IV 6", "BGE 136 IV 49", "SB.2022.115"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-013.md", "switzerland/bund/acts/311.0/art-015.md", "switzerland/bund/acts/311.0/art-016.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-401.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# ad 2: Freispruch von der Anklage der einfachen Körperverletzung (mit Gift, Waffe oder gefährlichem Gegenstand) (BGer 6B_667/2024 vom 22. Jan 2025)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+SB.2022.115
+
+URTEIL
+
+vom 10.
+April 2024
+
+Mitwirkende
+
+lic. iur. Sara Lamm
+(Vorsitz),
+
+Dr. phil. und MLaw
+Jacqueline Frossard, Prof. Dr. Ramon Mabillard
+
+und Gerichtsschreiber
+Dr. Martin Seelmann, LL.M.
+
+Beteiligte
+
+A____ Berufungskläger
+
+[...]                                                                                             Privatkläger
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Berufungsbeklagte
+
+Binningerstrasse 21, 4001 Basel
+
+gegen
+
+B____ , [...]                                                                    Berufungsbeklagter
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Berufung gegen ein Urteil des
+Einzelgerichts in Strafsachen
+
+vom 4. Juli 2022
+
+betreffend ad 2: Freispruch von
+der Anklage der einfachen Körperverlet-
+
+zung (mit Gift, Waffe oder
+gefährlichem Gegenstand)
+
+Sachverhalt
+
+B____ wurde mit Urteil des Strafgerichtspräsidenten vom
+4. Juli 2022 von der Anklage der einfachen Körperverletzung (mit Gift,
+Waffe oder gefährlichem Gegenstand) in Anwendung von Art. 15 des
+Strafgesetzbuches (StGB, SR 311.0) kostenlos freigesprochen. Des Weiteren
+wurden die Genugtuungsforderung von A____ im Betrage von CHF 500. sowie die
+Parteientschädigung in Höhe von CHF 1'181.85 abgewiesen. Schliesslich
+wurde das beigebrachte Messer (Effektenverwaltung; Verzeichnis [...]) unter
+Aufhebung der Beschlagnahme an B____ zurückgegeben.
+
+Gegen dieses Urteil hat A____ (nachfolgend: Berufungskläger)
+mit Eingabe vom 14. November 2022 Berufung erklärt und beantragt, dass das
+Urteil des Strafgerichtspräsidenten vom 4. Juli 2022 teilweise aufzuheben sei.
+So sei B____ (nachfolgend: Beschuldigter) der einfachen Körperverletzung (mit
+Gift, Waffe oder gefährlichem Gegenstand) zu verurteilen und angemessen zu
+bestrafen. Des Weiteren sei der Beschuldigte zur Zahlung einer Genugtuung im
+Umfange von CHF 500. zuzüglich Zins zu 5 % seit dem 29. März 2021 an
+den Berufungskläger zu verurteilen und es seien die ausserordentlichen Kosten
+des erstinstanzlichen Verfahrens zu Lasten des Beschuldigten zu verlegen, dies
+unter o/e-Kostenfolge. Die Staatsanwaltschaft sowie der Beschuldigte haben
+weder Anschlussberufung erhoben, noch Nichteintreten auf die Berufung
+beantragt.
+
+Mit Berufungsbegründung vom 2. Mai 2023 hat der
+Berufungskläger seine mit der Berufungserklärung gestellten Anträge begründet. Mit
+Berufungsantwort vom 5. Juni 2023 beantragt die Staatsanwaltschaft die Abweisung
+der Berufung unter gleichzeitiger Bestätigung des strafgerichtlichen
+Entscheids. Dies beantragt auch der Beschuldigte mit Berufungsantwort vom 6.
+Juni 2023.
+
+Mit Verfügung vom 6. November 2023 hat die
+Instruktionsrichterin die Ansetzung der Hauptverhandlung angekündigt. Mit
+Vorladung vom 11. Dezember 2023 sind die beteiligten Personen zur
+Hauptverhandlung am 10. April 2024 geladen worden.
+
+Anlässlich der Berufungsverhandlung vom 10. April 2024 sind
+der Berufungskläger sowie der Beschuldigte befragt worden. Nach Abschluss des
+Beweisverfahrens sind der Rechtsvertreter des Berufungsklägers sowie die
+Verteidigung zum Vortrag gelangt. Der Rechtsvertreter des Berufungsklägers hat repliziert,
+worauf die Verteidigung dupliziert hat. Dem Beschuldigten ist schliesslich das
+letzte Wort zugekommen. Die Parteien haben dabei grundsätzlich an ihren bereits
+schriftlich gestellten Anträgen festgehalten.
+
+Für sämtliche Ausführungen wird auf das Verhandlungsprotokoll
+verwiesen. Die entscheidrelevanten Tatsachen und Einzelheiten der
+Parteistandpunkte ergeben sich aus dem vorinstanzlichen Urteil und den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Nach Art. 398 Abs. 1 der Strafprozessordnung
+(StPO, SR 312.0) ist die Berufung gegen Urteile erstinstanzlicher Gerichte zulässig,
+mit denen das Verfahren ganz oder teilweise abgeschlossen wird, was vorliegend
+der Fall ist. Zuständiges Berufungsgericht ist nach § 88 Abs. 1 und 92
+Abs. 1 Ziff. 1 des baselstädtischen Gerichtsorganisationsgesetzes (GOG, SG
+154.100) ein Dreiergericht des Appellationsgerichts. Der Berufungskläger ist
+als Privatkläger vom angefochtenen Urteil berührt und hat ein rechtlich
+geschütztes Interesse an dessen Aufhebung oder Änderung, sodass er gestützt auf
+Art. 382 Abs. 1 StPO zur Berufung legitimiert ist, wobei sich die Legitimation
+der Privatklägerschaft gemäss Abs. 2 der genannten Bestimmung auf den
+Schuld- und Zivilpunkt beschränkt. Auf das form- und fristgerecht eingereichte
+Rechtsmittel ist daher einzutreten.
+
+1.2 Gemäss Art. 398 Abs. 3 StPO können mit der
+Berufung Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des
+Ermessens, Rechtsverweigerung und Rechtsverzögerung, die unvollständige oder
+unrichtige Feststellung des Sachverhalts sowie Unangemessenheit gerügt werden.
+
+1.2.1 Im Rechtsmittelverfahren gilt die
+Dispositionsmaxime. Die Berufung resp. die Anschlussberufung kann demgemäss auf
+die Anfechtung von Teilen des Urteils beschränkt werden (vgl. Art. 399 Abs. 3
+lit. a und Abs. 4 sowie Art. 401 Abs. 1 StPO). Erfolgt eine Teilanfechtung,
+erwachsen die nicht angefochtenen Punkte in Rechtskraft.
+
+1.2.2 Der Berufungskläger beantragt, dass das Urteil
+des Strafgerichtspräsidenten vom 4. Juli 2022 teilweise aufzuheben sei. Dementsprechend
+sei der Beschuldigte der einfachen Körperverletzung (mit Gift, Waffe oder
+gefährlichem Gegenstand) zu verurteilen und angemessen zu bestrafen. Sodann sei
+der Beschuldigte zur Zahlung einer Genugtuung im Umfange von CHF 500.
+zuzüglich Zins zu 5 % seit dem 29. März 2021 an den Berufungskläger
+zu verurteilen und es seien die ausserordentlichen Kosten des erstinstanzlichen
+Verfahrens zu Lasten des Beschuldigten zu verlegen, dies unter o/e-Kostenfolge.
+In Rechtskraft erwachsen sind mithin lediglich die folgenden Punkte: Verurteilung
+des Berufungsklägers wegen Sachbeschädigung, mehrfachen Hausfriedensbruchs,
+Hinderung einer Amtshandlung, mehrfachen Ungehorsams gegen amtliche
+Verfügungen, Tätlichkeiten sowie unberechtigten Verwendens eines (Motor-)Fahrrades,
+Freispruch des Berufungsklägers von der Anklage des unbefugten Eindringens in
+ein Datenverarbeitungssystem und der Drohung (hetero- oder homosexueller
+Lebenspartner) sowie die Entschädigung der amtlichen Verteidiger für das
+erstinstanzliche Verfahren.
+
+2.
+
+In formeller Hinsicht liegen keine verfahrensrechtlichen
+Anträge vor, die (noch) zu behandeln wären.
+
+3.
+
+3.1 Das Strafgericht hat in materieller Hinsicht
+erwogen, dass sowohl der Berufungskläger als auch der Beschuldigte den
+Sachverhalt gemäss Anklageschrift zu weiten Teilen anerkannt hätten. So hätten
+beide übereinstimmend angegeben, dass der Berufungskläger  unter Missachtung
+des am 22. März 2021 vom Zivilgericht Basel-Stadt gegen ihn ausgesprochenen
+Kontakt- und Annäherungsverbots  am Morgen des 29. März 2021 seinen Ex-Partner
+an seiner Arbeitsstelle telefonisch kontaktiert habe. Darüber hinaus habe der
+Berufungskläger auch zugegeben, dass er den Beschuldigten am Abend desselben
+Tages erneut an dessen Wohnort aufgesucht habe, um seine Habseligkeiten
+zurückzufordern. An der [...] angekommen, habe der Berufungskläger Sturm
+geklingelt. Als der Beschuldigte ihm die Türe nicht geöffnet, sondern
+stattdessen die Polizei alarmiert habe, sei der Berufungskläger an der Fassade
+des vom Beschuldigten bewohnten Mehrfamilienhauses hochgeklettert und habe
+dessen im ersten Stock gelegene Wohnung über ein offen stehendes Fenster im
+Zimmer der Schwester des Beschuldigten betreten. In der Wohnung habe er den Beschuldigten
+aufgefordert, ihm seine Sachen herauszugeben. Als dieser die Sachen des
+Berufungsklägers nicht auf Anhieb gefunden habe, habe auch der Berufungskläger
+begonnen, das Zimmer seines Ex-Partners zu durchsuchen. Währenddessen habe sich
+der Beschuldigte in die Küche begeben, wo er ein Küchenmesser behändigt habe. Der
+Berufungskläger sei dem Beschuldigten in die Küche gefolgt und habe wiederholt,
+dass er seine Sachen zurückwolle. Darauf habe der Berufungskläger versucht, dem
+immer noch mit der Polizei telefonierenden Beschuldigten das Mobiltelefon
+wegzunehmen, worauf dieser eine Bewegung mit dem Küchenmesser gemacht habe, die
+eine Stichverletzung an der rechten Hand im Bereich des Griffelfortsatzes der Elle
+sowie eine Schnittwunde am rechten Unterarm des Berufungsklägers verursacht
+habe. Objektiviert würden diese Angaben der beiden Beteiligten durch den
+Entscheid des Zivilgerichts vom 22. März 2021, den Austritts- und
+Operationsbericht des Universitätsspitals Basel-Stadt vom 1. und 28. April 2021
+sowie das am Tatort beschlagnahmte Küchenmesser. In diesen Punkten sei der
+Sachverhalt gemäss Anklageschrift demnach erstellt.
+
+Nicht deckungsgleich würden die Aussagen der beiden
+Beteiligten lediglich in Bezug auf die Frage erscheinen, in welcher Hand der
+Beschuldigte das Messer gehalten habe. Während sich der Berufungskläger in
+diesem Punkt mit der schlichten Behauptung, der Beschuldigte habe mit seiner rechten
+Hand zugestochen, begnügt habe, habe der Beschuldigte ausgeführt, dass es genau
+umgekehrt gewesen sei, wobei er anschaulich geschildert habe, dass er sich 
+als er den Berufungskläger in der Küche gegenübergestanden sei  regelrecht an
+das Mobiltelefon in seiner rechten Hand geklammert habe, weil dieses seinen einzigen
+Kontakt zur Aussenwelt dargestellt habe. Dies erscheine einerseits plausibel,
+weil der Beschuldigte ausgesagt habe, er sei Rechtshänder und er
+unbestrittenermassen zuerst das Mobiltelefon in der Hand gehabt habe, bevor er
+in der Küche ein Messer behändigt habe. Andererseits lasse sich die Version des
+Beschuldigten auch besser in Einklang mit der objektivierten Position der
+Stichverletzung des Berufungsklägers bringen. So sei durch die medizinischen
+Unterlagen des USB erstellt, dass der Berufungskläger die Stichverletzungen auf
+der äusseren Seite seines rechten Handgelenks erlitten habe. Hätte er nun  wie
+vom Beschuldigten geltend gemacht  mit seiner rechten Hand diagonal in
+Richtung des sich ebenfalls in der rechten Hand des Beschuldigten befindenden
+Mobiltelefons gegriffen, so erscheine es naheliegend, dass dieser bei der
+Bewegung mit der das Messer haltenden linken Hand seinen Widersacher von aussen
+am Handgelenk getroffen habe. Demgegenüber wäre in der Version des
+Berufungsklägers eher eine Verletzung an der Innenseite seines rechten
+Handgelenks zu erwarten gewesen. Aus diesen Gründen sei in diesem Punkt auf die
+plausibleren Aussagen des Beschuldigten abzustellen und als erstellt zu
+betrachten, dass dieser das Mobiltelefon in seiner rechten Hand und das Messer
+in der linken Hand gehalten habe.
+
+3.2 Der Berufungskläger bringt vor, dass der im
+vorinstanzlichen Urteil hierzu geschilderte Sachverhalt unbestritten sei und
+auch seinen eigenen Darstellungen sowohl in der Voruntersuchung, als auch
+anlässlich der mündlichen Hauptverhandlung vor erster Instanz entspreche und der
+Sachverhalt auch seitens des Beschuldigten unbestritten geblieben sei.
+
+3.3 Auch der Beschuldigte führt hierzu aus, dass der
+Sachverhalt grundsätzlich im Sinne der Vorinstanz als erstellt anzusehen sei.
+Ergänzend macht er geltend, dass auch erstellt sei, dass der Beschuldigte das
+Messer in Verteidigungsabsicht ergriffen und der Berufungskläger dies gesehen
+und auch so verstanden habe. Zudem sei auf die Aussagen des Beschuldigten im
+Vorverfahren zu verweisen: auf die Frage, warum er nach dem Messer gegriffen
+habe, habe er ausgesagt: «Er ist, obwohl ich ihm sagte, er solle seine Sachen
+nehmen und gehen, auf mich zugekommen, es hat auf mich einen sehr bedrohenden
+Eindruck gemacht. Er redete sehr schlecht über meine Mutter, auch, dass es eine
+Sauerei ist, dass meine kleine Schwester [...] im Kontaktverbot gegen ihn
+erwähnt ist. Seine Augen waren ganz irr, ich hatte Angst, ja Todesangst, dass
+er mir etwas antut. Darum, um mich zu schützen, habe ich, wo er mich in die
+Küche drängte, ein Messer ergriffen. Ich wollte ja deeskalierend sein, darum
+bin ich zurückgewichen, aber als ich in der Küche war, befand ich mich in der
+Sackgasse». Der Berufungskläger habe zwar vor der Vorinstanz gesagt, er habe
+einfach seine Sachen gewollt und er sei der Meinung gewesen, es brauche die
+Polizei nicht, doch die Begegnung in der Wohnung dürfte weit emotionaler
+ausgefallen sein, als er es vor dem Strafgericht dargestellt habe. Der
+Berufungskläger habe gesehen, dass sein Ex-Freund Angst bekommen habe. Er habe
+in der Voruntersuchung auch angegeben, dass er in die Wohnung geklettert sei,
+um seine Sachen zu holen; aber auch, um mit seinem Ex-Freund zu reden. Offensichtlich
+habe das nicht funktioniert, weil der Berufungskläger selbst auch anerkannt
+habe, dass sein Ex-Freund Angst vor ihm bekommen habe. Er habe zugegeben, dass
+er ihn zu diesem Zeitpunkt noch geliebt habe, ihn nicht einfach so habe
+aufgeben und um ihn kämpfen wollte.
+
+3.4 Die Staatsanwaltschaft verweist in ihrer
+Stellungnahme vollumfänglich auf den vorinstanzlichen Entscheid.
+
+4.
+
+Wie bereits ausgeführt wurde, ist der Sachverhalt von den
+Parteien grundsätzlich unbestritten, weshalb diesbezüglich auf die zutreffenden
+Erwägungen des Strafgerichts verwiesen werden kann (dortige E. 3a). Nachfolgend
+gilt es lediglich noch die folgenden Ergänzungen bzw. Präzisierungen
+vorzunehmen.
+
+So gilt es hervorzuheben, dass sich der Berufungskläger
+bereits rund zwei Wochen vor dem in Frage stehenden Vorfall, d.h. am 13. März
+2021, zugegebenermassen zwei Mal gegen den Willen der Wohnungseigentümer
+Zutritt zur Liegenschaft [...] verschafft hatte und dort, nach einer zunächst
+verbalen Auseinandersetzung, im Zimmer des Beschuldigten zahlreiche Gegenstände
+beschädigte sowie gegen dessen Mutter tätlich wurde (vgl. hierzu das in diesem
+Punkt rechtskräftige vorinstanzliche Urteil, Akten S. 474 f.). Dies ist
+insofern von Relevanz, als die Vorfälle vom 13. März und 29. März 2021
+nicht gesondert, sondern diese vielmehr im Sinne einer Eskalationskaskade
+gemeinsam zu betrachten sind. Der Beschuldigte gab denn auch an, dass er sich
+am 29. März 2021 immer noch vom ersten Vorfall «im Dauerstress» befunden
+habe. Er habe zuvor auch eine Verlängerung für das Kontaktverbot beantragt und
+nicht mit dem Berufungskläger sprechen wollen. Mithin ist auch glaubhaft, dass
+er in Panik geraten sein will, als er sah, wie der Berufungskläger die
+Hausfassade hochkletterte. Dies alles habe dem Beschuldigten aufgezeigt, dass
+der Berufungskläger keine Grenzen kenne. Auch habe der Beschuldigte  während
+der Berufungskläger in der Wohnung seine Sachen gesucht habe  seinen Schlüssel
+gesucht, um aus der von innen verschlossene Wohnung flüchten zu können, diesen
+jedoch nicht gefunden, was ihn zusätzlich in einen panischen Zustand versetzt
+habe. Da er entsprechend keine Möglichkeit gehabt habe, sich der Situation
+durch Verlassen der Wohnung zu entziehen, habe er sich ausgeliefert gefühlt.
+Als der Berufungskläger ausserdem auch noch schlecht über seine Mutter geredet
+habe, sei ihm klar geworden, dass dieser nicht mehr ansprechbar sei («Er ist,
+obwohl ich ihm sagte, er solle seine Sachen nehmen und gehen, auf mich
+zugekommen, es hat auf mich einen sehr bedrohenden Eindruck gemacht. Er redete
+sehr schlecht über meine Mutter, [] Seine Augen waren ganz irr, ich hatte
+Angst, ja Todesangst, dass er mir etwas antut», Akten S. 255; Protokoll 2. Instanz,
+Akten S. 614 ff.). Der Berufungskläger gab damit übereinstimmend auch
+selbst wiederholt an, dass er die Angst beim Beschuldigten wahrgenommen habe (Akten
+S. 97 sowie Protokoll 2. Instanz, Akten S. 614 ff.). Es ist schliesslich
+auch nachvollziehbar, dass der Beschuldigte sich aufgrund der erwähnten
+Umstände und der ihm bekannten psychischen Vorbelastung des Berufungsklägers in
+die Küche zurückzog, um einer Konfrontation mit diesem zu entgehen, sich dort
+jedoch in einer «Sackgasse» befand («Darum, um mich zu schützen, habe ich, wo
+er mich in die Küche drängte, ein Messer ergriffen. Ich wollte ja deeskalierend
+sein, darum bin ich zurückgewichen, aber als ich in der Küche war, befand ich
+mich in der Sackgasse», Akten S. 255, Protokoll 2. Instanz, Akten S. 614).
+
+Was ferner noch die Vorkommnisse in der Küche unmittelbar vor
+dem Messereinsatz anbelangt, so gilt es ergänzend festzuhalten, dass der
+Berufungskläger angab, er habe zwar in der Küche zum Beschuldigten gesagt, es
+brauche keine Polizei, er jedoch nicht darauf hinwies, dass sein Griff
+lediglich dem Mobiltelefon des Beschuldigten gegolten habe (Protokoll 2.
+Instanz, Akten S. 614). Insofern sind auch die Aussagen des Beschuldigtem
+glaubhaft, wenn er angab, dass er nicht gewusst habe, dass die Bewegung des Berufungsklägers
+Richtung Kopf lediglich auf das Mobiltelefon abgezielt habe (Protokoll 2.
+Instanz, Akten S. 615).
+
+5.
+
+5.1 In rechtlicher Hinsicht hat die Vorinstanz zutreffend
+ und von den Parteien auch unbestritten  erwogen, dass der Beschuldigte sämtliche
+Tatbestandsvoraussetzungen der einfachen Körperverletzung mit einem gefährlichen
+Gegenstand nach Art. 123 Ziff. 2 Abs. 2 StGB erfüllt hat. Das
+Strafgericht hat jedoch die Voraussetzungen der rechtfertigenden Notwehr als erfüllt
+angesehen und den Beschuldigten entsprechend in Anwendung von Art. 15 StGB von
+diesem Vorwurf freigesprochen.
+
+5.2 Der Berufungskläger bringt dagegen vor, dass er
+zugegebenermassen zwar gegen den Willen des Beschuldigten in dessen Wohnung
+respektive Zimmer eingedrungen sei, aber nicht wie am 13. März 2021 furios
+Sachen beschädigt habe. Der Berufungskläger habe mit dem Beschuldigten über die
+Rückgabe seiner persönlichen Effekten sprechen wollen. Letzterer habe dem
+Berufungskläger die entsprechenden Effekten nicht herausgeben wollen oder
+können und habe sich stattdessen in die Küche begeben, von sich aus ein Messer behändigt
+und mit der Polizei telefoniert. Aufgrund der gesamten Umstände werde klar,
+dass der Berufungskläger eine erneute Requisition der Polizei habe vermeiden und
+einzig seine Effekten zurückerlangen und hernach die Wohnung des Beschuldigten
+wieder habe verlassen wollen. Ein entsprechender Angriff habe somit
+offensichtlich einzig und allein dem Mobiltelefon gegolten, welches er dem
+Beschuldigten aus der Hand habe nehmen wollen. Ein darüberhinausgehender
+Angriff gegen die Sphäre des Beschuldigten sei weder durch aktives Tun des
+Berufungsklägers erstellt, noch könne ein darüberhinausgehender Angriff
+aufgrund der Umstände des vorliegenden Falles angenommen werden. Es sei für
+jeden aussenstehenden, neutralen Beobachter des Geschehens erkennbar gewesen,
+dass der Berufungskläger nur versucht habe, dem Beschuldigten das Mobiltelefon
+aus der Hand zu nehmen. Ein darüberhinausgehender, auch virtueller Angriff auf
+die Integrität des Beschuldigten sei somit nicht erstellt.
+
+Auch sei ein derartiger Angriff grundsätzlich
+notwehrtauglich, wobei sicherlich auch geringfügige körperliche Einwirkungen
+auf den Berufungskläger zur Abwehr des entsprechenden Angriffs und der
+weitergehenden Möglichkeiten des telefonischen Kontakts mit der Polizei
+angemessen und gerechtfertigt erscheinen würden. Ein weitergehendes Abwehren einzig
+und allein aufgrund des «Angriffs» gegen das Mobiltelefon des Beschuldigten könne
+nicht mehr als angemessen bezeichnet werden. Der Beschuldigte habe bewusst ein
+Messer hervorgenommen und dies während des Telefonats in der anderen Hand
+gehalten. Das Hantieren mit einer Stichwaffe in unmittelbarer Nähe einer
+Drittperson berge immer die Gefahr, insbesondere bei einem aktiven teilweise
+unkontrollierten Herumfuchteln mit der Hand mit der Stichwaffe, eine
+schwerwiegende Verletzung hervorzurufen. Oftmals könne gerade in derartigen
+Situationen der Geschehensablauf nicht vollständig kontrolliert werden, sodass
+es wie vorliegend zu einer schwerwiegenderen als erwarteten Verletzung gekommen
+sei. So habe der Berufungskläger aufgrund der Verletzung mehrere Operationen
+über sich ergehen lassen müssen und sei die Funktionsfähigkeit seiner Hand bis
+zuletzt eingeschränkt gewesen und habe er sich bis zum erstinstanzlichen Urteil
+deswegen auch in Ergotherapie befunden. Eine mit einer Stichwaffe wie der
+vorliegenden zu erwartende Verletzung stelle in keinem Fall eine angemessene
+Abwehrreaktion auf den Angriff auf ein Mobiltelefon dar. Der Beschuldigte habe
+sich bewusst in die Küche begeben, um sich mit einem Messer zu bewaffnen, ohne
+dass er vorgängig in irgendeiner Art und Weise seitens des Berufungsklägers
+angegangen worden wäre. Grundsätzlich wäre es ihm möglich gewesen, entweder die
+Wohnung zu verlassen und dabei die Polizei zu kontaktieren oder sich in eine
+verschliessbare Räumlichkeit seiner Wohnung zu begeben, wie beispielsweise das
+Badezimmer. Auch hätte er wohl ohne Weiteres mit blossen Händen allfällige
+Angriffe gegen sein Mobiltelefon abwehren können und es seien darüber hinaus
+auch noch verschiedene, weniger weitreichende Abwehrmöglichkeiten eines solchen
+Angriffs vorstellbar, auf welche der Beschuldigte nicht zurückgegriffen habe.
+Sein Verhalten sei somit nicht angemessen gewesen. Vielmehr habe er die Grenzen
+der Notwehr offensichtlich überschritten.
+
+5.3 Der Beschuldigte verweist demgegenüber
+grundsätzlich auf die Ausführungen der Vorinstanz und bringt vor, dass sowohl
+eine Notwehrsituation vorgelegen habe als auch die Abwehr durch den
+Beschuldigten verhältnismässig erfolgt sei.
+
+5.4 Wird jemand ohne Recht angegriffen oder
+unmittelbar mit einem Angriff bedroht, so ist der Angegriffene und jeder andere
+berechtigt, den Angriff in einer den Umständen angemessenen Weise abzuwehren
+(Art. 15 StGB). Der Rechtfertigungsgrund der Notwehr verlangt vom Angegriffenen
+nicht, dass er mit einer Reaktion zuwartet, bis es für eine Abwehr zu spät ist.
+Doch setzt die Unmittelbarkeit der Bedrohung voraus, dass jedenfalls Anzeichen
+einer Gefahr vorhanden sind, die eine Verteidigung nahelegen. Solche Anzeichen
+liegen namentlich vor, wenn der Angreifer eine drohende Haltung einnimmt, sich
+zum Kampfe vorbereitet oder Bewegungen macht, die in diesem Sinne gedeutet
+werden können. Abwehr ist zulässig, sobald mit einem Angriff ernstlich zu
+rechnen ist und jedes weitere Zuwarten die Verteidigungschance gefährdet. Der
+Angriff droht mit anderen Worten nicht erst unmittelbar, wenn es für den
+Angreifer kein Zurück mehr gibt, sondern bereits, wenn der Bedrohte nach den
+gesamten Umständen mit dem sofortigen Angriff rechnen muss (BGer 6B_303/2018
+vom 2. November 2018 E. 2.3). Überschreitet der Abwehrende die Grenzen der
+Notwehr, so mildert das Gericht die Strafe (Art. 16 Abs. 1 StGB). Überschreitet
+er die Grenzen in entschuldbarer Aufregung oder Bestürzung über den Angriff, so
+handelt er nicht schuldhaft (Art. 16 Abs. 2 StGB).
+
+Nach der Rechtsprechung muss die Abwehr in einer
+Notwehrsituation nach der Gesamtheit der Umstände als verhältnismässig
+erscheinen (BGE 136 IV 49 E. 3.2). Die Angemessenheit der Abwehr ist dabei
+auf Grund jener Situation zu beurteilen, in der sich die rechtswidrig
+angegriffene Person im Zeitpunkt ihrer Tat befand (sog. ex ante Betrachtung).
+Es dürfen nachträglich nicht allzu subtile Überlegungen darüber angestellt
+werden, ob der Angegriffene sich nicht allenfalls auch mit anderen, weniger
+einschneidenden Massnahmen hätte begnügen können (BGer 6B_971/2018 vom 7. November
+2019 E. 2.3.3, 6B_130/2017 vom 28. Februar 2018 E. 3.1, 6B_57/2017 vom 5. Oktober
+2017 E. 1.2.1 m.H. auf BGE 136 IV 49 E. 3.1. und 3.2; N iggli /G öhlich ,
+in: Basler Kommentar, 4. Aufl., Basel 2019, Art. 15 StGB N 28 f.).
+Besondere Zurückhaltung ist bei der Verwendung gefährlicher Werkzeuge zur
+Abwehr (Messer, Schusswaffen etc.) geboten, da deren Einsatz stets die Gefahr
+schwerer oder gar tödlicher Verletzungen mit sich bringt. Angemessen ist die
+Abwehr, wenn der Angriff nicht mit weniger gefährlichen und zumutbaren Mitteln
+hätte abgewendet werden können, der Täter womöglich gewarnt worden ist und der
+Abwehrende vor der Benutzung des gefährlichen Werkzeugs das Nötige zur
+Vermeidung einer übermässigen Schädigung vorgekehrt hat. Auch ist eine Abwägung
+der auf dem Spiel stehenden Rechtsgüter unerlässlich. Doch muss deren Ergebnis
+für den Angegriffenen, der erfahrungsgemäss rasch handeln muss, mühelos erkennbar
+sein (BGE 136 IV 49 E. 3.3 m.H.; zum Ganzen: BGer 6B_873/2018 vom 15.
+Februar 2019 E. 1.1.3, 6B_1211/2015 vom 10. November 2016 E. 1.4.1).
+
+Ein Fall von Putativnotwehr ist gegeben, wenn der Täter einem
+Sachverhaltsirrtum unterliegt, indem er irrtümlich annimmt, es sei ein
+rechtswidriger Angriff im Sinne von Art. 15 StGB gegenwärtig oder unmittelbar
+bevorstehend (BGE 129 IV 6 E. 3.2 m.H.). Handelt der Täter in einer irrigen
+Vorstellung über den Sachverhalt, so beurteilt das Gericht die Tat zugunsten
+des Täters nach dem Sachverhalt, den sich der Täter vorgestellt hat (Art. 13
+Abs. 1 StGB; BGer 6B_873/2018 vom 15. Februar 2019 E. 1.1.3; 6B_281/2014 vom
+11. November 2014 E. 2.3.2).
+
+5.5
+
+5.5.1 In einem ersten Schritt ist demnach das
+Vorliegen einer Notwehrlage zu prüfen. Hierfür müsste ein Angriff durch eine
+Person vorgelegen haben, der auf eine rechtswidrige Verletzung eines Rechtsguts
+des Berufungsklägers gerichtet gewesen wäre. Dies ist durch objektives ex-post
+Urteil zu bestimmen (G eth ,
+Strafrecht Allgemeiner Teil, 7. Aufl., Basel 2021, Rz. 193). Vorliegend bringt
+die Verteidigung zu Recht vor, dass der Berufungskläger zu verkennen scheint,
+dass der Vorfall vom 29. März 2021 lediglich die Spitze eines bereits seit
+Wochen andauernden Konflikts zwischen ihm und dem Beschuldigten im Zusammenhang
+mit der Beendigung ihrer Beziehung dargestellt hat. Wie die teilweise
+strafrechtlich relevante Vorgeschichte des Vorfalls vom 29. März 2021
+zeigt (vgl. vorinstanzlicher Entscheid, Akten S. 474 ff.), entluden sich die
+Emotionen des Berufungsklägers bereits gut zwei Wochen zuvor, als er sich
+ebenfalls gegen den Willen der Familie des Beschuldigten Zutritt zu deren
+Wohnung verschaffte und das Zimmer des Beschuldigten demolierte. Er zerstörte
+dabei aber nicht nur das Mobiliar seines Ex-Partners, sondern er wurde sogar gegenüber
+dessen Mutter tätlich, bevor er von der requirierten Polizei nur unter
+Zuhilfenahme eines Destabilisierungsgeräts in Handfesseln gesetzt und abgeführt
+werden konnte. Insofern ist zu konstatieren, dass sich die Gewalt des
+Berufungsklägers bereits zwei Wochen vor dem 29. März 2021 nicht nur gegen
+Sachen gerichtet hatte. Während der Berufungskläger sich am 13. März 2021 noch
+mit einer List Zutritt zum Gebäude verschaffte, kletterte er am 29. März 2021
+gar die Fassade hoch und betrat die Wohnung des Beschuldigten über ein offen
+stehendes Fenster, was als zusätzliche Eskalationsstufe zu werten ist (der
+Beschuldigte hatte sogar schon die Polizei verständigt, noch bevor der
+Berufungskläger die Fassade erklommen hatte). Dieses Vorgehen zeigt denn auch
+die Vehemenz, mit der der Berufungskläger die Begegnung erzwingen wollte; er
+schreckte denn auch nicht davor zurück, beim Erklimmen der Hausfassade auf Höhe
+des ersten Stocks aussen an der Fassade vom Balkon zum schräg danebenliegenden
+Fenster zu springen. Nach diesem gewaltsamen Eindringen verlangte er vom
+Beschuldigten die Herausgabe seiner Habseligkeiten, wobei die Suche nach
+denselben erfolglos verlief. Der Beschuldigte zog sich daraufhin in die Küche
+zurück und behändigte  das Mobiltelefon noch am Ohr haltend  ein
+Küchenmesser, bevor der Berufungskläger seinem Ex-Partner in die Küche folgte
+und ihm dort  nach eigenen Angaben  versuchte, das Mobiltelefon zu
+entreissen.
+
+Des Weiteren stellt der Griff zum Mobiltelefon zwar nicht
+einen unmittelbaren Angriff auf die körperliche Integrität des
+Beschuldigten dar, doch durfte dieser aufgrund der dargelegten Vorgeschichte 
+die Situation war aufgrund der neuen Eskalationsstufe emotional nochmals
+aufgeladener  und des psychisch labilen Zustands des Berufungsklägers davon
+ausgehen, dass ein solcher unmittelbar bevorstand resp. bereits im Gange war,
+als der Berufungskläger eine Handbewegung Richtung Kopf des Beschuldigten
+vornahm. So wurde denn auch bereits festgehalten, dass der Berufungskläger den
+Beschuldigten nicht darauf hinwies, dass seine Bewegung lediglich dem
+Mobiltelefon hätte gelten sollen. Aufgrund all dieser Umstände war denn auch
+nicht  wie vom Berufungskläger vorgebracht wird  erkennbar, dass dieser nur
+versucht habe, dem Beschuldigten das Mobiltelefon aus der Hand zu nehmen. Zudem
+ist darauf hinzuweisen, dass es nicht lediglich um das Mobiltelefon als
+Sachwert an sich gegangen wäre, vielmehr stellte dieses den einzigen Kontakt des
+Beschuldigten zur Aussenwelt resp. zur Polizei dar und war damit für diesen von
+herausragender Bedeutung.
+
+Und selbst wenn nicht von einem unmittelbar bevorstehenden
+Angriff auszugehen gewesen wäre, so ist zu konzedieren, dass der Beschuldigte
+irrigerweise annahm, dass eine objektive Rechtfertigungslage, sprich ein
+rechtswidriger Angriff durch den Berufungskläger vorliege (Putativnotwehr),
+ging er doch davon aus, dass der Griff nicht (allein) dem Mobiltelefon galt,
+sondern vielmehr einen unmittelbaren Angriff auf seine körperliche Integrität
+darstellte. Gemäss Art. 13 Abs. 1 StGB würde das Gericht demnach auch in einem
+solchen Fall die Tat zu Gunsten des Beschuldigten nach dieser Vorstellung des
+Sachverhalts beurteilen. Der Irrtum des Beschuldigten wäre nach pflichtgemässer
+Vorsicht auch nicht vermeidbar gewesen (Art. 13 Abs. 2 StGB), kamen ihm im
+Moment der zuvor dargelegten Umstände doch weder Zweifel an einem Angriff noch
+war es ihm zu dem Zeitpunkt möglich, weitergehende Überlegungen anzustellen,
+nachdem der Berufungskläger bereits eine Handbewegung in Richtung seines Kopfes
+vorgenommen hatte.
+
+Schliesslich handelte es sich bei der unmittelbar
+bevorstehenden Attacke um einen unrechtmässigen Angriff, war der
+Berufungskläger doch nicht seinerseits bei seinem Übergriff gerechtfertigt. Der
+Beschuldigte hat die Notwehrsituation weder unnötigerweise verursacht noch provoziert.
+Der Berufungskläger befand sich wissentlich unrechtmässig in der Wohnung des Beschuldigten,
+der sich zudem zwecks Vermeidung einer Konfrontation in die Küche zurückgezogen
+hatte, nachdem ihm kein anderer Fluchtweg offenstand. Gleiches würde auch für
+die irrigerweise vom Beschuldigten vorgestellte Attacke des Berufungsklägers
+gelten.
+
+Im Ergebnis ist deshalb die Notwehrlage klarerweise zu
+bejahen.
+
+5.5.2 In Bezug auf die Angemessenheit der Abwehr hat
+vorliegend bereits die Vorinstanz zutreffend dargelegt, dass der Beschuldigte
+im Vorfeld der Auseinandersetzung vom 29. März 2021 bereits zahlreiche Schritte
+unternommen hatte, um eine Eskalation der für den Berufungskläger
+offensichtlich emotional äusserst belastenden Trennungssituation zu verhindern.
+Der Berufungskläger liess sich aber weder durch das Alarmieren der Polizei noch
+durch das vom Zivilgericht ausgesprochene Annäherungs- und Kontaktverbot davon
+abhalten, erneut am Wohnort seines Ex-Partners aufzutauchen. Am 13. März 2021
+kehrte er nach der Requirierung der Polizei gar nochmals an den Tatort zurück,
+gab sich wahrheitswidrig als Polizist aus und liess seine Zerstörungswut ein
+zweites Mal am Inventar der Wohnung aus  nachdem er im Rahmen des ersten Eindringens
+zudem gegen die Mutter des Beschuldigten tätlich geworden war. Auch der
+Umstand, dass der Beschuldigte ihm am 29. März 2021 die Türe bewusst nicht
+öffnete, nachdem er Sturm geklingelt hatte, veranlasste ihn nicht dazu, den
+Beschuldigten in Ruhe zu lassen und von dannen zu ziehen. Vielmehr kletterte er
+die Fassade hoch, um sich die ihm seiner Meinung nach zustehende Gerechtigkeit
+zu verschaffen. Selbst als der Beschuldigte dabei war, mit der alarmierten Polizei
+weiter zu telefonieren, sich in die Küche zurückzog (weil ihm keine andere
+Rückzugsmöglichkeit offenstand; den Schlüssel der Haustür konnte er in seiner
+Panik nicht finden und die alten Türen der übrigen Räume bildeten keinen
+genügenden Schutz) und schutzsuchend ein Messer behändigte, dachte der
+Berufungskläger nicht daran, die Wohnung des Beschuldigten zu verlassen,
+sondern bewegte sich auf den Beschuldigten zu und griff aktiv in Richtung von
+dessen Kopfbereich. Letzterer hat somit eine ganze Reihe an milderen
+Abwehrmassnahmen getroffen, welche aber allesamt wirkungslos blieben und er
+keine andere Wahl mehr hatte, als das Messer zur definitiven Abwehr des
+aggressiven und zunehmend unberechenbaren Berufungsklägers einzusetzen. Zwar
+fordert das Bundesgericht bei Abwehrhandlungen mit Messern regelmässig eine
+vorhergehende Warnung (z.B. BGE 136 IV 49 E. 3.3), doch gilt es vorliegend zu
+beachten, dass der Berufungskläger sowohl das Messer in der Hand des
+Beschuldigten  der sich nota bene aus Furcht bereits in die Küche
+zurückgezogen hatte, obgleich er nicht hätte flüchten müssen, ist doch die
+Notwehr selbst nicht subsidiär  als auch dessen Angst eingestandenermassen
+wahrgenommen hatte (Protokoll 1. Instanz, Akten S 439, Protokoll 2.
+Instanz, Akten S. 614), er aber dennoch auf diesen zustürmte und die erwähnte
+Handbewegung durchführte. Entsprechend musste der Berufungskläger zweifellos
+mit dem Einsatz des Messers rechnen resp. war das Halten desselben für den
+Berufungskläger als konkludente Warnung zu verstehen. Hinzu kommt, dass der Beschuldigte
+auch bei der Verwendung des Messers äusserst zurückhaltend agiert hat. So ging
+er nicht etwa mit dem Küchenmesser auf den Berufungskläger los oder holte damit
+aus, sondernd bewegte dieses lediglich reflexartig in Richtung des in seine
+Rechtssphäre eindringenden Arms des Berufungsklägers. Indem er damit lediglich in
+Kontakt mit den Extremitäten des Berufungsklägers kam, minimierte er das Risiko
+gravierender Verletzungen massgeblich. Zudem hielt er das Tatwerkzeug als
+Rechtshänder in seiner linken Hand, mit welcher er sicherlich nicht dieselbe
+Wucht in seinen Messereinsatz bringen konnte, wie er es mit rechts hätte tun
+können. Dieser Umstand zeigt auch anschaulich, dass es die erste Priorität des
+Beschuldigten war, mit der Polizei in Verbindung zu bleiben und er das Messer lediglich
+als Abschreckung in seine schwächere linke Hand nahm, es ihm mithin nicht in
+erster Linie darum ging, dem Berufungskläger gravierende Verletzungen zuzufügen.
+Ferner ist auch darauf hinzuweisen, dass der Beschuldigte in der Küche auch
+grössere Messer hätte behändigen können, er jedoch «nur» zu einem Rüstmesser
+griff. Nachdem sich der Berufungskläger verletzte hatte und das Geschehen
+stoppte, kamen ausserdem keine weiteren Abwehrhandlungen mehr dazu. Im
+Gegenteil, der Beschuldigte bat die Polizei gleich noch, einen Krankenwagen zu
+rufen.
+
+Unter dem Punkt der Subsidiarität ist nicht zuletzt auch
+darauf hinzuweisen, dass sich der ganze Vorfall der Auseinandersetzung in der
+Küche innert kürzester Zeit abspielte, weshalb dem Beschuldigten auch keine
+Zeit blieb, lange darüber nachzudenken, welche anderen Abwehrmittel ihm sonst
+noch zur Verfügung gestanden wären. Dürfen schon allgemein keine zu subtilen
+Überlegungen darüber angestellt werden, ob die betreffende Person ein gleich wirksames,
+milderes Abwehrmittel hätte ergreifen sollen, so ist dies beim Berufungskläger
+umso mehr der Fall, befand er sich doch aufgrund der Vorgeschichte bereits in
+einem Angstzustand. Auch wäre es für ihn in dieser Situation gar nicht möglich
+gewesen, sich mit der (anderen) Hand ohne Einsatz des Messers gegen den Angriff
+des Berufungsklägers zu wehren, hätte er doch sonst das Mobiltelefon fallen
+lassen und damit seine einzige Verbindung zur Aussenwelt resp. der Polizei
+aufgeben müssen. Schliesslich hätte eine Abwehr mit den Händen auch den Angriff
+nicht gleichschnell beenden können wie der Einsatz des Messers, wäre es doch
+mit grösster Wahrscheinlichkeit zu einem Gerangel gekommen, was auch für den
+Beschuldigten ein Verletzungsrisiko dargestellt hätte.
+
+Aus diesen Gründen erscheint der Einsatz des Küchenmessers im
+vorliegenden Fall als angemessene Abwehrhandlung.
+
+5.5.3 In subjektiver Hinsicht muss die
+Abwehrhandlung sodann von einem Verteidigungswillen getragen sein. Dies
+bedeutet, dass der Angegriffene die Situation erkennt und bewusst und gewollt
+zum Zwecke der Abwehr des Angriffes handelt (BGE 104 IV 1 E. a f.; N iggli /G öhlich ,
+a.a.O., Art. 15 StGB N 37).
+
+Vorliegend steht fest, dass die Handlung des Beschuldigten
+durch den Messereinsatz auf die Beendigung des Angriffs gerichtet war. Dass
+sein Wille rein auf Abwehrhandlungen gerichtet war (was selbst auch bei einem
+fahrlässigen Messereinsatz ausreichend gewesen wäre), ergibt sich zudem auch
+daraus, dass er sonst das Messer in seiner stärkeren rechten Hand hätte halten
+können.
+
+5.5.4 Im Ergebnis sind somit die Voraussetzungen der
+rechtfertigenden Notwehr erfüllt. Der Beschuldigte ist somit in Anwendung von
+Art. 15 StGB vom Vorwurf der einfachen Körperverletzung mit einem
+gefährlichen Gegenstand freizusprechen.
+
+6.
+
+Die vom Berufungskläger geltend gemachte Genugtuungsforderung
+in Höhe von CHF 500. ist aufgrund des Freispruchs des Beschuldigten abzuweisen.
+Dasselbe gilt auch für die vom Berufungskläger geltend gemachte
+Parteientschädigung im erstinstanzlichen Verfahren in Höhe von CHF 1'181.85.
+
+7.
+
+Da der Beschuldigte vom Vorwurf der einfachen
+Körperverletzung mit einem gefährlichen Gegenstand freigesprochen wurde, ist
+ihm das beigebrachte Küchenmesser unter Aufhebung der Beschlagnahme zurückzugeben.
+
+8.
+
+Bei diesem
+Ausgang des Verfahrens gehen die erstinstanzlichen Verfahrenskosten betreffend
+den Beschuldigten zu Lasten des Staates (Art. 426 Abs. 2 StPO), während der Berufungskläger
+für das erstinstanzliche Verfahren  wie bereits von der Vorinstanz ausgeführt
+wurde  die Verfahrenskosten im Betrage von CHF 1'000. sowie eine
+Urteilsgebühr von CHF 1'300. trägt.
+
+Die Kosten des
+Berufungsverfahrens tragen die Parteien gestützt auf Art. 428 Abs. 1 StPO
+nach Massgabe ihres Obsiegens oder Unterliegens. Der Berufungskläger als
+Privatkläger ist mit seinen Anträgen unterlegen, entsprechend hat er die Kosten
+für das vorliegende Verfahren mit einer Urteilsgebühr von CHF 1'000. (inkl.
+Kanzleiauslagen, zuzüglich allfällige übrige Auslagen) zu tragen. Diese geht zu
+Folge der gewährten unentgeltlichen Rechtspflege zu Lasten der Gerichtskasse.
+Art. 138 Abs. 1 i.V.m. Art. 135 Abs. 4 StPO bleibt vorbehalten.
+
+9.
+
+9.1 .     Dem
+amtlichen Verteidiger des Beschuldigten werden für die zweite Instanz ein
+Honorar von CHF 3'290. und ein Auslagenersatz von CHF 10.70, zuzüglich
+Mehrwertsteuer von insgesamt CHF 263.90 (7,7 % auf CHF 2'436.45 sowie 8,1
+% auf CHF 864.25), somit total CHF 3'564.60 aus der Gerichtskasse
+zugesprochen.
+
+9.2 Dem
+unentgeltlichen Vertreter des Berufungsklägers werden für die zweite Instanz
+ein Honorar von CHF 1'900. und ein Auslagenersatz von CHF 72.85,
+zuzüglich Mehrwertsteuer von insgesamt CHF 155.75 (7,7 % auf CHF 1'017.45
+sowie 8,1 % auf CHF 955.40), somit total CHF 2'128.60 aus der Gerichtskasse
+zugesprochen. Art. 138 Abs. 1 i.V.m. Art. 135 Abs. 4 StPO bleibt
+vorbehalten.
+
+Demgemäss erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Es
+wird festgestellt, dass folgende Inhalte des Urteils des Einzelgerichts in Strafsachen
+vom 4. Juli 2022 in Rechtskraft erwachsen sind :
+
+- Verurteilung von A____ wegen Sachbeschädigung, mehrfachen
+Hausfriedensbruchs, Hinderung einer Amtshandlung, mehrfachen Ungehorsams gegen
+amtliche Verfügungen, Tätlichkeiten sowie unberechtigten Verwendens eines
+(Motor-)Fahrrades;
+
+- Freispruch von A____ von der Anklage des unbefugten Eindringens in ein
+Datenverarbeitungssystem und der Drohung (hetero- oder homosexueller
+Lebenspartner);
+
+- Entschädigung der amtlichen Verteidiger für das erstinstanzliche Verfahren.
+
+Die Berufung von A____ wird abgewiesen.
+
+B____ wird von der Anklage der einfachen Körperverletzung (mit Gift,
+Waffe oder gefährlichem Gegenstand) in Anwendung von Art. 15 des Strafgesetzbuches kostenlos freigesprochen .
+
+Die Genugtuungsforderung sowie die erstinstanzlich beantragte
+Parteientschädigung von A____ werden abgewiesen.
+
+Das beigebrachte Messer (Effektenverwaltung; Verzeichnis [...]) wird
+unter Aufhebung der Beschlagnahme an B____ zurückgegeben.
+
+A____ trägt die Verfahrenskosten im Betrage von CHF 1'000. sowie eine
+Urteilsgebühr von CHF 1'300. für das erstinstanzliche Verfahren sowie die
+Kosten des zweitinstanzlichen Verfahrens mit Einschluss einer Urteilsgebühr von
+CHF 1'000. (inkl. Kanzleiauslagen, zuzüglich allfällige übrige Auslagen). Letztere
+geht zu Folge der gewährten unentgeltlichen Rechtspflege zu Lasten der
+Gerichtskasse. Art. 138 Abs. 1 i.V.m. Art. 135 Abs. 4 StPO bleibt vorbehalten.
+
+Dem amtlichen Verteidiger des Beschuldigten, [...], werden für die zweite
+Instanz ein Honorar von CHF 3'290. und ein Auslagenersatz von CHF 10.70,
+zuzüglich Mehrwertsteuer von insgesamt CHF 263.90 (7,7 % auf CHF 2'436.45 sowie
+8,1 % auf CHF 864.25), somit total CHF 3'564.60 aus der Gerichtskasse
+zugesprochen.
+
+Dem unentgeltlichen Vertreter des Berufungsklägers, [...], werden für die
+zweite Instanz ein Honorar von CHF 1'900. und ein Auslagenersatz von CHF 72.85,
+zuzüglich Mehrwertsteuer von insgesamt CHF 155.75 (7,7 % auf CHF 1'017.45
+sowie 8,1 % auf CHF 955.40), somit total CHF 2'128.60 aus der Gerichtskasse
+zugesprochen. Art. 138 Abs. 1 i.V.m. Art. 135 Abs. 4 StPO bleibt vorbehalten.
+
+Mitteilung an:
+
+- Beschuldigter
+
+- Berufungskläger
+
+- Staatsanwaltschaft Basel-Stadt
+
+sowie nach Rechtskraft des Urteils:
+
+- Strafgericht Basel-Stadt
+
+- VOSTRA-Koordinationsstelle
+
+- Schaden Service Schweiz AG
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Die Präsidentin                                                         Der
+Gerichtsschreiber
+
+lic. iur. Sara Lamm                                                    Dr.
+Martin Seelmann, LL.M.
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
