@@ -1,0 +1,415 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.251"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.12"
+docket_2: "AG.2024.251"
+decided: "2024-04-11"
+published: "2024-04-02"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76746&W10_KEY=3048461&nTrefferzeile=454&Template=search_result_document.html"
+cites_decisions: ["6B_1258/2020", "6B_280/2017", "6B_363/2017", "6B_793/2018", "6B_80/2018", "BGE 122 IV 322", "BGE 126 IV 131", "BGE 133 IV 1", "BGE 137 IV 326", "BGE 138 IV 186"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-129.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# Verfahrenseinstellung (BGer 7B_570/2024 vom 20.06.2024)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.12
+
+BES.2024.13
+
+BES.2024.14
+
+BES.2024.15
+
+BES.2024.16
+
+BES.2024.17
+
+ENTSCHEID
+
+vom 11. April 2024
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiber
+MLaw Martin Manyoki
+
+Beteiligte
+
+A____ Beschwerdeführerin
+
+[...]
+
+B____ Beschwerdeführer
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin 1
+
+Binningerstrasse 21, 4051 Basel
+
+C____ Beschwerdegegner 2
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+D____ Beschwerdegegner 3
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+E____ Beschwerdegegnerin 4
+
+[...]                                                                                           Beschuldigte
+
+vertreten durch [...], Advokat,
+
+[...]
+
+F____ Beschwerdegegnerin 5
+
+[...]                                                                                          Beschuldigte
+
+vertreten durch [...], Advokat,
+
+[...]
+
+G____ Beschwerdegegner 6
+
+[...]                                                                                        
+Beschuldigter
+
+H____ Beschwerdegegner 7
+
+[...]                                             
+                                           Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Beschwerden gegen Verfügungen
+der Staatsanwaltschaft
+
+vom 23. Februar 2024
+
+betreffend Verfahrenseinstellung
+
+Sachverhalt
+
+Am 31. Juli 2017
+erstatteten A____ (nachfolgend: die Beschwerdeführerin) und B____ (nachfolgend:
+der Beschwerdeführer; beide zusammen: die Beschwerdeführer) Strafanzeige gegen C____,
+den damaligen Eigentümer ihrer Mietwohnung. Sie machten geltend, dieser habe
+wiederholt ihre Rollstühle während des Ladevorgangs eingeschaltet, wodurch die
+Elektronik beschädigt worden sei. In der Folge hätten Komponenten im Wert von
+mehreren Tausend Franken ausgetauscht werden müssen. Vermutlich habe C____ auch
+einen Reifen am Rollstuhl der Beschwerdeführerin zerstochen. Am
+3. August 2017 stellten die Beschwerdeführer Strafantrag.
+
+Am
+4. Juni 2020 zeigten die Beschwerdeführer der Staatsanwaltschaft überdies
+an, D____, E____ und F____ hätten die Beschwerdeführer mittels Androhung der
+fristlosen Kündigung ihrer Wohnung dazu genötigt, die Installation eines
+defekten und deshalb lebensgefährlichen Herds zu dulden. G____ und H____ hätten
+die Installation des Herds ausgeführt; C____ sei der dahinterstehende
+Auftraggeber gewesen. Gegen C____ stellte die Beschwerdeführerin am
+14. Oktober 2021 zudem Strafantrag, weil dieser unerlaubt ihre
+Wohnung betreten habe.
+
+Am
+21. Dezember 2022 kündigte die Staatsanwaltschaft den Abschluss der
+Untersuchung sowie die Einstellung der Verfahren an und gewährte Frist zum
+Stellen von Beweisanträgen. Innert erstreckter Frist beantragten die
+Beschwerdeführer die Einvernahme zweier Zeugen. Mit Verfügung vom
+8. August 2023 wurde der Antrag, den Zeugen [...] einzuvernehmen,
+gutgeheissen. Nach Einvernahme des Zeugen und der Abnahme weiterer Beweise
+stellte die Staatsanwaltschaft die Strafverfahren gegen C____, D____, E____, F____,
+G____ und H____ mit Verfügungen vom 23. Januar 2024 ein.
+
+Gegen diese
+Verfügungen haben die Beschwerdeführer mit Eingaben vom
+31. Januar 2024 Beschwerden erhoben. Sinngemäss beantragen sie,
+sämtliche Einstellungsverfügungen seien aufzuheben. Der vorliegende Entscheid
+ist aufgrund der Akten (einschliesslich der von der Staatsanwaltschaft
+eingereichten Verfahrensakten) ergangen. Die Einzelheiten der Parteistandpunkte
+ergeben sich  soweit sie für den Entscheid von Bedeutung sind  aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+Art. 385 Abs. 1 der Strafprozessordnung (StPO, SR 312.0) ist in der
+schriftlichen Begründung des Rechtsmittels anzugeben, welche Punkte des
+Entscheides angefochten werden, welche Gründe einen anderen Entscheid nahelegen
+und welche Beweismittel angerufen werden. Bei einer rechtsunkundigen Person
+werden an die Begründungspflicht praxisgemäss keine allzu strengen
+Anforderungen gestellt. Allerdings muss auch ein juristischer Laie zumindest
+sinngemäss angeben, inwiefern er den angefochtenen Entscheid für unrichtig
+respektive fehlerhaft hält (vgl. Bühler ,
+in: Basler Kommentar, 3. Aufl. 2023, Art. 385 StPO N 3; BGer 6B_280/2017
+E. 2.2.2; AGE BES.2020.69 vom 23. April 2020 E. 1.2). Die
+Beschwerde vom 31. Januar 2024 ist zwar lediglich summarisch
+begründet, jedoch geht daraus immerhin hervor, dass die Verfügung der Staatsanwaltschaft
+vom 23. Januar 2023 angefochten wird und die Beschwerdeführer an
+ihren bisher vertretenen Standpunkten festhalten. Damit ist den Anforderungen
+an eine Laienbeschwerde knapp genüge getan. Die Beschwerdeführer verfügen
+überdies über ein rechtlich geschütztes Interesse im Sinne von Art. 382 Abs. 1 StPO.
+Auf die nach Art. 396 Abs. 1 StPO frist- und formgerecht eingereichte
+Beschwerde ist daher einzutreten. Zuständiges Beschwerdegericht ist das
+Appellationsgericht als Einzelgericht (§ 88 Abs. 1 und 93 Abs. 1
+Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Die
+Kognition des Beschwerdegerichts ist frei und damit nicht auf Willkür
+beschränkt (Art. 393 Abs. 2 StPO).
+
+1.2 Da
+ein enger sachlicher Konnex zwischen den einzelnen Beschwerden vorliegt 
+sämtliche Vorwürfe stehen im Zusammenhang mit der Mietwohnung der
+Beschwerdeführer  und überdies auch die gleiche sachliche Zuständigkeit
+besteht, rechtfertigt es sich, die Beschwerdeverfahren im Sinne von Art. 30
+StPO zu vereinigen und darüber in einem einzigen Entscheid zu befinden.
+
+2.
+
+2.1 Eine
+Einstellung des Verfahrens darf nur unter bestimmten, von der StPO in
+Art. 319 aufgezählten, Gründen erfolgen (zum Ganzen Heiniger/Rickli , in: Basler Kommentar,
+3. Aufl. 2023, Art. 319 StPO N 1, 4 ff.). Gemäss
+Art. 319 Abs. 1 StPO verfügt die Staatsanwaltschaft die
+Einstellung des Verfahrens, wenn (lit. a) kein Tatverdacht erhärtet ist,
+der eine Anklage rechtfertigt, (lit. b) kein Straftatbestand erfüllt ist,
+(lit. c) Rechtfertigungsgründe einen Straftatbestand unanwendbar machen,
+(lit. d) Prozessvoraussetzungen definitiv nicht erfüllt werden können oder
+Prozesshindernisse aufgetreten sind oder (lit. e) nach gesetzlicher
+Vorschrift auf Strafverfolgung oder Bestrafung verzichtet werden kann. Die
+Staatsanwaltschaft hat sich beim Entscheid über eine Einstellung des Verfahrens
+in Zurückhaltung zu üben. In Zweifelsfällen tatsächlicher oder rechtlicher
+Natur ist das Verfahren in Beachtung des Grundsatzes «in dubio pro duriore»
+weiterzuführen und an das Gericht zu überweisen (vgl. BGE 138 IV 186
+E. 4; AGE BES.2020.75 vom 23. Dezember 2020 E. 3.1,
+BES.2020.38 vom 18. Mai 2020 E. 2.1; jeweils mit Hinweisen).
+
+2.2
+
+2.2.1 Zunächst
+ist auf die Einstellung des Verfahrens gegen C____ wegen Sachbeschädigung und
+Hausfriedensbruch zum Nachteil der Beschwerdeführerin einzugehen (Einstellungsverfügung,
+VT.[...], Ziff. 1, 5). Die Einstellung wurde damit begründet, dass kein
+gültiger Strafantrag vorliege (Art. 319 Abs. 1 lit. d StPO).
+
+Ein rechtzeitig
+eingereichter Strafantrag bildet eine Prozessvoraussetzung im Sinne von
+Art. 319 Abs. 1 lit. d StPO, bei dessen Fehlen ein
+Strafverfahren einzustellen ist ( Heiniger/Rickli ,
+a.a.O, Art. 319 StPO N 13). Die Frist für das Stellen eines
+Strafantrags beträgt drei Monate und beginnt mit dem Tag zu laufen, an welchem
+der antragsberechtigten Person Täter und Tat bekannt werden (Art. 31 des
+Schweizerischen Strafgesetzbuches [StGB, SR 311.0]; BGE 126 IV 131
+E. 2a). Mit Ablauf der Frist «erlischt» das Antragsrecht (vgl. Riedo, in: Basler Kommentar,
+4. Aufl. 2019, Art. 31 StGB N 1 ff.).
+
+Die
+Beschwerdeführerin stellte am 3. August 2017 Strafantrag wegen
+mutmasslicher Manipulationen an der Batterie ihres Rollstuhls und dem
+Zerstechen eines Reifens. Aus den Akten ist nicht ersichtlich, dass sich diese
+Handlungen innert drei Monaten vor Strafantragsstellung  also nach dem
+3. Mai 2017  ereignet hätten (Akten Staatsanwaltschaft, S. 253.
+263 f., 283; vgl. zur Fristberechnung BGer 6B_80/2018 vom
+25. April 2018 E. 2.3.2). Verspätet erfolgt ist auch der
+Strafantrag vom 14. Oktober 2021 wegen eines Hausfriedensbruchs, der
+sich am 12. Juni 2019 ereignet haben soll (Akten Staatsanwaltschaft, S. 626 ff.).
+Die Verfahrenseinstellung in diesen Punkten ist somit zu Recht erfolgt.
+
+2.2.2 Weiter
+zu überprüfen ist die Einstellung des Verfahrens gegen C____ wegen
+Sachbeschädigung und Diebstahl zum Nachteil des Beschwerdeführers (Einstellungsverfügung,
+VT.[...], Ziff. 2). Die Einstellung wurde damit begründet, dass der Tatbestand
+bzw. die Täterschaft nicht bewiesen werden könne (Art. 319 Abs. 1
+lit. a StPO).
+
+Die Schilderung
+des Beschwerdeführers, er habe C____ beim Anschalten der Batterie seines
+Rollstuhls ertappt, ist zwar grundsätzlich glaubhaft (vgl. Akten
+Staatsanwaltschaft, S. 267, 283). C____ bestreitet die Vorwürfe jedoch
+vehement (vgl. Akten Staatsanwaltschaft, S. 275) und es existieren
+keine objektiven Beweismittel, die die Aussagen des Beschwerdeführers zu
+stützen vermögen, zumal unklar ist, ob der Rollstuhl aufgrund dieses
+Ereignisses tatsächlich beschädigt wurde. Dass sich das Auto von C____ an
+diesem Tag vor der Nachbarsliegenschaft befunden haben soll (Akten Staatsanwaltschaft,
+S. 261), liefert lediglich einen Hinweis auf die Anwesenheit von C____. Für
+die Bildung einer dem direkten Beweis gleichgestellten geschlossenen
+Indizienkette hinsichtlich einer (versuchten) Sachbeschädigung reichen die
+Aussagen des Beschwerdeführers und das Foto des Autos von C____ mitnichten aus.
+
+Aufgrund des
+ausgesprochen konfliktbelasteten Verhältnisses der Beschwerdeführer zu C____ erscheint
+der Verdacht naheliegend, dass dieser für den Diebstahl der FCB-Fahne und der
+Handschuhe des Beschwerdeführers verantwortlich ist. C____ bestreitet jedoch
+auch diese Vorwürfe (vgl. Akten Staatsanwaltschaft, S. 275), es
+liegen keinerlei objektive Beweismittel vor und der Beschwerdeführer sagt gar
+selbst, er wisse nicht, wer für die Diebstähle verantwortlich sei (Akten
+Staatsanwaltschaft, S. 217).
+
+In Anbetracht der
+Beweislage erscheint eine Verurteilung von C____ wegen Diebstahl und/oder
+Sachbeschädigung äusserst unwahrscheinlich. Die diesbezügliche Verfahrenseinstellung
+ist damit zu Recht erfolgt.
+
+2.2.3 Weiter
+erfolgten Verfahrenseinstellungen betreffend die Vorwürfe der mehrfachen
+Nötigung durch C____, F____, E____ und D____ zum Nachteil der Beschwerdeführer (Einstellungsverfügung,
+VT.[...], Ziff. 3; VT.[...], Ziff. 1; VT.[...], Ziff. 1; VT.[...],
+Ziff. 1). Die Einstellungen wurden damit begründet, dass der Tatbestand
+nicht bewiesen werden könne (Art. 319 Abs. 1 lit. a StPO).
+
+Wer jemanden
+durch Gewalt, Androhung ernstlicher Nachteile oder durch andere Beschränkung
+seiner Handlungsfreiheit nötigt, etwas zu tun, zu unterlassen oder zu dulden,
+macht sich der Nötigung nach Art. 181 StGB schuldig. Geschütztes
+Rechtsgut ist die Handlungsfreiheit, genauer die freie Willensbildung und
+Willensbetätigung. Bei der Androhung ernstlicher Nachteile stellt der Täter dem
+Opfer ein Übel in Aussicht, dessen Eintritt er als von seinem Willen abhängig
+erscheinen lässt. Es kommt nicht darauf an, ob der Täter die Drohung wahrmachen
+will, sofern sie nur als ernst gemeint erscheinen soll. Ernstlich sind
+Nachteile, wenn ihre Androhung nach einem objektiven Massstab geeignet ist,
+auch eine besonnene Person in der Lage des Betroffenen gefügig zu machen und so
+seine Freiheit der Willensbildung oder Willensbetätigung zu beschränken (BGE
+122 IV 322 E. 1a, 120 IV 17 E. 2a/aa, je mit Hinweisen). Die Drohung muss eine
+gewisse Intensität aufweisen, die von Fall zu Fall und nach objektiven
+Kriterien festzulegen ist (vgl. zum Ganzen BGer 6B_363/2017 vom 21. März
+2018 E. 1.3). Sodann bedarf die Rechtswidrigkeit einer Nötigung einer
+besonderen Begründung. Nach gefestigter Rechtsprechung ist eine Nötigung nur
+dann unrechtmässig, wenn das Mittel oder der Zweck unerlaubt ist, wenn das
+Mittel zum erstrebten Zweck nicht im richtigen Verhältnis steht oder wenn die
+Verknüpfung zwischen einem an sich zulässigen Mittel und einem erlaubten Zweck
+rechtsmissbräuchlich oder sittenwidrig ist (BGE 137 IV 326 E. 3.3.1; BGer
+6B_793/2018 vom 9. Januar 2019 E. 2.2).
+
+Im Vordergrund
+stehen im vorliegenden Fall die Schreiben vom 11. Februar 2020 und
+9. April 2020 (Akten Staatsanwaltschaft, S. 308; act. 14,
+S. 1 f., 3 f.). Nachgewiesen ist, dass den Beschwerdeführern darin
+die Kündigung ihrer Wohnung angedroht wird. Wie diese jedoch selbst anmerken,
+findet die Installation des Herds darin keine Erwähnung (act. 13,
+S. 41). Den beiden Schreiben lässt sich lediglich die Forderung entnehmen,
+dass den Handwerkern der Zutritt zum Zweck der Behebung eines Wasserschadens gewährt
+werden solle. Die Verknüpfung des Mittels der Kündigungsandrohung zur
+Durchsetzung des Zutrittsrechts ist an sich nicht unzulässig (vgl. Weber, in: Basler Kommentar,
+7. Aufl. 2020, Art. 257h des Obligationenrechts [OR,
+SR 220] N 5). Somit existieren keinerlei Beweise, dass durch die
+Kündigungsandrohung die Installation des nichtbetriebssicheren Herdes hätte
+bezweckt werden sollen. Die Einstellung der Verfahren ist deshalb zu Recht
+erfolgt.
+
+2.2.4 Angefochten
+sind weiter die Einstellungen der Verfahren gegen C____ wegen Gefährdung des
+Lebens (Einstellungsverfügung, VT.[...], Ziff. 4) sowie gegen G____ (Einstellungsverfügung,
+VT.[...], Ziff. 1) und H____ (Einstellungsverfügung, VT.[...],
+Ziff. 1) wegen fahrlässiger Körperverletzung zum Nachteil der
+Beschwerdeführer. Die Einstellungen wurden damit begründet, dass Tatbestände
+nicht erfüllt seien bzw. nicht nachgewiesen werden könnten (Art. 319
+Abs. 1 lit. a und StPO).
+
+Der Gefährdung
+des Lebens gemäss Art. 129 StGB macht sich schuldig, wer einen Menschen in
+skrupelloser Weise in unmittelbare Lebensgefahr bringt. Eine konkrete,
+unmittelbare Lebensgefahr im Sinne von Art. 129 StGB liegt vor, wenn
+sich aus dem Verhalten des Täters direkt die Wahrscheinlichkeit oder nahe
+Möglichkeit der Todesfolge ergibt (vgl. BGE 133 IV 1 E. 5, BGer 6B_1258/2020
+vom 12. November 2021 E. 1.4 mit Hinweisen). Skrupellos ist ein in
+schwerem Grade vorwerfbares, ein rücksichts- oder hemmungsloses Verhalten.
+Subjektiv ist direkter Vorsatz in Bezug auf die unmittelbare Lebensgefahr
+erforderlich; Eventualvorsatz genügt nicht (BGE 133 IV 1 E. 5.1 mit
+Hinweisen).
+
+Die
+Verfahrenseinstellung betreffend den Vorwurf der Gefährdung des Lebens wurde unter
+anderem damit begründet, dass laut Aussagen von G____ und H____ die
+Installation des Kochherds auf ausdrückliche Bitte der Beschwerdeführer erfolgt
+sei. Diese Darstellung wird durch die Aussage des Zeugen [...] stark
+relativiert. Auf die Frage hin, wie die Beschwerdeführer darauf reagiert
+hätten, dass der defekte Kochherd wieder installiert worden sei, sagte dieser:
+«Sie waren die ganze Zeit ziemlich hässig und verzweifelt. [] Mehr als es
+sagen, hätten Frau [...] und Herr [...] nicht machen sollen. Sie [die Handwerker]
+haben gesagt, dass die den Auftrag vom Eigentümer hätten.» (Akten
+Staatsanwaltschaft, S. 733 ff.). Das ändert im Ergebnis jedoch nichts
+daran, dass die Verfahrenseinstellung zu Recht erfolgt ist, da C____ ein direkter
+Gefährdungsvorsatz für eine unmittelbare Lebensgefahr kaum nachweisbar ist. Eine
+fahrlässige Körperverletzung kann sodann mangels eingetretener Verletzung nicht
+vorliegen, weshalb die Einstellung der Verfahren gegen G____ und H____ ebenfalls
+zu Recht erfolgt ist.
+
+3.
+
+Nach dem
+Gesagten sind die Beschwerden abzuweisen, womit die unterliegenden
+Beschwerdeführer grundsätzlich kostenpflichtig würden. Umständehalber ist
+jedoch auf die Erhebung einer Gebühr zu verzichten.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerdeverfahren BES.2024.12, BES.2024.13,
+BES.2024.14, BES.2024.15, BES.2024.16 und BES.2024.17 werden vereinigt.
+
+Die Beschwerden werden abgewiesen.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Beschwerdeführerin
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Beschwerdegegner/innen 27
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur.
+Christian Hoenen                                         MLaw Martin Manyoki
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
