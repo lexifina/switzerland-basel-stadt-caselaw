@@ -1,0 +1,455 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.350"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2021.64"
+docket_2: "AG.2024.350"
+decided: "2024-04-25"
+published: "2025-02-12"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76945&W10_KEY=3048540&nTrefferzeile=24&Template=search_result_document.html"
+cites_decisions: ["1B_426/2015", "BGE 138 IV 86", "BGE 141 IV 380", "ES.2020.267", "ES.2020.268", "SB.2020.29"]
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# Nichtanhandnahme
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2021.64
+
+ENTSCHEID
+
+vom 25.
+April 2024
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und Gerichtsschreiber
+lic. iur. Christian Lindner
+
+Beteiligte
+
+A____ Beschwerdeführer
+
+ohne festen Wohnsitz
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21,4001 Basel
+
+B____ Beschwerdegegner
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+C____ Beschwerdegegner
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+D____ Beschwerdegegner
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+E____ Beschwerdegegner
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Beschwerde gegen Verfügungen
+der Staatsanwaltschaft
+
+vom 3. Mai 2021
+
+betreffend Nichtanhandnahme
+
+Sachverhalt
+
+Am 28. Mai 2018
+kam es zu einer tätlichen Auseinandersetzung zwischen Gästen und Angestellten
+der [...], die im Innern der Bar ihren Anfang nahm. Die Beteiligten begaben
+sich später via Lift auf den [...]. Der Beschwerdeführer A____ sowie [...] und [...]
+wurden durch die Staatsanwaltschaft angeklagt und am 8. November 2019
+durch das Strafgericht Basel-Stadt beurteilt. Der Beschwerdeführer wurde der
+einfachen Körperverletzung mit einem gefährlichen Gegenstand und des Raufhandels
+schuldig erklärt und zu einer bedingten Freiheitsstrafe von 12 Monaten verurteilt.
+Das Urteil ist nicht rechtskräftig und das Berufungsverfahren am
+Appellationsgericht hängig (SB.2020.29). Die auf der anderen Seite beteiligten B____
+sowie die Security-Mitarbeiter E____, D____ und C____ wurden mit Strafbefehlen
+des Raufhandels schuldig erklärt und erhoben dagegen jeweils Einsprache. Das
+Strafgericht hat sie inzwischen kostenlos freigesprochen (rechtskräftiger
+Entscheid ES.2020.268 vom 6. September 2022).
+
+Da A____ den
+Sachverhalt in den Strafbefehlen als unvollständig erachtete, da es auf dem [...]
+zu nicht angeklagten Übergriffen auf ihn gekommen sei, gelangte er mit
+Beschwerde vom 7. Dezember 2020 betreffend «Erlass einer Nichtanhandnahme oder
+Einstellungsverfügung» ans Appellationsgericht. Die Beschwerdeinstanz hiess
+seine Beschwerde mit Entscheid BES.2020.220 vom 4. März 2021 teilweise gut und
+wies die Staatsanwaltschaft an, bezüglich der vom Beschwerdeführer
+geschilderten Übergriffe vom 28. Mai 2018 auf bzw. um den [...] eine
+anfechtbare formelle Verfügung zu erlassen und entweder das Verfahren
+einzustellen oder die Nichtanhandnahme des Verfahrens zu verfügen. Am 3. Mai
+2021 erliess die Staatsanwaltschaft entsprechende Nichtanhandnahmeverfügungen.
+
+Dagegen hat A____
+mit Schreiben vom 11. Mai 2021 Beschwerde erhoben. Er beantragt, die
+Nichtanhandnahmeverfügungen seien aufzuheben und die Staatsanwaltschaft
+Basel-Stadt anzuweisen, in Bezug auf die Geschehnisse auf dem [...] vom 27. Mai
+2018 eine Strafuntersuchung durchzuführen und das Verfahren mit einer
+Einstellungsverfügung, einer Anklage beim Strafgericht Basel-Stadt oder dem
+Erlass eines Strafbefehls abzuschliessen. Unter o/e-Kostenfolge, wobei dem
+Beschwerdeführer die unentgeltliche Rechtspflege mit dem Unterzeichneten als unentgeltlichen
+Rechtsbeistand zu bewilligen sei.
+
+Die
+Staatsanwaltschaft hat mit Stellungnahme vom 27. Mai 2021 an der Richtigkeit
+ihrer Nichtanhandnahmeverfügungen festgehalten. Der Rechtsvertreter des
+Beschwerdeführers hat mit Replik vom 8. Juni 2021 an seinen Rechtbegehren
+festgehalten und seine Honorarnote eingereicht. Eine weitere Eingabe des
+Beschwerdeführers vom 25. März 2022 wurde zu den Akten genommen.
+
+Mit Schreiben
+vom 20. Dezember 2023 hat der zuständige Verfahrensleiter des Strafgerichts
+Basel-Stadt dem Appellationsgericht das schriftlich begründete Urteil
+ES.2020.267 des Einzelgerichts in Strafsachen vom 6. September 2022 mit
+Rechtskraftbescheinigung zugestellt (Freispruch der Beschwerdegegner von der
+Anklage wegen Raufhandels).
+
+Der Beschuldigte
+C____ hat mit Schreiben vom 14. März 2024 auf eine Stellungnahme verzichtet und
+ebenso E____ mit Schreiben vom 2. April 2024. Die Stellungnahme von D____
+datiert vom 18. März 2024. Er beantragt, die Beschwerde gegen die
+Nichtanhandnahmeverfügung sei kostenfällig abzuweisen. Es sei ihm eine
+angemessene Parteientschädigung zu Lasten des Beschwerdeführers zuzusprechen.
+Mit Stellungnahme vom gleichen Tag beantragt auch B____, es sei die Beschwerde
+vollumfänglich abzuweisen, soweit darauf einzutreten ist. Unter o/e-Kostenfolge
+zu Lasten des Beschwerdeführers; eventualiter sei B____ die unentgeltliche
+Prozessführung und Verbeiständung zu bewilligen.
+
+Die relevanten
+Einzelheiten der Parteistandpunkte ergeben sich aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Nichtanhandnahmeverfügungen
+der Staatsanwaltschaft können innert zehn Tagen mit Beschwerde bei der
+Beschwerdeinstanz angefochten werden (Art. 393 Abs. 1 lit. a sowie
+Art. 310 Abs. 2 in Verbindung mit Art. 322 Abs. 2 der Schweizerischen Strafprozessordnung
+[StPO, SR 312.0]). Zuständiges Beschwerdegericht ist das Appellationsgericht
+als Einzelgericht (§ 88 Abs. 1 und 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG; SG 154.100]). Die Kognition des
+Beschwerdegerichts ist frei und somit nicht auf Willkür beschränkt (Art. 393
+Abs. 2 StPO).
+
+1.2 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheids hat (Art. 382 Abs. 1
+StPO). Ein solches haben Anzeigesteller, welche durch die beanzeigten Delikte
+selbst und unmittelbar in ihren Rechten verletzt worden sind und ausdrücklich
+erklären, sich am Strafverfahren als Straf- oder Zivilkläger zu beteiligen
+(Art. 104 Abs. 1 lit. b StPO in Verbindung mit Art. 115 und 118 StPO;
+vgl. AGE BES.2015.77 vom 14. März 2016, BGE 141 IV 380 E. 2.3.1; BGer
+1B_426/2015 vom 17. Mai 2016 E. 1.4). Das ist beim Beschwerdeführer der
+Fall. Die Beschwerde ist form- und fristgerecht eingereicht worden (Art. 396
+Abs. 1 StPO), so dass auf sie einzutreten ist.
+
+2.
+
+2.1 Die
+Staatsanwaltschaft hat in den angefochtenen Nichtanhandnahmeverfügungen ausgeführt,
+gemäss Entscheid des Appellationsgerichts vom 4. März 2021 seien die erlassenen
+Strafbefehle in Bezug auf den Sachverhalt unvollständig. A____ habe anlässlich
+des Vorfalls vom 28. Mai 2018 eine bandförmige Hautunterblutung im Bereich der
+unteren Brustwirbelsäule linksseitig sowie aufgrund eines Faustschlags auf das
+rechte Auge eine unterblutete Schwellung des rechten Augenlids mit begleitenden
+Quetsch-Riss-Wunden an der rechten Wange erlitten. Da der Bereich seitlich des [...]
+nicht videoüberwacht sei und die Beschuldigten die Anschuldigungen von A____
+bestreiten bzw. von ihrem Aussageverweigerungsrecht Gebrauch machen würden,
+stellten die erwähnten Verletzungen in casu das einzige objektive Beweismittel
+für die Behauptung des Beschwerdeführers dar, wonach die Beschwerdegegner beim
+Zaun eine dritte körperliche Attacke auf ihn verübt hätten. Die Verletzungen
+von A____ seien offensichtlich nicht schwer und Tathandlungen, welche für eine
+versuchte schwere Körperverletzung sprechen würden (beispielweise Tritte gegen
+den Kopf), könnten den Beschuldigten aufgrund der Beweislage nicht
+rechtsgenüglich nachgewiesen werden. Auch das Verletzungsbild spreche eindeutig
+gegen eine versuchte schwere Körperverletzung. Zudem sei unklar, zu welchem
+Zeitpunkt (in der Bar oder draussen vor dem [...]) A____ die erlittenen
+Verletzungen zugefügt worden seien. Er selber habe immerhin angegeben, er sei
+bereits in der Bar ins Gesicht geschlagen worden. Damit seien die Straftatbestände
+des Angriffs, evtl. des Raufhandels, evtl. der versuchten schweren
+Körperverletzung im vorliegend interessierenden Handlungsabschnitt eindeutig
+nicht bzw. nicht zusätzlich erfüllt. Entsprechend sei das Strafverfahren gegen die
+Beschuldigten nicht an Hand zu nehmen.
+
+2.2 Der
+Beschwerdeführer wendet ein, es seien in der Tatnacht drei Handlungsabschnitte
+zu unterscheiden: Die Auseinandersetzung auf der Tanzfläche der [...], jene vor
+dem Lift und schliesslich die Auseinandersetzung draussen auf dem [...]. Im
+Strafbefehl, welchen die Staatsanwaltschaft erlassen habe, würden dem
+Beschuldigten B____ und den Türstehern lediglich Straftaten in den
+Handlungsabschnitten eins und zwei vorgeworfen. Die wesentlichen mutmasslich
+strafbaren Handlungen hätten jedoch im Handlungsabschnitt drei stattgefunden
+und würden im Strafbefehl nicht thematisiert. Nachdem das Appellationsgericht
+die Staatsanwaltschaft mit Beschwerdeentscheid BES.2020.220 vom 4. März 2021
+verpflichtet habe, diesbezüglich eine Nichtanhandnahme oder Einstellung des
+Verfahrens zu verfügen habe diese ersteres getan. Gegen diese
+Nichtanhandnahmeverfügungen wird nun vorgebracht, dass eine Nichtanhandnahme
+nach bereits erfolgter Eröffnung einer Untersuchung gar nicht mehr möglich sei.
+Weiter verstosse die Nichtanhandnahme gegen Art. 310 Abs. 1 lit. a StPO,
+gemäss welchem die Staatsanwaltschaft die Nichtanhandnahme nur dann verfüge,
+wenn aufgrund der Strafanzeige oder des Polizeirapports feststeht, dass die
+fraglichen Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht
+erfüllt sind (lit. a), Verfahrenshindernisse bestehen (lit. b) oder aus den in
+Art. 8 StPO genannten Gründen auf eine Strafverfolgung zu verzichten ist (lit.
+c). Eine Strafuntersuchung sei demgegenüber zu eröffnen, wenn sich aus den
+Informationen und Berichten der Polizei, aus der Strafanzeige oder aus den
+eigenen Feststellungen der Staatsanwaltschaft ein hinreichender Tatverdacht ergebe
+(Art. 309 Abs. 1 lit. a StPO). Die Frage, ob ein Strafverfahren über eine
+Nichtanhandnahme erledigt werden könne, beurteile sich nach dem aus dem
+Legalitätsprinzip abgeleiteten Grundsatz «in dubio pro duriore» (Art. 5 Abs. 1
+BV und Art. 2 Abs. 1 StPO i.V.m. Art. 319 Abs. 1 und Art. 324 Abs. 1 StPO; BGE
+138 IV 86 E. 4.2). Eine Nichtanhandnahme durch die Staatsanwaltschaft gestützt
+auf Art. 310 Abs. 1 lit. a StPO dürfe nach der Rechtsprechung nur in
+sachverhaltsmässig und rechtlich klaren Fällen ergehen. In den angefochtenen
+Nichtanhandnahmeverfügungen mache die Staatsanwaltschaft einzig Ausführungen
+zum Straftatbestand der versuchten schweren Körperverletzung bzw. wieso eine
+versuchte schwere Körperverletzung eindeutig nicht vorliege, jedoch nicht zum
+Tatbestand des Angriffs. Ein sachverhaltsmässig und rechtlich klarer Fall von
+eindeutig straflosem Verhalten der Beschuldigten liege alleine schon aufgrund
+der vorhandenen Videoauswertung nicht vor. Es sei ein einseitiger körperlicher
+Übergriff durch mehrere Personen zum Nachteil des Beschwerdeführers erfolgt. Gegen
+eindeutig strafloses Verhalten der Beschwerdegegner spreche auch, dass die
+Polizei telefonisch durch [...] um Hilfe gebeten worden sei, was reine Täter
+normalerweise nicht tun würden. Es bestehe somit die Vermutung für einen
+Angriff, welcher genauer abzuklären und dann anzuklagen gewesen wäre. Die
+angefochtenen Nichtanhandnahmeverfügungen seien deshalb aufzuheben und die
+Staatsanwaltschaft anzuweisen, das Verfahren mit einer Einstellungsverfügung
+(welche allerdings ebenfalls gegen den Grundsatz «in dubio pro duriore»
+verstossen würde) bzw. mit einer Anklage oder einem Strafbefehl abzuschliessen.
+
+2.3 Die
+Staatsanwaltschaft hat in ihrer Stellungnahme entgegnet, entgegen der
+Auffassung des Rechtsvertreters des Beschwerdeführers sei in casu der Erlass
+einer Nichtanhandnahmeverfügung sehr wohl möglich gewesen, beziehe sich diese
+doch ausschliesslich auf den als dritten Handlungsabschnitt bezeichneten Teil
+des Sachverhalts (draussen neben dem [...]). Diesbezüglich sei bisher ja eben
+gerade kein Verfahren eröffnet worden, was vom Beschwerdeführer immer wieder
+moniert worden sei und unter anderem auch Gegenstand des letzten
+Beschwerdeverfahrens (BES.2020.220) gebildet habe. Im Übrigen wird auf weitere
+Ausführungen zur Beschwerde vom 11. Mai 2021 verzichtet und auf die Begründung
+der Nichtanhandnahmeverfügungen vom 3. Mai 2021 verwiesen.
+
+2.4 Der
+Beschuldigte hat mit seiner Replik ergänzt, es stelle sich entgegen der Ansicht
+der zuständigen Staatsanwältin nicht nur die Frage, ob eine Nichtanhandnahmeverfügung
+im zu beurteilenden Fall theoretisch möglich sei, sondern ob es rechtlich
+zulässig sei, im konkreten Fall eine Nichtanhandnahmeverfügung zu erlassen, was
+bei den deutlichen Anzeichen für einen Angriff nicht der Fall sei. Es wird
+gerügt, dass die Ermittlungen betreffend die Geschehnisse dieser Tatnacht
+einseitig verlaufen seien und die Staatsanwaltschaft die Verfahren gegen die
+Türsteher und B____ von Anfang an nicht habe durchführen wollen und später
+versucht habe, die Sache in einem Einigungsverfahren zu erledigen.
+
+2.5 Der
+Beschwerdegegner D____ hat mit seinem Antrag auf Abweisung der Beschwerde auf
+die Stellungnahme der Staatsanwaltschaft verwiesen.
+
+2.6 Der
+Beschwerdegegner B____ hat geäussert, der Erlass einer
+Nichtanhandnahmeverfügung sei korrekt gewesen, da sich zum Zeitpunkt der
+Anzeigeerstattung nicht zweifelsfrei ergeben habe, dass sich der Privatkläger
+die beklagte Verletzung tatsächlich auf dem [...] zugezogen hatte. Soweit der
+Beschwerdegegner B____ wegen Raufhandels zum Nachteil des Privatklägers
+strafrechtlich verfolgt worden sei, sei die von Herrn A____ zugezogene
+Verletzung als Folge der Auseinandersetzung in der [...] gewertet worden.
+Denkbar wäre eine Eventualanklage gewesen, wonach sich A____ entweder bei der
+ersten oder der vermeintlich zweiten Auseinandersetzung auf dem [...] eine
+entsprechende Verletzung zugezogen hätte. Da der Beschwerdeführer jedoch
+zumindest implizit erklärt habe, während der Auseinandersetzung in der [...]
+selbst einen Schlag ins Gesicht bekommen zu haben, könnten die seinerseits
+erlittenen Verletzungen allenfalls für diesen ersten Abschnitt angenommen
+werden, so dass kein Raum dafür bleibe, den zweiten Vorfall auf dem [...] als
+Raufhandel einzustufen, da die objektive Tatbestandsbedingung der dabei erlittenen
+zumindest einfachen Körperverletzung offensichtlich nicht erfüllt sein könne.
+Auch seitens des Appellationsgerichts werde im Entscheid vom 4. März 2021
+(BES.2020.220) ausgeführt, es hätte eine Nichtanhandnahmeverfügung resp. eine
+Einstellungsverfügung erlassen werden müssen, was nunmehr geschehen sei. Der
+Beschwerdeführer bringe nichts vor, das in Bezug auf die Auseinandersetzung auf
+dem Messplatz die erwähnte objektive Tatbestandsbedingung belegen würde. Er
+begnüge sich mit Ausführungen von allfälligen Gewalttätigkeiten gegen seinen
+Mandanten, welche sich gegebenenfalls ereignet hätten. Hinweise oder Indizien,
+dass der Privatkläger im Rahmen der Auseinandersetzung auf dem [...] zumindest im
+Sinne von Art. 123 StGB verletzt worden wäre, fänden sich weder in der
+Beschwerde noch in den Verfahrensakten. Ohne den objektiven Eintritt einer
+einfachen Körperverletzung könnten die Tatbestände des Raufhandels/Angriffs
+niemandem zugeordnet werden, weshalb die Strafverfolgung gegen B____ in diesem
+Punkt zu recht nicht an Hand genommen worden sei.
+
+2.7 Es
+ist dem Beschwerdeführer beizupflichten, dass die in den Akten des Verfahrens
+SB.2020.29 enthaltenen Standbilder der vorhandenen Videoaufzeichnungen auf dem
+[...] klar zeigen, dass es ausserhalb des [...] nach dem in den Strafbefehlen
+bzw. der Anklageschrift im Verfahren ES.2020.268 geschilderten Sachverhalt zu
+körperlichen Übergriffen auf ihn gekommen ist. Es trifft somit weder zu, dass als
+objektive Beweismittel für die behaupteten Vorfälle auf dem [...] einzig die Verletzungen
+des Beschwerdeführers vorliegen würden, noch dass diesbezüglich keine
+Videoaufnahmen vorhanden seien.
+
+Nachdem erstellt
+ist, dass es diese Übergriffe gegeben hat, stellt sich die Frage nach einer
+diesem Vorfall zuordenbaren Verletzung, welche als objektive
+Strafbarkeitsbedingung von Art. 133 oder 134 StGB mindestens die Qualität einer
+einfachen Körperverletzung im Sinne von Art. 123 StGB aufweisen müsste. Es
+wurde in den Strafbefehlen gegen die Beschwerdegegner ausgeführt, A____ habe
+aufgrund stumpfer Gewalteinwirkung eine bandförmige Hautunterblutung im Bereich
+der unteren Brustwirbelsäule linksseitig sowie aufgrund eines Faustschlags auf
+das rechte Auge eine unterblutete Schwellung des rechten Augenlids mit
+begleitenden Quetsch-Riss-Wunden an der rechten Wange erlitten. Der
+Beschwerdegegner B____ vertritt die Ansicht, dass der Beschwerdeführer «zumindest
+implizit» erklärt habe, während der Auseinandersetzung in der [...] einen
+Schlag ins Gesicht bekommen zu haben, womit die erlittenen Verletzungen
+allenfalls für diesen ersten Abschnitt angenommen werden könnten und nicht als
+Folge der Geschehnisse auf dem [...], womit der Tatbestand des Raufhandels (Anmerkung:
+oder des Angriffs) ausser Betracht falle. Der Beschwerdeführer selbst gibt sich
+hingegen überzeugt, sich die diagnostizierten Verletzungen in der dritten Phase
+auf dem [...] zugezogen zu haben. Damit übereinstimmend wird im inzwischen
+vorliegenden Entscheid des Strafgerichts ES.2020.268 vom 6. September 2022
+ausgeführt, dass A____ zu Protokoll gegeben habe, lediglich die Verletzungen an
+seinem Arm seien vor dem Lift (durch Abwehr von Schlägen) entstanden, seine
+anderen Verletzungen seien ihm nicht dort, sondern «draussen vor dem Eingang»
+zugefügt worden. Anlässlich der rechtsmedizinischen Untersuchung hätten an den Armen
+von A____ jedoch keine Verletzungen festgestellt werden können. Vor diesem
+Hintergrund erscheine es zweifelhaft und damit nicht mit genügender Sicherheit
+erwiesen, ob die im rechtsmedizinischen Gutachten dokumentierten und von der
+Staatsanwaltschaft in den Strafbefehlen aufgeführten Verletzungen anlässlich
+des zur Diskussion stehenden Sachverhalts entstanden seien (Urteil Strafgericht
+S. 16, E.4.). Es ist somit keineswegs erstellt, dass die festgestellten
+Verletzungen bereits vorbestanden hatten, als es auf dem [...] zu einem
+weiteren Zusammentreffen der Kontrahenten kam.
+
+Es ist bei
+dieser Ausgangslage nicht zu antizipieren, dass eine Anklage der
+Beschwerdegegner wegen der Geschehnisse auf dem [...] mit überwiegender
+Wahrscheinlichkeit zu einem Freispruch führen würde. Es ist nicht anzunehmen,
+dass die Staatsanwaltschaft nach Gutheissung der Beschwerde wegen
+Rechtsverweigerung (Entscheid BES.2020.220 vom 4. März 2021) ergänzende
+Sachverhaltsabklärungen getroffen hat, da sie sich im vorliegenden Verfahren
+nicht dahingehend geäussert hat. Sie ist daher anzuweisen, die zur Verfügung
+stehenden und erforderlichen Ermittlungshandlungen betreffend die Geschehnisse
+auf dem [...] vorzunehmen und das Verfahren danach in Anwendung des Grundsatzes
+«in dubio pro duriore» mit Strafbefehl abzuschliessen oder zur Anklage zu
+bringen. Über die rechtliche Qualifikation des Sachverhalts wird die
+Staatsanwaltschaft nach Abschluss der Ermittlungen zu entscheiden haben.
+
+3.
+
+3.1 Die
+Beschwerde wird gutgeheissen, und es werden keine Gerichtskosten erhoben.
+
+3.2 Dem
+Beschwerdeführer wird die unentgeltliche Rechtspflege bewilligt und seinem Rechtsvertreter
+ein Honorar gemäss eingereichter Kostennote vom 8. Juni 2021 ausgerichtet. Für
+die Beträge wird auf das Entscheiddispositiv verwiesen.
+
+3.3 Der
+Beschwerdegegner B____ hat ebenfalls die Gewährung der unentgeltlichen
+Rechtspflege beantragt. Zwar hat er seine aktuelle finanzielle Situation nicht
+ausgeführt und belegt, da er jedoch bereits im Verfahren vor Strafgericht
+amtlich verteidigt war, kann davon ausgegangen werden, dass er nach wie vor
+Anspruch auf unentgeltliche Verbeiständung hat. Mangels eingereichter
+Kostennote wird der Aufwand für die Stellungnahme im vorliegenden Verfahren auf
+2 Stunden geschätzt und zum üblichen Stundensatz von CHF 200.‒
+entschädigt (zzgl. 8,1 % MWST).
+
+3.4 Die
+von D____ beantragte unbezifferte Parteientschädigung zu Lasten des Beschwerdeführers
+ist bei diesem Ausgang des Verfahrens abzuweisen.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird gutgeheissen und die
+Staatsanwaltschaft angewiesen, das Verfahren betreffend die Geschehnisse auf
+dem [...] nach Abschluss der Ermittlungen mit Strafbefehl abzuschliessen oder
+zur Anklage zu bringen.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Dem Beschwerdeführer wird die unentgeltliche
+Rechtspflege bewilligt und seinem Rechtsvertreter, [...], aus der Gerichtskasse
+ein Honorar von CHF 1480.‒ und eine Spesenvergütung von CHF 44.35
+zuzüglich 7,7 % MWST von insgesamt CHF 117.35, insgesamt also CHF 1641.70
+ausgerichtet.
+
+Dem Beschwerdegegner B____ wird die unentgeltliche
+Rechtspflege bewilligt und seinem Rechtsvertreter, [...], ein Honorar von CHF
+400.‒ (inkl. Auslagen, zzgl. 8,1 % MWST von CHF 32.40) ausgerichtet.
+
+Die von D____ geforderte Parteientschädigung zu Lasten des
+Beschwerdeführers wird abgewiesen.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Beschwerdegegnerschaft
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur.
+Christian Hoenen                                         lic. iur. Christian
+Lindner
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
