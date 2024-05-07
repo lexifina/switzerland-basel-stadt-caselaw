@@ -1,0 +1,301 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.287"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2024.17"
+docket_2: "AG.2024.287"
+decided: "2024-05-07"
+published: "2025-05-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76816&W10_KEY=3048461&nTrefferzeile=430&Template=search_result_document.html"
+cites_decisions: ["5A_170/2023", "ZB.2021.19", "ZB.2023.9", "ZB.2024.17"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-731b.md", "switzerland/bund/acts/220/art-819.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-311.md"]
+---
+
+# Auflösung einer Gesellschaft (Art. 731b OR) (Beschwerde am BG)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2024.17
+
+ENTSCHEID
+
+vom 7. Mai 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und a.o.
+Gerichtsschreiber MLaw Basil Grötzinger
+
+Parteien
+
+A____ GmbH in Liquidation Berufungsklägerin
+
+[...]                                                                                          
+Gesellschaft
+
+Gegenstand
+
+Berufung gegen einen Entscheid
+des Zivilgerichts Basel-Stadt
+
+vom 27. März 2024
+
+betreffend Auflösung einer
+Gesellschaft (Art. 731b OR)
+
+Sachverhalt
+
+Die A____ GmbH (heute: [...] GmbH in Liquidation,
+nachfolgend: die Gesellschaft) bezweckt den Verkauf von [...]. Ihr Sitz befindet
+sich seit dem 14. Februar 2023 in Basel. Im Handelsregister war als Domizil-adresse
+[...], eingetragen. Nach Ansicht des Handelsregisteramts Basel-Stadt hatte die
+Gesellschaft an ihrem Sitz kein Rechtsdomizil mehr, weil sie an der
+eingetragenen Adresse über keine Geschäftsräumlichkeiten verfügt habe. Das
+Handelsregister forderte die Gesellschaft mit Schreiben vom 14. November 2023
+und Publikation im Schweizerischen Handelsamtsblatt (SHAB) vom 29. November
+2023 auf, den geltend gemachten Mangel zu beheben. Nachdem die Gesellschaft auf
+diese Aufforderungen nicht reagiert hatte, überwies das Handelsregisteramt die
+Angelegenheit zwecks Ergreifung der erforderlichen Massnahmen mit Schreiben vom
+22. Januar 2024 dem Zivilgericht Basel-Stadt. Das Zivilgericht verfügte am 23.
+Januar 2024, dass die Mitteilung des Handelsregisteramts vom 22. Januar
+2024 der Gesellschaft zugestellt werde und dass die Gesellschaft die
+Möglichkeit erhalte, bis zum 8. März 2024, einmal erstreckbar, den
+Nachweis zu erbringen, dass der vom Handelsregisteramt gemeldete
+organisatorische Mangel behoben sei, oder innert der gleichen Frist den Mangel
+zu bestreiten und bzw. oder eine mündliche Verhandlung zu beantragen. Die
+Verfügung vom 23. Januar 2024 wurde der Gesellschaft am 29. Januar 2024 an der
+im Handelsregister eingetragenen Domiziladresse zugestellt. Nachdem die
+Gesellschaft innert der angesetzten Frist nicht reagiert hatte, löste das Zivilgericht
+mit Entscheid vom 13. März 2024 die Gesellschaft gemäss Art. 731b Abs. 1 bis Ziff. 3 des Schweizerischen Obligationenrechts (OR, SR 220) auf und ordnete
+ihre Liquidation nach den Vorschriften über den Konkurs an. Dieser Entscheid
+wurde durch Zustellung des Dispositivs ohne schriftliche Begründung eröffnet.
+Die Zustellung erfolgte am 15. März 2024 an der im Handelsregister angegebenen
+Domiziladresse der Gesellschaft.
+
+Mit Eingabe vom 26. März 2024 wandte sich die Gesellschaft an
+das Zivilgericht und ersuchte dieses um eine Überprüfung seines Entscheids. Das
+Zivilgericht nahm die Eingabe als sinngemässen Antrag auf schriftliche
+Begründung entgegen und wies diesen mit Entscheid vom 27. März 2024 wegen
+Verspätung ab. Der schriftlich begründete Entscheid wurde der Gesellschaft am
+28. März 2024 an ihrer im Handelsregister angegebenen Domiziladresse
+zugestellt.
+
+Mit Eingabe vom 15. April 2024 erhob die Gesellschaft beim
+Appellationsgericht Berufung gegen den Entscheid des Zivilgerichts Basel-Stadt
+vom 27. März 2024. Der vorliegende Entscheid erging unter Beizug der Akten auf
+dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+Mit dem angefochtenen Entscheid wies das Zivilgericht den
+sinngemässen Antrag der Gesellschaft auf schriftliche Begründung seines
+Entscheids vom 13. März 2024 ab. Der Entscheid, mit dem der Antrag
+auf schriftliche Begründung eines Entscheids abgewiesen wird, ist ein
+Endentscheid, der mit dem gleichen Rechtsmittel innert der gleichen Frist
+angefochten werden kann wie der Entscheid, dessen Begründung verweigert wird
+(BGer 5A_170/2023 vom 13. Oktober 2023 E. 4.1.5 mit Nachweisen). Mit dem
+Entscheid, dessen Begründung es verweigert hat, hatte das Zivilgericht die
+Gesellschaft gemäss Art. 731b Abs. 1 bis Ziff. 3 in Verbindung mit
+Art. 819 OR aufgelöst. Ein solcher Entscheid ist mit Berufung anfechtbar,
+wenn der Streitwert mindestens CHF 10'000. beträgt (Art. 308 Abs. 1
+lit. a und Abs. 2 der Schweizerischen Zivilprozessordnung [ZPO, SR 272];
+AGE ZB.2023.9 vom 25. Mai 2023 E. 1). Da das Stammkapital der Gesellschaft
+CHF 20'000. beträgt, ist diese Voraussetzung erfüllt (vgl. zur
+Streitwertberechnung eingehend AGE ZB.2021.19 vom 10. Juni 2021 E. 1.1 mit
+Nachweisen). Zur Beurteilung der Berufung ist das Dreiergericht des
+Appellationsgerichts zuständig (§ 92 Abs. 1 Ziff. 6 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+Die Frist für die schriftliche und begründete Einreichung der
+Berufung beträgt zehn Tage seit der Zustellung des begründeten Entscheids (Art.
+314 Abs. 1 in Verbindung mit Art. 248 lit. e und Art. 311 Abs. 1 ZPO; AGE
+ZB.2023.9 vom 25. Mai 2023 E. 1, ZB.2021.19 vom 10. Juni 2021 E. 1.2). Der
+angefochtene Entscheid wurde der Gesellschaft am 28. März 2024 zugestellt.
+Damit endete die Berufungsfrist am 8. April 2024. Die Berufung wurde am 15.
+April 2024 und damit nach Ablauf der Berufungsfrist am Schalter des
+Appellationsgerichts abgegeben.
+
+2.
+
+2.1 Die Gesellschaft gesteht zu, dass sie die
+Berufungsfrist versäumt hat, ersucht aber sinngemäss um Wiederherstellung
+dieser Frist.
+
+2.2 Gemäss Art. 148 Abs. 1 ZPO kann das Gericht
+einer säumigen Partei eine Nachfrist gewähren, wenn sie glaubhaft macht, dass
+sie kein oder nur ein leichtes Verschulden trifft. Das leichte Verschulden
+umfasst jedes Verhalten, das  ohne dass es akzeptierbar oder entschuldbar wäre
+ nicht zum schwerwiegenden Vorwurf gereicht. Ein die Wiederherstellung der
+Frist ausschliessendes grobes oder schweres Verschulden setzt die Verletzung
+einer elementaren Vorsichtsregel voraus, die sich zwingend jeder vernünftigen
+Person aufdrängt. Inwiefern die Partei oder ihre Vertretung ein leichtes oder
+ein schweres Verschulden trifft, beurteilt sich nach einem objektivierten
+Sorgfaltsmassstab (AGE BEZ.2022.2 vom 15. Juni 2022 E. 3.1 mit Nachweisen). Die
+Beweislast für den behaupteten Wiederherstellungsgrund trägt die säumige
+Partei. Die materiellen Voraussetzungen der Wiederherstellung sind von ihr
+glaubhaft zu machen. Das Gericht darf sich nicht unbesehen auf die Begründung
+des Wiederherstellungsgesuchs verlassen. Für den Wiederherstellungsgrund müssen
+objektive Anhaltspunkte vorliegen. Im Wiederherstellungsgesuch muss der Grund
+für die beantragte Wiederherstellung genau angegeben werden. Zudem ist dieser,
+soweit möglich, durch entsprechende Nachweise zu belegen. Dies bedeutet, dass
+die verfügbaren Beweismittel mit dem Wiederherstellungsgesuch eingereicht
+werden müssen. Das Gericht ist nicht verpflichtet, der Partei Gelegenheit zur
+Ergänzung des Wiederherstellungsgesuchs einzuräumen (AGE BEZ.2022.2 vom 15.
+Juni 2022 3.2 mit Nachweisen).
+
+2.3 Die Gesellschaft scheint geltend machen zu
+wollen, sie habe die Berufung wegen einer «unglücklichen Verkettung
+organisatorischer Schwierigkeiten in Verbindung mit der internen Weiterleitung
+unserer Post über einen Drittanbieter» nicht fristgerecht einreichen können.
+Die behaupteten organisatorischen Schwierigkeiten in Verbindung mit der
+internen Weiterleitung der Post sollen offenbar darin bestehen, dass der
+Drittanbieter die eingehende Post nur einmal wöchentlich an ihre Organe
+weiterleite. Andere organisatorische Schwierigkeiten werden in der Eingabe der
+Gesellschaft vom 15. April 2024 nicht einmal substanziiert behauptet und können
+daher von vornherein nicht berücksichtigt werden. Die behauptete wöchentliche
+Weiterleitung der Post wurde von der Gesellschaft nicht ansatzweise belegt,
+obwohl ihr dies beispielsweise durch Einreichung einer Kopie einer
+entsprechenden Vereinbarung mit dem Drittanbieter ohne weiteres möglich gewesen
+wäre. Mangels Glaubhaftmachung kann folglich auch dieser Umstand nicht berücksichtigt
+werden. Damit fehlt es bereits an einem Hindernis für die Fristwahrung.
+
+Selbst wenn der Drittanbieter die an der Domiziladresse der
+Gesellschaft zugestellte Post ihren Organen nur einmal pro Woche weitergeleitet
+hätte und am Karfreitag, den 29. März 2024 keine Weiterleitung erfolgt wäre,
+hätte der Entscheid spätestens am 5. April 2024 weitergeleitet werden
+müssen. Gemäss der Darstellung der Gesellschaft (Eingabe vom 26. März 2024)
+wurde ein am Freitag 22. März 2024 weitergeleitetes Schreiben von ihren Organen
+am Montag 25. März 2024 bearbeitet. Damit ging die am Freitag weitergeleitete
+Post den Organen spätestens am folgenden Montag zu. Weshalb eine Weiterleitung
+vom 5. April 2024 mehr Zeit hätte in Anspruch nehmen sollen, ist nicht ersichtlich
+und wird nicht dargelegt. Folglich ist selbst bei Wahrunterstellung der
+Behauptung der Gesellschaft davon auszugehen, dass ihre Organe den
+angefochtenen Entscheid allerspätestens am 8. April 2024 erhalten hätten. Unter
+diesen Umständen wäre es ihnen ohne weiteres möglich gewesen, die bloss gut
+eine Seite umfassende Berufung gleichentags zu verfassen und der Schweizerischen
+Post zu übergeben. Damit hätten sie die Berufungsfrist wahren können.
+
+Schliesslich träfe die Organe der Gesellschaft an diesem
+Hindernis ein grobes Verschulden, wenn die behauptete wöchentliche
+Weiterleitung der Post sie entgegen den vorstehenden Feststellungen an der
+fristgerechten Einreichung der Berufung gehindert hätte. Bereits zur
+Begründung, weshalb sie die schriftliche Begründung des Entscheids des
+Zivilgerichts vom 13. März 2024 nicht rechtzeitig verlangt hat, hat die
+Gesellschaft in ihrer Eingabe vom 26. März 2024 geltend gemacht, es sei bei der
+Zustellung wichtiger Dokumente zu Verzögerungen gekommen, weil der
+Drittanbieter die Geschäftspost ihren Organen nur einmal pro Woche
+weitergeleitet habe. Beispielsweise sei der am 15. März 2024 zugestellte
+Entscheid vom Drittanbieter erst am 22. März 2024 versendet und am 25.
+März 2024 von den Organen der Gesellschaft bearbeitet worden. Für den Fall,
+dass die wöchentliche Weiterleitung der Post die Organe der Gesellschaft an der
+Einhaltung einer zehntägigen Frist gehindert hätte, ergibt sich aus der
+Darstellung in ihrem Schreiben vom 26. März 2024, dass ihnen dieses Problem
+bestens bekannt war. Falls der angefochtene Entscheid die Organe der
+Gesellschaft nicht rechtzeitig vor Ablauf der Berufungsfrist erreicht hätte,
+liesse sich dies nur damit erklären, dass die Organe es unterlassen haben, eine
+rechtzeitige Weiterleitung sicherzustellen, obwohl sie damit rechnen mussten,
+ohne entsprechende Massnahmen Fristen zu versäumen. Damit haben sie eine
+elementare Vorsichtsregel verletzt, die sich zwingend jeder vernünftigen Person
+aufdrängt.
+
+Mit Eingabe vom 30. April 2024 (Abgabe am Schalter des Appellationsgerichts
+am 2. Mai 2024) macht die Gesellschaft erstmals geltend, ihre Organe
+hätten auf die Verfügung vom 23. Januar 2024, mit der ihr das Zivilgericht eine
+Frist bis 8. März 2024 angesetzt hat für den Nachweis der Behebung der vom
+Handelsregisteramt gemeldeten organisatorischen Mängel, nicht nur wegen
+verspäteten Erhalts der Sendung, sondern auch wegen eines privaten Notfalls
+nicht rechtzeitig reagieren können. Um ein enges Familienmitglied ihrer Organe
+während einer Krebsbehandlung zu begleiten, seien mehrfache Aufenthalte in
+Frankfurt erforderlich gewesen. Diese schwerwiegenden familiären Umstände
+hätten zu Verzögerungen bei der Bearbeitung der Angelegenheiten der
+Gesellschaft geführt. Ein Säumnisgrund ist innert zehn Tagen seit seinem Wegfall
+geltend zu machen (vgl. Art. 148 Abs. 2 ZPO). Im Zeitpunkt ihrer Eingabe vom
+15. April 2024 waren die Organe der Gesellschaft offensichtlich in der Lage,
+zur Wahrung ihrer Interessen eine Eingabe an das Gericht zu verfassen. Folglich
+ist davon auszugehen, dass ein allfälliges Hindernis für fristgerechtes Handeln
+in der Form des behaupteten privaten Notfalls vor dem 15. April 2024
+weggefallen ist. Die Geltendmachung des behaupteten privaten Notfalls mit
+Eingabe vom 30. April 2024 ist damit verspätet. Im Übrigen wären die
+Ausführungen in der Eingabe vom 30. April 2024 ohnehin nicht geeignet, eine
+Wiederherstellung der Berufungsfrist zu begründen. Mangels jeglicher Angaben
+dazu, wann sich welches ihrer Organe in Frankfurt befunden haben soll, ist
+selbst bei Wahrunterstellung der Darstellung der Gesellschaft nicht
+ersichtlich, ob die behaupteten Auslandaufenthalte irgendeinen Einfluss auf die
+Möglichkeit der Wahrung der Berufungsfrist gehabt haben. Die Darstellung in der
+Eingabe vom 30. April 2024 erweckt eher den Eindruck, als ob der
+behauptete familiäre Notfall nur während des erstinstanzlichen Verfahrens
+bestanden haben soll. Schliesslich ist die Gesellschaft für die behaupteten
+Auslandaufenthalte auch jeglichen Beleg schuldig geblieben.
+
+Aus den vorstehenden Erwägungen folgt, dass das sinngemässe
+Fristwiederherstellungsgesuch abzuweisen ist.
+
+3.
+
+Zusammenfassend hat die Gesellschaft die Berufungsfrist
+versäumt (oben E. 1.2) und ist ihr sinngemässes
+Fristwiederherstellungsgesuch abzuweisen (oben E. 2). Folglich ist auf
+ihre Berufung wegen Nichteinhaltung der Berufungsfrist nicht einzutreten.
+
+Entsprechend dem Ausgang des Berufungsverfahrens hat die
+Gesellschaft dessen Kosten zu tragen (vgl. Art. 106 Abs. 1 ZPO). Die
+Gerichtskosten des Berufungsverfahrens werden in Anwendung von § 10 Abs. 1 in
+Verbindung mit § 12 Abs. 1 des Gerichtsgebührenreglements (GGR, SG 154.810) auf
+CHF 500. festgesetzt.
+
+Demgemäss erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf die Berufung gegen den Entscheid des
+Zivilgerichts Basel-Stadt vom 27. März 2024 (V.2024.81) wird nicht
+eingetreten.
+
+Die Berufungsklägerin trägt die Gerichtskosten des
+Berufungsverfahrens von CHF 500..
+
+Mitteilung an:
+
+- Berufungsklägerin
+
+- Zivilgericht Basel-Stadt
+
+- Handelsregisteramt Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der a.o. Gerichtsschreiber
+
+MLaw Basil Grötzinger
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
