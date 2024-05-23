@@ -1,0 +1,203 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.334"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2024.31"
+docket_2: "AG.2024.334"
+decided: "2024-05-23"
+published: "2025-05-16"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76895&W10_KEY=3048461&nTrefferzeile=412&Template=search_result_document.html"
+cites_decisions: ["5D_65/2014"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-320.md"]
+---
+
+# Rechtsöffnung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2024.31
+
+ENTSCHEID
+
+vom 23. Mai 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner , Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und a.o. Gerichtsschreiber MLaw Fabio
+Anceschi
+
+Parteien
+
+A____ Beschwerdeführer
+
+[...]                                                                                     
+Gesuchsgegner
+
+gegen
+
+B____ Beschwerdegegner
+
+[...]                                                                                         
+Gesuchsteller
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid des Zivilgerichts
+
+vom 12. Februar 2024
+
+betreffend Rechtsöffnung
+
+Sachverhalt
+
+Mit
+Zahlungsbefehl Nr. [...] setzte B____ (Gläubiger) vier Forderungen gegen A____
+(Schuldner) in Betreibung, dies im Betrag von CHF 5'967. nebst Zins, CHF 98.70
+nebst Zins und CHF 139.40. Nachdem der Schuldner Rechtsvorschlag gegen den
+Zahlungsbefehl erhoben hatte, ersuchte der Gläubiger das Zivilgericht Basel-Stadt
+am 29. Dezember 2023 um Gewährung der Rechtsöffnung für die in Betreibung
+gesetzten Forderungen. Der Schuldner machte geltend, dass er nicht Schulden von
+EUR/CHF 5'980. habe; es seien circa nur noch EUR 3'383. offen. Mit
+Entscheid vom 12. Februar 2024 erteilte das Zivilgericht dem Gläubiger
+definitive Rechtsöffnung für den Zahlungsbefehl Nr. [...]. Auf Gesuch des
+Schuldners hin begründete es seinen Entscheid schriftlich.
+
+Gegen den
+schriftlich begründeten Entscheid erhob der Schuldner am 9. April 2024
+Beschwerde beim Appellationsgericht. Darin führte er aus, dass er nur circa EUR 3'383.
+schulde, und nicht EUR/CHF 5'980.. Auf die Einholung einer
+Beschwerdeantwort wurde verzichtet. Der vorliegende Entscheid wurde nach Beizug
+der Akten des Zivilgerichts auf dem Zirkulationsweg gefällt.
+
+Erwägungen
+
+1.
+
+Als nicht
+berufungsfähiger Entscheid kann der Entscheid des Rechtsöffnungsgerichts nach Art. 80
+ff. des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG, SR 281.1)
+mit Beschwerde angefochten werden (Art. 319 lit. a und Art. 309
+lit. b Ziffer 3 der Schweizerischen Zivilprozessordnung [ZPO,
+SR 272]). Die vorliegende Beschwerde wurde fristgerecht erhoben
+(Art. 321 Abs. 2 und Art. 251 lit. a ZPO).
+
+Zum Entscheid
+über die vorliegende Beschwerde ist das Dreiergericht des Appellationsgerichts
+zuständig (§ 92 Abs. 1 Ziff. 6 des Gesetzes betreffend die
+Organisation der Gerichte und der Staatsanwaltschaft [GOG, SG 154.100]). Mit
+der Beschwerde kann eine unrichtige Rechtsanwendung und eine offensichtlich
+unrichtige Feststellung des Sachverhalts geltend gemacht werden (Art. 320
+ZPO).
+
+2.
+
+Im angefochtenen
+Entscheid vom 12. Februar 2024 führte das Zivilgericht zunächst aus, dass
+es örtlich zuständig sei, da der Schuldner seinen Wohnsitz im Zeitpunkt des
+Rechtsöffnungsgesuchs in Riehen gehabt habe (Zivilgerichtsentscheid, E. 1.1).
+Sodann legte es dar, dass die Forderungen des Gläubigers auf einem vollstreckbaren
+Vollstreckungsbescheid des Amtsgerichts Stuttgart vom 20. Juli 2022 und
+damit auf einem definitiven Rechtsöffnungstitel gründe (E. 2). Gegen einen
+definitiven Rechtsöffnungstitel könne der Schuldner einwenden und gleichzeitig
+beweisen, dass die Forderung getilgt, gestundet oder verjährt sei. Im
+vorliegenden Fall wende sich der Schuldner aber gegen den materiellen Bestand
+der Forderung und beziehe sich nicht auf eine Tilgung, Stundung oder Verjährung
+der Forderung. Der Einwand könne deshalb im Verfahren um Erteilung der
+definitiven Rechtsöffnung nicht berücksichtigt werden (E. 3).
+
+Gemäss
+Art. 320 ZPO ist der Beschwerdeführer gehalten darzutun, auf welchen Beschwerdegrund er sich beruft und an welchen
+Mängeln der angefochtene Entscheid leidet ( Freiburghaus/Afheldt ,
+in: Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], Kommentar zur Schweizerischen
+Zivilprozessordnung, 3. Auflage, Zürich/Basel/Genf 2016, Art. 321
+N 15). Er muss somit erklären, weshalb der erstinstanzliche Entscheid im
+angefochtenen Punkt unrichtig sein soll; es wird vorausgesetzt, dass er sich
+mit der Begründung des angefochtenen Entscheids auseinandersetzt (BGer
+5D_65/2014 vom 9. September 2014 E. 5.4.1). Auch wenn bei einer
+rechtsunkundigen Person an diese Begründungpflicht praxisgemäss keine allzu
+strengen Anforderungen gestellt werden, muss doch auch ein juristischer Laie
+zumindest sinngemäss sagen, weshalb er den angefochtenen Entscheid für
+fehlerhaft hält und inwieweit dieser geändert oder aufgehoben werden soll (AGE BEZ.2022.4
+vom 17. März 2022 E. 2).
+
+Im vorliegenden
+Fall wiederholt der Schuldner in seiner Beschwerde den Standpunkt, den er
+bereits vor Zivilgericht eingenommen hatte: Er sei nicht einverstanden, dass er
+EUR/CHF 5'980. Schulden habe. In diesem Betrag sei auch die Kaution
+enthalten, die er nicht bezahlt habe, was nichts mit den Mietrückständen zu tun
+habe. Für die Monate März bis Juni schulde er noch Mietzinsen von circa EUR/CHF 3'383.
+In dieser Höhe anerkenne er seine Schuld. Da er seinen Job verloren habe, habe
+er den Gläubiger um Ratenzahlungen gebeten, um die Mietschulden abzahlen zu
+können. Da der Gläubiger dagegen gewesen sei, habe dieser ihm fast mit einer
+Frist gedroht (vgl. Beschwerde). Mit diesen Ausführungen begründet der
+Schuldner mit keinem Wort, inwiefern der Entscheid des Zivilgerichts falsch
+sein soll. Insbesondere setzt er sich nicht mit der zentralen Erwägung des
+Zivilgerichts auseinander, dass im Verfahren um Erteilung der definitiven
+Rechtsöffnung keine Einwendungen mehr gegen den materiellen Bestand (das
+Bestehen) der Forderung erhoben werden können, sondern nur noch die Tilgung,
+Stundung oder Verjährung der Forderung eingewendet und bewiesen werden kann.
+Damit fehlt es an einer genügenden Begründung der Beschwerde.
+
+3.
+
+Fehlt es an
+einer genügenden Beschwerdebegründung, kann auf die Beschwerde nicht
+eingetreten werden. Demgemäss trägt der unterliegende Schuldner die
+Prozesskosten (Art. 106 Abs. 1 ZPO) . Die Gerichtskosten betragen CHF 400. (Art. 48
+Abs. 1 und Art. 61 Abs. 1 der Gebührenverordnung zum
+Bundesgesetz über Schuldbetreibung und Konkurs, SR 281.35).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf die Beschwerde gegen den Entscheid
+des Zivilgerichts vom 7. Dezember 2023 ([]) wird nicht eingetreten.
+
+Der Beschwerdeführer trägt die Gerichtskosten des
+Beschwerdeverfahrens von CHF 400..
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Beschwerdegegner
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der a.o. Gerichtsschreiber
+
+MLaw Fabio Anceschi
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. In vermögensrechtlichen Angelegenheiten gilt dies nur dann,
+wenn der Streitwert die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG
+erreicht (CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis
+bzw. CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage
+von grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht
+dem Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an
+deren Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des
+Rechtsmittels entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
