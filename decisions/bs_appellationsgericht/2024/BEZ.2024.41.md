@@ -1,0 +1,342 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.387"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2024.41"
+docket_2: "AG.2024.387"
+decided: "2024-05-27"
+published: "2024-06-25"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77022&W10_KEY=3048461&nTrefferzeile=374&Template=search_result_document.html"
+cites_decisions: ["5A_517/2011", "5A_519/2019", "5A_571/2010", "BGE 124 III 112", "BGE 73 III 69"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/281.1/art-012.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.35/art-052.md"]
+---
+
+# Konkurseröffnung nach Art. 166 SchKG
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2024.41
+
+ENTSCHEID
+
+vom 25.
+Juni 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und Gerichtsschreiber
+MLaw Thomas Inoue
+
+Parteien
+
+A____ Beschwerdeführerin
+
+[...]                                                                                             Schuldnerin
+
+gegen
+
+B____ Beschwerdegegnerin
+
+[...] Gläubigerin
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid des Zivilgerichts
+
+vom 27. Mai 2024
+
+betreffend Konkurseröffnung nach
+Art. 166 SchKG
+
+Sachverhalt
+
+Die A____
+(nachfolgend: Schuldnerin) hat ihren Sitz in Basel. Sie bezweckt den Betrieb
+eines Maler- und Gipsergeschäfts. Mit Entscheid vom 27. Mai 2024 eröffnete das
+Zivilgericht Basel-Stadt mit Wirkung ab 27. Mai 2024, 16.07 Uhr, den
+Konkurs über die Schuldnerin im Betreibungsverfahren Nr. [...] betreffend
+Forderungen der B____ (nachfolgend: Gläubigerin) von CHF 7'823.75 zuzüglich
+Zins zu 5 % seit dem 31. Oktober 2022, CHF 2'261.70 zuzüglich Zins zu 5 %
+seit dem 28. November 2022, CHF 1'373.20 zuzüglich Zins zu 5 % seit dem 2.
+Dezember 2022, CHF 2'665.60 zuzüglich Zins zu 5 % seit dem 7. Dezember
+2022 sowie sämtliche Betreibungs- und Konkurseröffnungskosten.
+
+Gegen diesen
+Entscheid erhob die Schuldnerin am 3. Juni 2024 Beschwerde beim
+Appellationsgericht Basel-Stadt. Mit Eingabe vom 4. Juni 2024 stellte sie zudem
+ein Gesuch um Anordnung der aufschiebenden Wirkung, welches der
+Instruktionsrichter mit Verfügung von gleichem Datum abwies. Auf entsprechende
+Aufforderung in derselben Verfügung hin reichte das Betreibungsamt Basel-Stadt
+am 13. Juni 2024 Angaben der Bank_A über den Zeitpunkt ein, zu welchem eine
+Zahlung seitens der Schuldnerin beim Betreibungsamt eingegangen ist. Die
+Eingabe des Betreibungsamts und die sich bei den Akten des Konkursamts
+Basel-Stadt befindliche Auflistung der Betreibungen und Verlustscheine wurden
+der Schuldnerin zur Kenntnisnahme zugestellt. Auf die Einholung einer
+Beschwerdeantwort wurde verzichtet. Die Akten des Konkursamts wurden
+beigezogen. Der vorliegende Entscheid erging auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+Der Entscheid
+des Zivilgerichts betreffend Konkurseröffnung kann innert zehn Tagen mit
+Beschwerde nach der Schweizerischen Zivilprozessordnung (ZPO, SR 272)
+angefochten werden (Art. 174 Abs. 1 des Bundesgesetzes über Schuldbetreibung
+und Konkurs [SchKG, SR 281.1]). Auf die frist- und formgerecht erhobene Beschwerde
+ist einzutreten. Zuständig für die Beurteilung der Beschwerde ist das
+Dreiergericht des Appellationsgerichts (§ 92 Abs. 1 Ziff. 6 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+2.
+
+2.1 Die
+Rechtsmittelinstanz kann die Konkurseröffnung aufheben, wenn die Schuldnerin
+ihre Zahlungsfähigkeit glaubhaft macht und durch Urkunden beweist, dass
+inzwischen die Schuld, einschliesslich der Zinsen und Kosten, getilgt ist, der
+geschuldete Betrag bei der Rechtsmittelinstanz zuhanden der Gläubigerin
+hinterlegt ist oder die Gläubigerin auf die Durchführung des Konkurses
+verzichtet (vgl. Art. 174 Abs. 2 SchKG). Zu den Kosten gehören auch die
+Betreibungskosten einschliesslich der Kosten der Konkursandrohung ,
+die Gerichtskosten eines allfälligen Rechtsöffnungsverfahrens, eine allfällige
+Parteientschädigung für ein allfälliges Rechtsöffnungsverfahren, die
+Gerichtskosten des Verfahrens der Konkurseröffnung und eine allfällige
+Parteientschädigung für das Verfahren der Konkurseröffnung. Bei einer Tilgung
+oder Hinterlegung nach der Konkurseröffnung umfassen die Kosten zudem die
+Kosten des Konkursamts (AGE BEZ.2022.11 vom 9. Februar 2022 E. 2.2; Giroud/Theus Simoni , in: Basler
+Kommentar, 3. Auflage, 2021, Art. 172 SchKG N 11 und Art. 174 SchKG N 21c).
+
+2.2 Die
+Schuldnerin kann auch geltend machen, sie habe die Forderung bereits vor der
+Konkurseröffnung bezahlt ( Emmel ,
+in: Basler Kommentar, 3. Auflage, 2021, Art. 12 SchKG N 8). In diesem Fall
+muss sie ihre Zahlungsfähigkeit nicht glaubhaft machen. Dies wird gemäss Art.
+174 Abs. 2 Ziff. 1 SchKG nur für den Fall der nachträglichen Zahlung verlangt
+(AGE BEZ.2019.27 vom 23. Mai 2019 E. 3, mit Hinweisen). Auch bei Bezahlung der
+Forderung vor der Konkurseröffnung setzt die Aufhebung der Konkurseröffnung
+aber voraus, dass die Schuldnerin durch Urkunden beweist, dass sie die Schuld,
+einschliesslich der Zinsen und Kosten getilgt hat. Der Urkundenbeweis ist nur
+dann entbehrlich, wenn die Gläubigerin die Tilgung vor dem Konkursgericht
+selbst zugesteht (vgl. AGE BEZ.2022.11 vom 9. Februar 2022 E. 2.2, BEZ.2021.63
+vom 20. Oktober 2021 E. 2).
+
+3.
+
+3.1 Im
+vorliegenden Fall macht die Schuldnerin geltend, dass sie den «geforderten
+Betrag» am 27. Mai 2024 per Banküberweisung beglichen habe. Sie habe die
+Zahlungsbestätigung vor dem vorinstanzlichen Verhandlungsbeginn am 27. Mai 2024
+um 14.51 Uhr Herrn [...] zugestellt. Die telefonische Nachfrage bei Herrn [...],
+ob die Schuldnerin die Bestätigung persönlich an der Verhandlung vorlegen
+müsse, habe dieser verneint. Die Schuldnerin habe die Auskunft erhalten, dass
+eine Bestätigung per E-Mail ausreiche und sie nicht an der Verhandlung
+erscheinen müsse. Auf Nachfrage beim Betreibungsamt, Herrn [...], habe die
+Schuldnerin die Auskunft erhalten, dass der Betrag von CHF 16'500. am 27. Mai
+2024 um 14.43 Uhr auf dem Konto der Bank_A gutgeschrieben worden sei. Mit ihrer
+Beschwerde reicht die Schuldnerin einen Auszug der Bank_B vom 27. Mai 2024 ein,
+in welchem eine Zahlung von einem Konto der Schuldnerin an das «Gericht des
+Kantons Basel-Stadt» bei der Bank_A mit Ausführungsdatum vom 27. Mai 2024
+(Erfassung des Auftrags um 13.42 Uhr, Verarbeitung des Auftrags um 14.01 Uhr)
+vermerkt ist. Weiter reicht die Schuldnerin eine Quittung des Betreibungsamts
+vom 30. Mai 2024 ein, aus welcher hervorgeht, dass die Schuldnerin die
+Kosten für die Betreibung von CHF 15'843.45 sowie zusätzliche Gebühren von CHF
+700. für das Konkursamt in zwei Schritten bezahlt hat: Zahlung von CHF
+16'500. mit Valutadatum vom 27. Mai 2024 und CHF 43.45 mit Valutadatum vom 30.
+Mai 2024. Schliesslich reicht die Schuldnerin eine provisorische Abrechnung des
+Betreibungsamts vom 30. Mai 2024 ein, in welchem der Forderungsbetrag von CHF
+14'124.25, Zinsen von CHF 1'089.55, Betreibungskosten von 200.85 und
+Rechtsöffnungskosten von CHF 350. angegeben sind.
+
+3.2 Die
+Schuldnerin hat damit durch Urkunden bewiesen, dass sie mit den
+CHF 16'500. eine Zahlung mit Valutadatum vom 27. Mai 2024 in Auftrag
+gegeben hat, welche die der Konkursandrohung zu Grunde liegende Forderung von
+CHF 15'843.45 inklusive Zinsen und (bis zu diesem Zeitpunkt anfallenden)
+Kosten sowie Inkasso-Kosten übersteigt. Mit der Zahlung an das Betreibungsamt
+wurde diese Forderung getilgt (BGer 5A_519/2019 vom 29. Oktober 2019 E. 3.2,
+mit Hinweis auf BGE 73 III 69 und 127 III 182 E. 2.b). Die Betreibung erlischt
+unmittelbar mit dem Eingang des gesamten Forderungsbetrags samt Zinsen und
+Kosten (127 III 182 E. 2.b; BGer 5A_519/2019 vom 29. Oktober 2019 E.
+3.2).
+
+3.3 Gemäss
+Dispositiv des angefochtenen Entscheids wurde der Konkurs über die Schuldnerin
+am 27. Mai 2024 um 16.07 Uhr eröffnet. Es bleibt demnach zu prüfen, ob die
+Schuldnerin den Nachweis erbringen konnte, dass ihre Zahlung vor der
+Konkurseröffnung erfolgt und die Beschwerde damit ohne weiteres gutzuheissen
+ist (vgl. E. 2.2 oben), oder ob die Zahlung erst nach der
+Konkurseröffnung erfolgt und die Gutheissung der Beschwerde zusätzlich von der
+Glaubhaftmachung der Zahlungsfähigkeit der Schuldnerin abhängig ist (vgl. E.
+2.1 oben).
+
+Das
+Appellationsgericht hat sich im Verfahren BEZ.2023.40 vertieft mit der Frage
+auseinandergesetzt, in welchem Zeitpunkt bei einer bargeldlosen Überweisung die
+Schuld im Sinn von Art. 172 Ziff. 3 und Art. 174 Abs. 2 Ziff. 1 SchKG getilgt
+ist und unter welchen Voraussetzungen der von diesen Bestimmungen dafür
+geforderte Urkundenbeweis erbracht ist. Gestützt auf eine Analyse der
+bundesgerichtlichen und der kantonalen Rechtsprechung sowie verschiedener
+Lehrmeinungen kam das Appellationsgericht zum Schluss, dass die
+Erfüllungswirkung bei bargeldloser Überweisung im Zeitpunkt der Gutschrift des
+geschuldeten Betrags auf dem Konto der Gläubigerin eintritt und die Belastung
+des Kontos der Schuldnerin bei Überweisungen von der Art der damals zu
+beurteilenden Überweisung von CHF 11'000. nach den Regeln des
+Obligationenrechts für den Eintritt der Erfüllungswirkung nicht genügt (AGE
+BEZ.2023.40 vom 15. Juni 2024 E. 3.3.3; vgl. ferner etwa auch: BGE 124 III 112
+E. 2a, 119 II 232 E. 2; Emmel ,
+a.a.O., Art. 12 SchKG N 14; Weber/Emmenegger ,
+in: Berner Kommentar, 2. Auflage, 2020, Art. 104 OR N 47). Es liegen keine
+Gründe dafür vor, von dieser Rechtsprechung abzuweichen. Da die wirksame
+Zahlung zum Untergang der Betreibung führt, kann diese Rechtsfolge nur
+angenommen werden, wenn die Schuldnerin die Zahlung nicht mehr rückgängig machen
+kann und wenn der Zahlungseingang für die Gläubigerin resp. das Betreibungsamt
+feststeht und erkennbar ist.
+
+Die Schuldnerin
+kann vorliegend mit entsprechenden Belegen zwar beweisen, dass die fragliche
+Überweisung der Bank_B an die Bank_A vor dem Zeitpunkt der Konkurseröffnung
+ausgeführt wurde. Mit diesem Nachweis der Zahlungsauslösung kommt die
+Schuldnerin aber dem Nachweis der wirksamen Zahlung nicht nach. Relevant ist
+gemäss den obigen Ausführungen die Gutschrift bei der Gläubigerin bzw. beim
+Betreibungsamt. Das Betreibungsamt teilte dem Gericht auf entsprechende Nachfrage
+am 13. Juni 2024 mit, dass die tagsüber eingehenden Zahlungen bei der Bank_A
+als Sammelgutschrift abends auf dem Konto gutgeschrieben würden. Die Zahlung
+der Schuldnerin sei für das Betreibungsamt daher zwar um 15.04 Uhr ersichtlich
+gewesen, als Sammelgutschrift jedoch erst abends um 19.41 Uhr auf dem Konto
+verbucht worden. Es erfolgt bei der Bearbeitung des Zahlungseingangs demnach
+eine Avisierung der Gläubigerin, welche somit bereits vor der Sammelgutschrift
+auf dem Konto über den Zahlungseingang informiert ist. Im vorliegenden Fall ist
+somit erstellt, dass der Zahlungseingang bei der Bank_A und die Information
+über diesen Eingang an das Betreibungsamt bereits um 15.04 Uhr erfolgt sind. Zu
+diesem Zeitpunkt konnte der Zahlungsvorgang von der Schuldnerin nicht mehr
+gestoppt bzw. rückgängig gemacht werden und das Betreibungsamt war bereits über
+den Zahlungseingang informiert oder hatte zumindest Zugriff zu den
+Informationen über den Zahlungseingang. Dass die Gutschrift auf dem Konto des
+Betreibungsamts im Rahmen einer Sammelgutschrift erst um 19.41 Uhr erfolgt ist,
+basiert gemäss Auskunft des Betreibungsamts auf einer Vereinbarung zwischen dem
+Betreibungsamt und der Bank_A bzw. auf einer entsprechenden «Einstellung» der
+Bankbeziehung. Es wäre stossend, wenn diese Vereinbarung bzw. Einstellung, auf welche
+die Schuldnerin keinerlei Einfluss und von der sie auch keine Kenntnis hat, zu
+ihren Lasten geht resp. als relevant für die Bestimmung des Zeitpunkts der
+erfolgten Zahlung gewertet würde. Es ist unter diesen Umständen vielmehr von
+einer im Zeitpunkt der Erkennbarkeit des Zahlungseingangs beim Betreibungsamt
+wirksamen Zahlung der Schuldnerin an das Betreibungsamt auszugehen. Die Zahlung
+der Schuldnerin erfolgte um 15.04 Uhr und damit rund eine Stunde vor der
+Konkurseröffnung durch das Zivilgericht. Damit liegt ein Konkurshinderungsgrund
+vor und das Zivilgericht hätte den Konkurs nicht eröffnet, wenn es von der
+Zahlung in Kenntnis gesetzt worden und ihm die Tilgung der Schuld mit Urkunden
+belegt worden wäre. Die Voraussetzungen für eine Aufhebung des angefochtenen
+Konkursentscheids sind somit erfüllt, ohne dass die Zahlungsfähigkeit der
+Schuldnerin weiter geprüft werden muss (vgl. E. 2.2 oben). Die Beschwerde ist
+daher gutzuheissen und der Konkursentscheid vom 27. Mai 2024 wird aufgehoben.
+
+4.
+
+Das Konkursgericht
+hat zwar die konkurshindernden Tatsachen von Amtes wegen festzustellen (vgl.
+Art. 255 lit. a ZPO). Dies entbindet die Parteien jedoch nicht
+davon, an der Sachverhaltsfeststellung mitzuwirken (BGer 5A_517/2011 vom
+16. De­zember 2011 E. 5.3.2 und 5.3.3 und 5A_571/2010 vom
+2. Februar 2011 E. 2; vgl. auch Klingler , in: Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.],
+Kommentar zur Schweizerischen Zivilprozessordnung, 3. Auflage,
+Zürich 2016, Art. 255 N 1; Fritschi ,
+Verfahrensfragen bei der Konkurseröffnung, Zürich 2010, S. 294). Auch das
+Betreibungsamt ist nicht gehalten, das Konkursgericht von sich aus über den
+Zahlungseingang zu informieren. Dies ist Sache der Parteien (BGer 5A_519/2019
+vom 29. Oktober 2019 E. 3.4.2; Walther ,
+Die Rechtsprechung des Bundesgerichts im Schuldbetreibungs- und Konkursrecht
+des Jahres 2019, ZBJV 157/2021 S. 227 ff., 229). Es wäre demnach Aufgabe der
+Schuldnerin gewesen, dem Zivilgericht darzulegen und durch Urkunden zu
+beweisen, dass sie die Konkursforderung bereits vor der Konkursverhandlung
+bezahlt hat (Art. 172 Ziff. 3 SchKG). Das Zivilgericht war nicht
+gehalten, von sich aus den Sachverhalt zu erforschen und nach konkurshindernden
+Tatsachen  wie der Bezahlung der in Konkursbetreibung gesetzten Forderung  zu
+forschen. Wenn eine Schuldnerin die Forderung vor der Konkurseröffnung bezahlt,
+dies aber dem Zivilgericht nicht mitteilt, sind sowohl der Konkursentscheid als
+auch das Beschwerdeverfahren durch die Schuldnerin verursacht, weshalb es
+angebracht ist, ihr die entsprechenden Kosten aufzuerlegen (BGer 5A_519/2019 vom
+29. Oktober 2019 E. 3.5.1).
+
+Die Schuldnerin
+macht zwar geltend, dass sie Herrn [...] die Zahlungsbestätigung per E-Mail
+eingereicht habe und dass Herr [...] die telefonische Auskunft erteilt habe,
+dass die Bestätigung per E-Mail ausreiche. Die entsprechende E-Mail wurde von
+der Schuldnerin ihrer Beschwerde nicht beigelegt. Diese bzw. der Kontoauszug
+der Bank_B befindet sich allerdings bei den Vorakten. Mit dieser E-Mail resp.
+den Anlagen hat die Schuldnerin dem Zivilgericht aber nur den Zahlungsauftrag
+der Bank der Schuldnerin angezeigt und eben nicht den Eingang auf dem Konto der
+Gläubigerin bzw. des Betreibungsamts. Angesichts der dargestellten
+Rechtsprechung des Appellationsgerichts (vgl. E. 3.3 oben) erscheint die
+von der Schuldnerin behauptete telefonische Auskunft eines Mitarbeitenden des
+Zivilgerichts, wonach eine Mitteilung per E-Mail über den (blossen)
+Zahlungsausgang bei der Bank der Schuldnerin dazu ausreichen soll, eine Konkurseröffnung
+zu verhindern, nicht glaubhaft. Eine solche Auskunft ist somit nicht erstellt.
+Die Schuldnerin hat mit der Einzahlung des Betrags kurz vor der Verhandlung bewirkt,
+dass das Zivilgericht mangels Nachweis des Zahlungseingangs beim Betreibungsamt
+resp. bei der Gläubigerin gezwungen war, den Konkurs über die Schuldnerin zu
+eröffnen. Die Schuldnerin hat somit diesen Entscheid und auch das vorliegende
+Beschwerdeverfahren verursacht. Sie hat daher trotz Gutheissung der Beschwerde
+die Kosten des erstinstanzlichen Verfahrens von CHF 350. und die Gerichtskosten
+des Beschwerdeverfahrens von CHF 600. zu tragen (Art. 106 Abs. 1 ZPO und Art.
+61 Abs. 1 in Verbindung mit Art. 52 GebV SchKG).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Die Beschwerde wird gutgeheissen und der
+Konkursentscheid des Zivilgerichts Basel-Stadt vom 27. Mai 2024 ([...])
+aufgehoben.
+
+Die Beschwerdeführerin trägt die Gerichtskosten des
+erstinstanzlichen Verfahrens von CHF 350. und des Beschwerdeverfahrens
+von CHF 600..
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Beschwerdegegnerin
+
+- Zivilgericht Basel-Stadt
+
+- Konkursamt Basel-Stadt
+
+- Betreibungsamt Basel-Stadt
+
+- Grundbuch- und Vermessungsamt Basel-Stadt
+
+- Handelsregisteramt Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+MLaw Thomas Inoue
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
