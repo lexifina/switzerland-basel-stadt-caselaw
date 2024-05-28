@@ -1,0 +1,503 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.335"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "HB"
+docket: "HB.2024.10"
+docket_2: "AG.2024.335"
+decided: "2024-05-28"
+published: "2025-10-28"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76896&W10_KEY=3048461&nTrefferzeile=406&Template=search_result_document.html"
+cites_decisions: ["1B_251/2015", "1B_283/2016", "1B_332/2012", "1B_354/2019", "1B_364/2017", "1B_369/2020", "1B_552/2011", "1B_705/2011", "1B_73/2015", "1B_732/2011", "BGE 123 I 31", "BGE 124 I 208", "BGE 129 I 129", "BGE 133 I 270", "BGE 137 IV 122", "BGE 145 IV 503", "HB.2012.6", "HB.2018.48", "HB.2024.10"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Anordnung von Untersuchungshaft
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+HB.2024.10
+
+ENTSCHEID
+
+vom 28.
+Mai 2024
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und
+Gerichtsschreiber lic. iur. Marius Vogelsanger
+
+Beteiligte
+
+A____ , geb.
+[...]                                                             Beschwerdeführer
+
+[...]                                                                                        
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Zwangsmassnahmengerichts
+
+vom 2. Mai 2024
+
+betreffend Anordnung von
+Untersuchungshaft
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft Basel-Stadt führt gegen A____ (Beschwerdeführer) eine
+Strafuntersuchung wegen mehrfachen Diebstahls, mehrfacher Sachbeschädigung,
+mehrfachen Hausfriedensbruchs sowie Widerhandlung gegen das
+Betäubungsmittelgesetz. Nachdem der Beschwerdeführer am 29. April 2024
+verhaftet worden war, ordnete das Zwangsmassnahmengericht Basel-Stadt am 2. Mai
+2024 für die vorläufige Dauer von 8 Wochen Untersuchungshaft über ihn an. Neben
+einem dringenden Tatverdacht wurden Flucht- und Kollusionsgefahr angenommen
+sowie die Verhältnismässigkeit der Haftdauer bejaht.
+
+Gegen
+diese Verfügung hat der Beschwerdeführer am 8. Mai 2024, vertreten durch Advokat
+[...], Beschwerde erhoben. Es wird die kosten- und entschädigungsfällige
+Aufhebung der streitgegenständlichen Verfügung sowie die sofortige Entlassung
+aus der Untersuchungshaft beantragt. Eventualiter sei die Verfügung des
+Zwangsmassnahmengerichts Basel-Stadt vom 2. Mai 2024 teilweise aufzuheben
+und über den Beschwerdeführer für eine vorläufige Dauer von 4 Wochen bis zum
+30. Mai 2024 Untersuchungshaft zu verfügen. Sodann ersucht der
+Beschwerdeführer um Gewährung der amtlichen Verteidigung.
+
+Die
+Staatsanwaltschaft hat sich am 17. Mai 2024 vernehmen lassen. Sie beantragt die
+Abweisung der Beschwerde, soweit überhaupt darauf eingetreten werden könne.  Hierzu
+hat der Beschwerdeführer am 23. Mai 2024 repliziert.
+
+Der
+vorliegende Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten der Parteistandpunkte
+ergeben sich, soweit sie für den Entscheid von Bedeutung sind, aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die verhaftete Person kann Entscheide des
+Zwangsmassnahmengerichts über die Verlängerung der Untersuchungshaft mit Beschwerde
+bei der Beschwerdeinstanz anfechten (Art. 393 Abs. 1 lit. c in Verbindung mit
+Art. 222 der Strafprozessordnung [StPO, SR 312.0]). Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in
+Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG,
+SG 154.100]).
+
+1.2 Das Rechtsmittel ist nach Art. 396 Abs. 1
+StPO innert zehn Tagen nach Eröffnung des Entscheids schriftlich und begründet
+bei der Beschwerdeinstanz einzureichen. Die vorliegende Beschwerde ist form-
+und fristgerecht eingereicht worden, sodass darauf einzutreten ist. Die
+Kognition des Beschwerdegerichts ist nach Art. 393 Abs. 2 StPO frei und
+nicht auf Willkür beschränkt.
+
+2.
+
+Die Anordnung von Untersuchungshaft ist nach Art. 221 Abs. 1
+StPO zulässig, wenn die beschuldigte Person eines Verbrechens oder Vergehens
+dringend verdächtig ist und zudem Flucht-, Kollusions- oder Fortsetzungsgefahr
+besteht. Die Haft muss überdies verhältnismässig sein. Sie ist aufzuheben,
+sobald Ersatzmassnahmen zum gleichen Ziel führen (Art. 197 Abs. 1 lit. c, Art.
+212 Abs. 2 lit. c StPO) und darf nicht länger dauern als die zu erwartende
+Freiheitsstrafe (Art. 212 Abs. 3 StPO).
+
+3.
+
+3.1 Für die Bejahung eines dringenden
+Tatverdachts ist erforderlich, dass aufgrund von genügend konkreten Tatsachen
+oder Informationen im Lichte aller Umstände objektiv darauf zu schliessen ist,
+der Betroffene habe das fragliche Verbrechen oder Vergehen begangen. Nicht
+notwendig ist dagegen, dass der Sachverhalt bereits vollständig aufgeklärt ist.
+Weder das Zwangsmassnahmengericht noch die Beschwerdeinstanz haben dem
+Sachrichter mit einem eigenen Beweisverfahren, einer erschöpfenden Abwägung
+sämtlicher belastender und entlastender Umstände oder einer umfassenden
+Bewertung der Glaubwürdigkeit der beteiligten Personen vorzugreifen (BGE 137 IV
+122 E. 3.2 S. 126; statt vieler: AGE HB.2012.6 vom 20. Februar 2012).
+
+Macht ein Inhaftierter geltend, er befinde sich ohne
+ausreichenden Tatverdacht in strafprozessualer Haft, ist vielmehr zu prüfen, ob
+aufgrund der bisherigen Untersuchungsergebnisse genügend konkrete Anhaltspunkte
+für eine Straftat und eine Beteiligung des Beschwerdeführers an dieser Tat
+vorliegen, ob die Justizbehörden somit das Bestehen eines dringenden
+Tatverdachts mit vertretbaren Gründen bejahen durften. Hierfür genügt der
+Nachweis von konkreten Verdachtsmomenten, wonach das inkriminierte Verhalten
+mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale erfüllen
+könnte (BGer 1B_552/2011 vom 24. Oktober 2011 E. 3). Dabei sind an den
+dringenden Tatverdacht in einem früheren Stadium der Strafuntersuchung weniger
+strenge Anforderungen zu stellen als zu einem fortgeschrittenen Stadium der
+Ermittlungen.
+
+Konkret wird dem Beschwerdeführer vorgeworfen, sich am 29.
+April 2024 um 2:02 Uhr am [...] in Basel gemeinsam mit zwei weiteren Personen, B____
+und C____, auf unbekannte Art und Weise Zugang zur Liegenschaft verschafft zu
+haben, dort gemeinsam mindestens 14 Kellerabteile aufgebrochen und diverses
+Deliktsgut, namentlich Alkohol und Fahrräder, gestohlen zu haben. B____ konnte
+beim Verlassen der betreffenden Liegenschaft am [...] via Hintertür vorläufig
+festgenommen werden. Der Beschwerdeführer und C____ konnten in derselben Nacht
+des 29. April 2024 in unmittelbarer Nähe, von der Einstellhalle am [...] herkommend,
+beim [...] um 02:10 Uhr angehalten und vorläufig festgenommen werden, wobei anlässlich
+der Kleider- und Effektendurchsicht in der Polizeiwache [...] beim
+Beschwerdeführer vier blaue Latexhandschuhe in der rechten Innentasche seiner
+Jacke (oberste Schicht) zum Vorschein kamen. Ein weiterer blauer Latexhandschuh
+befand sich in der linken Tasche seines Traineroberteils (zweite Schicht).
+Zudem konnte beim Beschwerdeführer ein Minigrip mit weissem Pulver sichergestellt
+werden, welches er in seiner rechten Socke versteckt hatte.
+
+3.2
+
+3.2.1 Der Beschwerdeführer lässt zusammengefasst im
+Wesentlichen ausführen, die Vorinstanz habe einen dringenden Tatverdacht zu
+Unrecht bejaht. Dieser könne sich einzig auf die belastenden Aussagen der
+Auskunftsperson D____ stützen. Die Auskunftsperson habe aber nicht unmittelbar
+nach Antreffen der drei verdächtigen Personen die Polizei gerufen, weshalb es
+nicht nachzuvollziehen sei, weshalb sich diese noch in der Nähe der
+Liegenschaft aufgehalten haben sollen. Weiter führt die Verteidigung aus, das von
+der Auskunftsperson geschilderte Signalement (afrikanisch-stämmige Person mit
+halblangen, schwarzen Locken) würde nicht mit dem Beschwerdeführer
+übereinstimmen. Auch genüge es nicht, dass die drei zusammen verdächtigten
+Personen, welche nicht zusammen angehalten worden seien, sich scheinbar kennen
+und bereits im September 2023 zusammen in Basel-Stadt seitens der
+Kantonspolizei kontrolliert worden seien.
+
+3.2.2 D____ gab als Auskunftsperson befragt
+Folgendes zu Protokoll: «Ich war vorhin mit meinem Motorrad unterwegs und ging
+nach Hause. Ich stellte mein Motorrad in der Einstellhalle ab. Als ich von der
+Einstellhalle in den Keller, im zweiten Untergeschoss ging, standen zwei männliche
+Personen vor der einen Tür, welche zu den verschiedenen Kellerabteilen führt.
+Eine Person war dunkelhäutig, hatte ein bisschen längere Haare und hatte
+Locken. Diese hielt eine goldige Champagner Flasche in der Hand. Der andere Typ
+war nicht dunkelhäutig. Ich dachte mir, dass dies allenfalls auch Bewohner
+dieser Liegenschaft seien und ging dann weiter. Als ich den Raum betrat, wo
+sich der Lift befand, stand da eine Person, welche eine Plastikmaske mit
+farbigen Lippen trug. Diese hielt einen orangen/roten Schraubenzieher in der
+Hand und versucht dabei eine Tür, welche zu weiteren Kellerabteilen führt,
+aufzubrechen. Als die Person mich erblickte machte sie den Finger vor dem Mund
+und sagte psst. Ich ging dann mit dem Lift hoch und kontaktierte die Polizei.
+»
+
+Die von der Auskunftsperson beschriebene goldige
+Champagner-Flasche, welche die afrikanisch-stämmige Person in der Hand gehabt
+habe, konnte auf einem Bordstein vor der Liegenschaft am [...] aufgefunden
+werden (vgl. Beilage zum Polizeirapport, sichergestellte Gegenstände, S. 17
+f.). Hinzu kommt, dass identische blaue Latexhandschuhe, wie sie der Beschwerdeführer
+in seinen Kleidern bei sich trug, auf dem Bürgersteig vor der Liegenschaft [...]
+sowie bei der Ein- bzw. Ausfahrt der betreffenden Einstellhalle  demnach sehr
+nahe beim Tatort  anzutreffen waren.
+
+Entgegen dem Einwand der Verteidigung passt die Schilderung
+der Auskunftsperson von einem dunkelhäutigen Einbrecher mit längeren Haaren und
+Locken durchaus auf den Beschwerdeführer. Der Ausführung der Verteidigung,
+diese Beschreibung würde der Haarpracht des Beschwerdeführers nicht
+entsprechen, kann nicht gefolgt werden. Die vom Beschwerdeführer getragenen Dreadlocks
+können  wie sich auch bereits aus dem deutschen Ausdruck «Rastalocken» ergibt
+  auf den ersten Blick durchaus als lockig beschrieben werden. Zudem stimmt
+die Schilderung der Haare als «halblang» mit dem Haarschnitt des
+Beschwerdeführers genau überein (vgl. Bild Polizeirapport S. 6). Diese Umstände
+belasten den Beschwerdeführer erheblich.
+
+Das Vorbringen, es könne sich bei der weiteren Person nicht
+um den Beschuldigten C____ handeln, da die Auskunftsperson dessen Bart und
+Haare nicht beschrieben habe, überzeugt ebenfalls nicht. Dass es für einen
+Unbeteiligten in einer potentiell bedrohlichen Situation schwierig ist,
+Personen zu beschreiben, welche er nur kurz gesehen hat, ist unbestritten. Sich
+in einer solchen Situation detailliert auf Signalemente zu achten, kann von
+einem Laien nicht erwartet werden.
+
+Entgegen den Ausführungen des Beschwerdeführers trägt der
+Umstand, dass die drei Beteiligten bereits im September 2023 gemeinsam von der
+Polizei kontrolliert wurden, wobei sie damals eine Sturmmaske dabeihatten, sehr
+wohl zum jetzigen Tatverdacht bei und spricht für ein systematisches Vorgehen.
+
+Soweit der Beschwerdeführer aussagte, er sei zuvor in der
+Nähe bei einer Prostituierten gewesen, ist mit Blick auf die obigen
+Feststellungen von einer wenig glaubhaften Schutzbehauptung auszugehen, zumal
+er diesbezüglich keinerlei detaillierte Angaben machen konnte. Dasselbe gilt
+für seine Aussage, er habe die 5 blauen Latexhandschuhe zum Arbeiten benötigt,
+um den Boden sauber aufzunehmen, wobei er sie in der Jacke vergessen habe. Vielmehr
+erscheint es als höchst unwahrscheinlich, dass es sich beim Aufenthalt des
+Beschwerdeführers zu dieser Nachtzeit an diesem Ort mit identischen
+Latexhandschuhen, wie sie in Tatnähe gefunden wurden, lediglich um einen unglücklichen
+Zufall handelt. Dazu müsste noch der weitere ausserordentlich grosse Zufall
+treten, dass die Auskunftsperson eine Person mit Champagnerflasche beschreibt,
+welche in Bezug auf die Hautfarbe und die Frisur dem Signalement des
+Beschwerdeführers genau entspricht.
+
+Soweit der Beschwerdeführer vorbringt, die Auskunftsperson
+habe nicht unmittelbar nach Antreffen der drei verdächtigen Personen die
+Polizei gerufen, weshalb es nicht nachzuvollziehen sei, weshalb sich diese noch
+in der Nähe der Liegenschaft aufgehalten haben sollen, geht seine Argumentation
+ebenfalls ins Leere. Die Auskunftsperson kontaktierte die Polizei gerade nachdem
+sie mit dem Lift in seiner Wohnung ankam. Dabei handelt es sich um einen sehr
+kurzen Zeitraum von wenigen Minuten. Unmittelbar zuvor konnte von ihr die zwei
+Personen vor der Türe, welche zu den Kellerabteilen führt, angetroffen werden.
+Die dritte Person, welche eine Plastikmaske trug, stand ebenfalls vor einer
+Türe, welche zu weiteren Kellerabteilen führt. Es ist daher entsprechend dieser
+Schilderung davon auszugehen, dass zum Zeitpunkt des Antreffens dieser
+Personen, vermutlich noch kein Kellerabteil betreten oder aufgebrochen worden
+war. Alleine der Umstand, dass die Personen nach Antreffen der Auskunftsperson
+nicht von sich aus sofort die Liegenschaft verliessen, um einer allfälligen
+Anhaltung der Polizei zu entgehen, sondern das wichtigste Diebesgut behändigten
+und erst ein paar Minuten später die Flucht ergriffen, spricht nicht gegen die
+Sachverhaltsschilderung der Kriminalpolizei. So ist es durchaus denkbar, dass
+die drei Täter nicht mit einem derart schnellen Eintreffen der Polizei
+rechneten.
+
+3.2.3 Zusammenfassend vermögen die Einwände des
+Beschwerdeführers bezüglich Zeitablauf, Requisition und Eintreffen der Polizei
+sowie dem von der Auskunftsperson geschilderten Signalement die zutreffenden
+Ausführungen der Vorinstanz insbesondere bezüglich örtlicher und zeitlicher
+Nähe zum Tatort, der Anhaltesituation sowie den versteckten 5 blauen
+Latexhandschuhen in seinen Kleidern nicht zu entkräften. Den obigen
+Ausführungen sind vielmehr genügend ganz konkrete Anhaltspunkte zu entnehmen,
+welche für eine Beteiligung des Beschwerdeführers an dem ihm vorgeworfenen
+Einbruchsdiebstahl sprechen. Der dringende Tatverdacht ist vorliegend gestützt
+auf verschiedene Elemente klarerweise zu bejahen, zumal sich die Untersuchung noch
+in einem sehr frühen Stadium befindet.
+
+4.
+
+4.1 Fluchtgefahr liegt gemäss Art. 221 Abs. 1
+lit. a StPO vor, wenn ernsthafte Anhaltspunkte eine gewisse Wahrscheinlichkeit
+belegen, dass sich die beschuldigte Person, wenn sie in Freiheit wäre, durch
+Flucht dem Strafverfahren oder der zu erwartenden Sanktion durch Flucht ins
+Ausland oder ein Untertauchen im Inland entziehen würde. Bei der Prüfung, ob
+konkrete Gründe für eine Fluchtgefahr vorliegen, sind neben der Schwere der
+drohenden Sanktion die gesamten konkreten Verhältnisse, insbesondere die
+familiären und sozialen Bindungen des Beschuldigten, seine berufliche und
+finanzielle Situation, Alter, Gesundheit, Reise- und Sprachgewandtheit sowie
+seine Kontakte zum Ausland massgebend (BGer 1B_364/2017 vom 12. September
+2017 E. 2.2, 1B_283/2016 vom 26. August 2016; Forster ,
+in: Basler Kommentar StPO, 2. Auflage 2014, Art. 221 N 5).
+
+4.2 Der Beschwerdeführer ist französischer
+Staatsangehöriger mit Wohnsitz in [...]. Er verfügt über keine erkennbare
+Beziehung zur Schweiz, weshalb im Fall der Haftentlassung eine Flucht nach
+Frankreich naheliegt. Daran ändert auch nichts, das gemäss den Angaben des
+Beschwerdeführers seine Eltern in Basel arbeiten, denn es ist nicht
+ersichtlich, inwiefern ihn dieser Umstand von einer Flucht ins Ausland abhalten
+würde. Die Ausführungen anlässlich der Verhandlung vor dem
+Zwangsmassnahmengericht, wonach er eine Lehre hätte anfangen sollen, sobald er
+nach [...] zieht, sind nicht plausibel. Wie bereits das Zwangsmassnahmengericht
+zutreffend ausführt, steht zum jetzigen Zeitpunkt überhaupt nicht fest, ob ein
+angeblich geplanter Umzug nach [...] tatsächlich stattfinden wird. Weder
+verfügt der Beschwerdeführer dort über einen Ausbildungsplatz noch ist sicher,
+ob und wann er überhaupt eine Lehrstelle findet.
+
+Der Beschwerdeführer hat im Falle einer Verurteilung mit
+einer nicht nur geringfügigen Strafe zu rechnen, weshalb für ihn ein nicht unerheblicher
+Fluchtanreiz besteht und zu befürchten ist, dass er sich nach einer
+Haftentlassung dem Zugriff der Schweizer Strafverfolgung entziehen würde. Praxisgemäss
+wird Fluchtgefahr auch bei einem grenznahen Wohnsitz angenommen. Irrelevant
+bleibt nach ständiger bundesgerichtlicher Rechtsprechung, ob Frankreich
+nötigenfalls die Auslieferung bewilligen oder selbst die Beurteilung der Sache
+übernehmen würde. Dem Staat, welchem die Strafhoheit zusteht, ist es nicht
+zuzumuten, auf die Sicherung der Person des Angeschuldigten zu verzichten und
+bei dessen Flucht den langwierigen Weg des Auslieferungsbegehrens oder eines
+Ersuchens um Übernahme der Strafverfolgung zu beschreiten. Ob in einem
+bestimmten Fall Fluchtgefahr besteht, ist demnach grundsätzlich in Bezug auf
+das in der Schweiz geführte Strafverfahren zu überprüfen (BGE 123 I 31 E. 3 d
+S. 37). Sogar bei einer befürchteten Ausreise in ein Land, das  wie
+Frankreich  die beschuldigte Person stellvertretend verfolgen könnte, fällt
+die Annahme von Fluchtgefahr nicht dahin (vgl. BGE 145 IV 503 E. 2.2 S. 507;
+BGer 1B_369/2020 vom 5. August 2020 E. 2.2, 1B_354/2019 E. 2.1).
+
+Es ist unter diesen Umständen mit grosser Wahrscheinlichkeit
+davon auszugehen, dass sich der Beschwerdeführer im Falle einer Entlassung
+durch Flucht ins Ausland dem weiteren Verfahren, insbesondere der
+anzuberaumenden Hauptverhandlung, und einem allfälligen Strafvollzug in der
+Schweiz entziehen würde. Es bedarf somit der Haft, um die Verfügbarkeit des Beschwerdeführers
+im vorliegenden Verfahren sicherzustellen. Aufgrund der gesamten Umstände ist
+der besondere Haftgrund der Fluchtgefahr zu bejahen.
+
+5.
+
+Da das Vorliegen eines Haftgrundes gemäss Art. 221 Abs. 1
+StPO genügt, erübrigt sich an dieser Stelle die Prüfung weiterer besonderer
+Haftgründe. Nachdem der Haftgrund der Fluchtgefahr zu bejahen ist, kann somit offenbleiben,
+ob zusätzlich von Kollusionsgefahr auszugehen wäre.
+
+6.
+
+6.1 Unter dem Titel der Verhältnismässigkeit ist
+schliesslich eine Abwägung zwischen den Interessen des Beschwerdeführers an der
+Wiedererlangung seiner Freiheit und den entgegenstehenden Interessen des
+Staates an der Gewährleistung der öffentlichen Sicherheit und Ordnung sowie an
+einer wirksamen Verfolgung seines Strafanspruchs vorzunehmen. Die
+Untersuchungshaft ist aufzuheben, sobald Ersatzmassnahmen zum gleichen Ziel
+führen (Art. 197 Abs. 1 lit. c und Art. 212 Abs. 2 lit. c StPO). Das
+Zwangsmassnahmengericht darf die Untersuchungshaft ausserdem nur solange
+erstrecken, als ihre Dauer nicht in grosse Nähe der konkret zu erwartenden
+Strafe rückt (Art. 212 Abs. 3 StPO; BGE 124 I 208 E. 6 S. 215).
+
+6.2 Der Beschwerdeführer befindet sich seit dem 29.
+April 2024 in Haft. Aufgrund des angeklagten Sachverhalts und des zur
+Diskussion stehenden Straftatbestands hat er im Falle eines Schuldspruchs mit
+einer Strafe zu rechnen, welche die bisher ausgestandene Haft deutlich
+übersteigen wird. Ob die (mögliche) Sanktion bedingt oder unbedingt
+ausgesprochen werden wird, spielt dabei keine Rolle (BGE 133 I 270 E. 3.4.2 S.
+281 f.; vgl. auch AGE HB.2018.48 vom 20. November 2018 E. 6.4; Albertini/ Armbruster , in: Basler
+Kommentar, 2. Auflage 2014, Art. 212 StPO N 13).
+
+Mit der Vorinstanz ist festzustellen, dass die Ermittlungen
+noch ganz am Anfang stehen. Gemäss den nachvollziehbaren Ausführungen der
+Staatsanwaltschaft sind im vorliegenden Fall insbesondere noch Spurenvergleiche
+vorzunehmen, Recherchen über gleichgelagerte Einbrüche mit gleichem Werkzeug
+sowie gleichem Modus Operandi zu treffen, das mitgeführte Mobiltelefon auszuwerten,
+die rückwirkende Teilnehmeridentifikation (RTI) des Mobiltelefons des
+Beschwerdeführers einzuholen, die ausländischen Strafregisterauszüge einzuholen
+sowie das Verfahren mittels Anklageerhebung abzuschliessen. Vor allem die
+umfangreichen kriminaltechnischen und forensischen Spurenuntersuchungen an den
+vorgefundenen Gegenständen im Bereich des Tatorts und bei den Beschuldigten
+werden vorhersehbarerweise einige Zeit beanspruchen. Der Umstand, dass der
+Beschwerdeführer bezüglich seines Mobiltelefons die teilweise Siegelung
+beantragte, führt zwangsläufig zu erhöhtem Zeitaufwand. Zudem werden weitere
+Einvernahmen mit dem Beschwerdeführer, den weiteren Beschuldigten und der
+Auskunftsperson vorgenommen werden müssen. Bei dieser Ausgangslage ist der
+Staatsanwaltschaft überdies die Gelegenheit zu geben, Abklärungen zu tätigen,
+ob der Beschwerdeführer für weitere Delikte infrage kommt. Mit Blick auf die
+vorzunehmenden Ermittlungshandlungen erweist sich die vom
+Zwangsmassnahmengericht angeordnete Untersuchungshaft von vorläufig 8 Wochen
+als angemessen und verhältnismässig.
+
+6.3 Nach bundesgerichtlicher Rechtsprechung ist
+dem Staat, welchem die Strafhoheit zusteht, nicht zuzumuten, auf die Sicherung
+der Person des Angeschuldigten zu verzichten und bei dessen Flucht den
+langwierigen Weg des Auslieferungsbegehrens oder eines Ersuchens um Übernahme
+der Strafverfolgung zu beschreiten (BGE 123 I 31 E. 3d S. 36 f.; BGer
+1B_283/2016 vom 26. August 2016 E. 4, 1B_251/2015 vom 12. August 2015 E. 3.1). Eine
+Schriftensperre fällt mangels systematischer Grenzkontrollen im Schengen-Raum
+ausser Betracht ( Härri , in: Basler
+Kommentar StPO, 2. Auflage 2014, Art. 237 N 9 f.; Schmid/Jositsch , StPO Praxiskommentar, 3. Auflage 2018, Art.
+237 N 7). Zudem ist auch nicht ersichtlich, inwiefern eine Meldepflicht den
+Beschwerdeführer an einer Flucht ins Ausland hindern könnte.
+
+6.4 Entsprechend den obigen Ausführungen ist die
+in der angefochtenen Verfügung angeordnete Untersuchungshaft als
+verhältnismässig zu beurteilen.
+
+7.
+
+7.1 Demzufolge ist zu konstatieren, dass die
+Beschwerde abzuweisen ist. Bei diesem Ausgang des Verfahrens hat der
+Beschwerdeführer dessen ordentliche Kosten mit einer Gebühr von CHF 500. zu
+tragen (Art. 428 Abs. 1 StPO in Verbindung mit § 21 Abs. 2 des
+Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+7.2 Die Verfahrensleitung der Beschwerdeinstanz
+ordnet die amtliche Verteidigung an, wenn die beschuldigte Person nicht über
+die erforderlichen Mittel verfügt und die Verteidigung zur Wahrung ihrer
+Interessen geboten ist (Art. 132 Abs. 1 lit. b StPO). Die amtliche Verteidigung
+in Form der unentgeltlichen Verteidigung gemäss Art. 132 Abs. 1 lit. b
+StPO für das Rechtsmittelverfahren wird nur dann bewilligt, soweit die
+beschuldigte Person nicht über die erforderlichen Mittel verfügt, die
+Verteidigung zur Wahrung ihrer Interessen geboten ist und das Rechtsmittel
+nicht aussichtslos erscheint (BGer 1B_705/2011 vom 9. Mai 2012 E. 2.3.2;
+1B_732/2011 vom 19. Januar 2012 E. 7.1 f., BGer 1B_332/2012 vom 15. August 2012
+E 2.2 ff.; Ruckstuhl , in: Basler
+Kommentar StPO, 2. Auflage 2014, Art. 132 N 10).
+
+Als aussichtslos sind Prozessbegehren anzusehen, bei denen
+die Gewinnaussichten beträchtlich geringer sind als die Verlustgefahren und die
+deshalb kaum als ernsthaft bezeichnet werden können. Dagegen gilt ein Begehren
+nicht als aussichtslos, wenn sich Gewinnaussichten und Verlustgefahren ungefähr
+die Waage halten oder jene nur wenig geringer sind als diese. Massgebend ist,
+ob eine Partei, die über die nötigen Mittel verfügt, sich bei vernünftiger
+Überlegung zu einem Prozess entschliessen würde; eine Partei soll einen
+Prozess, den sie auf eigene Rechnung und Gefahr nicht führen würde, nicht deshalb
+anstrengen können, weil er sie nichts kostet. Bei schwerwiegenden Eingriffen in
+die Rechte von Beschwerdeführenden ist die Aussichtslosigkeit zwar nur mit
+grosser Zurückhaltung anzunehmen. Auch in Haftprüfungsfällen besteht jedoch
+kein bedingungsloser Anspruch auf kostenlose Beschwerdeführung und Rechtsverbeiständung
+(vgl. BGE 129 I 129, E. 2.3.1, mit zahlreichen Hinweisen).
+
+Aus den obigen Darlegungen ergibt sich, dass im Zeitpunkt der
+Beschwerdeerhebung sowohl der dringende Tatverdacht als auch die Fluchtgefahr
+klarerweise vorlagen.  Hervorzuheben gilt es in diesem Zusammenhang, dass der Beschwerdeführer
+nur wenige Minuten nach Eingang der der Polizeimeldung durch die
+Auskunftsperson D____ in unmittelbarer Tatnähe festgenommen werden konnte.
+Überdies trifft die Beschreibung eines der Täter durch die Auskunftsperson
+genau auf den Beschwerdeführer zu und bei diesem konnten  wie auch unweit des
+Tatortes  blaue Latexhandschuhe sichergestellt werden. Des Weiteren sind seine
+ersten Aussagen wenig glaubwürdig und die angeordnete Haftdauer von 8 Wochen
+(bei möglichen 3 Monaten) und noch umfangreich vorzunehmenden
+Ermittlungshandlungen verhältnismässig.
+
+Dies berücksichtigend waren die Gewinnaussichten des
+Beschwerdeführers im Zeitpunkt der Beschwerdeerhebung beträchtlich geringer als
+die Verlustgefahren, weswegen (selbst unter Beachtung der anzuwendenden grossen
+Zurückhaltung bei Haftbeschwerden) die vorliegende Beschwerde gegen die
+Verfügung des Zwangsmassnahmengerichts Basel-Stadt vom 2. Mai 2024 im Zeitpunkt
+der Beschwerdeerhebung als klar aussichtslos bezeichnet werden muss. Demnach
+ist das Gesuch um amtliche Verteidigung abzuweisen. Da die Beschwerde als klar
+aussichtlos dasteht, kommt in casu auch die Gewährung der unentgeltlichen
+Prozesspflege nicht in Betracht (vgl. BGer 1B_73/2015 vom 19. März 2015, E.
+5.3.).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird
+abgewiesen.
+
+Das Gesuch um Bewilligung der
+amtlichen Verteidigung wird abgewiesen.
+
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird auf CHF 500. (einschliesslich Auslagen) festgesetzt
+und der Staatsanwaltschaft als verfahrensleitender Behörde in Rechnung gestellt.
+Die Regelung der Kostenauflage wird dem Sachentscheid vorbehalten.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Straf- bzw. Zwangsmassnahmengericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      lic. iur. Marius
+Vogelsanger
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
