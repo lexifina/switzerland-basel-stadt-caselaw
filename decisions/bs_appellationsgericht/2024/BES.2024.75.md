@@ -1,0 +1,369 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.655"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.75"
+docket_2: "AG.2024.655"
+decided: "2024-06-03"
+published: "2024-11-13"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77648&W10_KEY=3048461&nTrefferzeile=200&Template=search_result_document.html"
+cites_decisions: ["6B_1004/2019", "6B_193/2017", "6B_322/2017", "6B_389/2013", "6B_392/2013", "6B_752/2008", "6B_800/2015", "6B_950/2020", "7B_654/2024", "BGE 138 IV 197", "BGE 142 IV 45"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-418.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-430.md"]
+---
+
+# Parteientschädigung bei Verfahrenseinstellung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.75
+
+ENTSCHEID
+
+vom 13.
+November 2024
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiber
+MLaw Dennis Zingg
+
+Beteiligte
+
+A____ , geb. [...]                                                       
+Beschwerdeführerin 1
+
+[...]                                                                                           Beschuldigte
+
+vertreten durch B____, Advokat,
+
+[...]
+
+B____ Beschwerdeführer
+2
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, Postfach,
+4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 3. Juni 2024
+
+betreffend Parteientschädigung
+bei Verfahrenseinstellung
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft Basel-Stadt führte gegen A____ (nachfolgend:
+Beschwerdeführerin 1) ein Verfahren wegen des Verdachts auf Verletzung der
+Verkehrsregeln bzw. Fahren eines motorlosen Fahrzeugs in fahrunfähigem Zustand.
+Ihr wurde vorgeworfen, in der Nacht vom 3. auf den 4. November 2023 um 01.40
+Uhr ihr Fahrrad nicht beherrscht zu haben und dadurch eine Kollision mit einem
+nicht mehr näher ermittelbaren Wohnmobil (mit-)verursacht zu haben. Die
+Staatsanwaltschaft stellte das Verfahren mangels Beweises mit
+Einstellungsverfügung vom 3. Juni 2024 ein und verfügte, dass dem
+Wahlverteidiger der Beschwerdeführerin 1, B____, Advokat (nachfolgend:
+Beschwerdeführer 2), keine Entschädigung ausgerichtet werde. Der
+Beschwerdeführer 2 ersuchte daraufhin mit Eingabe vom 5. Juni 2024 um
+Wiedererwägung des staatsanwaltschaftlichen Entscheids. In der Folge hielt die
+Staatsanwaltschaft vollumfänglich an der Einstellungsverfügung vom 3. Juni
+2024 fest.
+
+Gegen die
+Einstellungsverfügung vom 3. Juni 2024 haben die Beschwerdeführerin 1 und der
+Beschwerdeführer 2 mit Eingabe vom 7. Juni 2024 Beschwerde erhoben. Namentlich
+haben sie die Aufhebung der Einstellungsverfügung und die Entrichtung einer
+angemessenen Parteientschädigung bis zur Verfahrenseinstellung sowie eine
+angemessene Parteientschädigung für das Beschwerdeverfahren begehrt. Die
+Staatsanwaltschaft hat mit Eingabe vom 8. Juli 2024 Stellung zur Beschwerde
+bezogen und die kostenpflichtige Abweisung der Beschwerde beantragt. Daraufhin
+hat der Beschwerdeführer 2 innert erstreckter Frist mit Eingabe vom 2.
+September 2024 repliziert.
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren und unter Beizug der Akten ergangen.
+Die Einzelheiten der Parteistandpunkte ergeben sich, soweit für den
+vorliegenden Entscheid von Bedeutung, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+Art. 393 Abs. 1 lit. a in Verbindung mit Art. 20 Abs. 1 lit. b der
+Schweizerischen Strafprozessordnung (StPO, SR 312.0) unterliegen Verfügungen
+der Staatsanwaltschaft der Beschwerde. Für Einstellungsverfügungen wird
+dies auch in Art. 322 Abs. 2 StPO ausdrücklich statuiert. Zuständige
+Beschwerdeinstanz ist das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in
+Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG
+154.100]), das nach Art. 393 Abs. 2 StPO mit freier Kognition entscheidet.
+
+1.2 Vorliegend
+richtet sich die Beschwerde nicht gegen die verfügte Einstellung des
+Verfahrens, sondern ausschliesslich gegen die Abweisung in Ziff. 3 der
+Einstellungsverfügung abgewiesene Entschädigungsbegehren des Wahlverteidigers
+der Beschwerdeführerin 1. Die am 1. Januar 2024 in Kraft getretene Fassung von
+Art. 429 Abs. 3 StPO hält fest, dass der in Art. 429 Abs. 1 lit. a StPO
+geregelte Entschädigungsanspruch im Falle einer Wahlverteidigung
+ausschliesslich der Verteidigung unter Vorbehalt der Abrechnung mit der
+Klientschaft zustehe. Das Bundesgericht hat indes klargestellt, dass die
+Rechtsmittellegitimation der Wahlverteidigung nicht an die Stelle derjenigen
+der beschuldigten Person tritt. Die beschuldigte Person hat auch bei Vorliegen
+einer Wahlverteidigung ein selbständiges Interesse daran, den
+Entschädigungsentscheid überprüfen zu lassen (BGer 7B_654/2024 vom 1. Oktober
+2024 E. 2.3, zur Publikation vorgesehen). Somit ist vorliegend sowohl auf
+die rechtzeitig erhobene Beschwerde von der Beschwerdeführerin 1 als auch von
+deren Wahlverteidiger, Beschwerdeführer 2, einzutreten. Es kommt das
+schriftliche Verfahren zur Anwendung (Art. 397 Abs. 1 StPO).
+
+2.
+
+2.1 In
+der Beschwerde (Akten S. 3 ff.) und der Replik (Akten S. 25 ff.) wird
+zusammengefasst Nachfolgendes vorgebracht: Da im Verfahren gegen die
+Beschwerdeführerin 1 Zwangsmassnahmen in Form von Blut- und Urinproben
+angeordnet worden seien, könne keine Rede davon sein, dass es sich zu Beginn
+des Verfahrens um einen Bagatellfall gehandelt habe. Der Beschwerdeführerin 1,
+die Opfer eines Unfalls mit Führerflucht geworden sei, sei überdies in der
+Tatnacht nicht bewusst gewesen, dass gegen sie ein Verfahren eingeleitet wurde.
+Aufgrund der für sie nicht nachvollziehbaren Einleitung eines Verfahrens gegen
+sie als Opfer sei sowohl für sie als auch für ihre Eltern klar gewesen, dass
+anwaltlicher Beistand zwingend notwendig sei. Weiter sei dem Beschwerdeführer 2
+vor der Einvernahme die Akteneinsicht verwehrt worden, weshalb eine Begleitung
+der Beschwerdeführerin 1 zu ihrer Einvernahme zwingend notwendig gewesen sei.
+Der Beschwerdeführer 2 habe allerdings, um die Kosten tief zu halten, auf die
+Teilnahme an der Zeugeneinvernahme verzichtet. Trotzdem seien Kosten in der
+Höhe von CHF 1'300. angefallen, was für die Beschwerdeführerin 1 als Studentin
+keine geringen Aufwendungen seien. Weiter käme hinzu, dass sich die
+Beschwerdeführerin mit einem mehrmonatigen Fahrradfahrverbot konfrontiert gesehen
+habe, was für sie, die auf ihr Fahrrad angewiesen sei, einschneidend sein
+könne. Insgesamt sei der Anwaltsbeizug mehr als gerechtfertigt gewesen.
+Schliesslich wird in der Replik vorgebracht, die Rechtsmittelbelehrung in der
+Einstellungsverfügung sei insofern falsch, als nicht nur die Parteien, sondern
+auch die Wahlverteidigung als Partei aufzuführen sei, die ein Rechtsmittel
+ergreifen könne bzw. müsse.
+
+2.2 Die
+Staatsanwaltschaft verweist in ihrer Stellungnahme (Akten S. 15 ff.) zunächst
+auf die Begründung in ihrer Einstellungsverfügung vom 3. Juni 2024 (Akten
+S. 1 f.). Es habe sich beim Tatvorwurf um eine Übertretung gehandelt,
+wobei die Schwere des Tatvorwurfs sowie der Grad der rechtlichen und
+tatsächlichen Komplexität keinen Anlass für den Beizug eines Wahlverteidigers
+geboten habe. Es sei zudem nicht erkennbar, dass die Beschwerdeführerin 1 in
+ihren persönlichen und beruflichen Verhältnissen aufgrund des eingeleiteten
+Verfahrens beeinträchtigt gewesen sei. Weiter führt die Staatsanwaltschaft in
+ihrer Stellungnahme aus, die Beschwerdeführerin 1 hätte im Rahmen ihrer
+Einvernahme die Behörden auch alleine von ihrer Unschuld überzeugen können,
+zumal sie bereits am Unfalltag das Fahren des Velos bestritten habe, nachdem
+sie von den Polizisten über die Konsequenzen des Fahrens eines Fahrrads in
+alkoholisiertem Zustand aufgeklärt worden sei. Es sei nicht nachvollziehbar,
+inwiefern der Beschwerdeführerin 1 nicht klar gewesen sein solle, was ihr vorgeworfen
+werde. Die Polizisten hätten ihr den Vorhalt nachweislich nach der
+Unfallaufnahme am 4. November 2023 mitgeteilt und aufgrund dessen sei auch die
+Blutprobe angeordnet worden. Das geltend gemachte mutmassliche
+Fahrradfahrverbot treffe die in der Stadt Basel wohnhafte und am gleichen Ort
+studierende Beschwerdeführerin zudem eindeutig weniger, als bspw. Berufschauffeure
+ein Ausweisentzug treffe. Weiter habe sich die Verweigerung der Akteneinsicht vollumfänglich
+auf Art. 101 Abs. 1 StPO gestützt, wonach vor der ersten Einvernahme kein Akteneinsichtsrecht
+bestehe.
+
+3.
+
+3.1 Wird
+die beschuldigte Person ganz oder teilweise freigesprochen oder wird das
+Verfahren gegen sie eingestellt, so hat sie Anspruch auf Entschädigung ihrer
+Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte (Art. 429
+Abs. 1 lit. a StPO) . Hat die beschuldigte Person einen
+Wahlverteidiger oder eine Wahlverteidigerin mit ihrer Verteidigung betraut,
+steht dieser Anspruch unter Vorbehalt der Abrechnung mit der Klientschaft
+ausschliesslich der Wahlverteidigung zu (Art. 429 Abs. 3 StPO). Die dabei zu ersetzenden
+Aufwendungen sind in erster Linie die Kosten der frei gewählten Verteidigung.
+Die Höhe der Entschädigung der Wahlverteidigung richtet sich nach den
+kantonalen Anwaltstarifen sowie nach dem Zeitaufwand, den der Verteidiger für
+die Verteidigung der beschuldigten Person aufgewendet hat. Grundsätzlich ist
+die Parteientschädigung ungekürzt zu gewähren ( Griesser ,
+in: Donatsch/Lieber/Summers/Wohlers [Hrsg.], Kommentar zur Schweizerischen
+Strafprozessordnung, 3. Auflage, Zürich 2020, Art. 429 N 4d mit Verweis
+auf BGer 6B_392/2013 vom 4. November 2013 E. 2; Wehrenberg/Frank ,
+in: Basler Kommentar, 3. Auflage 2023, Art. 429 StPO N 12 ff.) . Allfällige
+Kürzungen sind zu begründen (BGer 6B_1004/2019 vom 11. März 2020 E. 4.1.1,
+6B_389/2013 vom 26. November 2013 E. 1, 6B_752/2008 vom 28. November 2008
+E. 1.5.2 ). Gemäss höchstrichterlicher Rechtsprechung müssen sich sowohl
+der Beizug einer Verteidigung als auch der von der Verteidigung betriebene
+Aufwand als angemessen erweisen (BGE 138 IV 197 E. 2.3.4; vgl. dazu Wehrenberg/ Frank , a.a.O., Art. 429
+StPO N 13 f.). Ebenfalls zu entschädigen sind wesentliche Nebenkosten
+(notwendige Auslagen) der Verteidigung wie die vom Anwalt verrechnete
+Kleinspesenpauschale für Fotokopien, Telefongespräche, Fahrspesen, Verpflegung,
+Unterkunft, etc. sowie die Mehrwertsteuer ( Wehrenberg/Frank ,
+a.a.O., Art. 429 StPO N 17). Eine Herabsetzung der Entschädigung ist
+unter den in Art. 430 StPO vorgesehenen Fällen möglich.
+
+3.2 Verschiedentlich
+bejahte das Bundesgericht auch bei blossen Übertretungen einen Anspruch auf
+Entschädigung für Anwaltskosten. Dies allerdings erst, wenn die
+Rechtsvertretung nach Ergehen des Strafbefehls beigezogen wurde und die
+Übertretung von der Staatsanwaltschaft mit einer gewissen Hartnäckigkeit
+verfolgt wurde (BGE 142 IV 45 E. 2.2; BGer 6B_950/2020 vom 25. November 2020 E.
+2.3.1, 6B_322/2017 vom 27. Oktober 2017 E. 2.4.2, 6B_193/2017 vom 31. Mai 2017
+E. 2.6, 6B_800/2015 vom 6. April 2016 E. 2.5 f.; Wehrenberg/Frank , a.a.O., Art. 429 StPO N 14a).
+
+3.3 Aus
+dem Unfallrapport vom 7. Januar 2024 (Akten Staatsanwaltschaft S. 15) geht
+hervor, dass sich die Beschwerdeführerin 1 in der Unfallnacht bei den
+Polizeibeamten erkundigt habe, was für Konsequenzen auf sie zukommen könnten. Eine
+Polizeibeamtin habe ihr erklärt, dass das Fahren eines Fahrrades unter
+Alkoholeinfluss Administrativmassnahmen nach sich ziehen könne. Ab diesem
+Zeitpunkt habe die Beschwerdeführerin 1 das nach Abklärung beim zuständigen
+Staatsanwalt als Fahren qualifizierte «Trottinettlen» bestritten. Obschon die
+selbstbelastenden Aussagen mangels rechtsgenüglicher Aufklärung nicht zu Lasten
+der Beschwerdeführerin 1 verwertbar sind, geht aus dem Unfallrapport hervor,
+dass spätestens ab diesem Zeitpunkt der Beschwerdeführerin 1 klar gewesen sein
+dürfte, weshalb gegen sie ein Strafverfahren eröffnet wurde. Gemäss
+Unfallrapport habe sich die Beschwerdeführerin 1 auch «sehr normal» verhalten
+und klare Angaben gemacht, ohne dass ihr der hohe Blutalkoholwert anzumerken gewesen
+sei. Diese Schilderungen im Rapport werden von den Beschwerdeführern nicht
+bestritten und es gibt keinen ersichtlichen Grund, deren Richtigkeit
+anzuzweifeln. Dem Argument der Beschwerdeführenden, wonach es der
+Beschwerdeführerin 1 unerklärlich gewesen sei, weshalb ein Verfahren gegen sie
+eingeleitet wurde, kann dementsprechend nicht gefolgt werden.
+
+3.4 Selbst
+wenn für die Beschwerdeführerin 1 nicht sofort erkennbar gewesen wäre, dass das
+gegen sie eröffnete Verfahren eine blosse Übertretung zum Gegenstand hat,
+erscheint der Beizug eines Rechtsanwalts in diesem Verfahrensstadium als nicht
+erforderlich. Der Beschwerdeführerin 1 wäre zuzumuten gewesen, nach der
+Verfahrenseröffnung durch die Staatsanwaltschaft aufgrund der klaren Umstände
+zumindest noch bis zum Zeitpunkt zuzuwarten, bis feststand, ob das
+Strafverfahren überhaupt weiterzuführen war bzw. mit einem Strafbefehl
+abgeschlossen wird. Dies deshalb, weil das mutmasslich drohende und zeitlich
+begrenzte Fahrradfahrverbot die Beschwerdeführerin 1 nicht einschneidend hätte
+treffen können. Da sie mitten in der Stadt wohnt und offenbar auch hier studiert,
+hätte sie für diese Zeit ohne weiteres die öffentlichen Verkehrsmittel nutzen
+können. Auch die persönlichen Umstände der Beschwerdeführerin 1 sprechen dafür,
+dass ein weiteres Zuwarten zumutbar war. Offenbar ist sie Studentin und sollte
+deshalb in der Lage gewesen sein, sich in diesem vergleichsweise einfachen
+Verfahren  zumindest bis tatsächlich mittels Strafbefehl eine Strafe gedroht
+hätte  selber zurecht zu finden. Daran vermag auch nichts zu ändern, dass es
+im Verfahren mit der angeordneten Blut- und Urinprobe bereits zu einer
+Zwangsmassnahme gegenüber der Beschwerdeführerin 1 gekommen ist und die
+Beschwerdeführerin 1 zugleich auch Opfer der Kollision war. Der
+Staatsanwaltschaft ist zuzustimmen, dass es sich bei der angeordneten
+Zwangsmassnahme grundsätzlich um einen geringfügigen Eingriff in die
+persönliche Freiheit handelt. Es liegen auch keine Hinweise darauf vor, dass
+die angeordneten Zwangsmassnahmen oder die gleichzeitige Betroffenheit als
+Opfer im vorliegenden Fall zu besonderen Schwierigkeiten oder einer Komplexität
+geführt hätten, so dass der Beizug eines Anwalts zu diesem Zeitpunkt notwendig
+erscheinen würde.
+
+3.5 Auch
+zum Einwand der verweigerten Akteneinsicht gilt es festzuhalten, dass der
+konkrete Vorwurf entgegen der Ansicht der Beschwerdeführer spätestens nach dem
+Telefonat der Polizisten mit dem zuständigen Staatsanwalt und der Aufklärung
+der Beschwerdeführerin 1 über die möglichen Konsequenzen klar war.
+Diesbezüglich bedurfte es somit auch keiner vorgängigen Akteneinsicht. Der
+zentrale Punkt, dass die Staatsanwaltschaft das «Trottinettlen» entgegen der
+Ansicht der Beschwerdeführerin 1 als Fahren qualifiziert, war der
+Beschwerdeführerin 1, wie aus dem Unfallrapport hervorgeht, bekannt (Akten
+Staatsanwaltschaft S. 15). Dass die Einstellung des Verfahrens hauptsächlich
+deshalb erfolgte, weil die Beschwerdeführerin 1 nicht rechtzeitig über die
+Beschuldigtenrechte informiert wurde und ihre Aussagen unmittelbar nach dem
+Ereignis folglich nicht verwertet werden konnten, spricht entgegen der Ansicht
+der Beschwerdeführer gerade nicht für eine besondere Schwierigkeit oder
+Komplexität des Falls.
+
+3.6 Auch
+die in der Beschwerde beanstandete Rechtsmittelbelehrung erweist sich nicht als
+falsch. Der verwendete Begriff der Partei ist wie auch bei Art. 382 Abs. 2 StPO
+umfassend zu verstehen, wobei jeder Person die Rechtsmittellegitimation
+zukommt, die vom angefochtenen Entscheid berührt ist und ein rechtlich
+geschütztes Interesse geltend machen kann (vgl. Lieber ,
+in: Donatsch/Lieber/Summers/Wohlers [Hrsg.], Kommentar zur Schweizerischen
+Strafprozessordnung, 3. Auflage, Zürich 2020, Art. 382 N 2). In
+diesem Zusammenhang ist in erster Linie an die in Art. 104 Abs. 1 und Art. 105
+Abs. 1 StPO genannten Beteiligten zu denken. Da es sich bei Art. 105
+Abs. 1 StPO allerdings um keine abschliessende Aufzählung handelt, sind
+Wahlverteidiger und Wahlverteidigerinnen richtigerweise nicht davon ausgenommen
+und vom Begriff der Partei miterfasst ( Küffer ,
+in: Basler Kommentar, 3. Auflage 2023, Art. 105 StPO N 1; vgl. auch Lieber , a.a.O., Art. 105 N 9). Im
+Übrigen kann von der Verteidigung erwartet werden, dass sie ihre Rechte gemäss
+Art. 429 Abs. 3 StPO kennt. Eine separate Eröffnung gegenüber der
+Wahlverteidigung drängt sich lediglich dann auf, wenn sie im Zeitpunkt der
+Verfügung nicht mehr als Wahlverteidigung mandatiert ist und Gefahr besteht,
+dass sie von der Verfügung gar nicht oder nicht rechtzeitig erfährt. Dem ist
+vorliegend nicht so.
+
+3.7 Nach
+dem Erwogenen kann der Beizug eines Verteidigers in diesem frühen
+Verfahrensstadium und aufgrund der fehlenden Komplexität der Fallanlage nicht
+als angemessene Ausübung der Verfahrensrechte im Sinne von Art. 429 Abs. 1 lit.
+a StPO gewertet werden. Die Beschwerde ist abzuweisen.
+
+4.
+
+Gemäss Art. 428
+Abs. 1 StPO tragen die Parteien die Kosten des Rechtsmittelverfahrens nach
+Massgabe ihres Obsiegens oder Unterliegens. Bei diesem Ausgang des Verfahrens
+unterliegen die Beschwerdeführerin 1 und der Beschwerdeführer 2 vollumfänglich.
+ Sie haben die Kosten des Beschwerdeverfahrens mit einer Entscheidgebühr von
+CHF 500. in solidarischer Verbindung zu tragen (Art. 418 Abs. 2 StPO in Verbindung
+mit § 21 Abs. 2 Gerichtsgebührenreglement [GGR, SG 154.810]). Zufolge des Unterliegens
+der Beschwerdeführenden ist keine Parteientschädigung auszurichten
+(Art. 436 Abs. 1 in Verbindung mit Art. 429 Abs. 1 lit. a StPO e
+contrario ).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin 1 und der Beschwerdeführer 2
+tragen die Gerichtskosten des Beschwerdeverfahrens solidarisch mit einer Gebühr
+von CHF 500..
+
+Mitteilung an:
+
+- Beschwerdeführerin 1
+
+- Beschwerdeführer 2
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      MLaw Dennis Zingg
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
