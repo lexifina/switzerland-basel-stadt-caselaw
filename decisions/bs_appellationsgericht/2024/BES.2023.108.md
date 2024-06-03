@@ -1,0 +1,530 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.349"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2023.108"
+docket_2: "AG.2024.349"
+decided: "2024-06-03"
+published: "2025-02-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76943&W10_KEY=3048482&nTrefferzeile=75&Template=search_result_document.html"
+cites_decisions: ["1B_253/2012", "6B_960/2014", "BGE 143 IV 241", "VD.2020.194", "VD.2022.144"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# Nichtanhandnahme
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2023.108
+
+ENTSCHEID
+
+vom 3. Juni 2024
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und Gerichtsschreiberin
+lic. iur. Barbara Grange
+
+Beteiligte
+
+A____ , geb. [...]                                                          Beschwerdeführerin
+
+[...]
+
+vertreten durch [...], Advokat,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin 1
+
+Binningerstrasse 21, 4001 Basel
+
+B____ Beschwerdegegnerin
+2
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+C____ Beschwerdegegnerin
+3
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+D____ Beschwerdegegnerin
+4
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+E____ Beschwerdegegnerin
+5
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+F____ Beschwerdegegnerin
+6
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+G____ Beschwerdegegner
+7
+
+Gesundheitsdepartement
+Basel-Stadt
+
+Malzgasse 30, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 10. Juli 2023
+
+betreffend Nichtanhandnahme
+
+Sachverhalt
+
+Mit Eingabe vom
+2. November 2022 erstattete A____ bei der Staatsanwaltschaft Strafanzeige gegen
+die sechs Mitarbeitenden des Gesundheitsdepartements (GD) B____, C____, D____, E____,
+F____ und G____ wegen Amtsmissbrauchs, Verletzung des Amtsgeheimnisses und
+falscher Anschuldigung. Die Staatsanwaltschaft erledigte die beanzeigte
+Angelegenheit mit begründeter Nichtanhandnahmeverfügung vom 10. Juli 2023.
+Das Nichteintreten auf die Strafanzeige erklärte sie mit der eindeutigen
+Nichterfüllung der fraglichen Straftatbestände.
+
+Gegen diese
+Nichtanhandnahmeverfügung hat A____ mit Eingabe vom 19. Juli 2023
+Beschwerde erhoben. Sie lässt die Aufhebung der Nichtanhandnahmeverfügung
+beantragen, wobei die Staatsanwaltschaft anzuweisen sei, das Strafverfahren
+gegen die Beschwerdegegnerinnen und -gegner 2 bis 7 fortzuführen und nach
+Vornahme der gebotenen Beweiserhebungen Anklage zu erheben, dies alles unter
+o/e- Kostenfolge. Mit Stellungnahme vom 22. August 2023 beantragt die Staatsanwaltschaft
+die kostenpflichtige Abweisung der Beschwerde. In verfahrensrechtlicher
+Hinsicht beantragt sie, es seien die Akten der Appellationsgerichtsverfahren
+VD.2020.194 und BES.2022.127 beizuziehen. Nach mehrfach erstreckter Frist hält
+die Beschwerdeführerin mit Replik vom 14. Februar 2024 an der Beschwerde fest.
+
+Der vorliegende
+Entscheid ergeht im schriftlichen Verfahren. Es wurden die Vorakten sowie die
+Appellationsgerichtsurteile in den Verfahren VD.2020.194 (betreffend Bewilligungsentzug
+zur Führung eines Spitex-Dienstes), BES.2022.127 (betreffend Entschädigung nach
+Verfahrenseinstellung), BES.2022.130 (betreffend abgewiesene Verfahrensanträge)
+und VD.2022.144 (betreffend Informationszugang und Akteneinsicht) beigezogen.
+Für die Einzelheiten des Sachverhalts und der Parteistandpunkte wird, soweit
+für den Entscheid von Relevanz, in den nachfolgenden Erwägungen eingegangen.
+
+Erwägungen
+
+1.
+
+Nichtanhandnahmeverfügungen
+der Staatsanwaltschaft können innert zehn Tagen mittels Beschwerde bei der
+Beschwerdeinstanz angefochten werden (Art. 393 Abs. 1 lit. a und Art. 310 Abs.
+2 i.V.m. Art. 322 Abs. 2 Strafprozessordnung [StPO, SR 312.0]). Das
+Beschwerdegericht überprüft die Verfügung mit voller Kognition (Art. 393 Abs. 2
+StPO). Deren Beurteilung fällt in die Zuständigkeit des Appellationsgerichts
+als Einzelgericht (§ 88 Abs. 1 i.V.m. § 93 Abs. 1 Ziff. 1
+Gerichtsorganisationsgesetz [GOG, SG 154.100). Die Beschwerdeführerin ist als potentiell
+Geschädigte und potentielle Privatklägerin zur Beschwerde legitimiert (Art.
+Art. 104 Abs. 1 lit. b StPO, Art. 105 Abs. 1 lit. a und Abs. 2 StPO). Die
+Beschwerde ist innert zehn Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen (Art. 396 Abs. 1 StPO). Auf die rechtzeitig und
+formgültig erhobene Beschwerde ist einzutreten.
+
+2.
+
+2.1 Eine
+Nichtanhandnahme verfügt die Staatsanwaltschaft unter anderem, wenn aufgrund
+der Strafanzeige oder des Polizeirapports feststeht, dass die fraglichen
+Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht erfüllt sind
+oder Verfahrenshindernisse bestehen (Art. 310 Abs. 1 lit. a und b StPO).
+Wie bei der Frage, ob ein Strafverfahren über eine (definitive)
+Verfahrenseinstellung durch die Strafverfolgungsbehörde erledigt werden kann,
+gilt auch bezüglich der Nichtanhandnahme der aus dem Legalitätsprinzip
+fliessende Grundsatz in dubio pro duriore (Art. 5 Abs. 1
+Bundesverfassung [BV, SR 101] und Art. 2 Abs. 1 i.V.m. Art. 309 Abs. 1,
+Art. 319 Abs. 1 und Art. 324 Abs. 1 StPO). Dieser gebietet, dass eine
+Nichtanhandnahme oder Einstellung durch die Staatsanwaltschaft nur bei klarer
+Straflosigkeit bzw. offensichtlich fehlenden Prozessvoraussetzungen angeordnet
+werden darf. Bei der Beurteilung dieser Frage verfügt die Staatsanwaltschaft
+über einen gewissen Spielraum (BGer 1B_253/2012 vom 19. Juli 2012 E. 2.1,
+6B_960/2014 vom 30. April 2015 E. 2.1). Eine Nichtanhandnahmeverfügung hat zu
+ergehen, wenn bereits aus den Ermittlungsergebnissen oder aus der Strafanzeige
+selbst ersichtlich wird, dass der zur Beurteilung vorliegende Sachverhalt mit
+Sicherheit unter keinen Straftatbestand fällt oder gar nicht verfolgbar ist,
+sodass die Führung eines Verfahrens geradezu aussichtslos erscheint. Sie kommt
+somit bei Fällen in Frage, die allein aufgrund der Akten sowohl betreffend
+Sachverhalt als auch in rechtlicher Hinsicht klar sind. Die Vorschrift von Art.
+310 StPO hat zwingenden Charakter; liegen deren Voraussetzungen vor, darf die
+Staatsanwaltschaft kein Strafverfahren eröffnen, sondern hat zwingend eine
+Nichtanhandnahmeverfügung zu erlassen. Im Zweifelsfall, wenn die
+Nichtanhandnahmegründe nicht mit absoluter Sicherheit gegeben sind, muss das
+Verfahren jedoch eröffnet werden (vgl. BGE 143 IV 241 E. 2.2.1, 137 IV 219
+E. 7; Vogelsang , in:
+Niggli/Heer/Wiprächtiger [Hrsg.], Basler Kommentar StPO, 3. Auflage 2023, Art.
+310 N 6 ff.; Bosshard/Landshut , in:
+Donatsch et al. [Hrsg.], Kommentar StPO, 3. Auflage 2020, Art. 310 N 4).
+
+2.2 Hintergrund
+der Anzeige der Beschwerdeführerin gegen Mitarbeitende des GD ist die Führung
+eines bewilligungspflichtigen Spitexbetriebs im Bereich der Krankenpflege durch
+die Beschwerdeführerin. Die Bewilligung zur Führung eines solchen Betriebs
+erhielt sie erstmals mit Verfügung des GD vom 9. Februar 2004. Aufgrund nicht
+absolvierter Weiterbildung wurde ihr die Bewilligung allerdings mit Verfügung
+des GD vom 4. Dezember 2007 wieder entzogen. Auf Gesuch der Beschwerdeführerin
+wurde ihr mit Verfügung des GD vom 28. Juli 2009 erneut eine Bewilligung zur
+Führung eines Spitexbetriebs im Bereich der Krankenpflege erteilt. Ein zweiter
+Bewilligungsentzug erging mit Verfügung des GD vom 11. Juli 2019, diesmal mit
+der Begründung, die Vertrauenswürdigkeit der Beschwerdeführerin sei nicht mehr
+gegeben. Der darauffolgende Rechtsstreit zwischen der Beschwerdeführerin und
+dem GD endete vor Verwaltungsgericht. Dieses entschied mit Urteil vom 12.
+August 2021 (VD.2020.194), dass die der Beschwerdeführerin die Bewilligung
+entziehende Verfügung des GD vom 11. Juli 2019 aufzuheben sei. Aus der
+Begründung des Urteils ergeht, dass das Verwaltungsgericht die
+Vertrauenswürdigkeit der Beschwerdeführerin als weiterhin gegeben erachtete (E.
+8.1).
+
+2.3
+
+2.3.1 Die
+Staatsanwaltschaft fasst in der Nichtanhandnahmeverfügung zusammen, die
+Beschwerdeführerin habe einen Amtsmissbrauch darin erblickt, dass Mitarbeitende
+des GD unter einem Vorwand einen unangekündigten Aufsichtsbesuch durchgeführt
+und daraufhin eine Verfügung erlassen hätten. Ausserdem sei sie im kantonalen
+Datenmarkt als «Moslem» eingetragen, was nicht zutreffe. Mit Verweis auf
+Erwägungen des Appellationsgerichts im Entscheid AGE VD.2020.194 stehe
+allerdings fest, dass die Mitarbeitenden des GD den Aufsichtsbesuch durchgeführt
+hätten, als sie bereits im Besitz fraglicher Rechnungen waren, mithin kein
+fingierter Grund für diesen vorgeschoben worden sei. Die vom
+Appellationsgericht offen gelassene Frage nach der Zulässigkeit der Teilnahme
+einer Vertreterin der Krankenkasse beim Aufsichtsbesuch würde die Schwelle
+eines Amtsmissbrauchs nicht erreichen, da die Absicht der Zufügung eines
+unrechtmässigen Nachteils fehle. Was die Vorwürfe der mangelnden
+Protokollierung eines Treffens zwischen einer Vertretung der Staatsanwaltschaft
+und Mitarbeitenden des GD sowie die in diesem Zusammenhang gerügte Verletzung
+des rechtlichen Gehörs anbelange, hätte die Beschwerdeführerin diese Vorwürfe
+im Verwaltungsverfahren und nicht in einer Strafanzeige vorbringen müssen.
+Allfällige Verfehlungen (der Aktenführungspflicht) wären allerdings mangels
+Vorteils- oder Schädigungsabsicht nicht genügend, um einen Amtsmissbrauch zu
+begründen. Schliesslich sei davon auszugehen, dass die Beschwerdeführerin seit
+der Erfassung ihrer Daten im kantonalen Datenmarkt am 9. Juli 2002 als
+Angehörige des muslimischen Glaubens geführt werde, weshalb keine Hinweise
+vorliegen würden, dass jemand im Zusammenhang mit dem Rechtsstreit der
+Beschwerdeführerin mit dem GD ihr mit diesem (offenbar irrtümlichen) Eintrag
+schaden wollte.
+
+2.3.2 Die
+Beschwerdeführerin lässt diesen Ausführungen entgegenhalten, die Staatsanwaltschaft
+setzte sich in der Nichtanhandnahmeverfügung nicht mit ihren Argumenten
+betreffend einen möglichen Amtsmissbrauch auseinander. Es werde nicht
+begründet, weshalb es betreffend die Teilnahme einer Vertreterin der
+Krankenkasse am Aufsichtsbesuch des GD an der Absicht der Zufügung eines
+unrechtmässigen Nachteils fehle. Aus der Verfügung ergehe nicht, weshalb eine
+solche Absicht nicht vorstellbar sei und eine Vorteilsabsicht werde erst gar
+nicht thematisiert. Das nicht protokollierte Treffen zwischen der
+Staatsanwaltschaft und Mitarbeitenden des GD betreffe auch keinesfalls nur das
+verwaltungsrechtliche Verfahren. Da dieses Treffen hinter dem Rücken der
+Beschwerdeführerin stattgefunden habe, hätten die Beteiligten den Vorteil der
+Informationshoheit behalten. Es bleibe ungeklärt, weshalb das Treffen nicht
+protokolliert worden sei.
+
+2.3.3 Amtsmissbrauch
+liegt vor, wenn die Täterschaft die ihr verliehenen Machtbefugnisse
+unrechtmässig anwendet, indem sie Kraft ihres Amtes hoheitliche Verfügungen
+trifft oder auf andere Art Zwang ausübt, wo dies nicht geschehen dürfte.
+Amtsmissbrauch liegt in objektiver Hinsicht vor, wenn eine unter den
+Beamtenbegriff fallende Person in Grundfreiheiten eingreift, ohne dass die dazu
+gesetzlich notwendigen Voraussetzungen gegeben sind. Allerdings liegt ein
+Amtsmissbrauch nicht in jeder diesbezüglichen Verfügung, bei der sich im
+Nachgang (etwa in einem Beschwerdeverfahren) ergibt, dass die gesetzlichen
+Voraussetzungen nicht vorgelegen haben. Zum einen besteht ein gewisser Ermessensspielraum,
+sodass erst ein eigentlicher Ermessensmissbrauch tatbestandsmässig sein kann.
+Zusätzlich bedarf es in subjektiver Hinsicht eines Wissens um den Missbrauch
+und eine unrechtmässige Handlungsabsicht. Gleichzeitig muss neben
+(Eventual)vorsatz mit der Absicht gehandelt werden, sich selbst oder einer
+Drittperson einen unrechtmässigen Vorteil zu verschaffen oder jemandem einen
+Nachteil zuzufügen. Vor- und Nachteil können materieller oder immaterieller
+Natur sein (Art. 312 Strafgesetzbuch [StGB, SR 311.0], Heimgartner , in: Niggli/Wiprächtiger [Hrsg.], Basler
+Kommentar Strafrecht, 4. Auflage 2019, Art. 312 N 7 f. und N 22 f.)
+
+2.3.4 Die
+Beschwerdeführerin ist auch nach der verwaltungsgerichtlichen Erledigung ihres
+Rechtsstreites mit dem GD (VGE VD.2020.194 vom 12. August 2021) der Ansicht,
+der bei einer ihrer Patientinnen zu Hause durchgeführte, unangekündigte
+Aufsichtsbesuch vom 21. März 2018 durch Mitarbeitende des GD sowie einer
+Mitarbeitenden einer Krankenkasse sei unter einem fingierten Vorwand vorgenommen
+worden. Dies leitet sie darauf ab, dass dem GD ihres Erachtens zu diesem
+Zeitpunkt keine Rechnungen ihrerseits vorgelegen haben können, welche die
+nähere Überprüfung auffällig hoher Restfinanzierungsabrechnungen als notwendig
+hätten erscheinen lassen können. Wie die Staatanwaltschaft in der angefochtenen
+Verfügung allerdings zu Recht ausführt, hat bereits das Verwaltungsgericht im
+genannten Entscheid diese Unterstellung der Beschwerdeführerin als
+«unbegründet» erachtet und eingehend dargelegt, weshalb dem GD bereits im März
+2018 Rechnungen vorgelegen haben, welche Anlass zu einer entsprechenden
+Überprüfung geben konnten. Mit dem Argument des Verwaltungsgerichts, dass die
+Beschwerdeführerin bereits im Januar und Februar 2018 diverse Rechnungen, welche
+einen Einblick in Restfinanzierungskosten gestatteten (E. 7.3.2), dem GD
+eingereicht habe, setzt sich die Beschwerdeführerin weder in ihrer Anzeige noch
+in der Beschwerdeschrift auseinander. Die Beschwerdeführerin beschränkt sich
+vielmehr in ihrer Anzeige auf die bereits im Verwaltungsgerichtsverfahren
+widerlegte Behauptung, entsprechende Rechnungen seien ihrerseits erst am
+21. März 2021 dem GD eingereicht worden. Damit gelingt es ihr
+offensichtlich nicht, ihren Strafvorwurf des Amtsmissbrauchs in irgendeiner Art
+und Weise zu erhärten und eine Strafuntersuchung gegen Mitarbeitende des GD als
+angezeigt erscheinen zu lassen. Ihr uneinsichtiges Beharren auf einem
+gerichtlich bereits geklärten Sachverhalt vermag offensichtlich keinen
+genügenden Strafverdacht zu begründen. Hinzu kommt, dass die Beschwerdeführerin
+im Anzeigeschreiben selbst ausführt, es sei ihr im Rahmen ihres Rechtsstreits
+mit dem GD von diesem eine interne Aktennotiz vom 28. Februar 2018 zugestellt
+worden, gemäss deren Inhalt sich die Tochter einer von ihr betreuten Patientin
+beim GD telefonisch über Tarife informiert habe, da sie die Betreuungskosten ihrer
+Mutter als «sehr hoch» empfunden habe. Soweit die Beschwerdeführerin
+diesbezüglich nicht verstehen kann, weshalb dieses Telefonat «nicht in der
+Aktennotiz zum Aufsichtsbesuch und auch nicht in der Verfügung erwähnt wird»,
+ist auszuführen, dass solches allein offensichtlich nicht strafrechtlich
+relevantes Verhalten zu begründen mag. Ein Grund für den Aufsichtsbesuch wurde
+vielmehr bewiesenermassen nicht fingiert und es ist keine Vorteils- oder
+Schädigungsabsicht hinter diesem Vorgehen zu erkennen.
+
+Soweit die
+Beschwerdeführerin moniert, die Staatsanwaltschaft thematisiere die mögliche Vorteilsabsicht
+hinter der Teilnahme einer Vertreterin der Krankenkasse an dem genannten
+Aufsichtsbesuch des GD nicht, ist sie darauf hinzuweisen, dass sich eine solche
+Absicht auch nicht aus dem von ihr geschilderten Sachverhalt in der
+Strafanzeige ergibt, weshalb ihre Rüge fehlgeht. Es ist nicht Aufgabe der
+Staatsanwaltschaft irgendwelche Schädigungs- oder Vorteilsabsichten herbei «zu
+phantasieren». Vielmehr haben sich solche Absichten aus dem geschilderten
+Sachverhalt zu ergeben, was vorliegend nicht der Fall ist.
+
+Richtig ist weiter
+die Feststellung der Staatsanwaltschaft, dass eine allfällige Verletzung der
+Aktenführungspflicht der Staatsanwaltschaft ein im Rahmen des betreffenden Verfahrens
+zu beurteilender Umstand darstellt. Zu präzisieren ist einzig, dass diese Rüge
+im durch Anzeige des GD ausgelösten Straf verfahren gegen die
+Beschwerdeführerin hätte vorgebracht werden können (s. dazu VGE VD.2022.144 vom
+23. September 2022 E. 4.2.4.3: «[] Eine allfällige Verletzung der
+Aktenführungspflicht hätte die Rekurrentin im Strafverfahren zu rügen»), welches
+zwischenzeitlich allerdings mit Verfügung der Staatsanwaltschaft vom 9. August
+2022 eingestellt wurde, weshalb ihr aus einer allfällig ordnungspflichtwidrig
+unterlassenen Aktenführung ohnehin kein Nachteil entstanden ist. Insbesondere besteht
+aber kein Hinweis, dass die in jenem Verfahren unterlassene Protokollführung
+betreffend ein Treffen der Staatsanwaltschaft mit dem GD in irgendeiner Weise
+in der Absicht erfolgte, die Beschwerdeführerin zu schädigen oder jemandem
+einen Vorteil zu verschaffen. Vielmehr ergeht aus dem Verwaltungsgerichtsentscheid
+VD.2022.144 vom 23. September 2022, dass die Staatsanwaltschaft in einem
+E-Mail Schreiben vom 28. September 2018 erklärte, diese Sitzung sei erfolgt,
+damit die Staatsanwaltschaft den beanzeigten tatsächlichen und rechtlichen
+Sachverhalt korrekt verstehe (E.4.2.4.3). Da die vom GD damals gegen die
+Beschwerdeführerin erhobenen Vorwürfe auf gesundheitsrechtlicher Gesetzgebung
+basierten und sich ein komplexer Sachverhalt präsentierte, ist der von der
+Staatsanwaltschaft deklarierte Grund für das Treffen nachvollziehbar und
+glaubhaft. Das von der Beschwerdeführerin vorgebrachte Argument, dass GD und
+die Staatsanwaltschaft hätten damit über eine Informationshoheit verfügt,
+weshalb sie benachteiligt worden wäre, ist vor diesem Hintergrund nicht
+nachvollziehbar, zumal die Strafanzeige des GD Teil der Akten des (eingestellten)
+Strafverfahrens darstellt. Mithin bestehen keinerlei Hinweise auf einen
+angestrebten Amtsmissbrauch.
+
+Soweit die
+Beschwerdeführerin moniert, sie sei im Datenmarkt als Person islamischen
+Glaubens erfasst worden, ergibt sich von Vornherein keinerlei Bezug zum GD,
+welches mit der Erfassung dieser Daten nichts zu tun hat. Der Verdacht auf
+einen Amtsmissbrauch lässt sich daraus offensichtlich nicht ableiten.
+
+Zusammenfassend
+ist festzuhalten, dass die Staatsanwaltschaft das Strafverfahren mit Blick auf
+einen geltend gemachten Amtsmissbrauch zu Recht nicht an die Hand genommen hat,
+nachdem der von der Beschwerdeführerin geschilderte Anzeigesachverhalt keine
+Hinweise liefert, die einen möglichen Amtsmissbrauch, insbesondere eine Vorteils-
+oder Schädigungsabsicht, der beanzeigten Mitarbeitenden des GD nahelegen.
+
+2.4
+
+2.4.1 Zur
+beanzeigten Falschanschuldigung durch Mitarbeitende des GD führt die
+Staatsanwaltschaft aus, die seitens des GD erfolgte Strafanzeige gegen die
+Beschwerdeführerin (Verfahren eingestellt seit dem 9. August 2022) sei aufgrund
+«zeitlicher Überschneidungen bei der Leistungserfassung, Fehlern bei der
+Bedarfsabklärung, nicht mitgeteilten Leistungskürzungen und Verletzung des
+Tarifschutzes» erfolgt. Aus dem Urteil des Verwaltungsgerichts vom 12. August
+2021 (VD.2020.194) gehe hervor, dass die durch das GD beanzeigten Vorwürfe
+«massgeblich auf einer falschen Rechtsauffassung» des GD, Bereich
+Gesundheitsversorgung (GSV) hervorgegangen seien. Anzeichen dafür, dass die
+Anzeigestellenden bewusst eine falsche Bezichtigung strafrechtlichen Verhaltens
+gegen die Beschwerdeführerin erhoben hätten, seien indessen nicht ersichtlich.
+Vielmehr seien die Anzeigestellenden zu damaligen Zeitpunkt davon ausgegangen,
+dass die Beschwerdeführerin im Rahmen der Ausübung ihrer selbständigen
+Arbeitstätigkeit in der Pflege die massgebenden gesetzlichen Bestimmungen nicht
+eingehalten habe. Es sei sodann «notorisch, dass beim Verdacht auf Erfüllung
+eines Straftatbestands relativ bald Strafanzeige eingereicht wird». Dies weil
+die Strafverfolgungsbehörden einerseits über weitgehende Befugnisse zur
+Abklärung eines Sachverhalts verfügen würden und sich andererseits «gerade
+Verwaltungseinheiten nicht dem Vorwurf der Begünstigung» aussetzen wollten. Die
+Beschwerdeführerin selbst habe sich im betreffenden verwaltungsgerichtlichen
+Verfahren auf den Standpunkt gestellt, nur rechtskräftig erledigte Straf- und Disziplinarverfahren
+seien bei der Beurteilung von ihr vorgeworfenen Verfehlungen überhaupt zu
+berücksichtigen (VGE VD.2020.194 vom 12. August 2021 E. 3.5.4.2).
+
+2.4.2 Die
+Beschwerdeführerin lässt dazu entgegen, es sei bis heute unklar, weshalb seitens
+des GD gegen die Beschwerdeführerin Strafanzeige eingereicht worden sei. Man
+hätte vor Einreichung einer Strafanzeige problemlos das verwaltungsrechtliche
+Verfahren abwarten können. Hinzu komme, dass zum Zeitpunkt der Einreichung der
+Strafanzeige durch die Mitarbeitenden des GS Informationen vorgelegen seien,
+die klar aufzeigen würden, dass insbesondere Leistungskürzungen vorgenommen
+worden seien. Auch wenn notorisch sei, dass bei Verdacht auf Erfüllung eines
+Straftatbestandes relativ rasch Strafanzeige eingereicht werde, müsse der
+Sachverhalt vorher zwingend sorgfältig abgeklärt werden. Andernfalls könne der
+Verdacht entstehen, dass «wider besseren Wissens gegen jemanden, mit dem man im
+Streit steht, Druck aufgebaut wird».
+
+2.4.3 Eine
+falsche Anschuldigung begeht, «wer einen Nichtschuldigen wider besseren Wissens
+bei der Behörde eines Verbrechens oder eines Vergehens beschuldigt, in der
+Absicht, eine Strafverfolgung gegen einen Nichtschuldigen herbeizuführen»
+(Art. 303 StGB). In subjektiver Hinsicht bedarf es neben der Absicht eine
+Strafverfolgung herbeizuführen aufgrund des Tatbestandmerkmals «wider besseren
+Wissens», ein sicheres Wissen der Täterschaft, dass sie etwas Unwahres gegenüber
+der Strafverfolgungsbehörde behauptet ( Delnon/Rüdy ,
+in: Niggli/Wiprächtiger [Hrsg.], Basler Kommentar Strafrecht, 4. Auflage 2019;
+Art. 303 StGB N 27 f. mit Verweise auf Art. 174 StGB N 6).
+
+2.4.4 Im
+Urteil des Verwaltungsgerichts vom 12. August 2021 (VD.2020.194) werden über
+viele Seiten die Rechtsgrundlagen der Leistungsabrechnung einer
+Leistungserbringerin im Pflegebereich abgehandelt (E. 4). Schliesslich wird
+betreffend die Beschwerdeführerin (der dortigen Rekurrentin) festgehalten: «Aus
+den vorstehenden Gründen macht die Rekurrentin sinngemäss zu Recht geltend,
+dass eine Leistungserbringerin ihrer Kundin oder ihrem Kunden für
+Pflegeleistungen, an welche die obligatorische Krankenpflegeversicherung wegen
+Unwirtschaftlichkeit die für Spitex-Organisationen und freiberufliche
+Pflegefachpersonen geltenden Beiträge nicht leistet, eine Vergütung in Rechnung
+stellen darf, wenn sie die Kundin oder den Kunden im Voraus über die allenfalls
+fehlende Versicherungsdeckung aufgeklärt hat und diese oder dieser der Vergütung
+für den Fall der fehlenden Versicherungsdeckung zugestimmt hat. Dabei kann als
+Vergütung vertraglich auch eine Pauschale vereinbart werden. Weiter macht die
+Rekurrentin zu Recht geltend, dass eine Leistungserbringerin mit der Kundin
+oder dem Kunden auch für Betreuungsleistungen eine pauschale Vergütung
+vereinbaren darf und dass eine Leistungserbringerin der Kundin oder dem Kunden
+mit deren oder dessen Zustimmung die Vergütung für die unwirtschaftlichen
+Pflegeleistungen und die Vergütung für die Betreuungsleistungen gemeinsam mit
+einer Pauschale in Rechnung stellen darf. Schliesslich ist auch die Ansicht der
+Rekurrentin korrekt, dass eine Leistungserbringerin der Kundin oder dem Kunden
+die Vergütung unter der Voraussetzung der vorgängigen Aufklärung und Zustimmung
+auch nachträglich in Rechnung stellen darf, wenn die Krankenkasse ihre
+Leistungen nachträglich wegen Unwirtschaftlichkeit kürzt und an die
+Pflegeleistungen nur noch den für Pflegeheime geltenden Beitrag leistet (vgl.
+Rekursbegründung Ziff. 332334)» (E. 4.4.8). Damit wurde der Beschwerdeführerin
+in Bezug auf die von ihr getätigten und vom GD gerügten Abrechnungen für
+erbrachte Leistungen Recht gegeben, womit die diesbezüglichen Vorwürfe der
+Behörde gegen sie beseitigt wurden. Zusammenfassend wird sodann mit Bezug auf die
+im Rechtsstreit seitens des GD vorgebrachten Rechtsauslegungen festgehalten:
+«[] Im Übrigen haben die Behörden durch falsche Rechtsauffassungen des GSV 
+und GD (vgl. oben E. 4.2.3.2, 4.4.4, 4.4.6, 4.4.7 []) die Zusammenarbeit mit
+der Rekurrentin selbst erschwert [])». Damit ist erstellt, dass das GD (und
+der GSV) offensichtlich der Ansicht waren, die Beschwerdeführerin habe
+(bewusst) falsch abgerechnet, wobei dieser Verdacht auf einer durch das
+Verwaltungsgericht korrigierten Rechtsauslegung der einschlägigen Bestimmungen
+beruhte. Vor diesem Hintergrund kann von einer absichtlichen
+Falschanschuldigung keine Rede sein. Dass eine gestützt auf diese
+Rechtsauffassung ebenfalls eingereichte Strafanzeige für die betroffene Person,
+namentlich die Beschwerdeführerin, eine grosse Belastung bedeutete, ist einem
+angestrebten Strafverfahren in aller Regel immer inhärent, beweist aber noch
+lange nicht, dass dahinter eine strafrechtlich relevante Absicht steckt. Sodann
+ist auch zu bedenken, dass dem GD unter anderem der Auftrag zukommt, Patientinnen
+und Patienten vor ungerechtfertigten Gesundheitskosten zu schützen. Diesen Auftrag
+hat sie gegenüber einer oftmals besonders vulnerablen Bevölkerungsgruppe, was
+ihr Vorgehen durchaus verständlich macht, auch wenn dies im Einzelfall eine im
+Rückblick unnötige Belastung für eine Leistungserbringerin darstellen kann. Die
+Staatsanwaltschaft hat deshalb das angestrebte Verfahren gegen die beanzeigten
+Mitarbeitenden des GD zu Recht nicht an die Hand genommen.
+
+2.5 Soweit
+die Beschwerdeführerin mit der Einreichung der Anzeige Mitarbeitenden des GD
+auch die Verletzung des Amtsgeheimnisses aufgrund eines erfolgten Informationsaustausches
+mit einer Krankenkasse betreffend Rechnungstellungen der Beschwerdeführerin vorgeworfen
+hat, wird dazu in der Beschwerdeschrift nichts mehr ausgeführt. Es ist deshalb
+davon auszugehen, dass die Nichtanhandnahmeverfügung betreffend die beanzeigte
+Amtsgeheimnisverletzung nicht angefochten wurde. Jedenfalls erweist sich die
+staatsanwaltschaftliche Begründung, wonach eine gesetzliche Grundlage für diese
+Kommunikation besteht, ohnehin als korrekt (s. Art. 84a Krankenversicherungsgesetz
+[KGV, SR 842.10]).
+
+2.6 Entsprechend
+den Erwägungen ist mit der Staatsanwaltschaft festzustellen, dass gestützt auf
+die Informationen aus den beigezogenen Akten und Urteilen strafrechtlich
+relevantes Verhalten und Vorgehen der Mitarbeitenden des GD, insbesondere dem
+GSV, ausgeschlossen werden kann, weshalb richtigerweise kein Strafverfahren
+gegen die beanzeigten Mitarbeitenden des GD eröffnet worden ist.
+
+3.
+
+Damit unterliegt
+die Beschwerdeführerin im Beschwerdeverfahren vollständig, weshalb sie dessen
+Kosten sowie ihre Anwaltskosten zu tragen hat.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 500.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Beschwerdegegnerinnen und Beschwerdegegner 2 bis 7
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               lic. iur. Barbara
+Grange
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
