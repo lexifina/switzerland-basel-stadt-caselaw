@@ -1,0 +1,287 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.364"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.34"
+docket_2: "AG.2024.364"
+decided: "2024-06-10"
+published: "2025-04-08"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=76971&W10_KEY=3048461&nTrefferzeile=395&Template=search_result_document.html"
+cites_decisions: ["6B_1038/2019", "6B_722/2019"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-320.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/314.1/art-007.md"]
+---
+
+# Verfahrenseinstellung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.34
+
+ENTSCHEID
+
+vom 10. Juni
+2024
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und a.o.
+Gerichtsschreiberin MLaw Kim Baier
+
+Beteiligte
+
+A____ ,                                                                           Beschwerdeführer
+
+geb. [...]                                                                                 Beschuldigter
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+der Staatsanwaltschaft
+
+vom 13. Februar 2024
+
+betreffend Verfahrenseinstellung
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft führte gegen A____ (nachfolgend Beschwerdeführer) ein
+Strafverfahren wegen Verletzung der Verkehrsregeln, begangen am 1. März
+2022. In diesem Zusammenhang stellte sie ihm mit Schreiben vom 24. März
+2022 eine Übertretungsanzeige sowie eine Zahlungserinnerung vom 5. Mai
+2022 zu, welche jeweils den Hinweis auf die Halterhaftung nach Art. 7 OBG enthielten,
+auf welche er nicht reagierte. Nachdem auch die erneute Zahlungserinnerung vom 5. Januar
+2023, die erneute Zustellung der Übertretungsanzeige mit Schreiben vom
+27. Juli 2023 sowie die erneute Zahlungserinnerung vom 7. September
+2023, ebenfalls mit Hinweis auf die Halterhaftung gemäss Art. 7 OBG, unbeachtet
+blieben, leitete die Staatsanwaltschaft das ordentliche Strafverfahren ein und
+stellte dem Beschwerdeführer einen Strafbefehl, datierend vom 22. November
+2023, zu. Darin erlegte sie ihm eine Busse in der Höhe von CHF 40.00 sowie
+Gebühren und Auslagen von CHF 208.60, gesamthaft also CHF 248.60, auf.
+
+Gegen diesen
+Strafbefehl erhob der Beschwerdeführer mit Schreiben vom 29. November 2023
+Einsprache und machte geltend, das Fahrzeug sei zu diesem Zeitpunkt im Eigentum
+von Herrn [...] gewesen und auch von jenem gefahren worden. Ausserdem lieferte
+der Beschwerdeführer die Personalien von Herrn [...]. Daraufhin kündigte die
+Staatsanwaltschaft mit Schreiben vom 5. Januar 2024 den Abschluss der
+Untersuchung an, woraufhin der Beschwerdeführer mit Eingabe vom 2. Februar
+2024 im Sinne des rechtlichen Gehörs Stellung nahm. Daraufhin stellte die Staatsanwaltschaft
+das Verfahren gegen den Beschwerdeführer mit Verfügung vom 13. Februar
+2024 ein und erlegte ihm unter Verweis auf Art. 426 Abs. 2 StPO die
+Verfahrenskosten von CHF 227.80 auf. Mit Eingabe vom 20. Februar 2024
+setzte sich der Beschwerdeführer gegen den aus seiner Sicht zu Unrecht
+erhobenen «Strafbefehl und die Verfahrenskosten» zur Wehr, bat um Aufhebung des
+bisher erfolgten Strafverfahrens, die erneute Prüfung und Einstellung des
+Verfahrens aufgrund erwiesener Unschuld sowie die Aufhebung der auferlegten
+Verfahrenskosten.
+
+Mit
+Stellungnahme vom 26. März 2024 hielt die Staatsanwaltschaft an ihrer
+Einstellungsverfügung fest und beantragte die kostenpflichtige Abweisung der
+Beschwerde. Mit Verfügung vom 28. März 2024 setzte der Verfahrensleiter
+dem Beschwerdeführer eine Frist bis spätestens 25. April 2024, um auf die
+Stellungnahme der Staatsanwaltschaft zu replizieren. Der Beschwerdeführer
+replizierte innert Frist nicht und reagierte auch nicht anderweitig.
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren unter Beizug der vorinstanzlichen
+Akten ergangen. Die Einzelheiten des Sachverhalts und der Parteistandpunkte
+ergeben sich  soweit sie für den Entscheid von Bedeutung sind  aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Einstellungsverfügungen
+der Staatsanwaltschaft können innert zehn Tagen mittels Beschwerde bei der
+Beschwerdeinstanz angefochten werden (Art.  393 Abs. 1 lit. a
+und Art. 310 Abs. 2 in Verbindung mit Art. 322 Abs. 2 der
+Strafprozessordnung [StPO, SR 312.0]). Zu deren Beurteilung ist das
+Appellationsgericht als Einzelgericht zuständig (§ 88 Abs. 1 in
+Verbindung mit § 93 Abs. 1 des baselstädtischen
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]), welches nach
+Art. 393 Abs. 2 StPO mit freier Kognition urteilt.
+
+1.2 Gemäss
+Art. 382 Abs. 1 StPO erfordert die Legitimation zur Beschwerde das
+Vorliegen eines rechtlich geschützten Interesses an der Aufhebung oder Änderung
+des Entscheids. Ein solches kann geltend machen, wer durch die angefochtene
+Verfügung beschwert, mithin unmittelbar in seinem oder ihren Interessen
+tangiert ist ( Bähler , in: Basler
+Kommentar, 3. Auflage 2023, Art. 382 StPO N 5). Der Adressat
+eines Entscheids hat regelmässig ein rechtlich geschütztes Interesse an der
+Aufhebung oder Änderung desselben. Es fehlt an der Legitimation der
+beschuldigten Person, die Einstellungsverfügung mit dem blossen Ziel
+anzufechten, eine andere juristische Begründung des Entscheids bzw. eine
+positive Feststellung der Schuldlosigkeit zu erwirken. Die beschuldigte Person
+kann somit grundsätzlich die Einstellungsverfügung nicht anfechten ( Bähler, a.a.O, Art. 382 StPO
+N 6).
+
+1.2.1 Hinsichtlich
+der Änderung von Ziffer 1 des Verfügungsdispositivs (Akten S. 4 f.)
+will der Beschwerdeführer lediglich eine explizite Feststellung seiner
+Schuldlosigkeit erwirken und mithin die Einstellungsverfügung als solche anfechten.
+Ob das Verfahren mangels Beweises der Täterschaft, wie von der
+Staatsanwaltschaft verfügt, oder wegen vollständig erwiesener Unschuld, wie vom
+Beschwerdeführer verlangt, eingestellt wird, ist nicht entscheidend. Beide
+Varianten ziehen die gleiche Rechtsfolge nach sich, nämlich eine Einstellung
+des Verfahrens gegen den Beschwerdeführer, welche bei Rechtskraft einem
+freisprechenden Urteil gleichkommt (Art. 320 Abs. 4 StPO), weshalb es
+diesbezüglich an einem rechtlich geschützten Interesse seitens des
+Beschwerdeführers fehlt. Es kann auf die Ausführungen der Staatsanwaltschaft
+verwiesen werden (Akten S. 43). Somit ist der Beschwerdeführer in diesem
+Aspekt nicht beschwert, weshalb auf diese Rüge nicht eingetreten werden kann.
+
+1.2.2 Weiter
+ficht der Beschwerdeführer die mit der Einstellungsverfügung verbundene
+Auferlegung der Verfahrenskosten zu seinen Lasten an. Durch die Kostenauflage
+gemäss Ziffer 2 der Einstellungsverfügung ist der Beschwerdeführer
+beschwert und hat insoweit ein rechtlich geschütztes und aktuelles Interesse an
+der Abänderung der Einstellungsverfügung dahingehend, dass die Kostenauflage
+aufgehoben wird.
+
+1.3 Der
+Inhalt der Beschwerde richtet sich nach Art. 385 StPO. Der Beschwerdeführer hat
+demnach genau anzugeben, welche Punkte des Entscheides angefochten werden,
+welche Gründe einen anderen Entscheid nahelegen und welche Beweismittel
+angerufen werden (Art. 385 Abs. 1 lit. a bis c StPO). Bei einer rechtsunkundigen
+Person werden an die Begründungspflicht praxisgemäss keine allzu strengen
+Anforderungen gestellt. Allerdings muss auch ein juristischer Laie zumindest
+sinngemäss angeben, inwiefern er den angefochtenen Entscheid für unrichtig
+respektive fehlerhaft hält, andernfalls die Eingabe zur Verbesserung innerhalb
+kurzer Frist zurückzuweisen ist (Art. 385 Abs. 1 und 2 StPO; vgl. Bähler , a.a.O., 3. Auflage 2023,
+Art. 385 StPO N 1, 3; AGE BES.2020.69 vom 23. April 2020 E. 1.2). Der
+nicht vertretene Beschwerdeführer nimmt in seiner begründeten Beschwerde
+insofern auf die Kostenauflage gemäss Einstellungsverfügung Bezug, als er
+ausführt, die Auferlegung der im unverhältnismässigen Übermass zur eher sehr
+geringfügigen Ausgangstat stehenden Verfahrenskosten in der Höhe von
+CHF 227.80 dieses unrechtmässigen Strafverfahrens mit rechtsfehlerhaftem
+Abschluss sei aufzuheben. Das Strafverfahren sei grundlos, beweislos und
+haltlos und impliziere nach wie vor seine potenzielle Täterschaft, die
+nachweislich nie bestanden habe und niemals habe bestehen können. Darin kann eine
+Beschwerde gegen die Kostenauflage gemäss Einstellungsverfügung vom
+13. Februar 2024 an das Appellationsgericht gesehen werden. Damit genügt die
+Beschwerde den Anforderungen an eine Laienbeschwerde.
+
+1.4 Auf
+die frist- und formgerechte Rüge betreffend Kostenauflage ist folglich
+einzutreten.
+
+2.
+
+2.1 Nachdem
+der Beschwerdeführer der Staatsanwaltschaft mitgeteilt hatte, dass er das zur
+Diskussion stehende Auto zur Tatzeit nicht gefahren habe, verfügte die
+Staatsanwaltschaft die Einstellung des Strafverfahrens. Wird ein Verfahren
+eingestellt, so können der beschuldigten Person die Verfahrenskosten gemäss
+Art. 426 Abs. 2 StPO ganz oder teilweise auferlegt werden, wenn sie
+die Einleitung des Verfahrens rechtswidrig und schuldhaft bewirkt hat. Diese
+Bestimmung kodifiziert die Praxis des Bundesgerichts und der EMRK-Organe,
+wonach eine Kostenauflage möglich ist, wenn der Angeschuldigte in
+zivilrechtlich vorwerfbarer Weise und dadurch die Einleitung des
+Strafverfahrens veranlasst oder dessen Durchführung erschwert hat (BGer 6B_1038/2019
+vom 30. April 2020 E. 4.2; Botschaft des Bundesrates zur
+Vereinheitlichung des Strafprozessrechts vom 21. Dezember 2005, BBl 2006
+II 1326).
+
+2.2 Gemäss
+Art. 7 des Ordnungsbussengesetzes (OBG, SR 314.1) werden
+Ordnungsbussen dem im Fahrzeugausweis eingetragenen Fahrzeughalter auferlegt,
+wenn nicht bekannt ist, wer die Widerhandlung begangen hat. Der Halter kann
+sich diesem Verfahren gemäss Abs. 4 dieser Bestimmung nur entziehen, wenn
+er Name und Adresse des Fahrzeugführers nennt, der zum Zeitpunkt der
+Widerhandlung das Fahrzeug geführt hat. Bezahlt er die Busse nicht innerhalb
+der 30-tägigen Frist und entzieht er sich auch nicht der Halterhaftung gemäss
+Abs. 4, so wird gemäss Abs. 3 ein ordentliches Strafverfahren
+durchgeführt (BGer 6B_722/2019 vom 23. Januar 2020 E. 1).
+
+2.3 Aufgrund
+der Akten (Akten S. 18 ff.) muss festgestellt werden, dass der
+Beschwerdeführer erst nach der Eröffnung des Strafbefehls vom 22. November
+2023 mit Einsprache datiert vom 29. November 2023 in diesem Verfahren
+reagiert und dabei auch erstmals geltend gemacht hat, es sei jemand anderes mit
+diesem Fahrzeug gefahren. Zum Zeitpunkt der Übertretung war er der
+verantwortliche Halter, was er auch in keiner Weise bestreitet. Er hätte also
+entweder auf die mehrfachen Übertretungsanzeigen oder die Zahlungserinnerungen
+reagieren müssen, zumal er nicht geltend macht, diese Schreiben nicht bekommen
+zu haben bzw. teilweise explizit einräumt, diese erhalten zu haben. Damit wurde
+das ordentliche Verfahren zu Recht eingeleitet. In den Übertretungsanzeigen vom
+24. März 2022 und vom 27. Juli 2023 sowie in den Zahlungserinnerungen
+vom 5. Mai 2022, vom 5. Januar 2023 und vom 7. September 2023
+wurde dem Beschwerdeführer die Bestimmung über die Halterhaftung gemäss
+Art. 7 OBG genügend und verständlich erläutert. Die Folgen seiner
+ausbleibenden Reaktion mussten ihm also bekannt sein. Es ist deshalb von einem
+prozessualen Verschulden des Beschwerdeführers auszugehen, weshalb ihm die
+Kosten gestützt auf Art. 426 Abs. 2 StPO zu Recht auferlegt wurden. Des
+Weiteren und insbesondere bezüglich der angeblich zugestellten Eingabe mit
+Lenkerangaben vom 26. Mai 2022 kann auf die Ausführungen der
+Staatsanwaltschaft verwiesen werden (Einstellungsverfügung vom 13. Februar
+2024, Akten S. 4 f. und Stellungnahme der Staatsanwaltschaft, Akten
+S. 42 ff.).
+
+2.4 Nach
+dem Gesagten ist die Beschwerde hinsichtlich der Kostenfolge abzuweisen.
+
+3. Die
+Kosten des Rechtsmittelverfahren tragen die Parteien nach Massgabe ihres
+Obsiegens oder Unterliegens (Art. 428 Abs. 1 StPO). Nach dem Gesagten
+ist die Beschwerde abzuweisen, weshalb der Beschwerdeführer grundsätzlich die
+Kosten zu tragen hätte. Umständehalber ist jedoch auf die Erhebung einer
+Gerichtsgebühr zu verzichten (§ 40 Abs. 1 des
+Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen, soweit
+darauf eingetreten wird.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur. Marc
+Oser                                                      MLaw Kim Baier
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am letzten
+Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu dessen
+Handen der Schweizerischen Post oder einer diplomatischen oder konsularischen
+Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs. 1 BGG). Für
+die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
