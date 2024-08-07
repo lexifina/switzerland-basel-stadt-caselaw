@@ -1,0 +1,270 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.457"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2024.32"
+docket_2: "AG.2024.457"
+decided: "2024-08-07"
+published: "2025-04-24"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77178&W10_KEY=3048461&nTrefferzeile=328&Template=search_result_document.html"
+cites_decisions: ["5A_410/2021", "BGE 138 III 374", "BGE 144 III 346", "ZB.2014.35", "ZB.2024.32"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-257.md", "switzerland/bund/acts/272/art-311.md"]
+---
+
+# Ausweisung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2024.32
+
+ENTSCHEID
+
+vom 7. August 2024
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius Gelzer, lic. iur. André Equey
+
+und a.o.
+Gerichtsschreiberin MLaw Andrea Meyer
+
+Parteien
+
+A____ AG Berufungsklägerin
+
+[...]                                                                                  Gesuchsgegnerin
+
+gegen
+
+B____ AG Berufungsbeklagte
+
+[...]                                                                                      Gesuchstellerin
+
+vertreten durch [...],
+Advokatin,
+
+[...]
+
+Gegenstand
+
+Berufung gegen einen
+Entscheid des Zivilgerichts
+
+vom 28. Juni 2024
+
+betreffend Ausweisung
+
+Sachverhalt
+
+Mit Mietvertrag
+vom 5. Juni 2023 mietete die A____ AG (Mieterin) bei der B____ AG (Vermieterin)
+vier Büroräume am [...] in Basel, dies zu einem Nettomietzins von CHF 2'836.
+und einem Bruttomietzins von CHF 3'291.40. Als Mietbeginn wurde der 1. August
+2023 und als Mietende der 31. Juli 2026 vereinbart. Als Starthilfe
+einigten sich die Parteien für das erste Jahr auf einen gestaffelten Mietzins,
+beginnend mit einem Nettomietzins von CHF 2'000. ab August 2023, der sich bis
+August 2024 stufenweise auf CHF 2'836. erhöhen sollte. Mit Mietvertrag vom
+29. August 2023 mietete die Mieterin zudem drei Einstellplätze in
+derselben Liegenschaft, dies zu einem Nettomietzins von CHF 615. und einem
+Bruttomietzins von CHF 662.40. Mit Einschreiben vom 11. Dezember 2023
+setzte die Vermieterin der Mieterin eine Frist zur Zahlung der ausstehenden
+Mietzinse Dezember 2023. Mit amtlichem Formular vom 20. Februar 2024 kündigte
+die Vermieterin das Mietverhältnis ausserordentlich per Ende März 2024. Am 22.
+März 2024 focht die Mieterin diese Kündigung bei der Staatlichen
+Schlichtungsstelle für Mietstreitigkeiten (Schlichtungsstelle) an.
+
+Am 23. Mai 2024
+ersuchte die Vermieterin beim Zivilgericht Basel-Stadt um Rechtsschutz in
+klaren Fällen und beantragte, es sei die Mieterin anzuweisen, die vier
+Büroräume und die drei Einstellplätze unverzüglich zu räumen. Für den Fall,
+dass sie die Mietobjekte bis zum gerichtlich festgesetzten Termin nicht geräumt
+habe, sei die zuständige Amtsstelle anzuweisen, den Ausweisungsentscheid nach
+Eintritt der Rechtskraft zu vollstrecken. Am 28. Juni 2024 führte das
+Zivilgericht eine mündliche Verhandlung durch, dies in Anwesenheit der Anwältin
+der Vermieterin und des Geschäftsführers der Mieterin. Mit Entscheid vom
+gleichen Tag wies das Zivilgericht die Mieterin an, die vier Büroräume und die
+drei Einstellplätze bis spätestens 12. Juli 2024, 11.30 Uhr, zu räumen.
+Widrigenfalls werde der Vermieterin die Ermächtigung zur Räumung erteilt. Auf
+Gesuch der Mieterin hin begründete das Zivilgericht seinen Entscheid
+schriftlich.
+
+Dagegen erhob die Mieterin am 31. Juli 2024 Berufung beim
+Appellationsgericht Basel-Stadt. Dieses zog die Akten des Zivilgerichts bei,
+holte aber keine Berufungsantwort ein. Der vorliegende Entscheid wurde auf dem
+Zirkulationsweg gefällt.
+
+Erwägungen
+
+1.
+
+Erstinstanzliche
+End- und Zwischenentscheide in vermögensrechtlichen Angelegenheiten unterliegen
+der Berufung, wenn der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren
+mindestens CHF 10'000. beträgt (Art. 308 der Schweizerischen Zivilprozessordnung
+[ZPO, SR 272]). Angefochten ist ein Entscheid des Zivilgerichts betreffend
+Ausweisung aus Mieträumen und somit ein erstinstanzlicher Endentscheid in
+vermögensrechtlichen Angelegenheiten. In Ausweisungsverfahren, bei denen die
+Beendigung eines (unbefristeten) Mietverhältnisses ebenfalls Streitgegenstand
+ist und deren Unzulässigkeit eine Kündigungssperrfrist von drei Jahren (Art. 271a
+Abs. 1 lit. e des Obligationenrechts [OR, SR 220]) auslösen würde,
+entspricht der Streitwert dem Mietwert für drei Jahre (BGE 144 III 346 E. 1.2.2).
+Bei einem befristeten Mietverhältnis ist dagegen auf die Restlaufzeit des
+Mietvertrags ab dem Zeitpunkt der Berufungserhebung abzustellen (AGE ZB.2014.35
+vom 22. August 2014 E. 1.1; vgl. auch BGE 144 III 346 E. 1.2.2.3, 136 III 196
+E. 1.1). Im vorliegenden Fall handelt es sich um ein befristetes
+Mietverhältnis, das ordentlich Ende Juli 2026 und somit bei Ungültigkeit der
+Kündigung noch zwei Jahre dauern würde. Damit wird der für die Berufung
+massgebliche Streitwert klar erreicht (24 Monate à Bruttomietzins von CHF
+3'953.80 [CHF 3'291.40 für die Büroräume und CHF 662.40 für die
+Einstellplätze] = CHF 94'891.20). Das vorliegende Rechtsmittel ist
+folglich im Einklang mit der Rechtsmittelbelehrung als Berufung zu behandeln.
+
+Die Berufung
+wurde rechtzeitig erhoben (Art. 314 Abs. 1 und Art. 257 ZPO). Auf die Berufung
+ist deshalb grundsätzlich einzutreten (vgl. aber E. 2). Für deren Beurteilung
+ist das Dreiergericht des Appellationsgerichts zuständig (§ 92 Abs. 1
+Ziff. 6 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+2.
+
+Das Zivilgericht legte im angefochtenen Entscheid zunächst
+die beiden Voraussetzungen des Rechtsschutzes in klaren Fällen dar, nämlich das
+Vorliegen eines unbestrittenen oder sofort beweisbaren Sachverhalts und eine klare
+Rechtslage (Zivilgerichtsentscheid, E. 2). Das Zivilgericht prüfte und bejahte
+sodann die Frage, ob im vorliegenden Fall der Sachverhalt und die Rechtslage
+klar sind: Die Voraussetzungen einer ausserordentlichen Kündigung wegen
+Zahlungsrückstands der Mieterin seien grundsätzlich erfüllt, nämlich ein
+Zahlungsrückstand der Mieterin, die Ansetzung einer Zahlungsfrist und Androhung
+der ausserordentlichen Kündigung durch die Vermieterin, die Nichtzahlung des
+rückständigen Mietzinses sowie die ausserordentliche Kündigung durch die
+Vermieterin (E. 3.1, 3.2, 3.5 und 3.8). Sodann gebe es keine zulässigen Gründe
+für die Nichtzahlung des Mietzinses: Die behaupteten Mängel und die angeblich
+nicht ordnungsgemässe Schlüsselübergabe würden die Mieterin nicht einfach von
+der Zahlung des Mietzinses entbinden; vielmehr habe sie die Möglichkeit, den
+Mietzins bei der Schlichtungsstelle zu hinterlegen. Wer  wie die Mieterin im
+vorliegenden Fall  den Mietzins einfache zurückbehalte, statt ihn korrekt zu
+hinterlegen, gerate in Zahlungsrückstand. Damit fehle es an einem zulässigen
+Grund für die Nichtzahlung des Mietzinses innerhalb der von der Vermieterin
+angesetzten Zahlungsfrist (E. 3.6). Im Weiteren sei der ausstehende Mietzins
+auch nicht innert der Zahlungsfrist sonstwie getilgt worden: Die Mieterin habe
+weder behauptet noch nachgewiesen, dass sie den Mietzins durch
+Verrechnungserklärung (Schadenersatzforderung von CHF 155'000.) innert der
+Zahlungsfrist getilgt habe. Zudem habe sie zur Begleichung des Mietzinses auch
+bloss einen Zahlungsversuch gemacht; zudem habe der Zahlungsversuch nicht den
+ausstehenden Dezembermietzins 2023, sondern die Mietzinsen bis November 2023
+betroffen (E. 3.7). Da das Mietverhältnis am 31. März 2024 geendet habe und die
+Mieterin die gemieteten Büroräume und Einstellplätze nicht zurückgegeben habe,
+sei das Ausweisungsgesuch der Vermieterin gutzuheissen (E. 3.8).
+
+Die Berufung ist
+von Gesetzes wegen schriftlich und begründet einzureichen (Art. 311 Abs. 1
+ZPO). Begründen im Sinn dieser Vorschrift
+bedeutet aufzeigen, inwiefern der angefochtene Entscheid als fehlerhaft
+erachtet wird. Dies setzt voraus, dass der Berufungskläger im Einzelnen die
+vorinstanzlichen Erwägungen bezeichnet, die er anficht, sich mit diesen
+auseinandersetzt und die Aktenstücke nennt, auf denen seine Kritik beruht. Es
+liegt an ihm, anhand der erstinstanzlich festgestellten Tatsachen oder der
+daraus gezogenen rechtlichen Schlüsse aufzuzeigen, inwiefern sich die
+Überlegungen des erstinstanzlichen Gerichts nicht aufrechterhalten lassen. Es
+genügt nicht, lediglich auf die vor erster Instanz vorgetragenen Vorbringen zu
+verweisen, sich mit Hinweisen auf frühere Prozesshandlungen zufriedenzugeben
+oder den angefochtenen Entscheid in allgemeiner Weise zu kritisieren (BGer
+5A_410/2021 vom 17. Mai 2022 E. 4.1; BGE 138 III 374 E. 4.3.1, 141 III 569
+E. 2.3.3). Auch wenn bei einer rechtsunkundigen Person an diese
+Substantiierungs- und Begründungpflicht praxisgemäss keine allzu strengen
+Anforderungen gestellt werden, muss doch auch ein juristischer Laie zumindest
+sinngemäss sagen, weshalb er den angefochtenen Entscheid für fehlerhaft hält (AGE
+BEZ.2023.35 vom 5. August 2023 E. 2; Bachofner ,
+Die Mieterausweisung, Zürich/St. Gallen 2019, Rz 672).
+
+Im vorliegenden Fall führt die Mieterin in ihrer Berufung
+aus, sie habe mit der Vermieterin am 5. Juni 2023 einen Mietvertrag über vier
+Büroräume geschlossen. Am 22. August 2023 habe sich der Geschäftsführer
+der Mieterin mit der zuständigen Angestellten der Liegenschaftsverwaltung
+zwecks Schlüsselübergabe getroffen. Am selben Tag noch habe er der
+Liegenschaftsverwaltung mitgeteilt, dass das Schlüsselübergabeprotokoll nicht
+mit den ausgehändigten Schlüsseln übereinstimme und 19 Schlüssel fehlten. Die
+Mieterin habe die Büroräume somit nicht nutzen können (Beschwerde, S. 1).
+Nachdem die Mieterin am 20. September 2023 die Schlüssel immer noch nicht
+erhalten habe, habe sie einen Schlüsseldienst mit dem Einbau elektronischer
+Schlösser beauftragt. Somit sei seit Mietbeginn (1. August 2023) ein Schaden
+von CHF 155'088. entstanden (CHF 3'000. pro Tag [10 Mitarbeiter à CHF
+300./Tag]). Diesen Schaden habe sie der Liegenschaftsverwaltung in Rechnung
+gestellt und ihr auch klar kommuniziert, dass sie die monatliche Miete nicht
+mehr der Liegenschaftsverwaltung, sondern dem Steuerberater der Mieterin zahle
+(S. 2). Mit diesen Ausführungen legt die Mieterin nicht dar, inwiefern der angefochtene
+Zivilgerichtsentscheid fehlerhaft sein soll. Insbesondere kritisiert sie die
+zentralen zivilgerichtlichen Erwägungen mit keinem Wort, wonach sie weder den
+ausstehenden Mietzins gültig hinterlegt habe (Zivilgerichtsentscheid, E. 3.6)
+noch rechtzeitig Verrechnung mit ihrer Schadenersatzforderung von CHF 155'000.
+erklärt (E. 3.7.1) oder den Mietzins bezahlt habe (E. 3.7.2). Eine
+Auseinandersetzung mit diesen wohlbegründeten Erwägungen des Zivilgerichts
+fehlt vollständig. Es wird deshalb nicht ersichtlich, weshalb die Mieterin den
+Zivilgerichtsentscheid als unrichtig erachtet. Auf die Berufung kann mangels
+ausreichender Begründung nicht eingetreten werden.
+
+3. Bei diesem Ausgang des Verfahrens trägt die
+Mieterin die Prozesskosten (Art. 106 Abs. 1 ZPO). Die Gerichtskosten im
+Ausweisungsverfahren betragen auch im Berufungsverfahren grundsätzlich CHF
+600. (vgl. § 10 Abs. 2 Ziffer 11 und § 12 Abs. 1 des
+Gerichtsgebührenreglements [GGR, SG 154.810]). Da auf die Berufung nicht
+einzutreten ist, können die Gerichtskosten auf die Hälfte ermässigt (vgl. § 16
+Abs. 1 lit b GGR) und mit CHF 300. festgesetzt werden.
+
+Der Vermieterin
+sind aufgrund des Verzichts auf die Einholung einer Berufungsantwort im
+Berufungsverfahren keine Kosten entstanden. Eine Parteientschädigung ist
+deshalb nicht zuzusprechen.
+
+Demgemäss erkennt das
+Appellationsgericht (Dreiergericht):
+
+://:        Auf die Berufung gegen den Entscheid des
+Zivilgerichts vom 28. Juni 2024 ([]) wird nicht eingetreten.
+
+Die Berufungsklägerin trägt die Gerichtskosten des
+Berufungsverfahrens von CHF 300..
+
+Mitteilung an:
+
+- Berufungsklägerin
+
+- Berufungsbeklagte
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Die a.o. Gerichtsschreiberin
+
+MLaw Andrea Meyer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
