@@ -1,0 +1,369 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.493"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2024.46"
+docket_2: "AG.2024.493"
+decided: "2024-08-19"
+published: "2024-08-29"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77255&W10_KEY=3048461&nTrefferzeile=299&Template=search_result_document.html"
+cites_decisions: ["E-2048/2023"]
+cites_law: ["switzerland/bund/acts/0.101/art-003.md"]
+---
+
+# Verlängerung Ausschaffungshaft
+
+## Text
+
+[...]
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter in für
+ Zwangsmassnahmen im Ausländerrecht
+
+AUS.2024.46
+
+URTEIL
+
+vom 29.
+August 2024
+
+Beteiligte
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, Postfach, 4001
+Basel
+
+gegen
+
+A____ , geb. [...], von Nigeria,
+
+zurzeit im Gefängnis Bässlergut, Freiburgerstrasse 48,
+4057 Basel
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Verfügung des
+Migrationsamtes vom 27. August 2024
+
+betreffend Verlängerung
+Ausschaffungshaft
+
+Sachverhalt
+
+Die über A____
+angeordnete Ausschaffungshaft wurde letztmals mit Urteil vom 19. August 2024
+(AUS.2024.44) der Einzelrichterin für Zwangsmassnahmen im Ausländerrecht
+(nachfolgend Einzelrichterin) bis und mit 29. August 2024 als rechtmässig
+und angemessen bestätigt. Im Urteil hat die Einzelrichterin ausgeführt, dass
+betreffend die Modalitäten der geplanten Rückführung von A____ (der unter
+einer[schweren] psychiatrischen Erkrankung leidet) nach Nigeria ein Amtsbericht
+beim Staatsekretariat für Migration (SEM) einzuholen sei, welcher Stellung
+nimmt zur Zumutbarkeit der Ausschaffung unter dem Aspekt von Art. 3 Europäische
+Menschenrechtskonvention (EMRK, SR 0-101) und unter Berücksichtigung der
+Erwägungen im genannten Entscheid. Zwischenzeitlich ist ein entsprechender
+Amtsbericht des SEM vom 26. August 2024 bei Gericht eingegangen. Die
+Einzelrichterin hat mit E-Mail- Schreiben vom 28. August 2024 dem SEM diverse
+Zusatzfragen zum Amtsbericht gestellt und auf (nach Einsicht der
+Einzelrichterin) Fehler betreffend gewisser Sachverhaltsannahmen im Bericht
+hingewiesen. Das SEM hat die Einzelrichterin daraufhin telefonisch vor der
+Verhandlung am 29. August 2024 kontaktiert und dieser im Nachgang an
+dieses Gespräch eine schriftliche Zusicherung betreffend den noch zu
+organisierenden Empfang von A____ am Flughafen in Nigeria zukommen lassen.
+
+Das
+Migrationsamt hat die Ausschaffungshaft mit Verfügung vom 27. August 2024 bis
+zum 29. September 2024 verlängert. Betreffend weitere Einzelheiten des
+(aussergewöhnlichen) Sachverhalts wird auf die vorgehenden Entscheide in der
+Sache verwiesen (VGE AUS.2024.26, AUS.2024.28, AUS.2024.36, AUS.2024.44).
+
+An der heutigen
+Gerichtsverhandlung ist A____ zur Sache befragt worden und ist sein
+Rechtsbeistand zum Vortrag gelangt. Er beantragt die umgehende Freilassung von A____,
+eventualiter unter der Auflage einer Meldepflicht, subeventualiter zu Handen
+der Kinder- und Erwachsenenschutzbehörde (KESB). Ausserdem beantragt er die
+Kontaktaufnahme mit der vormaligen Partnerin (und Mutter eines gemeinsamen
+Kindes) von A____ in Deutschland, um allenfalls mehr über einen möglichen
+familiären Empfangsraum in Nigeria in Erfahrung zu bringen sowie allenfalls
+anzufragen, ob die Familie in Deutschland bereit wäre, Arzt- und/oder
+Medikamentenkosten in Nigeria zu tragen. Dies hat der Rechtsbeistand beantragt,
+obwohl A____ bei der Befragung zur Sache die Notwendigkeit einer solchen
+Anfrage verneinte. Dieses Vorgehen dränge sich auf, da A____ mutmasslich
+krankheitsbeding nicht in der Lage sei, abzuschätzen, welche Art von Hilfe er
+in Nigeria benötigt. Der an der Verhandlung teilnehmende Vertreter des
+Migrationsamts beantragt die Bestätigung der Verfügung vom 27. August 2024. Für
+sämtliche Ausführungen wird auf das Protokoll verwiesen.
+
+Erwägungen
+
+1.
+
+Die gerichtliche
+Überprüfung der Verlängerung einer Ausschaffungshaft hat vor deren Ablauf zu
+erfolgen. Mit der heutigen Gerichtsverhandlung und Eröffnung des Entscheids
+erfolgt die gerichtliche Haftüberprüfung rechtzeitig.
+
+2.
+
+Betreffend das
+Vorhandensein eines Wegweisungstitels sowie der Untertauchensgefahr kann auf
+die Erwägungen im ersten Haftentscheid verwiesen werden (AUS.2024.26 E. 2 und
+3). Dass die Untertauchensgefahr trotz medikamentöser Stabilisierung von A____
+fortbesteht, wurde sodann im Urteil vom 19. August 2024 (AUS.2024.44 E. 2)
+ausführlich dargelegt. Zusammengefasst ist zu wiederholen, dass aufgrund
+mangelnder Krankheitseinsicht weiterhin nicht mit der Kooperation von A____ zu
+rechnen ist, sobald er in die Freiheit entlassen würde.
+
+3.
+
+3.1 Die
+Einzelrichterin hat im Urteil vom 19. August 2024 (AUS.2024.44) darauf
+hingewiesen, dass betreffend die Ausschaffung von A____ gewissen Unklarheiten
+und Bedenken unter dem Aspekt der Zumutbarkeit der Rückführung von A____ nach
+Nigeria bzw. in Berücksichtigung von Art. 3 EMRK bestünden. Sie hat
+hervorgehoben, dass im Lichte der Rechtsprechung zu dieser Bestimmung bei
+schwer kranken Personen in Betrachtung des Einzelfalls -neben den generellen
+Behandlungsmöglichkeiten im Zielstaat - der tatsächliche Zugang zu einer
+Behandlung für die betreffende Person einschliesslich
+Finanzierungsmöglichkeiten zu berücksichtigen seien. Ebenso sei zu beachten, ob
+ein soziales oder familiäres Netzwerk existiere, soweit dies für die gesundheitliche
+Situation der betroffenen Person von Bedeutung sei (E. 4).
+
+3.2 Das
+SEM verweist im Amtsbericht vom 26. August 2024 auf die Rechtsprechung des Europäischen
+Gerichtshof für Menschenrechte (EGMR) und des Bundesverwaltungsgerichts. Das
+Bundesverwaltungsgericht habe in einem Urteil vom 22. Mai 2023 (BVGer
+E-2048/2023), bei welchem es um die Rückführung eines HIV-positiven, an
+posttraumatischer Belastungsstörung und dissoziativen Symptomen leidenden
+Nigerianers gegangen sei, die Behandlungsmöglichkeiten von psychiatrischen
+Erkrankungen in Nigeria aufgezeigt, worauf nach wie vor abgestützt werden
+könne. Zur Finanzierungsmöglichkeit habe das Bundesverwaltungsgericht in
+Präzisierung der Rechtsprechung ausgeführt, dass die betroffene Person eine
+Reserve an Medikamente in das Heimatland mitnehmen könne und dort mittelfristig
+ein Einkommen werde erzielen können, mit welchem die Behandlung finanziert
+werden könne. Mit Hinweis auf die Rechtsprechung des EGMR weist das SEM darauf
+hin, dass diese verlange, dass im Rahmen der Rückführung konkret die Kosten der
+Behandlung und Medikation, existierende soziale und familiäre
+Unterstützungsnetzwerke sowie die Entfernung zum Ort der Behandlung abzuklären
+seien. Bestünden daraufhin noch ernsthafte Zweifel, müsse der abschiebende
+Staat ausreichende, individuelle Zusicherungen vom Zielstaat erhalten, dass die
+notwendige medizinische Behandlung im konkreten Fall für die betroffene Person
+verfügbar und zugänglich sei.
+
+Es führt aus, zu
+anerkennen, dass die Rückführung von A____ möglicherweise negative Auswirkungen
+auf seinen Gesundheitszustand haben könnte und hält fest, dass in Nigeria
+diverse Einrichtungen zur Behandlung psychiatrischer Erkrankungen existierten.
+Zum konkreten Fall führt das SEM aus, der Heimatort von A____, [...], sei 40 km
+entfernt von der Stadt Awka, wo es eine psychiatrische Einrichtung gebe. Damit
+habe A____ konkreten Zugang zu einer medizinischen Behandlung seiner
+Erkrankung. Die Kosten für die Behandlung würden sich in «gewissen Grenzen
+halten», zudem würden staatliche Einrichtungen vom Staat finanziert und könnten
+«von der breiten Bevölkerung benutzt» werden. Zudem bestünde die Möglichkeit A____
+eine Reserve an Medikamenten aus der Schweiz mitzugeben. Damit sei die
+Behandlung für eine Übergangszeit sichergestellt. Sodann könne A____ «mittelfristig
+ein Einkommen erzielen» und damit seine Behandlung finanzieren.
+
+Zur Prüfung der
+sozialen und familiären Unterstützung seien Informationen dazu von A____
+erforderlich. Aufgrund seiner mangelnden Mitwirkung seien diese nicht
+vorhanden. Auch würden Angaben zur Krankheitseinsicht fehlen, weshalb sich eine
+Abklärung des sozialen Empfangsraums als schwierig erweise. Eine
+Kontaktaufnahme zu den lokalen Netzwerken in Nigeria sei unter diesen Umständen
+nicht möglich. Da der Zugang zu medizinischer Versorgung bereits sichergestellt
+sei, sei dieser Aspekt für die Prüfung der Zulässigkeit der Rückführung
+allerdings nicht wesentlich.
+
+Gegebenenfalls
+sei es möglich, «via Botschaft in Abuja und eine Begleitung (sic) in eine
+geeignete Klinik oder (bei entsprechender Informationen) den Empfang durch die
+Familie zu organisieren», was aber die Kooperation von A____ voraussetze. A____
+werde bei der Ankunft in Lagos von der Migrationsbehörde in Empfang genommen.
+Sollten sich zu diesem Zeitpunkt gesundheitliche Probleme manifestieren,
+bestehe die Möglichkeit, die Gesundheitsbehörde des Flughafens beizuziehen, um A____
+zu empfangen.
+
+3.3 Die
+Einzelrichterin hat mit E-Mail Schreiben vom 28. August 2024 dem SEM Rückfragen
+zum Amtsbericht gestellt. So hat sie nachgefragt, wie hoch genau die Kosten psychiatrischer
+Behandlung in der Nähe des Wohnorts von A____ seien oder ob die Auskunft gar so
+zu verstehen sei, dass eine Behandlung für A____ gratis sein könnte. Ausserdem
+hat sie nachgefragt, auf was sich die Aussage stütze, A____ sei mittelfristig
+in der Lage, ein Einkommen zu erzielen. Unter Verweis auf die gemäss ärztlicher
+Einschätzung bei A____ wohl bestehende paranoide Schizophrenie sei die
+Einzelrichterin selbst nicht in der Lage, eine solche Einschätzung vorzunehmen.
+Auch sei der Einzelrichterin nicht klar, wie eine Beigabe von Medikamenten für
+30 Tage (Auskunft Migrationsamt) zur Überbrückung genügen soll, sogar wenn A____
+mittelfristig in der Lage sein sollte, ein Erwerbseinkommen zu erzielen.
+Schliesslich sei darauf hinzuweisen, dass A____ seit der Stabilisierung seines
+Gesundheitszustands seitens der Migrationsbehörden noch nie zu seiner Familie
+befragt worden sein, mithin ihm nicht eine Verletzung der Mitwirkungspflicht
+anzulasten sei. Dies vor dem Hintergrund, dass das SEM im Amtsbericht ausführe,
+die Organisation des sozialen Empfangsraums sei unter diesen Umständen (der
+behaupteten fehlenden Mitwirkung von A____) schwierig. Ausserdem hat die
+Einzelrichterin darauf hingewiesen, dass entgegen den Angaben im Amtsbericht im
+Urteil vom 19. August 2024 (AUS.2024.44) in aller Deutlichkeit darauf
+hingewiesen worden sei, dass keine Krankheitseinsicht A____ bestehe.
+
+Das SEM hat der
+Einzelrichterin daraufhin  nach telefonischer Kontaktaufnahme - am 29. August
+2024 schriftlich zugesichert, dass A____ am Flughafen in Lagos von einem
+Mitarbeitenden der Schweizer Botschaft in Empfang genommen werde, welcher ihm -
+soweit von ihm gewünscht- bei der Organisation seiner Weiterreise in seinen
+Heimatort behilflich sein sowie ihn zu einem psychiatrischen Behandlungsangebot
+begleiten werde.
+
+Die vom
+Migrationsamt geleistete Rückkehrhilfe wird gemäss Auskunft des Migrationsamts
+CHF 1'000. betragen. Das SEM geht davon aus, dass mit diesem Betrag die für
+Rückreise und ärztliche Behandlung entstehenden Kosten gedeckt sind. Ausserdem
+wird A____ Medikamente für die Dauer von 30 Tagen erhalten.
+
+3.4 Der
+Rechtsvertreter von A____ hat an der Verhandlung darauf hingewiesen, dass der
+Sachverhalt im vom SEM zitierten Entscheid des Bundesverwaltungsgerichts (s.
+oben E. 3.2) nicht mit der Situation von A____ zu vergleichen sei, da die dort
+betroffene Person offenbar über Krankheitseinsicht verfügt habe und auch in der
+Lage gewesen sein soll, mittelfristig ein Erwerbseinkommen zu erzielen. Ausserdem
+habe jene Person Familie in Nigeria, welche zugesichert habe, bei der
+Behandlung der Krankheit der betroffenen Personen unterstützend zu wirken.
+Demgegenüber habe A____ gemäss seinen Angaben lediglich eine Mutter, welche
+kaum noch jung sei, sowie einen Onkel und einen Cousin und A____ habe keinerlei
+Krankheitseinsicht. Die Rückführung von A____ sei unter den aktuellen
+Voraussetzungen unzumutbar, weshalb er frei zu lassen sei, allenfalls unter
+Auflagen oder zu Handen der KESB.
+
+3.4 Die
+Einzelrichterin stimmt dem Rechtsbeistand zu, wenn dieser den zitierten
+Entscheid des Bundesverwaltungsgerichts betreffend den zu beurteilenden
+Sachverhalt für nicht vergleichbar hält. Tatsächlich handelt es sich bei A____
+um eine psychisch schwer kranke Person (gemäss Austrittsbericht der UPK
+mutmasslich unter paranoider Schizophrenie leidend). Er war bei seiner
+Inhaftnahme im Mai 2024 in einem geistig offenbar höchst verwirrten Zustand und
+trat körperlich ungepflegt in Erscheinung. Ausserdem war er nicht adäquat
+ansprechbar, so dass die erste Gerichtsverhandlung abgebrochen werden musste
+und er an der zweiten Gerichtsverhandlung gemäss Auskunft des behandelnden
+Arztes der Universitären Psychiatrischen Kliniken (UPK) nicht verhandlungsfähig
+war, weshalb an dieser Verhandlung nur sein Rechtsvertreter anwesend war (sowie
+ein Vertreter des Migrationsamts). Erst seit einer ca. 6-wöchigen medikamentösen
+Zwangsbehandlung in der UPK ist er ansprechbar und kann Auskünfte erteilen.
+Eine Krankheitseinsicht besteht allerdings offensichtlich nicht. Auch an der
+heutigen Haftverhandlung hat er ausgeführt, er sei nicht krank und er brauche
+keinerlei Hilfe in Nigeria. Er könne seine Reise innerhalb von Nigeria selber
+organisieren und falls er ärztliche Hilfe brauche, werde er zu seinem Cousin
+gehen, der in einer nahe seiner Heimatstadt gelegenen anderen Stadt als Arzt arbeite.
+
+Die
+Einzelrichterin hat bereits im ersten Haftentscheid festgehalten, dass im Falle
+einer Rückführung der soziale Empfangsraum von A____ wird abgeklärt werden
+müssen. Im Gespräch mit dem SEM vom heutigen Tag hat sie ausserdem darauf
+hingewiesen, dass seit der gesundheitlichen Stabilisierung von A____ seitens
+der Migrationsbehörden keine Gespräche stattgefunden hätten, um abzuklären, ob
+eine Kontaktaufnahme mit seiner Familie in Nigeria möglich sei. Dies hat die
+Einzelrichterin an der heutigen Verhandlung gemacht, nachdem sie bereits an
+vorgehenden Verhandlungen Auskunft von ihm betreffend seine vormalige Partnerin
+in Deutschland sowie über seinen Heimatort in Nigeria erhalten hat. A____ hat
+daraufhin angegeben, dass seine Mutter und sein Onkel noch in [...] leben
+würden und er dorthin gehen werde. Hilfe brauche er keine.
+
+Die
+Einzelrichterin teilt die Ansicht des Rechtsbeistandes, dass A____ nicht
+abschätzen kann, welche Hilfe er in Nigeria benötigt, weshalb Vorkehrungen
+trotz seiner ablehnenden Haltung zu treffen sind. Gleichzeitig ist
+festzustellen, dass es sich bei A____ um eine Person handelt, die keinen Bezug
+zur Schweiz hat und wohl mehr oder weniger zufällig hier auf der Strasse
+gelandet ist, wo er sich (eine unbekannte Zeit lang) als Obdachloser aufhielt.
+Unter diesen Voraussetzungen ist die Einzelrichterin der Ansicht, dass unter
+den nun vom SEM zugesicherten Empfangsbedingungen eine Ausschaffung nach
+Nigeria zumutbar ist. Ob A____ die Hilfe letztlich annehmen wird, liegt nach
+Ansicht der Einzelrichterin nicht mehr in der Macht und Verantwortung des
+Schweizer Staates. Das Migrationsamt hat aber entsprechend dem Antrag des
+Rechtsbeistandes die möglichen weiteren Abklärungen zu treffen, um allenfalls
+doch noch einen Empfang in Nigeria durch ein Familienmitglied organisieren zu
+können oder aber private finanzielle Zusicherungen betreffend die ärztliche
+Behandlung von A____ in Nigeria sicher stellen zu können. Sein Rechtsvertreter
+ist über dies Bemühungen zu dokumentieren. Mit der Beigabe von Medikamenten für
+einen Monat sowie CHF 1'000. kann gleichzeitig gestützt auf die Angaben des
+SEM davon ausgegangen werden, dass A____ seine Reise innerhalb des Landes nach [...]
+sowie Arztkosten und Medikamente für einige Monate finanzieren kann. Damit
+erscheint die Anordnung der Haft recht- und verhältnismässig. Sie wird bis zum
+29. September 2024 bewilligt, auch wenn der Rückflug für die Kalenderwoche 37
+des laufenden Jahres organisiert ist, um den Behörden im Falle unerwarteter
+Planungsschwierigkeiten einen zeitlichen Spielraum zu belassen.
+
+4.
+
+Es werden keine
+Gerichtskosten erhoben und der Rechtsbeistand wird gemäss der dazu
+eingereichten Honorarnote (Vorbereitung 1 Stunde 45 Minuten, Verhandlung inkl.
+Vorbesprechung mit Mandant 1 Stunde 35 Minuten, Weg 1 Stunde, zzgl. Auslagen
+und MWST) aus der Gerichtskasse entschädigt. Für die Einzelheiten wird auf das
+Dispositiv verwiesen.
+
+Demgemäss
+erkennt die
+Einzelrichterin :
+
+://:        Die angeordnete Ausschaffungshaft über A____
+wird bis zum 29. September 2024 als rechtmässig und angemessen bestätigt.
+
+Das Migrationsamt hat weitere Abklärungen
+betreffend die Familie von A____ in Nigeria zu treffen.
+
+Der Rechtsbeistand ist über weitere
+Entwicklungen in der Sache zu dokumentieren.
+
+Es werden keine Gerichtskosten erhoben.
+
+Dem unentgeltlichen Rechtsvertreter, [...],
+Advokat, werden ein Honorar von CHF 866.70 und ein Auslagenersatz von CHF
+15.50, zuzüglich 8.1 % MWST von CHF 71.45, aus der Gerichtskasse bezahlt.
+
+Mitteilung an:
+
+- A____
+
+- Migrationsamt
+
+- Staatssekretariat für Migration
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Die Einzelrichterin für Zwangsmassnahmen im
+Ausländerrecht
+
+lic. iur. Barbara Grange
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
+
+Der inhaftierte
+Ausländer kann einen Monat nach der Haftüberprüfung ein Haftentlassungsgesuch
+einreichen beim Verwaltungsgericht
+Basel-Stadt, Bäumleingasse 1, 4051 Basel .
+
+Hinweis
+
+Dieses Urteil
+wurde dem Ausländer am heutigen Tag mündlich erläutert.
