@@ -1,0 +1,272 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.522"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2024.85"
+docket_2: "AG.2024.522"
+decided: "2024-09-10"
+published: "2025-04-05"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77338&W10_KEY=3048461&nTrefferzeile=292&Template=search_result_document.html"
+cites_decisions: ["BGE 131 I 153", "VD.2012.104", "VD.2014.137", "VD.2014.175", "VD.2015.260", "VD.2016.221", "VD.2017.175", "VD.2017.289", "VD.2017.86", "VD.2020.2013", "VD.2020.213", "VD.2023.10", "VD.2023.20", "VD.2024.85", "ZK.2018.25"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-095.md"]
+---
+
+# Unterbrechung der Energielieferung bzw. des Wasserbezugs (Rechnung Energiebezug vom 08.01.2024)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelgericht
+
+VD.2024.85
+
+URTEIL
+
+vom 10.
+September 2024
+
+Mitwirkende
+
+Dr. Stephan Wullschleger
+
+und Gerichtsschreiberin
+MLaw Marion Wüthrich
+
+Beteiligte
+
+A____ Rekurrent
+
+[]
+
+gegen
+
+IWB Industrielle Werke Basel
+
+Margarethenstrasse 40, 4053 Basel
+
+Gegenstand
+
+Rekurs gegen eine Verfügung
+der Industriellen Werke Basel
+
+vom 12. April 2024
+
+betreffend Unterbrechung der
+Energielieferung bzw. des Wasserbezugs
+
+(Rechnung Energiebezug vom
+08.01.2024)
+
+Sachverhalt
+
+Mit Rechnung vom 8. Januar 2024 stellten die Industriellen
+Werke Basel (IWB) A____ (nachfolgend: Rekurrent) für den Bezug von Wasser und
+Strom den Betrag von CHF 131.35 in Rechnung. Nach erfolgten Mahnungen ordneten
+die IWB mit Verfügung vom 12. April 2024 die Unterbrechung der Energielieferung
+bzw. des Wasserbezugs an und verpflichteten den Rekurrenten, den Mitarbeitenden
+der IWB den Zutritt zu den entsprechenden Hausinstallationen und
+Messeinrichtungen in der Liegenschaft [...] in [...] ab dem 2. Mai 2024 zu
+gewähren.
+
+Dagegen erhob
+der Rekurrent mit Anmeldung vom 27. April 2024 Rekurs an den Regierungsrat und
+begründete diesen mit Eingabe vom 10. Mai 2024. Der Regierungspräsident
+überwies den Rekurs mit Schreiben vom 29. Mai 2024 dem Verwaltungsgericht zum
+Entscheid. Mit seinem Rekurs beantragt der Rekurrent die kosten- und
+entschädigungsfällige Aufhebung der angefochtenen Verfügung. Die IWB teilen mit
+Vernehmlassung vom 15. Juli 2024 die Aufhebung der angefochtene Verfügung mit,
+welche aufgrund eines «Systemfehlers (Weiterführung ordentlicher Mahnlauf trotz
+Einsprache vom 9. Januar 2024)» versandt worden sei. Vor diesem Hintergrund
+beantragen sie, es sei das Rekursverfahren als gegenstandslos und ohne
+Kostenfolge abzuschreiben. Mit Eingabe vom 18. Juli 2024 forderte der Rekurrent
+eine Entschädigung der entstandenen Aufwände und Auslagen sowie einen Zins von
+5 % für den geleisteten Kostenvorschuss. Hierzu nahmen die IWB am 21. August
+2024 Stellung. Mit Schreiben vom 2. September 2024 hielt der Rekurrent an
+seinen Entschädigungsforderungen fest. Die Einzelheiten der Parteistandpunkte
+ergeben sich, soweit sie für den Entscheid von Bedeutung sind, aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gegen
+Verfügungen der IWB kann gemäss den Bestimmungen des Organisationsgesetzes (OG,
+SG 153.100) Beschwerde beim Regierungsrat erhoben werden (§ 37 Abs. 1 und
+3 IWB-Gesetz [SG 772.300]). Die Zuständigkeit des Verwaltungsgerichts ergibt
+sich aus § 42 OG i.V.m. § 12 des Gesetzes über die Verfassungs- und
+Verwaltungsrechtspflege (VRPG, SG 270.100) sowie dem Überweisungsschreiben des
+Regierungspräsidenten vom 29. Mai 2024. Funktionell zuständig ist grundsätzlich
+das Dreiergericht (§ 92 Abs. 1 Ziff. 11 des Gerichtsorganisationsgesetzes [GOG,
+SG 154.100]). Die Abschreibung des Verfahrens infolge Urteilssurrogats oder
+Gegenstandslosigkeit einschliesslich des Kostenentscheids fällt jedoch in die
+Zuständigkeit des Verfahrensleiters oder der Verfahrensleiterin (§ 45 Abs. 1
+des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2
+
+1.2.1 Zum Rekurs berechtigt ist gemäss § 13 Abs. 1
+des Verwaltungsrechtspflegegesetzes (VRPG, SG 270.100), wer vom angefochtenen
+Entscheid berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder
+Änderung hat. Vorliegend war der Rekurrent zum Zeitpunkt, in welchem er die
+Rekurse erhob, von den angefochtenen Verfügungen unmittelbar berührt und hatte
+ein Interesse an deren Aufhebung.
+
+1.2.2 Um schutzwürdig zu sein, muss das
+Rechtsschutzinteresse indes auch im Zeitpunkt der Entscheidung über das
+Rechtsmittel nach wie vor aktuell sein (vgl. dazu R hinow /K oller /K iss /T hurnherr /B rühl -M oser ,
+Öffentliches Prozessrecht, 4. Aufl., Basel 2021, Rz. 1931 f.). Dies ist
+dann der Fall, wenn die Anfechtung für den Rekurrenten auch zum Zeitpunkt der
+Urteilsfällung eine praktische Bedeutung hat und die Gutheissung seines
+Rechtsmittels ihm einen gegenwärtigen und praktischen Nutzen einträgt in dem
+Sinn, dass dadurch der Eintritt eines wirtschaftlichen, ideellen, materiellen
+oder anderweitigen Nachteils verhindert wird (vgl. VGE VD.2023.10/VD.2023.20
+vom 24. Juli 2023 E. 1.2.1, VD.2017.86 und VD.2017.175 vom 24. November 2017
+E. 1.3.1; W ullschleger /S chröder , Praktische Fragen des
+Verwaltungsprozesses im Kanton Basel-Stadt, in: BJM 2005, S. 277, S. 292). Mit
+dem Erfordernis des aktuellen Rechtsschutzinteresses wird sichergestellt, dass
+einer Behörde nur konkrete und nicht bloss theoretische oder abstrakte
+Rechtsfragen unterbreitet werden (S chwank ,
+Das verwaltungsinterne Rekursverfahren des Kantons Basel-Stadt, in: Buser
+[Hrsg.], Neues Handbuch des Staats- und Verwaltungsrechts des Kantons Basel-Stadt,
+Basel 2008, S. 435, 447; BGE 131 I 153 E. 1.2; VGE VD.2020.213 vom 16. Dezember
+2020 E. 1.2).
+
+1.2.3 Vorliegend
+haben die IWB wiedererwägungsweise und lite pendente die angefochtene Verfügung
+aufgehoben. Damit haben sie dem Begehren des Rekurrenten in der Sache
+entsprochen. Mithin ist das Anfechtungsobjekt dahingefallen, und damit ist auch
+das Rechtsschutzinteresse des Rekurrenten an der Beurteilung seines Rekurses
+erloschen. Folglich ist das verwaltungsgerichtliche Rekursverfahren
+gegenstandslos geworden und zufolge Gegenstandslosigkeit als erledigt
+abzuschreiben.
+
+2.
+
+2.1 Es bleibt über die Kostenfolge zu befinden. Auch
+bei der Abschreibung des Verfahrens infolge Gegenstandslosigkeit bei Wegfall des
+Rechtsschutzinteresses richtet sich der Kostenentscheid gemäss ständiger Praxis
+des Verwaltungsgerichts nach dem mutmasslichen Ausgang des Verfahrens, soweit
+dessen Beurteilung möglich ist (vgl. Wullschleger/Schröder ,
+Praktische Fragen des Verwaltungsprozesses im Kanton Basel-Stadt, BJM 2005 S.
+277, 310; Stamm , Die
+Verwaltungsgerichtsbarkeit, in: Neues Handbuch des Staats- und
+Verwaltungsrechts des Kantons Basel-Stadt, Basel 2008, S. 477, 514). Es ist
+somit zu prüfen, wie der Entscheid mutmasslich ausgefallen wäre, wenn das
+Verfahren nicht gegenstandslos geworden wäre, wobei der angefochtene Entscheid
+bloss einer summarischen Prüfung unterzogen werden muss (VGE VD.2014.137 vom
+13. Januar 2015 E. 2.1, VD.2014.175 vom 25. November 2014 E. 2.1,
+VD.2012.104 vom 31. Januar 2013 E. 2.1).
+
+2.2 Da die IWB mit Schreiben vom 15. Juli 2024 an
+den Rekurrenten selber eingeräumt haben, dass es sich bei der angeordneten
+Unterbrechung der Energielieferung und des Wasserbezugs um ein Versehen
+gehandelt hat, wäre der Rekurs zweifellos gutzuheissen gewesen. Da auch den
+verfügenden IWB trotz ihres Unterliegens keine ordentlichen Kosten aufzuerlegen
+sind (vgl. § 30 Abs. 1 VRPG; VGE VD.2020.2013 vom 16. Dezember 2020 E. 2,
+VD.2017.289 vom 29. Juni 2018 E. 3, VD.2016.221 vom 16. November 2017 E. 8.2;
+VD.2015.260 vom 21. Oktober 2017 E. 4), sind keine Gerichtskosten zu erheben und
+ist dem Rekurrenten der geleistete Kostenvorschuss zurückzuerstatten.
+
+2.3 Darüber hinaus verlangt der Rekurrent mit
+seiner Eingabe vom 18. Juli 2024 die Verurteilung der IWB zur Leistung von Zins
+von 5 % auf dem geleisteten Kostenvorschuss. Dieser Forderung fehlt eine
+Grundlage. Sie kann nicht auf Art. 104 Abs. 1 des Obligationenrechts (OR, SR
+220) abgestützt werden, da sich die IWB in diesem Zusammenhang nicht im Verzug
+befinden. Es fehlt aber auch eine Grundlage für einen Schadenszins, da der
+Rekurrent aufgrund der Rückerstattung des Kostenvorschusses keinen Schaden
+erleidet. Schliesslich belegt er auch keinen Schaden durch die kurze
+Vorenthaltung des als Kostenvorschuss geleisteten Betrages, zumal Guthaben auf
+einem Kontokorrent notorischerweise derzeit nicht verzinst werden.
+
+2.4
+
+2.4.1 Mit seiner Eingabe vom 18. Juli 2024 verlangt
+der Rekurrent weiter für die ihm entstandenen Aufwände und Auslagen eine
+Entschädigung im Betrag von CHF 201.75. Im Einzelnen macht er für die
+Rekursanmeldung einen Aufwand von CHF 40., Büromaterial von CHF 1.75 und ein
+Porto von CHF 5.80, für die Rekursbegründung einen Aufwand von CHF 80.,
+Büromaterial von CHF 4.50 und ein Porto von CHF 5.80, für die Abwicklung
+des Zahlungsverkehrs für den Kostenvorschuss einen Aufwand von CHF 20. und für
+die Eingabe vom 18. Juli 2024 einen Aufwand von CHF 40., Büromaterial von CHF
+1. und ein Porto von CHF 2.90 geltend.
+
+2.4.2 Gemäss § 30 Abs. 1 VRPG kann die unterliegende
+zur Leistung einer Parteientschädigung an den obsiegenden Rekurrenten
+verpflichtet werden. Deren Voraussetzungen werden im kantonalen
+Verwaltungsprozessrecht nicht weiter konkretisiert. Gemäss dem nach § 21 Abs. 1
+VRPG anwendbaren Art. 64 Abs. 1 des Bundesgesetzes über das
+Verwaltungsverfahren (VwVG, SR 172.021) kann der ganz oder teilweise
+obsiegenden Partei als Parteientschädigung eine «Entschädigung für ihr
+erwachsene notwendige und verhältnismässige Kosten» zugesprochen werden. Unter
+diesem Titel kann etwa ein in eigener Sache prozessierender Anwalt nur
+ausnahmsweise, bei Vorliegen spezieller Verhältnisse eine Parteientschädigung
+beanspruchen ( Beusch , in:
+Auer/Müller/Schindler, Kommentar VwVG, 2. Aufl., Zürich 2019, Art. 64 N 14).
+Dies entspricht auch den Voraussetzungen für eine gemäss Art. 95 Abs. 3
+lit. c ZPO im Zivilprozess in begründeten Fällen geschuldete angemessene
+Umtriebsentschädigung für eine nicht berufsmässig vertretene Partei. Diese
+besonderen Gründe sind von der Partei, die einen entsprechenden Anspruch
+geltend macht, dazulegen (vgl. AGE ZK.2018.25 vom 11. September 2019 E. 5, m.H.
+auf Rüegg/Rüegg , in: Basler
+Kommentar, 3. Aufl., 2017, Art. 95 ZPO N 21).
+
+2.4.3 Vorliegend sind keine solche besonderen Gründe
+erkennbar. Die Ausfertigung der drei Schreiben aufgrund des Versehens der IWB
+war zweifellos mit einem gewissen Aufwand für den Rekurrenten verbunden. Dieser
+Aufwand unterscheidet sich aber nicht von jenem bei aussergerichtlichen
+Auseinandersetzungen und erscheint insgesamt als überschaubar. Dies gilt in
+gleicher Weise für die in diesem Zusammenhang angefallenen Auslagen. Daraus
+folgt, dass keine Parteikosten zugesprochen werden.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Einzelgericht):
+
+://:        Das Rekursverfahren wird zufolge
+Gegenstandslosigkeit als erledigt abgeschrieben.
+
+Für das verwaltungsgerichtliche Rekursverfahren werden keine
+Gerichtskosten erhoben. Der geleistete Kostenvorschuss in Höhe von CHF 500.
+wird dem Rekurrenten zurückerstattet.
+
+Es werden keine Parteikosten
+zugesprochen .
+
+Mitteilung an:
+
+- Rekurrent
+
+- Industrielle Werke Basel (IWB)
+
+- Regierungsrat des Kantons Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Marion Wüthrich
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ein anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre
+Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG), ergibt sich
+aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl Beschwerde in
+öffentlich-rechtlichen Angelegenheiten als auch Verfassungsbeschwerde erhoben,
+sind beide Rechtsmittel in der gleichen Rechtsschrift einzureichen.
