@@ -1,0 +1,761 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2025.196"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2024.95"
+docket_2: "SVG.2025.196"
+decided: "2024-09-24"
+published: "2025-06-24"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=79036&W10_KEY=3049204&nTrefferzeile=12&Template=search_result_document.html"
+cites_decisions: ["8C_153/2021", "8C_202/2021", "8C_318/2024", "8C_447/2009", "8C_774/2019", "8C_96/2024", "9C_228/2013", "9C_235/2016", "9C_49/2014", "9C_571/2023", "9C_671/2012", "BGE 125 V 351", "BGE 134 V 231", "BGE 134 V 392", "BGE 135 V 465", "BGE 136 V 279", "BGE 140 V 41", "BGE 141 V 281", "BGE 143 V 418", "BGE 144 V 210", "IV.2021.174", "IV.2023.7", "IV.2024.95"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-008.md", "switzerland/bund/acts/830.1/art-029.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-028b.md", "switzerland/bund/acts/831.20/art-029.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# Beweistaugliches Gutachten; kein Rentenanspruch
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 24.
+Juni 2025
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz), C. Müller,
+lic. iur. S. Bammatter-Glättli
+
+und
+Gerichtsschreiberin MLaw L. Marti
+
+Parteien
+
+A ____
+
+vertreten durch lic. iur. Martin Lutz,
+Advokat, Falknerstrasse 3, Postfach, 4001 Basel
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2024.95
+
+Verfügung vom 24. September 2024
+
+Beweistaugliches Gutachten; kein
+Rentenanspruch
+
+Tatsachen
+
+I.
+
+a) Der 1965 geborene Beschwerdeführer ist gelernter Bäcker mit
+Gesellenbrief und Lebensmittelchemiker (vgl. IV-Akten 69, S. 3 und 5).
+Zudem besitzt er ein Wirtediplom (IV-Akte 6, S. 3). Vom 1. Januar 2006 bis
+zum 28. Februar 2018 war der Beschwerdeführer für die B____ tätig. Dabei
+war er zunächst Leiter der Backstube und des Kioskbetriebs sowie
+Geschäftsführer. Ab dem 23. Januar 2017 war er Bäcker und Geschäftsführer
+(vgl. Fragebogen für Arbeitgebende, vom 24. November 2019,
+IV-Akte 92).
+
+b) Unter Hinweis auf eine Depression und ein Burnout meldete sich der
+Beschwerdeführer im November 2011 bei der Beschwerdegegnerin zur Früherfassung
+an (IV-Akte 1). Im Februar 2012 ersuchte er um berufliche
+Integrationsmassnahmen bzw. eine Rente (IV-Akte 11). Mit Vorbescheid vom
+7. August 2012 und Verfügung vom 2. Oktober 2012 (IV-Akten 29
+und 30) wies die Beschwerdegegnerin das Leistungsbegehren ab. Nachdem der
+Beschwerdeführer mit einem Schreiben vom 9. Oktober 2012 weitere
+medizinische Unterlagen eingereicht hatte (IV-Akte 34), tätigte die
+Beschwerdegegnerin weitere Abklärungen. Daraufhin sprach sie ihm mit Vorbescheid
+vom 19. März 2014 und Verfügung vom 18. Juni 2014 (IV-Akten 55
+und 57) ab 1. August 2012 bis zum 31. März 2013 eine ganze Rente und
+vom 1. April 2013 bis 30. Juni 2013 Dreiviertelsrente zu. Ab 1. Juli
+2013 verneinte sie einen Rentenanspruch.
+
+c) Auf eine weitere Anmeldung des Beschwerdeführers zum Leistungsbezug
+(Formular vom 28. Juli 2017, Posteingang bei der Beschwerdegegnerin am
+10. August 2017, IV-Akte 59) trat die Beschwerdegegnerin nicht ein
+(vgl. Vorbescheid vom 6. November 2017 und Verfügung vom 9. Januar
+2018, IV-Akten 63 und 64). Die Verfügung ist unangefochten in Rechtskraft
+erwachsen.
+
+d) Im Februar 2019 meldete sich der Beschwerdeführer  unter Angabe eines Aufmerksamkeits-Hyperaktivitätssyndrom
+(ADHS), einer Verhaltenssucht, einer depressiven Störung und missbräuchlichen
+Substanzkonsums sowie einer 100%igen Arbeitsunfähigkeit  erneut bei der
+Beschwerdegegnerin zur Früherfassung an (IV-Akte 65). Mit Gesuch vom 15.
+April 2019 (IV-Akte 70) bat er um berufliche Integration bzw.
+Rentenleistungen. Im Rahmen ihrer Abklärungen veranlasste die
+Beschwerdegegnerin eine psychiatrische Begutachtung durch Dr. med. C____,
+Facharzt FMH für Psychiatrie und Psychotherapie, zertifizierter medizinischer
+Gutachter SIM. Gestützt auf dessen Gutachten wies die Beschwerdegegnerin das
+Leistungsbegehren des Beschwerdeführers mit Vorbescheid vom 5. August 2021
+und Verfügung vom 5. Oktober 2021 (IV-Akten 114 und 115) ab. Dagegen
+erhob der Beschwerdeführer am 29. Oktober 2021 Beschwerde
+(IV-Akte 116, S. 3 f.). Gestützt auf die übereinstimmenden
+Anträge der Parteien hob die Präsidentin des Sozialversicherungsgerichts die
+Verfügung vom 5. Oktober 2021 auf und wies die Angelegenheit zur weiteren
+medizinischen Abklärung an die Beschwerdegegnerin zurück (Urteil IV.2021.174
+vom 5. Mai 2022, IV-Akte 137, S. 2 f.).
+
+e) Der Beschwerdeführer trat per 1. Januar 2023 eine Stelle als
+Mitarbeiter Technik in einem Pensum von 50 % beim D____ in [...] an (vgl.
+Arbeitsvertrag vom 3. Januar 2023, IV-Akte 148). Die Beschwerdegegnerin
+gab in Folge des erwähnten Gerichtsurteils ein bidisziplinäres Gutachten unter
+Beteiligung von Allgemeiner Innerer Medizin und Psychiatrie in Auftrag. Dieses
+wurde via SuisseMED@P nach dem Zufallsprinzip der Gutachterstelle E____ zugeteilt
+(vgl. E-Mail vom 11. Dezember 2023, IV-Akte 156). Die Gutachter Dr.
+med. F____, MSc, FMH Innere Medizin, und Dr. med. G____, Facharzt FMH
+für Psychiatrie und Psychotherapie, erkannten in ihrem Gutachten vom 16. und
+21. Mai 2024 weder aus psychiatrischer noch aus internistischer Sicht eine
+anhaltende Einschränkung der Arbeitsfähigkeit (IV-Akte 181, S. 228). Mit
+Vorbescheid vom 6. Juni 2024 (IV-Akte 185) informierte die
+Beschwerdegegnerin den Beschwerdeführer im Folgenden darüber, dass sie gedenke,
+sein Leistungsbegehren abzuweisen. Der Beschwerdeführer erhob mit E-Mail vom
+18. Juli 2024 dagegen Einwand (IV-Akte 186, S. 1). Eine
+Nachfrist zur Verbesserung des Einwands (vgl. Schreiben vom 19. Juli 2024,
+IV-Akte 187) liess der Beschwerdeführer ungenutzt verstreichen. Mit
+Verfügung vom 24. September 2024 hielt die Beschwerdegegnerin an ihrem
+Vorbescheid vom 6. Juni 2024 fest (IV-Akte 206).
+
+II.
+
+a) Mit Beschwerde vom 24. Oktober 2024 beantragt der Beschwerdeführer
+sinngemäss, die Verfügung vom 24. September 2024 sei aufzuheben und die
+Beschwerdegegnerin sei zu verpflichten, ihm eine Invalidenrente zuzusprechen. In
+verfahrensrechtlicher Hinsicht beantragt er den Erlass der Kosten des
+Verfahrens und eines allfälligen Anwalts.
+
+b) Mit Verfügung vom 29. Oktober 2024 teilt der Instruktionsrichter
+dem Beschwerdeführer mit, dass die Beschwerde namentlich, weil ein formuliertes
+Rechtsbegehren und eine kurze Begründung fehlen, mangelhaft ist. Er setzt ihm
+eine Frist bis am 19. November 2024 zur Beschwerdeergänzung bzw.
+begründung
+
+c) Die geforderte Beschwerdebegründung, datiert auf den 18. November
+2024, geht am 19. November 2024 beim Gericht ein. Der Beschwerdeführer
+beantragt, nun vertreten durch lic. iur. Martin Lutz, Advokat, es sei ihm eine
+Rente bei einem Invaliditätsgrad von mindestens 63 % zuzusprechen; unter
+o/e-Kostenfolge.
+
+d) Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom
+13. Dezember 2024 auf Abweisung der Beschwerde.
+
+e) In seiner Replik vom 31. Januar 2025 beantragt der Beschwerdeführer
+nunmehr, die Beschwerdegegnerin sei zu verpflichten, dem Beschwerdeführer ab
+dem 1. Oktober 2019 eine ganze Rente, ab dem 1. Januar 2023 eine
+Rente von 61 % und ab dem 1. Dezember 2024 wieder eine ganze
+Invalidenrente auszurichten. Im Übrigen hält er an dem in der Beschwerde
+gestellten Rechtsbegehren fest. Für den Fall, dass das Gericht an der
+Invalidität des Beschwerdeführers zweifelt, beantragt er die Veranlassung eines
+psychiatrischen Gerichtsgutachtens bei PD Dr. med. H____, Spezialarzt FMH
+für Psychiatrie und Psychotherapie. Der Beschwerdeführer reicht weitere
+Unterlagen ein, welche der Beschwerdegegnerin mit Instruktionsverfügung vom
+3. Februar 2025 zugestellt werden.
+
+f) Die Beschwerdegegnerin hält mit Duplik vom 11. Februar 2025 an
+ihrem in der Beschwerdeantwort gestellten Rechtsbegehren fest.
+
+g) Mit Triplik vom 3. April 2025 nimmt der Beschwerdeführer erneut
+Stellung und hält an seinen Rechtsbegehren fest. Neben der Honorarnote seines
+Rechtsvertreters reicht er weitere v.a. medizinische Unterlagen ein. Eingabe
+und Beilagen werden der Beschwerdegegnerin mit Instruktionsverfügung vom 23.
+April 2025 zugestellt.
+
+h) Mit Quadruplik vom 30. April 2025 und Quintuplik vom 12. Mai
+2025 äussern sich die Parteien erneut.
+
+III.
+
+Nachdem keine der Parteien die Durchführung einer
+Parteiverhandlung verlangt hat, findet am 24. Juni 2025 die Urteilsberatung
+durch die Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist gemäss Art. 57
+des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des
+Sozialversicherungsrechts (ATSG; SR 830.1) in Verbindung mit § 82
+Abs. 1 des basel-städtischen Gerichtsorganisationsgesetzes vom
+3. Juni 2015 (GOG; SG 154.100) und § 1 Abs. 1 des
+kantonalen Sozialversicherungsgerichtsgesetzes vom 9. Mai 2001 (SVGG;
+SG 154.200) in sachlicher Hinsicht als einzige kantonale Instanz zur Beurteilung
+der vorliegenden Beschwerde zuständig. Die örtliche Zuständigkeit ergibt sich
+aus Art. 69 Abs. 1 lit. a des Bundesgesetzes vom 19. Juni
+1959 über die Invalidenversicherung (IVG; SR 831.20).
+
+1.2. Die Beschwerde wurde rechtzeitig erhoben (Art. 60 ATSG) und
+auch die übrigen formellen Beschwerdevoraussetzungen sind erfüllt. Infolgedessen
+ist auf die Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin verneint einen Anspruch des Beschwerdeführers
+auf eine Invalidenrente. Sie erklärt, der Beschwerdeführer habe frühestens
+sechs Monate nach Einreichen des Gesuchs, also frühestens ab Oktober 2019 einen
+Anspruch auf Rentenleistungen. Aus versicherungsmedizinischer Sicht bestehe
+seit diesem Zeitpunkt kein Gesundheitsschaden mehr, welcher eine wesentliche,
+ununterbrochene Arbeits- und Erwerbsunfähigkeit zu begründen vermöge. In
+medizinischer Hinsicht stellt sie dabei im Wesentlichen auf die bidisziplinäre
+Begutachtung durch Dr. med. F____ und Dr. med. G____ vom 16. und vom
+21. Mai 2024 (IV-Akte 181) ab.
+
+2.2. Der Beschwerdeführer bestreitet die Beweistauglichkeit des erwähnten
+Gutachtens. Er verweist diesbezüglich namentlich auf einen Kommentar von Dr.
+med. I____, Facharzt für Psychiatrie und Psychotherapie, vom 22. Januar
+2025 zum psychiatrischen Teilgutachten von Dr. med. G____ vom 21. Mai
+2024 (Replikbeilage [RB] 6). Zudem weist er darauf hin, dass ihm
+wiederholt eine volle oder zumindest teilweise Arbeitsunfähigkeit attestiert
+worden sei. Zwischen Oktober 2019 und dem Beginn seiner Arbeitsstelle im D____ am
+31. Dezember 2022 habe er kein Erwerbseinkommen realisiert. Für diese Zeit
+bestehe ein Anspruch auf eine ganze Invalidenrente. Ab dem 1. Januar 2023
+bis zu seiner Kündigung per 30. November 2024 resultiere beim
+Einkommensvergleich ein Invaliditätsgrad von 61 %, danach betrage dieser
+wieder 100 %. Er habe demzufolge auch einen Anspruch auf eine diesen
+Invaliditätsgraden entsprechende Rente.
+
+2.3. Streitig ist, ob der Beschwerdeführer gegenüber der
+Beschwerdegegnerin einen Anspruch auf eine Invalidenrente hat.
+
+3.
+
+3.1. Am 1. Januar 2022 ist das revidierte IVG in Kraft getreten
+(Änderung vom 19. Juni 2020, AS 2021 705, BBl 2017 2535). Vorbehältlich
+besonderer übergangsrechtlicher Regelungen sind in zeitlicher Hinsicht
+grundsätzlich diejenigen Rechtssätze massgeblich, die bei der Erfüllung des
+rechtlich zu ordnenden oder zu Rechtsfolgen führenden Tatbestands Geltung
+haben. Das Sozialversicherungsgericht stellt zudem rechtsprechungsgemäss auf
+den bis zum Zeitpunkt des Erlasses des strittigen, d.h. angefochtenen
+Entscheids eingetretenen Sachverhalt ab (BGE 144 V 210, 213 E. 4.3.1,
+BGE 140 V 41, 44, E 6.3.1 mit Hinweisen). Vorliegend finden
+somit grundsätzlich jene Vorschriften Anwendung, die spätestens beim Erlass der
+Verfügung vom 24. September 2024 in Kraft waren; weiter aber auch solche
+Vorschriften, die zu jenem Zeitpunkt bereits ausser Kraft getreten waren, die
+aber für die Beurteilung allenfalls früher entstandener Leistungsansprüche von
+Belang sind. Sofern im Folgenden eine zwischenzeitlich abgeänderte Bestimmung
+in einer bestimmten Fassung von Relevanz ist, wird dies entsprechend vermerkt.
+
+3.2. Eine versicherte Person hat nach Art. 28 Abs. 1 IVG
+Anspruch auf eine Invalidenrente der Invalidenversicherung, wenn sie ihre
+Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen,
+nicht durch zumutbare Eingliederungsmassnahmen wiederherstellen, erhalten oder
+verbessern kann (lit. a), während eines Jahres ohne wesentlichen Unterbruch
+durchschnittlich mindestens 40 % arbeitsunfähig im Sinne von Art. 6
+ATSG war (lit. b) und nach Ablauf dieses Jahres noch zu mindestens 40 %
+invalid (Art. 8 ATSG) ist (lit. c). Der Anspruch entsteht frühestens
+nach Ablauf von sechs Monaten nach Geltendmachung des Leistungsanspruchs gemäss
+Artikel 29 Abs. 1 ATSG (Art. 29 Abs. 1 IVG).
+
+3.3. Im
+Sozialversicherungsverfahren prüft der Versicherungsträger (wie auch das
+Sozialversicherungsgericht gemäss Art. 61 lit. c ATSG) die Begehren,
+nimmt die notwendigen Abklärungen von Amtes wegen vor und holt die
+erforderlichen Auskünfte ein (Art. 43 Abs. 1 ATSG). Er kann
+insbesondere medizinische Begutachtungen veranlassen (vgl. Art. 43
+Abs. 2 ATSG; vgl. auch Art. 44 ATSG in der seit dem 1. Januar 2022
+geltenden Fassung).
+
+Ein medizinisches Gutachten erfüllt die juristischen
+Anforderungen dann, wenn es umfassend ist, auf allseitigen Untersuchungen
+beruht, auch die geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten
+(Anamnese) abgegeben worden ist, in der Beurteilung der medizinischen
+Zusammenhänge und in der Beurteilung der medizinischen Situation einleuchtet
+und wenn die Schlussfolgerungen der Experten begründet sind (BGE 134 V 231, 232
+E. 5.1 und BGE 125 V 351, 352 E. 3a). Im Falle des Vorliegens von
+psychischen Erkrankungen hat die Prüfung der Arbeits- resp. Erwerbsfähigkeit
+anhand von sogenannten Standardindikatoren, als objektivem Massstab zu erfolgen
+(BGE 143 V 418, 429 E. 7.2 und BGE 141 V 281, 296 E. 3.7.3 und 297 f.
+E. 4.1.3).
+
+Im Sinne einer Richtlinie ist den im Rahmen des
+Verwaltungsverfahrens eingeholten Gutachten von externen Spezialärzten oder
+Spezialärztinnen, welche aufgrund eingehender Beobachtungen und Untersuchungen
+sowie nach Einsicht in die Akten Bericht erstatten und bei der Erörterung der
+Befunde zu schlüssigen Ergebnissen gelangen, volle Beweiskraft zuzuerkennen,
+solange nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise
+sprechen (BGE 135 V 465, 470 E. 4.4. und BGE 125 V 351, 353 E. 3b/bb).
+Solche Indizien können sich aus dem Gutachten selber ergeben (z.B. innere
+Widersprüche, mangelnde Nachvollziehbarkeit) oder auch aus Unvereinbarkeiten
+mit anderen ärztlichen Stellungnahmen (Urteil des Bundesgerichts 9C_49/2014 vom
+29. Oktober 2014 E. 4.1.).
+
+4.
+
+4.1. Medizinische Grundlage für die angefochtene Verfügung der
+Beschwerdegegnerin bildete namentlich das bidizsziplinäre
+(internistisch-psychiatrische) Gutachten von Dr. med. F____ und Dr.
+med. G____ vom 16. und 21. Mai 2024 (IV-Akte 181). Diese nannten
+keine Diagnosen mit Auswirkung auf die Arbeitsfähigkeit. Als Diagnosen ohne
+Auswirkung auf die Arbeitsfähigkeit nannten sie aus psychiatrischer Sicht
+psychische und Verhaltensstörungen durch multiplen Substanzgebrauch (Alkohol,
+Kokain, Stimulanzien), ein Abhängigkeitssyndrom, gegenwärtig abstinent (ICD-10
+F19.2), sowie eine rezidivierende depressive Störung, gegenwärtig remittiert
+(ICD-10 F33.4). Aus internistischer Sicht nannten sie eine HIV-Infektion, einen
+Status nach Hepatitis C Virusinfektion, eine Coxarthrose beidseits, eine
+Hypertonie, eine Sigmadivertikulose, eine Inguinalhernie links und einen Status
+nach Orbitabodenfraktur im August 2021 (vgl. IV-Akte 181, S. 226 f.,
+vgl. auch S. 69 f. und S. 218). Sie kamen zum Schluss, dass sich
+weder aus psychiatrischer noch aus internistischer Sicht eine anhaltende
+Einschränkung der Arbeitsfähigkeit begründen lasse. Zum zeitlichen Verlauf
+gaben sie an, seit der Vorbegutachtung habe sich der Zustand nicht geändert. Es
+sei zwar auch im Verlauf zu weiteren stationären Entzugsbehandlungen gekommen,
+der Beschwerdeführer habe sich aber beruflich eingegliedert, arbeite aktuell zu
+50 % und gehe selber davon aus, dass er bis zu 80 % arbeiten könne.
+Abgesehen von den Klinikaufenthalten könne keine Einschränkung der
+Arbeitsfähigkeit begründet werden. Der Beschwerdeführer sei in der bisherigen,
+wie auch in einer angepassten Tätigkeit zu 100 % arbeitsfähig
+(IV-Akte 181, S. 228 f.).
+
+4.2. Beide Teilgutachten sowie die Gesamtbeurteilung erfüllen die unter
+E. 3.3. aufgeführten Voraussetzungen für die Beweistauglichkeit eines
+Gutachtens. Die Beweistauglichkeit des internistischen Teilgutachtens ist
+demnach zu Recht unumstritten  zumal der Beschwerdeführer selbst nicht
+bestreitet, dass er aus somatischer Sicht zu 100 % arbeitsfähig sei (vgl.
+Replik, Ziff. 15). Der Beschwerdeführer bringt jedoch vor, hinsichtlich
+des psychiatrischen Teilgutachtens vom 21. Mai 2024 lägen konkrete
+Indizien vor, welche gegen die Zuverlässigkeit des Gutachtens sprächen (BGE 125
+V 351, 353 E. 3b/bb).
+
+4.3. 4.3.1   Der Beschwerdeführer macht in genereller Hinsicht geltend,
+das bidisziplinäre Gutachten vom 16. und 21. Mai 2024 (IV-Akte 181)
+weise mit 250 Seiten eine Überlänge aus, was bereits die Qualität des
+Gutachtens in Frage stelle. Ferner sei unklar, weshalb die Ausgangslage und der
+Aktenauszug nicht von beiden Gutachtern gemeinsam erstellt worden sei, was sich
+aus kleinen Unterschieden ergebe. Dies habe zumindest einen merkwürdigen
+Beigeschmack. Das internistische Gutachten umfasse ferner 72 Seiten, obwohl es
+überhaupt keine Anhaltspunkte für eine IV-relevante somatische Erkrankung
+gegeben habe (Replik, Ziff. 21.a und b, sowie Triplik, Ziff. 8.). Zu
+klären sei zudem, ob eine Verwandtschaft der beiden Gutachter, deren Nachnamen
+identisch sind, bestehe. Falls dies der Fall wäre, wäre das Gutachten aus
+formellen Gründen aus dem Recht zu weisen, da davon auszugehen sei, dass
+allfällige Konflikte betreffend die Arbeitsfähigkeit des Beschwerdeführers
+nicht offen ausgetragen würden (Replik, Ziff. 14, und Triplik,
+Ziff. 4.).
+
+4.3.2   Was zunächst die Frage der Verwandtschaft zwischen den Gutachtern
+anbelangt, so ist unklar, ob eine solche besteht. Es ergeben sich jedoch aus
+den Akten keinerlei Anhaltspunkte dafür, dass für den Fall, dass dem so wäre,
+eine Verwandtschaft sie an einer professionellen gutachterlichen Einschätzung
+hindern könnte. Ausserdem handelt es sich um ein «Sachverständigen-Zweierteam»,
+welches eine Vereinbarung mit dem BSV abgeschlossen hat (vgl. Art. 72 bis Abs. 1 bis der Verordnung vom 17. Januar 1961 über die
+Invalidenversicherung [IVV; SR 831.201]; hier in der am 1. Januar
+2022 in Kraft getretenen Fassung; die Liste der Zweierteams findet sich unter https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/iv/grundlagen-gesetze/gutachten-iv/medizinische-abklaerungsstellen.html;
+zuletzt eingesehen am 10. Oktober 2025). Sie müssen daher die
+Voraussetzungen in der «Muster-Vereinbarung bidisziplinäre Gutachten für
+Sachverständigen-Zweierteams» erfüllen (Download dieser Liste a.a.O.). Deren
+Art. 3 Abs. 1 und 2 verlangen die Unabhängigkeit der Sachverständigen und eine
+Gutachtenserstellung nach bestem ärztlichen Wissen und Gewissen. Es ist davon
+auszugehen, dass dies auch in Bezug auf eine allfällige Verwandtschaft mit
+Mit-Gutachtern gilt. Würde dies von Vornherein gegen eine Zusammenarbeit
+sprechen, ist fraglich, ob das BSV mit diesem Zweierteam überhaupt einen
+Vertrag abgeschlossen hätte. Auch die Länge des Gutachtens ist nicht
+massgebend, sondern allein dessen inhaltliche Vollständigkeit und Schlüssigkeit
+(vgl. Urteil des Bundesgerichts 8C_774/2019 vom 3. März 2020
+E. 6.1.). Angesichts der sieben festgehaltenen Diagnosen (wenngleich ohne
+Auswirkung auf die Arbeitsfähigkeit) im internistischen Teilgutachten (vgl.
+IV-Akte 181, S. 68 f. sowie E. 4.1.) ist ferner nicht
+ersichtlich, weshalb der Beschwerdegegnerin ein Vorwurf gemacht werden sollte,
+dass sie dieses veranlasst hat.
+
+4.4. Zur Kritik, es fehle eine Fremdanamnese (Replik, Ziff. 21.d),
+ist festzuhalten, dass es gemäss der bundesgerichtlichen Rechtsprechung im
+Ermessen der begutachtenden Ärzte liegt, zu entscheiden, ob das Einholen
+fremdanamnestischer Auskünfte erforderlich ist, um den Gesundheitszustand einer
+versicherten Person beurteilen zu können. Sie verfügen dabei über einen grossen
+Spielraum (Urteil des Bundesgerichts 8C_318/2024 vom 23. Januar 2025 E. 4.1.2
+mit Hinweisen). Zudem gibt es im vorliegenden Fall keine Hinweise darauf, dass
+gerade hier die Einholung von Fremdanamnesen zwingend notwendig gewesen wäre 
+insbesondere angesichts der eher umfangreichen Vorakten.
+
+4.5. 4.5.1   Im Weiteren bringt der Beschwerdeführer bezüglich der
+Ausführungen und Schlussfolgerungen des Gutachters Dr. med. G____ vor, die
+Beurteilung der Arbeitsfähigkeit widerspreche der Beurteilung sämtlicher
+behandelnden Ärzte. Diese hätten den Beschwerdeführer alle als zumindest
+teilarbeitsunfähig erlebt (vgl. Beschwerdebegründung, Ziff. 14). Er
+verweist auf ein Gutachten der Gutachterstelle J____ vom 4. September 2018
+(IV-Akte 80, S. 10 ff.), welches kurz vor der IV-Anmeldung im
+April 2019 im Auftrag der Taggeldversicherung erstellt worden sei. Dieses
+Gutachten habe dem Beschwerdeführer eine 50 %ige Arbeitsfähigkeit auf dem
+allgemeinen Arbeitsmarkt und eine 70%ige Arbeitsunfähigkeit als Geschäftsführer
+attestiert (vgl. Replik, Ziff. 9.). Die K____ hätten in einem Bericht vom
+3. März 2022 (vgl. IV-Akte 124, S. 2 ff.) festgehalten, dass auf
+dem ersten Arbeitsmarkt keine Arbeitsfähigkeit mehr gegeben sei (Replik,
+Ziff. 11). Das Gutachten stehe generell im Widerspruch zur Meinung aller
+behandelnden Ärzte und Institutionen, was die Diagnose der
+Persönlichkeitsstörung und die ADHS betreffe (das Gutachten von Dr. med. C____
+von 2021 ausgenommen; Replik, Ziff. 21.e). Es befasse sich ferner nicht
+mit den innerpsychischen Aspekten des Beschwerdeführers. Es fehle auch jegliche
+Würdigung einer Systemanamnese, also eine Erfassung der frühen
+Beziehungsgestaltungen des Beschwerdeführers (Replik, Ziff. 21.c). Auch
+ein Zeitlängsschnitt fehle (Triplik, Ziff. 10.). Der Beschwerdeführer
+reicht mit der Replik einen Kommentar von Dr. med. I____ vom 21. Mai 2024
+zum psychiatrischen Teilgutachten vom 16. Mai 2024 ein (RB 6) und
+erklärt, aus diesem gehe klar hervor, dass der Beschwerdeführer an einer
+Persönlichkeitsstörung leide und daher auf dem ersten Arbeitsmarkt nicht
+arbeitsunfähig sei (Replik, Ziff. 21.e).
+
+4.5.2   Es ist grundsätzlich zutreffend, dass der Gutachter Dr.
+med. G____ bei der Diagnosestellung und auch der Beurteilung der
+Arbeitsfähigkeit (teilweise) von der Beurteilung der behandelnden Ärzte abwich.
+Das Vorliegen einer Suchtproblematik kann als unumstritten gelten. Allerdings führten
+die K____ in ihren Berichten vom 8. März 2019 (IV-Akte 81, S. 19
+ff.), vom 6. Februar 2020 (IV-Akte 96, S. 7), vom 15. Mai
+2020 (IV-Akte 102, S. 7 f.), vom 1. Juli 2021 (IV-Akte 112,
+S. 2 ff.), vom 18. Dezember 2021 (IV-Akte 129,
+S. 2 ff.), vom 17. Januar 2022 (IV-Akte 129,
+S. 13 ff.), vom 3. März 2022 (IV-Akte 124, S. 2 ff.), vom
+14. April 2022 (IV-Akte 145, S. 20 ff.), vom 17. Juni 2022
+(IV-Akte 139, S. 8 ff.) sowie vom 11. März 2024 (IV-Akte 171,
+S. 3 ff.) unter anderem stets «kombinierte und andere
+Persönlichkeitsstörungen» (ICD-10 F61) in der Diagnoseliste auf. Diese Diagnose
+wiederholte sie auch im vom Beschwerdeführer beim Gericht eingereichten Bericht
+vom 12. November 2024 (RB 2). Dieselbe Diagnose wiederholte auch der behandelnde
+Psychiater Dr. med. I____ in seinen seit 2019 vorliegenden Berichten (vgl.
+Berichte vom 18. Juni 2019, IV-Akte 81, S. 2 ff., vom 1.
+April 2020, IV-Akte 96, vom 12. Oktober 2020, IV-Akte 102, vom 3.
+August 2022, IV-Akte 141, und vom 17. August 2023, IV-Akte 151).
+In all diesen Berichten nannte er im Weiteren namentlich eine psychische
+Störung durch Stimulanzien und eine depressive Störung als Diagnosen mit
+Auswirkung auf die Arbeitsfähigkeit. Bei der depressiven Störung gab er
+zunächst eine mittelgradige Episode an, im Bericht vom 3. August 2022
+(IV-Akte 141) eine leichte Episode und im Bericht vom 17. August 2023
+(IV-Akte 151) bezeichnete er sie als gegenwärtig remittiert. Ferner
+diagnostizierte er ein ADHS, zunächst ohne, später (ab dem Bericht vom 3.
+August 2022, IV-Akte 141) mit Auswirkung auf die Arbeitsfähigkeit. Dabei
+attestierte er dem Beschwerdeführer eine ab dem 15. August 2017 bestehende
+100%ige Arbeitsunfähigkeit, welche sich ab dem 23. Oktober 2017 bis zu
+einer 20%igen Arbeitsunfähigkeit verbessert habe. Im Juni 2019 attestierte er
+jedoch wieder eine 50%ige Arbeitsunfähigkeit (vgl. Bericht vom 18. Juni
+2019, IV-Akte 81, S. 3 f.). Ab Oktober 2019 erachtete er ihn für
+bis auf Weiteres wieder als zu 100 % arbeitsunfähig (vgl. Bericht vom 12.
+Oktober 2020, IV-Akte 102, S. 3). Diese Arbeitsunfähigkeit bestätigte
+er in seinem Bericht vom 3. August 2022 für die Zeit bis zum 18. August
+2021 (IV-Akte 141, S. 3). Dazu erklärte er, er halte die Prognose
+hinsichtlich der Arbeitsfähigkeit als schlecht. Beim Versicherten bestehe eine
+schwere Suchterkrankung. In Kombination mit seiner Persönlichkeitsstörung
+scheine er nicht in der Lage zu sein, eine klare Abstinenzmotivation zu entwickeln
+und diese aufrechtzuerhalten. Es bedürfte dafür wohl einer betreuten Wohnform
+(IV-Akte 141, S. 5). Der Versicherte ziehe sich regelmässig zurück
+und konsumiere Substanzen. Schon seit längerem habe er sich nicht mehr in der
+Lage gezeigt, ein regelmässiges Engagement zu erbringen. Gelänge ihm dies,
+bestünde  wie frühere Erfahrungen gezeigt hätten  die Gefahr, dass er diese
+Tätigkeit exzessive ausübt, was wiederum einen Substanzkonsum provozieren würde
+(IV-Akte 141, S. 5). In seinem Bericht vom 17. August 2023 hielt
+Dr. med. I____ fest, die bisherige sowie eine leidensadaptierte Tätigkeit
+seien dem Beschwerdeführer für vier Stunden am Tag zumutbar (IV-Akte 151,
+S. 6). Bei konsequenter Einhaltung der Begrenzung erachtete er eine
+allmähliche Steigerung der Arbeitsfähigkeit als denkbar (IV-Akte 151,
+S. 6). Auch im vom Beschwerdeführer eingereichten Kommentar von Dr.
+med. I____ vom 22. Januar 2025 zum psychiatrischen Gutachten vom
+21. Mai 2024 von Dr. med. G____ (RB 6) hält der behandelnde
+Psychiater an seinen Diagnosen «kombinierte und andere Persönlichkeitsstörungen
+(ICD-10 F61.0)» und «Störungen durch multiplen Substanzgebrauch und Konsum
+anderer psychotroper Substanzen, gegenwärtig abstinent aber in beschützender
+Umgebung (ICD-10 F19.21)» fest (RB 6, S. 5). Dabei konstatiert er,
+der Beschwerdeführer sei nur in einem geschützten Arbeitsrahmen arbeitsfähig.
+Es habe sich nämlich gezeigt, dass der Beschwerdeführer nur in einem
+verständnisvollen, tragenden Umfeld Leistung erbringen könne. Sobald für den
+ersten Arbeitsmarkt übliche herausforderndere Situationen oder Spannungen aufträten,
+fehlten dem Beschwerdeführer die Bewältigungsstrategien. Seine
+Leistungsfähigkeit breche völlig ein (RB 6, S. 7).
+
+4.5.3   Der Gutachter Dr. med. G____ kannte diese Berichte
+(vgl. z.B. die Übersicht über die verwendeten Quellen im psychiatrischen
+Gutachten, IV-Akte 181, S. 242). Er würdigte diese nach einer
+ausführlichen Anamnese (vgl. IV-Akte 181, S. 161) ebenfalls in
+ausführlicher Weise im Rahmen der Zusammenfassung der bisherigen persönlichen,
+beruflichen und gesundheitlichen Entwicklung des Beschwerdeführers
+(IV-Akte 181, S. 190 ff.). Was insbesondere die Diagnosestellung
+einer Persönlichkeitsstörung angeht, so wies der Dr. med. G____ darauf
+hin, dass während der Behandlung des Beschwerdeführers in den K____ vom
+8. Juni 2012 bis zum 31. August 2012 zunächst von einer
+Persönlichkeitsakzentuierung ausgegangen worden sei, und dann «plötzlich von
+einer kombinierten Persönlichkeitsstörung». Eine Persönlichkeitsakzentuierung
+sei grundsätzlich etwas anderes als eine Persönlichkeitsstörung. Der Wechsel
+sei nicht begründet worden (IV-Akte 181, S. 199 f. und S. 212).
+Dieser Diagnosewechsel zeigt sich in den Berichten der K____ vom 27. Juni
+2012 (IV-Akte 34, S. 7 f.) bzw. vom 20. August 2012
+(IV-Akte 34, S. 9 ff.; in beiden Fällen wurde eine
+Persönlichkeitsakzentuierung erwähnt) und dem Austrittsbericht der K____ vom
+23. Oktober 2012 (IV-Akte 38, S. 20 ff.; Aufführung von
+«kombinierten und anderen Persönlichkeitsstörungen»). Aus welchem Grund die
+Änderung der Diagnose vorgenommen wurden, ob es ein Versehen (wie vom Gutachter
+vermutet, vgl. IV-Akte 181, S. 200) oder Absicht war, ergibt sich nicht
+aus den Berichten. Nachvollziehbar ist hingegen der Hinweis des Gutachters,
+dass die Behandelnden in den K____ zuvor eine Persönlichkeitsstörung
+ausgeschlossen hätten (IV-Akte 181, S. 212). Dies ergibt sich nämlich
+aus dem Bericht vom 26. Oktober 2011 über eine multiaxale Diagnostik
+(IV-Akte 38, S. 12). Ferner weist der Gutachter darauf hin, dass in
+den Vorakten nie eine Persönlichkeitsstörung diagnostiziert worden sei und in
+den Akten häufig gar nicht darauf eingegangen werde, was für auffällige Züge
+bestünden. Wenn dies gemacht werde, werde häufig von selbstunsicheren/narzisstischen/unreifen
+Zügen gesprochen. Für die narzisstische Persönlichkeitsstörung müssten gemäss
+ICD-10 mindestens fünf der folgenden neun Merkmale erfüllt sein: Grössengefühl;
+Phantasien über unbegrenzten Erfolg, Macht, Schönheit oder ideale Liebe; Gefühl
+der Einmaligkeit; Bedürfnis nach übermässiger Bewunderung; unbegründete
+Anspruchshaltung; Ausnützung von zwischenmenschlichen Beziehungen; Mangel an
+Empathie; Neidgefühle oder Überzeugung beneidet zu werden; arrogantes,
+hochmütiges Verhalten (IV-Akte 181, S. 212; zu den erwähnten
+Merkmalen der narzisstischen Persönlichkeitsstörung vgl. auch H. Dilling/W. Mombour/M.H. Schmidt [Hrsg.], Internationale Klassifikation psychischer Störungen, ICD-10 Kapitel V
+(F) Klinisch-diagnostische Leitlinien, 10. Auflage, Bern 2015, S. 283). Selbstunsichere
+Züge seien jedoch ziemlich genau das Gegenteil davon. Ferner würden auch
+histrionische, dependente und zwanghafte Elemente genannt, sodass unklar
+bleibe, was genau das Problem sein könnte (IV-Akte 181, S. 212). Der
+Gutachter konstatierte, er gehe nicht davon aus, dass die Kriterien einer
+Persönlichkeitsstörung erfüllt seien. Es fänden sich keine Hinweise für ein
+seit der Kindheit oder dem jungen Erwachsenenalter anhaltend bestehendes,
+gravierend auffälliges Verhaltensmuster, das unabhängig von den weiteren
+psychiatrischen Diagnosen bestehe (IV-Akte 181, S. 213).
+
+4.5.4   Was das vom Beschwerdeführer angerufene Gutachten der
+Gutachterstelle J____ vom 4. September 2018 zuhanden der
+Taggeldversicherung (IV-Akte 80, S. 10 ff.) anbelangt (vgl.
+Replik, Ziff. 9 sowie E. 4.5.1), so ist es zutreffend, dass die
+damaligen Gutachter dem Beschwerdeführer zum Begutachtungszeitpunkt eine
+teilweise Arbeitsunfähigkeit attestierten. Für die zuletzt ausgeübte Tätigkeit
+als Bäcker, Geschäftsführer und Abteilungsleiter erachteten sie den
+Beschwerdeführer als zu lediglich 20 % arbeitsfähig, gingen jedoch davon
+aus, dass diese Arbeitsfähigkeit bei Einhalten der Abstinenz und Fortführung
+der ambulanten Therapie sukzessive verbessert werden könnte und der
+Beschwerdeführer bis Ende des Jahres (d.h. 2018) auf eine 80%ige
+Arbeitsfähigkeit kommen könnte. Für eine Verweistätigkeit auf dem allgemeinen
+Arbeitsmarkt unter Berücksichtigung des Belastungsprofils gingen sie von einer
+50%igen Arbeitsfähigkeit aus, die ab Oktober 60 % betragen könnte und ab
+Dezember 80 %. Ab Januar 2019 hielten sie eine 100%ige Arbeitsfähigkeit für
+denkbar (IV-Akte 80, S. 14 f.). Die Neuanmeldung des
+Beschwerdeführers bei der Beschwerdegegnerin erfolgte Mitte April 2019 (vgl.
+Tatsachen, I.d) und damit bereits mehr als sieben Monate nach der Untersuchung
+durch die Gutachter der Gutachterstelle J____ am 27. August 2019 (vgl.
+IV-Akte 80, S. 10). Da nach der Beurteilung der damaligen Gutachter
+eine deutliche Verbesserung des Zustandes innert weniger Wochen und Monate
+möglich sein sollte, vermag dieses nicht ohne weiteres zur Annahme zu führen,
+die Beurteilung von Dr. med. G____ sei zweifelhaft. Ferner hatte Dr. med. G____
+auch Kenntnis von diesem Gutachten (vgl. z.B. die Übersicht über die
+verwendeten Quellen im psychiatrischen Gutachten, IV-Akte 181, S. 242,
+vgl. auch die weiteren Stellen, an welchen er das Gutachten zusammenfasste bzw.
+würdigte, IV-Akte 181, S. 111 und S. 204). Er kam somit in
+Kenntnis desselben zu seinen Schlussfolgerungen.
+
+4.5.5   Die Ausführungen des Gutachters sind anhand der Akten sowie
+der (zitierten) Literatur nachvollziehbar und einleuchtend. Er hat sich
+offensichtlich nicht nur mit den Angaben des Beschwerdeführers, sondern auch
+mit den medizinischen Vorakten gründlich auseinandergesetzt. Nachdem er vom
+Gutachten von Dr. med. G____ Kenntnis erhalten hat, will Dr. med. I____
+in seinem Kommentar vom 22. Januar 2025 zum psychiatrischen Gutachten vom
+21. Mai 2024 von Dr. med. G____ (RB 6) eine Diskussion der
+diagnostischen Leitlinien nach ICD-10 für die Persönlichkeitsstörung (vgl. dazu H. Dilling/W. Mombour/M.H. Schmidt [Hrsg.], S. 276 f.) nachholen (RB 6, S. 2). Anders als der
+Gutachter schliesst er darauf, dass beim Beschwerdeführer eine
+Persönlichkeitsstörung vorliege, welche sich auf die Arbeitsfähigkeit auswirke
+(vgl. RB 6, S. 5 ff. sowie E. 4.5.2). Dr. med. I____
+kennt den Beschwerdeführer seit vielen Jahren. Es liegt in der Natur der Sache,
+dass sich eine psychiatrische Begutachtung nicht auf einen gleich langen
+Beobachtungszeitraum stützen kann, wie ein Bericht behandelnder Fachleute (vgl.
+U rteile des
+Bundesgerichts 9C_228/2013 vom 26. Juni 2013 E. 4.1.5. und 9C_671/2012 vom
+15. November 2012 E. 4.5.). Die Nähe der behandelnden
+Fachpersonen zu Problemen und Alltagssorgen des Patienten kann allerdings
+mitunter dazu führen, dass sich beispielsweise die Einschätzung der
+Arbeitsfähigkeit durch die Behandelnden der subjektiven Einschätzung des
+Patienten annähert. Während ein Entscheid über das medizinisch mögliche von
+aussen getroffen wird, kann die behandelnde Fachperson mit ihrem Patienten
+solidarisch bleiben (vgl. Urteil des Sozialversicherungsgerichts Basel-Stadt
+IV.2023.7 vom 8. Juni 2023 E. 4.5.). Dementsprechend kommt gemäss
+ständiger Praxis des Bundesgerichts, den im Rahmen eines Gutachtens erstellten
+Berichten unabhängiger Fachärztinnen oder Fachärzte ein höherer Beweiswert zu,
+als solchen behandelnder Fachärzte oder Fachärztinnen. Dies hängt in erster
+Linie mit dem unterschiedlichen Auftrag zusammen: die behandelnden Ärztinnen
+und Ärzte haben sich ‑ im Gegensatz zu den Gutachtern ‑ in erster
+Linie auf die Behandlung zu konzentrieren. Ihre Berichte verfolgen somit nicht
+den Zweck einer den abschliessenden Entscheid über die Versicherungsansprüche
+erlaubenden objektiven Beurteilung des Gesundheitszustandes (vgl. BGE 135 V
+465, 470 f. E. 4.5 mit weiteren Hinweisen; vgl. auch Urteil des
+Bundesgerichts 8C_96/2024 vom 25. November 2024 E. 5.4.). Die Ausführungen
+von Dr. med. I____ stellen vorliegend eine unterschiedliche Beurteilung
+desselben Sachverhalts dar. Die psychiatrische Exploration kann von der Natur
+der Sache her nicht ermessensfrei erfolgen. Sie eröffnet dem begutachtenden Psychiater
+daher praktisch immer einen gewissen Spielraum, innerhalb dessen verschiedene
+medizinisch-psychiatrische Interpretationen möglich, zulässig und zu
+respektieren sind, sofern der Experte oder die Expertin lege artis vorgegangen
+ist (vgl. z.B. Urteile des Bundesgerichts 8C_202/2021 vom 17. Dezember
+2021 E. 4.2.3. und 8C_153/2021 vom 10. August 2021 E. 5.3.2.). Aufgrund
+des höheren Beweiswerts des Gutachtens von Dr. med. G____ vom 21. Mai
+2024 (IV-Akte 181, S. 76 ff.) geht dieses grundsätzlich vor. Im
+Übrigen kommt es für die Belange der Invalidenversicherung nicht auf die
+Diagnose an, sondern einzig darauf, welche Auswirkungen eine Erkrankung auf die
+Arbeitsfähigkeit hat (vgl. BGE 136 V 279, 281 E. 3.2.1 sowie Urteil des
+Bundesgericht 9C_571/2023 vom 11. Januar 2024 E. 6.4.).
+
+4.5.6   Das Gutachten von Dr. med. G____ ist angesichts
+der übrigen ausführlichen und nachvollziehbaren Äusserungen auch in Bezug auf
+die Arbeitsfähigkeit nachvollziehbar. Der Beschwerdeführer hat verschiedene
+Ausbildungen abgeschlossen (vgl. Tatsachen, I. a). Nach der Beendigung
+seiner Tätigkeit für die B____ Ende Februar 2018 (vgl. Tatsachen, I. a)
+war der Beschwerdeführer nach eigenen Angaben bis August 2018 arbeitslos, hat
+dann bis Ende 2018 zunächst auf einer Alp und dann auf einem Bauernhof
+gearbeitet (vgl. z.B. internistisches Teilgutachten, IV-Akte 181,
+S. 57) und im Oktober 2022 seine Tätigkeit im D____ aufgenommen (vgl.
+Tatsachen, I.e). Aus dem Umstand, dass er zwischenzeitlich arbeitslos war, kann
+nicht geschlossen werden, dass er die ganze Zeit über nicht hätte arbeiten
+können. Die stationären und teilstationären Behandlungen in den K____ seit 2019
+bis zum Erlass der angefochtenen Verfügung vom 24. September 2024
+(IV-Akte 206) hatten jeweils eine Dauer von wenigen Tagen bis zu zwei
+Monaten (vgl. die Auflistung im Bericht der K____ vom 3. März 2022,
+IV-Akte 124, S. 3 sowie die Berichte der K____ vom 14. April
+2022, IV-Akte 145, S. 20 ff., vom 17. Juni 2022, IV-Akte 139,
+S. 8 ff., vom 11. März 2024, IV-Akte 171,
+S. 3 ff. und vom 30. August 2024, IV-Akte 200,
+S. 2 ff.). Dazwischen lagen jeweils rund zwei bis rund 18 Monate, in
+welchen der Beschwerdeführer nicht stationär behandelt wurde. Eine Ausnahme
+bildet das halbe Jahr von Januar 2021 bis Juni 2021, in welchem die
+Zeitabschnitte, in welchen der Beschwerdeführer sich nicht in einer stationären
+Behandlung stand, etwas kürzer ausfielen (vgl. Bericht der K____ vom
+3. März 2022, IV-Akte 124, S. 3). Angesichts dessen ist zwar
+nicht von der Hand zu weisen, dass der Beschwerdeführer immer wieder mit
+gesundheitlichen Problemen, namentlich seiner Suchterkrankung, zu kämpfen hat.
+Allerdings stehen die Hospitalisationen und die damit verbundene 100%ige Arbeitsunfähigkeit
+der Beurteilung des Gutachters Dr. med. G____ nicht entgegen. Dasselbe
+gilt für die Auflistung der dem Beschwerdeführer attestierten
+Arbeitsunfähigkeit in der Aktenbeurteilung KTG von Dr. med. L____ vom
+18. Januar 2025. Auch die dort aufgelisteten Zeiträume umfassen wenige
+Tage bis sechs Wochen (RB 5, S. 2). Seine Einschätzung, der
+Beschwerdeführer sei gegenwärtig und bis mindestens 31. Dezember 2025 zu
+100 % arbeitsunfähig (RB 5, S. 4), bezieht sich auf einen
+Zeitraum nach dem Erlass der angefochtenen Verfügung. Wie unter E. 4.5.3
+ausgeführt, hat sich der psychiatrische Gutachter ausführlich mit den vorhandenen
+Vorakten befasst und sich so ein Bild über den gesamten Zeitraum, für welchen
+vorliegend ein Rentenanspruch zu prüfen ist, machen können. Seine Beurteilung
+der Arbeitsfähigkeit ist auch im Lichte der Vorakten und der entgegenstehenden
+Beurteilung von Dr. med. I____ nachvollziehbar. Dies, zumal aus dem
+psychiatrischen Teilgutachten hervorgeht, der Beschwerdeführer habe selbst
+angegeben, er gehe davon aus, dass er bis zu 80 % arbeiten könne (vgl.
+E. 4.1.). Diese Selbsteinschätzung liegt nur wenig unter der Einschätzung
+des Gutachters.
+
+4.5.7   Was schliesslich die vom Beschwerdeführer eingereichten
+Berichte der K____ vom 12. November 2024 (RB 2) sowie der M____ vom
+10. Januar 2025 (RB 3), vom 24. Dezember 2024 (RB 4), vom
+10. Februar 2025 (Triplikbeilage [TB] 2) und vom 14. März 2025
+angeht, so wurden diese Berichte allesamt erst nach dem Verfügungserlass
+erstellt. Dasselbe gilt für die Bestätigung der N____ vom 13. März 2025
+(TB 1) betreffend den Eintritt des Beschwerdeführers am 11. März 2025 in
+die Einrichtung. Damit liegen sie ausserhalb des Zeitraums, für welchen das
+Gericht den Sachverhalt zu beurteilen hat (vgl. z.B. BGE 134 V 392, 397 E. 6.
+mit Hinweis). Nachträglich entstandene Berichte sind dann in die Beurteilung
+miteinzubeziehen, soweit sie Rückschlüsse auf die im Zeitpunkt des Abschlusses
+des Verwaltungsverfahrens gegebene Situation erlauben (vgl. Urteile des
+Bundesgerichts 9C_235/2016 vom 26. Januar 2017 E. 4.2, und 8C_447/2009 vom
+30. Oktober 2009 E. 3.5 mit Hinweisen). Dies ist bei den erwähnten
+Berichten nicht der Fall. Sie beziehen sich im Wesentlichen auf den aktuellen
+Zustand des Beschwerdeführers zum Zeitpunkt, in welchem die jeweiligen Berichte
+verfasst wurden. Der Bericht der K____ wurde von den erwähnten Berichten als
+erster verfasst. Er datiert vom 12. November 2024 und bezieht sich auf
+eine Hospitalisation des Beschwerdeführers vom 16. Oktober 2024 bis zum
+13. November 2024 (RB 2, S. 1). Aus dem Bericht der M____ vom
+10. Januar 2025 geht hervor, dass der Beschwerdeführer direkt im Anschluss
+an die Hospitalisation in die Klinik O____ (zur M____ gehörig), auf Zuweisung
+der K____, eingetreten ist. Bereits beim Austritt am 23. Dezember 2024 war
+der Wiedereintritt am 13. Januar 2025 geplant worden. Zudem wurde eine
+Langzeittherapie ins Auge gefasst (RB 3, S. 1 und 4). Aus dem Bericht
+vom 10. Februar 2025 geht sodann hervor, dass ein Übertritt in die N____
+geplant werde, um den Beschwerdeführer weiter therapeutisch zu unterstützen
+(TB 2). Der entsprechende Eintritt bestätigt die N____ mit dem erwähnten
+Schreiben vom 13. März 2025 (TB 1). Diese Berichte lassen somit keine
+klaren Rückschlüsse auf die gesundheitliche Situation des Beschwerdeführers vor
+dem Verfügungserlass im September 2024 zu. Sie vermögen keine Zweifel am
+psychiatrischen Teilgutachten von Dr. med. G____ zu wecken. Sie bilden
+allenfalls eine Grundlage für eine Neuanmeldung bei der IV.
+
+4.6. Zusammenfassend vermögen die Rügen des Beschwerdeführers sowie insbesondere
+der Kommentar von Dr. med. I____ vom 22. Januar 2025 (RB 6) das
+bidisziplinäre Gutachten von Dr. med. F____ und Dr. med. G____ nicht
+in Zweifel zu ziehen. Es ist damit beweistauglich. Die Beschwerdegegnerin hat
+zu Recht darauf abgestellt und durfte von einer 100%igen Arbeitsfähigkeit des
+Beschwerdeführers ausgehen. Damit hat der Beschwerdeführer keinen Anspruch auf
+eine Invalidenrente. Im Übrigen wäre dies mit höchster Wahrscheinlichkeit auch
+der Fall, wenn  abweichend vom Gutachten  auf die Angabe des
+Beschwerdeführers, er könne wohl 80 % arbeiten (vgl. E. 4.1.), abgestellt
+würde. Die Wahrscheinlichkeit, dass mit einer Arbeitsunfähigkeit von 20 %
+eine rentenbegründende Invalidität im Sinne von Art. 28 Abs. 2 IVG
+(in Kraft bis zum 31. Dezember 2021) bzw. Art. 28b IVG (in Kraft seit
+dem 1. Januar 2022) erreicht wird, ist sehr gering. Auf eine genaue
+Berechnung kann jedoch verzichtet werden, da auf das Gutachten abgestellt wird.
+Ein Gerichtsgutachten, wie vom Beschwerdeführer beantragt (vgl. Tatsachen II.e),
+ist somit nicht angezeigt.
+
+5.
+
+5.1. Infolge der obigen Ausführungen ist die Beschwerde abzuweisen.
+
+5.2. Entsprechend dem Verfahrensausgang
+hat der Beschwerdeführer die ordentlichen Kosten, bestehend aus einer Gebühr
+von Fr. 800.00, zu tragen ( Art. 61 lit. f bis ATSG und Art. 69 Abs. 1 bis IVG).
+
+5.3. Die ausserordentlichen Kosten sind wettzuschlagen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen
+Kosten, bestehend aus einer Gebühr von Fr. 800.00.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+Dr. G. Thomi MLaw
+L. Marti
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+          Bundesamt für Sozialversicherungen
+
+Versandt am:
