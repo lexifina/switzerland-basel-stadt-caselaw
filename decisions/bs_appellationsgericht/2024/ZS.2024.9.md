@@ -1,0 +1,659 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.544"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZS"
+docket: "ZS.2024.9"
+docket_2: "AG.2024.544"
+decided: "2024-09-30"
+published: "2025-05-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77409&W10_KEY=3048461&nTrefferzeile=270&Template=search_result_document.html"
+cites_decisions: ["1B_102/2012", "1B_17/2019", "1B_171/2021", "1B_185/2017", "1B_387/2021", "2C_229/2008", "6B_93/2019", "7B_302/2023", "9C_481/2021", "BGE 123 IV 1", "BGE 141 IV 87", "BGE 143 IV 214", "BGE 145 IV 263", "BGE 147 I 372", "SB.2015.46", "SB.2015.71", "ZS.2024.9"]
+cites_law: ["switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-199.md", "switzerland/bund/acts/312.0/art-260.md", "switzerland/bund/acts/312.0/art-261.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Befehl für erkennungsdienstliche Erfassung / Wiedererwägung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+ZS.2024.9
+
+ENTSCHEID
+
+vom 30.
+September 2024
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und Gerichtsschreiber
+Dr. Nicola Inglese
+
+Beteiligte
+
+A____ , geb. [...]                                                             
+Beschwerdeführer
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...],
+Advokatin,
+
+[...]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine
+Verfügung der Staatsanwaltschaft
+
+vom 19. Februar 2022
+
+Entscheid des
+Appellationsgerichts BES.2022.34 vom 11. Mai und
+
+22. November 2023 (vom Bundesgericht
+aufgehoben mit Urteil
+
+7B_302/2023 vom 17. September
+2024)
+
+betreffend Befehl für
+erkennungsdienstliche Erfassung / Wiedererwägung
+
+Sachverhalt
+
+Am 19. Februar
+2022 um 01.37 Uhr requirierte ein Anwohner die Kantonspolizei Basel-Stadt wegen
+nächtlicher Ruhestörung, weil massiver Bass- sowie Musiklärm vom Rheinufer zu
+hören waren. Die Polizei begab sich anschliessend zur Uferstrasse, wo auf Höhe
+der Liegenschaft [...] massiver Musiklärm aus dem Tunnel bzw. Überlaufkanal drang.
+Im Eingangsbereich des Tunnels wurde A____ (nachfolgend Beschwerdeführer)
+angetroffen. Der Beschwerdeführer wurde gegen 02.00 Uhr vor Ort einer
+Personenkontrolle durch die Kantonspolizei unterzogen. Dabei soll er zwei
+Polizisten mit Bier übergossen und ihnen einen Bodycheck verabreicht haben.
+Schliesslich soll er versucht haben, sich der polizeilichen Personenkontrolle
+zu entziehen, indem er in die Menschenmenge geflüchtet sei. Kurz darauf wurde
+er von der Polizei gefasst, vorläufig festgenommen und gegen 02.35 Uhr auf
+der Polizeiwache Clara in Gewahrsam genommen. Die Staatsanwaltschaft
+Basel-Stadt hat in diesem Zusammenhang ein Strafverfahren gegen den
+Beschwerdeführer wegen Gewalt und Drohung gegen Behörden und Beamte, Sachbeschädigung
+sowie Hinderung einer Amtshandlung eröffnet. Mit der Verfügung «Befehl für
+erkennungsdienstlichen Erfassung (Art. 260 StPO / § 39 PolG)» vom 19.
+Februar 2022 ordnete die Staatsanwaltschaft Basel-Stadt die
+erkennungsdienstliche Erfassung (Feststellung Körpermerkmale und Herstellung
+Abdrücke von Körperteilen) des Beschwerdeführers an. Diese Verfügung inkl.
+Rechtsmittelbelehrung und beigefügtem Merkblatt «Erkennungsdienstliche
+Erfassung und nicht-invasive Probenahme (WSA) für spätere Erstellung eines
+DNA-Profils» wurde dem Beschwerdeführer am gleichen Tag eröffnet. Der
+Beschwerdeführer verweigerte, den Erhalt mittels Unterschrift zu bestätigen. Im
+Anschluss wurde er erkennungsdienstlich erfasst.
+
+Gegen die
+Verfügung der Staatsanwaltschaft vom 19. Februar 2022 erhob der
+Beschwerdeführer am 23. Februar 2022 Beschwerde beim Appellationsgericht. Er
+beantragte hierbei, die Nichtigkeit der angefochtenen Verfügung feststellen zu
+lassen. Zudem seien die «[] erkennungsdienstlich erhobenen Daten
+(fotografische Auffassung, abgenommene Fingerabdrücke, etc.) umgehend zu
+vernichten und allfällige, bereits erfolgte Einträge in entsprechenden
+daktyloskopischen Datenbanken sowie weiteren Datenbanken umgehend zu löschen. Die
+abgenommenen DNA-Proben seien umgehend zu vernichten und allfällige, bereits
+erfolgte Einträge in entsprechenden DNA-Datenbanken umgehend zu löschen». Der
+Beschwerde sei insofern die aufschiebende Wirkung zu erteilen, als die
+Kriminalpolizei der Staatsanwaltschaft anzuweisen sei, die DNA-Proben während der
+Dauer des Beschwerdeverfahrens zu siegeln, alternativ diese  namentlich die
+Erstellung eines DNA-Profils  nicht auszuwerten. Des Weiteren seien die aus
+der erkennungsdienstlichen Erfassung gewonnenen Daten des Gesuchstellers durch
+die Staatsanwaltschaft während des Beschwerdeverfahrens separat unter
+Verschluss zu halten und diese nicht zu verwenden. Die Staatsanwaltschaft
+beantragte mit Vernehmlassung vom 22. März 2022 das Nichteintreten auf die
+Beschwerde, eventualiter deren Abweisung. Alles unter o/e-Kostenfolge. Mit
+Eingabe vom 29. März 2022 ergänzte der Beschwerdeführer, nunmehr vertreten
+durch [...], Advokat seine Beschwerde vom 23. Februar 2022 und beantragte die Gewährung
+der unentgeltlichen amtlichen Verteidigung. Mit Eingabe vom 30. Januar 2023
+replizierte der Beschwerdeführer, substitutionshalber durch Advokatin [...] vertreten.
+Die verfahrensleitende Appellationsgerichtspräsidentin wies die
+Staatsanwaltschaft mit Verfügung vom 8. März 2023 zur erneuten Stellungnahme an,
+welche die Staatsanwaltschaft mit Eingabe vom 14. März 2023 einreichte.
+Mit Entscheid BES.2022.34 vom 11. Mai 2023 wies das Einzelgericht des
+Appellationsgerichts die Beschwerde sowie das Gesuch um amtliche Verteidigung des
+Beschwerdeführers ab und auferlegte ihm die Verfahrenskosten in Höhe von CHF
+800. (einschliesslich Auslagen).
+
+Gegen diesen
+Entscheid erhob der Beschwerdeführer mit Eingabe vom 26. Juni 2023 Beschwerde
+beim Bundesgericht (Verfahren 7B_302/2023). Gleichzeitig beantragte er beim Appellationsgericht,
+die vor Appellationsgericht erhobene Beschwerde sei angesichts des bereits vor
+dem 11. Mai 2023 erfolgten Wegfalls zweier Vorstrafen im Rahmen von
+Revisionsverfahren wiedererwägungsweise gutzuheissen. Für den Fall der
+Abweisung des Wiedererwägungsgesuchs sei dem Antragssteller die amtliche
+Verteidigung mit der unterzeichneten Advokatin zu gewähren. Mit Vernehmlassung
+vom 5. Juli 2023 informierte das Appellationsgericht das Bundesgericht darüber,
+dass der Beschwerdeführer mit Eingabe vom 27. Juni 2023 bei ihr ein Wiedererwägungsgesuch
+gestellt habe. Mit Stellungnahme vom 24. Juli 2023 beantragte die
+Staatsanwaltschaft Nichteintreten auf das Wiedererwägungsgesuch. Mit Verfügung
+des Bundesgerichts vom 10. August 2023 wurde das bundesgerichtliche Verfahren 7B_302/2023
+bis zum Entscheid über das Wiedererwägungsgesuch sistiert. Mit Replik vom 29.
+September 2023 hielt der Beschwerdeführer an seinem Wiedererwägungsgesuch fest.
+Mit Entscheid vom 22. November 2023 wies das Appellationsgericht die Beschwerde
+gegen die Verfügung der Staatsanwaltschaft vom 19. Februar 2022 betreffend
+Befehl für Erkennungsdienstliche Erfassung im Sinne der Erwägungen
+wiedererwägungsweise ab. Auf die Erhebung von Kosten für das
+Wiedererwägungsverfahrens wurde verzichtet. Dem Beschwerdeführer wurde für das
+Wiedererwägungsverfahren eine Parteientschädigung von CHF 2154. (einschliesslich
+Auslagen und MWST) aus der Gerichtskasse zugesprochen. Mit Schreiben vom 1.
+Dezember 2023 stellte das Appellationsgericht dem Bundesgericht seinen
+Entscheid vom 22. November 2023 über das Wiedererwägungsgesuch des
+Beschwerdeführers zu. Mit Urteil 7B_302/2023 vom 17. September 2024 hiess
+das Bundesgericht die Beschwerde gut. Den angefochtenen Entscheid hob es auf
+und wies die Sache zu neuer Entscheidung an das Appellationsgericht zurück. Auf
+die Erhebung von Gerichtskosten wurde verzichtet und der Kanton Basel-Stadt angewiesen,
+den Beschwerdeführer für das bundesgerichtliche Verfahren mit CHF 3'000. zu
+entschädigen.
+
+Der vorliegende Rückweisungsentscheid
+ist aufgrund der Akten ergangen. Die Einzelheiten der Parteistandpunkte ergeben
+sich, soweit sie für den Entscheid von Bedeutung sind, aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Hebt
+das Bundesgericht einen kantonalen Entscheid auf und weist es die Sache an die
+kantonale Behörde zurück, hat diese ihrer neuen Entscheidung die rechtliche
+Begründung des Bundesgerichtsentscheides zugrunde zu legen. Dabei hat sie sich
+auf das zu beschränken, was sich aus den für sie verbindlichen Erwägungen des
+Bundesgerichts als Gegenstand der neuen Entscheidung ergibt (BGE 123 IV 1 E. 1;
+117 IV 97 E. 4a; Meyer/Dormann ,
+in: Basler Kommentar zum Bundesgerichtsgesetz, 2. Auflage 2011, Art. 107 BGG N
+18 f.; vgl. AGE SB.2015.46 vom 30. Mai 2018 E. 1.1 und SB.2015.71 vom 6.
+Februar 2018 E. 1.1; zum Ganzen AGE BES.2022.60 vom 29. Mai 2023 E. 1.1). Dieser
+ist insofern endgültig abgegrenzt (BGE 143 IV 214 E. 5.2.1 S. 220 und BGer
+6B_93/2019 vom 15. Mai 2019, E. 2.1).
+
+1.2 Das
+Bundesgericht stellt sich in seinem Rückweisungsentscheid zunächst die Frage
+nach der rechtlichen Wirkung des Wiedererwägungsentscheids des
+Appellationsgerichts vom 11. November 2023 für das Verfahren vor Bundesgericht.
+Es erwägt, dass der Rechtsbehelf der Wiedererwägung in der eidgenössischen
+Strafprozessordnung (StPO, SR 312.0) nicht ausdrücklich vorgesehen sei. Ob und
+unter welchen Voraussetzungen eine Wiedererwägung dessen ungeachtet zulässig
+sein könne, brauche indessen nicht abschliessend geklärt zu werden. Mit der
+Beschwerde an das Bundesgericht verliere die Vorinstanz nämlich die Herrschaft
+über den Streitgegenstand und ist entsprechend nicht mehr befugt, darüber zu
+verfügen (mit Verweis auf BGer 9C_481/2021 vom 9. Januar 2023 E. 1.4,
+2C_229/2008 vom 13. Oktober 2008 E. 2). Demnach habe die Vorinstanz ihre
+funktionale Zuständigkeit überschritten, wenn sie ungeachtet des hängigen
+bundesgerichtlichen Beschwerdeverfahrens mit Entscheid vom 22. November 2023
+den angefochtenen Entscheid in Wiederwägung gezogen habe. Ihr Entscheid sei
+daher als nichtig zu betrachten und im vorliegenden Verfahren als Antrag der
+Vorinstanz auf Gutheissung der Beschwerde entgegenzunehmen (mit Verweis auf
+Urteil 9C_481/2021 vom 9. Januar 2023 E. 1.4). Die Rüge des Beschwerdeführers, die
+Vorinstanz habe den Sachverhalt offensichtlich unrichtig festgestellt, erweise sich
+mit Blick auf die vorstehenden Ausführungen als begründet. Entgegen der Ansicht
+des Beschwerdeführers sei es jedoch nicht Aufgabe des Bundesgerichts, den
+Sachverhalt zu berichtigen und als erste (und einzige) Instanz neu über die
+Zulässigkeit der streitigen erkennungsdienstlichen Erfassung zu entscheiden.
+Vielmehr sei der angefochtene Entscheid aufzuheben und die Sache an die
+Vorinstanz zurückzuweisen, damit diese gestützt auf den berichtigten Sacherhalt
+erneut über die Sache befinde. Damit erübrige es sich, die weiteren Rügen des
+Beschwerdeführers zu behandeln. Das Bundesgericht kommt damit zusammengefasst zum
+Schluss, dass das Appellationsgericht auf das Wiedererwägungsgesuch des
+Beschwerdeführers vom 26. Juni 2023 nicht hätte eintreten dürfen und zur
+materiellen Beurteilung der Sache die Rückweisung des Bundesgerichts hätte
+abwarten müssen. Damit hat das Appellationsgericht nochmals über die Zulässigkeit
+der streitigen erkennungsdienstlichen Erfassung zu befinden.
+
+2.
+
+2.1 Der
+Beschwerdeführer macht in seiner ursprünglichen Beschwerde vom 23. Februar
+2022 in formeller Hinsicht geltend, ihm sei lediglich das DNA-Merkblatt
+ausgehändigt worden. Ein Befehl zur erkennungsdienstlichen Erfassung habe er
+nicht erhalten, auch mündlich sei ihm nicht mitgeteilt worden, warum er
+erkennungsdienstlich erfasst werde. Die Verfügung sei daher nichtig (unter
+Verweis auf das Urteil des Appellationsgerichts Basel-Stadt BES.2021.34). In
+seiner Replik macht der Beschwerdeführer damit eine unzureichende Begründung
+der angefochtenen Verfügung und damit eine schwere Verletzung seines Anspruchs
+auf rechtliches Gehör geltend. Diesbezüglich ist zu erwähnen, dass die formelle
+Rüge der angeblichen Verletzung des rechtlichen Gehörs weder im
+bundesgerichtlichen Beschwerdeverfahren noch im Wiedererwägungsgesuch ein Thema
+war. Der guten Ordnung halber ist gleichwohl nochmals zu erörtern, ob und
+inwiefern die Staatsanwaltschaft die angefochtenen Verfügungen hinreichend
+begründet und die Anforderungen an das rechtliche Gehör erfüllt hat. Anschliessend
+ist nochmals auf die Prüfung der materiellen Voraussetzungen der angeordneten
+Zwangsmassnahmen einzugehen.
+
+2.2 Die
+erkennungsdienstliche Erfassung ist gemäss Art. 260 Abs. 3
+Satz 1 StPO in einem schriftlichen Befehl anzuordnen und kurz zu
+begründen. An die Begründungsdichte dürfen jedoch keine übermässigen
+Anforderungen gestellt werden, was bereits durch die gesetzliche Formulierung
+zum Ausdruck kommt, welche lediglich eine «kurze» Begründung fordert. Wie
+umfassend diese Begründung sein muss, kann nicht mit einer allgemein gültigen
+Formel umschrieben werden (vgl. AGE BES.2021.54 vom 29. November 2021 E. 2.4,
+BES.2021.84 vom 21. Oktober 2021 E. 2.1, BES.2018.216 vom 7. Juni 2019
+E. 3; Weber , in: Basler
+Kommentar, 2. Auflage 2014, Art. 199 StPO N 6). Nach der
+Rechtsprechung muss die Begründung einer erkennungsdienstlichen Erfassung auf
+die konkrete Situation des Einzelfalls Bezug nehmen (vgl. AGE BES.2021.54 vom
+29. November 2021 E. 2.4, BES.2020.186 vom 5. März 2021 E. 3.3,
+BES.2020.23 vom 18. Mai 2020 E. 2.2.4, BES.2019.158 vom 17. Dezember
+2019 E. 3.3, BES.2017.209 vom 14. August 2019 E. 4.3, BES.2018.148 vom 12. Februar
+2019 E. 2.3).
+
+2.3
+
+2.3.1 Im
+Befehl für die erkennungsdienstliche Erfassung vom 19. Februar 2022 führt die
+Staatsanwaltschaft im Rahmen einer «Kurzbegründung» an, der Beschwerdeführer
+werde «eines Deliktes beschuldigt». Als Straftatbestände werden «Gewalt und
+Drohung gegen Behörden und Beamte, Hinderung einer Amtshandlung,
+Sachbeschädigung, begangen am Samstag, 19.02.2022, in Basel» aufgeführt. Es
+wird sodann festgehalten, es bestünden «konkrete Anhaltspunkte (Vorstrafen
+wegen Hinderung einer Amtshandlung / Hausfriedensbruch und Landfriedensbruch)
+dass die betroffene Person in weitere Delikte verwickelt sein könnte». Der
+Beschwerdeführer bringt hiergegen vor, dass diese Angaben in der Anordnung der
+erkennungsdienstlichen Erfassung keine hinreichende individuelle Begründung
+darstellen. Das Appellationsgericht hat in der Vergangenheit mehrfach in Bezug
+auf derartige textbausteinartige Kurzbegründungen festgehalten, dass diese das
+rechtliche Gehör der betroffenen Personen zwar verletzen und deshalb grundsätzlich
+unzureichend sein können, es sei denn, die Begründung sei anlässlich der
+unmittelbar  vorangehenden Einvernahme erfolgt (vgl. AGE BES.2021.17 vom
+1. Juli 2021 E. 4.2.1, BES.2021.17 vom 1. Juli 2021 E. 4.2.1,
+BES.2020.23 vom 18. Mai 2020 E. 2.2.4, BES.2019.158 vom 17. Dezember 2019
+E. 3.3). Ob eine genügende Begründung vorliegt, beurteilt sich demzufolge
+nicht nur aufgrund der Angaben im Anordnungsdokument. Zu berücksichtigen ist
+auch die übrige Aufklärung, die gegenüber dem Betroffenen anlässlich der Eröffnung
+des Befehls geleistet und dokumentiert wird. So werden namentlich die
+Bekanntgaben in einer gleichzeitig durchgeführten Einvernahme berücksichtigt.
+Entscheidend ist dabei, ob für den Betroffenen insgesamt genügend klar
+erkennbar ist, was ihm vorgeworfen und weshalb eine strafprozessuale
+Zwangsmassnahme durchgeführt wird (vgl. AGE BES.2022.52 vom 22. Februar
+2023, BES.2021.54 vom 29. November 2021 E. 2.4, BES.2020.186 vom 5. März
+2021 E. 3.3, BES.2019.18 vom 5. August 2019 E. 3.3.1,
+BES.2019.82 vom 30. Juli 2019 E. 3.2, BES.2018.206 vom 5. Juni 2019
+E. 3.4, BES.2018.213 vom 23. April 2019 E. 3.3).
+
+2.3.2 Aus
+den Vorakten der Staatsanwaltschaft (VT.[...]) ergibt sich, dass der
+Beschwerdeführer am 19. Februar 2022, gegen 02.00 Uhr einer Personenkontrolle
+durch die Polizei unterzogen wurde, nachdem diese wegen Ruhestörung durch eine
+Drittperson requiriert wurde. Anlässlich des Einsatzes der Polizei soll der
+Beschwerdeführer zwei Polizisten vor Ort mit Bier übergossen haben und versucht
+haben, sich mittels Bodycheck zum Nachteil von zwei Polizisten durch die
+Menschenmenge abzusetzen und sich so der polizeilichen Festnahme zu entziehen.
+Dies wurde durch die Polizei verhindert. Dabei sollen zwei Polizisten verletzt
+worden sein (vgl. diverse Fotos zu den bei den Polizisten festgestellten
+Verletzungen bei den Vorakten, act. 5, S. 53, 62). Der Beschwerdeführer wurde
+im Anschluss an die Auseinandersetzung auf die Polizeiwache Clara überführt und
+dort auf Anweisung des piketthabenden Kriminalkomissär um 02.35 Uhr in einer
+Zelle in Gewahrsam genommen. Anschliessend wurde er aus der vorläufigen
+Festnahme vorgeführt und von 09.52 bis 10.05 Uhr zum Sachverhalt befragt. Ihm
+wurde über sechs Seiten die ihm vorgeworfenen Straftaten vorgehalten und die
+Bilder der Handverletzungen von Geschädigtem 1 und 3 vorgelegt. Der
+Beschwerdeführer hat zu den Vorhalten keine Aussagen gemacht. Ferner hat er
+sich verweigert, das Einvernahmeprotokoll vom 19. Februar 2022 (act. 5, S. 54
+ff.) zu unterschreiben. Eine weitere beim Geschädigten 3 verursachte Verletzung
+(ca. 10 cm lange Schürfung an der rechten Schulter) wurde erst nachträglich
+festgestellt und fotografisch dokumentiert (vgl. Rapport vom 23. Februar 2022,
+act. 5, S. 61 f.). Die Entlassung aus dem Polizeigewahrsam erfolgte am
+19. Februar 2022 um 11 Uhr.
+
+2.3.3 Die
+angefochtene Verfügung betreffend den Befehl zur erkennungsdienstlichen
+Erfassung inkl. Merkblatt wurde dem Beschwerdeführer unter dessen
+handschriftlichem Vermerk «Erhalten am 19.2.2022» und «Unterschrift verweigert»
+am 19. Februar 2022 persönlich ausgehändigt und eröffnet. Leider lässt
+sich den Akten nicht entnehmen, wann zeitlich genau am 19. Februar 2022 der
+Befehl zur erkennungsdienstlichen Erfassung und das Merkblatt dem
+Beschwerdeführer ausgehändigt wurden. Der den Akten zu entnehmende zeitliche
+Ablauf lässt keinen anderen Schluss zu, als dass die Eröffnung gegen Ende oder
+nach der mündlichen Befragung durchgeführt worden sein muss. Dem
+Einvernahmeprotokoll vom 19. Februar 2022 (act. 5, S. 58) lässt sich unter einem
+Hinweis entnehmen, dass dem Beschwerdeführer am Ende der Einvernahme das
+Formular «Befehl für Erkennungsdienstliche Erfassung (Feststellung
+Körpermerkmale und Herstellung Abdrücke von Körperteile)» erläutert und
+ausgehändigt wurde. Mit anderen Worten, als dem Beschwerdeführer der
+schriftliche Befehl inkl. Merkblatt betreffend erkennungsdienstlicher Erfassung
+ausgehändigt wurden, wurde er bereits an der vorgängigen Einvernahme während
+ungefähr 15 Minuten einvernommen und zum Sachverhalt und den Vorwürfen befragt
+(vgl. Einvernahmeprotokoll vom 19. Februar 2022, act. 5, S. 54 ff.). Aufgrund
+der Schilderungen des Untersuchungsbeamten in der Befragung des
+Beschwerdeführers, die im Einvernahmeprotokoll über mehrere Seiten hinweg
+niedergeschrieben wurden und der vorgelegten Fotos der Geschädigten, ist zu
+schliessen, dass dem Beschwerdeführer klar sein musste, welche Delikte zur
+Diskussion stehen und was ihm genau vorgeworfen wird. Nach der ausführlichen
+Befragung zum Sachverhalt und den vorgeworfenen Delikten, wusste der
+Beschwerdeführer zum Zeitpunkt der Eröffnung der angefochtenen Verfügung, was
+genau ihm vorgehalten wird. Dass sich der Beschwerdeführer geweigert hat, den
+Empfang der beiden Dokumente unterschriftlich zu bestätigen, ändert überdies
+nichts an der rechtlichen Beurteilung des Sachverhaltes. Die beiden Dokumente
+sind dem Beschwerdeführer rechtsgültig eröffnet worden. Andernfalls wäre er ja
+auch nicht im Stande gewesen, rechtzeitig und formgerecht Beschwerde gegen die
+Verfügung zu erheben. Vor diesem Hintergrund war für den Beschwerdeführer der
+Grund für die angeordneten Zwangsmassnahmen hinreichend erkennbar. Gemäss
+Rechtsprechung des Appellationsgericht werden an die Begründung der
+entsprechenden Verfügung weniger hohe Anforderungen gestellt, wenn die betroffene
+Person, welche einer erkennungsdienstlichen Behandlung unterzogen werden soll,
+zuvor schon formell befragt wurde und ihr der vorgeworfene Sachverhalt bereits
+bekannt ist (vgl. AGE BES.2022.52 vom 22. Februar 2023, BES.2021.104 vom 2.
+August 2022, BES.2021.17 vom 1. Juli 2021 E. 4.2.1, BES.2020.23 vom
+18. Mai 2020 E. 2.2.4, BES.2019.158 vom 17. Dezember 2019 E. 3.3).
+Unter diesem Aspekt erweist sich die Kurzbegründung der angefochtenen Verfügung
+als ausreichend. Folglich kann abermals festgehalten werden, dass hinsichtlich
+des Befehls für die erkennungsdienstliche Erfassung vom 19. Februar 2023 keine
+Verletzung des rechtlichen Gehörs vorlag.
+
+2.4
+
+2.4.1 Das
+Appellationsgericht hat bei der Prüfung der Verhältnismässigkeit der
+erkennungsdienstlichen Erfassung in seinem Urteil vom 11. Mai 2023 erwogen,
+dass der Beschwerdeführer «einschlägig vorbestraft» und mit Strafbefehl vom 15.
+Dezember 2014 wegen Hausfriedensbruch und Hinderung einer Amtshandlung und mit
+Strafbefehl vom 20. Juni 2019 wegen Landfriedensbruch verurteilt worden sei. Wie
+der Beschwerdeführer mit seinem Wiedererwägungsgesuch vom 27. Juni 2023 zu
+Recht vorgebracht hatte, ist er demgegenüber betreffend den Hausfriedensbruch (AGE
+DGS.2019.15 vom 13. Mai 2019) sowie betreffend den Landfriedensbruch (OGer BE SK
+22 259 vom 3. August 2022) bereits vor Ergehen des Entscheids vom 11. Mal 2023
+im Zuge von Revisionsverfahren freigesprochen worden, so dass im Zeitpunkt des
+Beschwerdeentscheids nur eine Vorstrafe wegen Hinderung einer Amtshandlung vorlag.
+Im Strafregisterauszug vom 22. Februar 2022, auf welchen das
+Appellationsgericht im angefochtenen Entscheid verwies, war das Revisionsurteil
+AGE DGS.2019.15 vom 13. Mai 2019 nicht berücksichtigt worden, da es dem Strafregister-Informationssystem
+VOSTRA versehentlich nicht mitgeteilt wurde (vgl. Verteiler dieses Urteils).
+Das Urteil des Obergerichts Bern vom 20. Juni 2019 wegen Landfriedensbruchs wäre
+in einem Registerauszug im Zeitpunkt des Beschwerdeentscheids aufgrund des
+obergerichtlichen Revisionsurteils vom 3. August 2022 nicht mehr ersichtlich
+gewesen. Das Appellationsgericht hat den Entscheid BES.2022.34 vom 11. Mai 2023
+demnach auf falsche Prämissen abgestützt. Der Beschwerdeführer wies im
+Zeitpunkt des Beschwerdeentscheids am 11. Mai 2023 eine Vorstrafe auf und dies stellt
+eine andere Situation dar als jene, von welcher im streitbetroffenen Entscheid vom
+11. Mai 2023 ausgegangen wurde.
+
+2.4.2 Es
+stellt sich damit in materieller Hinsicht die Frage, ob die Vorstrafe wegen
+Hinderung einer Amtshandlung in Verbindung mit den dem Beschwerdeführer neu
+vorgeworfenen Delikten ausreichen, um die erkennungsdienstliche Erfassung mit
+Blick auf zukünftig aufzuklärende Delikte anzuordnen.
+
+2.4.2.1 Bei
+der erkennungsdienstlichen Erfassung gemäss Art. 260 StPO werden die
+Körpermerkmale (wie Grösse und Gewicht) einer Person festgestellt, Fotografien
+erstellt und Abdrücke von Körperteilen genommen. Zweck der Massnahme, ist die
+Abklärung des Sachverhalts, worunter insbesondere die Feststellung der
+Identität einer Person fällt (BGE 141 IV 87 E. 1.3.3, mit Hinweisen), und
+sie kann bereits für Übertretungstatbestände angeordnet werden (BGE 147 I 372
+E. 2.1; BGer 1B_387/2021 vom 19. Mai 2022 E. 3.2; AGE BES.2022.99 vom
+9. September 2022 E. 2.5). Jedoch erlaubt Art. 260 Abs. 1
+StPO keine routinemässige erkennungsdienstliche Erfassung (BGE 147 I 372 E.
+2.1; BGer 1B_387/2021 vom 19. Mai 2022 E. 3.2; AGE BES.2022.99 vom
+9. September 2022 E. 2.5, BES.2021.84 vom 21. Oktober 2021 E. 2.3,
+je mit weiteren Hinweisen; vgl. zum Ganzen AGE BES.2022.34 vom 11. Mai
+2023 E. 3.1).
+
+2.4.2.2 Erkennungsdienstliche
+Massnahmen gemäss Art. 260 StPO und die Aufbewahrung der daraus gewonnenen
+Daten können das Recht auf persönliche Freiheit bzw. körperliche Integrität
+(Art. 10 Abs. 2 BV]) und auf informationelle Selbstbestimmung berühren (Art. 13
+Abs. 2 BV und Art. 8 der Europäischen Menschenrechtskonvention [EMRK, SR
+0.101]; BGE 147 I 372 E. 2.2 und 145 IV 263 E. 3.4, je mit weiteren Hinweisen).
+Der Eingriff in die körperliche Integrität bei einer erkennungsdienstlichen
+Erfassung, wie beispielsweise durch die Abnahme von Fingerabdrücken, bei
+welchen weder die Haut verletzt noch Schmerzen zu erwarten sind, kann gemäss
+ständiger Rechtsprechung nicht als schwer eingestuft werden (BGE 147 I 372 E.
+2.3, 145 IV 263 E. 3.4, mit weiteren Hinweisen; vgl. zum Ganzen AGE BES.2022.34
+vom 11. Mai 2023 E. 3.2).
+
+2.4.2.3 Einschränkungen
+von Grundrechten bedürfen nicht nur einer gesetzlichen Grundlage, sondern
+müssen auch durch ein öffentliches Interesse gerechtfertigt sowie
+verhältnismässig sein (Art. 36 Abs. 2 und 3 BV). Dies wird in Art. 197 Abs. 1
+StPO präzisiert. Danach können Zwangsmassnahmen nur ergriffen werden, wenn ein
+hinreichender Tatverdacht vorliegt (lit. b), die damit angestrebten Ziele nicht
+durch mildere Massnahmen erreicht werden können (lit. c) und die Bedeutung der
+Straftat die Zwangsmassnahme rechtfertigt (lit. d). Soweit die Massnahme nicht
+der Aufklärung der Straftaten eines laufenden Strafverfahrens dient, ist sie
+nach der Rechtsprechung des Bundesgerichts auch dann verhältnismässig, wenn
+erhebliche und konkrete Anhaltspunkte dafür bestehen, dass die beschuldigte
+Person in andere  bereits begangene oder künftige  Delikte verwickelt sein
+könnte. Dabei muss es sich um Delikte von einer gewissen Schwere handeln. Bei
+der Beurteilung der erforderlichen Deliktsschwere kommt es weder einzig auf die
+Ausgestaltung als Antrags- bzw. Offizialdelikt an noch auf die abstrakte
+Strafdrohung. Zur Beurteilung der Schwere ist vielmehr auch das betroffene
+Rechtsgut und der konkrete Kontext miteinzubeziehen. Eine präventive
+erkennungsdienstliche Erfassung erweist sich insbesondere dann als
+verhältnismässig, wenn die besonders schützenswerte körperliche bzw. sexuelle
+Integrität von Personen bzw. unter Umständen auch das Vermögen bedroht ist
+(vgl. BGer 1B_171/2021 vom 6. Juli 2021 E. 4.3, mit Hinweisen). Es müssen
+mithin ernsthafte Gefahren für wesentliche Rechtsgüter drohen. Gewisse
+Beeinträchtigungen weniger existenzieller Rechtsgüter sind hingegen in Kauf zu
+nehmen. Solche sind mittels repressiver Massnahmen zu ahnden. Bei der
+präventiven erkennungsdienstlichen Erfassung ist insbesondere auch zu
+berücksichtigen, ob die beschuldigte Person vorbestraft ist. Trifft dies nicht
+zu, schliesst das die erkennungsdienstliche Erfassung nicht aus, sondern es
+fliesst als eines von vielen Kriterien in die Gesamtabwägung ein und ist entsprechend
+zu gewichten (BGE 147 I 372 E. 2.1, 4.2 und 4.3.2; BGE 141 IV 87 E. 1.3
+und 1.4 S. 90 ff.; BGer 1B_17/2019 vom 24. April 2019 E. 3.4; BGer
+1B_387/2021 vom 19. Mai 2022 E. 3.1; BGer 1B_185/2017 vom
+21. August 2017 E. 3, je mit weiteren Hinweisen; vgl. zum Ganzen
+AGE BES.2022.34 vom 11. Mai 2023 E. 3.2; vgl. zum Ganzen AGE BES.2022.34 vom
+11. Mai 2023 E. 3.3).
+
+2.5
+
+2.5.1 Der
+Beschwerdeführer macht geltend, dass er für die Hinderung einer Amtshandlung
+mit einer Strafe von 10 Tagessätzen zu CHF 30. belegt worden sei. Er soll sich
+damals gemäss Revisionsurteil vom 13. Mai 2019 geweigert haben, vom Dach einer
+Baracke herunterzukommen, als das entsprechende Areal an der [...]strasse in
+Basel geräumt werden sollte. Ihm werde nicht vorgeworfen, sich in irgendeiner
+Form aktiv gewehrt zu haben. Die Vorstrafe erweise sich mithin nicht als derart
+gravierend, dass sie ohne weiteres als konkreter und erheblicher Anhaltspunkt
+für weitere Delikte herangezogen werden könne. Andere konkrete Anhaltspunkte
+wurden weder von der Staatsanwaltschaft noch vom Appellationsgericht
+vorgebracht, so dass davon auszugehen sei, dass diese nicht vorliegen würden .
+
+2.5.2 Mit
+Art. 260 StPO ist ohne Weiteres eine genügende gesetzliche Grundlage zur
+Durchführung der Zwangsmassnahme gegeben. Unbestritten ist nach Ausführung von Beschwerdeführer
+und Staatsanwaltschaft, dass die erkennungsdienstliche Erfassung, vorliegend
+nicht der Aufklärung der Anlasstaten dient. Die Verhinderung zukünftiger
+Straftaten mittels erkennungsdienstlicher Massnahmen liegt ohne Weiteres im
+öffentlichen Interesse (vgl. BGE 147 I 372 E. 4.2). Hierbei gilt es jedoch zu
+beachten, dass erhebliche und konkrete Anhaltspunkte dafür bestehen müssen,
+dass die beschuldigte Person in künftige Delikte von einer gewissen Schwere
+verwickelt sein könnte, damit sich die Durchführung einer Zwangsmassnahme als
+verhältnismässig erweist (vgl. BGE 145 IV 263 E. 3.4 S. 267 mit Hinweisen). Der
+Beschwerdeführer bestreitet das Vorliegen solcher erheblichen und konkreten
+Hinweise auf weitere (vergangene oder zukünftige) Delikte aufgrund der einzigen
+Vorstrafe. Die Durchführung der Zwangsmassnahme allein aufgrund der Vorstrafe
+erweise sich daher als nicht verhältnismässig. Im Nachfolgenden ist daher zu
+prüfen, ob auch bei nur einer Vorstrafe die notwendigen Anhaltspunkte bejaht
+werden können, aufgrund welcher die angeordneten Zwangsmassnahmen erforderlich
+sind, um das öffentliche Interesse an der Aufklärung und Verhinderung von
+Straftaten von einer gewissen Schwere zu wahren.
+
+2.5.3 In
+Bezug auf die Verhältnismässigkeit der Massnahmen ist zunächst nochmals daran
+zu erinnern, dass es sich bei der erkennungsdienstlichen Erfassung gemäss Art.
+260 Abs. 1 StPO um einen leichten Grundrechtseingriff und somit eine wenig
+eingriffsintensive Massnahme handelt (siehe hierzu E. 2.4.2.2). Wie den Akten
+entnommen werden kann und dem Beschwerdeführer bereits mitgeteilt wurde, war im
+vorliegenden Verfahren insbesondere keine WSA-Abnahme mit Auswertung der DNA
+angeordnet worden und werden die Daten einer erkennungsdienstlichen Erfassung
+gemäss Art. 261 StPO nicht dauernd aufbewahrt. Der Beschwerdeführer ist
+unbestrittenermassen wegen Hinderung einer Amtshandlung vorbestraft. Er
+kletterte, um die Räumung eines Areals zu erschweren und zu verzögern, auf das
+Dach einer auf dem zu räumenden Arealteil stehenden Baracke und weigerte sich
+trotz entsprechender Aufforderung, freiwillig wieder herunter zu kommen.
+Deshalb musste er schliesslich von der Polizei und der Feuerwehr über eine
+Drehleiter mit Korb um ca. 16:30 Uhr vom Dach geholt werden, wobei er zu einer bedingten
+Geldstrafe von 10 Tagessätzen zu CHF 30. verurteilt wurde (vgl. Revisionsurteil
+AGE DGS.2019.15 vom 13. Mai 2019 E. 2.2). Die einschlägige Vorstrafe der
+Hinderung einer Amtshandlung, an der sich ja auch durch die Berichtigung des
+Strafregisterauszuges nichts geändert hat, stellt ein Delikt gegen die
+öffentliche Ordnung dar. Im derzeit laufenden Strafverfahren werden dem Beschwerdeführer
+weiter Gewalt und Drohung gegen Behörden und Beamte, Sachbeschädigung sowie nochmals
+Hinderung einer Amtshandlung vorgeworfen. Es werden ihm mithin erneut zwei
+Vergehen vorgeworfen, welche sich gegen die öffentliche Gewalt richten. Dabei ist
+festzuhalten, dass es sich nicht um Bagatellen handelt, sondern um Straftaten
+mit einer gewissen Schwere, sodass ohne Weiteres ein öffentliches Interesse an der
+Aufklärung weiterer Delikte besteht. Aus den Vorakten der Staatsanwaltschaft
+(VT.[...]) ist ersichtlich, dass der Beschwerdeführer am 19. Februar 2022,
+gegen 02.00 Uhr einer Personenkontrolle durch die Polizei unterzogen wurde,
+nachdem diese wegen angeblicher Ruhestörung durch eine Drittperson requiriert
+wurde. Anlässlich des Einsatzes der Polizei soll der Beschwerdeführer zwei
+Polizisten vor Ort mit Bier übergossen und versucht haben, sich mittels
+Bodycheck zum Nachteil der zwei Polizisten durch die Menschenmenge abzusetzen
+und sich so der polizeilichen Festnahme zu entziehen. Dies wurde durch die
+Polizei verhindert. Dabei sollen zwei Polizisten verletzt worden sein (vgl.
+diverse Fotos zu den bei den Polizisten festgestellten Verletzungen bei den
+Vorakten, act. 5, S. 53, 62). Es bestehen mithin konkrete Verdachtsgründe gegen
+den Beschwerdeführer, nicht nur ein Problem mit der staatlichen Autorität,
+sondern auch keine Hemmungen zu haben, die besonders schützenswerte körperliche
+Integrität von Personen zu verletzen. Zu berücksichtigen ist dabei weiter, dass
+Gewalt und Drohung gegen Beamte gemäss Art. 285 Abs. 1 Strafgesetzbuch
+(StGB, SR 311.0) ein Delikt darstellt, dass mit der Harmonisierung der
+Strafrahmen (in Kraft seit 1. Juli 2023) nur noch bei leichten Fällen eine
+Geldstrafe nach sich zieht. Aufgrund der Vorstrafe und deren Einschlägigkeit hatte
+die Staatsanwaltschaft in Anbetracht der aktuellen Verdachtslage hinreichenden Grund
+zur Annahme, dass der Beschwerdeführer in weitere  allenfalls ähnliche Vergehen
+oder Verbrechen  verwickelt sein könnte. Das Aufklärungsinteresse an diesen
+Straftaten überwiegt vorliegend gegenüber dem leichten Grundrechtseingriff, der
+mit den, wohlgemerkt nicht-invasiven, erkennungsdienstlichen Massnahmen
+verbunden ist. Ein milderes Mittel, das ebenso viel zur Ermittlung beitragen
+würde, ist nicht ersichtlich. Bei dem gemäss bundesgerichtlicher Rechtsprechung
+als leicht einzustufenden Eingriff handelt es sich zudem um eine zumutbare
+Massnahme. Die erkennungsdienstliche Erfassung ist im vorliegenden Fall auch
+unter Berücksichtigung der Revisionsurteile gerechtfertigt, weil aufgrund der
+einschlägigen Vorstrafe und der Verdachtsgründe im laufenden Verfahren immer
+noch Anlass zur Vermutung besteht, dass der Beschwerdeführer in weitere Delikte
+verwickelt sein könnte. Die vorliegend zu beurteilende erkennungsdienstliche
+Erfassung erweist sich trotz Wegfalls von zwei Vorstrafen somit immer noch
+knapp als verhältnismässig.
+
+3.
+
+Zusammenfassend
+erfolgte die erkennungsdienstliche Erfassung zu Recht. Die Verfügung vom 19.
+Februar 2022 ist entgegen der Ansicht des Beschwerdeführers nicht zu
+beanstanden.
+
+4.
+
+4.1 Mit
+Gesuch vom 29. März 2022 (act. 6) beantragte der Beschwerdeführer die amtliche
+Verteidigung durch [...], Advokat, substituiert durch [...], Advokatin (act. 13)
+für das Beschwerdeverfahren. Der Beschwerdeführer begründet dies mit seinen
+fehlenden finanziellen Mitteln und mangelnder Fachkenntnis.
+
+4.2 Nach
+Art. 132 Abs. 1 lit. b StPO ist die amtliche Verteidigung anzuordnen, wenn die
+beschuldigte Person nicht über die erforderlichen Mittel verfügt und die
+Verteidigung zur Wahrung ihrer Interessen geboten ist. Dieses Gebotensein wird
+in Art. 132 Abs. 2 und 3 StPO näher umschrieben: Es ist namentlich zu
+bejahen, wenn es sich nicht um einen Bagatellfall handelt und der Straffall
+in tatsächlicher oder rechtlicher Hinsicht Schwierigkeiten bietet, denen die
+beschuldigte Person allein nicht gewachsen wäre. Schwierigkeiten in rechtlicher
+Hinsicht sind etwa anzunehmen, wenn die rechtliche Subsumtion oder die in Frage
+kommenden Sanktionen Anlass zu Zweifeln geben. Schliesslich können auch
+persönliche Eigenschaften (Intelligenz, Schulbildung, Beruf, Herkunft,
+gesundheitliche Aspekte etc.) die unentgeltliche Rechtsverbeiständung
+rechtfertigen. Da über die tatsächliche Komplexität mittels einer
+Gesamtwürdigung der Umstände des Einzelfalls zu entscheiden ist, können die
+erwähnten Umstände allein allerdings nicht in jedem Fall Schwierigkeiten in
+tatsächlicher Hinsicht, denen die beschuldigte Person allein nicht gewachsen
+wäre, begründen (vgl. BGer 1B_102/2012 vom 24. Mai 2012 E. 2.2. und 2.5.4; AGE
+BES.2012.88 vom 23. November 2012 E. 3.3.1). Für die Beurteilung der
+Voraussetzungen der amtlichen Verteidigung sind die Verhältnisse im Zeitpunkt
+der Einreichung des Gesuchs massgebend (vgl. AGE BES.2015.81 vom 30. September
+2015 E. 2.1, mit Hinweisen).
+
+4.3 Im
+vorliegenden Fall ist nicht entscheidend, ob der Beschwerdeführer über die
+erforderlichen Mittel zur Bestellung einer Wahlverteidigung verfügt, d.h. ob
+Bedürftigkeit gemäss Art. 132 Abs. 1 lit. b StPO anzunehmen ist. Es fehlt
+nämlich bereits klarerweise an der Gebotenheit einer anwaltlichen Vertretung.
+Der vorliegende Beschwerdefall bietet weder in tatsächlicher noch in
+rechtlicher Hinsicht besondere Schwierigkeiten, denen der Beschwerdeführer
+alleine nicht gewachsen wäre. So sind Sachverhalt und Beweisthema denkbar
+einfach und wurden von dem Beschwerdeführer selber vorgegeben. Der anfänglich
+nicht anwaltlich vertretene Beschwerdeführer hat mit seiner Eingabe vom 23.
+Februar 2022 form- und fristgerecht eine persönlich verfasste Beschwerde
+eingereicht. Darin fasste er zunächst den rechtsrelevanten Sachverhalt
+zutreffend zusammen, formulierte präzise Rechtsbegehren aus und begründete
+diese ausführlich in seiner rechtlichen Würdigung, womit er in der Lage war,
+seine Rechte eigenständig zu wahren. Der Beschwerdeführer war somit zur
+Durchsetzung seines Rechtes auf Anfechtung der Verfügung vom 2. März 2022
+folglich nicht im Sinne Art. 132 Abs. 2 StPO auf eine anwaltliche Verteidigung
+angewiesen. Aus diesen Gründen kann dem Beschwerdeführer auch keine amtliche
+Verteidigung für das vorliegende Beschwerdeverfahren gewährt werden, weshalb
+sein diesbezügliches Begehren abzuweisen ist.
+
+5.
+
+Aus den
+vorstehenden Erwägungen ergibt sich, dass die Beschwerde abzuweisen ist. Der
+bei diesem Ausgang des Verfahrens unterliegende Beschwerdeführer hat gemäss
+Art. 428 Abs. 1 StPO dessen Kosten zu tragen, welche auf CHF 800. festzusetzen
+sind (vgl. § 21 Abs. 2 des Gerichtsgebührenreglements [SG 154.810]). Mit der
+Feststellung der Nichtigkeit des Wiedererwägungsentscheids vom 22. November
+2023 fällt auch die Grundlage für die Parteientschädigung von CHF 2154.
+(einschliesslich Auslagen und MWST) weg, die der Beschwerdeführer  angesichts
+der entsprechenden Abgeltung im Rechtsmittelzug vor Bundesgericht  der
+Gerichtskasse zurückzuerstatten hat.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde gegen die Verfügung der
+Staatsanwaltschaft vom 19. Februar 2022 betreffend Befehl für erkennungsdienstliche
+Erfassung wird im Sinne der Erwägungen abgewiesen.
+
+Das Gesuch um amtliche Verteidigung wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 800., einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+Die Präsidentin                                                         Der
+Gerichtsschreiber
+
+lic. iur.
+Liselotte Henz                                               Dr. Nicola Inglese
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
