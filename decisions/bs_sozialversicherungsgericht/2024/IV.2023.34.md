@@ -1,0 +1,485 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2025.7"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2023.34"
+docket_2: "SVG.2025.7"
+decided: "2024-10-02"
+published: "2026-06-20"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77889&W10_KEY=3402894&nTrefferzeile=14&Template=search_result_document.html"
+cites_decisions: ["9C_474/2017", "BGE 125 V 351", "BGE 125 V 352", "BGE 132 V 93", "BGE 134 V 231", "BGE 137 V 210", "BGE 139 V 496", "BGE 143 V 269", "IV.2023.34"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-044.md"]
+---
+
+# IVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 2.
+Oktober 2024
+
+Mitwirkende
+
+lic. iur. R. Schnyder (Vorsitz), C.
+Müller, S. Schenker
+
+und
+Gerichtsschreiberin lic. iur. A. Gmür
+
+Parteien
+
+A ____
+
+vertreten durch B____
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2023.34
+
+Verfügung vom 27. Januar 2023
+
+Rente
+
+Tatsachen
+
+I.
+
+a)        Der 1974 geborene Beschwerdeführer stammt aus der
+Türkei, wo er gemäss seinen Angaben eine Ausbildung zum Automechaniker machte (IV-Akte
+1, S. 4). Nach seiner Einreise in die Schweiz im März 1991 (vgl. IV-Akte 6, S.
+1) hatte er mehrere Stellen inne (vgl. IV-Akte 11, S. 2). Zuletzt arbeitete er ab
+Januar 2001 bis Ende Februar 2006 bei der C____ AG, [...], als
+Hilfsspritzlackierer (vgl. IV-Akten 119, S. 1 und 156). Danach fand er nicht
+mehr in den regulären Arbeitsmarkt zurück und wurde von der Sozialhilfe unterstützt
+(IV-Akten 10, 12; IV-Akte 147, S. 4).
+
+b)        Am 30. November 2006 meldete sich der
+Beschwerdeführer das erste Mal wegen Depressionen und Ängsten bei der IV-Stelle
+Basel-Stadt zum Bezug von Leistungen der Eidgenössischen Invalidenversicherung
+(IV) an (vgl. IV-Akte 1). Gestützt auf ein Gutachten vom 19. Dezember 2008
+sowie beantworteter Zusatzfragen von Dr. med. D____, Facharzt FMH für
+Psychiatrie und Psychotherapie, verneinte die IV-Stelle mit Verfügung vom 25.
+November 2009 einen Rentenanspruch des Beschwerdeführers (IV-Akten 37, 47 und 59).
+Die hiergegen erhobene Beschwerde (vgl. IV-Akte 63, S. 2 ff.) hiess das
+Sozialversicherungsgericht des Kantons Basel-Stadt mit Urteil vom 17. August
+2010 gut. Es verpflichtete die IV-Stelle dazu, den Sachverhalt ergänzend
+medizinisch abzuklären und hernach erneut zu entscheiden (vgl. IV-Akte 73, S. 2
+ff.). Diese veranlasste eine bidisziplinäre (neurologisch-psychiatrische) Begutachtung
+durch Dr. med. E____, Facharzt FMH für Neurologie, und Dr. med. F____,
+(Gutachten vom 11. Oktober 2013 und vom 30. Oktober 2013; IV-Akten 119 und 118).
+Mit Verfügung vom 8. August 2014 lehnte sie erneut einen Rentenanspruch des
+Beschwerdeführers ab (vgl. IV-Akte 139). Die Verfügung blieb unangefochten und
+erwuchs in Rechtskraft.
+
+c)         Ab Februar 2015 bis August 2019 arbeitete der
+Beschwerdeführer zu 50 % in einem geschützten Arbeitsplatz bei der G____ (vgl.
+IV-Akte 156, S. 4; IV-Akte 158, S. 10 ff.). Am 17. September 2020 meldete er sich
+erneut zum Leistungsbezug bei der IV-Stelle an (vgl. IV-Akte 147). Die IV-Stelle
+holte im Rahmen des Abklärungsverfahrens bei Dr. F____ ein psychiatrisches
+Verlaufsgutachten vom 13. August 2022 (IV-Akte 199) ein. Im Wesentlichen
+gestützt darauf kündigte sie mit Vorbescheid vom 28. September 2022 an, der Beschwerdeführer
+habe  ausgehend von einem Invaliditätsgrad von 100% - ab März 2021 Anspruch
+auf eine ganze Invalidenrente. Ab Oktober 2022 habe der Beschwerdeführer 
+ausgehend von einem Invaliditätsgrad von 40 %  Anspruch auf eine Rente von 25
+% einer ganzen Rente (vgl. IV-Akte 206). Dagegen wehrte sich der
+Beschwerdeführer mit Einwand vom 28. Oktober 2022 (IV-Akte 212). Nach Rückfrage
+beim regionalärztlichen Dienst (RAD, IV-Akte 220) erliess die IV-Stelle am 27.
+Januar 2023 eine dem Vorbescheid entsprechende Verfügung (IV-Akte 227).
+
+II.
+
+a)        Mit Beschwerde vom 1. März 2023 wird in Aufhebung der
+Verfügung vom 27. Januar 2023 beantragt, es sei dem Beschwerdeführer über den
+30. September 2022 hinaus eine ganze Invalidenrente unbefristet zuzusprechen.
+Eventualiter sei die Sache zur weiteren Abklärung an die IV-Stelle
+zurückzuweisen. In verfahrensrechtlicher Hinsicht sei dem Beschwerdeführer die
+unentgeltliche Prozessführung und Verbeiständung durch B____ zu bewilligen.
+
+b)        Mit Beschwerdeantwort vom 17. April 2023
+(Postaufgabe: 18. April 2024) schliesst die IV-Stelle (Beschwerdegegnerin) auf
+Abweisung der Beschwerde.
+
+c)         Mit Replik vom 23. Juni 2023 und Duplik vom 27. Juli
+2023 halten die Parteien an den gestellten Rechtsbegehren fest.
+
+III.
+
+Mit Verfügung der Instruktionsrichterin vom 30. August 2023
+wird dem Beschwerdeführer mit Advokat B____, der Kostenerlass bewilligt.
+
+IV.
+
+a)       Am 28. September 2023 findet vor der Kammer des
+Sozialversicherungsgerichts Basel-Stadt eine erste Urteilsberatung statt. Es
+wird beschlossen  vorbehältlich eines Rückzugs der Beschwerde -, das Verfahren
+auszustellen und ein psychiatrisches Gerichtsgutachten in Auftrag zu geben
+(vgl. instruktionsrichterliche Verfügung vom 4. Oktober 2023).
+
+b)        Der Beschwerdeführer macht von der Möglichkeit zum
+Beschwerderückzug keinen Gebrauch, so dass der Gutachtensauftrag  unter
+Wahrung der Mitwirkungsrechte der Parteien (vgl. die Stellungnahmen der
+Beschwerdegegnerin vom 19. Dezember 2023 und 12. Januar 2024, [Gerichtsakte G
+03 und G 05])  am 22. Januar 2024 an Dr. med. H____, Fachärztin FMH für
+Psychiatrie und Psychotherapie, erteilt wird (vgl. instruktionsrichterliche
+Verfügung vom 5. Dezember 2024).
+
+c)         Am 15. Juli 2024 geht das psychiatrische Gerichtsgutachten
+vom 10. Juli 2024 beim Gericht ein (Gerichtsakte G 13). Mit Eingabe vom 3.
+September 2024 verzichtet die IV-Stelle auf eine Stellungnahme zum Gutachten
+(Gerichtsakte G 20). Der Beschwerdeführer äussert sich seinerseits am 4.
+September 2024 und beantragt weiterhin die Gutheissung der Beschwerde
+(Gerichtsakte G 21).
+
+V.
+
+Am 2. Oktober 2024 wird die Sache erneut von der Kammer des
+Sozialversicherungsgerichts beraten.
+
+Entscheidungsgründe
+
+1.
+
+Das Sozialversicherungsgericht Basel-Stadt ist
+als einzige kantonale Instanz sachlich zuständig zum Entscheid über die
+vorliegende Streitigkeit (§ 82 Abs. 1 des kantonalen Gesetzes vom 3. Juni 2015
+betreffend die Organisation der Gerichte und der Staatsanwaltschaft
+[Gerichtsorganisationsgesetz, GOG; SG 154.100]). Die örtliche Zuständigkeit
+ergibt sich aus Art. 69 Abs. 1 des Bundesgesetzes vom 19. Juni 1959 über die
+Invalidenversicherung (IVG; SR 831.20). Da die Beschwerde rechtzeitig erhoben
+worden ist (Art. 60 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen
+Teil des Sozialversicherungsrechts [ATSG; SR 830.1]) und auch die übrigen
+formellen Beschwerdevoraussetzungen erfüllt sind, ist darauf einzutreten.
+
+2.
+
+2.1. Die IV-Stelle hat mit Verfügung vom 27. Januar 2023 dem
+Beschwerdeführer  ausgehend von einem Invaliditätsgrad von 100% -- ab März
+2021 eine ganze Rente zugesprochen. Ab Oktober 2022 hat sie ihm  bei einem
+Invaliditätsgrad von 40% -- eine Rente von 25% einer ganzen Rente zugesprochen.
+In medizinischer Hinsicht stützt sich die IV-Stelle auf das psychiatrische
+Gutachten von Dr. F____ vom 13. August 2022 (IV-Akte 199; Verfügung der
+IV-Stelle vom 27. Januar 2023, IV-Akte 227). Demnach leide der Beschwerdeführer
+unter psychischen und Verhaltensstörungen durch Alkohol, episodischer Konsum an
+Wochenenden. Ausserdem leide er unter einer rezidivierenden depressiven Störung
+mit chronischem Verlauf und gegenwärtig leichtgradiger Episode ohne somatisches
+Syndrom, und schliesslich unter Agoraphobie mit Panikstörung mit der
+diagnostischen Differentialdiagnose einer ängstlich vermeidenden
+Persönlichkeitsstörung sowie einer Sozialphobie (IV-Akte 199, S. 27).
+Abschliessend beurteilt Dr. F____ die Ressourcen des Versicherten als nicht
+ergiebig. Die Diagnosen würden zu einer verminderten Arbeitsfähigkeit in der
+angestammten Tätigkeit führen. Die zuletzt ausgeübte Tätigkeit in der ersten
+Wirtschaft als Hilfslackierer sei dem Beschwerdeführer wegen seiner Ängste
+nicht mehr zumutbar (IV-Akte 199, S. 32). Der Beschwerdeführer sei jedoch in
+angepasster Tätigkeit auf dem freien Arbeitsmarkt zu 60% arbeitsfähig, sofern
+es sich dabei nicht um eine Tätigkeit in einem grösseren Team handle und er
+diese weitgehend alleine erledigen könne (IV-Akte 199, S. 33). Ausgehend von
+einer Restarbeitsfähigkeit von 60% hat die IV-Stelle einen Einkommensvergleich
+vorgenommen und dabei ab Oktober 2022 einen Invaliditätsgrad von 40% ermittelt,
+was zur Zusprache einer Rente von 25% einer ganzen Rente führte (Verfügung der
+IV-Stelle vom 27. Januar 2023).
+
+2.2. Anlässlich der Beratung vom 28. September 2023 entschied das
+Sozialversicherungsgericht Basel-Stadt, dass zur Beurteilung der Arbeitsfähigkeit
+des Beschwerdeführers aufgrund des mangelnden Beweiswertes nicht auf das
+psychiatrische Gutachten von Dr. F____ vom 13. August 2022 abgestellt werden
+könne. Aus diesem Grund entschied sich das Gericht ein Gerichtsgutachten in der
+Fachdisziplin Psychiatrie in Auftrag zu geben (vgl. Verfügung der
+Instruktionsrichterin vom 4. Oktober 2023, Gerichtsakte 01), welches am 10.
+Juli 2024 von Dr. H____ erstattet wurde (Gerichtsakte 13).
+
+2.3. Streitig und zu prüfen ist, ob die IV-Stelle mit Verfügung vom 27.
+Januar 2023 zu Recht den Invaliditätsgrad des Beschwerdeführers per Oktober
+2022 auf 40% herabgesetzt und den neuen Anspruch auf eine Invalidenrente bei
+25% festgesetzt hat. Im Vordergrund steht dabei die Beweistauglichkeit des
+Gerichtsgutachtens vom 10. Juli 2024.
+
+3.
+
+3.1. Zur Klärung des Invaliditätsgrads einer versicherten Person, sind
+die im Recht liegenden ärztlichen Berichte zu würdigen. Im Rahmen der
+Invaliditätsbemessung ist es Aufgabe der ärztlichen Fachperson, den
+Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung zu
+nehmen, in welchem Umfang und bezüglich welcher Tätigkeiten diese
+arbeitsunfähig ist. Im Weiteren sind die ärztlichen Auskünfte eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der
+versicherten Person noch zugemutet werden können (BGE 132 V 93, 99 f. E. 4).
+Hinsichtlich des Beweiswertes eines Arztberichtes ist entscheidend, ob dieser
+für die streitigen Belange umfassend ist, auf allseitigen Untersuchungen
+beruht, auch die geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten
+(Anamnese) abgegeben worden ist, in der Beurteilung der medizinischen
+Zusammenhänge und in der Beurteilung der medizinischen Situation einleuchtet
+und ob die Schlussfolgerungen des Experten begründet sind (BGE 134 V 231, 232
+mit Hinweis auf BGE 125 V 352 E. 3a). Die Rechtsprechung erachtet es mit dem
+Grundsatz der freien Beweiswürdigung als vereinbar, Richtlinien für die
+Beweiswürdigung in Bezug auf bestimmte Formen medizinischer Berichte und
+Gutachten aufzustellen (vgl. BGE 125 V 351, 352 E. 3b). Den von
+Versicherungsträgern im Verfahren nach Art. 44 ATSG eingeholten, den
+Anforderungen der Rechtsprechung entsprechenden Gutachten externer Spezialärzte
+darf das Gericht vollen Beweiswert zuerkennen, solange nicht konkrete Indizien
+gegen die Zuverlässigkeit der Expertise sprechen (BGE 137 V 210, 227 E. 1.3.4
+mit Hinweis auf BGE 125 V 351, 353 E. 3b/bb).
+
+3.2. Gerichtsgutachten haben sodann im Sozialversicherungsverfahren einen
+hohen Stellenwert und geniessen grundsätzlich vollen Beweiswert (vgl. Marco
+Weiss, Beweiswürdigung medizinischer Gutachten im Sozialversicherungsrecht -
+kritische Anmerkungen in: HAVE 2016 S. 419 mit Hinweisen). Das Gericht weicht
+bei Gerichtsgutachten nach der Praxis nicht ohne zwingende Gründe von der
+Einschätzung des medizinischen Experten ab, dessen Aufgabe es ist, seine
+Fachkenntnisse der Gerichtsbarkeit zur Verfügung zu stellen, um einen
+bestimmten Sachverhalt medizinisch zu erfassen. Ein Grund zum Abweichen kann
+vorliegen, wenn die Gerichtsexpertise widersprüchlich ist oder, wenn ein vom
+Gericht eingeholtes Obergutachten in überzeugender Weise zu anderen
+Schlussfolgerungen gelangt. Eine abweichende Beurteilung kann ferner
+gerechtfertigt sein, wenn gegensätzliche Meinungsäusserungen anderer
+Fachexperten dem Gericht als triftig genug erscheinen, die Schlüssigkeit des
+Gerichtsgutachtens in Frage zu stellen, sei es, dass es die Überprüfung im
+Rahmen einer Oberexpertise für angezeigt hält, sei es, dass es ohne
+Oberexpertise vom Ergebnis des Gerichtsgutachtens abweichende
+Schlussfolgerungen zieht (BGE 125 V 352 f. E. 3b/aa mit Hinweisen).
+
+4.
+
+4.1. Im Nachfolgenden wird das entscheidwesentliche Gerichtsgutachten vom
+10. Juli 2024 kurz dargestellt:
+
+4.2. Mit psychiatrischem Gutachten vom 10. Juli 2024 diagnostiziert Dr. H____,
+Fachärztin FMH für Psychiatrie und Psychotherapie, dem Beschwerdeführer
+folgende Diagnosen: (1.) Psychische und Verhaltensstörungen durch Alkohol,
+Abhängigkeitssyndrom, ständiger Konsum, (2.) rezidivierende depressive Störung,
+gegenwärtig schwere Episode ohne psychotische Symptome, (3.) kombinierte
+Persönlichkeitsstörung mit ängstlich-abhängigen, vermeidenden, emotional
+instabilen und narzisstischen Zügen, (4) soziale Phobie, (5) Agoraphobie mit
+Panikstörung, (6) spezifische isolierte Phobien, Schlangenphobie. Im
+Zusammenhang mit der Diagnoseerhebung weist Dr. H____ darauf hin, dass sie
+einige der gestellten Diagnosen wie der Schweregrad der depressiven Störung
+aufgrund des durch Alkoholkonsum verursachten Zustandes des Beschwerdeführers
+nicht erneut habe überprüfen können. Angesichts der in den I____ im gleichen
+Zeitraum gestellten Diagnosen, dem dokumentierten Eintritt in die I____ mit
+Suizidalität, trauriger Grundstimmung, Freudlosigkeit, Verlust des
+Selbstvertrauens, des berichteten Gedächtnisverlustes und der
+Konzentrationsprobleme gehe sie indes nach wie vor von einer depressiven
+Erkrankung aus, die sich durch den andauernden Alkoholkonsum weiter
+verschlechtert habe (Gerichtsakten G 13, S. 38 f.).
+
+Ferner führt die Gutachterin aus, dass der Beschwerdeführer starke
+Einschränkungen in Bezug auf die psychische Funktionsfähigkeit aufweise. Es
+fänden sich in den meisten psychischen Funktionen nach Mini ICF objektiv
+mittelgradige bis schwerwiegende Einschränkungen. Der Beschwerdeführer sei selbständig
+nicht in der Lage, sich an Abläufe und Regeln zu halten, sei andauernd
+alkoholintoxikiert, sei deswegen ständig auf Betreuung angewiesen. Aus diesem
+Grunde sei er verbeiständet und lebe heute in einer Institution, wo er
+andauernd betreut sei. Im geschützten Rahmen sei der Beschwerdeführer zu einer
+gewissen Selbstfürsorge fähig. Weiter seien die Flexibilität und
+Umstellungsfähigkeit des Beschwerdeführers massiv eingeschränkt. Er könne sich
+nicht auf neue Situationen einstellen, er reagiere stets mit den gleichen
+dysfunktionalen Verhaltensmustern. Auch soziale Kontakte pflege er kaum
+(Gerichtsakten G 13, S. 40). Die Gutachterin ist der Ansicht, dass der
+Beschwerdeführer spätestens ab Ende Januar 2023 keine gesundheitliche Verbesserung
+mehr erfahren habe und eine Verbesserung seines Zustands seither und dauerhaft
+nicht mehr möglich sei (Gerichtsakten G 13, S. 39).
+
+Gemäss der Gutachterin sei der Beschwerdeführer weder in der bisherigen
+noch in einer angepassten Tätigkeit einsetzbar und somit mindestens seit 1.
+September 2019 dauerhaft zu 100% arbeitsunfähig. Dies ergäbe sich aus den
+Akten, der Krankheitsanamnese, der fremdanamnestischen Angaben und ihrer
+eigenen Untersuchung vom 26. März 2024 (Gerichtsakte 13, S. 41). Weiter geht
+die Gutachterin auch auf die Einschätzung von Dr. F____ im psychiatrischen
+Verlaufsgutachten vom 13. August 2022 (IV-Akte 199) ein, der Beschwerdeführer
+sei in einer leidensangepassten Tätigkeit zu 60% arbeitsfähig. Diese Ansicht
+erachte sie als falsch, da der Beschwerdeführer nur im Rahmen einer geschützten
+und vorstrukturierten Lebenssituation in der Lage sei, ein Leben zu führen,
+indem er sich nicht durch Alkoholkonsum selbst zerstöre und keine Tendenzen von
+Aggressionen gegen Drittpersonen zeige (Gerichtsakten G 13, S. 41 f.). Generell
+sei über viele Jahre erfolglos versucht worden, die psychiatrischen
+Erkrankungen des Beschwerdeführers zu stabilisieren. Der Umstand, dass trotz
+vielfältiger Bemühungen nie eine dauerhafte Stabilisierung habe erreicht werden
+können, deute auf stark chronifizierte krankheitsbedingte Einschränkungen im
+Sinne einer Invalidität hin (Gerichtsakten G 13, S. 39).
+
+4.3. Dr. H____ hat ihr Gutachten in Kenntnis der relevanten Vorakten
+erstellt und diese ausführlich dargestellt und zusammengefasst (Gerichtsakten,
+G 13, S. 1 ff.). Zudem konnte sich die Gutachterin im Rahmen des
+Untersuchungsgesprächs ein eingehendes Bild vom Beschwerdeführer machen. Der
+Beschwerdeführer ist umfassend zu seiner Lebensgeschichte, zu seiner Familie,
+seinem Sozialleben, seinem beruflichen Werdegang, seiner Tagesstruktur, seiner
+Sucht und zu seinem jetzigen Leiden befragt worden (Gerichtsakten G 13, S. 16
+ff.). Sodann hat die Gutachterin Fremdanamnesen beim Betreuer der geschützten
+Wohnstätte, wo sich der Beschwerdeführer zurzeit aufhält, beim behandelnden
+Psychiater sowie bei der Dolmetscherin eingeholt (Gerichtsakten G 13 S. 26f).
+Gesamthaft betrachtet berücksichtigt die medizinische Beurteilung von Dr. H____
+die gesundheitliche Problematik des Beschwerdeführers umfassend und ist in der
+Beurteilung der medizinischen Situation schlüssig und nachvollziehbar.
+
+Hervorzuheben ist, dass der Einbezug von Fremdanamnesen dem Gutachten
+zusätzliche Objektivität verleiht und die übrige Anamnese komplementiert. Die
+Fremdanamnesen decken sich allesamt mit der Würdigung der Gutachterin, was
+deren Beurteilung noch weiter untermauert. Ausserdem hat sich Dr. H____
+intensiv mit dem psychiatrischen Gutachten von Dr. F____, worauf sich die
+IV-Stelle massgeblich stützt, auseinandergesetzt. Sie fasst Dr. F____ Gutachten
+prägnant zusammen und entkräftet auf plausible Art und Weise dessen Argumente.
+So sei nicht einleuchtend wie Dr. F____ trotz wiederholter Einweisungen in
+stark intoxikiertem Zustand, wiederholten Entzugsbehandlungen, einem
+langdauernden Aufenthalt in einer Fachklinik für Abhängigkeitserkrankungen
+sowie dem durch die Akten dokumentierten Krankheitsverlauf die Diagnose
+«episodischer Alkoholkonsum an den Wochenenden» gestellt habe. Generell weist
+Dr. H____ darauf hin, dass Dr. F____ nicht genügend Abklärungen bezüglich der
+Anamnese getroffen habe und der Untersuchungsbefund dürftig ausgefallen sei
+(Gerichtsakten G 13, S. 36). Auch merkt sie an, dass Dr. F____ Widersprüche des
+Beschwerdeführers bei anamnestischen Angaben bei der Diagnostik nicht
+analysiere (Gerichtsakten G 13, S. 37). Zusammenfassend führt sie aus, dass Dr.
+F____ bei seiner Begutachtung den wichtigen Längsschnitt der Erkrankung, die
+Anamnese über einen längeren Zeitraum, nur wenig berücksichtige (Gerichtsakten
+G 13, S. 38). Anzufügen bleibt, dass Dr. H____ den Schweregrad der Depression
+aufgrund des Alkoholkonsums des Beschwerdeführers zwar nicht hinlänglich
+eruieren konnte. Allerdings weist sie in diesem Zusammenhang auf den erst
+kürzlich erfolgten I____-Eintritt hin (vgl. Bericht der I____ vom 5. April
+2024, Gerichtsakte G 18), bei welchem eine Suizidalität, eine traurige
+Grundstimmung, Freudlosigkeit sowie Verlust des Selbstvertrauens, Gedächtnisverlust
+sowie Konzentrationsstörungen beschrieben wurden, weshalb gemäss ihren Angaben nach
+wie vor eine depressive Erkrankung vorliege (vgl. Gerichtsakte 13, S. 38f.). Zudem
+führt Dr. H____ in ihrem Gutachten nachvollziehbar aus, zwischen
+Alkoholabhängigkeit, depressiver Erkrankung, aber auch einer
+Persönlichkeitsstörung bestehe eine erhebliche Komorbidität, so dass nach all
+den Jahren, in denen die Abhängigkeit vorliege, diese drei Diagnosen nicht
+voneinander abgegrenzt werden könnten (Gerichtsakte 13, S. 37f.). Diese Aussage
+vermag das psychiatrische Gutachten denn auch nicht in Zweifel zu ziehen, kommt
+es doch gemäss bundesgerichtlicher Rechtsprechung nicht zwingend auf die genaue
+Diagnosestellung an, sondern einzig und alleine auf die objektivierbare
+Funktionseinschränkung (Urteil des Bundesgerichts vom 4. Oktober 2017
+[9C_474/2017], E. 4.1). Schliesslich merkt Dr. H____ diesbezüglich zu Recht an,
+dass bisher alle vorherigen Behandler wie die Ärzte der J____, der langjährige
+Behandler Dr. med. K____, Facharzt für Psychiatrie und Psychotherapie, die
+Ärzte der L____ sowie die Ärzte der I____ und der aktuelle Behandler Dr. med. M____,
+Facharzt FMH für Psychiatrie und Psychotherapie, dem Beschwerdeführer mehrere
+schwerwiegende Diagnosen attestiert hätten (Gerichtsakten G 13, S. 38). Auch
+vor diesem Hintergrund vermag die Beurteilung von Dr. H____, welche mit
+derjenigen der behandelnden Ärzte übereinstimmt, zu überzeugen.
+
+4.4. Zusammenfassend ist die Beurteilung von Dr. H____ umfassend,
+einleuchtend und widerspruchsfrei. Insbesondere geht sie im psychiatrischen
+Gutachten auf die Einschätzung von Dr. F____ detailliert ein und legt schlüssig
+dar, weshalb sie zu einer divergierenden Beurteilung gelangt. Aus all diesen
+Gründen kann die Beweistauglichkeit des psychiatrischen Gutachtens von Dr. H____
+vom 10. Juli 2024 bejaht werde, liegen doch keine konkreten Indizien gegen die
+Zuverlässigkeit der Expertise vor (vgl. E. 4.1.). Demnach ist in
+medizinisch-theoretischer Hinsicht von einer 100%igen Arbeitsunfähigkeit des
+Beschwerdeführers in der angestammten Tätigkeit als auch in einer angepassten
+Tätigkeit auch nach Juli 2022 auszugehen.
+
+5.
+
+In erwerblicher Hinsicht hat die IV-Stelle zur Berechnung des
+Invaliditätsgrads beim Validen- als auch beim Invalideneinkommen auf die
+Schweizerischen Lohnstrukturerhebungen (LSE) des Jahres 2020 abgestellt. Dabei
+ging sie bei beiden Einkommen von den gleichen Tabellen aus, wobei sie beim
+Invalideneinkommen keinen leidensbedingten Abzug gewährte (vgl. Verfügung vom
+27. Januar 2023, IV-Akte 227). Da die IV-Stelle bei der Berechnung des
+Invaliditätsgrades von der gleichen Grundlage ausgeht, kann die Arbeitsunfähigkeit
+mit dem Invaliditätsgrad gleichgesetzt werden. Dementsprechend lässt sich der
+Invaliditätsgrad bei einer 100%-igen Arbeitsunfähigkeit in sämtlichen
+Tätigkeiten mit 100% beziffern. Folglich hat der Beschwerdeführer auch über den
+30. September 2022 hinaus Anspruch auf eine ganze Invalidenrente.
+
+6.
+
+6.1. Aus diesen Erwägungen folgt, dass die Verfügung vom 27. Januar 2023
+aufzuheben und die Beschwerde gutzuheissen ist. Der Beschwerdeführer hat über
+den 30. September 2022 hinaus Anspruch auf eine ganze Rente.
+
+6.2. Da der Beschwerdeführer obsiegt, sind die ordentlichen Kosten,
+bestehend aus einer Gebühr von Fr. 800.--, der IV-Stelle aufzuerlegen.
+
+6.3. Ausgangsgemäss hat der Beschwerdeführer Anspruch auf eine
+Parteientschädigung. Bei der Bemessung der Parteientschädigung geht das Gericht
+von der Faustregel aus, dass bei der Überprüfung von Leistungen der
+Sozialversicherung bei Fällen mit durchschnittlichem Schwierigkeitsgrad und
+doppeltem Schriftenwechsel bei vollem Obsiegen eine Parteientschädigung in der
+Höhe von Fr. 3'750.-- nebst Mehrwertsteuer zugesprochen wird, wobei dieser
+Ansatz bei komplizierten Verfahren erhöht und bei einfachen Verfahren reduziert
+wird. Unter Berücksichtigung des Mehraufwandes infolge Stellungnahmen zum
+Gerichtsgutachten erscheint eine Erhöhung des Anwaltshonorars um Fr. 500.-- auf
+Fr. 4'250.-- als angemessen. Da die anwaltlichen Bemühungen zur Hauptsache im
+Jahr 2023 erfolgten, ist für 3/4 der Pauschale ein Mehrwertsteuersatz von 7.7%
+(Fr. 245.45) und für 1/4 der Pauschale ein Mehrwertsteuersatz von 8.1% (Fr.
+86.--) anzuwenden.
+
+6.4. Die Kosten für das psychiatrische Gerichtsgutachten vom 10. Juli
+2024 (Gerichtsakten G 13) in Höhe von Fr. 4'850.-- (vgl. Gerichtsakten G 14)
+sind von der IV-Stelle zu tragen, waren doch ihre Abklärungen ungenügend und
+konnte das Gerichtsgutachten die erwähnten Mängel beheben (vgl. BGE 143 V 269,
+283 E. 7.2 mit Hinweis auf BGE 139 V 496 E. 4.3 f.).
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        In Gutheissung der Beschwerde wird die
+Verfügung vom 27. Januar 2023 aufgehoben und die IV-Stelle verpflichtet, dem
+Beschwerdeführer ab 1. März 2021 und über den 30. September 2022 hinaus eine
+ganze Invalidenrente auszurichten.
+
+Die IV-Stelle trägt die ordentlichen Kosten,
+bestehend aus einer Gebühr von Fr. 800.--.
+
+Die IV-Stelle bezahlt dem Beschwerdeführer
+eine Parteientschädigung von Fr. 4'250.-- zuzüglich Mehrwertsteuer von Fr.
+331.45 (Fr. 245.45 + Fr. 86.--).
+
+Die Kosten für das psychiatrische Gerichtsgutachten in Höhe von Fr. 4'850.-- sind von der
+IV-Stelle zu tragen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder lic. iur.
+A. Gmür
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin           Bundesamt für Sozialversicherungen
+
+Versandt am:
