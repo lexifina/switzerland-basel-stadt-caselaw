@@ -1,0 +1,279 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.596"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.81"
+docket_2: "AG.2024.596"
+decided: "2024-10-23"
+published: "2025-04-25"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77527&W10_KEY=3048461&nTrefferzeile=241&Template=search_result_document.html"
+cites_decisions: ["1B_184/2021", "1B_349/2019", "1B_66/2020", "BGE 143 IV 373"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# Rechtsverzögerung (im Verfahren VT.[...])
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.81
+
+ENTSCHEID
+
+vom 23.
+Oktober 2024
+
+Mitwirkende
+
+lic. iur. Marc Oser
+
+und Gerichtsschreiber
+MLaw Dennis Zingg
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+[...]                                                                                         
+Beschuldigter
+
+vertreten durch [...], Advokat,
+
+[]
+
+gegen
+
+Staatsanwaltschaft Basel-Stadt Beschwerdegegnerin
+
+Binningerstrasse 21, Postfach,
+4001 Basel
+
+Gegenstand
+
+Beschwerde
+
+betreffend Rechtsverzögerung (im
+Verfahren VT.[...])
+
+Sachverhalt
+
+Die
+Staatsanwaltschaft Basel-Stadt führt gegen A____ (nachfolgend:
+Beschwerdeführer) ein Verfahren wegen des Verdachts auf eine einfache
+Verkehrsregelverletzung (Aktenzeichen VT.[...]). Namentlich wird der
+Beschwerdeführer verdächtigt, am 18. Juni 2021 seiner Aufmerksamkeitspflicht
+als verantwortlicher Sicherheitsbeauftragter für die Verkehrsregelung
+(Plantondienst) nicht nachgekommen zu sein und dadurch eine spätere Kollision
+zwischen einem Mitarbeitenden des Tiefbauamts und einem Personenwagen
+begünstigt zu haben.
+
+Der
+Beschwerdeführer wurde in diesem Zusammenhang am 2. März 2022 als beschuldigte
+Person vorgeladen. Am 20. Oktober 2022 wurde der Beschwerdeführer darüber
+informiert, dass das Verfahren an die Staatsanwaltschaft überwiesen worden sei.
+Der Beschwerdeführer wandte sich mit E-Mail vom 1. Juli 2024 und der Bitte um
+präzise Rückmeldung, wann mit dem Abschluss des Verfahrens gerechnet werden
+könne, an den verfahrensleitenden Staatsanwalt. Daraufhin wurde dem
+Beschwerdeführer mitgeteilt, dass das Verfahren so bald wie möglich
+abgeschlossen werde; eine präzisere Angabe sei leider nicht möglich.
+
+Mit Eingabe vom
+8. Juli 2024 hat der Beschwerdeführer eine Rechtsverzögerungsbeschwerde beim
+Appellationsgericht eingereicht. Er beantragt die Feststellung der
+Rechtsverzögerung und die Ansetzung einer Frist von 30 Tagen für die
+Anklageerhebung oder Einstellung des Verfahrens. Daraufhin hat die
+Staatsanwaltschaft mit Eingabe vom 31. Juli 2024 (Postaufgabe 5. August 2024) Stellung
+zur Beschwerde bezogen und deren vollumfängliche Abweisung beantragt. Aus der
+Stellungnahme der Staatsanwaltschaft ging hervor, dass die geschädigte Person
+am 21. Mai 2024 eine Desinteresseerklärung gegenüber der Staatsanwaltschaft
+abgegeben hat. Der Beschwerdeführer hat mit Eingabe vom 15. August 2024
+samt Einreichung einer Honorarnote für den angefallenen Aufwand repliziert.
+
+Der vorliegende
+Entscheid ist aufgrund der Akten ergangen. Die Einzelheiten der Standpunkte
+ergeben sich, soweit für den vorliegenden Entscheid von Bedeutung, aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gemäss
+Art. 393 Abs. 1 lit. a in Verbindung mit Art. 20 Abs. 1 lit. b der
+Schweizerischen Strafprozessordnung (StPO, SR 312.0) unterliegen Verfügungen
+und Verfahrenshandlungen der Staatsanwaltschaft der Beschwerde an die
+Beschwerdeinstanz. Mittels Beschwerde gerügt werden können gemäss Art. 393 Abs.
+2 lit. a StPO unter anderem eine Rechtsverweigerung und -verzögerung.
+Beschwerdefähig sind diesfalls auch Unterlassungen der Staatsanwaltschaft. Für
+die Beurteilung zuständig ist das Appellationsgericht als Einzelgericht (§ 88
+Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes
+[GOG, SG 154.100]), das gemäss Art. 393 Abs. 2 StPO mit freier Kognition
+urteilt. Beschwerden wegen formeller Rechtsverweigerung oder Rechtsverzögerung
+sind an keine Rechtsmittelfrist gebunden (Art. 396 Abs. 2 StPO; Guidon , in: Basler Kommentar, 3.
+Auflage, Art. 396 StPO N 17 f.). Die Beschwerde wird im schriftlichen
+Verfahren behandelt (Art. 397 Abs. 1 StPO).
+
+1.2 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheids hat (Art. 382 Abs. 1 StPO).
+Anspruch auf Verfahrensbeschleunigung hat insbesondere die beschuldigte Person.
+Der Beschwerdeführer ist als beschuldigte Person durch die gerügte
+Rechtsverzögerung unmittelbar in seinen rechtlich geschützten Interessen
+betroffen, weshalb er zur Beschwerde legitimiert ist. Auf die Beschwerde ist
+einzutreten.
+
+2.
+
+2.1 Der
+Beschwerdeführer macht geltend, dass auch nach der Bitte um eine präzise Angabe,
+wann mit dem Verfahrensabschluss gerechnet werden könne, keine präzisere Angabe
+als dass das Verfahren so bald wie möglich abgeschlossen werde, gegeben worden
+sei. Dies nachdem der Unfall bereits über drei Jahre zurückgelegen habe und der
+Beschwerdeführer seit über zwei Jahren nichts mehr gehört habe. Es sei
+unverständlich, weshalb die Staatsanwaltschaft für diesen Fall mehr als drei
+Jahre brauche, um Anklage zu erheben oder das Verfahren einzustellen. Zudem
+handle es sich um keinen aufwändigen Fall. In seiner Replik führt der
+Beschwerdeführer weiter an, dass allenfalls auf eine Beschwerde hätte
+verzichtet werden können, wenn die Staatsanwaltschaft den Beschwerdeführer über
+die Desinteresseerklärung des Geschädigten vom 21. Mai 2024 informiert oder sie
+diese zumindest in der E-Mail vom 2. Juli 2024 erwähnt hätte.
+
+2.2 Die
+Staatsanwaltschaft sieht den Grund für die lange Dauer des bisherigen Verfahrens
+in einer massiven Überlastung der Behörde. Aufgrund anderweitig hoher
+Arbeitsbelastung, mehrerer Haftfälle, mehrtägigen umfangreichen
+Gerichtsverhandlungen sowie ferienbedingter Abwesenheit sei es dem zuständigen
+Staatsanwalt nicht möglich gewesen, das Strafverfahren gegen den
+Beschwerdeführer und die übrigen Beteiligten abzuschliessen. Der möglichst
+beförderliche Abschluss solcher Strafverfahren sei aber auch aus Sicht der
+Staatsanwaltschaft wünschenswert. Voraussichtlich könne das Strafverfahren
+gegen den Beschwerdeführer gegen Ende September 2024 abgeschlossen werden.
+
+3.
+
+3.1 Zur
+Garantie eines gerechten Verfahrens nach Art. 29 Abs. 1 der Bundesverfassung
+(BV, SR 101) gehören der ausdrückliche Anspruch auf Beurteilung innert
+angemessener Frist und das Verbot der Rechtsverzögerung. Sie gelten in
+allgemeiner Weise für sämtliche Sachbereiche und alle Verfahren vor Gerichts-
+und Verwaltungsbehörden. Art. 5 StPO konkretisiert das Beschleunigungsgebot für
+den Bereich des Strafprozesses. Nach Abs. 1 dieser Bestimmung nehmen die
+Strafbehörden die Strafverfahren unverzüglich an die Hand und bringen sie ohne
+unbegründete Verzögerung zum Abschluss. Nach der bundesgerichtlichen
+Rechtsprechung wird der Anspruch auf Beurteilung innert angemessener Frist
+missachtet, wenn eine Sache über Gebühr verschleppt wird. Die Beurteilung der
+angemessenen Verfahrensdauer entzieht sich starren Regeln. Es ist vielmehr in
+jedem Einzelfall zu prüfen, ob sich die Dauer unter den konkreten Umständen als
+angemessen erweist. Der Streitgegenstand und die damit verbundene
+Interessenlage können raschere Entscheide erfordern oder längere
+Behandlungsperioden erlauben. Entscheidend sind auch der Umfang und die
+Komplexität der aufgeworfenen Sachverhalts- und Rechtsfragen. Kriterien für die
+Angemessenheit der Verfahrensdauer im Rahmen von Strafverfahren bilden etwa die
+Schwere des Tatvorwurfs, die Komplexität des Sachverhalts, die dadurch gebotenen
+Untersuchungshandlungen sowie das Verhalten der beschuldigten Person und
+dasjenige der Behörden. Strafverfahren sind zügig voranzutreiben, um die
+beschuldigte Person nicht unnötig über die gegen sie erhobenen Vorwürfe im Ungewissen
+zu lassen (BGE 143 IV 373 E. 1.3.1, 133 IV 158 E. 8, 130 I 269 E. 3.3, 124 I
+139 E. 2a). Eine Rechtsverzögerung liegt insbesondere vor, wenn die Behörde im
+Verfahren über mehrere Monate hinweg untätig gewesen ist (BGer 1B_184/2021 vom
+10. November 2021 E. 2.1, 1B_66/2020 vom 2. Dezember 2020 E. 3.1, 1B_349/2019
+vom 21. November 2019 E. 2.2; Wohlers ,
+in: Donatsch et al. [Hrsg.], Kommentar zur Schweizerischen Strafprozessordnung
+[StPO], 2. Auflage, Zürich 2020, Art. 5 N 9; vgl. auch Summers , in: Basler Kommentar, 3. Auflage, Basel 2023,
+Art. 5 StPO N 14), mithin das Verfahren respektive der Verfahrensabschnitt innert
+wesentlich kürzerer Zeit hätte abgeschlossen werden können ( Schmid/Jositsch , Handbuch des
+schweizerischen Strafprozessrechts, 4. Auflage, Zürich 2023, Rz. 147).
+Stellt die Beschwerdeinstanz eine Rechtsverweigerung oder Rechtsverzögerung
+fest, so kann sie der betreffenden Behörde Weisungen erteilen und für deren
+Einhaltung Fristen setzen (Art. 397 Abs. 4 StPO).
+
+3.2 Dem
+Beschwerdeführer ist zuzustimmen, dass die lange Untätigkeit der
+Staatsanwaltschaft in vorliegender Sache sachlich nicht zu begründen ist. Aus
+den Akten der Staatsanwaltschaft ergibt sich zudem, dass es sich um kein
+umfangreiches Verfahren handelt. Sodann wendet die Staatsanwaltschaft auch
+nichts ein, das gegen die Annahme einer Rechtsverzögerung sprechen würde.
+Tatsächlich ist aufgrund der staatsanwaltschaftlichen Tätigkeits- und
+Jahresberichte sowie aus den Medien bekannt, dass die Fallbelastung der
+Staatsanwaltschaft sehr hoch ist. Dass unter dem Druck einer hohen
+Geschäftslast sinnvolle Prioritäten gesetzt werden, ist nicht zu beanstanden
+und entspricht beispielsweise auch der Intention von Art. 5 Abs. 2 StPO, wonach
+Verfahren von Personen, die sich in Haft befinden, vordringlich durchgeführt
+werden müssen. Allerdings vermögen eine hohe Arbeitslast oder personelle
+Engpässe die übermässige Verfahrensdauer von bereits mehr als drei Jahren und
+die damit verbundene Ungewissheit für den Beschwerdeführer nicht zu
+rechtfertigen.
+
+Die
+Staatsanwaltschaft ist zudem bei ihrer Ankündigung, das Verfahren
+voraussichtlich bis Ende September 2024 abzuschliessen, zu behaften. Sofern das
+Verfahren nicht bereits erledigt ist, hat dies umgehend und innert 30 Tagen zu
+geschehen.
+
+4.
+
+4.1 Aus
+dem Gesagten folgt, dass die Rechtsverzögerungsbeschwerde für das
+staatsanwaltschaftliche Verfahren VT.[...] gutzuheissen ist. Bei diesem Ausgang
+des Verfahrens werden für das Beschwerdeverfahren keine Kosten erhoben.
+
+4.2 Der
+anwaltlich vertretene Beschwerdeführer hat Anspruch auf eine
+Parteientschädigung (Art. 436 Abs. 1 in Verbindung mit Art. 429 Abs. 1 lit. a
+StPO). Der Verteidiger des Beschwerdeführers hat zusammen mit der Replik vom 15.
+August 2024 eine Honorarnote eingereicht. Der darin geltend gemachte Aufwand
+ist mangels besonderer Komplexität mit dem praxisgemässen Stundenansatz von CHF
+250.  zu entschädigen (§ 19 Abs. 1 des Honorarreglements [HoR, SG
+291.400]). Daraus resultiert bei einem geltend gemachten Aufwand von 4,16
+Stunden eine Parteientschädigung von CHF 1'041.70 zuzüglich CHF 31.25
+Auslagenpauschale und 8,1 % MWST von CHF 86.90, insgesamt also von
+CHF 1'159.85.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Rechtsverzögerungsbeschwerde wird
+gutgeheissen und die Staatsanwaltschaft angewiesen, das Verfahren VT.[...]
+unverzüglich, spätestens innert 30 Tagen seit Erhalt dieses Entscheids, zum
+Abschluss zu bringen.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Dem Beschwerdeführer wird für das Beschwerdeverfahren zulasten der
+Staatskasse eine Parteientschädigung von CHF 1'159.85 (einschliesslich
+Auslagen und MWST) zugesprochen.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc
+Oser                                                      MLaw Dennis Zingg
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
