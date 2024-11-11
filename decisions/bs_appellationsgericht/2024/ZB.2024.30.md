@@ -1,0 +1,919 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.648"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "ZB"
+docket: "ZB.2024.30"
+docket_2: "AG.2024.648"
+decided: "2024-11-11"
+published: "2025-05-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77631&W10_KEY=3048461&nTrefferzeile=206&Template=search_result_document.html"
+cites_decisions: ["4A_536/2017", "4A_651/2012", "5A_312/2019", "5A_373/2018", "5A_418/2019", "5A_555/2013", "5A_629/2019", "5A_67/2021", "5A_722/2020", "5A_748/2022", "5A_800/2022", "5A_848/2015", "5A_928/2016", "BGE 141 III 569", "BGE 142 III 612", "BGE 144 III 349", "BGE 144 III 394", "EA.2023.15978", "ZB.2017.1", "ZB.2018.46", "ZB.2019.22", "ZB.2020.24", "ZB.2020.41", "ZB.2020.6", "ZB.2021.10", "ZB.2021.5", "ZB.2022.20", "ZB.2023.11", "ZB.2023.3", "ZB.2023.43", "ZB.2023.55", "ZB.2024.30", "ZB.2024.54"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-176.md", "switzerland/bund/acts/210/art-298.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-160.md", "switzerland/bund/acts/272/art-271.md", "switzerland/bund/acts/272/art-272.md", "switzerland/bund/acts/272/art-273.md", "switzerland/bund/acts/272/art-296.md", "switzerland/bund/acts/272/art-298.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-316.md", "switzerland/bund/acts/272/art-317.md"]
+---
+
+# Getrenntleben
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+ZB.2024.30
+
+ENTSCHEID
+
+vom 11.
+November 2024
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur. André Equey,
+
+Dr. phil. und MLaw Jacqueline
+Frossard
+
+und Gerichtsschreiberin
+MLaw Anna Bleichenbacher
+
+Parteien
+
+A____ Berufungskläger
+
+[...]                                                                                           
+    Ehemann
+
+vertreten durch [...], Rechtsanwalt,
+
+[...]
+
+gegen
+
+B____ Berufungsbeklagte
+
+[...]                                                                                                  
+Ehefrau
+
+vertreten durch [...], Advokat,
+
+[...]
+
+Gegenstand
+
+Berufung gegen einen
+Entscheid des Zivilgerichts
+
+vom 16. April 2024
+
+betreffend Getrenntleben
+
+Sachverhalt
+
+B____, geboren am [...] 1979, und A____, geboren am [...]
+1973, haben am [...] 2010 geheiratet. Sie sind Eltern der Kinder C____, geboren
+am [...] 2013, und D____, geboren am [...] 2016. Auf Gesuch der Ehefrau vom 14.
+November 2023 wurde das Eheschutzverfahren beim Einzelgericht in Familiensachen
+des Zivilgerichts Basel-Stadt eingeleitet. Mit Entscheid vom 16. April 2024 hat
+das Zivilgericht den Ehegatten das seit Auszug des Ehemannes aus der ehelichen
+Wohnung anfangs April 2024 bestehende Getrenntleben bestätigt (Ziff. 1) und
+festgestellt, dass die Kinder C____ und D____ in der alternierenden Obhut
+beider Eltern stehen, wobei sie behördlich bei der Mutter angemeldet bleiben.
+Die Betreuung der Kinder durch die Eltern wurde «vorläufig und bis zu einem
+anderslautenden Entscheid des Gerichts wie folgt» geregelt:
+
+«Der Vater betreut die Kinder
+wöchentlich am Dienstagnachmittag ab Schulschluss bis Mittwochabend 18.00 Uhr
+und vierzehntäglich von Freitagnachmittag nach Schulschluss bis Sonntagabend
+18.00 Uhr.
+
+In der übrigen Zeit werden die
+Kinder von der Mutter betreut.
+
+Die Kinder verbringen die
+Schulferien je hälftig bei den Eltern. Die anstehenden Sommerferien 2024
+verbringen sie drei Wochen mit der Mutter und drei Wochen mit dem Vater bzw.
+sind die Eltern je für drei Wochen für die Betreuung der Kinder zuständig.
+
+Die Kinder verbringen die
+Feiertage im Wechsel bei den Eltern, indem sie z.B. Auffahrt und
+Auffahrtsbrücke bei der Mutter und danach Pfingsten beim Vater sind» (Ziff. 2).
+
+Weiter wurde «eine Beratung der Eltern angeordnet,
+insbesondere mit den Zielen
+
+-    der
+Verbesserung der Kommunikation zwischen den Eltern,
+
+-   der
+Verbesserung der Kommunikation der Eltern gegenüber den Kindern, vor allem wie
+sie mit den Kindern über den anderen Elternteil sprechen,
+
+-    einer
+einvernehmlichen Regelung über die Ausgestaltung der Betreuung der beiden
+Kinder C____, geb. [...] 2013, und D____, geb. [...] 2016, und über einen
+Ausbau der Betreuungsanteile des Vaters,
+
+-    der
+Sensibilisierung der Eltern für die Bedürfnisse ihrer Kinder sowie
+
+-    der
+Kompetenzerlangung der Eltern, die Kinder nicht in ihren Konflikt
+hineinzuziehen und die Kinder möglichst nicht in einen Loyalitätskonflikt zu
+bringen» (Ziff. 3).
+
+Der Entscheid über den Unterhalt sowie die Kosten wurde für
+einen späteren Zeitpunkt in Aussicht gestellt (Ziff. 4) und es wurde
+festgestellt, dass dieser Entscheid mit seiner Zustellung vollstreckbar ist.
+Auf Gesuch des Ehemanns vom 25. April 2024 wurde den Ehegatten der Entscheid
+mit schriftlicher Begründung am 26. Juni 2024 zugestellt.
+
+Gegen diesen Entscheid hat der Ehemann mit Eingabe vom 8.
+Juli 2024 beim Appellationsgericht Berufung erhoben mit folgenden Anträgen:
+
+«1.  Dispositivziff.
+2 des Entscheids des Zivilgerichts des Kantons Basel-Stadt vom 16.04.2024
+(EA.2023.15978) sei aufzuheben und durch folgende Fassung zu ersetzen:
+
+ Die Kinder C____,
+geboren am [...] 2013, und D____, geboren am [...] 2016, stehen in der
+alternierenden Obhut beider Eltern. Sie bleiben behördlich bei der Mutter
+angemeldet.
+
+Die Eltern betreuen die Kinder
+bis zu einem anderslautenden Entscheid des Gerichts wie folgt:
+
+Der Vater betreut die Kinder in
+geraden Wochen, jeweils ab Montagabend 18.00 Uhr bis Mittwochabend, 18.00 Uhr
+und ab Freitagabend, 18.00 Uhr, bis Mittwochabend, 18.00 Uhr, der darauffolgenden
+ungeraden Kalenderwoche; Die Kinder fahren dabei selbständig zum Vater und
+zurück.
+
+In der übrigen Zeit werden die
+Kinder von der Mutter betreut.
+
+Die Kinder verbringen die
+Schulferien je hälftig bei den Eltern. Die anstehenden Sommerferien 2025
+verbringen sie drei Wochen mit der Mutter und drei Wochen mit dem Vater bzw.
+sind die Eltern je für drei Wochen für die Betreuung der Kinder zuständig.
+
+Die Kinder verbringen die
+Feiertage im Wechsel bei den Eltern, indem sie z.B. Auffahrt und
+Auffahrtsbrücke bei der Mutter und danach Pfingsten beim Vater sind. 
+
+2.    Es ist
+eine Kinderanhörung von D____ betreffend Obhutsregelung anzuordnen.
+
+3.    Editionsantrag:
+Ehefrau sei zu verpflichten, unter Vorlage ihrer medizinischen Unterlagen von
+Psychotherapeutin und Eheberaterin [...] Auskunft über ihre psychiatrische
+Diagnose zu erteilen.
+
+4.    Alles
+unter Kosten- und Entschädigungsfolge (zzgl. MwSt.) zulasten der
+Berufungsbeklagten.»
+
+Die Ehefrau beantragt mit Berufungsantwort vom 9. August 2024
+die kosten- und entschädigungsfällige Abweisung der Berufung. Hierzu hat der
+Berufungskläger mit Eingabe vom 16. August 2024 repliziert. Die Einzelheiten der
+Parteistandpunkte ergeben sich, soweit sie für den Entscheid von Bedeutung sind,
+aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Gegenstand des angefochtenen Entscheids des
+Zivilgerichts vom 16. April 2024 sind Massnahmen zum Schutz der ehelichen
+Gemeinschaft im Sinn von Art. 271 der Schweizerischen Zivilprozessordnung (ZPO,
+SR 272). Dieser Entscheid ist gemäss Art. 308 Abs. 1 lit. b ZPO mit Berufung
+anfechtbar. Die Berufung richtet sich gegen die Regelung der Betreuungsanteile
+der gemeinsamen Kinder. Streitig sind nicht vermögensrechtliche Aspekte der
+Regelung des Getrenntlebens, sodass insgesamt kein Streitwerterfordernis gilt
+(vgl. BGer 5A_629/2019 vom 13. November 2020 E. 1.1; AGE ZB.2023.3 vom 30. Mai
+2023 E. 1.1). Für Massnahmen zum Schutz der ehelichen Gemeinschaft ist das
+summarische Verfahren anwendbar (Art. 271 ZPO).
+
+1.2
+
+1.2.1 Für die Beurteilung dieser strittigen
+Kinderbelange gilt gemäss Art. 296 Abs. 1 und 3 ZPO der uneingeschränkte Untersuchungsgrundsatz
+und der Offizialgrundsatz (AGE ZB.2020.24 vom 1. Oktober 2020 E. 2.1). Im
+Geltungsbereich der uneingeschränkten Untersuchungsmaxime können die Parteien
+im Berufungsverfahren neue Tatsachen und Beweismittel auch dann vorbringen,
+wenn die Voraussetzungen von Art. 317 Abs. 1 ZPO nicht erfüllt sind (BGE 144
+III 349 E. 4.2.1). Im Geltungsbereich der Offizialmaxime entscheidet das
+Gericht ohne Bindung an die Parteianträge (Art. 296 Abs. 3 ZPO). Dies
+bedeutet insbesondere, dass es Entscheide auch ohne entsprechende Anträge
+treffen kann. Zudem gilt das Verschlechterungsverbot (Verbot der reformatio in
+peius) nicht (AGE ZB.2020.24 vom 1. Oktober 2020 E. 2.1).
+
+1.2.2 Dabei sind die Parteien auch bei Geltung des
+uneingeschränkten Untersuchungsgrundsatzes nicht davon befreit, bei der
+Feststellung des entscheidrelevanten Sachverhaltes im Sinne einer prozessualen
+Obliegenheit aktiv mitzuwirken und die allenfalls zu erhebenden Beweise zu
+bezeichnen (vgl. Art. 160 Abs. 1 ZPO). Folglich tragen sie auch insoweit die
+Verantwortung für die Sachverhaltsermittlung und den Nachteil des fehlenden
+Beweises für einen für sie günstigeren Sachverhalt (vgl. Sutter-Somm/Hofstetter , in: Sutter-Somm
+et al. [Hrsg.], Kommentar zur ZPO, 3. Auflage, Zürich 2016, Art. 272 N 11
+mit Hinweisen; Bähler , a.a.O.,
+Art. 272 ZPO N 4; Six ,
+Eheschutz, Ein Handbuch für die Praxis, 2. Auflage, Bern 2014, N 1.01; Maier/Vetterli , in: Fankhauser [Hrsg.],
+FamKomm Scheidung, 4. Auflage, Bern 2022, Band II, Art. 272 ZPO N 2b; BGE 141
+III 569 E. 2.3.3, 138 III 374 E. 4.3.1; BGer 4A_651/2012 vom 7. Februar 2013 E.
+4.3; AGE ZB.2021.5 vom 14. Januar 2022 E. 1.2.2 mit weiteren Hinweisen; Jeandin , in: Commentaire romand, 2.
+Auflage, Basel 2019, Art. 311 CPC N 3). Abgesehen von offensichtlichen Mängeln
+hat sich das Berufungsgericht grundsätzlich auf die Beurteilung der in der
+Berufung und gegebenenfalls in der Berufungsantwort gegen den erstinstanzlichen
+Entscheid erhobenen relevanten Beanstandungen zu beschränken (BGE 144 III 394
+E. 4.1.4 und 4.3.2.1, 142 III 413 E. 2.2.4; BGer 4A_536/2017 vom 3. Juli
+2018 E. 3.2; AGE ZB.2021.5 vom 14. Januar 2022 E. 1.2.2 mit weiteren
+Hinweisen). Die hinreichend begründeten Rügen der Parteien geben mithin das
+Prüfungsprogramm der Berufungsinstanz vor. Bei dieser Prüfung ist das
+Berufungsgericht weder an die Erwägungen der ersten Instanz noch an die
+Argumente der Parteien gebunden. Es verfügt über freie Kognition und wendet das
+Recht von Amtes wegen an (AGE ZB.2022.20 vom 24. April 2023 E. 1.5.5, ZB.2021.5
+vom 14. Januar 2022 E. 1.2.2 mit weiteren Hinweisen). Dies gilt umso mehr im
+summarischen Verfahren (AGE ZB.2022.20 vom 24. April 2023 E. 1.5.5, ZB.2021.5
+vom 14. Januar 2022 E. 1.2.2, ZB.2020.24 vom 1. Oktober 2020 E. 2.1, ZB.2019.22
+vom 10. Oktober 2019 E. 1.5).
+
+1.2.3 Im Eheschutzverfahren genügt es, die
+behaupteten Tatsachen glaubhaft zu machen (BGer 5A_928/2016 vom 22. Juni 2017
+E. 3.2; 5A_848/2015 vom 4. Oktober 2016 E. 3.1, 5A_555/2013 vom 29. Oktober 2013
+E. 3.1; AGE ZB.2021.5 vom 14. Januar 2022 E. 1.2.2, ZB.2020.41 vom 3. März
+2021 E. 1.2.3 mit weiteren Hinweisen, ZB.2017.1 vom 5. Mai 2017 E. 2.2).
+
+1.3 Zuständig für die Beurteilung der Berufung
+ist ein Dreiergericht des Appellationsgerichts (§ 92 Abs. 1 Ziff. 6 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Nach Art. 316 Abs. 1
+ZPO kann die Rechtsmittelinstanz eine Verhandlung durchführen oder aufgrund der
+Akten entscheiden. In summarischen Verfahren ist allerdings regelmässig von der
+Durchführung einer mündlichen Berufungsverhandlung abzusehen (AGE ZB.2020.41
+vom 3. März 2021 E. 1.1, ZB.2020.6 vom 18. Juni 2020 E. 1.1, ZB.2018.46 vom 23.
+Januar 2019 E. 1.3; vgl. Reetz/Hilber ,
+in: Sutter-Somm et al. [Hrsg.], Kommentar zur ZPO, 3. Auflage, Zürich 2016,
+Art. 314 N 13 und Art. 316 N 7; Steininger ,
+in: Brunner et al. [Hrsg.], ZPO Kommentar, 2. Auflage, Zürich 2016, Art. 316 N
+8). Art. 316 Abs. 1 ZPO geht als Spezialbestimmung für das Berufungsverfahren
+Art. 273 Abs. 1 ZPO vor, weshalb diese Bestimmung das Ermessen der
+Berufungsinstanz beim Entscheid, ob sie eine Verhandlung durchführt oder
+aufgrund der Akten entscheidet, nicht einschränkt (vgl. Seiler , Die Berufung nach ZPO, Zürich 2013, N 1161). Der
+vorliegende Entscheid kann daher auf dem Zirkulationsweg ergehen.
+
+2.
+
+Mit dem angefochtenen Entscheid hat das Zivilgericht die
+alternierende Obhut der Eltern über ihre beiden Kinder C____ und D____
+angeordnet. Dies ist zwischen den Parteien nicht strittig. Strittig sind allein
+die Betreuungsanteile der Eltern.
+
+2.1 Mit dem angefochtenen Entscheid wurde der
+Anteil der Betreuung der Kinder durch den Vater im Rahmen der alternierenden
+Obhut auf den Zeitraum von jeweils Dienstagnachmittag ab Schulschluss bis
+Mittwochabend 18.00 Uhr und in jeder zweiten Woche von Freitagnachmittag nach
+Schulschluss bis Sonntagabend 18.00 Uhr festgelegt. Hinzu kommt die Betreuung
+während der Hälfte der Schulferien und im Wechsel an den Feiertagen.
+
+Mit Bezug auf diesen Umfang und die vorgenommene
+Ausgestaltung der Betreuungsanteile hat die Vorinstanz mit dem angefochtenen
+Entscheid erwogen, dass die Wohnsituation der Ehegatten mit jeweils geräumigen
+Wohnungen in naher Distanz zueinander eine alternierende Obhut grundsätzlich
+ohne weiteres erlaube, zumal es den Kindern ohne weiteres möglich sei, jederzeit
+selbständig von einer Wohnung in die andere und zur Schule zu gehen. Auch das
+Alter und der von C____ anlässlich ihrer Anhörung geäusserte Wunsch, dass beide
+Eltern zu einem hohen Anteil an ihrer Betreuung beteiligt sein sollen, spreche
+für eine alternierende Obhut respektive stehe ihr nicht entgegen. Als
+problematisch erkannte die Vorinstanz aber den starken Konflikt zwischen den
+Eltern, welcher sich in ihren Eingaben und in ihren Äusserungen an den
+Verhandlungen gezeigt habe. Für eine gemeinsame Betreuung sei aber eine
+vernünftige Kommunikation miteinander unerlässlich. Die Eltern müssten es
+unterlassen, die beiden Kinder in ihren Streit einzubeziehen und sie auf diese
+Weise einem Loyalitätskonflikt auszusetzen. Unklar erscheine auch, ob und
+inwieweit sich die Gesundheit von D____ auf die Ausgestaltung der
+Betreuungsanteile der Eltern auswirken solle. Es sei offen, ob der Sohn
+besondere Bedürfnisse in Bezug auf den Umfang und den Rhythmus des Kontakts zu
+beiden Eltern hat. Unklar sei auch die Arbeitssituation des Ehemanns. Unter
+Berücksichtigung des Schreibens seines Arbeitgebers vom 1. Februar 2024 sei
+nicht klar, in welchem Umfang und zu welchen Zeiten er die Betreuung der beiden
+Kinder übernehmen könne. Aus der Bestätigung sei nicht ersichtlich, wie oft der
+Ehemann an seinem Arbeitsort in Zürich wöchentlich bzw. pro Monat anwesend sein
+müsse und wie frei er seine Arbeits- und Anwesenheitszeiten in Zürich einteilen
+könne. Die derzeit geltende Homeofficeregelung könne sich ändern. Er gehe zudem
+einer Vollzeiterwerbstätigkeit im Anstellungsverhältnis nach. Er und die Kinder
+würden nun in den kommenden Wochen und Monaten erfahren, wie er neben einem
+100%-igen Arbeitspensum, eingebunden in die Arbeitsorganisation seiner
+Arbeitgeberin, die Kinder zu einem erheblichen Anteil in seiner Wohnung
+betreuen und die anfallenden Haushaltsarbeiten erledigen kann und wie sich
+diese Aufgaben etwa auf seine Zeiten für seine Erholung auswirken werden. Diese
+Erfahrungen wie auch jene seiner Ehefrau und der ganzen Familie könnten dann
+bei einer kommenden Überprüfung der Regelung der Betreuung berücksichtigt
+werden. Es sei daher im Sinne einer vorläufigen Regelung dem Antrag der Ehefrau
+zu folgen. Dabei sei eine Entwicklung in Richtung Ausdehnung der
+Betreuungszeiten des Vaters grundsätzlich möglich, was nach gemachten ersten
+Erfahrungen der Familie mit der Situation des Getrenntlebens beurteilt werden
+könne. Dabei spiele auch eine Rolle, ob und wie es die Eltern schafften, wieder
+besser miteinander umzugehen, und wie sie gegenüber den Kindern übereinander
+sprechen.
+
+2.2 Mit seiner Berufung rügt der Berufungskläger,
+dass die Vorinstanz bei der Beurteilung der Betreuungsanteile es
+fälschlicherweise unterlassen habe, die mit Eingabe vom 25. April 2024
+eingereichte Bestätigung seiner Arbeitgeberin bezüglich seiner Arbeitszeit zu
+beachten, und aktenwidrig davon ausgegangen sei, dass er Weisungen seiner
+Arbeitgeberin bezüglich der Arbeitszeiten einhalten müsse. Sie habe dabei bloss
+das veraltete Schreiben der Arbeitgeberin vom 1. Februar 2024 berücksichtigt
+und auch die Vereinbarung über Verzicht auf Arbeitszeiterfassung vom 3. Januar
+2024 ausser Acht gelassen. Er habe damit seine zeitliche Flexibilität und
+Weisungsfreiheit in Bezug auf Arbeitszeiten zumindest ausreichend glaubhaft gemacht.
+Er bestreitet die Auffassung der Vorinstanz, wonach es sich dabei um eine bloss
+«derzeit geduldete Regelung, die in Zukunft wieder geändert» werde, handle. Die
+Vorinstanz gehe fälschlicherweise davon aus, dass er kein Betreuungskonzept und
+keinen Plan habe, wie er die Kinderbetreuung neben seiner Arbeitsorganisation
+leisten könne. Sie habe dabei den mit Eingabe vom 25. April 2024 eingereichten
+genauen Betreuungsplan mit dem von ihm beantragten «2-2-5 Modell»
+unberücksichtigt gelassen. Er könne damit seine Arbeitszeiten um die
+Betreuungszeiten, inklusive Hausaufgaben, Kochen, Putzen und Wäschewaschen für
+die Kinder so organisieren, so dass er auch noch ausreichend Erholungszeit
+haben werde.
+
+Weiter rügt der Berufungskläger, dass die Vorinstanz die vor
+der Trennung gelebte geteilte hälftige Obhut der Eltern nicht berücksichtigt
+habe. Er habe die Kinder vor der Trennung seit der Geburt mindestens zur Hälfte
+betreut, hierfür sein Pensum reduziert und damit der Ehefrau den Aufbau eines
+erfolgreichen Unternehmens ermöglicht. Er bestreitet dabei die Behauptung der
+Ehefrau, dass er in der Vergangenheit nicht wegen der Kinderbetreuung, sondern
+aufgrund seines angeblichen gesundheitlichen Zustandes Teilzeit gearbeitet
+habe. Er weist dabei vielmehr auf gesundheitliche Probleme der Ehefrau nach der
+Geburt von C____ hin, aufgrund derer er beinahe 100 % der Kinderbetreuung
+übernommen und seine Karriere beendet habe. Er habe dabei die Kinderbetreuung
+während dreier Jahre gewährleistet, während die Ehefrau wieder zur Arbeit
+gegangen sei und begonnen habe, ihr Geschäft aufzubauen. Er habe auch den Sohn D____
+ab Februar bis Juli 2022 während dessen Besuch der [...] so gut wie immer
+begleitet. Der während des Zusammenlebens gelebten hälftigen Obhut entspreche
+daher auch der Umstand, dass die Ehefrau ursprünglich zu einem Nestmodell
+tendiert habe. Auch C____ habe in der Anhörung zum Ausdruck gebracht, dass sie
+es sich seltsam vorstelle, wenn ihr Vater nicht wie gewohnt ihren Bruder über
+den Mittag abhole und nach Hause bringe und sie dann zusammen seien. Die
+Vorinstanz habe daher aktenwidrig festgestellt, dass er es nicht gewohnt sei, den
+Haushalt, Kinderbetreuung und Arbeit unter einen Hut zu bringen. Die Ehefrau
+habe demgegenüber nicht nachgewiesen, dass sie seit der Geburt der Kinder
+jemals in Teilzeit gearbeitet und die Kinder zu mindestens 50 % betreut habe.
+Demgegenüber habe er mehrere Arbeitsverträge mit reduziertem Pensum belegt. Mit
+der Festsetzung der Betreuungsanteile habe die Vorinstanz damit gegen das
+Prinzip der Stabilität und Kontinuität der familiären Verhältnisse durch das
+Beibehalten der während des Zusammenlebens gelebten hälftig geteilten Obhut
+verstossen und diese ohne Not durch eine Betreuungsregelung ersetzt, bei der
+die Kinder den Vater weniger sehen als die Mutter. Der Berufungskläger
+bestreitet, in der Vergangenheit aufgrund gesundheitlicher Probleme mit
+reduziertem Pensum gearbeitet zu haben und macht geltend, dass die Ehefrau von
+2013 bis 2016 aufgrund schwerer postnataler Depressionen nicht in der Lage
+gewesen sei, für C____ zu sorgen.
+
+Die Vorinstanz behandle damit die Elternteile nicht gleich,
+indem sie an den Ehemann strengere Anforderungen bezüglich der Kinderbetreuung
+stelle als an die Ehefrau, obwohl sie beide ein 100 % Pensum hätten und betreffend
+Arbeitszeiten gleich weisungsfrei seien. Auch die Ehefrau sei genauso eng in
+ihre Arbeitszeiten eingebunden und habe nicht belegt, dass sie ein Pensum von
+weniger als 100 % habe. Sie behaupte dabei bloss, dass sie angeblich ein
+Netzwerk von Freelancern haben soll und ihre Buchhaltung ausgelagert habe,
+reiche aber keinen einzigen Nachweis dafür ein, dass sie im reduzierten Pensum
+arbeiten könne. Die Vorinstanz setze sich denn auch nicht damit auseinander,
+wie die Ehefrau ihr 100 % Pensum um die Betreuung der Kinder und mit
+ausreichenden Erholungszeiten organisieren solle, wenn er selber die Betreuung der
+Kinder nicht zu 50 % übernehmen darf. Auch sie müsse daher zuerst in Erfahrung
+bringen, wie sie ihre Arbeitszeiten in seiner Abwesenheit um die
+Kinderbetreuung organisieren könne.
+
+Weiter rügt der Berufungskläger, dass die Vorinstanz
+aktenwidrig den Wunsch der Kinder nicht berücksichtigt habe. So habe C____
+sowohl in der Kinderanhörung wie auch mit dem unberücksichtigt gebliebenen Brief
+vom 12. April 2024 ihren Wunsch geäussert, hälftig beim Vater wohnen zu wollen.
+D____ sei gar nicht angehört worden, obwohl er sich bereit erklärt habe, seine
+Unzufriedenheit direkt gegenüber dem Gericht zu äussern. Der Berufungskläger
+beantragt daher, dass dem Sohn gestützt auf Art. 298 Abs. 1 ZPO erneut
+Gelegenheit zu geben sei, sich zu äussern.
+
+Schliesslich wirft der Berufungskläger der Vorinstanz vor, das
+«merkwürdige kontrollierende und vollkommen respektlose Verhalten» der Ehefrau ihm
+gegenüber nicht berücksichtigt zu haben, welches sich allein mit ihrer
+fehlenden Bindungstoleranz erklären lasse.
+
+2.3 Mit ihrer Berufungsantwort weist die
+Berufungsbeklagte auf die vorläufige Natur der angefochtenen Betreuungsregelung
+und darauf hin, dass die Arbeitssituation des Ehemannes nur einer der Gründe
+für diese Betreuungsregelung gewesen sei. Primär habe die Vorinstanz darauf
+hingewiesen, dass der starke Elternkonflikt problematisch sei und für eine
+gemeinsame Betreuung der Kinder die Eltern wieder in der Lage sein müssten,
+vernünftig miteinander zu kommunizieren. Dafür sei eine Beratung der Eltern
+angeordnet worden, welche nun bei Herrn [...], UPK Basel-Stadt, im Gange sei.
+Sie macht geltend, nicht wie der Ehemann zu 100 % unselbständig, sondern bloss
+zu 6080 % selbständig mit einer hohen zeitlichen Flexibilität zu arbeiten. Sie
+sei im Gegensatz zum Ehemann «aufgrund ihrer Selbständigkeit vollkommen frei
+und flexibel, wenn es um die Einteilung ihrer Arbeit» gehe. Aus dem Verzicht
+auf eine Arbeitszeiterfassung könne bei ihm nicht auf eine völlige
+Weisungsfreiheit geschlossen werden. Mit Bezug auf die schriftliche Bestätigung
+der Arbeitgeberin weist sie darauf hin, dass diese am 25. April 2024 nach
+Erlass des angefochtenen Entscheids eingereicht worden sei. Die entsprechende
+Zusicherung könne auch wieder zurückgezogen werden, zumal der Arbeitsort
+weiterhin Zürich sei. Der mit Eingabe vom 25. April 2024 eingereichte
+Betreuungsplan sei im Zeitpunkt des angefochtenen Entscheids noch nicht
+vorgelegen. Der Ehemann scheine dabei zu vergessen, dass Kinderbetreuung und
+Homeoffice nicht parallel stattfinden könnten, wie er sich das gemäss seinem
+Betreuungsplan vorzustellen scheine. Er widerlege damit seine Aussage, wonach
+er seine Arbeitszeiten um die Betreuungszeiten, inklusive Hausaufgaben, Kochen,
+Putzen und Waschen, organisieren könne, mit dem eingereichten Plan gleich
+selbst, zumal sich Betreuungs- und Arbeitszeiten überschneiden würden.
+
+Weiter macht die Berufungsbeklagte geltend, sich während des
+Zusammenlebens überwiegend um die Kinder gekümmert zu haben, da der Ehemann mit
+seinen psychischen Problemen oftmals und über längere Zeit nicht in der Lage gewesen
+sei, sich überhaupt um die Kinder zu kümmern. Seine psychischen Probleme hätten
+auch eine Psychotherapie von C____ notwendig gemacht und zu diversen
+Berufsunterbrüchen geführt. Sie habe auch ihren Sohn in die [...] begleitet. Diese
+Probleme seien der Grund für seine Teilzeitarbeit gewesen. Demgegenüber
+bestreitet sie, an einer postnatalen Depression gelitten zu haben. Sie stelle
+die Interessen der Kinder ins Zentrum, anstatt auf Prozentzahlen zu beharren.
+Für die Regelung der Betreuungsmodalitäten sei auf die vom Gericht angeordnete
+Beratung abzustellen. Dabei sei auch der Autismusdiagnose bei D____ für die Festsetzung
+der definitiven Betreuungsregelung in diesem Rahmen besondere Beachtung zu
+schenken. Mit Bezug auf den geäusserten Kinderwillen macht die Ehefrau geltend,
+dass C____ ihren Brief unter Beeinflussung des Vaters geschrieben habe, was
+bereits aus dem Hinweis auf das Aktenzeichen hervorgehe. D____ habe klar
+mitgeteilt, an der Anhörung nicht teilnehmen zu wollen. Schliesslich weist die
+Ehefrau auf Probleme im Zusammenhang mit den Übergaben der Kinder hin, welche
+eine verminderte Bindungstoleranz des Vaters belegen würden.
+
+3.
+
+3.1 Vorliegend ist weder von der Vorinstanz noch
+von den Parteien bestritten worden, dass die alternierende Obhut der Ehegatten
+über ihre beiden Kinder möglich ist und dem Wohl der Kinder entspricht. Die von
+der Vorinstanz in Anwendung von Art. 298 Abs. 2 ter ZGB
+angeordnete alternierende Obhut über ihre beiden Kinder wird daher von den
+Parteien nicht in Frage gestellt. Strittig sind aber die Betreuungsanteile der
+beiden Elternteile, zumal die Anordnung der alternierenden Obhut nicht voraussetzt,
+dass beide Eltern die Kinder je hälftig betreuen (BGer 5A_722/2020 vom 13. Juli
+2021 E. 3.1.2, und 3.4.2, 5A_373/2018 vom 8. April 2019 E. 3.1; vgl. auch BGer
+5A_418/2019 vom 29. August 2019 E. 3.5.2; Maier/Vetterli ,
+in: Fankhauser [Hrsg.], FamKomm Scheidung, a.a.O., Band I, Art. 176 ZGB N 1g; Büchler/Clausen , in: Fankhauser [Hrsg.],
+FamKomm Scheidung, a.a.O., Band I, Art. 298 ZGB N 6a).
+
+3.2 Daraus folgt, dass die Erziehungsfähigkeit
+beider Elternteile als Grundvoraussetzung für die Anordnung alternierender
+Obhut nicht strittig ist (BGE 142 III 612 E. 4.3; BGer 5A_312/2019 vom 17.
+Oktober 2019 E. 2.1.2; AGE ZB.2021.10 vom 15. Mai 2022 E. 2.1.2). Nicht
+bestritten sind auch der Bestand von Bindungen der Kinder zu beiden
+Elternteilen und eine günstige Wohnsituation, welche es nach der unbestritten
+gebliebenen Feststellung der Vorinstanz den Kindern ohne weiteres erlaubt,
+jederzeit selbständig von einer Wohnung in die andere und zur Schule zu gehen.
+Demgegenüber bestehen Differenzen in der Beurteilung der Fähigkeit und
+Bereitschaft der Eltern, in den Kinderbelangen miteinander zu kommunizieren und
+zu kooperieren (BGE 142 III 612 E. 4.3; BGer 5A_312/2019 vom 17. Oktober 2019
+E. 2.1.2; AGE ZB.2021.10 vom 15. Mai 2022 E. 2.1.2), bezüglich der Stabilität
+der Kinderbetreuung (BGE 142 III 612 E. 4.3; BGer 5A_312/2019 vom 17. Oktober
+2019 E. 2.1.2; AGE ZB.2021.10 vom 15. Mai 2022 E. 2.1.2; Büchler/Clausen , a.a.O., Art. 298 ZGB N
+9e; Schwenzer/Cottier , a.a.O.,
+Art. 298 ZGB N 5 und 7a) bzw. der Kontinuität der Betreuungsverhältnisse (AGE
+ZB.2021.10 vom 15. Mai 2022 E. 2.1.2; Schwenzer/Cottier ,
+in: Basler Kommentar, 7. Auflage 2022, Art. 298 ZGB N 7a), der Möglichkeit der
+Eltern, die Kinder persönlich zu betreuen (BGE 142 III 612 E. 4.3; AGE
+ZB.2021.10 vom 15. Mai 2022 E. 2.1.2) und der Bedürfnisse und der Wünsche der
+Kinder (BGE 142 III 612 E. 4.3; BGer 5A_312/2019 vom 17. Oktober 2019 E. 2.1.2;
+AGE ZB.2021.10 vom 15. Mai 2022 E. 2.1.2) als weitere Kriterien für die
+konkrete Gestaltung der Betreuungsanteile der beiden Elternteile im Rahmen der
+alternierenden Obhut.
+
+3.3 Soweit die Vorinstanz wie auch die Ehefrau
+als problematischen Punkt für eine weitere Ausdehnung des Betreuungsanteils des
+Vaters auf den starken Konflikt zwischen den Eltern, welcher sich in ihren
+Eingaben und in ihren Äusserungen an den Verhandlungen gezeigt habe, verwiesen
+haben, kann ihnen nicht gefolgt werden. Zutreffend ist zwar die vorinstanzliche
+Feststellung, dass eine vernünftige Kommunikation miteinander für eine
+gemeinsame Betreuung ihrer Kinder unerlässlich ist und die Eltern es deshalb
+unterlassen müssen, die beiden Kinder in ihren Streit einzubeziehen und sie auf
+diese Weise einem Loyalitätskonflikt auszusetzen. Dies gilt aber für jede Form
+der alternierenden Obhut, unabhängig von den konkreten Betreuungsanteilen der
+beiden Elternteile.
+
+Mit der angefochtenen Betreuungsregelung wurde dem Vater rund
+ein Drittel der Betreuung der Kinder anvertraut und es wurden im
+zweiwöchentlichen Rhythmus sechs Kinderübergaben vorgesehen. Demgegenüber wäre
+mit dem Antrag des Vaters zwar eine Ausdehnung seines Betreuungsanteils, aber
+gleichzeitig auch eine Reduktion der Übergaben von sechs auf vier Wechsel der
+Obhut im vierzehntäglichen Rhythmus verbunden. Bereits die Anordnung einer
+alternierenden Obhut mit den Betreuungsanteilen gemäss dem angefochtenen
+Entscheid stellt gewisse Anforderungen an die Kooperations- und
+Kommunikationsfähigkeit der Eltern untereinander. Es ist nicht ersichtlich und
+wird auch nicht konkretisiert, weshalb diese Fähigkeiten im Falle der
+Ausdehnung des Betreuungsanteils auf eine hälftige Betreuung der Kinder durch
+den Vater in erhöhtem Masse vorhanden sein müssten, zumal die Zahl der
+Übergaben mit dem entsprechenden Konfliktpotential damit im Gegenteil noch
+abgebaut werden könnte. Dabei ist zudem festzustellen, dass die Anordnung der
+alternierenden Obhut zwar Kommunikationsfähigkeit der Eltern im Sinne ihrer
+Fähigkeit voraussetzt, in Kinderbelangen laufend miteinander zu kommunizieren
+und im Hinblick auf die notwendigen organisatorischen Vorkehrungen zu
+kooperieren (BGE 142 III 612 E. 4.3, 142 III 617 E. 3.2.3). Dabei stellt das
+Bundesgericht aber an die Kommunikations- und Kooperationsfähigkeit der Eltern
+als Voraussetzung für die Anordnung einer alternierenden Obhut keine hohen
+Anforderungen. Die Kommunikation zwischen den Eltern kann auch bloss
+schriftlich erfolgen und es steht einer alternierenden Obhut auch nicht
+entgegen, wenn die Eltern zur gemeinsamen Entscheidfindung über die
+Kinderbelange auf die Vermittlung einer Drittperson angewiesen sind (BGer
+5A_800/2022 vom 28. März 2023 E. 5.1 mit Hinweis auf BGer 5A_748/2022 vom
+9. Februar 2023 E. 4.1; 5A_629/2019 vom 13. November 2020 E. 4.2). Entgegen der
+vom Bundesgericht geäusserten Auffassung (vgl. BGer 5A_67/2021 vom 31. August
+2021 E. 3.3.4) müssen die Eltern dabei aber auch in der Lage sein, sich über
+alltägliche Belange abzusprechen. Auch wenn die faktische Obhut die autonome
+Befugnis zur Entscheidung in solchen Belangen enthält, so bedarf es auch dabei
+über die Organisation der Übergabe hinaus der Absprache, etwa darüber, wer
+welche alltäglichen Belange im Rahmen seiner Betreuung für das Kind erledigt
+(AGE ZB.2023.55 vom 7. August 2024 E. 2.6.2, ZB.2024.54 vom 27. Juni 2024 E.
+3.3.4, ZB.2023.43 vom 28. November 2023 E. 3.4.2.1). Weder die Vorinstanz
+noch die Ehegatten machen vorliegend geltend, dass es ihnen an der Fähigkeit zu
+dieser notwendigen Kommunikation fehlen würde. Es ist daher nicht ersichtlich,
+welche Bedeutung dem elterlichen Konflikt mit Bezug auf die Festlegung der
+Betreuungsanteile des Vaters bei unbestrittenermassen anzuordnender
+alternierender Obhut zukommen könnte.
+
+3.4 Weiter hat die Vorinstanz es als unklar
+bezeichnet, ob und inwieweit sich die Gesundheit von D____ auf die
+Ausgestaltung der Betreuungsanteile der Eltern auswirken solle. Es sei offen,
+ob der Sohn besondere Bedürfnisse in Bezug auf den Umfang und den Rhythmus des
+Kontakts zu beiden Eltern hat. Es ist aber nicht ersichtlich, wieso dieser
+Ungewissheit mit einer Reduktion der Betreuungsanteile des Vaters begegnet
+werden soll, zumal weder die Vorinstanz noch die Ehefrau substantiieren,
+weshalb die Mutter grundsätzlich der Betreuung ihres Sohnes mit
+Autismusdiagnose besser gewachsen sein könnte. Ohne weiteres nachvollziehbar
+erscheint vor diesem Hintergrund allerdings, dass die Betreuung von D____
+erhöhte Anforderungen an die Fähigkeit der Eltern stellt, ihren Sohn im Umfang
+ihrer Betreuungsanteile persönlich zu betreuen. Dies wird zu prüfen sein.
+
+3.5 Zentral für die Bestimmung der
+Betreuungsanteile der Ehegatten erscheint daher ihre Fähigkeit, die persönliche
+Betreuung ihrer beiden Kinder mit ihrer eigenen Erwerbstätigkeit unter einen
+Hut zu bringen.
+
+3.5.1 Wie die Berufungsbeklagte zu Recht geltend
+macht, beruft sich der Berufungskläger zur Begründung seiner Möglichkeiten, in Basel
+im Homeoffice zu arbeiten, im vorliegenden Verfahren auf Unterlagen, die er
+erst nach dem Entscheid der Vorinstanz vom 16. April 2024 eingereicht hat. Sein
+Vorwurf der fehlenden Berücksichtigung im vorinstanzlichen Verfahren ist daher
+unverständlich. Da aber im vorliegenden Berufungsverfahren der uneingeschränkte
+Untersuchungsgrundsatz gilt und Noven deshalb unbeschränkt zu berücksichtigen
+sind (vgl. oben E. 1.2.1), sind die vom Ehemann mit der Eingabe vom 25. April
+2024 nachgereichten Belege im vorliegenden Verfahren zu berücksichtigen.
+
+3.5.2 Strittig ist, in welchem Umfang sich der
+Ehemann neben seiner Erwerbstätigkeit der Betreuung seiner Kinder widmen kann.
+Dabei ist insbesondere auch strittig, in welchem Umfang er an seinem
+Arbeitsplatz in Zürich präsent sein muss und in welchem Umfang und mit welcher Flexibilität
+bezüglich der Arbeitszeitgestaltung er im Homeoffice arbeiten kann. Im
+Zeitpunkt der vorinstanzlichen Verhandlung und des vorinstanzlichen Entscheids
+bestanden hierzu unterschiedliche Anhaltspunkte. Gemäss dem Arbeitsvertrag vom
+7. Dezember 2023 arbeitet der Ehemann seit Januar 2024 als Associate Director
+mit einem Pensum von 100 % in der Abteilung [...] der [...] AG in Zürich
+(Beilage 2 zur Eingabe des Ehemanns vom 9. Januar 2024, Vorinstanz Akten-Nr.
+27). Gemäss einer Bestätigung der Arbeitgeberin vom 1. Februar 2024 ist er
+berechtigt, 50 % im Homeoffice zu arbeiten (Beilage 11 zur Eingabe des Ehemanns
+vom 5. März 2024, Vorinstanz Akten-Nr. 69). Dem entspricht die Aussage von C____
+anlässlich ihrer Anhörung vom 7. Februar 2024, wonach ihr Vater «jetzt montags
+und donnerstags in Zürich sei und dienstags, mittwochs und freitags von zu
+Hause aus arbeite» (Vorinstanz Akten-Nr. 49). Demgegenüber hat die Ehefrau mit
+Eingabe vom 22. Februar 2024 (Vorinstanz Akten-Nr. 61) ausführen lassen, dass «der
+Ehemann offensichtlich seit der Verhandlung [vom 24. Januar 2024] nicht mehr
+regelmässig auswärts in Zürich» arbeite und «sich tagtäglich in der ehelichen
+Wohnung» befinde. Weiter hat der Ehemann mit einem «Year-end Agreement  Waiver
+work time recording» (Beilage 12 zur Eingabe des Ehemanns vom 5. März 2024,
+Vorinstanz Akten-Nr. 69; act. 3/3) belegt, dass er seine Arbeitszeit nicht
+erfassen muss. Sowohl die eingereichte SBB-Ticket-Abrechnung für den Zeitraum
+vom 3. April bis zum 26. Oktober 2023 (Beilage 13 zur Eingabe des Ehemanns vom
+5. März 2024, Vorinstanz Akten-Nr. 69) wie auch das eingereichte Dokument
+«Total door entries» für den Zeitraum vom 27. April 2023 bis zum 14. Februar
+2024 (Unterlagen Verhandlung 15. April 2024, Vorinstanz Akten-Nr. 105) weisen
+darauf hin, dass der Berufungskläger weniger als zweimal wöchentlich den
+Arbeitsplatz in Zürich aufgesucht hat. Dazu hat er in der Verhandlung vom 15. April
+2024 ausführen lassen, dass er ein Team von je 2 Personen in den Vereinigten
+Staaten und in Grossbritannien und 3 Personen in Zürich habe, die er am
+Donnerstag per Facetime treffe (Protokoll, Vorinstanz Akten-Nr. 90). Es ist
+jedoch anzumerken, dass der Berufungskläger seine aktuelle Position erst seit
+dem 1. Januar 2024 bekleidet und daher die Aussagekraft der Belege
+(SBB-Tickets und «total door entries») aus einem früheren Zeitraum nicht
+erstellt ist.
+
+Im vorliegenden Verfahren hat der Berufungskläger nun eine
+Bestätigung der Vorgesetzten der Abteilung seiner Arbeitgeberin vom 25. April 2024
+(act. 3/4) über eine Vereinbarung zwischen ihm und seiner Arbeitgeberin
+eingereicht, wonach er an vier Tagen pro Woche im Homeoffice in Basel arbeiten
+könne. Bei der Wahl des Arbeitstages in Zürich sei er frei. Er habe volle
+Flexibilität in seiner täglichen Arbeitszeiteinteilung. Insgesamt ist daher
+belegt, dass der Ehemann an vier Tagen in der Woche sein volles Arbeitspensum
+im Homeoffice ausüben kann. Soweit die Ehefrau dem entgegenhält, dass es sich
+dabei um eine Momentaufnahme handle und eine Änderung der Weisung durch die
+Arbeitgeberin jederzeit möglich sei, so kann dies zwar nicht ausgeschlossen
+werden. Es bestehen aber keine Anhaltspunkte dafür, dass diese aktuelle
+Arbeitssituation sich kurzfristig verändern würde. Da jede Betreuungsregelung
+geänderten Verhältnissen angepasst werden muss, braucht diese bloss mögliche
+Eventualität daher heute nicht berücksichtigt zu werden.
+
+Einer Ausdehnung der Betreuungsanteile des Ehemanns hält die
+Ehefrau weiter entgegen, dass auch während des Homeoffice keine Kinderbetreuung
+übernommen werden könne. Dies gilt bei kleineren Kindern uneingeschränkt und
+ist auch bei den Kindern der Parteien, insbesondere mit Bezug auf die Betreuung
+von D____, aufgrund ihres Alters und ihres gesundheitlichen Status im Grundsatz
+zu beachten.
+
+3.5.3 Dies gilt aber in gleicher Weise auch für die
+Verbindung von Erwerbstätigkeit und Kinderbetreuung durch die Ehefrau. Die
+Ehefrau hat sowohl im vorinstanzlichen Verfahren wie auch mit ihrer
+Berufungsantwort behauptet, bloss in einem Pensum von 60 % in ihrer
+selbständigen Erwerbstätigkeit zu arbeiten. Dabei macht sie geltend, in ihrer
+Arbeitszeitgestaltung «vollkommen frei und flexibel» zu sein. Diese Behauptung
+hat sie im gesamten Verfahren bisher nicht weiter belegt. Es mag sein, dass
+selbständig Erwerbende im Grundsatz in ihrer Arbeitszeiteinteilung freier sind.
+Gleichwohl besteht auch für Selbständigerwerbende eine gewisse Abhängigkeit von
+ihren Auftraggebern. Wie der Ehemann ausführen liess, ist [...] die Hauptkundin
+der Ehefrau (Eingabe des Ehemanns vom 5. März 2024, Vorinstanz Akten-Nr. 69).
+Es muss als notorisch gelten, dass auch diese Auftraggeberin mindestens in
+vergleichbarem Umfang wie die gemäss den eingereichten Belegen äusserst
+flexibel agierende Arbeitgeberin des Ehemanns Anforderungen bezüglich der
+Verfügbarkeit der Ehefrau stellt. Auch das geltend gemachte Pensum von bloss 60
+% erscheint aufgrund der Höhe des Einkommens von rund CHF 200'000. brutto,
+welches sich die Ehefrau von ihrer Firma jährlich auszahlen lässt (Versichertenauskunft
+der [...], Beilage 7 zur Eingabe des Ehemanns vom 9. Januar 2024, Vorinstanz
+Akten-Nr. 27; Steuererklärung 2021, Beilage 11 zur Eingabe der Ehefrau vom 9.
+Januar 2024, Vorinstanz Akten-Nr. 27; Lohnausweis 2023, Beilage 11 zur Eingabe der
+Ehefrau vom 9. Februar 2024, Vorinstanz Akten-Nr. 55; Lohn 2024, Beilage 13 zur
+Eingabe vom 9. Februar 2024, Vorinstanz Akten-Nr. 55), als fragwürdig. Auch aus
+dem von der Ehefrau eingereichten Betreuungs- und Arbeitsplan (Unterlagen
+Verhandlung 15. April 2024, Vorinstanz Akten-Nr. 105) erschliesst sich das von
+der Ehefrau tatsächlich geleistete Arbeitspensum nicht. Betrachtet man diesen
+Betreuungs- und Arbeitsplan, so weist sie darin bloss rund 16,5 wöchentliche
+Arbeitsstunden auf (Mo/Di je 9.3012.25 und 13.4515.30, Mi 9.3012.25 und
+13.4515.20, Do 9.3011.00 und 11.3012.15 [in Café], Fr 9.3010.00). Dies
+entspricht deutlich weniger als einem Pensum von 60 %.
+
+Diesbezüglich hat die Ehefrau allein ausführen lassen, dass
+sie über ein Netz von Freelancern verfüge, die für sie arbeiten würden (Verhandlung
+vom 15. April 2024, Vorinstanz Akten-Nr. 90). Diese Behauptung hat sie aber
+nicht weiter, etwa mit Dienstleistungsabrechnungen für ihre Auftraggeber aus
+welchen hervorgehen würde, welchen Umfang an Beratungsleistungen die Firma
+verrechnet hat und von wem diese erbracht worden sind, belegt. Es erscheint
+daher unklar, in welchem Umfang die Ehefrau neben der Betreuung der Kinder
+ihrer Erwerbstätigkeit nachgeht und wie sie beides miteinander in Einklang
+bringen kann. Hierfür kann auch aus der Aussage von C____ anlässlich ihrer
+Kinderanhörung vom 7. Februar 2024 (Vorinstanz Akten-Nr. 49), «wenn ihre Mutter
+arbeite, dann tue sie dies eher auswärts» nichts weiter gewonnen werden.
+
+3.5.4 Insgesamt bestehen daher keine konkreten
+Anhaltspunkte, dass die Eltern aufgrund ihrer beruflichen Tätigkeit in
+grundsätzlicher Hinsicht bloss in unterschiedlichem Umfang Betreuungsleistungen
+für ihre Kinder erbringen können.
+
+3.6 Der Ehemann hat mit seiner Berufung einen
+detaillierten Betreuungsplan eingereicht, wie es ihm möglich ist, entsprechend
+seinem Antrag die Betreuung der Kinder mit den damit verbundenen täglichen
+Anforderungen mit seiner beruflichen Tätigkeit zu koordinieren. Die
+Berufungsbeklagte macht diesbezüglich geltend, der Plan trenne nicht
+vollumfänglich zwischen Betreuungs- und Arbeitszeiten. Dieser Einwand wird aber
+nicht weiter substantiiert und konkretisiert. Auf ihn ist daher nicht weiter
+einzugehen.
+
+3.7 Weiter beziehen sich beide Parteien auf die
+Kontinuität und Stabilität der Betreuungsregelung. Unbestritten ist dabei, dass
+der Ehemann für die vergangenen Jahre nachgewiesen hat, über einen längeren
+Zeitraum bloss teilzeitlich einer Erwerbstätigkeit nachgegangen zu sein.
+
+Soweit die Ehefrau dem entgegenhält, dass die teilzeitliche
+Erwerbstätigkeit auch krankheitsbedingt erfolgt sei, besteht hierfür zwar mit
+den für das Jahr 2021 ausgewiesenen Krankheitskosten des Ehemanns und dem von
+Januar bis Oktober 2021 ausgewiesenen Unterbruch seiner Erwerbstätigkeit ein
+bestimmter Anhaltspunkt (vgl. Beilage 11 zur Eingabe des Ehemanns vom 9. Januar
+2024, Vorinstanz Akten-Nr. 27). Die Ehefrau liess dazu ausführen, dass er in
+der Vergangenheit mehrere Operationen gehabt habe (Protokoll Verhandlung 24.
+Januar 2024, Vorinstanz Akten-Nr. 33). Demgegenüber hält der Ehemann daran
+fest, dass die Reduktion seines Arbeitspensums durch die Kinderbetreuung
+begründet worden sei. Wie es sich damit verhält, kann letztlich offengelassen
+werden. Die Ehefrau substantiiert nicht, in welcher Weise es dem Ehemann
+aufgrund dieser operativen Eingriffe nicht möglich gewesen sein soll, sich im
+Umfang der Reduktion seines Arbeitspensums bei der Betreuung der Kinder zu
+engagieren. Dass sich der Vater vor der Trennung regelmässig in der Betreuung
+der Kinder engagiert hat, geht auch aus der Aussage von C____ anlässlich der
+Kinderanhörung vom 7. Februar 2024 (Vorinstanz Akten-Nr. 49) hervor, wonach
+«sie es sich seltsam vorstelle, wenn ihr Vater nicht wie gewohnt ihren Bruder
+über den Mittag abhole und nach Hause bringe und sie dann zusammen seien».
+
+Ebenso wenig einzutreten ist auf den Vorhalt des
+Berufungsklägers, dass die Ehefrau in der Vergangenheit aufgrund einer
+angeblichen psychischen Erkrankung eingeschränkt gewesen sein soll. Der vom
+Ehemann behauptete Sachverhalt soll sich nach der Geburt von C____ ereignet
+haben. Nicht bestritten wird vom Ehemann aber die heutige Erziehungsfähigkeit
+und der heute bestehende Anteil der Ehefrau an der Betreuung der beiden Kinder.
+Es bedarf daher keiner weiteren Abklärung dieser Behauptungen des Ehemanns,
+weshalb auch sein entsprechender Editionsantrag abzuweisen ist.
+
+Daraus folgt, dass die alternierende Obhut offensichtlich
+auch der Kontinuität und Stabilität der Betreuungsverhältnisse entspricht und
+diese auch einer Ausweitung des Betreuungsanteils nicht entgegenstehen.
+
+3.8 Eine Ausweitung der Betreuung des Vaters im
+Sinne einer je hälftigen Betreuung entspricht offensichtlich auch dem
+geäusserten Wunsch von C____. Bereits anlässlich ihrer Anhörung vom 7. Februar
+2024 (Vorinstanz Akten-Nr. 49) hat C____ erklärt, sie finde es «bei einer
+Trennung [] wichtig und klar, dass sie mit beiden Elternteilen Kontakt haben
+wolle». Mit dem vom Vater anlässlich der Verhandlung vom 15. April 2024
+eingereichten Schreiben vom 12. April 2024 (Vorinstanz Akten-Nr. 104) hat sie
+erklärt, dass sie «es toll finden [würde], wenn [ich] halb meiner Zeit mit mein
+Vater und halb mit meine Mutter sein könnte». Dem hält die Ehefrau entgegen, dass
+dieses Schreiben vom Ehemann beeinflusst worden sei. Soweit sie sich dabei auf
+den Vermerk der Verfahrensnummer bezieht, kann ihr nicht gefolgt werden.
+Bereits die Vorrichterin hat C____ in der Kinderanhörung explizit darauf
+hingewiesen, dass sie sie unter Bezugnahme auf die Verfahrensnummer
+kontaktieren könne. Schliesslich kann der Anhörungsnotiz entnommen werden, dass
+sich C____ sehr bestimmt und resolut in ihren Wünschen äussert, wenn sie etwa
+mit Bezug auf die Ferien ausführt, sie habe «ihren Eltern gesagt, dass sie
+entweder alle zusammen in die Ferien gehen oder gar nicht» und dazu ergänzte,
+«sie sollen sich zusammenreissen und nicht gegeneinander kämpfen». Sie müsse
+jetzt «einmal die Erwachsene spielen».
+
+D____ hat keine eigenen Wünsche geäussert und an der
+Kinderanhörung vom 7. Februar 2024 nicht teilnehmen wollen (Vorinstanz
+Akten-Nr. 49). Aufgrund dieses Entscheides kann auch im vorliegenden Verfahren
+auf seine Anhörung verzichtet werden, bestehen doch keine konkreten
+Anhaltspunkte, dass er von dieser Haltung nun abrücken würde. Im Übrigen wird
+auch nicht geltend gemacht, dass der Wille von D____ jenem seiner Schwester und
+einer Ausweitung des Betreuungsanteils entgegenstehen würde. Es kann daher auf
+die vom Berufungskläger verlangte Vornahme einer Kinderanhörung von D____
+verzichtet werden.
+
+3.9 Daraus folgt in Würdigung des Wohls der
+Kinder gestützt auf die Feststellung der konkreten gegenwärtigen und
+vergangenen Tatsachen unter besonderer Berücksichtigung der Möglichkeiten der
+Ehegatten zur persönlichen Betreuung der Kinder, der bisherigen
+Betreuungsverhältnisse und der Wünsche der Kinder, dass es für eine ungleiche
+Verteilung der Betreuungsanteile der beiden Elternteile aufgrund der konkreten
+Verhältnisse des vorliegenden Einzelfalls keine sachlichen Gründe gibt. Daraus
+folgt, dass die Betreuungsanteile der Eltern im Rahmen der unbestrittenen
+alternierenden Obhut gleichmässig auf die beiden Elternteile zu verteilen sind.
+Die Ehefrau stellt sich zwar grundsätzlich gegen diesen Antrag des Ehemanns, rügt
+die von ihm vorgeschlagene Aufteilung der Betreuungsanteile zur Erreichung
+einer hälftigen Betreuung aber nicht. Es kann daher darauf abgestellt und es
+können die Betreuungsanteile entsprechend geregelt werden.
+
+Im Rahmen der unbestrittenen Beratung der Eltern bezüglich
+einer einvernehmlichen Regelung über die Ausgestaltung der Betreuung beider
+Kinder wird zu prüfen und zu evaluieren sein, inwieweit es den Eltern im Rahmen
+dieser hälftigen Aufteilung der Betreuung gelingt, die Kinder adäquat zu betreuen.
+Selbstredend kann es mit der vorliegend festzulegenden hälftigen Betreuung
+durch beide Elternteile nicht mehr Ziel der Beratung sein, die
+Betreuungsanteile des Vaters auszubauen. Auch im Geltungsbereich des
+Offizialgrundsatzes erwächst der erstinstanzliche Entscheid in Teilrechtskraft,
+soweit er nicht angefochten wird. Wenn eine nicht angefochtene gerichtliche
+Anordnung untrennbar mit einer angefochtenen verbunden ist, erwächst jedoch
+ausnahmsweise auch ein nicht angefochtener Teil des Dispositivs des erstinstanzlichen
+Entscheids nicht in (Teil-)Rechtskraft (AGE ZB.2023.11 vom 12. August 2023 E.
+1.3.1 mit Nachweisen). Eine solche Verbindung besteht im vorliegenden Fall
+zwischen der angefochtenen Ziff. 2 und Spiegelstrich 3 der nicht angefochtenen
+Ziff. 3 des Dispositivs des Entscheids des Zivilgerichts, weshalb diese
+Anordnung nicht in Teilrechtskraft erwachsen ist. Aufgrund der Geltung des
+Offizialgrundsatzes (vgl. E. 1.2.1) ist das Gericht frei, auch ohne
+entsprechende Anträge der Parteien die betreffende Dispositivziffer des
+vorinstanzlichen Entscheids anzupassen. Sollte es sich weisen, dass der
+Berufungskläger aufgrund seiner beruflichen Beanspruchung die Bedürfnisse der
+Kinder nicht genügend abdecken kann, so wird er damit rechnen müssen, dass die
+Betreuungsregel entsprechend angepasst werden muss. In diesem Sinne werden mit
+der entsprechenden Erwägung der Vorinstanz die ersten Erfahrungen der Familie
+mit der Situation des Getrenntlebens zu beurteilen sein. Aufgrund der gesamten
+Situation der Familie rechtfertigt es sich aber nicht, die Eltern diese ersten
+Erfahrungen aufgrund einer Aufteilung der Betreuung mit einem doppelt so hohen
+Betreuungsanteil der Mutter im Vergleich zu jenem des Vaters machen zu lassen.
+
+4.
+
+Mit seiner Berufung verlangt der Berufungskläger
+schliesslich, dass die von der Vor­instanz für die Sommerferien 2024
+angeordnete Regelung auf die Sommerferien 2025 übertragen werden soll. Er
+begründet diesen Antrag nicht weiter und rügt allein, dass sich die Ehefrau
+über diese Regelung hinweggesetzt und den Sommerferienantritt von D____ bei ihm
+«wissentlich verdorben» habe. Dies wird von der Berufungsbeklagten bestritten. Da
+die Ferienregelung insgesamt ebenso wenig bestritten ist wie die Verpflichtung
+der Eltern zu einer Beratung mit dem Ziel der Verbesserung ihrer Kommunikation
+und einer einvernehmlichen Regelung über die Ausgestaltung der
+Betreuungsanteile, wird auf eine spezifische vorsorgliche Regelung der
+Sommerferien 2025 verzichtet.
+
+5.
+
+5.1 Daraus folgt, dass dem Berufungsantrag 1 des
+Berufungsklägers weitgehend zu entsprechen ist. Demgegenüber sind die Anträge 2
+und 3 abzuweisen. Damit dringt der Berufungskläger in der Sache weit
+überwiegend durch. Ziffer 3 des vorinstanzlichen Entscheiddispositivs wird ohne
+entsprechenden Parteiantrag (im Geltungsbereich der Offizialmaxime) abgeändert.
+
+5.2 Diesem Ausgang des Verfahrens entspräche es
+in Anwendung des Erfolgsprinzips gemäss Art. 106 Abs. 1 ZPO, der
+Berufungsbeklagten die Prozesskosten aufzuerlegen. Vorliegend darf aber
+berücksichtigt werden, dass der Berufungskläger wesentliche Unterlagen, welche
+dem Berufungsentscheid zu Grunde liegen, erst nach dem angefochtenen Entscheid
+der Vorinstanz eingereicht hat. In Anwendung von Art. 107 Abs. 1 lit. f
+und c ZPO rechtfertigt es sich daher, der Berufungsbeklagten zwar die
+Gerichtskosten aufzuerlegen, die Vertretungskosten aber wettzuschlagen. Die
+Gerichtsgebühr ist in Anwendung von § 10 Abs. 2 Ziff. 1 in Verbindung mit § 12
+Abs. 2 des Gerichtsgebührenreglements (GGR, SG 154.810) auf CHF 1'000.
+festzusetzen.
+
+Demgemäss erkennt das Appellationsgericht (Dreiergericht):
+
+://:        In teilweiser Gutheissung der Berufung
+wird die Ziffer 2 des Dispositiv des Entscheids des Zivilgerichts vom 16. April
+2024 (EA.2023.15978) aufgehoben und wie folgt neu gefasst:
+
+2. Die Kinder C____, geboren am [...] 2013, und D____, geboren am [...]
+2016, stehen in der alternierenden Obhut beider Eltern. Sie bleiben behördlich
+bei der Mutter angemeldet.
+
+Die Eltern betreuen die Kinder vorläufig und bis zu einem
+anderslautenden Entscheid des Gerichts wie folgt:
+
+Der Vater betreut die Kinder in geraden Kalenderwochen
+jeweils ab Montagabend, 18.00 Uhr, bis Mittwochabend, 18.00 Uhr, und ab
+Freitagabend, 18.00 Uhr, bis Mittwochabend, 18.00 Uhr, der darauffolgenden
+ungeraden Kalenderwoche. Die Kinder gehen dabei selbständig zum Vater und
+zurück.
+
+In der übrigen Zeit werden die Kinder von der Mutter betreut.
+
+Die Kinder verbringen die Schulferien je hälftig bei den
+Eltern.
+
+Die Kinder verbringen die Feiertage im Wechsel bei den
+Eltern, indem sie z.B. Auffahrt und Auffahrtsbrücke bei der Mutter und danach
+Pfingsten beim Vater sind.
+
+Die weitergehenden Begehren werden abgewiesen.
+
+Ziffer 3 des Dispositivs des Entscheids des
+Zivilgerichts vom 16. April 2024 (EA.2023.15978) wird aufgehoben und wie folgt
+neu gefasst:
+
+3. Es wird eine Beratung der Eltern angeordnet, insbesondere mit den Zielen
+
+- der Verbesserung der Kommunikation zwischen den Eltern,
+
+- der Verbesserung der Kommunikation der Eltern gegenüber den Kindern, vor
+allem wie sie mit den Kindern über den anderen Elternteil sprechen,
+
+- einer einvernehmlichen Regelung über die Ausgestaltung der Betreuung der
+beiden Kinder C____, geb. [...] 2013, und D____, geb. [...] 2016,
+
+- der Sensibilisierung der Eltern für die Bedürfnisse ihrer Kinder sowie
+
+- der Kompetenzerlangung der Eltern, die Kinder nicht in ihren Konflikt
+hineinzuziehen und die Kinder möglichst nicht in einen Loyalitätskonflikt zu
+bringen.
+
+Die Berufungsbeklagte trägt die Gerichtskosten des Berufungsverfahrens
+von CHF 1'000..
+
+Die Parteikosten des Berufungsverfahrens werden
+wettgeschlagen.
+
+Mitteilung an:
+
+- Berufungskläger
+
+- Berufungsbeklagte
+
+- Zivilgericht Basel-Stadt
+
+- Migrationsamt Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Anna Bleichenbacher
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid kann unter den Voraussetzungen von
+Art. 72 ff. des Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher
+Eröffnung Beschwerde in Zivilsachen erhoben werden. In
+vermögensrechtlichen Angelegenheiten gilt dies nur dann, wenn der Streitwert
+die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG erreicht
+(CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der Beschwerde in Zivilsachen ein anderes
+Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde an das
+Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Zivilsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
