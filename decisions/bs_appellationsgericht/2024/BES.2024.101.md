@@ -1,0 +1,298 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.650"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.101"
+docket_2: "AG.2024.650"
+decided: "2024-11-13"
+published: "2025-07-22"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77634&W10_KEY=3048461&nTrefferzeile=202&Template=search_result_document.html"
+cites_decisions: ["6B_618/2019", "6B_855/2018"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Verfahrenskosten
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.101
+
+ENTSCHEID
+
+vom 13.
+November 2024
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und
+Gerichtsschreiberin lic. iur. Barbara Noser Dussy
+
+Beteiligte
+
+A____ , geb. [...]                                                           Beschwerdeführerin
+
+[...]                                                                                           Beschuldigte
+
+gegen
+
+Einzelgericht in Strafsachen Basel-Stadt Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Strafgerichts
+
+vom 5. August 2024
+
+betreffend Verfahrenskosten
+
+Sachverhalt
+
+A____
+(nachfolgend: Beschwerdeführerin) verwendete am 25. Januar 2024 beim Lenken
+eines Personenwagens ein Mobiltelefon ohne Freisprecheinrichtung, wofür ihr von
+der Kantonspolizei Basel-Stadt eine Busse in Höhe von CHF 100. auferlegt
+wurde. Die Übertretungsanzeige wurde am 1. Februar 2024 an die Adresse der
+Beschwerdeführerin, [...], gesandt. Am 4. April 2024 wurde eine
+Zahlungserinnerung an die selbe Adresse gesandt. Eine Zahlung innert Frist
+blieb aus.
+
+Am 31. Mai 2024 überwies
+die Kantonspolizei das Verfahren an die Staatsanwaltschaft Basel-Stadt. Mit
+Strafbefehl vom 12. Juni 2024 verurteilte die Staatsanwaltschaft die Beschwerdeführerin
+wegen Verletzung der Verkehrsregeln zu einer Busse von CHF 100., bei
+schuldhaftem Nichtbezahlen ersatzweise zu einer Freiheitsstrafe von einem Tag.
+Zudem auferlegte sie der Beschwerdeführerin eine Abschlussgebühr von CHF 200.
+und Auslagen von CHF 5.80.
+
+Gegen diesen
+Strafbefehl erhob die Beschwerdeführerin mit Eingabe vom 17. Juni 2024 Einsprache.
+Darin machte sie geltend, sie habe keine Rechnung erhalten, und wandte sich
+sinngemäss gegen die Auferlegung der Verfahrenskosten (Abschlussgebühr und
+Auslagen). Mit Schreiben vom 18. Juni 2024 an die Beschwerdeführerin erklärte
+die Staatsanwaltschaft, die Kantonspolizei habe ihr eine Übertretungsanzeige
+und eine Zahlungserinnerung zugestellt und ihr damit die Möglichkeit
+eingeräumt, die Busse fristgerecht zu bezahlen. Sie halte daher am Strafbefehl
+fest und gebe der Beschwerdeführerin bis 5. Juli 2024 Gelegenheit, die
+Einsprache zurückzuziehen, andernfalls sie das Verfahren zur Beurteilung ans
+Strafgericht Basel-Stadt überweisen werde. Am 10. Juli 2024 überwies die
+Staatsanwaltschaft die Einsprache zusammen mit den Akten zuständigkeitshalber
+an das Strafgericht Basel-Stadt mit dem Hinweis, sie halte am Strafbefehl fest.
+
+Mit Verfügung
+vom 18. Juli 2024 räumte die Verfahrensleiterin des Strafgerichts der
+Beschwerdeführerin bis 16. August 2024 Gelegenheit ein, die Einsprache
+zurückzuziehen. In diesem Fall würde das Verfahren kostenlos eingestellt und
+der Strafbefehl in Rechtskraft erwachsen. Falls die Beschwerdeführerin innert
+dieser Frist mitteile, dass sie den Schuldspruch und die Busse akzeptiere und
+sich ihre Einsprache nur gegen die Auferlegung der Verfahrenskosten richte,
+ergehe der diesbezügliche Entscheid im schriftlichen Verfahren, sofern die
+Beschwerdeführerin nicht ausdrücklich die Durchführung einer
+Gerichtsverhandlung verlange. Falls die Beschwerdeführerin vollumfänglich an
+der Einsprache festhalte, werde eine Gerichtsverhandlung mit Zeugenbefragung
+angesetzt. Die vom Strafgericht versandte Verfügung wurde am 27. Juli 2024 mit
+dem Vermerk «nicht abgeholt» zurückspediert. Am 24. Juli 2024 ging beim
+Strafgericht ein Umbuchungsbeleg der Kantonspolizei vom 4. Juli 2024 ein, dem
+zu entnehmen ist, dass die Beschwerdeführerin am 28. Juni 2024 die Busse in
+Höhe von CHF 100. bezahlt hatte. Mit Verfügung vom 5. August 2024 stellte das Einzelgericht
+in Strafsachen fest, dass der Strafbefehl vom 12. Juni 2024 im Schuld- und
+Strafpunkt zum rechtskräftigen Urteil geworden sei. Es auferlegte der
+Beschwerdeführerin die Verfahrenskosten in Höhe von CHF 205.80 unter
+Verzicht auf die Erhebung von Gerichtskosten.
+
+Gegen die
+Verfügung des Strafgerichts vom 5. August 2024 hat die Beschwerdeführerin mit
+Eingabe vom 15. August 2024 Beschwerde an das Appellationsgericht Basel-Stadt erhoben
+(Eingang beim Appellationsgericht: 19. August 2024).
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren unter Beizug der vorinstanzlichen
+Akten ergangen. Die Einzelheiten des Sachverhalts und der Parteistandpunkte
+ergeben sich, soweit sie für den vorliegenden Entscheid von Bedeutung sind, aus
+den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Verfügungen
+und Beschlüsse sowie Verfahrenshandlungen der
+erstinstanzlichen Gerichte können mit Beschwerde bei der
+Beschwerdeinstanz angefochten werden (Art. 393 Abs. 1 lit. b in Verbindung
+mit Art. 80 Abs. 1 der Schweizerischen Strafprozessordnung [StPO, SR 312.0]).
+Zuständiges Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§
+88 Abs. 1 und 93 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG
+154.100]).
+
+1.2 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheids hat (Art. 382 Abs. 1 StPO). Die
+Beschwerdeführerin ist als Adressatin der angefochtenen Verfügung unmittelbar
+in ihren Interessen berührt und hat ein rechtlich geschütztes Interesse an deren
+Aufhebung oder Änderung, weshalb sie zur Beschwerdeerhebung legitimiert ist.
+
+1.3 Gemäss
+Art. 396 Abs. 1 StPO ist die Beschwerde innert zehn Tagen schriftlich und
+begründet bei der Beschwerdeinstanz einzureichen. Die Frist zur Anfechtung der
+der Beschwerdeführerin am 12. August 2024 zugestellten Verfügung endete am 22. August
+2024. Die am 19. August 2024 beim Appellationsgericht eingegangene Beschwerde
+ist daher rechtzeitig erfolgt.
+
+1.4 Die
+Anforderungen an die inhaltliche Begründung der Beschwerde richten sich nach
+Art. 385 StPO. Demnach hat die beschwerdeführende Person anzugeben, welche
+Punkte des Entscheides sie anficht, welche Gründe einen anderen Entscheid
+nahelegen und welche Beweismittel sie anruft. Bei einer rechtsunkundigen Person
+werden an die Begründungspflicht praxisgemäss keine allzu strengen
+Anforderungen gestellt. Allerdings müssen auch juristische Laien zumindest
+sinngemäss angeben, inwiefern sie den angefochtenen Entscheid für unrichtig
+respektive fehlerhaft halten, andernfalls die Eingabe zur Verbesserung
+innerhalb kurzer Frist zurückzuweisen ist (Art. 385 Abs. 1 und 2 StPO;
+vgl. Bähler , in: Basler Kommentar,
+3. Auflage 2023, Art. 385 StPO N 6; AGE BES.2020.69 vom 23. April 2020 E.
+1.2). Im vorliegenden Fall erweist sich die rudimentäre Begründung der
+Laieneingabe als knapp ausreichend, so dass darauf einzutreten ist.
+
+2.
+
+Da die
+Beschwerdeführerin den Schuldspruch nicht anficht und die Busse in Höhe von CHF
+100. bezahlt hat, ist der Strafbefehl im Schuld- und Strafpunkt zum
+rechtskräftigen Urteil geworden, wie die Vorinstanz in der angefochtenen
+Verfügung zutreffend festgestellt hat.
+
+3.
+
+3.1 Der
+Streitgegenstand des vorliegenden Verfahrens beschränkt sich daher auf die
+Verfahrenskosten im Betrag von CHF 205.80. Die Beschwerdeführerin macht sinngemäss
+geltend, dass sie die Übertretungsanzeige vom 1. Februar 2024 und die
+Zahlungserinnerung vom 4. April 2024 nicht erhalten habe, sondern erst
+durch den Strafbefehl von der auferlegten Busse Kenntnis erlangt habe. Wenn sie
+die Verfügungen der Kantonspolizei erhalten hätte, hätte sie die Busse
+fristgerecht bezahlt, so dass das kostenpflichtige Strafbefehlsverfahren nicht
+hätte eingeleitet werden müssen.
+
+3.2 Die
+Übertretungsanzeige vom 1. Februar 2024 und die Zahlungserinnerung von 4. April
+2024 waren praxisgemäss nicht eingeschrieben versandt worden, so dass kein
+Zustellnachweis der Post vorhanden ist. Anders als bei einem Strafbefehl (vgl.
+Art. 85 Abs. 2 StPO) ist im Ordnungsbussenverfahren eine gewöhnliche
+Postzustellung zulässig (BGer 6B_855/2018 vom 15. Mai 2019 E. 1.7; AGE BES.2023.78 E. 4.3, BES.2018.63 vom 24. Mai 2018 E. 2. 4, je
+mit Hinweisen). Der Zustellnachweis behördlicher Sendungen kann nach der
+Rechtsprechung des Appellationsgerichts nicht nur durch einen Zustellnachweis
+der Post, sondern auch gestützt auf Indizien bzw. die gesamten Umstände
+erbracht werden, wofür die Behörden die Beweislast tragen (siehe hierzu AGE
+BES.2022.151 vom 3. März 2023 E. 3.2.2 mit Hinweisen). Vor diesem Hintergrund
+hat das Appellationsgericht erwogen, dass es zwar im Falle eines einmaligen
+Versands mit einfacher Post nicht auszuschliessen sei, dass die Sendung nicht
+ankomme (etwa, weil sie verloren gehe oder weil sie nicht korrekt adressiert sei),
+diese Möglichkeit bei einer zweimaligen Zustellung desselben Dokumentes an eine
+sich als richtig und funktionsfähig erweisende Adresse jedoch vernachlässigbar
+klein werde. Bestünde insgesamt kein vernünftiger Zweifel daran, dass der
+Adressat oder die Adressatin mindestens eines der beiden Schreiben erhalten
+habe, erweise sich dessen Bestreitung als blosse Schutzbehauptung (AGE BES.2013.31
+vom 12. Juli 2013 E. 3.3). Das Bundesgericht hat diese Rechtsprechung
+verschiedentlich bestätigt (BGer 6B_618/2019 vom 27. Juni 2019 E. 3.4 und
+6B_855/2018 vom 15. Mai 2019 E. 1.8). Allerdings handelt es sich dabei um
+eine blosse Vermutung, welche im Einzelfall durch überzeugende entgegenstehende
+Beweismittel im Rahmen der Würdigung der gesamten Umstände auch umgestossen
+werden kann. Die blosse unsubstantiierte Behauptung, ein Schreiben sei etwa
+zurück an den Absender gegangen oder auf dem Postweg gestohlen worden
+bzw. verloren gegangen, genügt hierfür jedenfalls nicht (vgl. BGer
+6B_618/2019 vom 27. Juni 2019 E. 3.4).
+
+3.3 Die
+Behauptung der Beschwerdeführerin, sie habe weder die Übertretungsanzeige noch
+die Zahlungserinnerung erhalten, ist als reine Schutzbehauptung zu werten. Die Übertretungsanzeige
+vom 1. Februar 2024 und der Zahlungserinnerung vom 4. April 2024 wurden an die
+selbe Adresse geschickt wie der Strafbefehl vom 12. Juni 2024, den die
+Beschwerdeführerin unbestrittenermassen erhalten hat. Diese Adresse ([...]) hat
+sich somit als richtig und funktionsfähig erwiesen und wurde auch von der
+Beschwerdeführerin selbst in ihrer Einsprache (Akten S. 5) und in der
+Beschwerde (Akten S. 39) verwendet. Dass beide Briefe aus ihrem Briefkasten
+gestohlen worden oder sonstwie abhanden gekommen sein sollen, ist schon
+grundsätzlich sehr unwahrscheinlich (vgl. oben). Hinzu kommt, dass sich bei der
+Wohnliegenschaft der Beschwerdeführerin die Briefkästen im Hausinnern hinter
+der Hauseingangstüre befinden, so dass sie für Passanten nicht frei zugänglich
+sind (vgl. Google Street View). Es ist auch schwer vorstellbar, was jemand
+davon haben sollte, aus dem Briefkasten der Beschwerdeführerin Briefe,
+namentlich Bussenverfügungen der Kantonspolizei zu entwenden. Die
+Beschwerdeführerin wäre im Übrigen für solche aussergewöhnlichen Vorkommnisse beweispflichtig,
+hat es aber bei der blossen Behauptung belassen. Zudem hat sie diese Behauptung
+erstmals im Verfahren vor Appellationsgericht aufgestellt, obwohl sie bereits
+bei der Einsprache (Akten S. 5) oder als Reaktion auf das Schreiben der
+Staatsanwaltschaft (Akten S. 39) oder auf die Verfügung der
+Strafgerichtspräsidentin (Akten S. 24) Anlass gehabt hätte, sie vorzubringen.
+Es ist somit davon auszugehen, dass die Beschwerdeführerin zumindest entweder
+die Übertretungsanzeige oder die Zahlungserinnerung erhalten hat.
+
+3.4 Indem
+die Beschwerdeführerin die Busse nicht innert Frist bezahlt hat, hat sie die
+Einleitung des ordentlichen Verfahrens durch die Staatsanwaltschaft verursacht.
+Deshalb hat sie nicht nur den Bussenbetrag, sondern auch die bei der
+Staatsanwaltschaft entstandenen Verfahrenskosten zu tragen. Die Beschwerde
+gegen die Verfügung des Einzelgerichts in Strafsachen vom 5. August 2024 ist
+somit abzuweisen.
+
+4.
+
+Bei diesem
+Ausgang des Verfahrens hat die Beschwerdeführerin dessen Kosten mit einer
+Gebühr von CHF 250. zu tragen (Art. 428 Abs. 1 StPO; § 21
+Abs. 2 des Reglements über die Gerichtsgebühren [Gerichtsgebührenreglement,
+SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 250., einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               lic. iur. Barbara
+Noser Dussy
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
