@@ -1,0 +1,421 @@
+---
+decision_id: "bs_appellationsgericht_AG.2024.689"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2024.126"
+docket_2: "AG.2024.689"
+decided: "2024-11-25"
+published: "2025-07-05"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=77742&W10_KEY=3048461&nTrefferzeile=189&Template=search_result_document.html"
+cites_decisions: ["BGE 145 IV 252"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-100.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-352.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-441.md", "switzerland/bund/acts/314.1/art-007.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2024.126
+
+ENTSCHEID
+
+vom 25. November
+2024
+
+Mitwirkende
+
+lic. iur. Liselotte Henz
+
+und a.o.
+Gerichtsschreiberin MLaw Liliane Obrecht
+
+Beteiligte
+
+A____ , geb. [...]                                                              Beschwerdeführer
+
+[...] Beschuldigter
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Einzelgerichts in Strafsachen
+
+vom 3. Oktober 2024
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Am
+29. Oktober 2020 überschritt A____ (nachfolgend: der
+Beschwerdeführer) die signalisierte Zonen-Höchstgeschwindigkeit um 6 km/h
+gemäss Ziffer 303.1.b Ordnungsbussenverordnung. Die Kantonspolizei Basel-Stadt
+stellte dem Beschwerdeführer mit der auf den 7. Januar 2021 datierten
+Übertretungsanzeige («Avis dInfraction») eine Ordnungsbusse von CHF 120. zu. Diese
+wurde nicht innert der gesetzlichen Frist von 30 Tagen bezahlt und die
+Kantonspolizei stellte dem Beschwerdeführer daraufhin eine auf den 18. Februar 2021
+datierte Zahlungserinnerung («rappel de facture») an seinen Wohnort in
+Frankreich zu. Da die Ordnungsbusse weiterhin nicht bezahlt wurde, leitete die
+Kantonspolizei Basel-Stadt am 30. Juni 2021 das ordentliche Verfahren
+ein und überwies die Angelegenheit an die Staatsanwaltschaft Basel-Stadt.
+
+Die
+Staatsanwaltschaft Basel-Stadt sprach den Beschwerdeführer mittels Strafbefehl
+vom 26. August 2021 wegen Verletzung der Verkehrsregeln schuldig und
+verurteilte ihn zu einer Busse von CHF 120. (bei schuldhaftem
+Nichtbezahlen ersatzweise mit einer Freiheitsstrafe von zwei Tagen). Zudem
+wurden ihm die Verfahrenskosten von CHF 208.60 auferlegt. Der Strafbefehl
+wurde dem Beschwerdeführer nachweislich am 31. August 2021
+zugestellt. Der Beschwerdeführer reagierte allerdings erst, als ihm das Justiz-
+und Sicherheitsdepartement Basel-Stadt mit Schreiben vom
+3. September 2024 eine zweite Mahnung betreffend die Verfahrenskosten
+gemäss Strafbefehl sowie Mahngebühren zustellte. Im Anschluss hieran erhob der
+Beschwerdeführer mit Schreiben vom 10. September 2024 in
+französischer Sprache sinngemäss Einsprache gegen den Strafbefehl vom
+26. August 2021 an die Staatsanwaltschaft Basel-Stadt. Mit Schreiben
+vom 13. September 2024 (zugestellt am 24. September 2024)
+wies die Staatsanwaltschaft den Beschwerdeführer darauf hin, dass der
+Strafbefehl in Rechtskraft erwachsen sei, da die Einsprache nicht innert der
+zehntägigen Frist erhoben wurde. Im Falle des Festhaltens an der Einsprache solle
+er dies innert 10 Tagen mitteilen. Mit Eingabe vom 24. September 2024
+an die Staatsanwaltschaft hielt der Beschwerdeführer an seiner Einsprache vom
+10. September 2024 fest. Die Staatsanwaltschaft überwies das
+Verfahren mit Schreiben vom 30. September 2024 zuständigkeitshalber
+an das Strafgericht Basel-Stadt. Mit Verfügung vom 3. Oktober 2024 trat
+das Einzelgericht in Strafsachen auf die Einsprache des Beschwerdeführers gegen
+den Strafbefehl vom 26. August 2024 infolge Verspätung nicht ein,
+verzichtete aber ausnahmsweise auf die Erhebung von Gerichtskosten.
+
+Gegen diese Nichteintretensverfügung
+des Einzelgerichts in Strafsachen hat der Beschwerdeführer mit Eingabe vom
+10. Oktober 2024 sinngemäss Beschwerde an das Appellationsgericht
+erhoben.
+
+Der vorliegende
+Entscheid ist im schriftlichen Verfahren unter Beizug der vorinstanzlichen
+Akten ergangen. Die Einzelheiten des Sachverhalts und der Parteistandpunkte
+ergeben sich  soweit sie für den Entscheid von Bedeutung sind  aus den
+nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die
+angefochtene Verfügung des Einzelgerichts in Strafsachen vom 3. Oktober 2024
+ist ein Nichteintretensentscheid, mit dem nicht materiell über Straffragen
+befunden wurde. Es kommt daher gemäss Art. 393 Abs. 1 lit. b in
+Verbindung mit Art. 80 Abs. 1 der Strafprozessordnung (StPO,
+SR 312.0) das Beschwerdeverfahren zur Anwendung. Zuständiges
+Beschwerdegericht ist das Appellationsgericht als Einzelgericht (§ 88
+Abs. 1 in Verbindung mit § 93 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes [GOG, SG 154.100]). Die Kognition des
+Beschwerdegerichts ist frei und nicht auf Willkür beschränkt
+(vgl. Art. 393 Abs. 2 StPO).
+
+1.2 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheids hat
+(Art. 382 Abs. 1 StPO). Der Beschwerdeführer ist als
+Adressat der angefochtenen Verfügung dadurch unmittelbar in seinen Interessen
+berührt und hat ein rechtlich geschütztes Interesse an der Aufhebung oder
+Änderung der Verfügung, weshalb er zur Beschwerdeerhebung berechtigt ist.
+
+1.3 Der
+Inhalt der Beschwerde richtet sich nach Art. 385 StPO. Der
+Beschwerdeführer hat demnach genau anzugeben, welche Punkte des Entscheides
+angefochten werden, welche Gründe einen anderen Entscheid nahelegen und welche
+Beweismittel angerufen werden (Art. 385 Abs. 1 lit. a  c
+StPO). Bei einer rechtsunkundigen Person werden an die Begründungspflicht
+praxisgemäss keine allzu strengen Anforderungen gestellt. Allerdings muss auch
+ein juristischer Laie zumindest sinngemäss angeben, inwiefern er den
+angefochtenen Entscheid für unrichtig respektive fehlerhaft hält, andernfalls
+die Eingabe zur Verbesserung innerhalb kurzer Frist zurückzuweisen ist
+(Art. 385 Abs. 1 und 2 StPO; vgl. Bähler , in: Basler Kommentar, 3. Auflage 2023,
+Art. 385 StPO N 1, 3; AGE BES.2020.69 vom 23. April 2020
+E. 1.2).
+
+Der
+Beschwerdeführer hat insoweit auf die Nichteintretensverfügung des
+Einzelgerichts in Strafsachen Bezug genommen, als er die entsprechende
+Dossiernummer ([...]) aufgeführt und den Grund für die verspätete Einsprache angegeben
+hat. Er habe sich aufgrund einer Covid-Erkrankung seit dem
+15. Dezember 2020 bei seiner Familie im Süden Frankreichs zur Kur aufgehalten
+und die Post habe den Umleitungsauftrag nicht richtig ausgeführt. Unter
+Berücksichtigung dieser Ausführungen kann seine Eingabe an das Appellationsgericht
+sinngemäss als Beschwerde gegen die Nichteintretensverfügung des Einzelgerichts
+in Strafsachen gesehen werden, sodass den Anforderungen an eine Laienbeschwerde
+Genüge getan ist.
+
+1.4 Gemäss
+Art. 396 Abs. 1 StPO ist die Beschwerde innert 10 Tagen schriftlich
+und begründet bei der Beschwerdeinstanz einzureichen. Die Frist beginnt am Tag
+nach der Zustellung zu laufen (Art. 90 Abs. 1 StPO). Eingaben müssen
+spätestens am letzten Tag der Frist bei der Strafbehörde abgegeben oder zu
+deren Handen der Schweizerischen Post oder einer schweizerischen diplomatischen
+oder konsularischen Vertretung übergeben werden (Art. 91 Abs. 2
+StPO). Der Entscheid der Vor­instanz vom 3. Oktober 2024 wurde dem
+Beschwerdeführer nachweislich am 8. Oktober 2024 zugestellt. Mit
+Eingabe vom 10. Oktober 2024 (Postaufgabe) hat der Beschwerdeführer
+innert der Beschwerdefrist rechtzeitig beim Appellationsgericht Beschwerde
+erhoben.
+
+1.5 Auf
+die form- und fristgerecht eingereichte Beschwerde ist damit einzutreten
+(Art. 396 Abs. 1 StPO).
+
+2.
+
+2.1 In
+materieller Hinsicht ist zunächst festzuhalten, dass Gegenstand des
+vorliegenden Beschwerdeverfahrens nur die Nichteintretensverfügung der
+Vorinstanz ist. Es kann somit ausschliesslich geprüft werden, ob das
+Einzelgericht in Strafsachen zu Recht nicht auf die sinngemäss erhobene
+Einsprache des Beschwerdeführers vom 10. September 2024 eingetreten
+ist.
+
+2.2
+
+2.2.1 Das
+Einzelgericht in Strafsachen erwog in seiner Nichteintretensverfügung vom
+3. Oktober 2024, die Einsprachefrist gemäss Art. 354 Abs. 1
+StPO betrage 10 Tage. Der Strafbefehl vom 26. August 2021 sei
+eingeschrieben an die offizielle Meldeadresse des Beschwerdeführers ([...])
+verschickt und gemäss Sendungsverfolgung (Vorakten S. 5) am
+31. August 2021 zugestellt worden. Die Einsprachefrist sei demnach
+bis zum 10. September 20 21 gelaufen, womit die Einsprache
+datiert auf den 10. September 20 24 verspätet sei.
+
+2.2.2 Der
+Beschwerdeführer brachte sinngemäss vor, dass er die Schreiben der
+Kantonspolizei Basel-Stadt (die Übertretungsanzeige [«Avis dInfraction»] und
+die Zahlungserinnerung [«rappel de facture»]), den Strafbefehl der
+Staatsanwaltschaft sowie die erste Mahnung des Justiz- und
+Sicherheitsdepartements nicht erhalten habe. Er habe sich seit dem
+15. September 2020 in Südfrankreich bei seiner Familie befunden, um
+eine Covid-Erkrankung auszukurieren und die Post habe seinen Umleitungsauftrag
+nicht immer richtig umgesetzt. Es seien mehrere Briefe nicht weitergeleitet
+worden.
+
+3.
+
+3.1 Die
+vorliegende Widerhandlung gegen die Ordnungsbussenverordnung (Überschreiten der
+signalisierten Zonen-Höchstgeschwindigkeit um 6 km/h gemäss Ziffer 303.1.b
+Ordnungsbussenverordnung [OBV, SR 741.031]) ist im Ordnungsbussenverfahren
+zu beurteilen (Art. 3 Abs. 2 des Ordnungsbussengesetzes [OBG,
+SR 314.1]). Bezahlt der Fahrzeughalter die Busse nicht innerhalb der
+dreissigtägigen Frist (Art. 7 Abs. 2 OBG), so wird ein ordentliches
+Strafverfahren (d.h. ein Strafbefehlsverfahren gemäss Art. 352 ff.
+StPO) durchgeführt (Art. 7 Abs. 3 OBG).
+
+Aufgrund der ständigen
+Praxis des Appellationsgerichts (vgl. AGE BES.2018.113 vom 19. Juli 2018
+E. 2.3, BES.2018.174 vom 1. November 2018 E. 2.3.3; bestätigt in
+BGE 145 IV 252 E. 1.8 S. 258) ist die Wahrscheinlichkeit eines
+doppelten Zustellungsfehlers vernachlässigbar klein. Es kann daher mit an
+Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen werden, dass weder die
+Übertretungsanzeige («Avis dInfraction») noch die Zahlungserinnerung («rappel
+de facture») dem Beschwerdeführer zugestellt werden konnte, zumal sich die
+Adresse des Beschwerdeführers, die bei den beiden Briefsendungen verwendet
+wurde, im Nachhinein als richtig und funktionsfähig herausgestellt hat. Der an
+diese Adresse gerichtete, mit eingeschriebener Post versandte Strafbefehl vom
+26. August 2021 wurde dem Beschwerdeführer gemäss Sendungsverfolgung
+nachweislich am 31. August 2021 zugestellt (Vorakten S. 5).
+Ebenfalls geht aus den Akten hervor, dass auch die zweite Mahnung des Justiz-
+und Sicherheitsdepartements Basel-Stadt vom 3. September 2024 den Beschwerdeführer
+erreichte, da er im Anschluss daran mit Eingabe vom 10. September 2024
+Einsprache an die Staatsanwaltschaft Basel-Stadt erhob. Das
+Strafbefehlsverfahren wurde daher zu Recht eingeleitet.
+
+3.2
+
+3.2.1 Gemäss
+Art. 354 Abs. 1 StPO kann die beschuldigte Person gegen einen
+Strafbefehl innert 10 Tagen nach seiner Zustellung schriftlich Einsprache
+erheben. Ohne gültige Einsprache wird der Strafbefehl zum rechtskräftigen
+Urteil (Art. 354 Abs. 3 StPO). Die Frist beginnt am Tag nach der
+Eröffnung respektive Zustellung zu laufen (Art. 90 Abs. 1 StPO) und
+ist eingehalten, wenn die Eingabe spätestens am letzten Tag der Frist bei der
+zuständigen Behörde abgegeben oder zu deren Handen der Schweizerischen Post
+oder einer schweizerischen diplomatischen oder konsularischen Vertretung
+übergeben wird (Art. 91 Abs. 2 StPO; Riedo ,
+in: Basler Kommentar, 3. Auflage, Basel 2023, Art. 91 StPO N 10 ff.).
+
+3.2.2 Dem
+Beschwerdeführer wurde der Strafbefehl nachweislich am
+31. August 2021 zugestellt (Vorakten S. 5). Die zehntägige
+Einsprachefrist begann somit am 1. September 2021 zu laufen und
+endete am 10. September 20 21 (Art. 90 Abs. 1 StPO).
+Der Beschwerdeführer erhob indes erst mit Schreiben vom
+10. September 20 24 (Datum der Postaufgabe unbekannt) gegen
+diesen Strafbefehl Einsprache. Die Einsprache wurde mithin drei Jahre nach
+Ablauf der Einsprachefrist und demnach offensichtlich verspätet erhoben.
+
+3.3 Das
+Vorbringen des Beschwerdeführers, es sei ihm aufgrund seines Aufenthalts in
+Südfrankreich und dem Versagen der Post, seinen Umleitungsauftrag korrekt
+durchzuführen, nicht möglich gewesen, den Strafbefehl vom
+26. August 2021 innert 10 Tagen zu beantworten, kann sinngemäss
+als Gesuch um Wiederherstellung der versäumten Einsprachefrist nach
+Art. 94 StPO entgegengenommen werden.
+
+3.3.1 Nach
+Art. 94 Abs. 1 StPO kann eine Partei die Wiederherstellung einer
+Frist verlangen, wenn sie diese versäumt hat und ihr daraus ein erheblicher und
+unersetzlicher Rechtsverlust erwachsen würde, wobei sie glaubhaft zu machen
+hat, dass sie an der Säumnis kein Verschulden trifft. Das Gesuch ist innert 30 Tagen
+nach Wegfall des Säumnisgrundes schriftlich und begründet bei derjenigen
+Behörde zu stellen, bei welcher die versäumte Verfahrenshandlung hätte
+vorgenommen werden müssen (Art. 94 Abs. 2 StPO). Bei einer versäumten
+Einsprachefrist gegen einen Strafbefehl ist dies die Staatsanwaltschaft
+(Art. 354 StPO). Diese Voraussetzung ist mit der erhobenen Einsprache vom
+10. September 2024 bei der Staatsanwaltschaft erfüllt.
+
+3.3.2 Dass
+dem Beschwerdeführer aus der Säumnis ein erheblicher und unersetzlicher
+Rechtsverlust erwächst, steht ausser Frage. Hingegen gilt es zu beurteilen, ob
+auch die zweite Voraussetzung für eine allfällige Wiederherstellung der Frist,
+das Unverschulden an der Säumnis, gegeben ist. Für das Gewähren einer
+Wiederherstellung der Frist wird klare Schuldlosigkeit bezüglich der Säumnis
+verlangt. Jedes noch so geringe Verschulden schliesst die Wiederherstellung der
+Frist aus ( Riedo , in: Basler
+Kommentar, 3. Auflage 2023, Art. 94 StPO N 35; AGE BES.2019.266 vom
+13. Januar 2020 E. 3.3).
+
+Der
+Beschwerdeführer gab an, er habe sich seit dem 15. September 2020 zur
+Kur in Südfrankreich befunden. Der Post habe er einen Umleitungsauftrag erteilt,
+der allerdings nicht korrekt umgesetzt worden sei. Es seien mehrere Briefe
+nicht umgeleitet worden («plusieurs courriers nont pas été réexpédiés»,
+act. 3).
+
+Zunächst ist
+festzuhalten, dass bereits der Nachweis darüber fehlt, dass der
+Beschwerdeführer die Post tatsächlich hat umleiten lassen. Der Beschwerdeführer
+geht gemäss den Ausführungen in seiner Beschwerde (act. 3) allerdings
+nicht davon aus, dass die Post den gesamten Umleitungsauftrag nicht korrekt
+erfasst hat, sondern nur «mehrere Briefe» ihn nicht erreichten. Überdies legt
+der Beschwerdeführer auch nicht genauer dar, inwiefern die Post diesem
+Umleitungsauftrag nicht nachgekommen ist und sich entsprechend über seine
+Anweisungen hinweggesetzt hat. Auch wenn der Beschwerdeführer die Post
+tatsächlich mit einem Umleitungsauftrag beauftragt und die Post nicht alle
+Briefe korrekt weitergeleitet hätte, ist die Wahrscheinlichkeit, dass den
+Beschwerdeführer keines der Schreiben (die Übertretungsanzeige [«Avis
+dInfraction»], die Zahlungserinnerung [«rappel de facture»], der Strafbefehl
+und die erste Mahnung) erreichte, doch relativ klein. Diese Vermutung wird
+dadurch gestützt, dass alle Schreiben an dieselbe Adresse ([...]) geschickt
+wurden. Schliesslich ist darauf hinzuweisen, dass die Tatzeit in Basel vom
+29. Oktober 2020 datiert. Das heisst, der Beschwerdeführer hat sich
+rund sechs Wochen nach dem Kurbeginn in Südfrankreich (15. September 2020)
+nochmals in Basel und daher mit an Sicherheit grenzender Wahrscheinlichkeit auch
+an seinem offiziellen Wohnort in [...] aufgehalten. Hätte die Post seinen Umleitungsauftrag
+übergangen, hätte der Beschwerdeführer dies wohl bereits zu diesem Zeitpunkt realisiert
+oder zumindest realisieren können.
+
+Alles in Allem kann
+von fehlendem Verschulden an der verpassten Einsprachefrist keine Rede sein.
+Eine Wiederherstellung der Frist nach Art. 94 Abs. 1 StPO ist
+somit ausgeschlossen.
+
+3.4 Zusammenfassend
+ergibt sich, dass der Nichteintretensentscheid der Vor­instanz zu Recht
+ergangen ist.
+
+4.
+
+4.1 Von
+Amtes wegen ist jeweils die Vollstreckungsverjährung zu prüfen, welche bei
+Bussen drei Jahre beträgt und den Strafvollzug einer rechtskräftigen Sanktion
+verhindert (Art. 441 StPO in Verbindung mit Art. 109 des
+Strafgesetzbuches [StGB, SR 311.0]). Die Vollstreckungsverjährung einer
+Busse beginnt mit dem Tag, an dem das Urteil rechtlich vollstreckbar wird
+(Art. 100 StGB).
+
+4.2 Der
+Strafbefehl vom 26. August 2021 wurde dem Beschwerdeführer
+nachweislich am 31. August 2021 zugestellt (Vorakten S. 5). Da der
+Strafbefehl nicht innert der zehntägigen Frist angefochten wurde (siehe hiervor
+E. 3.2.2), ist dieser am 26. August 2021 (rückwirkend) in
+Rechtskraft erwachsen (Art. 354 Abs. 3 StPO). Die
+Vollstreckungsverjährung ist somit am 25. August 2024 eingetreten. Deshalb
+kann die Busse nicht mehr vollstreckt werden. Dies gilt allerdings nicht für
+die Verfahrenskosten und Gebühren, für welche die normalen Bestimmungen
+betreffend Verjährung einer Geldforderung  zehn Jahre  gelten
+(Art. 127 Obligationenrecht [OR, SR 220]).
+
+Dementsprechend
+hat der Beschwerdeführer die Busse von CHF 120. nicht zu tragen, hingegen die
+Verfahrenskosten und Gebühren im Umfang von CHF 208.60 (Vorakten S. 9).
+
+5.
+
+Die Beschwerde
+ist nach dem Gesagten abzuweisen. Die Kosten des Rechtsmittelverfahrens tragen
+die Parteien nach Massgabe ihres Obsiegens oder Unterliegens (Art. 428
+Abs. 1 StPO). Dem Ausgang des Beschwerdeverfahrens folgend hat der
+Beschwerdeführer dessen Kosten zu tragen. Die Entscheidgebühr ist in Anwendung
+von § 21 Abs. 2 des Reglements über die Gerichtsgebühren
+(Gerichtsgebührenreglement [GGR, SG 154.810]) auf CHF 200. zu bemessen.
+
+Demgemäss erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die Kosten des
+Beschwerdeverfahrens mit einer Gebühr von CHF 200..
+
+Mitteilung an:
+
+- Beschwerdeführer (Übersetzung des Dispositivs auf Französisch)
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Justiz- und Sicherheitsdepartement Basel-Stadt, Straf- und Massnahmenvollzug
+
+- VOSTRA-Koordinationsstelle
+
+- Migrationsamt Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+a.o. Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               MLaw Liliane
+Obrecht
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
