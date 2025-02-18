@@ -1,0 +1,460 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2025.136"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2025.29"
+docket_2: "SVG.2025.136"
+decided: "2025-02-18"
+published: "2025-05-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78733&W10_KEY=3049200&nTrefferzeile=59&Template=search_result_document.html"
+cites_decisions: ["8C_207/2019", "8C_238/2023", "8C_465/2022", "8C_571/2023", "8C_619/2022", "8C_664/2017", "9C_224/2020", "9C_244/2017", "9C_438/2022", "BGE 130 V 64", "BGE 130 V 71", "BGE 133 V 108", "BGE 141 V 585", "BGE 141 V 9", "BGE 149 V 177", "IV.2025.29"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# Neuanmeldungsverfahren; Verschlechterung des Gesundheitszustands nicht glaubhaft nachgewiesen; Abweisung der Beschwerde
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 27.
+Mai 2025
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz),
+Dr. W. Rühl , lic. iur. S. Bammatter-Glättli
+
+und
+Gerichtsschreiber Dr. M. Kreis
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch Dr. Marco Biaggi,
+Advokat, St. Jakobs-Strasse 11, Postfach, 4010 Basel
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2025.29
+
+Verfügung vom 18. Februar 2025
+
+Neuanmeldungsverfahren; Verschlechterung
+des Gesundheitszustands nicht glaubhaft nachgewiesen; Abweisung der Beschwerde
+
+Tatsachen
+
+I.
+
+a) Der [...] geborene Beschwerdeführer hat eine Anlehre als
+Sportartikelverkäufer absolviert. Ein Lehrverhältnis im Zusammenhang mit einer
+im Jahr 2019 angefangenen Ausbildung zum Fachmann Betreuung (FaBe) wurde abgebrochen
+(IV-Akte 56, S. 10). Seither wird der Beschwerdeführer von der Sozialhilfe
+unterstützt (vgl. IV-Akte 127, S. 1; vgl. IV-Akte 95).
+
+b) Der Beschwerdeführer meldete sich erstmals am 27. Februar
+2019 zum Bezug von Leistungen bei der Beschwerdegegnerin an (IV-Akte 2, S. 1-9).
+Die Beschwerdegegnerin tätigte daraufhin erwerbliche (vgl. IV-Akte 56, S. 1-12)
+und medizinische Abklärungen (vgl. IV-Akte 33, S. 1-3) und liess den
+Beschwerdeführer bei der MEDAS B____ in den Fachdisziplinen Allgemeine Innere
+Medizin, Neuropsychologie, Rheumatologie und Psychiatrie polydisziplinär begutachten
+(vgl. IV-Akte 90, S. 34; nachfolgend MEDAS Gutachten). Im Wesentlichen gestützt
+auf das MEDAS Gutachten vom 13. Mai 2022 lehnte die Beschwerdegegnerin einen
+Rentenanspruch aufgrund eines ermittelten IV-Grads von 32% mit Verfügung vom 5.
+Dezember 2022 ab (IV-Akte 109, S. 1-3). Die Verfügung erwuchs
+unangefochten in Rechtskraft.
+
+c) Am 3. Juni 2024 stellte der Beschwerdeführer erneut ein
+Leistungsgesuch bei der Beschwerdegegnerin unter Hinweis auf eine erhebliche
+und dauerhafte Verschlechterung des Gesundheitszustands (vgl. IV-Akte 112, S. 1)
+und liess hierzu Arztberichte der C____ einreichen (vgl. IV-Akte 116, S. 1-21).
+Gestützt auf die Beurteilung des Regional Ärztlichen Dienstes (nachfolgend
+RAD) vom 24. September 2024 (IV-Akte 118, S. 1-4) stellte die
+Beschwerdegegnerin mit Vorbescheid vom 1. Oktober 2024 in Aussicht, auf das
+neue Leistungsbegehren mangels glaubhaft dargelegter Verschlechterung
+nicht einzutreten (IV-Akte 119, S. 1 f.).  Mit Einwand vom 22. Oktober 2024
+wurde am Leistungsgesuch festgehalten (IV-Akte 123, S. 1 f.). Gestützt auf eine
+erneute Beurteilung des RAD vom 14. Februar 2025 erging am 18. Februar 2025
+eine dem Vorbescheid entsprechende Verfügung (IV-Akte 129, S. 1 f.). Auf einen vom
+Beschwerdeführer eingereichten Arztbericht vom 20. Januar 2025 (vgl. IV-Akte
+126, S. 1-3), erfolgte am 24. März 2025 eine erneute Einschätzung vom RAD (vgl.
+IV-Akte 133, S. 1 f.).
+
+II.
+
+a) Mit Eingabe vom 26. Februar 2025 erhebt der Beschwerdeführer
+Beschwerde gegen die Verfügung vom 18. Februar 2025.
+
+b) Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom 7.
+April 2025 unter o/e-Kostenfolge auf vollumfängliche Abweisung der Beschwerde,
+soweit darauf einzutreten sei.
+
+c) Replicando hält der Beschwerdeführer am 16. April 2025 an
+seiner Beschwerde und den darin gestellten Anträgen fest.
+
+III.
+
+Innert Frist hat keine der Parteien die Durchführung einer
+mündlichen Parteiverhandlung verlangt. Am 27. Mai 2025 findet die
+Urteilsberatung durch die Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt
+ist als einzige kantonale Instanz sachlich zuständig zum Entscheid über die
+vorliegende Streitigkeit (§ 82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend
+die Organisation der Gerichte und der Staatsanwaltschaft
+[Gerichtsorganisationsgesetz/GOG]; SG 154.100).
+
+1.2. Die örtliche Zuständigkeit des
+angerufenen Gerichts ergibt sich aus Art. 69 Abs. 1 lit. a des Bundesgesetzes
+vom 19. Juni 1959 über die Invalidenversicherung (IVG; SR 831.20).
+
+1.3. Da auch die übrigen formellen
+Voraussetzungen erfüllt sind, ist auf die rechtzeitig erhobene Beschwerde
+einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin stellt
+sich auf den Standpunkt, dass keine Verschlechterung des Gesundheitszustandes
+glaubhaft gemacht worden sei, da kein veränderter Befund vorliegen würde
+(Beschwerdeantwort, S. 2 f., Ziff. 4 ff.). Nach Ansicht der Beschwerdegegnerin habe
+nach wie vor die gutachterliche Einschätzung der MEDAS vom Mai 2022 zu gelten
+(vgl. Beschwerdeantwort, S. 3, Ziff. 6).
+
+2.2. Der Beschwerdeführer macht
+geltend, dass sich sein Gesundheitszustand seit der abschlägigen Verfügung der
+Beschwerdegegnerin vom 5. Dezember 2022 erheblich verschlechtert habe (vgl.
+Beschwerde, S. 1-5, Rz. 3 ff.; vgl. Replik, S. 1-3). Er sei in stationärer
+Behandlung in den C____ gewesen und sei bei Dr. med. D____ in Therapie. Dieser
+würde festhalten, dass der Beschwerdeführer konkrete suizidale Vorstellungen
+habe, sich sozial isoliere und über mangelnden Antrieb sowie Schlafstörungen klage
+(Beschwerde, S. 3, Rz. 4).
+
+2.3. Streitig und nachfolgend zu
+prüfen ist, ob die Beschwerdegegnerin zu Recht mit Verfügung vom 18. Februar
+2025 auf das Leistungsbegehren des Beschwerdeführers vom 3. Juni 2024 nicht
+eingetreten ist.
+
+3.
+
+3.1. Die Neuanmeldung zum
+Leistungsbezug wird nur materiell geprüft, wenn die versicherte Person
+glaubhaft macht, dass sich die tatsächlichen Verhältnisse seit der letzten
+rechtskräftigen Entscheidung in einem für den Rentenanspruch erheblichen Mass
+verändert haben (Art. 87 Abs. 3 i.V.m. Abs. 2 der Verordnung vom 17. Januar
+1961 über die Invalidenversicherung [SR 831.201; IVV]; BGE 130 V 71 E. 2.2 mit
+Hinweisen). Gelingt ihr dies nicht, so wird auf das Gesuch nicht eingetreten.
+Die ratio legis dieser Regelung besteht darin, dass sich die Verwaltung nicht
+immer wieder mit gleichlautenden und nicht näher begründeten, d.h. keine
+Veränderung des Sachverhalts darlegenden Leistungsgesuchen befassen muss (BGE
+130 V 64 E. 5.2.3 mit Hinweisen). Sie dient damit der Verfahrensökonomie. Ist
+die anspruchserhebliche Änderung hingegen begründet, ist die Verwaltung
+verpflichtet, auf das neue Leistungsbegehren einzutreten und es in tatsächlicher
+und rechtlicher Hinsicht umfassend zu prüfen (BGE 141 V 9, 10 E. 2.3); sie hat
+demnach in analoger Weise wie bei einem Revisionsfall nach Art. 17 ATSG
+vorzugehen (BGE 141 V 585, 588 E. 5.3). Die Beweisführungslast für das
+Vorliegen einer glaubhaften Änderung der tatsächlichen Verhältnisse liegt somit
+bei der versicherten Person (vgl. das Urteil des Bundesgerichts 8C_619/2022 vom
+22. Juni 2023 E. 3.2 am Ende mit Hinweisen). Der Untersuchungsgrundsatz kommt
+insofern erst zum Tragen, nachdem sie eine massgebliche Änderung ihres
+Gesundheitszustands seit der letzten rechtskräftigen Leistungsverweigerung
+glaubhaft gemacht hat (vgl. das Urteil des Bundesgerichts 8C_619/2022 vom 22.
+Juni 2023 a.a.O.).
+
+3.2.
+
+3.2.1. Anlass zu einer Neuprüfung bieten
+kann namentlich eine glaubhaft gemachte Verschlechterung des
+Gesundheitszustandes mit entsprechend verminderter Arbeitsfähigkeit oder
+geänderte erwerbliche Auswirkungen einer im Wesentlichen gleich gebliebenen
+Beeinträchtigung der Gesundheit (vgl. das Urteil des Bundesgerichts 8C_207/2019
+vom 3. Juli 2019 E. 3.1). Mit dem Beweismass der Glaubhaftmachung sind die
+Anforderungen an den Beweis herabgesetzt. Es genügt, dass für das Vorhandensein
+des geltend gemachten rechtserheblichen Sachumstandes wenigstens gewisse
+Anhaltspunkte bestehen, auch wenn durchaus noch mit der Möglichkeit zu rechnen
+ist, bei eingehender Abklärung werde sich die behauptete Änderung nicht
+erstellen lassen (Urteile des Bundesgerichts 8C_571/2023 vom 29. Februar 2024
+E. 4.2 und 8C_465/2022 vom 18. April 2023 E. 3.2 sowie 9C_438/2022 vom 24.
+November 2022 E. 2; je mit Hinweisen).
+
+3.2.2. Erheblich ist eine Sachverhaltsänderung, wenn angenommen
+werden kann, der Anspruch sei begründet, falls sich die geltend gemachten
+Umstände als richtig erweisen sollten (vgl. BGE 149 V 177, 183 f. E. 4.7 mit
+Hinweisen). Keine erhebliche Sachverhaltsänderung liegt demgegenüber vor, wenn
+ein neuer Arztbericht den bereits bekannten, im Zeitpunkt der ursprünglichen
+Verfügung gegebenen Sachverhalt anders bewertet und daraus andere
+Schlussfolgerungen zieht als im früheren Verwaltungs- oder Beschwerdeverfahren.
+Weder eine im Vergleich zu früheren ärztlichen Einschätzungen ungleich
+attestierte Arbeitsunfähigkeit noch eine unterschiedliche diagnostische
+Einordnung des geltend gemachten Leidens genügt per se, um auf einen
+veränderten Gesundheitszustand zu schliessen; notwendig ist vielmehr eine
+veränderte Befundlage (vgl. das Urteil des Bundesgerichts 8C_238/2023 vom 22.
+November 2023 E. 3.2.2 mit Hinweisen). Mit anderen Worten ist eine andere
+Beurteilung des gleichen Sachverhalts in revisionsrechtlicher Hinsicht nicht
+massgeblich (vgl. das Urteil des Bundesgerichts 9C_224/2020 vom 27. Mai 2020 E.
+3.1).
+
+3.2.3. Wurden bei der versicherten Person auf der Grundlage
+eines versicherungsexternen Gutachtens Leistungsansprüche rechtskräftig
+abgewiesen, haben die medizinischen Akten, die bei der Neuanmeldung eingereicht
+werden, auf das versicherungsexterne Gutachten Bezug zu nehmen. Konkret haben
+die Arztberichte detailliert aufzuzeigen, inwiefern sich die Gesundheitsleiden
+der versicherten Person aktuell von den früheren Gesundheitsleiden (die im
+versicherungsexternen Gutachten dargelegt worden sind) unterscheiden ( Marco Weiss , Die Neuanmeldung in der IV,
+SZS 2023, S. 16). Es genügt daher nicht, wenn die Arztberichte nur auf die
+eigenen Vorberichte Bezug nehmen (vgl. das Urteil des Bundesgerichts
+8C_664/2017 vom 25. Januar 2018 E. 5). Spricht sich eine ärztliche Einschätzung
+nicht in hinreichender Weise darüber aus, ob und bejahendenfalls inwiefern eine
+effektive Veränderung der gesundheitlichen Situation im entscheidrelevanten
+Referenzzeitraum stattgefunden hat, mangelt es ihm, sofern sich eine
+entsprechende Sachlage nicht ohnehin augenfällig präsentiert, am rechtlich
+erforderlichen Beweiswert (Urteil des Bundesgerichts 9C_244/2017 vom 26.
+Oktober 2017 E. 5.2.1.).
+
+3.3. Die zeitliche Vergleichsbasis
+für die Frage der wesentlichen Änderung in den tatsächlichen Verhältnissen
+beurteilt sich durch Vergleich des Sachverhalts, wie er im Zeitpunkt der
+letzten rechtskräftigen und auf einer materiellen Prüfung des Rentenanspruchs
+(mit rechtskonformer Sachverhaltsabklärung, Beweiswürdigung und
+Invaliditätsbemessung) beruhenden Verfügung bestanden hat, mit demjenigen
+zurzeit der streitigen Revisionsverfügung (BGE 133 V 108 E. 5.3). Im
+vorliegenden Fall bildet daher die Verfügung vom 5.
+Dezember 2022 den massgeblichen Referenzzeitpunkt.
+
+4.
+
+4.1. Die Beschwerdegegnerin stützte
+ihre leistungsablehnende Verfügung vom 5. Dezember 2022 in medizinischer
+Hinsicht auf das MEDAS Gutachten vom 13. Mai 2022 (IV-Akte
+90). Im MEDAS Gutachten wurde in Kenntnis früherer stationärer Aufenthalte
+sowie auch schwerer depressiver Episoden eine Gesamtarbeitsfähigkeit in
+angepasster Tätigkeit von 34% attestiert (vgl. IV-Akte 90, S. 42).
+
+4.1.1. Nachdem Dr. med. E____, Facharzt für
+Psychiatrie und Psychotherapie, zahlreiche Inkonsistenzen in seinem
+psychiatrischen Teilgutachten festhielt (vgl. IV-Akte 90, S. 74 f.),
+diagnostizierte er folgende Störungen mit Auswirkung auf die Arbeitsfähigkeit:
+anhaltende Schmerzstörung, F45.4 nach ICD-10; unvollständig remittierte
+depressive Episode, F32 nach ICD-10, aktuell auf leichtgradigem Niveau, vormals
+beschrieben auf mittel- und schwergradigem Niveau, einschliesslich
+psychotischer Symptomatik; Hinweise auf posttraumatisches Erleben, ohne dass
+jedoch die Kriterien einer posttraumatischen Belastungsstörung, F43.1 nach
+ICD-10, oder die Kriterien einer komplexen posttraumatischen Belastungsstörung
+(etwa im Sinne F62.0 nach ICD-10 oder entsprechend Kriterien ICD-11) erfüllt
+wären. Demgegenüber hielt er folgende Störungen ohne Auswirkung auf die
+Arbeitsfähigkeit fest: dysfunktionale Störungsverarbeitung, F54 nach ICD-10;
+auffällige Persönlichkeitszüge, Z73 nach ICD-10 (vgl. IV-Akte 90, S. 84).
+
+4.1.2. Dr. med. F____, Fachpsychologe für
+Neuropsychologie, hielt in seinem neuropsychologischen Teilgutachten fest, dass
+aufgrund der nicht validen Befunde die Frage zur Arbeitsfähigkeit bzw.
+Arbeitsunfähigkeit in der bisherigen Tätigkeit aus neuropsychologischer Sicht
+nicht beurteilbar sei (IV-Akte 90, S. 57). In diesem Zusammenhang seien die
+Performancevalidierungstests sehr auffällig ausgefallen, weshalb eine
+bewusstseinsnahe Verfälschung der Ergebnisse angenommen werden müsse (vgl.
+IV-Akte 90, S. 55 f.).
+
+4.2. Der Beschwerdeführer war
+zweimal in den C____  jeweils vom 21. Juni 2024 bis am 4. Juli 2024 und vom 8.
+Juli 2024 bis am 16. Juli 2024  hospitalisiert und reichte zwei
+Austrittsberichte ein (vgl. IV-Akte 116, S. 5 ff. und S. 8 ff.). Zudem reichte er
+eine Stellungnahme von Dr. med. D____ vom 20. Januar 2025 ein (vgl. IV-Akte
+126, S. 2 f.).
+
+4.2.1. Im ersten Austrittsbericht vom 17.
+Juli 2024 der C____ wurde eine rezidivierende depressive Störung, gegenwärtig
+schwere Episode mit psychotischen Symptomen (F33.3) und eine andauernde
+Persönlichkeitsänderung nach Extrembelastung (F62.0) diagnostiziert (vgl.
+IV-Akte 116, S. 8). Psychopathologisch wurde festgehalten, dass der Patient in
+seinem Antrieb reduziert und von akuten suizidalen Handlungen glaubhaft
+abgegrenzt sei (vgl. IV-Akte 116, S. 9). Unter der Gesamttherapie habe sich das
+Zustandsbild des Patienten verbessert (vgl. IV-Akte 116, S. 10).
+
+4.2.2. Im zweiten, teilstationären Austrittsbericht vom 22.
+Juli 2024 der C____ wurde eine rezidivierende depressive Störung, gegenwärtig
+mittelgradige Episode (F33.1) und eine andauernde Persönlichkeitsänderung nach
+Extrembelastung (F62.0) diagnostiziert (vgl. IV-Akte 116, S. 5). Unter der
+Gesamttherapie habe sich das Zustandsbild des Patienten verbessert. Der Patient
+habe am 16. Juli 2024 in gebessertem Allgemeinzustand und stabilisierter
+Stimmung wieder aus der stationären Behandlung austreten können. Es hätten
+keine Gefährdungsaspekte vorgelegen (vgl. IV-Akte 116, S. 6).
+
+4.2.3. Dr. med. D____ hält in seiner Stellungnahme vom 20.
+Januar 2025 fest, dass bis dato zwei Sitzungen  am 18. November 2024 und am 7.
+Januar 2025  stattgefunden hätten und der Beschwerdeführer jeweils äusserst
+depressiv gewirkt habe und traurig gewesen sei (vgl. IV-Akte 126, S. 2). Dr.
+med. D____ hält fest, dass der Beschwerdeführer immer wieder Selbstmordgedanken
+und lebensüberdrüssige Gedanken habe und er keine Zukunft sehe und keine
+Perspektive mehr im Leben habe, wobei er sich jeweils in den Gesprächen von
+akuten Selbstmordhandlungen distanziert habe. Es bestünde aber die Gefahr, dass
+eines Tages die Suizidalität und die suizidalen Gedanken so stark vorhanden
+seien, dass er sich nicht mehr rational überwinden könne, so Dr. med. D____.
+Eine stationäre psychiatrische Behandlung in der C____ sei daher eine Option, da
+die Suizidalität äusserst stark vorhanden sei. Dr. med. D____ hält insbesondere
+Folgendes fest: «Um die diagnostische Einordnung zu diskutieren bezüglich des
+Gutachtens der MEDAS B____ vom 13.05.2022, wonach eine anhaltende
+Schmerzstörung (F45.4), unvollständig remittierte depressive Episode (F32),
+damals leichtgradiges Niveau, und die Diagnose der C____, letzte
+Hospitalisation vom 04.07.2024 [Kursivsetzung nicht im Original], wonach
+eine rezidivierende depressive Störung, gegenwärtig schwere depressive Episode
+mit psychotischen Symptomen (F33.3) diagnostiziert wurde, ist eher die letzte
+Diagnose aktuell bei Herrn A____ vorhanden. Es sei kein Anhaltspunkt für eine
+anhaltende Schmerzstörung zu sehen, da die depressive Symptomatik, begleitet
+von psychotischen Symptomen, aktuell im Vordergrund stehe. Alle Kriterien nach
+ICD-10 für eine schwere depressive Episode seien bei Herrn A____ erfüllt,
+nämlich Suizidgedanken, konkrete suizidale Vorstellungen, soziale Isolation,
+mangelnder Antrieb, Schlafstörungen und lebensüberdrüssige Gedanken» (vgl.
+IV-Akte 126, S. 3). Nach Ansicht von Dr. med. D____ sei eine «drastisch
+sichtbare und objektivierbare Verschlechterung des depressiven Zustandsbilds»
+seit Behandlungsbeginn «deutlich sichtbar» (vgl. IV-Akte 126, a.a.O.).
+
+4.3. Der RAD
+äusserte sich sowohl zu den Austrittsberichten der C____ (vgl. E. 4.2.1 f.
+hiervor) als auch zur Stellungnahme von Dr. med. D____ (vgl. E. 4.2.3. hiervor).
+
+4.3.1. Dr. med. G____, Facharzt für Psychiatrie und
+Psychotherapie, vom RAD hat in seiner Stellungnahme vom 14. Februar 2025
+betreffend die Austrittsberichte der C____ festgehalten, dass die nun geltend
+gemachte andauernde Persönlichkeitsänderung nach Extrembelastung, komplexe
+Traumafolgestörung bereits zum Zeitpunkt des Gutachtens von 02/22 diskutiert
+und als solche gewürdigt worden sei. Syndromal bestehe heute wie damals
+dasselbe klinische Bild mit depressiven Symptomen (einschliesslich kognitiver
+Störungen) und körperlichen Schmerzen und einer auffälligen
+Persönlichkeitsstruktur. Insofern würden sich keine Hinweise auf eine
+gesundheitliche Verschlechterung seit der letzten Verfügung von 12/22 ergeben
+(vgl. IV-Akte 127, S. 2 f.).
+
+4.3.2. Dr. med. G____, hat überdies zur Stellungnahme von Dr.
+med. D____ am 24. März 2025 festgehalten, dass auch mit dem Behandlerbericht
+vom 01/25 sich gegenüber den Voruntersuchungen keine grundlegend neuen
+medizinischen Erkenntnisse ergeben würden. Auch im Vergleich zu der vorgängigen
+Stellungnahme (Dossier 14.02.25) würden sich mit den oben genannten Angaben
+keine grundlegend veränderten Einschätzungen ergeben. Es bestünden weiterhin
+depressive Symptome und körperliche Beschwerden, auch bei anhaltenden
+psychosozialen Belastungen. Damit würde sich keine sachliche Grundlage für eine
+veränderte Einschätzung des Gesundheitszustandes ergeben (vgl. IV-Akte 133, S. 2).
+
+4.4. Gestützt auf die zutreffenden
+Ausführungen des RAD in dessen Stellungnahmen vom 14. Februar 2025 und 24. März
+2025, ist eine Verschlechterung des Gesundheitszustands des Beschwerdeführers ab
+dem massgeblichen Referenzzeitpunkt vom 5. Dezember 2022 nicht glaubhaft
+ausgewiesen. Die in den Austrittsberichten der C____ genannte, andauernde
+Persönlichkeitsänderung nach Extrembelastung, wurde bereits zum Zeitpunkt des
+MEDAS Gutachtens gewürdigt (vgl. IV-Akte 90, insb. S. 9, S. 38 und S. 81 f.).
+Syndromal besteht nach wie vor dasselbe klinische Bild mit depressiven
+Symptomen (vgl. IV-Akte 127, S. 2), hält doch auch der Beschwerdeführer
+immerhin fest, dass eine rezidivierende depressive Störung schon bekannt war
+(vgl. Replik, 2, Rz. 3). Inwiefern der Beschwerdeführer eine Verschlechterung durch
+die Stellungnahme von Dr. med. D____ ableiten will, ist nicht ersichtlich. Es bleibt unklar, worauf Dr. med. D____ die wesentliche
+Verschlechterung ab dem 18. November 2024 konkret abstützt, fehlt doch
+eine veränderte Befundlage. Zum einen fehlt eine Auseinandersetzung von Dr.
+med. D____ mit dem letzten, zweiten Austrittsbericht der C____ vom 22. Juli
+2024 (letzte Hospitalisation vom 16. Juli 2024, vgl. E. 4.2.2. hiervor), wird
+dort doch explizit festgehalten, dass der Patient in gebessertem
+Allgemeinzustand und stabilisierter Stimmung aus der stationären Behandlung
+austreten konnte und keine Gefährdungsaspekte vorgelegen haben. Zum anderen
+nennt Dr. med. D____ im Gegensatz zu den C____ nur noch die Depression als
+Diagnose und keine Persönlichkeitsänderung nach Extrembelastung. Ausserdem
+fehlt bei Dr. med. D____ in Gänze eine detaillierte Begründung, weshalb von der
+differenzierten und ausführlichen Einschätzung zum Schweregrad der depressiven
+Störung im MEDAS Gutachten (vgl. IV-Akte 90, S. 78 f.) abgewichen werden soll,
+war doch namentlich der Leidensdruck bereits damals hoch (vgl. IV-Akte 90, S. 74).
+Weder die Austrittsberichte der C____ noch die Stellungnahme von Dr. med. D____
+legen hinreichend dar, inwiefern im Vergleich zum Zustand vom 5. Dezember 2022
+eine dauerhafte Verschlechterung des Gesundheitszustands eingetreten sein soll.
+
+4.5. Zusammenfassend hat der
+Beschwerdeführer eine Verschlechterung seines Gesundheitszustands verglichen mit
+dem Zeitpunkt der Verfügung vom 5. Dezember 2022 nicht glaubhaft nachgewiesen.
+Es ist daher nicht zu beanstanden, dass die Beschwerdegegnerin auf die
+Neuanmeldung vom 3. Juni 2024 nicht eingetreten ist.
+
+5.
+
+5.1. Aus den obenstehenden
+Erwägungen folgt, dass die angefochtene Verfügung vom 18. Februar 2025 korrekt
+und die dagegen erhobene Beschwerde abzuweisen ist.
+
+5.2. Die ordentlichen Kosten,
+bestehend aus einer Gebühr von Fr. 800.-- (Art. 69 Abs. 1 bis IVG),
+sind bei diesem Ausgang des Verfahrens dem Beschwerdeführer aufzuerlegen.
+
+5.3. Die ausserordentlichen Kosten
+sind wettzuschlagen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      Die Beschwerde wird abgewiesen.
+
+Der Beschwerdeführer trägt die ordentlichen
+Kosten des Verfahrens, bestehend aus einer Gebühr von Fr. 800.--.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                    Der
+Gerichtsschreiber
+
+Dr. G. Thomi Dr. M.
+Kreis
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+        Bundesamt für
+Sozialversicherungen
+
+Versandt am:
