@@ -1,0 +1,410 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2025.86"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "AL"
+docket: "AL.2024.23"
+docket_2: "SVG.2025.86"
+decided: "2025-02-25"
+published: "2025-05-23"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78369&W10_KEY=3049204&nTrefferzeile=67&Template=search_result_document.html"
+cites_decisions: ["8C_19/2019", "8C_237/2021", "8C_690/2018", "8C_711/2022", "AL.2024.23", "BGE 112 V 242", "BGE 124 V 234", "BGE 146 V 224", "BGE 148 V 144"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/837.0/art-030.md", "switzerland/bund/acts/837.0/art-100.md", "switzerland/bund/acts/837.02/art-044.md", "switzerland/bund/acts/837.02/art-045.md"]
+---
+
+# AVIG Einstellung infolge selbstverschuldeter Arbeitslosigkeit
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 25. Februar 2025
+
+Mitwirkende
+
+Dr. G. Thomi (Vorsitz),
+Dr. F. W. Eymann , Dr. T. Fasnacht
+
+und
+Gerichtsschreiber Dr. M. Kreis
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführer
+
+Öffentliche Arbeitslosenkasse
+Basel-Stadt
+
+Sandgrubenstrasse 44, Postfach
+3759, 4002 Basel
+
+vertreten durch Amt für
+Wirtschaft und Arbeit,
+
+B____, Utengasse 36, Postfach,
+4005 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+AL.2024.23
+
+Einspracheentscheid vom 10.
+Oktober 2024
+
+Einstellung infolge
+selbstverschuldeter Arbeitslosigkeit
+
+Tatsachen
+
+I.
+
+a) Der Beschwerdeführer arbeitete im Rahmen einer seit 1.
+Januar 2024 unbefristeten Anstellung bei der C____ GmbH als Junior Software
+Engineer (vgl. Antwortbeilagen [AB] 2). Die Arbeitgeberin kündigte das
+Arbeitsverhältnis mit dem Beschwerdeführer am 31. Mai 2024 zunächst auf den 30.
+Juni 2024, infolge einer Arbeitsunfähigkeit verlängerte sich die
+Kündigungsfrist auf den 31. Juli 2024 (vgl. AB 2, 3 und 4). Der
+Beschwerdeführer meldete sich in der Folge bei der Arbeitslosenversicherung zum
+Bezug von Taggeldern ab dem 1. August 2024 an (vgl. AB 7).
+
+b) Mit Verfügung vom 27. August 2024 stellte ihn die
+Öffentliche Arbeitslosenkasse Basel-Stadt (ÖAK) wegen selbstverschuldeter
+Arbeitslosigkeit ab dem 1. August 2024 für 31 Tage in der Anspruchsberechtigung
+ein (vgl. AB 8). Hiergegen erhob der Beschwerdeführer am 29. August 2024
+Einsprache (vgl. AB 9), welche mit Einspracheentscheid der ÖAK vom 10. Oktober
+2024 abgewiesen wurde (vgl. AB 10).
+
+II.
+
+a) Hiergegen hat der Beschwerdeführer am 2. November 2024
+Beschwerde beim Sozialversicherungsgericht Basel-Stadt erhoben. Er beantragt sinngemäss
+die Aufhebung der verfügten Einstelltage.
+
+b) Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom 5.
+Dezember 2024 auf Abweisung der Beschwerde.
+
+c) Der Beschwerdeführer
+reicht innert Frist keine Replik ein.
+
+III.
+
+Am 25. Februar 2025 findet die Beratung der Sache durch die
+Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Gemäss Art. 1 Abs. 1 des Bundesgesetzes
+vom 25. Juni 1982 über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung (AVIG; SR 837.0) in Verbindung mit den Art. 56 und
+57 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des
+Sozialversicherungsrechts (ATSG; SR 830.1) kann gegen Einspracheentscheide
+aus dem Bereich der Arbeitslosenversicherung Beschwerde beim kantonalen
+Versicherungsgericht erhoben werden.
+
+1.2. Örtlich zuständig für die Beurteilung von
+Beschwerden gegen Einspracheentscheide der ÖAK ist gemäss Art. 100 Abs. 3 AVIG in
+Verbindung mit Art. 128 Abs. 1 und Art. 119 Abs. 1 lit. a der Verordnung
+vom 31. August 1983 über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung (AVIV; SR 837.02) das Versicherungsgericht
+desjenigen Kantons, in welchem die versicherte Person die Kontrollpflicht
+erfüllt. Dies ist vorliegend im Kanton Basel-Stadt. Damit ist das angerufene
+Gericht zur Behandlung der vorliegenden Beschwerde örtlich zuständig.
+
+1.3. Gestützt auf § 82 des Gesetzes vom 3. Juni
+2015 betreffend die Organisation der Gerichte und der Staatsanwaltschaft (GOG;
+SG 154.100) und § 1 Abs. 1 des Gesetzes vom 9. Mai 2001 über das
+Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht
+in Sozialversicherungssachen (SVGG; SG 154.200) entscheidet das
+Sozialversicherungsgericht als einzige kantonale Instanz über alle sich aus
+Bundesrecht oder kantonalem Recht ergebenden sozialversicherungsrechtlichen
+Streitigkeiten. Dieses ist somit auch sachlich zur Behandlung der vorliegenden
+Beschwerde zuständig.
+
+1.4. Da die Beschwerde rechtzeitig innert der
+30-tägigen Frist nach Eröffnung des Einspracheentscheides erhoben worden ist
+(Art. 60 ATSG) und auch die übrigen formellen Beschwerdevoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+
+2.
+
+2.1. Umstritten und im Folgenden zu prüfen ist, ob die Beschwerdegegnerin
+den Beschwerdeführer mit Verfügung vom 27. August 2024, bestätigt mit
+Einspracheentscheid vom 10. Oktober 2024, zu Recht wegen selbstverschuldeter
+Arbeitslosigkeit ab dem 1. August 2024 für 31 Tage in der Anspruchsberechtigung
+eingestellt hat.
+
+2.2. 2.2.1. Die versicherte Person ist in der Anspruchsberechtigung
+einzustellen, wenn sie durch eigenes Verschulden arbeitslos ist (Art. 30 Abs. 1
+lit. a AVIG). Die Arbeitslosigkeit gilt insbesondere dann als
+selbstverschuldet, wenn die versicherte Person durch ihr Verhalten,
+insbesondere wegen Verletzung arbeitsvertraglicher Pflichten, dem Arbeitgeber
+Anlass zur Auflösung des Arbeitsverhältnisses gegeben hat (Art. 44 Abs. 1 lit.
+a AVIV; vgl. auch das Urteil des Bundesgerichts 8C_711/2022 vom 14. September
+2023 E. 3).
+
+2.2.2. Ein Selbstverschulden im Sinne der
+Arbeitslosenversicherung liegt vor, wenn und soweit der Eintritt der
+Arbeitslosigkeit nicht objektiven Faktoren zuzuschreiben ist, sondern in einem nach
+den persönlichen Umständen und Verhältnissen vermeidbaren Verhalten der
+versicherten Person liegt, für das die Arbeitslosenversicherung die Haftung
+nicht übernimmt (vgl. Kupfer Bucher ,
+in: Stauffer/Cardinaux [Hrsg.], Rechtsprechung des Bundesgerichts zum AVIG, 6.
+Aufl., Zürich/Genf 2025, Art. 30 AVIG Ziff. 2.1 S. 179). Die Einstellung in der
+Anspruchsberechtigung setzt keine Auflösung des Arbeitsverhältnisses aus
+wichtigem Grund gemäss Art. 337 bzw. Art. 346 Abs. 2 des Obligationenrechts vom
+30. März 1911 (OR; SR 220) voraus. Es genügt, dass das allgemeine Verhalten der
+versicherten Person Anlass zur Kündigung gegeben hat; Beanstandungen in
+beruflicher Hinsicht müssen nicht vorgelegen haben (vgl. das Urteil des
+Bundesgerichts 8C_19/2019 vom 1. April 2019 E. 2.3).
+
+2.2.3. Eine Einstellung in der Anspruchsberechtigung kann nur
+verfügt werden, wenn das dem Versicherten zur Last gelegte Verhalten in
+beweismässiger Hinsicht klar feststeht (zur Beweiskraft von Behauptungen des
+Arbeitgebers im Fall von Differenzen zwischen ihm und dem Arbeitnehmer vgl. BGE
+112 V 242, 245 E. 1; vgl. Thomas Nussbaumer , Arbeitslosenversicherung,
+in: Schweizerisches Bundesverwaltungsrecht, Bd. XIV Soziale Sicherheit, 3.
+Auflage, Basel 2016, Rz 835 mit Hinweisen). Das vorwerfbare Verhalten muss
+zudem nach Art. 20 lit. b des Übereinkommens Nr. 168 der Internationalen
+Arbeitsorganisation (IAO) über Beschäftigungsförderung und den Schutz gegen
+Arbeitslosigkeit vom 21. Juni 1988 vorsätzlich erfolgt sein, wobei
+Eventualvorsatz genügt (BGE 124 V 234, 236 E. 3a und b). Eventualvorsatz liegt
+vor, wenn die versicherte Person vorhersehen kann oder damit rechnen muss, dass
+ihr Verhalten zu einer Kündigung durch den Arbeitgeber führt, und sie dies in Kauf
+nimmt (vgl. das Urteil des Bundesgerichts 8C_237/2021 vom 6. September 2021 E.
+2.2).
+
+2.3. Der Beschwerdeführer bringt in seiner Beschwerde vor, dass die
+Beschwerdegegnerin seiner Sichtweise nur unzureichend Rechnung getragen habe.
+Er begründet dies im Wesentlichen mit einer chronologischen Abfolge der
+Ereignisse aus den Monaten «Februar/März 2024» und der «Entlassung» vom 31. Mai
+2024. Im Wesentlichen bestreitet er, dass er regelmässig während der
+vereinbarten Präsenzzeiten nicht erreichbar gewesen sein soll. Weiter
+bestreitet er, dass die von der Arbeitgeberin bezeichneten Präsenzzeiten «bis
+zu diesem Zeitpunkt» verbindlich und verpflichtend gewesen sein sollen.
+Schliesslich stellt er sich auf den Standpunkt, dass am Tag seiner Entlassung,
+dem 31. Mai 2024, er bis 12:30 Uhr erreichbar gewesen sei; anschliessend habe
+er ein medizinisches Problem gehabt und sich danach umgehend wieder bei der
+Arbeitgeberin gemeldet.
+
+2.4. Die Beschwerdegegnerin verweist sowohl in ihrer Beschwerdeantwort
+als auch in ihrem Einspracheentscheid im Wesentlichen auf die Stellungnahme zum
+Kündigungsgrund durch die Arbeitgeberin (AB 11), wonach der Beschwerdeführer
+wiederholt nicht erreichbar gewesen sei, ungenügend kommuniziert und sich zu
+kurzfristig abgemeldet habe. Es sei mit dem Beschwerdeführer mehrfach
+besprochen worden, dass die Nichterreichbarkeit oder das Nicht- oder nur sehr
+kurzfristige Abmelden nicht in Ordnung sei. Am 31. Mai 2024 sei es dann erneut
+zu einem Vorfall gekommen, wonach der Beschwerdeführer am Vormittag bestätigt habe,
+dass er am Nachmittag anwesend sei, wobei er dann aber nach dem Mittag nicht
+mehr erreichbar gewesen sei. Schliesslich habe sich der Beschwerdeführer
+bereits mit E-Mail vom 7. März 2024 an seine Arbeitgeberin gewandt und darin
+bestätigt, dass er die Abmahnung zur Kenntnis genommen und sich darin
+entschuldigt habe, dass er seinen Vorgesetzten am Vortag habe warten lassen und
+er versprechen würde, sich künftig an die Abmachungen zu halten
+(Beschwerdeantwort S. 3 f.; Einspracheentscheid S. 3).
+
+2.5. 2.5.1. Aus den Akten ergibt sich, dass sich der Beschwerdeführer bei
+seiner Arbeitgeberin mit E-Mail vom 7. März 2024 dafür entschuldigt hat, dass
+er sie hat warten lassen und ihr Vertrauen verletzt hat (vgl. AB 12). Im
+genannten E-Mail hält er fest, dass er um seine eigene Fehlbarkeit leider zu
+gut wisse und er sein Bestmögliches geben werde, damit dies nicht mehr vorkomme
+und er das Vertrauen wieder zurückgewinnen könne; zudem nimmt er darin die Abmahnung
+zur Kenntnis.
+
+2.5.2. Der Beschwerdeführer gibt in seiner Beschwerde an, dass
+er das E-Mail vom 7. März 2024 deshalb verfasst habe, um einen Konflikt mit der
+Arbeitgeberin zu beseitigen. Er habe der Arbeitgeberin Zugeständnisse gemacht,
+obwohl diese nicht den Tatsachen entsprochen hätten. Er räumt aber ein, dass er
+im Februar nach mehrfacher mündlicher Ankündigung nicht zur Arbeit erschienen
+bzw. nicht erreichbar gewesen sei, da er Schule gehabt habe.
+
+2.5.3. Unter Berücksichtigung der Angaben des Beschwerdeführers
+ist es zunächst als erstellt zu erachten, dass dieser bereits im Februar nicht
+zur Arbeit erschienen und nicht erreichbar gewesen ist, weshalb es in der Folge
+zu einer Abmahnung gekommen ist. Wenn der Beschwerdeführer nun nachträglich
+beschwerdeweise behauptet, dass er das E-Mail vom 7. März 2024 lediglich zur
+Entschärfung der «Situation» verfasst habe und es als Entgegenkommen
+seinerseits interpretiert werden müsse (etwa, weil er die Stelle unbedingt
+behalten wollte, vgl. noch Einsprache, S. 1), kann ihm nicht gefolgt werden.
+Dem Beschwerdeführer wäre es zum damaligen Zeitpunkt schon offen gestanden,
+gegen die Abmahnung zu opponieren und seine Sicht der Dinge darzulegen, ohne
+dabei gleich einen Konflikt mit seiner Arbeitgeberin loszutreten; er hätte aber
+spätestens im Rahmen einer  vorliegend ohnehin unterlassenen 
+Kündigungsanfechtung die seiner Ansicht nach «übertriebene» Abmahnung
+aufgreifen müssen.
+
+2.5.4. Der Beschwerdeführer gibt in seiner Beschwerde zudem an,
+dass er einerseits jederzeit die Möglichkeit gehabt hätte, die Arbeitszeiten
+ohne Rücksprache mit der Arbeitgeberin zu ändern; dies vermag nicht zu
+überzeugen, würde doch eine vollkommen freie Verfügbarkeit über die Gestaltung
+der eigenen Zeit die Annahme von Arbeitszeit ausschliessen (vgl. Lukasz Grebski , Ausgewählte Fragen zur
+Arbeitszeit, in: Fachhandbuch Arbeitsrecht, von Kaenel/Rudolph (Hrsg.), 2.
+Auflage, Zürich 2024, S. 188 f., Rz. 6.9) und einer effektiven Kontrolle der
+wöchentlichen Arbeitszeit von 16.8 Stunden nach Ziffer 6 des am 14. Dezember
+2023 unterzeichneten Arbeitsvertrags entgegenstehen (vgl. AB 2). Der
+Beschwerdeführer gibt andererseits an, dass für ihn keine Präsenzzeiten
+verbindlich und verpflichtend definiert worden wären. Der am 14. Dezember 2023
+unterzeichnete Arbeitsvertrag (vgl. AB 2) steht dieser Ansicht insoweit entgegen,
+als bereits Ziffer 2 festhält, dass üblicherweise der Sitz der Arbeitgeberin in
+[...] Arbeitsort ist. Vor dem Hintergrund, dass der Beschwerdeführer in der
+Funktion eines «Junior Software Engineer» tätig gewesen ist, ist den
+schlüssigen Ausführungen der Arbeitgeberin zu folgen, wonach bei der
+Arbeitszeitgestaltung zwar eine gewisse Flexibilität bestanden, der
+Beschwerdeführer aber noch Unterstützung durch andere Teammitglieder benötigt hat
+(AB 11).
+
+2.5.5. Aus den Akten ergibt sich weiter, dass der Beschwerdeführer am Tag
+der Kündigung, am 31. Mai 2024, morgens noch bei der Arbeitgeberin arbeitstätig
+(vgl. Beschwerde, S. 2; vgl. AB 11) und bis um 12:30 Uhr erreichbar gewesen ist,
+was von der Beschwerdegegnerin auch nicht bestritten wird. Der Beschwerdeführer
+bestreitet zudem nicht, dass er seiner Arbeitgeberin noch am Vormittag
+bestätigt hat, am Nachmittag anwesend zu sein (vgl. AB 11). Aus den Akten lässt
+sich entnehmen, dass die Arbeitgeberin den Beschwerdeführer um 14:10 Uhr vergebens
+versucht hat, telefonisch zu erreichen (Beschwerdebeilagen 2) und sich dieser
+auch nicht von sich aus abgemeldet hat (vgl. AB 11), was vom Beschwerdeführer
+nicht bestritten wird. Der Beschwerdeführer begründet seine erneute
+Nichterreichbarkeit mit einem «medizinischen Problem». Hierfür datiert ein
+Arztzeugnis vom 3. Juni 2024, welches rückwirkend eine volle Arbeitsunfähigkeit
+ab 31. Mai 2024 bis 14. Juni 2024 attestiert (AB 4). Der Beschwerdeführer
+stellt sich anschliessend auf den Standpunkt, dass er sich «ca. gegen 14:30 Uhr»
+bei seiner Arbeitgeberin gemeldet habe.
+
+2.5.6. Unter Berücksichtigung der Angaben des Beschwerdeführers ist es als
+erstellt zu erachten, dass er am 31. Mai 2024, konkret um 14:10 Uhr, erneut
+nicht erreichbar gewesen ist und seine Abwesenheit der Arbeitgeberin nicht
+kommuniziert hat. Dass der Beschwerdeführer ein gesundheitliches Problem
+geltend macht, vermag an diesem Umstand nichts zu ändern, wobei im Rahmen der
+Dauer der Einstellung darauf zurückzukommen ist (vgl. Erwägung 3.2 hiernach). Der
+Beschwerdeführer hätte umso mehr bemüht sein müssen, ein tadelloses Verhalten
+(bessere Erreichbarkeit und verbesserte Kommunikation) an den Tag zu legen 
+gerade vor dem Hintergrund, dass er nur wenige Monate zuvor eine Abmahnung
+erhalten hat  und er selbst mit E-Mail vom 7. März 2024 Besserung in Aussicht gestellt
+hat und das Vertrauen der Arbeitgeberin zurückgewinnen wollte. Somit musste der
+Beschwerdeführer auch damit rechnen, dass eine erneute Nichterreichbarkeit und eine
+mangelnde Kommunikation nicht mehr toleriert werden und zur Kündigung durch die
+Arbeitgeberin führen können.
+
+2.5.7. Im Übrigen ist zu bemerken, dass die  vorliegend ohnehin nicht
+angefochtene  Kündigung innerhalb der laufenden Sperrfrist erfolgt ist und die
+daraus resultierenden Rechtsfolgen im Rahmen der Zivilgerichtsbarkeit zu
+beurteilen gewesen wären (vgl. noch Einsprache, AB 9).
+
+2.6. Es liegen somit konkrete Vorkommnisse vor (vgl. Erwägungen 2.5.3.
+und 2.5.6.), die unzweifelhaft darauf hindeuten, dass der Beschwerdeführer für
+die Kündigung eine wesentliche Mitverantwortung trägt und seine Kündigung
+zumindest in Kauf genommen hat; das dem Beschwerdeführer zur Last gelegte
+Verhalten steht in beweismässiger Hinsicht somit klar fest. Inwiefern die
+Beschwerdegegnerin lediglich die Sichtweise der Arbeitgeberin übernimmt, ist
+nicht erkennbar. Es liegt eine selbstverschuldete Arbeitslosigkeit vor, was
+eine Einstellung in der Anspruchsberechtigung zur Folge hat.
+
+3.
+
+3.1. 3.1.1. Die Dauer der Einstellung richtet sich nach dem Grad des
+Verschuldens (Art. 30 Abs. 3 AVIG). Gemäss Art. 45 Abs. 3 AVIV dauert die
+Einstellung 1 bis 15 Tage bei leichtem Verschulden (lit. a), 16 bis 30 Tage bei
+mittelschwerem Verschulden (lit. b) und 31 bis 60 Tage bei schwerem Verschulden
+(lit. c).
+
+3.1.2. Die verfügende Stelle hat die Pflicht, das Verhalten der
+versicherten Person unter Berücksichtigung aller wesentlichen Umstände des
+Einzelfalles, d.h. der objektiven und subjektiven Gegebenheiten, zu würdigen
+und eine dem Verschulden angemessene Sanktion festzusetzen (vgl. das Urteil des
+Bundesgerichts 8C_690/2018 vom 20. Februar 2019 E. 5.4).
+
+3.1.3. Im Übrigen hat das SECO diesbezüglich weitergehende
+Vorgaben für die Verwaltung publiziert (AVIG-Praxis ALE). Die
+Verwaltungsweisungen sind für das Gericht grundsätzlich nicht verbindlich. Dieses
+soll sie bei seiner Entscheidung aber berücksichtigen, sofern sie eine dem
+Einzelfall angepasste und gerecht werdende Auslegung der anwendbaren
+gesetzlichen Bestimmungen zulassen. Das Gericht weicht also nicht ohne
+triftigen Grund von Verwaltungsweisungen ab, wenn diese eine überzeugende
+Konkretisierung der rechtlichen Vorgaben darstellen. Insofern wird dem
+Bestreben der Verwaltung, durch interne Weisungen eine rechtsgleiche
+Gesetzesanwendung zu gewährleisten, Rechnung getragen (vgl. BGE 148 V 144, 147 E.
+3.1.3; vgl. BGE 146 V 224, 228 E. 4.4.2). Gemäss Einstellraster KAST (Rz D 72
+ff. AVIG-Praxis ALE, Stand 1. Januar 2024) wird bei einer fristgerechten
+Kündigung der versicherten Person aufgrund ihres Verhaltens (insbesondere wegen
+Verletzung arbeitsvertraglicher Pflichten) ein leichtes bis schweres
+Verschulden angenommen. Vorwarnungen des Arbeitgebers können zu einer
+Verschärfung der Sanktion führen; deren Anzahl, die Abstände dazwischen, die
+Gründe und die zeitliche Nähe der letzten Vorwarnung zur Kündigung sind zu
+berücksichtigende Faktoren (vgl. D75 B.1).
+
+3.2. Die Beschwerdegegnerin hat den Beschwerdeführer ab dem 1. August
+2024 für 31 Tage in der Anspruchsberechtigung eingestellt. Sie ist somit von
+einem schweren Verschulden ausgegangen. Dies lässt sich nicht beanstanden und
+leuchtet ein. So erscheint die Annahme eines schweren Verschuldens und damit
+die Dauer der Einstellung in Anbetracht der wiederholten Pflichtverletzung nachdem
+eine Abmahnung ausgesprochen worden ist, gerechtfertigt (vgl. Erwägung 2.5.1.
+ff. hiervor). Die Beschwerdegegnerin verortet das schwere Verschulden indes im
+untersten Bereich. Auch diese Einordnung lässt sich gerade vor dem Hintergrund
+der gesundheitsbedingten Abwesenheit am 31. Mai 2024 nicht beanstanden. Die
+Behauptung des Beschwerdeführers, wonach die Beschwerdegegnerin dessen
+Sichtweise nur unzureichend in die Bewertung seines Verschuldens einbezieht,
+ist deshalb nicht nachvollziehbar.
+
+4.
+
+4.1. Den obigen Ausführungen zufolge ist die Beschwerde somit abzuweisen
+und der Einspracheentscheid vom 10. Oktober 2024 zu bestätigen.
+
+4.2. Das Verfahren ist kostenlos. Demgemäss erkennt das Sozialversicherungsgericht :
+
+://:      Die Beschwerde wird abgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                    Der
+Gerichtsschreiber
+
+Dr. G. Thomi Dr. M.
+Kreis
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die
+Beschwerdefrist kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die
+Beschwerdegründe sind in Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+        seco
+
+Versandt am:
