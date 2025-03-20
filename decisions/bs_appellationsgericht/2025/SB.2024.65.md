@@ -1,0 +1,1255 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.263"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "SB"
+docket: "SB.2024.65"
+docket_2: "AG.2025.263"
+decided: "2025-03-20"
+published: "2025-08-28"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78372&W10_KEY=3048461&nTrefferzeile=63&Template=search_result_document.html"
+cites_decisions: ["6B_1363/2019", "6B_154/2021", "6B_162/2024", "6B_415/2021", "6B_460/2020", "6B_576/2024", "6B_953/2023", "7B_295/2023", "BGE 144 IV 113", "BGE 144 IV 345", "BGE 150 IV 1", "SB.2024.65", "SG.2023.241"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/311.0/art-041.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-046.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-066a.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# versuchte schwere Körperverletzung, Gewalt und Drohung gegen Behörden und Beamte, Hinderung einer Amtshandlung, Widerhandlung gegen das Waffengesetz, Sachbeschädigung, Beschimpfung, Diensterschwerung, Ruhestörung, Tätlichkeiten sowie stationäre Massnahme und Landesverweisung (BGer 6B_529/2025)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+SB.2024.65
+
+URTEIL
+
+vom 20.
+März 2025
+
+Mitwirkende
+
+lic. iur. Marc Oser
+(Vorsitz),
+
+Dr. phil. und MLaw Jacqueline
+Frossard, MLaw Anja Dillena
+
+und
+Gerichtsschreiber lic. iur. Christian Lindner
+
+Beteiligte
+
+A____ , geb. [...]                                                                
+Berufungskläger
+
+[...]                                                                                         
+Beschuldigter
+
+c/o Psychiatrische Dienste
+Aargau,
+
+Königsfelderstrasse 1,
+5210 Windisch
+
+vertreten durch [...] , Advokat,
+
+[]
+
+Staatsanwaltschaft Basel-Stadt Anschlussberufungsklägerin
+
+Binningerstrasse 21,
+Postfach, 4001 Basel
+
+Gegenstand
+
+Berufung und Anschlussberufung
+gegen ein Urteil des
+
+Strafdreiergerichts vom 11. März
+2024 (SG.2023.241)
+
+betreffend versuchte schwere
+Körperverletzung, Gewalt und Drohung
+
+gegen Behörden und Beamte,
+Hinderung einer Amtshandlung,
+
+Widerhandlung gegen das Waffengesetz,
+Sachbeschädigung,
+
+Beschimpfung, Diensterschwerung,
+Ruhestörung, Tätlichkeiten sowie
+
+stationäre Massnahme und
+Landesverweisung
+
+Sachverhalt
+
+Mit Urteil des Strafdreiergerichts vom 11. März 2024 wurde A____
+der Sachbeschädigung (Ziff. 8), der mehrfachen Beschimpfung (Ziff. 9), der
+Drohung (Ziff. 11), der Gewalt und Drohung gegen Behörden und Beamte (Ziff. 9)
+sowie der Diensterschwerung (Ziff. 9) schuldig erklärt und verurteilt zu 9
+Monaten Freiheitsstrafe, unter Einrechnung der Untersuchungshaft seit dem 21.
+März 2023 sowie des vorzeitigen Massnahmenvollzugs seit dem 5. Juli 2023, zu
+einer Geldstrafe von 20 Tagessätzen zu CHF 10.‒ sowie zu einer Busse
+von CHF 100.‒ (ev. 1 Tag Ersatzfreiheitsstrafe). Er wurde von der Anklage
+der mehrfachen Gewalt und Drohung gegen Behörden und Beamte (Ziff. 1, 2, 7),
+der Hinderung einer Amtshandlung (Ziff. 1), der Diensterschwerung
+(Ziff. 5), der Widerhandlung gegen das Waffengesetz (Ziff. 3), der
+mehrfachen Sachbeschädigung (Ziff. 4), der Ruhestörung (Ziff. 5), der
+mehrfachen Beschimpfung (Ziff. 5 und 6) sowie der Tätlichkeiten (Ziff. 6)
+in Anwendung von Art. 19 Abs. 1 des Strafgesetzbuches freigesprochen. Weiter wurde
+er von der Anklage der Hinderung einer Amtshandlung (Ziff. 8), der Nötigung
+(Ziff. 10) sowie der versuchten schweren Körperverletzung und der versuchten
+Erpressung (Ziff. 11) freigesprochen. Im Anklagepunkt Ziff. 2 wurde das
+Verfahren betreffend Diensterschwerung zufolge Verjährung eingestellt. Im
+Anklagepunkt Ziff. 10 (mehrfacher geringfügiger Betrug, eventualiter mehrfache
+geringfügige Zechprellerei) wurde das Verfahren zufolge Fehlens eines
+Strafantrags eingestellt. Auf die Anordnung einer Landesverweisung wurde
+verzichtet. Die am 28. März 2019 vom Strafgericht Basel-Stadt bedingt
+ausgesprochene Freiheitsstrafe von 7 Monaten, unter Einrechnung der
+Untersuchungshaft vom 17. Juni bis 20. Juli 2015 (33 Tage), Probezeit 2 Jahre,
+wurde in Anwendung von Art. 46 Abs. 2 und 3 des Strafgesetzbuches nicht
+vollziehbar erklärt. Der Vollzug der ausgesprochenen Freiheitsstrafe wurde
+aufgeschoben und eine stationäre psychiatrische Behandlung für die Dauer von 2
+Jahren angeordnet, in Anwendung von Art. 57 Abs. 2 und 59 Abs. 1 des
+Strafgesetzbuches. Der Beurteilte wurde zu Schadenersatz im Betrag von CHF
+3146.40 an die [] verurteilt. Die Schadenersatzforderung von [...] im Betrage
+von CHF 140.‒ wurde auf den Zivilweg verwiesen. Die
+Schadenersatzforderung von [...] im Betrag von CHF 3000.‒ wurde
+abgewiesen. Es wurde verfügt, die sichergestellten Messer (Verz. 158 291 und
+157 262), der Schraubenzieher und die Schere (Verz. 155 156) sowie das
+Staubsaugerrohr (Verz. 158 273) seien einzuziehen und zu vernichten.
+Die Akten-CDs mit den Krankengeschichten von [...] (Verz. 154 696) und von A____
+(Verz. 155 154) sowie die Röntgenbilder von A____ (Verz. 155 154) wurden bei
+den Akten belassen. Dem Beurteilten wurden reduzierte Verfahrenskosten im
+Betrage von CHF 5000.‒ sowie eine reduzierte Urteilsgebühr von CHF
+2500.‒ auferlegt. Die Mehrkosten von CHF 24451.55 wurden zu Lasten der
+Strafgerichtskasse verlegt. Der Verteidiger, [], wurde aus der
+Strafgerichtskasse entschädigt unter Vorbehalt von Art. 135 Abs. 4 der
+Strafprozessordnung.
+
+Gegen dieses Urteil hat der Beschuldigte am 22. Juli 2024
+Berufung erklärt. Angefochten wird einzig die Anordnung der stationären
+psychiatrischen Behandlung.
+
+Die Staatsanwaltschaft beantragt mit Anschlussberufung vom
+14. August 2024, in teilweiser Abänderung des vorinstanzlichen Urteils sei der
+Beschuldigte der Gewalt und Drohung gegen Behörden und Beamte sowie der
+Hinderung einer Amtshandlung (Anklageziffer 1), der Gewalt und Drohung gegen
+Behörden und Beamte (AZ 2), der Widerhandlung gegen das Waffengesetz (AZ 3),
+der mehrfachen Sachbeschädigung (AZ 4), der Beschimpfung,
+Diensterschwerung und Ruhestörung (AZ 5), der Beschimpfung und Tätlichkeiten
+(AZ 6), der Gewalt und Drohung gegen Behörden und Beamte(AZ 7), der
+Sachbeschädigung und Hinderung einer Amtshandlung (AZ 8) sowie der versuchten
+schweren Körperverletzung und Drohung (AZ 11) schuldig zu sprechen und zu einer
+Freiheitstrafe von 19 Monaten, einer Geldstrafe von 40 Tagessätzen zu CHF
+10.‒ sowie zu einer Busse von CHF 300.‒ zu verurteilen. Es seien
+eine Landesverweisung gestützt auf 66a Abs. 1 lit. b StGB und eine Massnahme
+gestützt auf Art. 59 StGB anzuordnen.
+
+Mit verfahrensleitender Verfügung vom 19. September 2024
+wurde bei der Klinik für forensische Psychiatrie in Windisch ein Therapieverlaufsbericht
+eingeholt. Am 21. Oktober 2024 wurde B____ beauftragt, ein Ergänzungsgutachten
+zu seinem Gutachten vom 19. September 2023 einzureichen. Das
+Ergänzungsgutachten datiert vom 28. Dezember 2024. Der Gutachter wurde zur
+Berufungsverhandlung geladen und den Parteien Gelegenheit gegeben, vorab
+Ergänzungsfragen zum Gutachten einzureichen. Anlässlich der
+Berufungsverhandlung vom 20. März 2025 wurden der Berufungskläger und der
+Gutachter befragt. Anschliessend gelangten die Staatsanwältin und der Verteidiger
+zum Vortrag.
+
+Die für das Urteil relevanten Einzelheiten der
+Parteistandpunkte ergeben sich auf den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.         Prozessuales
+
+1.1 Nach Art. 398 Abs. 1 der Strafprozessordnung
+(StPO, SR 312.0) ist die Berufung gegen Urteile erstinstanzlicher Gerichte
+zulässig, mit denen das Verfahren ganz oder teilweise abgeschlossen wird, was
+vorliegend der Fall ist. Zuständiges Berufungsgericht ist nach § 88 Abs. 1 und
+92 Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes (GOG, SG 154.100) ein
+Dreiergericht des Appellationsgerichts. Der Beschuldigte ist gemäss Art. 382
+Abs. 1 StPO zur Berufung, die Staatsanwaltschaft nach Art. 400 Abs. 3
+lit. b in Verbindung mit Art. 381 StPO zur Anschlussberufung legitimiert. Die
+Berufung ist nach Art. 399 StPO, die Anschlussberufung nach Art. 401 in
+Verbindung mit Art. 399 Abs. 3 StPO form- und fristgemäss eingereicht
+worden. Auf die Rechtsmittel ist daher einzutreten.
+
+1.2 Gemäss
+Art. 398 Abs. 3 StPO können mit der Berufung Rechtsverletzungen, einschliesslich
+Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und
+Rechtsverzögerung, die unvollständige oder unrichtige Feststellung des
+Sachverhalts sowie Unangemessenheit gerügt werden.
+
+1.3
+
+1.3.1 Im
+Rechtsmittelverfahren gilt die Dispositionsmaxime. Die Berufung kann daher auf
+die Anfechtung von Teilen des Urteils beschränkt werden (Art. 399 Abs. 3
+lit. a und Abs. 4 StPO). Erfolgt eine Teilanfechtung, erwachsen die nicht
+angefochtenen Punkte in Teilrechtskraft.
+
+1.3.2 Von keiner Seite angefochten worden und damit
+bereits rechtskräftig sind die Schuldsprüche wegen Sachbeschädigung (Ziff. 8),
+mehrfacher Beschimpfung, Gewalt und Drohung gegen Behörden und Beamte sowie
+Diensterschwerung (Ziff. 9) und Drohung (Ziff. 11). Ebenfalls rechtskräftig sind
+die Freisprüche vom Vorwurf der versuchten schweren Körperverletzung (Ziff. 10)
+und der versuchten Erpressung (Ziff. 11) und die Verfahrenseinstellungen
+betreffend Diensterschwerung (Ziff. 2) und mehrfachen geringfügigen Betrugs,
+ev. mehrfache geringfügige Zechprellerei (Ziff. 10). Ebenfalls
+rechtskräftig ist die Verurteilung zu CHF 3146.40 Schadenersatz an die [],
+die Verweisung der Schadenersatzforderung des [...] von CHF 140.‒ auf den
+Zivilweg und die Abweisung der Schadenersatzforderung von [...] im Betrag von
+CHF 3000.‒. Rechtskräftig geworden sind zudem die Verfügungen über die
+beschlagnahmten Gegenstände und die Entschädigung der amtlichen Verteidigung
+für das erstinstanzliche Verfahren.
+
+2.         Angefochtene Freisprüche und Einstellungen
+
+2.1 Während der Berufungskläger die
+vorinstanzlichen Schuldsprüche akzeptiert hat, richtet sich die
+Anschlussberufung der Staatsanwaltschaft gegen eine Vielzahl von Freisprüchen
+und Verfahrenseinstellungen, welche nachfolgend zu überprüfen sind:
+
+2.2 Frage der Schuldfähigkeit betreffend die
+Sachverhalte 1 bis 7
+
+2.2.1 Der Berufungskläger wurde im Vorverfahren
+zunächst durch C____ und später ergänzend durch B____ psychiatrisch
+begutachtet, wobei sich beide Gutachter zur Schuldfähigkeit bei der Begehung
+der in den Anklagepunkten 1 bis 7 geschilderten Straftaten geäussert haben und
+dabei zu verschiedenen Schlüssen gelangt sind. Die Vorinstanz hat dazu erwogen,
+es stellt sich die Frage, wie mit den sich widersprechenden Gutachten umzugehen
+sei, welche beide durch qualifizierte Fachpersonen lege artis erstellt worden
+seien. Sowohl die Herleitungen als auch die Schlussfolgerungen der beiden
+Gutachter seien einlässlich und verständlich begründet, womit kein Anlass
+bestehe, die beiden Gutachten oder eines von ihnen per se aus dem Recht zu
+weisen. Die beiden Gutachten stimmten denn auch über weite Strecken überein. So
+diagnostizieren beide Gutachter dem Beschuldigten eine (chronische) paranoide
+Schizophrenie sowie Störungen durch den Konsum von Kokain, THC und Alkohol. Die
+Gutachter seien sich sodann einig, dass der Ausprägungsgrad der Störung
+verglichen mit anderen Personen, die an einer schizophrenen Störung leiden, als
+mittelschwer bis schwer zu qualifizieren sei. Eine signifikante Abweichung
+bestehe hingegen in Bezug auf die Beurteilung der Schuldfähigkeit. Gemäss C____
+bestehen in allen von ihm beurteilten Fällen entweder aufgrund von vermehrtem
+Konsum von Betäubungsmitteln und/oder Alkohol respektive aufgrund von (oftmals
+durch den Substanzkonsum exazerbiertem) psychotischem Erleben klare Hinweise
+auf eine aufgehobene Einsichtsfähigkeit, so dass aus gutachterlicher Sicht von
+einer vollkommen aufgehobenen Schuldfähigkeit in allen von ihm beurteilten
+Tatzeiträumen auszugehen sei. Demgegenüber erachtet B____ die Einsichts- und Steuerungsfähigkeit
+in diesem Zeitraum lediglich als schwergradig beeinträchtigt (Gutachten C____,
+Akten S. 94 f; Gutachten B____, Akten S. 117.89 ff.).
+
+Die Vorinstanz konstatiert, obschon diese unterschiedlichen
+Einschätzungen in rechtlicher Hinsicht von grosser Bedeutung seien, lasse sich
+aus der Formulierung im Gutachten von B____ erahnen und sei von diesem auch in
+der Hauptverhandlung bestätigt worden, dass die Differenz zwischen schwergradig
+eingeschränkter und vollständig aufgehobener Schuldfähigkeit nicht sehr gross
+sei. Der Gutachter führe aus, dass in Bedrängnissituationen zwar die
+Verhaltens- und Handlungsspielräume des Berufungsklägers deutlich zusammenschmelzen
+würden, jedoch blieben ihm noch ‒ wenn auch kaum ‒ sozialadäquate,
+normgerechte Verhaltensmöglichkeiten übrig, die er noch ein Stück weit
+gestalten könne. Daraus leite B____ ab, dass es «nicht dem Prototyp einer
+vollständig aufgehobenen Schuldfähigkeit» entspreche, da nicht bewiesen sei,
+dass der Berufungskläger nur so habe handeln können. Auch aus dieser
+Formulierung zeige sich, dass es in der Abgrenzung um Nuancen gehe. B____ halte
+die Annahme von C____, die Schuldfähigkeit sei ganz aufgehoben gewesen, denn
+auch für vertretbar. Es sei auch zu beachten, dass gemäss bundesgerichtlicher
+Rechtsprechung der Gutachter bei der Beurteilung des Grades der Verminderung
+der Schuldfähigkeit von einem grossen und auch subjektiven Ermessen Gebrauch
+mache. Da es sich beim Gutachten von B____ nicht um ein Obergutachten handle,
+sich die Schlussfolgerungen im Gutachten von C____ nach dem Gesagten weder in
+sich noch im Vergleich zum Gutachten von B____ als falsch oder nicht
+nachvollziehbar erwiesen und ausserdem differenziert und nachvollziehbar
+begründet worden seien, erscheine es angezeigt, jeweils auf dasjenige Gutachten
+abzustellen, auf das sich der ursprüngliche Begutachtungsauftrag bezogen habe.
+Demzufolge sei in Bezug auf die Anklagepunkte 1 bis 7 dem Gutachten von C____
+folgend von einer vollständig aufgehobenen Schuldfähigkeit auszugehen. In Bezug
+auf die Anklagepunkte 8 bis 11 sei gestützt auf das Gutachten von B____ von
+einer grundsätzlich erhaltenen, wenn auch in unterschiedlichem Masse
+eingeschränkten Schuldfähigkeit auszugehen.
+
+2.2.2 Die Staatsanwaltschaft beantragt mit ihrer
+Anschlussberufung, es sei dem Gutachter B____ folgend und vom Gutachten von C____
+abweichend auch für die Anklageziffern 1 bis 7 nicht von einer aufgehobenen
+Schuldfähigkeit auszugehen. Ein überzeugendes Gutachten zur Schuldfähigkeit
+zeichne sich auch dadurch aus, dass nicht nur auf Psychopathologie und
+Verhaltensabnormität abgestellt werde, sondern dass für den fraglichen Zeitraum
+auch herausgearbeitet werde, welche Fähigkeiten dem Beschuldigten noch zur
+Verfügung gestanden hätten. Diesem Erfordernis werde das Gutachten von B____ im
+Unterschied zu jenem von C____ gerecht ‒ letztgenanntes widme sich diesem
+Aspekt nicht ansatzweise, und das Gutachten von B____ sei deshalb qualitativ
+höher zu werten. Hinzu komme, dass sich die Ausführungen des Gutachters B____
+sehr gut mit den diversen konkreten Feststellungen der zur Tatzeit am Tatort
+mit dem Beschuldigten befassten Polizeibeamten [...], [...] und [...]
+vereinbaren liessen, die den Beschuldigten zur Tatzeit als «zugänglich»,
+«zurechnungsfähig» und einen «klaren Eindruck» machend beschrieben hätten.
+Diese die Einschätzung B____s untermauernden Umstände ignoriere die Vorinstanz
+vollumfänglich. Die Vorinstanz führe an, dass B____ in seinem Gutachten über
+den Auftrag hinausgegangen sei und kein Obergutachten erstellt habe. Auch
+dieses Argument sei jedoch nicht geeignet, dem Gutachten C____ hinsichtlich der
+Anklagepunkte 1-7 den Vorrang vor dem qualitativ offenkundig höherstehenden
+Gutachten B____ zu geben. Auch stehe ausser Frage, dass der Gutachter, der nach
+einer einstündigen Exploration mangels Kooperation des zu Begutachtenden auf
+die geplanten weiteren Explorationstermine verzichten und sich notgedrungen auf
+die Akten beziehen müsse, nicht über den selben Wissensstand verfüge wie
+derjenige Gutachter, der sich für seine Anamnese auf mehrere
+Explorationstermine und einen persönlichen Kontakt von rund dreieinhalb Stunden
+abstützen könne. Unter Berücksichtigung all dieser Umstände habe die Vorinstanz
+dem Gutachten C____ zu Unrecht den Vorzug gegeben und hätte stattdessen auch
+hinsichtlich der Anklagepunkte 1-7 auf das Gutachten B____ abstellen sollen
+(Plädoyer, Akten S. 1703 f.).
+
+2.2.3 Der Berufungskläger entgegnet, wegen
+vollständig aufgehobener Schuldfähigkeit habe in den Fällen 1-7 ein Freispruch
+zu ergehen. Entgegen der Ansicht der Staatsanwaltschaft sei die vorinstanzliche
+Würdigung nicht zu beanstanden. Es gebe keinen Anlass, vom Gutachten von C____
+abzuweichen. Zudem gelte, dass selbst dann, wenn Zweifel an der Schuldfähigkeit
+bestehen sollten und sich nicht gänzlich ausschliessen lasse, dass der Täter
+zur Tatzeit nicht gänzlich schuldunfähig war, nach dem Grundsatz in dubio pro
+reo ein Freispruch wegen Schuldunfähigkeit zu ergehen habe. Das Verhalten der
+Stawa sei zudem widersprüchlich. Sie habe zum ersten Gutachten kein
+Obergutachten in Auftrag gegeben, lediglich ein Ergänzungsgutachten. Nun wolle
+sie einfach das ungünstigere Gutachten annehmen. Selbst B____ habe gesagt, was C____
+zur Schuldfähigkeit ausführe, sei vertretbar (Plädoyer, Akten S. 1711, 1727.1).
+
+2.2.4 Es stellt sich auch dem Berufungsgericht die
+Frage, wie mit den sich widersprechenden Gutachten zu verfahren ist. Dem
+Gericht liegen zwei gleichrangige Gutachten zur Frage der Schuldfähigkeit
+betreffend die ersten sieben Anklageziffern vor, die zu unterschiedlichen
+Ergebnissen gelangen. Bei dieser Konstellation besteht ‒ wie von Seiten
+der Verteidigung bereits vor erster Instanz angesprochen ‒ die
+Möglichkeit der Klärung durch ein Obergutachten. Allerdings ist ein solches
+gemäss bundesgerichtliche Rechtsprechung (BGer 6B_576/2024 vom 11. Dezember 2024
+E. 5.4.3) nicht unbedingt erforderlich: Widersprechen sich zwei Gutachten,
+führt dies nicht zwingend zur Notwendigkeit eines Obergutachtens. Widersprechen
+sich zwei oder mehrere Gutachten, muss das Gericht vielmehr in freier Würdigung
+der Gutachten darüber befinden, auf welches Gutachten abzustellen ist, wobei es
+nur an die Schranken des Willkürverbots gebunden ist (vgl. BGE 144 IV 345 E.
+2.2.3.1, 107 IV 7 E. 5; Urteile 6B_162/2024 vom 16. Juli 2024 E. 5.1.2 f.;
+7B_295/2023 vom 16. Februar 2024 E. 4.4.3; 6B_154/2021 vom 17. November 2021 E.
+1.7.1). Die Lösung der Vorinstanz, welche beide Gutachten zur Anwendung bringt,
+überzeugt nach dem Gesagten nicht. Auch die Ansicht der Verteidigung, dass «in
+dubio pro reo» das für den Berufungskläger günstigere Gutachten zur Anwendung
+kommen müsse, wird vom Bundesgericht nicht geteilt: Das Gericht ist nicht
+verpflichtet, seiner Beweiswürdigung in Anwendung des Grundsatzes «in dubio pro
+reo» das für den Beschuldigten günstigere Gutachten zugrunde zu legen, wenn ein
+anderes Gutachten seines Erachtens überzeugender ist ( BGE 144 IV 345 E.
+2.2.3.1; Urteile 7B_295/2023 vom 16. Februar 2024 E. 4.4.4; 6B_1363/2019 vom
+19. November 2020 E. 1.2.3; je mit Hinweisen).
+
+Vorliegend ist der Staatsanwaltschaft beizupflichten, dass
+die Ausführungen von B____ aufgrund ihrer Ausführlichkeit überzeugender sind
+als jene von C____. Dies ist nicht allein mit der zusätzlich ermöglichten
+Exploration des Berufungsklägers zu erklären, sondern mit der bei C____
+fehlenden Berücksichtigung von Phasen, in denen sich der Berufungskläger
+aufgrund seines Verhaltens vor und nach den Taten nicht in einem Zustand
+vollständiger psychotischer Dekompensation befunden haben kann. In seinem
+Gutachten vom 19. September 2023 hat B____ nachvollziehbar dargelegt, der
+Berufungskläger sei über längere Zeiträume hinweg vermutlich zu einem
+einigermassen realitätsangepassten und sozial unauffälligen Verhalten fähig
+gewesen, obwohl er in diesen Phasen ebenfalls einen schädlichen Gebrauch von
+Alkohol, Kokain, Cannabis und möglicherweise weiteren psychotropen Substanzen betrieben
+und die ihm verordneten Medikamente wahrscheinlich nicht durchgängig
+eingenommen habe. Darum lasse sich eine pauschale Exkulpierung bezüglich
+sämtlicher fremdschädigender Handlungen im gesamten Tatzeitraum aus
+gutachterlicher Sicht nicht begründen, sondern nur eine schwergradige
+Beeinträchtigung der Einsichts- und Steuerungsfähigkeit (Gutachten, Akten S.
+117.91 f.). Anlässlich der Berufungsverhandlung hat B____ dazu ausgeführt, von
+der Diagnose sei nicht direkt auf die Schuldfähigkeit zu schliessen, sondern
+stets auch nach der erhaltenen Funktionstüchtigkeit zu schauen, um zu sehen, ob
+eine Handlung direkt monokausal durch einen Wahninhalt determiniert gewesen
+sei. Schizophrene seien nicht ständig in einem akut dekompensierten Zustand (Akten
+S. 1726). Diese Ausführungen sind nachvollziehbar, schlüssig und überzeugend. Ein
+Gutachten zur Schuldfähigkeit darf nicht ausschliesslich auf Psychopathologie
+und Verhaltensabnormität abstellen, sondern muss für den fraglichen Zeitraum
+auch herausarbeiten, welche Fähigkeiten dem Betreffenden noch zur Verfügung
+standen (BGer 6B_953/2023 vom 15. Dezember 2023 E. 1.4.3 [nicht publ. in BGE
+150 IV 1]; 6B_1363/2019 vom 19. November 2020 E. 1.7.2 m. Hinw.). Entsprechend
+ist auch für die Tathandlungen unter Ziffer 1 bis 7 der Anklage auf das
+Gutachten von B____ abzustellen.
+
+2.2.5 Die Vorinstanz hat überzeugend dargelegt, dass
+der Berufungskläger in den Anklagepunkten 1 bis 7 die unten aufgeführten
+Straftatbestände erfüllt hat. Dies hat zur Folge, dass in den Anklagepunkten,
+in welchen die Vorinstanz zwar tatbestandsmässiges und rechtswidriges, jedoch
+nicht schuldhaftes Handeln angenommen hat, aufgrund der vom Berufungsgericht
+angenommenen teilweise erhaltenen Schuldfähigkeit folgende zusätzlichen
+Schuldsprüche ergehen:
+
+- Gewalt
+und Drohung gegen Behörden und Beamte sowie der Hinderung einer Amtshandlung
+(AS Ziff. 1);
+
+- Gewalt
+und Drohung gegen Behörden und Beamte (AS Ziff. 2);
+
+- Widerhandlung
+gegen das Waffengesetz (AS Ziff. 3);
+
+- mehrfachen
+Sachbeschädigung (AS Ziff. 4);
+
+- Beschimpfung,
+Diensterschwerung und Ruhestörung (AS Ziff. 5);
+
+- Beschimpfung
+und Tätlichkeiten (AS Ziff. 6);
+
+- Gewalt
+und Drohung gegen Behörden und Beamte (AS Ziff. 7).
+
+Die verminderte Schuldfähigkeit wird bei der Strafzumessung
+zu berücksichtigen sein.
+
+2.3      Anklageziffer 8
+
+2.3.1 Betreffend Anklageziffer 8 erging
+vorinstanzlich ein Schuldspruch wegen Sachbeschädigung (unangefochten und daher
+bereits rechtskräftig). Im Weiteren erging ein Freispruch vom Vorwurf der
+Hinderung einer Amtshandlung. Die Vorinstanz führte dazu aus, was den unter
+Ziffer 8.b. der Anklageschrift geschilderten Sachverhalt anbelange, finde sich
+dazu im Faszikel zu [] kein Nachweis. Aus dem Polizeirapport gehe nicht
+hervor, dass sich der Berufungskläger gegen die Polizeikontrolle gewehrt oder
+die Alkoholprobe verweigert hätte. Ein entsprechender Hinweis finde sich
+lediglich im Faszikel zum Verfahren [], welches jedoch eingestellt worden sei.
+
+2.3.2 Die Staatsanwaltschaft hat diesen Freispruch
+angefochten und dazu im Plädoyer ausgeführt, aus einer Aktennotiz vom 10. Mai
+2023 (Act. 833.15) gehe hervor, wo in den Akten die fehlenden Seiten zu finden
+seien ‒ die Vorinstanz sei denn auch fündig geworden. Das Verfahren habe
+innert kürzester Zeit einen nur noch schwer überschaubaren Umfang angenommen
+und habe als Haftverfahren unter Zeitdruck abgeschlossen werden müssen. Wenn
+die Vorinstanz sich unter den gegebenen Bedingungen auf den Standpunkt stelle,
+der Anklagesachverhalt sei nicht belegt, weil sich die den Sachverhalt
+belegenden Aktenseiten nicht unter dem Faszikel, sondern entsprechend der
+Aktennotiz weiter hinten in den Akten befänden, so reagiere sie mit
+übertriebener Schärfe. Der angeklagte Sachverhalt sei rechtsgenüglich belegt
+und es habe ein Schuldspruch gemäss Anklage zu ergehen (Plädoyer, Akten S. 1704).
+
+2.3.3 Nach Ansicht des Verteidigers hat das
+Strafgericht zutreffend dargelegt, dass der unter Ziffer 8.b. der Anklage
+geschilderte Sachverhalt in den Akten keine Stütze findet, weshalb bezüglich
+des Vorwurfs der Hinderung einer Amtshandlung ein Freispruch zu ergehen habe
+(Plädoyer, Akten S. 1711).
+
+2.3.4 Es ist der Staatsanwaltschaft beizupflichten,
+dass der von ihr zitierte Polizeirapport Aktenbestandteil ist und als solcher
+verwertet werden kann. Anzufügen ist, dass die Einstellung des Verfahrens,
+welche die Vorinstanz anführt, lediglich den Tatbestand der Sachbeschädigung
+betrifft ‒ der Einstellungsverfügung vom 12. Mai 2023 ist zu entnehmen,
+dass in anderer Sache Anklage erhoben werde (Akten S. 1069.20). Dennoch ist der
+vorinstanzliche Freispruch zu bestätigen: Der Vorwurf der Hinderung einer
+Amtshandlung wird zwar durch einen Vermerk im erwähnten Polizeirapport (Akten
+S. 1069.8) gestützt. Dort wird indes lediglich festgehalten, der
+Berufungskläger habe «passiven Widerstand» geleistet. Dies ist zu unbestimmt,
+als dass einzig darauf basierend ein Schuldspruch wegen Hinderung einer
+Amtshandlung ergehen könnte. Entsprechend hat ein Freispruch zu ergehen.
+
+2.4      Anklageziffer 11
+
+2.4.1 Die Anklage lautet in Ziffer 11 auf versuchte
+schwere Körperverletzung, versuchte Erpressung (ev. versuchte Nötigung) und
+Drohung. Die Vorinstanz hat den Berufungskläger vom Vorwurf der versuchten
+Erpressung (ev. versuchte Nötigung) und der versuchten schweren
+Körperverletzung freigesprochen. Ein Schuldspruch ist hingegen wegen Drohung
+ergangen. Der Schuldspruch wegen Drohung und der Freispruch vom Vorwurf der
+versuchten Erpressung (ev. der versuchten Nötigung) sind unangefochten und
+daher bereits rechtskräftig. Die Staatsanwaltschaft beantragt jedoch einen
+Schuldspruch wegen schwerer Körperverletzung.
+
+2.4.2 Den Freispruch vom Vorwurf der versuchten
+schweren Körperverletzung hat die Vorinstanz damit begründet, dass der
+Berufungskläger zwar das Messer mit geöffneter Klinge gegen D____ gerichtet und
+damit schlitzende Bewegungen ausgeführt habe und dadurch aufgrund der
+aufgeheizten Stimmung und der Dynamik des Geschehens zweifellos eine
+bedrohliche Situation entstanden sei. Wie das Beweisergebnis zeige, habe sich
+der Beschuldigte jedoch stets mindestens einen Meter von D____ entfernt
+befunden. Da das inkriminierte Messer zwar eine gezackte und damit nicht
+ungefährliche, aber lediglich knapp 5 cm lange Klinge mit abgebrochener Spitze
+aufweise, hätte es einer deutlich geringeren Distanz bedurft, um die ernsthafte
+Gefahr einer lebensgefährlichen, verstümmelnden, entstellenden oder anderweitig
+schwerwiegenden Verletzung hervorzurufen. Beim Entreissen des Staubsaugerrohrs
+wäre es dem Berufungskläger grundsätzlich möglich gewesen, mit dem Messer auf D____
+einzustechen. Dies habe er jedoch nicht getan, sondern er habe das Messer in
+einiger Distanz gehalten und gemäss Aussage des Zeugen [...] Schlitzbewegungen
+von links nach rechts ausgeführt. Aus diesem Verhalten des Beschuldigten sei
+nicht auf eine Absicht zu schliessen, D____ schwer zu verletzen. Es deute vielmehr
+darauf hin, dass er sich D____ vom Leib habe halten wollen. Dies entspreche
+einem Verhalten, welches gemäss Schilderung des Gutachters B____ bei
+schizophrenen Personen vorkommen könne, wenn sie sich bedrängt fühlten. Auch
+aus der Beschaffenheit des Messers  insbesondere aufgrund der abgebrochenen
+Spitze  sei nicht der Schluss zu ziehen, dass der Berufungskläger eine schwere
+Verletzung in Kauf genommen habe. Zwar bestehe aufgrund des gesamten
+Geschehensablaufs kein Zweifel daran, dass der Berufungskläger die
+Auseinandersetzung initiiert und durch das Spucken sowie das generell
+aggressive und bedrohliche Auftreten eskaliert habe. Auch habe er eine grosse
+Hartnäckigkeit an den Tag gelegt, indem er immer wieder in den Kiosk
+hineingekommen sei. Allerdings könne aus dem Verhalten des Beschuldigten und
+den gegebenen Umständen nicht abgeleitet werden, dass sich ihm die Gefahr einer
+schweren Körperverletzung als derart wahrscheinlich aufgedrängt hätte, dass
+daraus ein Eventualvorsatz abgeleitet werden müsste.
+
+2.4.3 Die Staatsanwältin hat im Plädoyer vor
+Berufungsgericht ihr Unverständnis darüber geäussert, dass die Vorinstanz zur
+Erkenntnis gelangen konnte, dass der Beschuldigte mit dem von ihm geführten
+Messer quasi in Selbstverteidigung lediglich seinen Kontrahenten von sich
+fernhalten wollte. Sie gehe gestützt auf die Aussagen des Tatzeugen [...] von
+einem Herumfuchteln und zwei bis drei Stichbewegungen mit dem geöffneten Messer
+im Gerangel in unmittelbarer Nähe des Opfers aus. Der genannte Zeuge habe
+unmissverständlich geäussert, der Beschuldigte habe mit dem offenem Messer
+herumgefuchtelt und mehrere Stichbewegungen in Richtung von Hals und Oberkörper
+von D____ ausgeführt. Dass der Beschuldigte dabei unmittelbar vor D____
+gestanden sei, habe der Tatzeuge auch anlässlich der erstinstanzlichen
+Hauptverhandlung anschaulich und nachvollziehbar geschildert. Betrachte man die
+Fotos auf den Aktenseiten 939 unten und 940 oben, erscheine die vom Tatzeugen
+geschätzte Distanz gänzlich unrealistisch. In Tat und Wahrheit sei der
+Beschuldigte zumindest zu diesen beiden Zeitpunkten weniger als eine Armlänge
+von D____ entfernt gewesen. Das Vorgehen sei in einem dynamischen und für den
+Beschuldigten nur noch bedingt steuerbaren Geschehen geeignet gewesen, D____
+zumindest lebensgefährlich zu verletzen. Wer in einer emotional aufgeheizten
+dynamischen Situation mit einem Messer mit knapp 5 cm langer, wenn auch
+abgebrochener Klinge gezielte Stich- und Schlitzbewegungen in Richtung der
+hochempfindlichen Halsregion und in Richtung des Oberkörpers des Gegenübers
+ausführe, nehme jegliche Art von physischen Schädigungen zumindest in Kauf. Der
+entsprechende Vorsatz ergebe sich auch aus den vom Opfer nachvollziehbar
+geschilderten Todesdrohungen des Beschuldigten. Somit sei über die Drohung
+hinaus der Tatbestand der versuchten schweren Körperverletzung erfüllt
+(Plädoyer, Akten S. 1704 f.).
+
+2.4.4 Der Verteidiger hat dazu ausgeführt, das
+Strafgericht habe zutreffend und nachvollziehbar begründet, dass aufgrund der
+eingehaltenen Distanz mit dem Messer zu D____ nicht auf einen
+Verletzungsvorsatz geschlossen werden könne und das Messer sowie die Bewegungen
+mit dem Messer in der Hand keine Verletzungsabsicht manifestiert, sondern einzig
+der Drohung gedient hätten (Plädoyer, Akten S. 1711).
+
+2.4.5 Für die Frage, ob von einem Eventualvorsatz
+auf eine schwere Verletzung von D____ auszugehen ist, ist die Distanz zwischen
+den beiden Kontrahenten zum Zeitpunkt des Messereinsatzes von entscheidender
+Bedeutung. Zweifellos birgt das Herumfuchteln mit einem Messer innerhalb eines
+dynamischen Geschehens regelmässig eine Verletzungsgefahr, die Kontrahenten
+müssen sich dabei jedoch in einer Distanz befinden, in welcher sich die Gefahr einer
+Schnitt- oder Stichverletzung überhaupt verwirklichen kann. Die von der
+Staatsanwaltschaft genannten Überwachungsbilder zeigen den Einsatz des Messers
+nicht und helfen daher in dieser Frage nicht weiter. Der Zeuge [...] hat
+gegenüber der Staatsanwaltschaft geschildert, der Beschuldigte habe zwei bis
+drei Stichbewegungen gegen den Bauch von D____ gemacht. Die Distanz habe dabei
+einen bis 1.2 Meter betragen (Akten S. 960). Auf Vorhalt der Aussage von D____,
+der Beschuldigte habe mit einer Hand am Staubsaugerrohr gezogen und mit der
+anderen Hand Stichbewegungen mit dem Messer ausgeführt, sagte der Zeuge, das
+würde er so unterschreiben (Akten S. 962). In der vorinstanzlichen
+Hauptverhandlung sagte er dann, er denke, das Staubsaugerrohr habe Schlimmeres
+verhindert, da D____ den Berufungskläger damit habe auf Distanz halten können (Akten
+S. 1374). Der direkt betroffene D____ sagte dazu aus, als der Beschuldigte das
+Messer gezogen habe, habe die Distanz der Länge des Staubsaugerrohrs plus einer
+Armlänge entsprochen, also 1,5 bis 2 Metern. Der Beschuldigte habe dann
+Stichbewegungen in seine Richtung ausgeführt (Akten S. 911). D____ sei dann
+nach hinten ausgewichen und der Berufungskläger habe das Messer auf Kopfhöhe in
+seine Richtung gehalten, jedoch mit rund vier Metern Abstand. Bezüglich der
+Stichbewegungen gegen seine Bauchseite präzisierte er, der Abstand habe dann
+bereits zwei bis drei Meter betragen, da er nach hinten ausgewichen sei (Akten
+S. 912). Basierend auf diesen Angaben der Anwesenden ist somit nicht zu
+erstellen, dass der Berufungskläger mit dem Messer Stich- oder
+Schnittbewegungen ausführte, welche zur einer Verletzung hätten führen können.
+Zu einem anderen Schluss führt auch die Sichtung der Videoaufnahmen aus dem Innern
+des Kiosks nicht, da diese die Geschehnisse vor dem Lokal nicht dokumentieren.
+Immerhin ist diesen Aufnahmen zu entnehmen, dass sich D____ dem
+Berufungskläger, welcher den Kiosk zahlreiche Male betreten und wieder
+verlassen hat, immer wieder entgegengestellt hat, nachdem die Episode mit dem
+geöffneten Messer bereits stattgefunden haben musste. Es ist davon auszugehen,
+dass er auf mehr Abstand bedacht gewesen wäre, wenn der Berufungskläger kurz
+zuvor tatsächlich versucht hätte, ihn mit dem Messer zu verletzen (Memorystick Videoaufnahmen
+bei den Akten, Standbilder: Akten S. 937 ff.). Zusammenfassend ist
+festzustellen, dass kein Verhalten erstellt ist, das als Inkaufnahme einer
+Verletzung von D____ zu werten wäre. Es hat folglich ein Freispruch vom Vorwurf
+der versuchten schweren Körperverletzung zu ergehen.
+
+3. Strafzumessung
+
+3.1 Die Staatsanwaltschaft hat ‒ unter
+Berücksichtigung der beantragten zusätzlichen Schuldsprüche ‒ eine
+Freiheitsstrafe von 19 Monaten, eine Geldstrafe von 40 Tagessätzen zu CHF
+10.‒ und einer Busse von CHF 300.‒ beantragt (Anschlussberufungserklärung,
+Akten S. 1574). Der Berufungskläger hat sich im Berufungsverfahren nicht zur
+Strafzumessung geäussert.
+
+3.2 Bezüglich der Strafart im Falle von
+alternativ zur Verfügung stehender Geld- oder Freiheitsstrafe (betreffend
+Sachbeschädigung, Drohung sowie Gewalt und Drohung gegen Behörden und Beamte) hat
+die Vorinstanz erläutert, es werde in Anwendung von Art. 41 StGB auf
+Freiheitsstrafe erkannt, da eine Geldstrafe angesichts der Schulden des
+Berufungsklägers voraussichtlich nicht vollziehbar wäre und damit ihre
+spezialpräventive Wirkung verfehlen würde. Zusätzlich sei für die Beschimpfung
+zwingend eine Geldstrafe und für die Diensterschwerung eine Busse
+auszusprechen. Die Einsatzstrafe wurde anhand der Drohung zum Nachteil von D____
+gebildet. Zum objektiven Tatverschulden wurde ausgeführt, der Berufungskläger
+habe der Drohung durch das Zücken des geöffneten Klappmessers erheblichen
+Nachdruck verliehen und D____ habe akut um seine körperliche Unversehrtheit
+fürchten müssen. In objektiver Hinsicht sei das Verschulden innerhalb des
+Strafrahmens der Drohung als schwerwiegend zu bezeichnen, die subjektive
+Tatkomponente müsse jedoch zu einer erheblichen Reduktion führen. Gemäss
+Gutachten sei davon auszugehen, dass beim Berufungskläger eine
+krankheitsbedingte Beeinträchtigung des Realitätsurteils, der Wahrnehmung und
+der Verhaltenskontrolle, einhergehend mit einer verzerrten Wahrnehmung und
+Fehlbeurteilung der Realität, der Situation und möglicherweise auch der
+geschädigten Person sowie ein gewisses paranoides Beeinträchtigungs- und
+Bedrohungserleben und eine aggressive Anspannung vorgelegen hätten. Zum
+Tatzeitpunkt habe eine schwergradige Beeinträchtigung der Schuldfähigkeit
+bestanden. Insgesamt sei von einem leichten bis mittelgradigen Tatverschulden
+auszugehen, weshalb eine Einsatzstrafe von 7 Monaten angemessen erscheine. In
+Anwendung von Art. 49 Abs. 1 StGB wurde die Einsatzstrafe wegen der Gewalt
+und Drohung gegen Behörden und Beamte um einen Monat erhöht. Die
+Sachbeschädigung führte zu einer Straferhöhung um einen halben Monat. Die
+Gemengelage, dass der Berufungskläger zwar mehrfach vorbestraft sei, indes
+nicht einschlägig, dass er seither vielfach strafrechtlich in Erscheinung
+getreten sei, allerdings die erwähnte stark eingeschränkte Schuldfähigkeit vorgelegen
+habe und er teilweise Reue gezeigt und sich bei den Betroffenen entschuldigt
+habe, wurde unter dem Titel der Täterkomponente mit einer weiteren
+Straferhöhung um einen halben Monat auf eine Gesamtfreiheitsstrafe von
+insgesamt 9 Monaten berücksichtigt. Da der Berufungskläger aufgrund der
+Vorstrafe vom 28. März 2019 gemäss Art. 42 Abs. 2 StGB zur Gewährung des
+bedingten Strafvollzugs eine besonders günstige Legalprognose gestellt werden
+müsste, die beiden Gutachter jedoch ein hohes Risiko für künftiges
+gewalttätiges und anderes fremdschädigendes Verhalten in gleichbleibender Art
+und Weise festgestellt hätten, sei die Strafe unbedingt auszusprechen. Die
+mehrfache Beschimpfung wurde unter erneuter Berücksichtigung der schwergradig
+verminderten Schuldfähigkeit mit einer Geldstrafe von 20 Tagessätzen zu CHF
+10.‒ sanktioniert. Die Diensterschwerung wurde ‒ ebenfalls mit
+einem entsprechenden Abzug ‒ mit einer Busse von CHF 100.‒
+geahndet.
+
+Die Strafzumessung der Vorinstanz erweist sich als
+nachvollziehbar und sorgfältig begründet und wurde denn auch von keiner Seite
+kritisiert. Es bleibt eine angemessene Straferhöhung für die im Berufungsverfahren
+neu angenommenen Schuldsprüche vorzunehmen, wobei gleich zu verfahren ist wie
+die Vorinstanz, indem ‒ wo immer es der Strafrahmen ermöglicht ‒ auf
+Freiheitsstrafe erkannt wird.
+
+Nach objektivem Verschulden wären ‒ ohne Asperation ‒
+folgende Strafen angezeigt: Für die Hinderung einer Amtshandlung 10 Tage
+(Anklageziffer 1); für die Gewalt und Drohung gegen Behörden und Beamte 60 Tage
+(Anklageziffer 1, 2 und 7); für die Widerhandlung gegen das Waffengesetz 20
+Tage (Ziff. 3) und für die mehrfache Sachbeschädigung 60 Tage (Ziff. 4). Dies
+würde kumuliert 150 Tagen ergeben, was in Anwendung des Asperationsprinzips von
+Art. 49 Abs. 1 StGB 120 Tagen entspricht. Zufolge stark verminderter
+Schuldfähigkeit ist davon ein Abzug von 75 Prozent zu tätigen, womit eine
+Straferhöhung um einen Monat verbleibt. Daraus ergibt sich insgesamt eine
+Gesamtfreiheitsstrafe von 10 Monaten.
+
+Die mehrfachen Beschimpfungen (Ziff. 5 und 6) wären jeweils
+mit 10 Tagessätzen Geldstrafe zu sanktionieren, asperierend kämen zur bereits
+vorinstanzlich ausgesonderten Geldstrafe 10 Tagessätze hinzu. Da auch hier ein
+Abzug von 75 Prozent vorzunehmen ist und die Straferhöhung somit lediglich 2,5
+Tagessätze betragen würde, kann jedoch auf eine Erhöhung verzichtet werden.
+
+Die Vorinstanz hat zutreffend erläutert, dass der bedingte
+Strafvollzug aufgrund von Art. 42 Abs. 2 StGB sowohl für die Freiheitsstrafe
+als auch für die Geldstrafe ausser Betracht fällt.
+
+An zusätzlichen Bussen kämen gesondert betrachtet CHF
+800.‒ für die mehrfache Diensterschwerung (Ziff. 2 und 5), CHF 150.‒
+für die Ruhestörung (Ziff. 5) und CHF 300.‒ für die Tätlichkeiten
+(Ziff. 6) hinzu. Asperiert ergäbe dies einen Betrag von CHF 1000.‒. Nach
+Abzug von 75 Prozent ist die vorinstanzliche Busse um CHF 250.‒ zu erhöhen.
+
+3.3      Widerruf
+
+Die Vorinstanz hat die am 28. März 2019 vom Strafgericht
+Basel-Stadt bedingt ausgesprochene Freiheitsstrafe von 7 Monaten, Probezeit 2
+Jahre, nicht vollziehbar erklärt. Inzwischen sind seit Ablauf der Probezeit
+mehr als drei Jahre vergangen, sodass der Widerruf gemäss Art. 46 Abs. 5 StGB
+nicht mehr angeordnet werden darf.
+
+4.         Stationäre Massnahme
+
+4.1 Die Vorinstanz hat die ausgesprochene
+Freiheitsstrafe zugunsten einer stationären Massnahme aufgeschoben. Sie hat
+diese für die Dauer von zwei Jahren angeordnet und dazu erwogen, beim
+Berufungskläger bestehe eine schwere psychische Störung sowie eine Abhängigkeit
+von Suchtstoffen, wobei beide Erkrankungen in einem Zusammenhang mit der
+vorliegend beurteilten Delinquenz stünden und entsprechend zu einer hohen
+Rückfallgefahr führten, welcher nur mit einer stationären therapeutischen
+Massnahme wirksam begegnet werden könne. Die Notwendigkeit einer stationären
+therapeutischen Massnahme werde von beiden Gutachtern klar bejaht. C____ und B____
+führten übereinstimmend aus, dass ein ambulantes Therapiesetting nicht
+ausreichen würde, um die Legalprognose zu verbessern. Die Vorinstanz hat sich
+sodann mit dem Umstand beschäftigt, dass der Berufungskläger über keinen
+gültigen Aufenthaltstitel verfügt und die Schweiz nach Beendigung einer
+Massnahme verlassen wird. Aus den Ausführungen des Gutachters B____ ergebe sich,
+dass die ausländerrechtliche Situation des Berufungsklägers nicht per se gegen
+einen Behandlungserfolg im Rahmen einer stationären Massnahme spreche. Vielmehr
+gehe dieser zum aktuellen Zeitpunkt davon aus, dass beim Berufungskläger durch
+eine stationäre Behandlung sowohl eine Krankheitseinsicht als auch eine
+Stabilisierung der schizophrenen Erkrankung erreicht werden könne. Es erscheine
+nachvollziehbar, dass dadurch ‒ im Unterschied zu den bisherigen meist
+kurzen stationären Aufenthalten, nach welchen es stets wieder zu Rückfällen
+gekommen sei ‒ im Erfolgsfalle ein Funktionsniveau erarbeitet werden
+könne, welches dem Berufungskläger die Wiedereingliederung in der Türkei
+erleichtern werde. Der mit der Massnahme verbundene Resozialisierungsauftrag
+sei denn auch nicht auf die Schweiz beschränkt, gehe es doch generell um die
+Verbesserung der Legalprognose des Beurteilten. Eine solche sei gestützt auf
+die Ausführungen von B____ mittels stationärer therapeutischer Behandlung nach
+aktuellem Stand trotz der gegebenen ausländerrechtlichen Situation erreichbar.
+Daher sei zum aktuellen Zeitpunkt die Geeignetheit der Massnahme zu bejahen.
+
+4.2 Die Berufung des Beschuldigten richtet sich
+einzig gegen die ausgesprochene stationäre Massnahme. Mit Schreiben vom 17.
+Oktober 2024 hat der Verteidiger seinen Antrag auf Einholung eines
+Ergänzungsgutachtens damit begründet, der Gutachter B____ habe im Rahmen der vorinstanzlichen
+Hauptverhandlung erklärt, dass ein Behandlungsziel nur erreicht werden könne,
+wenn nach der stationären Massnahme ein ambulantes Setting mit
+Nachsorgebehandlung und fürsorgerischen Betreuungsmassnahmen im Rahmen einer
+fürsorgerischen zivilrechtlichen Massnahme gewährleistet seien. Aufgrund der
+Tatsache, dass der Berufungskläger zufolge eines rechtskräftigen
+Wegweisungsentscheids des Migrationsamtes Basel-Stadt nach Entlassung aus der
+stationären Massnahme in die Türkei zurückkehren müsse, könne ein ambulantes
+Setting mit Nachsorgebehandlung und fürsorgerischen Betreuungsmassnahmen nicht
+aufgegleist werden. Der Gutachter habe davon erst im Rahmen der
+Hauptverhandlung Kenntnis erlangt. Seine mündlichen Antworten würden im
+Ergebnis dazu tendieren, unter diesen Umständen die Massnahme als nicht
+geeignet zu bezeichnen. Diese Einschätzung sei im Rahmen einer Ergänzung zu
+präzisieren bzw. zu bestätigen oder zu dementieren (Akten S. 1626 ff.).
+
+4.3 Dem Gericht liegt der Therapieverlaufsbericht
+der PDAG vom 4. Oktober 2024 vor. Das Rückfallrisiko für Sachbeschädigung,
+Beschimpfung, Drohung und Gewalt und Drohung gegen Behörden und Beamte wird im
+geschlossenen Setting als aktuell leicht reduziert im Vergleich zur
+legalprognostischen Beurteilung gemäss Gutachten von C____ vom 23. Dezember
+2022 beurteilt. In einem offeneren und weniger kontrollierenden Setting wäre
+die Wahrscheinlichkeit für Sachbeschädigung, Beschimpfung, Drohung und Gewalt
+und Drohung gegen Behörden und Beamte aufgrund der aktuell fehlenden
+Krankheits- und Problemeinsicht, den noch unzureichenden Strategien im Umgang
+mit Stress und Konflikten, der noch nicht vertieft stattgefundenen
+Auseinandersetzung mit den Taten, erwartetem erneuten Drogenkonsum, einem
+Absetzen der antipsychotischen Medikation und daraus resultierend einer Zunahme
+der psychotischen Symptomatik aktuell weiterhin deutlich erhöht. Aus Sicht der
+PDAG stellt sich beim Patienten eine Massnahmenbedürftigkeit dar und seine dortige
+stationäre Behandlung wird als geeignet und zweckmässig erachtet. Es müsse
+gemeinsam ein Delinquenzkonzept erarbeitet werden, zudem bestehe medikamentöser
+Optimierungsbedarf aufgrund einer weiterhin vorhandenen psychotischen
+Symptomatik. Zukünftige Lockerungen der Ausgangsstufen eigneten sich zur
+Belastungserprobung aller vorhandener Risikofaktoren. Aus Sicht der PDAG sollte
+die Massnahme fortgeführt werden (Akten S. 1616 ff.).
+
+4.4 Mit Ergänzungsgutachten vom 28. Dezember 2024
+führte der Gutachter B____ aus, es könne zum gegenwärtigen Zeitpunkt und unter
+den etablierten Behandlungs- und Betreuungsstrukturen in der PDAG-Klinik
+Königsfelden zwar eine gewisse Stabilisierung des psychischen
+Gesundheitszustandes des Berufungsklägers, jedoch noch keine ausreichende,
+nachhaltige und stabile Besserung in den entscheidenden delikt- und
+risikorelevanten Störungsbereichen festgestellt werden. Die bis anhin
+erreichten Besserungen würden sich durch die Fortführung der stationären
+Massnahme im gegenwärtigen Setting nicht nur aufrechterhalten und
+konsolidieren, sondern mit hoher Wahrscheinlichkeit noch weiter ausbauen
+lassen. Eine weitere Besserung des Gesundheitszustandes könne erreicht werden.
+Das Behandlungsziel bestehe neben einer weiteren Besserung des psychischen
+Gesundheitszustandes und der Erreichung eines ausreichenden und stabilen
+Behandlungsergebnisses in der Schaffung möglichst günstiger Voraussetzungen für
+eine Überführung der stationären Behandlung in eine vom Berufungskläger selbst
+und seinen Angehörigen in der Türkei mitgetragenen ambulanten Anschlusslösung.
+Angesichts der zutage getretenen und auch weiterhin zu erwartenden
+Behandlungsschwierigkeiten wie auch im Hinblick auf die Notwendigkeit weiterer
+Belastungs- und Lockerungserprobungen und auch des Einbezugs der Angehörigen in
+der Türkei erscheine ein Zeithorizont von lediglich zwei Jahren jedoch wenig
+realistisch, um das Behandlungsziel zu erreichen, weshalb der Gutachter
+empfiehlt, die stationäre therapeutische Massnahme nach Art. 59 StGB für die
+Dauer von mindestens drei Jahren anzuordnen. Falls die Massnahme zum
+gegenwärtigen Zeitpunkt beendet würde und der Berufungskläger in ähnliche
+unstrukturierte und sozial desintegrierte Lebensumstände zurückkehren würde,
+wie sie bei ihm im Tatzeitraum bestanden haben, würde sich sein psychischer
+Gesundheitszustand mit hoher Wahrscheinlichkeit innert kurzer Zeit erheblich
+verschlechtern, verbunden mit einem hohen Risiko eines erneuten schädlichen
+Gebrauchs von Suchtmitteln, eines ungünstigen weiteren Krankheitsverlaufs und
+damit auch neuerlicher krankheitsbedingter Fehlverhaltensweisen inkl.
+einschlägiger strafbarer Handlungen im Spektrum seiner bisherigen Delinquenz.
+Hauptzweck der Massnahme müsse sein, ein möglichst stabiles und nachhaltiges
+Behandlungsergebnis zu erzielen und den Berufungskläger zu befähigen, selber
+Verantwortung für seine psychische Gesundheit, für einen angemessenen Umgang
+mit fortbestehenden Krankheitssymptomen und daraus resultierenden Risiken sowie
+für eine einsichtsbasierte, eigenmotivierte und verlässliche Kooperation in der
+psychiatrischen Behandlung zu übernehmen, damit zu gegebener Zeit seine
+Entlassung aus der Massnahme in einen möglichst stabilen und geordneten
+sozialen Empfangsraum mit Wohnmöglichkeit und Tagesstruktur bei seiner Familie,
+Unterstützung durch seine Angehörigen und einer selbst organisierten ambulanten
+psychiatrischen Behandlung erfolgen könne. Aus gutachterlicher Sicht erscheine
+es nicht unrealistisch, dass es gelingen könnte, im Verlauf der stationären
+Massnahme ein stabiles und nachhaltiges Behandlungsergebnis zu erzielen und
+möglichst günstige Voraussetzungen dafür zu schaffen, dass dieses
+Behandlungsergebnis vom Berufungskläger auch nach seiner Rückkehr zu seiner
+Familie in die Türkei möglichst aufrechterhalten werden könne, indem er auch
+dort nicht nur die langfristig notwendige Suchtmittelabstinenz einhalte,
+sondern in eigener Verantwortung Sorge trage für die Fortführung der
+notwendigen psychiatrischen Behandlung im ambulanten oder gegebenenfalls auch
+stationären Rahmen (Ergänzungsgutachten, Akten S. 1648 ff.).
+
+4.5 Mit Eingabe vom 6. März 2025 beantwortete der
+Gutachter die schriftlichen Ergänzungsfragen des Berufungsklägers. Zusätzlich
+zu den Ausführungen in seinen Gutachten führte er aus, das im
+Ergänzungsgutachten vom 28. Dezember 2024 beschriebene Behandlungsziel, ein
+ausreichendes und stabiles Behandlungsergebnis zu erreichen und eine ambulante
+Anschlusslösung in seinem Heimatland vorzubereiten, werde sich im stationären
+Setting in Königsfelden mit hoher Wahrscheinlichkeit erreichen lassen,
+allerdings erscheine zum gegenwärtigen Zeitpunkt noch ungewiss, wie viel Zeit
+dafür erforderlich sein werde, da von gutachterlicher Seite schwer abschätzbar
+sei, wie der Berufungskläger auf die neuroleptische Medikation und die anderen
+störungsspezifischen therapeutischen Interventionen ansprechen werde und sich
+dadurch tatsächlich ein zufriedenstellendes und stabiles Behandlungsergebnis
+erreichen lassen werde. Die Frage, wie lange es gewöhnlich dauere, bis sich die
+therapeutische Wirksamkeit einer Behandlung mit dem Neuroleptikum Clozapin
+beurteilen lasse, beantwortete der Gutachter dahingehend, dass sich die
+Behandlung des psychischen Störungsbildes einer chronischen paranoiden
+Schizophrenie schwierig gestaltet habe, da der Berufungskläger unter
+verschiedenen eingesetzten antipsychotischen Medikamenten der ersten Generation
+keine ausreichende klinische Besserung gezeigt habe und weiterhin sowohl unter
+«Positivsymptomen» als auch unter «Negativsymptomen» der Schizophrenie gelitten
+habe, wodurch die medikamentöse Einstellung auf eine wirksame, verträgliche und
+nebenwirkungsarme antipsychotische Langzeitmedikation erheblich erschwert
+gewesen sei und mehrfache medikamentöse Umstellungen stattgefunden hätten,
+zuletzt auf das atypische Neuroleptikum Clozapin. Ein Behandlungsversuch mit
+Clozapin sollte über einen Zeitraum von mindestens 8 Wochen erfolgen. Bei
+unzureichendem Ansprechen auf Clozapin könne die Kombination mit einem zweiten
+Atypikum und/oder eine Augmentation mit Substanzen aus der Gruppe der
+Antiepileptika und bei Unverträglichkeit von Clozapin auch eine Kombination
+zweier Antipsychotika erwogen werden. Bevor beurteilt werden könne, welche
+antipsychotische Medikation sich im konkreten Fall als ausreichend wirksam zur
+deutlichen und anhaltenden Besserung der schizophrenen Positiv- und
+Negativsymptomatik und zugleich als verträglich und nebenwirkungsarm erweise,
+sei in jedem Fall noch eine längere, mindestens mehrmonatige weitere
+Behandlungszeit erforderlich. Es werde sicherlich noch eine längere, derzeit
+noch nicht genauer abschätzbare Zeit in Anspruch nehmen, bevor das Erreichen
+des Behandlungsziels eines zufriedenstellenden und auch unter Belastungs- und
+Lockerungserprobungen stabil gebliebenen Behandlungsergebnisses (inkl.
+Aufrechterhaltung einer Abstinenz von Suchtmitteln) festgestellt werden könne
+und eine Überstellung des Berufungsklägers in eine geeignete (noch konkret
+unter Einbezug seiner Angehörigen in der Türkei vorzubereitende)
+Anschlusslösung mit ambulanter psychiatrischer Weiterbehandlung vertretbar
+erscheine. Aufgrund der Vielzahl von derzeit nur schwer einschätzbaren
+Variablen, welche den weiteren Krankheits- und Behandlungsverlauf wie auch die
+zukünftigen konkreten Lebensumstände beeinflussten, könne derzeit keine sichere
+erfolgversprechende Prognose ‒ mit der Erwartung, dass sich das bis zum
+Zeitpunkt der Entlassung des Berufungsklägers aus der stationären Massnahme
+erzielte Behandlungsergebnis mit hoher Wahrscheinlichkeit auch nach seiner
+Rückkehr in sein Heimatland aufrechterhalten lasse ‒ gestellt werden
+(Akten S. 1669 ff.).
+
+4.6 Im Plädoyer hat der Verteidiger geäussert, es
+sei unbestritten, dass beim Beschuldigten eine schwere psychische Störung
+bestehe und die begangenen Delikte mit dieser in einem Zusammenhang stünden.
+Bestritten werde hingegen die Geeignetheit dieser Massnahme. So sei
+insbesondere erforderlich, dass ein Behandlungsziel bestehe, welches erreicht
+werden könne, und die Massnahme mit einer hinreichenden Wahrscheinlichkeit dazu
+führe, dass nach Beendigung der stationären Massnahme die Gefahr weiterer mit
+der psychischen Störung im Zusammenhang stehender Straftaten deutlich
+verringert werde. Eine lediglich vage, theoretische Erfolgsaussicht genüge für
+die Anordnung einer therapeutischen Massnahme nicht. Gemäss den Gutachten von C____
+und B____ stehe fest, dass eine psychische Erkrankung ohne hinreichende
+Wahrscheinlichkeit für eine Heilung bestehe. Entsprechend sei eine Heilung im
+Rahmen der stationären Massnahme und eine damit einhergehende Besserung der
+Legalprognose nicht zu erwarten. B____ habe im Rahmen seines Ergänzungsgutachtens
+vom 19. September 2023 und im Rahmen der erstinstanzlichen Verhandlung eine
+stationäre Massnahme als geeignet bezeichnet, weil er dadurch eine Stärkung der
+Krankheitseinsicht und eine Stabilisierung des psychischen Gesundheitszustandes
+erwarte. Er habe jedoch im Rahmen der erstinstanzlichen Verhandlung
+unmissverständlich zu Protokoll gegeben, dass dieses Behandlungsziel nur zu
+erreichen sei, wenn nach dem stationären Aufenthalt ein ambulantes Setting mit
+Nachsorgebehandlung und fürsorgerischen Betreuungsmassnahmen im Rahmen einer fürsorgerischen
+zivilrechtlichen Massnahme aufgegleist werde, weil ein chronisches Bild einer
+Schizophrenie vorliege, bei welcher eine Symptomfreiheit nicht zu erwarten sei.
+
+Es stehe fest, dass für den Berufungskläger im Anschluss an
+die stationäre Massnahme behördlich keine Betreuungsmassnahmen und
+fürsorgerische Massnahmen aufgegleist werden könnten, weil er das Land
+unmittelbar nach Beendigung der stationären Massnahme verlassen müsse. Im
+Widerspruch zum Gutachten vom 19. September 2023 und den Ausführungen
+anlässlich der erstinstanzlichen Verhandlung habe sich der Gutachter in seinen
+Ergänzungen vom 28. Dezember 2024 dafür ausgesprochen, dass das Behandlungsziel
+der stationären Massnahme auch erreicht werden könne, wenn der Berufungskläger
+nach Beendigung der Massnahme in die Türkei zurückkehren müsse. Dies begründe
+er damit, dass er von einer Überführung der stationären Massnahme in eine
+ambulante Anschlusslösung in der Türkei ausgehe, welche von den Angehörigen in
+der Türkei mitgetragen werde. Sodann solle es Sinn ergeben, mit der stationären
+Massnahme die Voraussetzungen zu schaffen, dass eine eigenmotivierte und
+einsichtsbasierte ambulante psychiatrische Nachsorgebehandlung in der Türkei
+erfolgen könne. Wenn Sinn und Zweck der Massnahme und damit deren Erfolg aber
+davon abhänge, ob sich der Berufungskläger aus eigener Initiative um eine
+Anschlusslösung der Behandlung in der Türkei kümmere, verlasse sich der
+Gutachter für die Erfolgsaussicht der Massnahme auf eine rein spekulative
+Annahme. Wenn sich diese Spekulation nicht realisiere, bleibe die stationäre
+Massnahme nutzlos, weil der Berufungskläger bei Entlassung ohne Anschlusslösung
+in seinem Heimatland mit höchster Wahrscheinlichkeit wieder rasch in den gleichen
+Gesundheitszustand zurückfalle, in welchem er vor der Haft gewesen sei, womit
+das Behandlungsziel der Massnahme nach Art. 59 StGB seiner Erfolgsaussichten
+beraubt sei. Der Gutachter habe denn auch bei seiner Antwort auf Frage 8 in der
+Ergänzung vom 28. Dezember 2024 sowie in der Antwort 6 der Ergänzung vom 6.
+März 2025 eingeräumt, dass er zum gegenwärtigen Zeitpunkt noch keine
+erfolgsversprechende Prognose für die stationäre Massnahme stellen könne, wenn
+der Berufungskläger nach seiner Entlassung in die Türkei zurückkehren würde.
+Damit fehle eine hinreichende Wahrscheinlichkeit für den Erfolg der Massnahme.
+Dies gelte gemäss der Antwort zu Frage 6 in der Ergänzung vom 6. März 2025
+offensichtlich selbst dann, wenn eine Anschlusslösung mit ambulanter psychiatrischer
+Weiterbehandlung in der Türkei aufgegleist werden würde. Die stationäre
+Massnahme sei folglich als ungeeignet und nicht erfolgversprechend aufzuheben.
+Die laufende Massnahme raube dem Berufungskläger nur Lebenszeit und verursache
+der Schweiz unnötige Kosten. Mit überwiegender Wahrscheinlichkeit ändere sich
+bezüglich der Rückfallgefahr nach Entlassung aus der stationären Massnahme
+nichts, was Ausfluss der Erkrankung sei, bei welcher sich zwar mit starken
+Medikamenten Symptome unterdrücken liessen, jedoch der Krankheitszustand als
+solcher chronisch bleibe (Plädoyer, Akten S. 1707 ff.). Im gesprochenen Wort
+äusserte der Verteidiger, das a und o sei die konsequente Einnahme der
+Medikamente. Wenn man sie absetze, bestehe die Gefahr einer psychotischen Krise.
+Das in der Therapie Erlernte nütze in einer solchen Phase nichts (Akten S.
+1727.1).
+
+4.7 Die Staatsanwaltschaft hat im Plädoyer
+ausgeführt, B____ zeige unter Berücksichtigung der vorliegenden Umstände einen
+klaren und gangbaren Weg auf und die Stawa erachtet die von der Vorinstanz
+ausgesprochene Massnahme gestützt auf die ergänzenden Berichte und Ausführungen
+des Gutachters nach wie vor als angezeigt, wobei der Empfehlung des Gutachters
+bezüglich der Dauer zu folgen sei. Aus den dargelegten Gründen seien die in der
+Berufungsbegründung des Verteidigers enthaltenen Vorbringen aus Sicht der
+Staatsanwaltschaft nicht geeignet, eine Abänderung des erstinstanzlichen
+Urteils zu rechtfertigen (Akten S. 1706).
+
+4.8 Zur Anschlussberufung der Staatsanwaltschaft
+hat der Verteidiger ausgeführt, soweit die Staatsanwaltschaft den Antrag
+stelle, es sei eine Massnahme nach Art. 59 StGB anzuordnen, sei darauf
+hinzuweisen, dass dies das Strafgericht bereits getan habe. Gemäss
+Anschlussberufungserklärung sei nicht angefochten worden, dass das Strafgericht
+die Dauer der stationären Massnahme auf zwei Jahre begrenzt habe. Entsprechend
+sei auf das Begehren, die Dauer zu verlängern, mangels entsprechender
+Anschlussberufungserklärung nicht einzutreten (Akten S. 1712).
+
+4.9      Erwägungen zur Massnahme
+
+4.9.1 Dass der Berufungskläger an einer schweren
+psychischen Störung leidet, die mit der zu beurteilenden Delinquenz im
+Zusammenhang steht, ist unbestritten. Er leidet unter einer langjährigen
+chronischen paranoiden Schizophrenie sowie einer ebenfalls langjährigen
+Suchtmittelproblematik mit Abhängigkeit von Kokain und mindestens
+gewohnheitsmässigem schädlichen Gebrauch von Alkohol und Cannabis. Die
+Tauglichkeit der vorinstanzlich ausgesprochenen stationären Therapie nach Art.
+59 StGB wurde von Seiten des Berufungsklägers nicht per se bestritten, sondern
+einzig aufgrund des Umstands, dass er die Schweiz im Anschluss zu verlassen hat.
+Das Behandlungsziel könne jedoch nach den ursprünglichen Ausführungen des
+Gutachters nur erreicht werden könne, wenn nach der stationären Massnahme ein
+ambulantes Setting mit Nachsorgebehandlung und fürsorgerischen
+Betreuungsmassnahmen im Rahmen einer fürsorgerischen zivilrechtlichen Massnahme
+gewährleistet sei.
+
+Aus den Ausführungen des Gutachters in seinem
+Ergänzungsgutachten vom 28. Dezember 2024 und der schriftlichen
+Fragebeantwortung vom 6. März 2025 erhellt, dass mit der begonnen stationären
+Therapie eine taugliche Massnahme zur Verfügung steht, um das in Art. 59 Abs. 1
+lit b formulierte Ziel, der Gefahr weiterer mit der psychischen Störung in
+Zusammenhang stehender Taten zu begegnen, erreicht werden kann, auch wenn der
+Berufungskläger die Schweiz im Anschluss verlassen muss und fortan in der
+Türkei leben wird. Ziel der Massnahme ist vorliegend nicht die Heilung der
+diagnostizierten Störung, sondern ein möglichst stabiles und nachhaltiges
+Behandlungsergebnis. Der Berufungskläger soll selber Verantwortung für seine
+psychische Gesundheit, für einen angemessenen Umgang mit fortbestehenden
+Krankheitssymptomen und daraus resultierenden Risiken sowie für eine
+einsichtsbasierte, eigenmotivierte und verlässliche Kooperation in der
+psychiatrischen Behandlung inklusive Suchtmittelabstinenz übernehmen, um mit
+Unterstützung seiner Familie in der Türkei leben zu können.
+
+Es trifft zu, dass der Straf- und Massnahmenvollzug nach seiner
+Ausreise in die Türkei keinerlei Einfluss mehr auf das dortige Setting nehmen
+kann und dies eine besondere Schwierigkeit darstellt. Allerdings ist nicht
+ersichtlich, weshalb vom Berufungskläger nicht erwartet werden kann, dass er
+sich für eine tragfähige Anschlusslösung einsetzt, liegt dies doch sowohl in
+seinem eigenen Interesse als auch in jenem seiner Familie in der Türkei. Es ist
+auch lediglich eine Behauptung der Verteidigung, dass der Berufungskläger
+dereinst ohne jede Vorbereitung in die Türkei ausreisen wird. Der Gutachter hat
+dazu mehrfach und auch anlässlich der Berufungsverhandlung ausgeführt, die
+Familie des Berufungsklägers erfülle einige Funktionen eines Wohnheims für
+psychisch Kranke. Man müsse die Angehörigen aber unterstützen mit Gesprächen,
+weil die Bewältigung nicht einfach sei. Man sollte sie vorgängig in die Schweiz
+lassen oder zumindest mit ihnen telefonieren, damit sie zur häuslichen Pflege
+und Betreuung befähigt würden (Akten S. 1726). Den Aussagen des
+Berufungsklägers selbst ist denn auch zu entnehmen, dass er sich bereits mit
+dem in der Türkei zu etablierenden Setting befasst. So hat er gesagt, sein
+Bruder habe seinem Anwalt bereits mitgeteilt, wo er eine Therapie machen könnte
+(Akten S. 1722) und seine Eltern hätten ein Zimmer für ihn vorbereitet (Akten
+S. 1721). Dass der Erfolg der Anschlusslösung in der Türkei zu einem grossen
+Teil von der Bereitschaft des Berufungsklägers abhängt, ist nicht von der Hand
+zu weisen, dies träfe indes auch auf jede andere Anschlusslösung zu, ob
+behördlich organisiert oder nicht und ob in der Schweiz oder in der Türkei.
+
+Die derzeit eingesetzten Medikamente sind gemäss Gutachter
+auch im Grossraum Istanbul erhältlich, wo der Berufungskläger leben wird (Prot.
+Berufungsverhandlung, Akten S. 1724). Nicht zu folgen ist der Argumentation der
+Verteidigung, dass beim akuten auftreten psychotischen Krise die therapeutisch
+erlernten Strategien ohnehin nicht angewandt werden könnten und der Erfolg
+mithin einzig an der Einnahme der Medikamente hänge. Wie der Gutachter
+nachvollziehbar erläutert hat, greifen die erlernten Strategien idealerweise,
+bevor es zu einer solchen Krise kommt und führen dazu, dass der Betroffene die
+Anzeichen einer sich anbahnenden Verschlechterung erkennt und er selbst (oder
+sein vorbereitetes Umfeld) sich professionelle Hilfe holen kann. Auch die
+zwingend erforderliche verlässliche Einnahme der Medikamente erfordert eine
+echte Krankheitseinsicht und die Überzeugung, dass es die gut eingestellte
+Medikation ist, welche ein hohes Funktionsniveau ermöglicht. Anderenfalls droht
+das rasche Unverständnis darüber, wozu die Medikamente notwendig sind ‒
+zumal, wenn diese unerwünschte Nebenwirkungen mit sich bringen sollten ‒
+und deren Absetzung mit der Folge, dass die dann unbehandelte Erkrankung erneut
+zum Durchbruch gelangt. Dem Einwand der Verteidigung ist somit zu entgegnen,
+dass das in der laufenden Massnahme Erlernte unerlässliche Voraussetzung dafür
+sein wird, dass nach der Ausreise in die Türkei auf eine dauerhafte
+Medikamentencompliance, ein frühes Erkennen einer Verschlechterung des
+gesundheitlichen Zustands und eine freiwillige Zusammenarbeit mit Fachpersonen
+vertraut werden kann.
+
+Es ist nach dem Gesagten der gutachterlichen Empfehlung zu
+folgen und eine stationäre therapeutische Massnahme nach Art. 59 StGB anzuordnen.
+
+4.9.2 Es stellt sich sodann die Frage nach der Dauer
+der Massnahme. Der Verteidigung ist nicht zu folgen, wenn sie die Ansicht
+vertritt, dem Gericht sei es mangels entsprechenden Antrags der
+Staatsanwaltschaft im Berufungsverfahren nicht möglich eine höhere
+Massnahmendauer als die von der Vorinstanz bemessenen zwei Jahre anzuordnen.
+Zum einen lautet der Antrag der Staatsanwaltschaft in ihrer Anschlussberufung
+nicht auf die Anordnung einer zweijährigen Massnahme, sondern «es sei eine
+Massnahme gestützt auf Art. 59 StGB anzuordnen», was gemäss Absatz 4 der
+zitierten Bestimmung das Aussprechen von Massnahmen bis zu fünf Jahren Dauer
+ermöglicht. Zum andern gilt im Bereich der Massnahmen ohnehin nicht das Verbot
+der reformatio in peius ‒ so könnte gar eine ambulante Massnahme in eine
+stationäre Massnahme umgewandelt werden, ohne dass dies gemäss
+bundesgerichtlicher Rechtsprechung dem Verbot der reformatio in peius
+zuwiderlaufen würde. Dies, da es im objektiven Interesse des Betroffenen liege,
+mit seiner psychischen Störung umgehen zu können und nicht rückfällig zu werden
+(BGE 144 IV 113 E. 4.3).
+
+Der Gutachter hat in seinem Ergänzungsgutachten vom 28.
+Dezember 2024 ausgeführt, angesichts der im bisherigen 10-monatigen Verlauf der
+stationären Massnahme in der PDAG-Klinik Königsfelden zutage getretenen (und
+auch weiterhin zu erwartenden) Behandlungsschwierigkeiten wie auch im Hinblick
+auf die Notwendigkeit weiterer Belastungs- und Lockerungserprobungen und auch
+des Einbezugs der Angehörigen in der Türkei (gegebenenfalls telefonisch mit
+Dolmetscherhilfe) erscheine ein Zeithorizont von lediglich zwei Jahren, wenig
+realistisch, um das Behandlungsziel zu erreichen. Es werde deshalb empfohlen,
+die stationäre therapeutische Massnahme nach Art. 59 StGB für die Dauer von
+mindestens drei Jahren anzuordnen (Akten S. 1657). In der Berufungsverhandlung
+bekräftigte der Gutachter seine Ansicht, dass die Massnahme für mindestens drei
+Jahre anzuordnen sei. Der Bericht aus Königsfelden zeige, dass es Jahre gehen
+könne, bis ein therapeutisches Arbeitsbündnis bestehe ‒ im Gutachten habe
+er sich ursprünglich gar für 5 Jahre ausgesprochen (Akten S. 1725).
+
+Das Gericht erachtet die gutachterlichen Ausführungen auch zur
+Dauer der Massnahme für überzeugend, und es ist somit eine stationäre
+psychiatrische Behandlung für die Dauer von 3 Jahren anzuordnen.
+
+5.         Landesverweisung
+
+5.1 Die Vorinstanz hat auf das Aussprechen einer
+Landesverweisung verzichtet und dies damit begründet, dass es sich bei den
+ergangenen Schuldsprüchen nicht um Katalogstraftaten im Sinne von Art. 66a Abs.
+1 des Strafgesetzbuches handle, womit nur eine fakultative Landesverweisung in
+Frage käme. Eine solche erscheine jedoch nicht angezeigt, da das deliktische
+Verhalten des Berufungsklägers in erster Linie auf seine schwere psychische
+Erkrankung zurückzuführen und entsprechend von ihm selbst nur bedingt steuerbar
+sei. Ausserdem bestehe bereits eine rechtskräftige ausländerrechtliche
+Wegweisung, weshalb er das Land nach Verbüssung der Strafe bzw. nach Abschluss
+der Massnahme ohnehin verlassen müsse. Es bestehe kein Anlass, dem Beurteilten
+eine künftige Rückkehr in die Schweiz durch eine Landesverweisung gänzlich zu
+verunmöglichen.
+
+5.2 Die Staatsanwaltschaft hat mit ihrer
+Anschlussberufung eine Landesverweisung in Anwendung von Art. 66a Abs. 1 lit. b
+StGB beantragt, welcher im Deliktskatalog der obligatorischen Landesverweisung
+die schwere Körperverletzung aufführt. Im Plädoyer hat sie ergänzt, falls das
+Gericht im Anklagepunkt 11 dem Antrag der Staatsanwaltschaft nicht folgen
+sollte, werde eventualiter die Anordnung der fakultativen Landesverweisung
+beantragt, da aus ihrer Sicht nicht von einem Härtefall auszugehen sei und
+zudem ein grosses öffentliches Interesse an einer Landesverweisung bestehe.
+
+5.3 Die Verteidigung hat hierzu geäussert, es sei
+vollumfänglich auf die zutreffenden Ausführungen des Strafgerichts zu
+verweisen, welches den Antrag der Staatsanwaltschaft auf Anordnung der
+fakultativen Landesverweisung mit nachvollziehbarer Begründung abgewiesen habe.
+
+5.4 Mangels Schuldspruchs betreffend die Anklage
+wegen versuchter schwerer Körperverletzung liegt keine Katalogstraftat der
+obligatorischen Landesverweisung nach Art. 66a StGB vor. Eine fakultative
+Landesverweisung ist nicht auszusprechen, da die begangenen Straftaten nicht
+sonderlich schwer wiegen und diese in engem Zusammenhang mit der psychischen
+Störung des Berufungsklägers stehen. Die angeordnete stationäre Massnahme hat zudem
+zum Ziel, die Legalprognose entscheidend zu verbessern. Der Berufungskläger
+wird die Schweiz nach Beendigung der stationären Massnahme verlassen müssen,
+jedoch lebt seine 13-jährige Tochter inzwischen wieder in der Schweiz und eine
+Landesverweisung würde es ihm verunmöglichen, sie hier zu besuchen. Seine
+Interessen überwiegen die Interessen der Allgemeinheit an einer
+Landesverweisung somit deutlich, und es ist somit auf eine fakultative
+Landesverweisung zu verzichten.
+
+6.         Kosten
+
+6.1 Die Vorinstanz hat berücksichtigt, dass
+aufgrund der diversen Freisprüche und der stark eingeschränkten Schuldfähigkeit
+des Beschuldigten die von ihm zu tragenden Kosten erheblich zu reduzieren
+seien. Es erscheine angemessen, ihm mit CHF 5'000.‒ gut ein Sechstel
+der gesamten Verfahrenskosten von CHF 29451.55 aufzuerlegen. Die restlichen
+CHF 24451.55 wurden der Strafgerichtskasse auferlegt. Auch die Urteilsgebühr
+wurde mit CHF 2500.‒ auf rund ein Sechstel reduziert. Diese erstinstanzliche
+Verlegung der Kosten wird unverändert beibehalten.
+
+Der Rückforderungsvorbehalt des Verteidigungshonorars ist ebenfalls
+auf 15 Prozent zu beschränken.
+
+6.2 Für die Kosten des Rechtsmittelverfahrens
+kommt Art. 428 Abs. 1 StPO zum Tragen. Ob und gegebenenfalls inwieweit eine
+Partei im Sinne dieser Bestimmung obsiegt oder unterliegt, hängt davon ab, in
+welchem Ausmass ihre vor der zweiten Instanz gestellten Anträge gutgeheissen
+werden (BGer 6B_415/2021 vom 11. Oktober 2021 E. 7.3; 6B_460/2020 vom 10. März
+2021 E. 10.3.1, je mit Hinweisen). Die Kosten sind nach den Bestimmungen von
+Art. 428 Abs. 1 StPO in Verbindung mit § 21 Abs. 1 des
+Gerichtsgebührenreglements [GGR, SG 154.810] zu bemessen.
+
+Vorliegend ist der Berufungskläger mit seinem Antrag auf
+Aufhebung der Massnahme unterlegen. Die Staatsanwaltschaft hat bezüglich der
+beantragten weiteren Schuldsprüche teilweise obsiegt. Es rechtfertigt sich
+demnach die Auferlegung einer um 25% reduzierten Urteilsgebühr von CHF
+1500.‒. Hingegen hat der Berufungskläger die zusätzlichen Kosten für den
+Aufwand des Gutachters von insgesamt CHF 530.‒ vollumfänglich zu
+tragen.
+
+6.3 Der amtliche Verteidiger ist für seinen
+Aufwand gemäss eingereichter Honorarnote aus der Gerichtskasse zu entschädigen,
+wobei die Berufungsverhandlung mit zusätzlichen 3,5 Stunden Aufwand zu vergüten
+ist. Der Berufungskläger hat diese Kosten entsprechend dem Verfahrensausgang im
+Umfang von 75 Prozent (CHF 4063.95) zurückzuerstatten, sobald es seine
+wirtschaftlichen Verhältnisse erlauben (Art. 135 Abs. 4 StPO).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Es wird festgestellt, dass folgende Punkte des Urteils des
+Strafdreiergerichts vom 11. März 2024 mangels Anfechtung in
+Rechtskraft erwachsen sind:
+
+-      Schuldsprüche wegen Sachbeschädigung
+(AS Ziff. 8; Art. 144 Abs. 1 StGB), mehrfacher Beschimpfung, Gewalt und Drohung
+gegen Behörden und Beamte sowie Diensterschwerung (AS Ziff. 9; Art. 177 Abs. 1
+und 285 Ziff. 1 StGB, §4 UeStG BS) und Drohung (AS Ziff. 11; Art. 180 Abs.
+1 StGB) ;
+
+- Freisprüche vom Vorwurf
+der versuchten schweren Körperverletzung (Ziff. 10) und der versuchten
+Erpressung, ev. versuchten Nötigung (Ziff. 11);
+
+-      Einstellung des Verfahrens betreffend
+Diensterschwerung (Ziff. 2) und mehrfachen geringfügigen Betrugs, ev.
+mehrfacher geringfügiger Zechprellerei (Ziff. 10) ;
+
+- Verurteilung zu
+CHF 3146.40 Schadenersatz an die [], die Verweisung der
+Schadenersatzforderung des [] von CHF 140.‒ auf den Zivilweg und die
+Abweisung der Schadenersatzforderung von [] im Betrag von CHF 3000.‒;
+
+-      Verfügungen über die
+beschlagnahmten Gegenstände;
+
+-      Entschädigung der amtlichen
+Verteidigung für das erstinstanzliche Verfahren).
+
+Die Berufung des Beschuldigten wird abgewiesen. Die
+Anschlussberufung der Staatsanwaltschaft wird teilweise gutgeheissen.
+
+A____ wird  neben den bereits rechtskräftig
+gewordenen Schuldsprüchen der mehrfachen Gewalt und Drohung gegen Behörden und
+Beamte (Anklageschrift Ziff. 1, 2, 7), der Hinderung einer Amtshandlung (AS
+Ziff. 1), der Widerhandlung gegen das Waffengesetz (AS Ziff. 3), der mehrfachen
+Sachbeschädigung (AS Ziff. 4), der Beschimpfung, Diensterschwerung und
+Ruhestörung (AS Ziff. 5) sowie der Beschimpfung und Tätlichkeiten (AS Ziff. 6
+schuldig erklärt.
+
+Er wird vom Vorwurf der Hinderung einer Amtshandlung (AS
+Ziff. 8) und der versuchten schweren Körperverletzung (AS Ziff. 11)
+freigesprochen.
+
+Der Widerruf der am 28. März 2019 vom Strafgericht Basel-Stadt bedingt
+ausgesprochenen Freiheitsstrafe von 7 Monaten, Probezeit 2 Jahre, kann gemäss
+Art. 46 Abs. 5 StGB nicht mehr angeordnet werden.
+
+A____ wird verurteilt zu 10 Monaten Freiheitsstrafe , zu einer Geldstrafe
+von 20 Tagessätzen zu CHF 10. sowie zu einer Busse von CHF 300. (ev. 3 Tage Ersatzfreiheitsstrafe), unter Einrechnung der Untersuchungs-
+und Sicherheitshaft vom 21. März bis zum 4. Juli 2023,
+
+in Anwendung von Art. 126 Abs. 1, 144 Abs. 1, 177 Abs. 1, 285 Ziff. 1 und
+286 des Strafgesetzbuches, Art. 33 Abs. 1 lit. a des Waffengesetzes und § 4 und
+5 lit. a des kantonalen Übertretungsstrafgesetzes sowie Art. 19 Abs. 2, 49 Abs.
+1, 51 und 106 Abs. 2 des Strafgesetzbuches.
+
+Der Vollzug der ausgesprochenen Freiheitsstrafe wird aufgeschoben und
+eine stationäre psychiatrische Behandlung für die Dauer von 3 Jahren angeordnet (unter Einrechnung des vorzeitigen Massnahmenvollzugs seit dem
+5. Juli 2023), in Anwendung von Art. 57 Abs. 2 und 59 Abs. 1 des Strafgesetzbuches.
+
+Auf das Aussprechen einer Landesverweisung nach Art. 66a bis StGB
+wird verzichtet.
+
+Der Beurteilte trägt die Kosten von CHF 5000. und eine
+Urteilsgebühr von CHF 2500. für das erstinstanzliche Verfahren sowie
+die Kosten des zweitinstanzlichen Verfahrens von CHF 5530.‒ sowie eine
+reduzierte Urteilsgebühr von CHF 1500.‒ (inkl. Kanzleiauslagen).
+
+In Bezug auf die in Rechtskraft erwachsene Entschädigung der amtlichen
+Verteidigung für das erstinstanzliche Verfahren bleibt Art. 135 Abs. 4 StPO im
+Umfang von 15% (CHF 2039.10) der Verteidigungskosten vorbehalten.
+
+Dem amtlichen Verteidiger, [], werden für die zweite Instanz ein Honorar
+von CHF 4800.‒ und eine Spesenvergütung von CHF 212.60 zuzüglich 8,1%
+MWST von insgesamt CHF 406.‒, insgesamt also CHF 5418.60 ausgerichtet.
+Art. 135 Abs. 4 der Strafprozessordnung bleibt im Umfang von 75 %
+(CHF 4063.95) der zweitinstanzlichen Verteidigungskosten vorbehalten.
+
+Mitteilung an:
+
+- Berufungskläger
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Migrationsamt Basel-Stadt
+
+- Justiz- und Sicherheitsdepartement, Abteilung Strafvollzug
+
+sowie nach Rechtskraft:
+
+- Privatklägerschaft (nur Dispositiv)
+
+- Strafgericht Basel-Stadt
+
+- VOSTRA-Koordinationsstelle
+
+- Gutachter C____ und B____
+
+- Kantonspolizei Basel-Stadt, Waffenbüro
+
+- Bundesamt für Polizei, Zentralstelle Waffen
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Der Präsident                                                            Der
+Gerichtsschreiber
+
+lic. iur. Marc Oser                                                      lic.
+iur. Christian Lindner
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
