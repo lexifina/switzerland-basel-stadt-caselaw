@@ -1,0 +1,800 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2026.4"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2025.58"
+docket_2: "SVG.2026.4"
+decided: "2025-04-01"
+published: "2025-10-15"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=79178&W10_KEY=3048395&nTrefferzeile=38&Template=search_result_document.html"
+cites_decisions: ["8C_609/2017", "8C_713/2022", "BGE 125 V 351", "BGE 125 V 352", "BGE 130 V 445", "BGE 131 V 9", "BGE 132 V 215", "BGE 132 V 93", "BGE 135 V 465", "BGE 137 V 210", "BGE 139 V 225", "BGE 141 V 281", "BGE 143 V 418", "BGE 144 I 21", "BGE 144 I 28", "BGE 144 V 210", "BGE 145 V 97", "IV.2022.114", "IV.2024.88", "IV.2025.58"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-008.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-029.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-007.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.20/art-028b.md", "switzerland/bund/acts/831.20/art-029.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-025.md", "switzerland/bund/acts/831.201/art-026bis.md"]
+---
+
+# IV-Rente; Statusfrage
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 15. Oktober
+2025
+
+Mitwirkende
+
+lic. iur. R. Schnyder (Vorsitz), P.
+Waegeli, Dr. med. W. Rühl
+
+und a.o.
+Gerichtsschreiberin MLaw F. Loretz
+
+Parteien
+
+A____
+
+[...]
+
+vertreten durch lic. iur. Stephan
+Müller, Advokatur 11,
+
+Leimenstrasse 4, 4051 Basel
+
+Beschwerdeführerin
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2025.58
+
+Verfügung vom 1. April 2025
+
+IV-Rente; Statusfrage
+
+Tatsachen
+
+I.
+
+Die 1986 geborene Beschwerdeführerin zog im Alter von acht
+Jahren mit ihren Eltern in die Schweiz und absolvierte hier ihre Schulzeit. Sie
+verfügt über keine Berufsausbildung (vgl. Arztbericht von Dr. med. B____ vom
+26. Januar 2022 [IV-Akte 27]). Ihrer Ehe der Jahre 2008 bis 2014 ist die
+im Jahr 2007 geborene Tochter entsprungen (vgl. Psychiatrisches Teilgutachten
+von dipl. Arzt C____ vom 17. Februar 2023 [IV-Akte 44, S. 19 f.];
+IV-Akte 2), welche seit 2014 bei den Eltern der Beschwerdeführerin fremdplatziert
+ist (vgl. Auszüge aus den SH-Protokollen ab Unterstützungsbeginn im 2005
+[IV-Akte 74, S. 10]). Die Beschwerdeführerin meldete sich im Oktober 2005
+erstmals bei der Sozialhilfe Basel-Stadt (Sozialhilfe) an, wobei sie ab Januar
+2007 mit Unterbrüchen immer wieder von der Sozialhilfe unterstützt wurde und
+seit 2018 laufend unterstützt wird (vgl. IV-Akte 74). Die
+Beschwerdeführerin hatte über die Jahre diverse Aushilfsjobs, von welchen sie
+ein durchschnittliches Jahreseinkommen von gerundet Fr. 4'000.00 erzielte (vgl.
+IK-Auszug vom 6. März 2023 [IV-Akte 48]). Auch über Massnahmen der
+Arbeitsintegration der Sozialhilfe konnte nie ein voller Einstieg ins
+Erwerbsleben herbeigeführt werden (vgl. IV-Akte 74).
+
+Am 3. September 2021 meldete sich die Beschwerdeführerin
+bei der Eidgenössischen Invalidenversicherung (IV) unter Hinweis auf mangelnde
+Belastbarkeit des rechten Fusses, ein HWS-Syndrom, eine Verformung der
+Lendenwirbelsäule, eine Skoliose am Steissbein und Migräne zum Leistungsbezug
+an (vgl. IV-Akte 2). In Folge der Anmeldung der Beschwerdeführerin traf
+die Beschwerdegegnerin medizinische und erwerbliche Abklärungen (vgl.
+Fragebogen für Arbeitgebende vom 30. November 2021 [IV-Akte 15]; Arztbericht
+von Dr. med. D____ vom 10. Dezember 2021 [IV-Akte 17]; Arztbericht
+von Dr. med. B____ vom 26. Januar 2022 [IV-Akte 27];
+Verlaufsbericht von Dr. med. E____ vom 14. März 2022
+[IV-Akte 29]). Am 21. Dezember 2021 wurde die Frühintervention
+abgeschlossen, da keine Eingliederungsmassnahmen möglich waren (vgl.
+IV-Akte 18). Mit dem Fragebogen betreffend Erwerbstätigkeit und Haushalt
+vom 17. Januar 2022 erteilte die Beschwerdeführerin Auskunft zu ihrer
+aktuellen Situation (vgl. IV-Akte 26). Am 23. Juni 2022 erfolgte die
+Abklärung zur Invalidität im Haushalt (vgl. Abklärungsbericht Haushalt vom
+30. Juni 2022 [IV-Akte 32]). Infolge der entsprechenden Stellungnahme
+des regionalärztlichen Dienstes (RAD) vom 20. September 2022 (vgl.
+IV-Akte 34) erteilte die Beschwerdegegnerin am 23. November 2022 den
+Auftrag zur bidisziplinären medizinischen Abklärung (vgl. IV-Akte 38).
+Hierauf erstatteten dipl. Arzt C____ am 17. Februar 2023 das psychiatrische und
+Dr. med. F____ am 19. Februar 2023 das rheumatologische Gutachten mit
+anschliessender interdisziplinärer Beurteilung (vgl. IV-Akte 44). Mit
+Schreiben vom 30. August 2023 nahm dipl. Arzt C____ zu Rückfragen des RAD
+Stellung (vgl. IV-Akte 55).
+
+Mit Vorbescheid vom 12. Januar 2024 stellte die
+Beschwerdegegnerin der Beschwerdeführerin die Abweisung des Leistungsbegehrens
+in Aussicht (vgl. IV-Akte 57). Hiergegen erhob die Beschwerdeführerin,
+vertreten durch die Sozialhilfe, Einwand (vgl. Schreiben vom 2. Februar
+2024 [IV-Akte 61] und Schreiben vom 18. März 2024 [IV-Akte 65]).
+Den gestellten Verfahrensanträgen entsprechend forderte die Beschwerdegegnerin
+beim Kinder- und Jugenddienst Basel-Stadt (KJD) und bei der Sozialhilfe die die
+Beschwerdeführerin betreffenden Akten an (vgl. Schreiben vom 21. August
+2024 [IV-Akte 71] und Schreiben vom 26. September 2024
+[IV-Akte 74]). Nach Stellungnahme des RAD vom 26. Februar 2025 (vgl.
+IV-Akte 76) und des Rechtsdienstes vom 27. März 2025 (vgl. IV-Akte 78),
+erliess die Beschwerdegegnerin am 1. April 2025 die Verfügung, mit welcher sie
+das Leistungsbegehren abwies (vgl. IV-Akte 80).
+
+II.
+
+Mit Beschwerde vom 19. Mai 2025 beantragt die
+Beschwerdeführerin, vertreten durch lic. iur. Stephan Müller, Advokat, beim
+Sozialversicherungsgericht Basel-Stadt (Sozialversicherungsgericht) die
+Aufhebung der Verfügung vom 1. April 2025 und die Zusprache einer ganzen
+Invalidenrente per 1. Oktober 2021 unter o-/e-Kostenfolge. Zudem ersucht
+sie um unentgeltliche Rechtspflege.
+
+Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom
+2. Juli 2025 auf Abweisung der Beschwerde.
+
+Die Beschwerdeführerin hält mit Replik vom 12. August 2025
+an ihrer Beschwerde fest.
+
+Mit Duplik vom 3. September 2025 schliesst die
+Beschwerdegegnerin weiterhin auf Abweisung der Beschwerde.
+
+III.
+
+Mit Verfügung der Instruktionsrichterin vom 4. Juli 2025
+wird der Beschwerdeführerin die unentgeltliche Prozessführung und
+Rechtsvertretung mit lic. iur. Stephan Müller, Advokat, bewilligt.
+
+IV.
+
+Am 15. Oktober 2025 findet die Beratung der Sache durch
+die Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht ist gemäss Art. 57 des Bundesgesetzes
+vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts
+(ATSG; SR 830.1) in Verbindung mit § 82 Abs. 1 des basel-städtischen
+Gerichtsorganisationsgesetzes vom 3. Juni 2015 (GOG; SG 154.100) und § 1 Abs. 1
+des kantonalen Sozialversicherungsgerichtsgesetzes vom 9. Mai 2001 (SVGG; SG
+154.200) in sachlicher Hinsicht als einzige kantonale Instanz zur Beurteilung
+der vorliegenden Beschwerde zuständig. Die örtliche Zuständigkeit ergibt sich
+aus Art. 69 Abs. 1 lit. a des Bundesgesetzes vom 19. Juni 1959 über die
+Invalidenversicherung (IVG; SR 831.20).
+
+1.2. Die Beschwerde wurde rechtzeitig erhoben (Art. 60 ATSG) und auch die
+übrigen formellen Beschwerdevoraussetzungen sind erfüllt. Infolgedessen ist auf
+die Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdeführerin stellt sich im Wesentlichen auf den
+Standpunkt, das Fehlen ihrer beruflichen Ausbildung sei gemäss dem Gutachter
+auf ihre psychischen Belastungen zurückzuführen. Somit bestehe ihr
+Gesundheitsschaden aufgrund damaliger traumatischer Erfahrungen mindestens
+schon seit der frühen Jugend. Es liege bei ihr folglich eine Frühinvalidität
+vor. Somit könne von ihrer letzten in sehr reduziertem Pensum ausgeübten
+Erwerbstätigkeit nicht auf ihre mutmassliche Erwerbstätigkeit ohne
+Gesundheitsschaden geschlossen werden. Mithin sei die allgemeine Methode des
+Einkommensvergleichs anzuwenden. Selbst bei Massgeblichkeit der gemischten
+Methode könne mangels Beweiswertigkeit nicht auf die Einschränkung von 1% im
+Aufgabenbereich gemäss dem Abklärungsbericht Haushalt abgestellt werden,
+sondern auf die vom Gutachter attestierte mittelgradige Einschränkung, da bei
+psychischen Erkrankungen die fachärztliche Beurteilung im Vordergrund zu stehen
+habe.
+
+2.2. Die Beschwerdegegnerin macht demgegenüber geltend, es lägen keine
+Hinweise einer aufgehobenen Arbeitsunfähigkeit der Beschwerdeführerin vor Juli
+2020 vor. Der Mangel einer Lehrausbildung und die generell schwierige Situation
+der Beschwerdeführerin seien überwiegend wahrscheinlich auf gravierende psychosoziale
+Belastungsfaktoren und Gründe zurückzuführen. Aus den geltend gemachten
+sexuellen Übergriffen, Gewalterfahrungen, der Fremdplatzierung der Tochter und
+der fehlenden Berufsausbildung könne nicht auf eine Frühinvalidität geschlossen
+werden, weswegen keine Gründe für die Anwendung des Einkommensvergleichs vorlägen.
+Entgegen den gutachterlichen Ausführungen müsse mangels anderweitig aktenmässig
+nachgewiesener Einschränkung im Aufgabenbereich auf den Abklärungsbericht
+Haushalt abgestellt werden. Gleichermassen seien die Ausführungen des
+psychiatrischen Gutachters, wonach die fehlende Berufsausbildung wahrscheinlich
+auf die gesundheitlichen Belastungen der Beschwerdeführerin und nicht
+psychosoziale Faktoren zurückzuführen sei, nicht beweiswertig, da sie einzig
+auf den subjektiven Angaben der Beschwerdeführerin beruhen würden.
+
+2.3. Strittig und im Nachfolgenden zu prüfen ist, ob die
+Beschwerdegegnerin zu Recht die gemischte Methode zur Anwendung brachte und im
+Rahmen dessen von einer Aufteilung von 15% Erwerb und 85% Tätigkeit im Haushalt
+ausging, woraus der rentenausschliessende Invaliditätsgrad von lediglich 15.05%
+resultierte.
+
+3.
+
+3.1. Am 1. Januar 2022 ist das revidierte IVG in Kraft getreten
+(Weiterentwicklung der IV [WEIV]; Änderung vom 19. Juni 2020, AS 2021 705, BBl
+2017 2535). Weil in zeitlicher Hinsicht  vorbehältlich besonderer
+übergangsrechtlicher Regelungen  grundsätzlich diejenigen Rechtssätze
+massgeblich sind, die bei der Erfüllung des rechtlich zu ordnenden oder zu
+Rechtsfolgen führenden Tatbestandes Geltung haben (BGE 144 V 210, 213 E. 4.3.1;
+BGE 132 V 215, 220 E. 3.1.1; BGE 131 V 9, 11 E. 1), sind die Leistungsansprüche
+für die Zeit bis zum 31. Dezember 2021 nach der bisherigen und ab diesem
+Zeitpunkt nach den Normen ab 1. Januar 2022 zu prüfen (BGE 130 V 445, 447 E.
+1.2.2; vgl. Kreisschreiben über Invalidität und Rente in der
+Invalidenversicherung [KSIR], gültig ab 1. Januar 2022 [Stand: 1. Januar
+2025], Rz. 9100). Die Beschwerdeführerin meldete sich am 3. September
+2021 zum Leistungsbezug an, womit frühestens ab März 2022 der zu prüfende
+Anspruch auf Rentenleistung bestehen könnte. Folglich sind die ab 1. Januar
+2022 gültigen Rechtsvorschriften anwendbar. Sie werden jeweils in dieser
+Version wiedergegeben, zitiert und angewendet.
+
+3.2. Gemäss Art. 28 Abs. 1 IVG haben Anspruch auf eine Rente versicherte
+Personen, die: ihre Erwerbsfähigkeit oder die Fähigkeit, sich im
+Aufgabenbereich zu betätigen, nicht durch zumutbare Eingliederungsmassnahmen
+wiederherstellen, erhalten oder verbessern können (lit. a.); während eines
+Jahres ohne wesentlichen Unterbruch durchschnittlich mindestens 40%
+arbeitsunfähig (Art. 6 ATSG) gewesen sind (lit. b); und nach Ablauf dieses
+Jahres zu mindestens 40% invalid (Art. 8 ATSG) sind (lit. c).
+
+3.3. Für die Bemessung des Invaliditätsgrads von erwerbstätigen
+Versicherten ist Art. 16 ATSG anwendbar (Art. 28a Abs. 1 Satz 1
+IVG). Danach wird für die Bestimmung des Invaliditätsgrades das
+Erwerbseinkommen, das die versicherte Person nach Eintritt der Invalidität und
+Durchführung der medizinischen Behandlung und allfälliger
+Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei ausgeglichener
+Arbeitsmarktlage erzielen könnte, in Beziehung gesetzt zum Erwerbseinkommen,
+das sie erzielen könnte, wenn sie nicht invalid geworden wäre. Dies ist die
+allgemeine Methode des Einkommensvergleichs (vgl. u.a. BGE 144 I 21, 23 E.
+2.1). Bei nicht erwerbstätigen Versicherten, die im Aufgabenbereich tätig sind
+und denen die Aufnahme einer Erwerbstätigkeit nicht zugemutet werden kann, wird
+für die Bemessung der Invalidität in Abweichung von Art. 16 ATSG darauf
+abgestellt, in welchem Masse sie unfähig sind, sich im Aufgabenbereich zu
+betätigen (Art. 28a Abs. 2 IVG). Bei Versicherten, die nur zum Teil
+erwerbstätig sind, wird für diesen Teil die Invalidität nach Art. 16 ATSG
+bemessen. Waren sie daneben auch im Aufgabenbereich (Art. 7 Abs. 2 IVG) tätig,
+so wird zur Ermittlung der Invalidität für diese Tätigkeit darauf abgestellt,
+in welchem Masse sie unfähig sind, sich im Aufgabenbereich zu betätigen. In
+diesem Fall sind der Anteil der Erwerbstätigkeit und der Anteil der Tätigkeit
+im Aufgabenbereich festzulegen und der Invaliditätsgrad in beiden Bereichen zu
+bemessen (Art. 28a Abs. 3 IVG).
+
+3.4. Gemäss Art. 28b IVG wird die Höhe des Rentenanspruchs in
+prozentualen Anteilen an einer ganzen Rente festgelegt (Abs. 1). Bei einem
+Invaliditätsgrad von 50% bis 69% entspricht der prozentuale Anteil dem
+Invaliditätsgrad (Abs. 2). Bei einem Invaliditätsgrad ab 70% besteht Anspruch
+auf eine ganze Rente (Abs. 3). Bei einem Invaliditätsgrad unter 50% gelten die
+im Gesetz festgelegten prozentualen Anteile (Abs. 4).
+
+3.5. Der Rentenanspruch entsteht gemäss Art. 29 Abs. 1 IVG frühestens
+nach Ablauf von sechs Monaten nach der Geltendmachung des Leistungsanspruchs
+nach Art. 29 Abs. 1 ATSG.
+
+4.
+
+4.1. Im Rahmen der Invaliditätsbemessung im erwerblichen Bereich ist es
+Aufgabe der ärztlichen Fachperson, den Gesundheitszustand der versicherten
+Person zu beurteilen und dazu Stellung zu nehmen, in welchem Umfang und
+bezüglich welcher Tätigkeiten diese arbeitsunfähig ist. Des Weiteren sind die
+ärztlichen Auskünfte eine wichtige Grundlage für die Beurteilung der Frage,
+welche Arbeitsleistungen der versicherten Person noch zugemutet werden können
+(BGE 132 V 93, 99 E. 4).
+
+4.2. Hinsichtlich des Beweiswertes eines Arztberichtes ist entscheidend,
+ob dieser für die streitigen Belange umfassend ist, auf allseitigen
+Untersuchungen beruht, auch die geklagten Beschwerden berücksichtigt, in
+Kenntnis der Vorakten (Anamnese) abgegeben worden ist, in der Beurteilung der
+medizinischen Zusammenhänge und in der Beurteilung der medizinischen Situation
+einleuchtet und ob die Schlussfolgerungen des Experten begründet sind (BGE 125
+V 351, 352 E. 3a).
+
+4.3. Gutachten externer Spezialärzte, welche von Versicherungsträgern im
+Verfahren nach Art. 44 ATSG eingeholt wurden und den Anforderungen der
+Rechtsprechung genügen, darf das Gericht vollen Beweiswert zuerkennen, solange
+nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen (BGE
+137 V 210, 227 E. 1.3.4; BGE 135 V 465, 470 E. 4.4; BGE 125 V 352, 353 E.
+3b/bb). Den Berichten versicherungsinterner Ärzte kommt zwar nicht derselbe
+Beweiswert wie einem im Verfahren nach Art. 44 ATSG eingeholten Gutachten
+externer Fachpersonen oder gar wie einem Gerichtsgutachten zu, sie sind aber
+soweit zu berücksichtigen, als auch nicht geringe Zweifel an der Richtigkeit
+ihrer Schlussfolgerungen bestehen (BGE 145 V 97, 105 E. 8.5; BGE 139 V 225, 229
+E. 5.2; BGE 135 V 465, 470 E. 4.4).
+
+4.4. Gemäss bundesgerichtlicher Rechtsprechung sind sämtliche psychische
+Erkrankungen dem strukturierten Beweisverfahren zu unterziehen (BGE 143 V 418,
+429 E. 7.2). Hierbei hat anhand eines Kataloges von Standardindikatoren
+eine ergebnisoffene symmetrische Beurteilung des tatsächlich erreichbaren
+Leistungsvermögens zu erfolgen (BGE 141 V 281, 295 E. 3.6). Die im
+Regelfall beachtlichen Standardindikatoren sind der Komplex
+«Gesundheitsschädigung», unterteilt in die Ausprägung der diagnoserelevanten
+Befunde, Behandlungs- und Eingliederungserfolg oder -resistenz sowie
+Komorbiditäten, der Komplex «Persönlichkeit», der Komplex «sozialer Kontext»
+(Kategorie «funktioneller Schweregrad»), sowie die gleichmässige Einschränkung
+des Aktivitätenniveaus in allen vergleichbaren Lebensbereichen und der
+behandlungs- und eingliederungsanamnestisch ausgewiesene Leidensdruck
+(Kategorie «Konsistenz») (BGE 141 V 281, 297 f. E. 4.1.3).
+
+5.
+
+5.1. Der Verfügung vom 1. April 2025 (vgl. IV-Akte 80) lag in
+medizinischer Hinsicht im Wesentlichen das bidisziplinäre Gutachten von dipl.
+Arzt C____ und Dr. med. F____ vom 17./19. Februar 2023 (vgl. IV-Akte 44)
+zugrunde.
+
+5.2. Im Rahmen der psychiatrisch-rheumatologischen Konsensbeurteilung
+dieses Gutachtens wurden folgende psychiatrischen Diagnosen festgehalten (vgl.
+IV-Akte 44, S. 45): (1) posttraumatische Belastungsstörung (ICD-10:
+F43.1), (2) chronische Schmerzstörung mit körperlichen und psychischen Faktoren
+(ICD-10: F45.41), (3) persönlichkeitsstrukturelle Akzentuierung mit
+selbstunsicherer-abhängigen, emotional-instabilen Zügen (ICD-10: Z73.1), DD:
+Persönlichkeitsänderung nach Extrembelastung (ICD-10: F62.0), längerer
+Beobachtungszeitraum notwendig und (4) sekundärer Cannabiskonsum (ICD-10:
+F12.1). Als rheumatologische Diagnosen wurden (1) ein rechtsbetontes
+generalisiertes myofasziales Schmerzsyndrom ohne organisches Korrelat, (2)
+persistierende Fussschmerzen rechts bei Status nach Arthrose TMT-Gelenke II und
+III, Teilresektion des medialen Sesambeines Grosszehe rechts und Hallux
+valgus-Operation, (3) asymptomatischer Spreizfuss mit Hallux valgus links sowie
+(4) eine Migräne (anamnestisch) genannt.
+
+5.3. Zur Herleitung hielten die Gutachter fest (vgl. IV-Akte 44, S. 43
+ff.), das myofasziale Schmerzbild habe aus somatischer Sicht keine
+strukturellen Ursachen am Bewegungsapparat und müsse somit als unspezifisch
+respektive im Rahmen von nicht-organischen Faktoren interpretiert werden.
+Rheumatologisch nachvollziehbar seien die belastungsabhängigen lumbalen
+Schmerzen und die Schmerzen im Bereich der Grosszehe rechts. Anlässlich beider
+Begutachtungstermine habe sich die Beschwerdeführerin ausgeprägt agitiert,
+emotional instabil und logorrhoisch gezeigt. Dieses Zustandsbild entspreche aus
+psychiatrischer Sicht einem posttraumatischen Belastungsgeschehen. Dieses sei
+vor dem Hintergrund einer massiv belasteten Biografie mit berichteten
+Gewaltszenarien und wiederholt erlittenen Übergriffen klinisch führend. Im
+Rahmen der persönlichkeitsstrukturellen Pathologie bestehe eine emotional
+instabile Persönlichkeitsstruktur mit Hinweisen auf selbstunsicher-abhängige
+Muster (differentialdiagnostisch: V.a. Persönlichkeitsänderung nach
+Extrembelastung). Vor dem Hintergrund der unspezifischen Schmerzbeschwerden und
+der massiven psychischen Belastungen sei schliesslich die Diagnose der
+chronischen Schmerzstörung mit körperlichen und psychischen Faktoren
+ausgewiesen. Im Rahmen der Beurteilung von Konsistenz und Plausibilität
+verneinten die Gutachter bewusst verdeutlichendes oder aggravierendes
+Verhalten. Wenngleich trotz des aus rheumatologischer Sicht spürbaren
+Leidensdrucks eine Diskrepanz zwischen den geschilderten Beschwerden und den
+unauffälligen strukturellen Befunden am Bewegungsapparat bestehe, seien die
+Beschwerden und das Verhalten der Beschwerdeführerin vor dem Hintergrund der
+Traumatisierung und persönlichkeitsstrukturellen Pathologie rein
+störungsbedingt einzuordnen. Vielmehr hätten sich im Rahmen der psychiatrischen
+Begutachtung dissoziative Sequenzen und ein mangelnder Zugang zu den eigenen
+emotionalen Abläufen von Seiten der Beschwerdeführerin gezeigt.
+
+5.4. Hinsichtlich der daraus resultierenden Auswirkungen auf die
+Arbeitsfähigkeit hielten die Gutachter fest (vgl. IV-Akte 44,
+S. 45 f.), der Beschwerdeführerin seien stehende und gehende
+Tätigkeiten wegen der verminderten Belastbarkeit des Fusses nur teilweise
+zumutbar. Für körperlich schwere Arbeiten sei sie nicht geeignet. Aus
+psychiatrischer Sicht liege eine erhebliche Limitierung hinsichtlich der Dauerbelastbarkeit,
+Durchhaltefähigkeit und insbesondere Anpassungsfähigkeit und situativer und
+interpersoneller Flexibilität sowie der Fähigkeit zum selbständigen Planen und
+Handeln vor. Dies sei mit den Arbeitsabläufen und Bedingungen der freien
+Wirtschaft nicht vereinbar. Die 100%ige Arbeitsunfähigkeit in der angestammten
+Tätigkeit und denkbaren angepassten Verweistätigkeiten liege somit in den
+anhaltenden psychiatrisch bedingten Einschränkungen begründet. Die
+Arbeitsunfähigkeit bestehe dokumentiert mindestens seit dem 26. Januar
+2022 respektive nachvollziehbar seit Behandlungsaufnahme im Juli 2020.
+
+5.5. Auf das bidisziplinäre Gutachten vom 17./19. Februar 2023 (vgl.
+IV-Akte 44) kann vollumfänglich abgestellt werden. Die Gutachter haben sich
+umfassend mit den relevanten Vorakten auseinandergesetzt und ihre Beurteilung
+der Arbeitsfähigkeit jeweils einlässlich und nachvollziehbar  den erhobenen
+Befunden und gestellten Diagnosen Rechnung tragend  begründet. Auch wurden die
+im Rahmen der einzelnen Begutachtungen gewonnenen Erkenntnisse zutreffend in
+die interdisziplinäre Gesamtbeurteilung übernommen.
+
+5.6. Insbesondere wurden im psychiatrischen Teilgutachten vom 17. Februar
+2023 die von der Rechtsprechung entwickelten Standardindikatoren der diagnoserelevanten
+Befunde (vgl. IV-Akte 44, S. 36), des Verlaufs und Ausgangs von Therapien (vgl.
+IV-Akte 44, S. 37), der Komorbiditäten (vgl. IV-Akte 55, S. 2), der
+Persönlichkeit (vgl. IV-Akte 44, S. 33, 38), des sozialen Kontexts (vgl.
+IV-Akte 44, S. 26 f., 35; IV-Akte 55, S. 2), der gleichmässigen
+Einschränkung des Aktivitätenniveaus in allen vergleichbaren Lebensbereichen (vgl.
+IV-Akte 44, S. 36) und des behandlungs- und eingliederungsanamnestisch
+ausgewiesener Leidensdrucks (vgl. IV-Akte 44, S. 23 f., 36 f.)
+hinreichend diskutiert. Diesbezügliche ursprüngliche Vorbehalte des RAD (vgl.
+IV-Akte 50) konnten mit entsprechenden Rückfragen an dipl. Arzt C____ hinsichtlich
+der Bedeutung allfälliger IV-fremder Faktoren zufriedenstellend geklärt werden
+(vgl. IV-Akte 56, S. 6).
+
+5.7. Den Akten sind bezüglich des Gesundheitszustands und der
+Arbeitsfähigkeit der Beschwerdeführerin überdies folgende Einschätzungen der
+behandelnden Ärzte der Beschwerdeführerin zu entnehmen: Der Rheumatologe Dr.
+med. D____ schloss mit Bericht vom 10. Dezember 2021 (vgl. IV-Akte 17) auf eine
+potentiell 100%ige Arbeitsfähigkeit der Beschwerdeführerin in einer
+leidensangepassten Tätigkeit nach Abschluss der Behandlung. Anamnestisch
+verwies er auf die rechtsseitigen Fuss- und Handgelenksbeschwerden sowie die
+chronisch rezidivierenden panvertebralen Beschwerden mit zervikaler und
+lumbaler Akzentuierung sowie die daraus resultierende verminderte
+Belastbarkeit. Der Psychiater Dr. med. B____ diagnostizierte mit seinem Bericht
+vom 26. Januar 2022 (vgl. IV-Akte 27) eine komplexe posttraumatische
+Belastungsstörung und ein Fibromyalgie-Syndrom. Hieraus schloss er auf eine
+70%ige Arbeitsunfähigkeit seit Juli 2020. Die Beschwerdeführerin habe im
+Teenager-Alter sexuelle Ausbeutung erlebt und sei später in einer abhängigen
+Beziehung zu einem Mann gewesen. Im Rahmen seines ärztlichen Befundes
+schilderte er eine Hypervigilanz, Störungen der Konzentration, ein kohärentes
+aber von Misstrauen geprägtes Denken, Schwankungen im Affekt und im Antrieb,
+Tendenzen, Schwierigkeiten zu überspielen, sowie ein vermindertes
+Selbstwertgefühl und Schuldgefühle bis zu Selbsthass. Ferner bestehe keine
+feste Tagesstruktur, ein hoher Leidensdruck wegen persistierenden Schmerzen und
+daraus eingeschränktem Schlaf. Schliesslich sei die Beschwerdeführerin unter
+Druck infolge ihrer Ängste und dem Bemühen, dem sozial Gewünschten
+nachzukommen, besonders ablenkbar. Sie ermüde rasch, wenn sie die eigenen
+Grenzen überschreite und sich zusätzlich belaste. Somit bestehen auch vor den
+aktenkundigen Einschätzungen des behandelnden Rheumatologen Dr. med. D____ und
+behandelnden Psychiaters Dr. med. B____ keine konkreten Zweifel an der
+Zuverlässigkeit der Expertise.
+
+5.8. Wird dementsprechend auf das beweiskräftige bidisziplinäre Gutachten
+vom 17./19. Februar 2023 abgestellt, ist davon auszugehen, dass das Wartejahr
+(vgl. E. 3.2 hiervor) im Juli 2021 und im März 2022 die sechsmonatige Frist
+nach Geltendmachung des Anspruchs (vgl. E. 3.5 hiervor) abgelaufen war und
+die Beschwerdeführerin zu diesem Zeitpunkt sowohl in ihrer angestammten als
+auch in einer angepassten Tätigkeit zu 100% arbeitsunfähig war. Zu prüfen
+bleibt damit noch, ob die Beschwerdeführerin ganztägig oder zeitweilig
+erwerbstätig einzustufen ist, sowie wie es sich mit der gesamthaften Bemessung
+des Invaliditätsgrads in Bezug auf die Erwerbstätigkeit und einen allfälligen
+Aufgabenbereich verhält.
+
+6.
+
+6.1. Die für die Methodenwahl (Einkommensvergleich, gemischte Methode,
+Betätigungsvergleich) entscheidende Statusfrage, nämlich ob eine versicherte
+Person als Voll- oder Teilzeit erwerbstätig oder als nichterwerbstätig
+einzustufen ist, beurteilt sich danach, was diese bei im Übrigen unveränderten
+Umständen täte, wenn keine gesundheitliche Beeinträchtigung bestünde.
+Entscheidend ist somit nicht, welches Ausmass der Erwerbstätigkeit der
+versicherten Person im Gesundheitsfall zugemutet werden könnte, sondern in
+welchem Pensum sie hypothetisch erwerbstätig wäre. Bei im Haushalt tätigen
+Versicherten im Besonderen sind die persönlichen, familiären, sozialen und
+erwerblichen Verhältnisse ebenso wie allfällige Erziehungs- und
+Betreuungsaufgaben gegenüber Kindern, das Alter, die beruflichen Fähigkeiten
+und die Ausbildung sowie die persönlichen Neigungen und Begabungen zu
+berücksichtigen. Dabei sind die konkrete Situation und die Vorbringen der
+versicherten Person nach Massgabe der allgemeinen Lebenserfahrung zu würdigen.
+Die Statusfrage beurteilt sich praxisgemäss nach den Verhältnissen, wie sie
+sich bis zum Erlass der Verwaltungsverfügung entwickelt haben, wobei für die hypothetische
+Annahme einer im Gesundheitsfall ausgeübten (Teil-)Erwerbstätigkeit der im
+Sozialversicherungsrecht übliche Beweisgrad der überwiegenden
+Wahrscheinlichkeit erforderlich ist (BGE 144 I 28, 30 f. E. 2.3 mit Hinweisen).
+
+6.2. Bei der Beantwortung der Statusfrage handelt es sich zwangsläufig um
+eine Beurteilung, die auch hypothetische Willensentscheidungen der versicherten
+Person zu berücksichtigen hat. Diese sind als innere Tatsachen einer direkten
+Beweisführung indessen nicht zugänglich und müssen in aller Regel aus äusseren
+Indizien erschlossen werden. Die Beurteilung hypothetischer Geschehensabläufe
+stellt eine Tatfrage dar, soweit sie auf Beweiswürdigung beruht, selbst wenn
+darin auch Schlussfolgerungen aus der allgemeinen Lebenserfahrung
+mitberücksichtigt werden. Ebenso sind Feststellungen über innere oder
+psychische Tatsachen Tatfragen, wie beispielsweise was jemand wollte oder
+wusste (Urteil des Bundesgerichts 8C_713/2022 vom 8. August 2023 E. 4.2).
+
+6.3. Nach bundesgerichtlicher Rechtsprechung ist einer «Aussage der
+ersten Stunde» bei der Beweiswürdigung eine hohe Bedeutung beizumessen. Solche
+Aussagen sind in der Regel unbefangener und zuverlässiger als spätere Angaben,
+die bewusst oder unbewusst von nachträglichen Überlegungen
+versicherungsrechtlicher oder anderer Art beeinflusst sein können (Urteil des
+Bundesgerichts 8C_609/2017 vom 27. März 2018 E. 4.3.4).
+
+7.
+
+7.1. Als in zeitlicher Hinsicht erste dokumentierte Aussage der
+Beschwerdeführerin hinsichtlich ihrer Erwerbstätigkeit im Gesundheitsfall ist
+der Fragebogen betreffend Erwerbstätigkeit und Haushalt vom 17. Januar 2022
+aktenkundig. Demnach würde sie im Gesundheitsfall 6x6
+Stunden pro Woche arbeiten (vgl. IV-Akte 26, S. 4). Aus den Eintragungen
+im Auszug aus dem individuellen Konto vom 13. September 2021 (vgl.
+IV-Akte 7; vgl. auch IV-Akte 48) ergibt sich allerdings kein diesem Pensum
+entsprechendes Einkommen der Beschwerdeführerin in der Vergangenheit. In Anlehnung
+an diese Einträge schloss die Abklärungsperson im Rahmen der Haushaltsabklärung
+vom 23. Juni 2022 auf ein Arbeitspensum der Beschwerdeführerin von 15% (vgl.
+IV-Akte 32). Hinsichtlich der Erwerbstätigkeit ohne gesundheitliche Einschränkung
+hielt die Abklärungsperson überdies folgendes fest: Die Beschwerdeführerin lebe
+seit 2007 im Wesentlichen von der Sozialhilfe. Die Beschwerdeführerin habe des
+Weiteren folgende Aussagen getätigt: Im Gesundheitsfall würde sie etwas
+«Handwerkliches» arbeiten. In der Vergangenheit habe sie sich oftmals die
+falschen Jobs ausgesucht, welche sie aufgrund eigener Fehler wieder habe
+aufgeben müssen. Sie habe indes immer die Arbeitsstellen angenommen, welche sie
+gefunden habe. Ihre Tochter würde auch bei den Grosseltern leben, wenn sie
+selbst gesund wäre. Abschliessend hielt die Abklärungsperson fest, die Frage
+des Pensums im Gesundheitsfall habe mit der Beschwerdeführerin nicht geklärt
+werden können, weswegen auf das den bisherigen Gelegenheitsjobs entsprechende
+Pensum abzustellen sei. Sollten die medizinischen Abklärungen eine bereits vor
+Juli 2020 bestehende Arbeitsunfähigkeit ergeben, müsse gegebenen falls eine
+Neubeurteilung des Arbeitspensums vorgenommen werden.
+
+7.2. Im Sinne der rechtsprechungsgemässen Beweismaxime der «Aussage der
+ersten Stunde» (vgl. E. 6.3 hiervor) sind somit Angaben von Seiten der
+Beschwerdeführerin aktenkundig, welche weit über den 15% erwerblicher Teil
+liegen, welche die Beschwerdegegnerin ihrer Verfügung vom 1. April 2025
+zugrunde legte. Fraglich und zu prüfen ist, ob die Beschwerdegegnerin
+hinreichenden Grund hatte, um im Rahmen der Beantwortung der Statusfrage von
+diesem allgemeinen Grundsatz abzuweichen.
+
+7.3. Mit Blick auf den Hintergrund des bis zum Entstehungszeitpunkt eines
+allfälligen Rentenanspruchs tatsächlich von Seiten der Beschwerdeführerin
+gelebten Erwerbspensums, auf welches sich die Beschwerdegegnerin und die
+Abklärungsperson berufen, muss insbesondere die psychiatrische Einschätzung von
+dipl. Arzt C____ eingehend berücksichtigt werden. Dieser hält in schlüssiger
+und nachvollziehbarer Weise fest, die Beschwerdeführerin habe, sehr
+wahrscheinlich vor dem Hintergrund der Belastungen sexueller Übergriffe und
+massiver Gewalt in Beziehungen, keine abgeschlossene Ausbildung gemacht (vgl.
+IV-Akte 44, S. 34). Ferner führte dipl. Arzt C____ aus, es deute sich bei
+der Beschwerdeführerin eine lang bestehende Störungsentwicklung und
+Vorlabilisierung an, die offenbar in den letzten Jahren zunehmend dekompensiert
+sei (vgl. IV-Akte 44, S. 37). Es bestünden keine psychosozialen
+Belastungsfaktoren mit unmittelbarer Auswirkung auf die Arbeitsfähigkeit. Die
+sozialen Folgen mit Trennung vom Kind und Leben in einer Nischenexistenz ohne
+Tagesstruktur seien Folge der Erkrankung und nicht Ursache des Problems (vgl.
+IV-Akte 55).
+
+7.4. Wenngleich die Beschwerdegegnerin den Einkommensvergleich in ihrer
+Verfügung vom 1. April 2025 aufgrund des bidisziplinären Gutachtens vom
+17./19. Februar 2023 vornahm, bringt sie im Rahmen des Beschwerdeverfahrens
+folgende Rügen vor: Dipl. Arzt C____ stütze seine Annahme, die psychischen
+Belastungen seien sehr wahrscheinlich Grund für die fehlende berufliche
+Ausbildung, lediglich auf die subjektiven Angaben der Beschwerdeführerin ab. Er
+begründe zudem nicht hinreichend, inwiefern die gravierenden psychosozialen
+Belastungsfaktoren keinen Einfluss auf die Arbeitsfähigkeit der
+Beschwerdeführerin haben sollen. Es sei mit überwiegender Wahrscheinlichkeit
+davon auszugehen, dass die Partnerschaftsprobleme und finanziell prekären Verhältnisse
+geeignet waren, einen Einfluss auf die Arbeitsfähigkeit der Beschwerdeführerin
+zu haben.
+
+7.5. Mit dieser Argumentation widerspricht die Beschwerdegegnerin indes
+der Einschätzung des RAD-Arztes G____ vom 10. November 2023 (vgl. IV-Akte
+56). Während dieser nach Eingang des bidisziplinären Gutachtens am 4. März
+2023 Vorbehalte bezüglich der Beweiswertigkeit äusserte und entsprechende
+Rückfragen hinsichtlich des psychiatrischen Teilgutachtens formulierte (vgl.
+IV-Akte 50), empfahl er im Nachgang an die Rückmeldung von dipl. Arzt C____
+(vgl. IV-Akte 55), auf die Einschätzungen des Gutachters abzustellen.
+Insbesondere hielt er fest, dass die Bedeutung allfälliger IV-fremder Faktoren
+durch die Rückfrage zufriedenstellend geklärt worden sei (vgl. IV-Akte 56,
+S. 6). Überdies hielt der RAD-Arzt fest, die Zusammenfassung der
+persönlichen, beruflichen und gesundheitlichen Entwicklung, die Beurteilung des
+bisherigen Verlaufs von Behandlungen sowie Diskussion von Heilungschancen, die
+Beurteilung von Konsistenz und Plausibilität und die Würdigung von Fähigkeiten,
+Ressourcen und Belastungen sowie von psychosozialen Faktoren seien allesamt mit
+nachvollziehbarem Ergebnis geprüft worden (vgl. IV-Akte 56, S. 4). Das Gutachten
+ist als Ganzes nicht zu beanstanden (vgl. E. 5 hiervor). Der Gutachter hat die
+von der Rechtsprechung entwickelten Standardindikatoren, welche der
+Subjektivität einer jeden psychiatrischen Begutachtung Rechnung tragen sollen
+(vgl. BGE 143 V 418, 429 E. 7.1), hinreichend berücksichtigt (vgl. E. 5.6
+hiervor). Anderweitige konkrete Zweifel hinsichtlich der Ausführungen von dipl.
+Arzt C____ zum Hintergrund der Erwerbsbiografie der Beschwerdeführer sind nicht
+ersichtlich. Der Argumentation im psychiatrischen Teilgutachten kann
+entsprechend der Stellungnahme des RAD-Arztes vollumfänglich gefolgt werden.
+
+7.6. Wie es die Abklärungsperson mit dem Bericht vom 30. Juni 2022 (vgl.
+IV-Akte 32) explizit vorbehalten hatte, liegen somit beweiskräftige
+medizinische Ausführungen vor, welche eine von der Verfügung vom 1. April 2025
+abweichende Beantwortung der Statusfrage nahelegen. In diesem Sinne wurde
+bereits im Jahr 2016 in den Protokollen der Sozialhilfe als Ziel festgehalten,
+die Beschwerdeführerin solle eine Psychotherapie machen (vgl. IV-Akte 74,
+S. 11). Dass dies zum damaligen Zeitpunkt noch nicht umgesetzt wurde, muss
+mit überwiegender Wahrscheinlichkeit darauf zurückzuführen sein, dass die
+Beschwerdeführerin sich gemäss der eigenen, von Fachpersonen bestätigten und der
+fachärztlichen rückblickenden Einschätzung überschätzte und die eigene
+Situation noch nicht hinreichend einzuschätzen vermochte oder herunterspielte
+(vgl. IV-Akte 27; IV-Akte 44, S. 25; IV-Akte 74, S. 24, S. 32,
+S. 46), und nicht, dass zum damaligen Zeitpunkt noch gar keine
+gesundheitliche Beeinträchtigung mit Auswirkung auf die Arbeitsfähigkeit bestand.
+Vor diesem Hintergrund verliert mit Blick auf die Statusfrage der Beginn der vollständigen
+Arbeitsunfähigkeit an Relevanz.
+
+7.7. Weitere Hinweise für die hypothetische Annahme einer
+Erwerbstätigkeit im Gesundheitsfall lassen sich aus den folgenden
+dokumentierten Verhaltensweisen und Aussagen der Beschwerdeführerin ableiten: Während
+des Begutachtungsgesprächs für das psychiatrische Teilgutachten (vgl. IV-Akte
+44, S. 28 f., S. 37) gab die Beschwerdeführerin an, sie habe einfach immer
+etwas arbeiten wollen. Am Liebsten habe sie handwerklich gearbeitet. Als
+diesbezügliche Motivation gab sie an, dass sie «aufblühe», wenn sie sehe, wie
+etwas entstehe. Wegen ihrer körperlicher Schmerzen würde sie sich gerne
+weiterbilden, um eine körperlich weniger anstrengende Arbeit zu finden. Vor dem
+Hintergrund ihrer Ängste und Vergesslichkeit glaube sie hingegen, dass sie dies
+ohnehin nicht schaffen würde. In den Akten der Sozialhilfe wurde durchgehend
+die Bereitschaft und Motivation der Beschwerdeführerin festgehalten, arbeiten
+zu wollen und auf eigenen Beinen zu stehen (vgl. IV-Akte 74, S. 5 f.,
+S. 8, S. 19), so beispielsweise auch während der Schwangerschaft (vgl.
+IV-Akte 74, S. 3). Dies entspricht ferner dem von dipl. Arzt C____
+beschriebenen Auftreten der Beschwerdeführerin während der Begutachtung: Trotz
+regelmässig dekompensationsnaher psychischer Zustände habe sie sich während der
+gesamten Begutachtung um Mitarbeit bemüht gezeigt und den Wunsch geäussert,
+wieder in den Beschäftigungsprozess einzusteigen (vgl. IV-Akte 44, S. 36).
+Ferner sind den Akten der Sozialhilfe die durchgängigen tatsächlichen Bemühungen
+der Beschwerdeführerin zu entnehmen, soweit möglich, einer Erwerbstätigkeit
+nachzugehen (vgl. IV-Akte 74, S. 11 f., S. 14 f.). Weiter
+ist ersichtlich, dass sich die Beschwerdeführerin mehrfach für längere
+Zeiträume von der Sozialhilfe löste (so von Februar 2008 bis Ende 2009, von Anfang
+2011 bis September 2012, von Anfang 2014 bis Juli 2016; vgl. IV-Akte 74). In
+den Akten der Sozialhilfe wurde durchgehend die Bereitschaft und Motivation der
+Beschwerdeführerin festgehalten, arbeiten zu wollen und auf eigenen Beinen zu
+stehen (vgl. IV-Akte 74, S. 5 f., S. 8, S. 19).
+
+7.8. Primär aufgrund des IK-Auszugs eine Annahme des hypothetischen
+Pensums vorzunehmen, erweist sich auch insofern als ein unzureichendes
+Beweisergebnis, als den Akten der Sozialhilfe zu entnehmen ist, dass im Rahmen
+verschiedener Arbeitsverhältnisse infolge entsprechender Verzichtserklärungen
+keine Beiträge an die erste Säule abgeführt wurden (vgl. IV-Akte 74,
+S. 14 f.). Der Auszug aus dem individuellen Konto vermag in diesem
+Fall folglich mit überwiegender Wahrscheinlichkeit kein vollständiges Bild der
+Erwerbstätigkeit der Beschwerdeführerin der letzten Jahre zu vermitteln. Bei
+ungelernten Arbeitskräften, die kaum über Fachkenntnisse verfügen und oftmals
+in prekären Arbeitsverhältnissen stehen, sind keine namhaften Einkommen auf dem
+IK-Auszug nicht unüblich (vgl. Urteil des Sozialversicherungsgerichts
+Basel-Stadt IV.2022.114 vom 30. März 2023 E. 6.5.3). Ferner ist die allgemeine
+finanzielle Situation der Beschwerdeführerin zu berücksichtigen, die von der
+Sozialhilfe unterstützt wurde, womit eine Bildung von Reserven nicht möglich
+war, was auch dafür spricht, dass sie im Gesundheitsfall 100% arbeiten würde
+(vgl. Urteile des Sozialversicherungsgerichts Basel-Stadt IV.2022.114 vom 30.
+März 2023 E. 6.5.4 und IV.2024.88 vom 16. August 2024 E. 3.4).
+
+7.9. Zusammenfassend ist Folgendes festzuhalten: Vom behandelnden
+Psychiater wie auch vom psychiatrischen Gutachter wurden diverse
+traumatisierende Erfahrungen der Beschwerdeführerin bereits im Jugendalter
+festgehalten (vgl. E. 5.3 und E. 5.7 hiervor). Die daraus resultierenden
+psychischen Erkrankungen haben sich entsprechend der fachärztlichen
+Erläuterungen mit überwiegender Wahrscheinlichkeit massgeblich auf die
+Erwerbsbiografie der Beschwerdeführerin ausgewirkt (vgl. E. 7.3 hiervor).
+Ferner kann der beweiskräftigen fachärztlichen Ausführung, dass diese schon
+lange bestehenden Probleme nicht psychosozial bedingt sind, vollumfänglich
+gefolgt werden (vgl. E. 7.5 hiervor). Trotz den geschilderten
+Vorbelastungen zeigt sich in den Akten der Sozialhilfe und den Einschätzungen
+der Ärzte ein klares, einheitliches Bild einer überaus zur Arbeit motivierten
+Person (vgl. E. 7.7 hiervor). Es kann ihr hypothetischer Wille, im
+Gesundheitsfall einer existenzsichernden Erwerbstätigkeit nachzugehen,
+angenommen werden. Wenngleich die Abklärungsperson diese Frage im Rahmen der
+Haushaltabklärung offen gelassen hat, kann somit auf die schriftlichen Angaben
+der Beschwerdeführerin auf dem entsprechenden Fragebogen abgestellt werden
+(vgl. E. 7.1 hiervor). Auch allfällige Kinderbetreuungspflichten stehen dem
+nicht entgegen, da die Tochter im Zeitpunkt des potentiellen Rentenbeginns 15
+Jahre alt war, und die Beschwerdeführerin als ungelernte Arbeitskraft zudem auf
+das Einkommen einer Vollzeittätigkeit zur Existenzsicherung angewiesen wäre
+(vgl. E. 7.8 hiervor).
+
+7.10. In den Akten finden sich nach dem Gesagten genügend Hinweise, wonach
+die Beschwerdeführerin heute bei guter Gesundheit unter Berücksichtigung der
+persönlichen, familiären, beruflichen und erwerblichen Verhältnisse voll
+erwerbstätig wäre. Es besteht somit vorliegend kein Anlass, die Glaubhaftigkeit
+der Aussagen der Beschwerdeführerin hinsichtlich des höheren Erwerbspensums in
+Zweifel zu ziehen. Die Frage, ob die Beschwerdeführerin  wie von ihr angegeben
+(vgl. E. 7.1 hiervor)  in einem 90%-Pensum oder in einem 100%-Pensum tätig
+wäre, kann vorliegend offen gelassen werden, da diese geringe Differenz keine
+Änderung des Invaliditätsgrads zu bewirken vermöchte (vgl. E. 9 hiernach). Es
+ist damit mit überwiegender Wahrscheinlichkeit davon auszugehen, dass die
+Beschwerdeführerin im Gesundheitsfall voll erwerbstätig wäre und es ist der
+Invaliditätsgrad demnach mittels Einkommensvergleich zu ermitteln. Weitere
+Ausführungen zur von der Beschwerdeführerin geltend gemachten Frühinvalidität
+erübrigen sich vor diesem Hintergrund. Gleichermassen erübrigen sich weitere
+Ausführungen zu den Vorbringen der Beschwerdeführerin bezüglich der
+Haushaltsabklärung.
+
+8.
+
+8.1. Für die Bemessung der Invalidität von erwerbstätigen Versicherten
+ist Art. 16 ATSG anwendbar (Art. 28a Abs. 1 Satz 1 IVG). Danach wird für die
+Bestimmung des Invaliditätsgrades das Erwerbseinkommen, das die versicherte
+Person nach Eintritt der Invalidität und Durchführung der medizinischen
+Behandlung und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare
+Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen könnte (sog.
+Invalideneinkommen), in Beziehung gesetzt zum Erwerbseinkommen, das sie erzielen
+könnte, wenn sie nicht invalid geworden wäre (sog. Valideneinkommen). Dies ist
+die allgemeine Methode des Einkommensvergleichs (vgl. u. a. BGE 144 I 21, 23 E.
+2.1).
+
+8.2. Das Einkommen ohne Invalidität (Art. 16 ATSG) bestimmt sich gemäss
+Art. 26 Abs. 1 der Verordnung vom 17. Januar 1961 über die
+Invalidenversicherung (IVV; SR 831.201) anhand des zuletzt vor Eintritt der
+Invalidität tatsächlich erzielten Erwerbseinkommens. Kann das tatsächlich
+erzielte Erwerbseinkommen nicht oder nicht hinreichend genau bestimmt werden,
+so wird das Valideneinkommen nach den statistischen Zentralwerten der
+Lohnstrukturerhebung (LSE) des Bundesamtes für Statistik für eine Person bei
+gleicher Ausbildung und entsprechenden beruflichen Verhältnissen festgelegt,
+wobei altersunabhängige und geschlechtsspezifische Werte zu verwenden sind
+(Art. 26 Abs. 4 in Verbindung mit Art. 25 Abs. 3 IVV).
+
+8.3. Auch bei der Bestimmung des Invalideneinkommens wird ein nach
+Eintritt der Invalidität tatsächlich erzieltes Einkommen angerechnet, sofern
+damit die verbliebene Leistungsfähigkeit in Bezug auf eine zumutbare
+Erwerbstätigkeit bestmöglich verwertet wird (Art. 26 bis Abs. 1 IVV).
+Liegt kein anrechenbares Einkommen vor, wird das Invalideneinkommen ebenfalls
+nach statistischen Werten (LSE) bestimmt (Art. 26 bis Abs. 2 in
+Verbindung mit Art. 25 Abs. 3 IVV).
+
+9.
+
+9.1. Im Rahmen des Einkommensvergleichs per März 2022 stellte die
+Beschwerdegegnerin aufgrund fehlender aussagekräftiger Einkommenszahlen
+bezüglich des Valideneinkommens verordnungs- und rechtsprechungsgemäss auf die
+LSE ab. Sie stellte ein Valideneinkommen von Fr. 54'244.00 einem
+Invalideneinkommen von Fr. 0.00 gegenüber, woraus sie auf eine
+Einschränkung in der Erwerbstätigkeit von 100% schloss.
+
+9.2. In arithmetischer Hinsicht sind das Validen- und das
+Invalideneinkommen zu Recht nicht umstritten. Dass die Beschwerdegegnerin nicht
+die Lohndaten 2022 als Grundlage genommen hat, ändert am Ergebnis nichts.
+Entsprechend der Verfügung vom 1. April 2025 ist bei der Beschwerdeführerin
+somit eine Einschränkung in der Erwerbstätigkeit von 100% anzunehmen, wobei
+lediglich auf eine Gewichtung mit der Einschränkung im Haushalt zu verzichten
+ist (vgl. E. 7.10 hiervor). Demgemäss hat die Beschwerdeführerin per März
+2022 (vgl. E. 5.8 hiervor) einen Anspruch auf eine ganze Rente gegenüber
+der Beschwerdegegnerin.
+
+10.
+
+10.1. Gemäss den vorstehenden Erwägungen ist die Verfügung vom 1. April
+2025 aufzuheben. Die Beschwerdegegnerin hat der Beschwerdeführerin ab 1. März
+2022 eine ganze Rente auszurichten.
+
+10.2. Bei diesem Ausgang des Verfahrens gehen die ordentlichen Kosten,
+bestehend aus einer Gebühr von Fr. 800.00, zu Lasten der Beschwerdegegnerin (vgl.
+Art. 61 lit. f bis ATSG in Verbindung mit Art. 69 Abs. 1 bis IVG).
+
+10.3. Als obsiegende Partei hat die Beschwerdeführerin zudem Anspruch auf
+eine Parteientschädigung gemäss Art. 61 lit. g ATSG gegenüber der
+Beschwerdegegnerin. Das Sozialversicherungsgericht spricht im Sinne einer
+Richtlinie  in durchschnittlichen Fällen mit doppelten Schriftenwechsel  bei
+vollem Obsiegen eine Parteientschädigung für anwaltlich vertretene
+Beschwerdeführer von Fr. 3750.00 (inklusive Auslagen) zuzüglich 8.1% Mehrwertsteuer
+zu. Im vorliegenden Fall ist in Anbetracht der sich stellenden Sachverhalts-
+und Rechtsfragen von einem durchschnittlichen Fall auszugehen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird gutgeheissen und die
+Verfügung vom 1. April 2025 aufgehoben. Die Beschwerdegegnerin wird
+verpflichtet, der Beschwerdeführerin ab 1. März 2022 eine ganze Rente
+zuzusprechen.
+
+Die Beschwerdegegnerin trägt die ordentlichen
+Kosten, bestehend aus einer Gebühr von Fr. 800.00.
+
+Die Beschwerdegegnerin bezahlt der
+Beschwerdeführerin eine Parteientschädigung von Fr. 3'750.00 (inkl.
+Auslagen) zuzüglich Fr. 303.75 Mehrwertsteuer.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+a.o. Gerichtsschreiberin
+
+lic. iur. R. Schnyder MLaw F. Loretz
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+          Bundesamt für Sozialversicherungen
+
+Versandt am:
