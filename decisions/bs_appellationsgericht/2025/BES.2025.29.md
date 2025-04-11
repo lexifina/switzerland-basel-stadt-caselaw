@@ -1,0 +1,338 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.221"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2025.29"
+docket_2: "AG.2025.221"
+decided: "2025-04-11"
+published: "2025-08-28"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78287&W10_KEY=3048456&nTrefferzeile=174&Template=search_result_document.html"
+cites_decisions: ["6B_855/2018", "BGE 129 I 8", "BGE 146 IV 30"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-044.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-001.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md"]
+---
+
+# Verfahrenskosten (Urteil des BGer 6B_427/2025 vom 02.06.2025)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2025.29
+
+ENTSCHEID
+
+vom 11.
+April 2025
+
+Mitwirkende
+
+lic. iur. Liselotte
+Henz
+
+und a.o.
+Gerichtsschreiberin MLaw Lavinia Frei
+
+Beteiligte
+
+A____ , geb. [...]                                                           
+  Beschwerdeführer
+
+[...]                                                                                          Beschuldigter
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009
+Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Strafgerichts
+
+vom 11. Februar 2025
+
+betreffend Verfahrenskosten
+
+Sachverhalt
+
+A____
+(nachfolgend: Beschwerdeführer) wurde mit Ordnungsbussenzettel vom 22. November
+2023 wegen Überschreitens der zulässigen Parkzeit um mehr als zwei, aber nicht
+mehr als vier Stunden von der Kantonspolizei Basel-Stadt mit einer
+Ordnungsbusse von CHF 60.. bestraft. Mit Übertretungsanzeige vom 11. Januar
+2024 sowie Zahlungserinnerung vom 22. Februar 2024 sandte die Kantonspolizei
+die Busse zudem an die Adresse [...] zu. Als die Busse nicht fristgerecht
+bezahlt wurde, überwies die Kantonspolizei das Verfahren am 22. Mai 2024 an die
+Strafbefehlsabteilung der Staatsanwaltschaft Basel-Stadt. Diese erklärte den
+Beschwerdeführer mit Strafbefehl vom 25. November 2024 der Verletzung der
+Verkehrsregeln schuldig und bestrafte ihn mit einer Busse von CHF 60.. Zudem
+wurden ihm Gebühren von CHF 200. und Auslagen von CHF 9.60 auferlegt. Hiergegen
+erhob der Beschwerdeführer mit Eingangsdatum vom 3. Dezember 2024 Einsprache
+und führte darin sinngemäss aus, er habe vorgängig zum Strafbefehl keine Post
+von der Kantonspolizei betreffend die Bussenverfügung erhalten und er habe sich
+zu dieser Zeit ohnehin in einem Krankenhaus aufgehalten, weshalb seine
+Schwester in dieser Zeit seinen Briefkasten geleert habe. Mit Schreiben vom 4.
+Dezember 2024 hielt die Staatsanwaltschaft an ihrem Strafbefehl vom 25.
+November 2024 fest. Da der Beschwerdeführer die Busse vorerst nicht bezahlte,
+überwies die Staatsanwaltschaft den Strafbefehl am 2. Januar 2025 an das Strafgericht
+Basel-Stadt. Mit Verfügung vom 11. Februar 2025 stellte das Einzelgericht in
+Strafsachen fest, dass der Strafbefehl vom 25. November 2024 im Schuld- und
+Strafpunkt (Busse von CHF 60. wegen Verletzung der Verkehrsregeln gemäss Art.
+90 Ziff. 1 SVG) zum rechtskräftigen Urteil geworden ist, zumal der
+Beschwerdeführer die Busse in Höhe von CHF 60. in der Zwischenzeit beglichen
+hat. Weiter verfügte das Einzelgericht in Strafsachen, dass der
+Beschwerdeführer die Verfahrenskosten im Betrage von CHF 209.60 trägt. Die
+Verfügung wurde dem Beschwerdeführer am 15. Februar 2025 zugestellt.
+
+Gegen diese
+Verfügung hat der Beschwerdeführer am 3. sowie 4. März 2025 Beschwerde beim
+Strafgericht erhoben. Mangels eigener Zuständigkeit hat das Strafgericht die
+Beschwerde an das zuständige Appellationsgericht weitergeleitet. Darin verlangt
+der Beschwerdeführer wiederum die Aufhebung der Verfahrenskosten des
+Strafbefehlsverfahrens. Der vorliegende Entscheid ist im schriftlichen
+Verfahren unter Beizug der vorinstanzlichen Akten ergangen. Die Einzelheiten
+ergeben sich, soweit sie für den Entscheid relevant sind, aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Angefochten
+ist Ziff. 2 der Verfügung des Einzelgerichts in Strafsachen vom 11. Februar
+2025, mit der über die Verfahrenskosten des Strafbefehlsverfahrens befunden
+wurde. Dagegen ist nach Art. 393 Abs. 1 lit. b in Verbindung mit Art. 80 Abs. 1
+der Strafprozessordnung (StPO, SR 312.0) die Beschwerde zulässig. Zuständig ist
+das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in Verbindung mit § 93
+Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheides hat (Art. 382 Abs. 1 StPO);
+dies ist beim Beschwerdeführer als Adressat der angefochtenen Verfügung der
+Fall.
+
+1.3 Mit
+Beschwerde können Rechtsverletzungen, einschliesslich Überschreitung und
+Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung, die
+unvollständige oder unrichtige Feststellung des Sachverhalts sowie
+Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+
+1.4 Gemäss
+Art. 396 Abs. 1 StPO ist die Beschwerde gegen schriftlich oder mündlich
+eröffnete Entscheide innert 10 Tagen schriftlich und begründet bei der
+Beschwerdeinstanz einzureichen. Die Frist beginnt am Tag nach der Eröffnung
+resp. der Zustellung zu laufen (Art. 90 Abs. 1 StPO) und gilt als eingehalten,
+wenn die Beschwerde spätestens am letzten Tag der Frist bei der zuständigen Behörde
+abgegeben oder zu deren Handen der Schweizerischen Post oder einer
+diplomatischen oder konsularischen Vertretung übergeben wird (Art. 91 Abs. 2
+StPO). Der Beschwerdeführer hat seine Beschwerde an das Strafgericht
+Basel-Stadt und damit an eine unzuständige Behörde gerichtet. Gemäss Art. 91
+Abs. 4 StPO gilt die Frist jedoch auch dann als gewahrt, wenn die Eingabe
+spätestens am letzten Tag der Frist bei einer nicht zuständigen schweizerischen
+Behörde eingeht. Dieser formale Fehler des Beschwerdeführers zieht deshalb
+keine nachteiligen Folgen nach sich. Gemäss Rückschein der Post ist erstellt,
+dass die Verfügung des Strafgerichts vom 11. Februar 2025 dem Beschwerdeführer
+am 15. Februar 2025 zugestellt wurde. Die 10-tägige Beschwerdefrist begann damit
+am 16. Februar 2025 zu laufen und ist am 25. Februar 2025 abgelaufen. An diesem
+Tag hätte die Einsprache bei der zuständigen Behörde eingehen oder die
+Postsendung der Schweizerischen Post übergeben werden müssen, um die Frist zu
+wahren. Die Postaufgabe der Beschwerde in Deutschland datiert jedoch vom 3.
+resp. 4. März 2025. Die vorliegend relevante Übergabe an die
+Schweizerische Post erfolgte somit noch später, weshalb die Beschwerde
+eindeutig verspätet eingereicht wurde. Auf die Beschwerde ist deshalb nicht
+einzutreten.
+
+2.
+
+2.1 Selbst
+wenn die Beschwerde fristgerecht erhoben worden wäre, wäre die Beschwerde in
+materieller Hinsicht abzuweisen. Das Einzelgericht in Strafsachen hat die
+Kostenauferlegung zu Lasten des Beschwerdeführers damit begründet, dass sowohl
+die Übertretungsanzeige als auch die Zahlungserinnerung an dessen korrekte
+Anschrift, an die auch der Strafbefehl zugestellt wurde und die der Einsprecher
+selbst als seinen Wohnort aufführt, geschickt wurden. Es sei deshalb davon
+auszugehen, dass der Beschwerdeführer mindestens eines dieser Schreiben
+erhalten hat. Das Strafgericht folgt damit der Praxis des Bundesgerichts (BGer
+6B_855/2018 vom 15. Mai 2019 E. 1.8).
+
+2.1.1 Der
+Beschwerdeführer macht geltend, dass die Übertretungsanzeige vom 11. Januar
+2024 sowie die Zahlungserinnerung vom 22. Februar 2024 nie bei ihm angekommen
+seien, weshalb er keine Kenntnis von der Busse gehabt habe. Er habe deshalb die
+Kosten für das Strafbefehlsverfahren nicht zu tragen.
+
+2.1.2 Seit
+dem Inkrafttreten der schweizerischen Strafprozessordnung am 1. Januar 2011
+werden Strafbefehle grundsätzlich mit eingeschriebener Post zugestellt. Dies
+ergibt sich aus Art. 85 Abs. 2 StPO, wonach die Zustellung von Mitteilungen im
+Geltungsbereich der schweizerischen Strafprozessordnung durch eingeschriebene
+Postsendung oder auf andere Weise gegen Empfangsbestätigung zu erfolgen hat,
+insbesondere durch die Polizei. Diese Bestimmung ist jedoch auf die
+Übertretungsanzeigen und Zahlungserinnerungen nicht anwendbar. Sie sind im
+Rahmen des Ordnungsbussenverfahrens versandt worden, in welchem Zustellungen
+praxisgemäss nicht eingeschrieben erfolgen. Das Ordnungsbussenverfahren ist vom
+ordentlichen Strafverfahren zu unterscheiden; es handelt sich um ein
+vereinfachtes Verfahren, in welchem keine Kosten erhoben werden dürfen (Art. 1
+Abs. 1 und Art. 12 Ordnungsbussengesetz, OBG, SR 314.1). Überdies ist es durch
+den Vorbehalt von Art. 1 Abs. 2 StPO vom Geltungsbereich der
+Strafprozessordnung ausgenommen (so ausdrücklich die Botschaft, BBl 2006, S.
+1127). Daher ist der nicht eingeschriebene Versand von Übertretungsanzeigen und
+Zahlungserinnerungen im Ordnungsbussenverfahren grundsätzlich zulässig. Die
+Rüge des Beschwerdeführers, er habe erstmals mit Strafbefehl vom 25. November
+2024 von der Übertretung Kenntnis erhalten, vermag demnach an der Zulässigkeit
+des Vorgehens der Kantonspolizei nichts zu ändern.
+
+2.1.3 Die
+Beweislast für die Zustellung von Verfügungen und Entscheiden obliegt der
+Behörde (vgl. AGE BES.2018.63 vom 24. Mai 2018 E. 2.3 mit weiteren Hinweisen).
+Diese hat auf geeignete Art den Beweis dafür zu erbringen, dass und
+gegebenenfalls wann die Zustellung erfolgt ist. Der Nachweis der Zustellung
+kann indessen nicht nur durch eingeschriebenen Versand, sondern auch aufgrund
+von Indizien oder gestützt auf die gesamten Umstände erbracht werden (vgl. BGE
+129 I 8 E. 2.2; Amstutz/Arnold, in: Basler Kommentar, 3. Auflage, Basel 2018,
+Art. 44 BGG N 14).
+
+2.1.4 Ein
+Fehler bei der Postzustellung liegt nicht derart ausserhalb jeder
+Wahrscheinlichkeit, dass nicht damit gerechnet werden müsste und die Behörde
+sich für den Nachweis ausschliesslich mit einer aus
+Wahrscheinlichkeitsüberlegungen fliessenden Fiktion begnügen könnte. Im Falle
+eines einmaligen Versandes mit einfacher Post ist daher nicht auszuschliessen,
+dass die Sendung nicht angekommen ist. Bei einer zweimaligen Zustellung
+derartiger Dokumente (Übertretungsanzeige und Zahlungserinnerung) ist die
+Möglichkeit eines Zustellungsfehlers jedoch vernachlässigbar klein, wenn sich
+die Adresse des Beschwerdeführers auch bei allen weiteren Zustellungen der
+Behörden als richtig und funktionsfähig herausgestellt hat (AGE BES.2024.35 vom
+7. Juni 2024 E. 2.3; BES.2024.30 vom 3. Juni 2024 E. 2.6; BES.2018.113 vom 19.
+Juli 2018 E. 2.3; BES.2018.63 vom 24. Mai 2018 E. 2.3, BES.2017.115 vom 2.
+August 2017 E. 2.3 mit weiteren Hinweisen). Von dieser Praxis ist auch im
+vorliegenden Fall auszugehen.
+
+2.1.5 In
+den Akten liegen die Kopien einer polizeilichen Übertretungsanzeige vom
+11. Januar 2024 und einer Zahlungserinnerung vom 22. Februar 2024, die mit
+nicht eingeschriebener Post an die Adresse des Beschwerdeführers versandt
+worden sind. Dabei ist entsprechend der vorstehend dargestellten Praxis davon
+auszugehen, dass im Falle eines einmaligen Versandes mit einfacher Post nicht
+auszuschliessen ist, dass die Sendung nicht ankommt, etwa weil sie verloren
+geht oder weil sie nicht korrekt adressiert ist. Bei einer zweimaligen Zustellung
+solcher Dokumente wird die Möglichkeit eines Zustellungsfehlers jedoch
+vernachlässigbar klein. Hinzu kommt auch in diesem Fall, dass sich die Adresse
+des Beschwerdeführers, die auch bei allen weiteren Zustellungen verwendet
+wurde, als funktionsfähig herausgestellt hat; der Beschwerdeführer hat diese
+Adresse in seiner Einsprache und Beschwerde bestätigt. Aufgrund dieser Umstände
+ist der Einwand des Beschwerdeführers, dass weder die Übertretungsanzeige noch
+die Zahlungserinnerung bei ihm angekommen seien, obwohl diese korrekt
+adressiert und zu unterschiedlichen Zeitpunkten versandt worden sind, nicht als
+stichhaltig anzusehen. Insgesamt besteht kein vernünftiger Zweifel daran, dass
+der Beschwerdeführer mindestens eines der beiden Schreiben vor der nachfolgenden
+Zustellung des Strafbefehls erhalten hat und dadurch hinreichend über die
+vorgeworfene Tat, die Busse und ihre Möglichkeiten, die Busse zu bezahlen oder
+den Vorwurf zu bestreiten, in Kenntnis gesetzt worden ist. Seine Behauptung in
+der Einsprache, er habe im Vorfeld des Strafbefehls keine Sendung erhalten,
+erweist sich damit als Schutzbehauptung.
+
+2.2 Der
+Beschwerdeführer macht ausserdem geltend, er habe sich zum Zeitpunkt des
+Versands der Übertretungsanzeige sowie der Zahlungserinnerung durch die Kantonspolizei
+über mehrere Wochen im Krankenhaus befunden. In dieser Zeit sei seine Schwester
+dafür zuständig gewesen, seine Post zu verwalten. Es sei jedoch gemäss deren
+Auskunft nie etwas von der Kantonspolizei in der Post gewesen.
+
+Dabei handelt es
+sich um eine unbelegte Behauptung. Der Beschwerdeführer legt keinen Beleg für
+den angeblichen Aufenthalt im Krankenhaus ins Recht. Allerdings würde den
+Beschwerdeführer selbst ein nachgewiesener Krankenhausaufenthalt nicht
+entlasten, zumal es in seiner Verantwortung liegt, für diesen Fall eine Person
+mit dem Leeren seines Briefkastens zu beauftragen (vgl. BGE 146 IV 30 E. 1.1.2).
+Die damit zusammenhängende Behauptung des Beschwerdeführers, seine Schwester
+sei in dieser Zeit für das Leeren des Briefkastens verantwortlich gewesen, ist
+ebenfalls durch nichts belegt. Ferner gilt das vom Strafgericht in dessen
+Verfügung vom 11. Februar 2025 Ausgeführte genauso für die Schwester des
+Beschwerdeführers, da der Beschwerdeführer sich das Verhalten seiner Schwester anrechnen
+lassen muss.
+
+2.3 Der
+Beschwerdeführer macht weiter geltend, dass seine Adressdaten zu seinem Schutz
+seit dem 13. März 2023 beim Einwohnermeldeamt in [...] gesperrt seien.
+
+Diesem Einwand
+des Beschwerdeführers kann ebenfalls nicht gefolgt werden. Das Einrichten einer
+Auskunftssperre nach § 51 des deutschen Bundesmeldegesetzes (BMG) hat keinen
+Zusammenhang mit der Zustellung von Post. Es geht dabei einzig um das Verbot
+der Mitteilung der eigenen Daten an private Drittpersonen. Meldebehörden und
+andere öffentliche Stellen sind von dieser Sperre nicht betroffen (vgl. https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99115002060001/herausgeber/HB-S1000030000673067/region/040000000000 ,
+besucht am 7. April 2025).
+
+2.4 Demzufolge
+kann den zutreffenden Ausführungen der Staatsanwältin sowie des Einzelgerichts
+in Strafsachen vollumfänglich gefolgt werden. Aufgrund des Dargelegten ist das
+Strafbefehlsverfahren zu Recht eingeleitet worden, weshalb der Beschwerdeführer
+auch die entsprechenden Verfahrenskosten sowie Auslagen zu tragen hat. Da die
+Bezahlung der Busse erst nach Erlass des Strafbefehls erfolgt ist, hat der
+Beschwerdeführer gemäss Art. 426 Abs. 1 StPO dessen Kosten zu tragen. Die
+Gebühr von CHF 200. entspricht, wie bereits das Einzelgericht in Strafsachen
+in der angefochtenen Verfügung festgehalten hat, dem gesetzlichen Minimum für
+den Erlass eines Strafbefehls (§ 7 Abs. 1 lit. a/aa der Verordnung betreffend
+die Verfahrenskosten für Strafverfolgungsbehörden, SG 154.980), weshalb die
+vorinstanzliche Verfügung auch bei einem Eintreten auf die vorliegende
+Beschwerde zu bestätigen wäre.
+
+3.
+
+Der
+Beschwerdeführer wäre bei diesem Ausgang des Verfahrens nach Art. 428
+Abs. 1 StPO grundsätzlich kostenpflichtig. Aufgrund der Umstände ist
+jedoch auf die Erhebung von Verfahrenskosten für das Beschwerdeverfahren zu
+verzichten.
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Auf die Beschwerde wird nicht
+eingetreten.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Staatsanwaltschaft Basel-Stadt
+
+- Strafgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die Präsidentin                                                         Die
+a.o. Gerichtsschreiberin
+
+lic. iur.
+Liselotte Henz                                               MLaw Lavinia Frei
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am letzten
+Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu dessen
+Handen der Schweizerischen Post oder einer diplomatischen oder konsularischen
+Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs. 1 BGG). Für
+die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
