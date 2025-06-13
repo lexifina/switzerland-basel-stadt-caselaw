@@ -1,0 +1,239 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.342"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2025.54"
+docket_2: "AG.2025.342"
+decided: "2025-06-13"
+published: "2025-10-02"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78498&W10_KEY=3048456&nTrefferzeile=106&Template=search_result_document.html"
+cites_decisions: ["BGE 143 IV 117", "VD.2015.58", "VD.2016.117", "VD.2016.158", "VD.2016.62", "VD.2017.23", "VD.2017.294", "VD.2022.45", "VD.2025.54"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# Vollzugsbefehl
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2025.54
+
+URTEIL
+
+vom 13.
+Juni 2025
+
+Mitwirkende
+
+lic. iur. Marc Oser , Dr. Stephan
+Wullschleger, MLaw Anja Dillena
+
+und a.o.
+Gerichtsschreiberin MLaw Lavinia Frei
+
+Beteiligte
+
+A____ Rekurrent
+
+[...]
+
+gegen
+
+Abteilung Straf- und
+Massnahmenvollzug
+
+Amt für Justizvollzug
+
+Spiegelgasse 12, 4001 Basel
+
+Gegenstand
+
+Rekurs gegen eine
+Verfügung der Abteilung Straf- und Massnahmenvollzug vom 28. März 2025
+
+betreffend Vollzugsbefehl
+
+Sachverhalt
+
+A____ (nachfolgend: Rekurrent)
+wurde mit Strafbefehl der Staatsanwaltschaft Basel-Stadt vom 2. Mai 2022 (VT.[...])
+wegen eines geringfügigen Vermögensdelikts (Diebstahl) zu einer Busse von CHF
+150.  (2 Tage Ersatzfreiheitsstrafe), mit
+Strafbefehl der Staatsanwaltschaft Luzern vom 18. Oktober 2023 ([...]) wegen der
+rechtswidrigen Einreise im Sinne des Bundesgesetzes über die Ausländerinnen und
+Ausländer und über die Integration (AIG, SR 142.20) und des rechtswidrigen
+Aufenthalts im Sinne des AIG zu einer Geldstrafe von CHF 1'170.  (40 Tage Ersatzfreiheitsstrafe, abzüglich 1 Tag)
+sowie mit Strafbefehl der Staatsanwaltschaft Basel-Stadt vom 7. November 2023 (VT.[...])
+wegen der rechtswidrigen Einreise im Sinne des AIG zu einer Freiheitsstrafe von
+45 Tagen (abzüglich 1 Tag) verurteilt. Zufolge Rechtskraft der
+Strafbefehle  und nachdem der Rekurrent die vorerwähnte Busse bzw. Geldstrafe
+nicht bezahlt hatte  verfügte die Abteilung Straf- und Massnahmenvollzug des
+Amtes für Justizvollzug (Vollzugsbehörde bzw. SMV) mit Vollzugsbefehl vom
+28. März 2025 die Verbüssung der genannten (Ersatz-)Freiheitsstrafen ab dem 27.
+März 2025.
+
+Gegen diesen Vollzugsbefehl meldete
+der Rekurrent mit Eingabe vom 29. März 2025 in französischer Sprache Rekurs an.
+Dieser Rekurs wurde vom SMV am 1. April 2025 zuständigkeitshalber an das
+Appellationsgericht Basel-Stadt als Verwaltungsgericht überwiesen.
+
+Mit Verfügung vom 3. April 2025
+wurden die Vorakten eingeholt und der Rekurrent zugleich auf die noch laufende
+30-tägige Frist zur Einreichung einer Rekursbegründung hingewiesen. Weitere
+Eingaben des Rekurrenten erfolgten am 9. April 2025, 10. April
+2025, 12. April 2025 und 16. April 2025.
+
+Die weiteren Tatsachen und die Einzelheiten
+der Parteistandpunkte ergeben sich, soweit sie für das Urteil von Bedeutung
+sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die Zuständigkeit des Verwaltungsgerichts für die
+Beurteilung des vorliegenden Rekurses ergibt sich aus § 33 Abs. 2 des Justizvollzugsgesetzes
+(JVG, SG 258.200). Gemäss § 88 Abs. 2 in Verbindung mit § 92 Abs. 1 Ziff. 1 des
+Gerichtsorganisationsgesetzes (GOG, SG 154.100) ist das Dreiergericht zum
+Entscheid berufen. Der Rekurrent ist als Adressat des angefochtenen Entscheids
+unmittelbar davon berührt und hat damit ein schutzwürdiges Interesse an dessen
+Aufhebung oder Abänderung, weshalb er zum Rekurs legitimiert ist.
+
+1.2
+
+1.2.1 Gemäss § 3 Abs. 1 GOG ist die Amts- und
+Verfahrenssprache Deutsch. Rekurse sind daher grundsätzlich in deutscher
+Sprache einzureichen. Ist eine Partei der Verfahrenssprache nicht mächtig, hat
+sie sich grundsätzlich rechtzeitig um sprachliche Unterstützung zu bemühen (vgl.
+VGE VD.2015.58 vom 8. Juni 2015 E. 2.4). Allerdings kann in der vorliegenden
+Konstellation ausnahmsweise die Praxis des Appellationsgerichts zur
+Zulässigkeit fremdsprachiger Beschwerden in Strafsachen sinngemäss angewandt
+werden (vgl. hierzu VGE VD.2022.45 vom 15. Mai 2022 E. 1.2.1; AGE BES.2021.152
+vom 7. Februar 2022 E. 1.2). Nach bundesgerichtlicher Rechtsprechung besteht auch
+dort im Grundsatz kein Anspruch darauf, bei Eingaben eine andere Sprache als
+die Verfahrenssprache zu verwenden (BGE 143 IV 117 E. 2.1). Strafprozessuale Beschwerden
+sind im Kanton Basel-Stadt daher grundsätzlich in deutscher Sprache
+einzureichen. Erfolgt die Beschwerde in einer anderen Sprache, so ist die
+Verfahrensleitung  um überspitzten Formalismus zu verhindern  dazu
+verpflichtet, eine zusätzliche Frist zur Übersetzung einzuräumen, soweit sie
+sich nicht mit dem eingereichten Dokument begnügt (BGE 143 IV 117 E. 2.1).
+Das Appellationsgericht nimmt in französischer Sprache verfasste Beschwerden
+ausnahmsweise entgegen, wenn es sich um kurze, auch für Personen, deren
+Muttersprache nicht die verwendete Sprache ist, leicht verständliche Eingaben
+handelt (vgl. VGE VD.2022.45 vom 15. Mai 2022 E. 1.2.1; AGE BES.2017.89
+vom 7. Juli 2017 E. 1.4, BES.2017.1 vom 13. März 2017 E. 1.2). Vorliegend wurde
+der Rekurs in französischer Sprache und damit in einer hiesigen Landessprache
+verfasst. Die Eingaben sind zudem zweifelsohne kurz und in einfacher Sprache
+gehalten. Der Rekurs wird somit im Sinne der vorstehenden Ausführungen
+ausnahmsweise entgegengenommen  womit noch nichts dazu gesagt ist, ob hierauf
+auch einzutreten ist.
+
+1.2.2 Dessen ungeachtet besteht kein Anlass, auch
+bei der Redaktion des Urteils von der im Kanton Basel-Stadt geltenden einzigen Amtssprache
+Deutsch abzuweichen (vgl. VGE VD.2022.45 vom 15. Mai 2022 E. 1.2.2; AGE BES.2020.145
+vom 31. Januar 2021 E. 3, BES.2018.97 vom 20. Juni 2018 E. 1.2).
+
+1.3
+
+1.3.1 Gemäss der Rechtsprechung zu § 16 Abs. 2 des
+Verwaltungsrechtspflegegesetzes (VRPG, SG 270.100) hat eine rekurrierende Partei
+ihren Standpunkt in ihrer Rechtsmittelbegründung substantiiert vorzutragen und
+sich mit den Erwägungen des angefochtenen Entscheids auseinanderzusetzen. Das
+Verwaltungsgericht prüft einen angefochtenen Entscheid nicht von sich aus unter
+allen in Frage kommenden Aspekten, sondern untersucht nur die rechtzeitig
+vorgebrachten Beanstandungen. In diesem Sinn gilt das sogenannte Rügeprinzip
+(vgl. VGE VD.2022.45 vom 15. Mai 2022 E. 1.3.1, VD.2017.23 vom 2. Mai 2017
+E. 1.2, VD.2016.62 vom 30. September 2016 E. 1.2.1; Wullschleger/Schröder , Praktische Fragen
+des Verwaltungsprozesses im Kanton Basel-Stadt, in: BJM 2005, S. 277, 305). Bei
+juristischen Laien werden an die Substantiierung des Rechtsmittels allerdings
+keine allzu hohen Anforderungen gestellt (VGE VD.2022.45 vom 15. Mai 2022 E.
+1.3.1, VD.2017.23 vom 2. Mai 2017 E. 1.2, VD.2016.158 vom 12. April 2017 E.
+1.2.2; vgl. Wullschleger/Schröder ,
+a.a.O., S. 277, 305). Es genügt, dass aus einer auch knapp ausgefallenen, summarischen
+Begründung zumindest ersehen werden kann, worum es dem Rekurrenten geht und
+welche Argumente er berücksichtigt wissen will (VGE VD.2022.45 vom 15. Mai 2022
+E. 1.3.2, VD.2017.294 vom 9. Juli 2018 E. 1.2.1, VD.2016.117 vom 15. August
+2016 E. 1.3.2; Wullschleger/Schröder ,
+a.a.O., S. 277, 305).
+
+1.3.2 Der Rekurrent wendet sich in seinen Eingaben
+vom 29. März 2025, 9. April 2025, 10. April 2025, 12. April 2025 und 16. April
+2025 lediglich gegen die zu vollziehenden Strafbefehle vom 2. Mai 2022, 18.
+Oktober 2023 und 7. November 2023 und rügt, dass er mit diesen Strafbefehlen zu
+Unrecht verurteilt worden sei.
+
+Wie jedoch bereits im angefochtenen Vollzugsbefehl vermerkt,
+sind die Strafbefehle gegen den Rekurrenten in Rechtskraft erwachsen. Der
+Rekurrent macht nicht geltend, dass er diese nicht erhalten bzw. keine Kenntnis
+davon hatte. Der Strafbefehl vom 7. November 2023 wurde ihm gemäss den
+Vollzugsakten sogar persönlich ausgehändigt (vgl. Akten SMV S. 4).
+
+Die fraglichen Strafbefehle sind nicht Streitgegenstand des
+vorliegenden Rekursverfahrens, zumal im Rahmen der Vollzugsanordnung bzw. des
+verwaltungsgerichtlichen Rekursverfahrens nicht mehr über die rechtskräftigen
+Schuldsprüche und die damals angeordneten Strafen befunden werden kann. Der
+Rekurrent hätte diesbezüglich vielmehr vor Eintreten der Rechtskraft der
+Strafbefehle Einsprache erheben müssen, was er nicht getan hat.
+
+Im Übrigen setzt sich der Rekurrent mit dem Vollzugsbefehl
+vom 28. März 2025 nicht auseinander. Damit kommt er seiner Begründungspflicht
+nicht einmal ansatzweise nach, obwohl er noch mit Verfügung vom 3. April 2025
+darauf aufmerksam gemacht worden ist.
+
+1.3.3 Insgesamt fehlt es daher selbst nach den für
+Laien geltenden geringen Anforderungen an einer rechtsgenüglichen Rekursbegründung.
+
+2.
+
+Aus den vorstehenden Erwägungen folgt, dass auf den Rekurs
+nicht einzutreten ist. Bei diesem Ausgang des Verfahrens wären dessen Kosten
+grundsätzlich dem Rekurrenten aufzuerlegen (§ 30 Abs. 1 VRPG in Verbindung mit
+§ 23 des Gerichtsgebührenreglements [GGR, SG 154.810]). Auf die Erhebung von
+Gerichtskosten wird jedoch umständehalber verzichtet (§ 40 Abs. 1 GGR).
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Auf den Rekurs wird nicht eingetreten.
+
+Auf die Erhebung von Gerichtskosten für das
+verwaltungsgerichtliche Rekursverfahren wird verzichtet.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Amt für Justizvollzug, Abteilung Straf- und Massnahmenvollzug
+
+- Eidgenössisches Justiz- und Polizeidepartement (EJPD)
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Die a.o. Gerichtsschreiberin
+
+MLaw Lavinia Frei
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Strafsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in Strafsachen ein
+anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde
+an das Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in Strafsachen als auch
+Verfassungsbeschwerde erhoben, sind beide Rechtsmittel in der gleichen
+Rechtsschrift einzureichen.
