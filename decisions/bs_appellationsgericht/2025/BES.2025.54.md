@@ -1,0 +1,301 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.567"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BES"
+docket: "BES.2025.54"
+docket_2: "AG.2025.567"
+decided: "2025-06-26"
+published: "2025-09-12"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78852&W10_KEY=3108675&nTrefferzeile=62&Template=search_result_document.html"
+cites_decisions: ["1C_432/2017", "6B_1446/2022", "6B_522/2021", "BGE 142 IV 201", "BGE 143 IV 117", "ES.2025.229"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Nichteintreten auf Einsprache infolge Verspätung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Einzelgericht
+
+BES.2025.54
+
+ENTSCHEID
+
+vom 12.
+September 2025
+
+Mitwirkende
+
+lic. iur. Christian Hoenen
+
+und a.o.
+Gerichtsschreiberin MLaw Nujin Ak
+
+Beteiligte
+
+A____ , geb.
+[...]                                                              Beschwerdeführer
+
+[...]                                                                                         
+Beschuldigter
+
+gegen
+
+Einzelgericht in Strafsachen Beschwerdegegner
+
+Schützenmattstrasse 20, 4009 Basel
+
+Staatsanwaltschaft Basel-Stadt
+
+Binningerstrasse 21, Postfach,
+4001 Basel
+
+Gegenstand
+
+Beschwerde gegen eine Verfügung
+des Strafgerichts vom 26. Juni 2025
+
+(ES.2025.229)
+
+betreffend Nichteintreten auf
+Einsprache infolge Verspätung
+
+Sachverhalt
+
+Mit Strafbefehl
+der Staatsanwaltschaft Basel-Stadt vom 19. Mai 2025 (VT.[...]) wurde A____
+(nachfolgend: Beschwerdeführer) der Verletzung der Verkehrsregeln i.S. des
+Strassenverkehrsgesetzes schuldig erklärt und zu einer Busse von CHF 700.
+verurteilt. Zudem wurden ihm Verfahrenskosten in der Höhe von CHF 809.60
+auferlegt.
+
+Mit Schreiben
+vom 2. Juni 2025 erhob der Beschwerdeführer Einsprache gegen den Strafbefehl.
+Die Staatsanwaltschaft hielt am Strafbefehl fest und überwies diesen samt Akten
+und zusammen mit der Einsprache am 19. Juni 2025 an das Strafgericht
+Basel-Stadt. Mit Verfügung vom 26. Juni 2025 fällte das Einzelgericht in
+Strafsachen infolge Verspätung der Einsprache und unter Verzicht auf die
+Erhebung von Gerichtskosten einen Nichteintretensentscheid.
+
+Der
+Beschwerdeführer hat mit Schreiben vom 3. Juli 2025 Beschwerde gegen die
+Nichteintretensverfügung vom 26. Juni 2025 erhoben und beantragt sinngemäss,
+diese sei aufzuheben. Der vorliegende Entscheid ist im schriftlichen Verfahren
+unter Beizug der vorinstanzlichen Akten ergangen. Die Einzelheiten ergeben
+sich, soweit sie für den Entscheid relevant sind, aus den nachfolgenden
+Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Bei
+der angefochtenen Verfügung des Einzelgerichts in Strafsachen vom 26. Juni
+2025 handelt es sich um einen Nichteintretensentscheid, mit welchem nicht
+materiell über Straffragen befunden wird. Es kommt daher gemäss Art. 393 Abs. 1
+lit. b in Verbindung mit Art. 80 Abs. 1 der Strafprozessordnung (StPO, SR
+312.0) das Beschwerdeverfahren zur Anwendung. Zuständiges Beschwerdegericht ist
+das Appellationsgericht als Einzelgericht (§ 88 Abs. 1 in Verbindung mit § 93
+Abs. 1 Ziff. 1 des Gerichtsorganisationsgesetzes [GOG, SG 154.100]).
+
+1.2 Mit
+Beschwerde können Rechtsverletzungen, einschliesslich Überschreitung und
+Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung, die
+unvollständige oder unrichtige Feststellung des Sachverhalts sowie
+Unangemessenheit gerügt werden. Die Kognition des Beschwerdegerichts ist frei
+und nicht auf Willkür beschränkt (Art. 393 Abs. 2 StPO).
+
+1.3 Zur
+Beschwerde legitimiert ist jede Partei, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung eines Entscheids hat (Art. 382 Abs. 1 StPO). Der
+Beschwerdeführer ist als Adressat der angefochtenen Verfügung unmittelbar in seinen
+Interessen berührt und hat ein rechtlich geschütztes Interesse an deren
+Aufhebung oder Änderung, weshalb er zur Beschwerde legitimiert ist.
+
+1.4 Die
+Beschwerde wurde in französischer Sprache eingereicht. Gemäss § 3 Abs. 1
+des Gerichtsorganisationsgesetzes (GOG; SG 154.100) ist im Kanton Basel-Stadt
+die Amts- und Verfahrenssprache Deutsch. Beschwerden sind daher grundsätzlich
+in deutscher Sprache einzureichen. Laut bundesgerichtlicher Rechtsprechung
+besteht im Grundsatz kein Anspruch darauf, bei Eingaben eine andere Sprache als
+die Verfahrenssprache zu verwenden (BGE 143 IV 117 E. 2.1). Das
+Appellationsgericht nimmt in französischer Sprache verfasste Beschwerden in
+Strafsachen ausnahmsweise entgegen, wenn es sich um kurze und auch für
+Personen, deren Muttersprache nicht die verwendete Sprache ist, leicht
+verständliche Eingaben handelt (vgl. AGE BES.2025.44 vom 22. Mai 2025 E. 1.3
+mit weiteren Hinweisen). Dies ist vorliegend der Fall, weshalb die auf
+Französisch verfasste Beschwerde ausnahmsweise entgegengenommen wird. Es
+besteht hingegen kein Anlass, auch bei der Redaktion des Beschwerdeentscheids
+von der im Kanton Basel-Stadt einzigen Amtssprache Deutsch abzuweichen (vgl.
+AGE BES.2020.145 vom 31. Januar 2021 E. 3 mit weiteren Hinweisen). Allerdings
+werden das Dispositiv und die Rechtsmittelbelehrung des vorliegenden Entscheids
+auf Französisch übersetzt.
+
+1.5 Gemäss
+Art. 396 Abs. 1 StPO ist die Beschwerde innert 10 Tagen schriftlich und
+begründet bei der Beschwerdeinstanz einzureichen.
+
+Die angefochtene
+Verfügung vom 26. Juni 2025 wurde dem Beschwerdeführer am 2. Juli 2025
+zugestellt (Sendungsverfolgung der Schweizerischen Post, Akten der Vorinstanz,
+S. 78). Die 10-tägige Beschwerdefrist endete somit am
+14. Juli 2025 (Art. 90 Abs. 2 StPO). Die
+Beschwerde vom 3. Juli 2025 ging am 7. Juli 2025 bei der Beschwerdeinstanz ein
+und erfolgte folglich rechtzeitig. Auf die form- und fristgerechte Beschwerde
+ist damit einzutreten (Art. 396 Abs. 1 StPO).
+
+2.
+
+2.1 Gemäss
+Art. 354 Abs. 1 StPO kann die beschuldigte Person gegen einen Strafbefehl
+innert zehn Tagen nach seiner Zustellung schriftlich Einsprache erheben. Die
+Zustellung eines Strafbefehls erfolgt gemäss Art. 85 Abs. 2 StPO durch
+eingeschriebene Postsendung. Die Möglichkeit der direkten postalischen
+Zustellung nach Frankreich ergibt sich aus Art. X Ziff. 1 des
+Vertrages zwischen dem Schweizerischen Bundesrat und der Regierung der
+Französischen Republik zur Ergänzung des Europäischen Übereinkommens vom
+20. April 1959 über die Rechtshilfe in Strafsachen (SR 0.351.934.92).
+Im Verhältnis zwischen der Schweiz und Frankreich bestehen zudem weitere
+staatsvertragliche Bestimmungen, die die Behörden dazu ermächtigen,
+gerichtliche Urkunden in Strafsachen direkt per Post ins Ausland zuzustellen
+(vgl. Art. 16 Ziff. 1 des Zweiten Zusatzprotokolls zum Europäischen
+Übereinkommen über die Rechtshilfe in Strafsachen vom 8. November 2001 [SR
+0.351.12], dem sowohl die Schweiz als auch Frankreich angehören sowie Art. 52
+Abs. 1 des Schengener Durchführungsübereinkommens vom 19. Juni 1990 [SDÜ;
+Amtsblatt der EU Nr. L 239 vom 22. September 2000, S. 19-62];
+vgl. auch BGer 1C_432/2017 vom 7. Februar 2018 E. 2.4 und AGE
+BES.2022.151 vom 3. März 2023 E. 3.1.2 und AGE BES.2021.45 vom 2. Juni 2021
+E. 3.2).
+
+Ohne gültige
+Einsprache wird der Strafbefehl zum rechtskräftigen Urteil (Art. 354 Abs. 3
+StPO). Die 10-tägige Einsprachefrist beginnt am Tag nach der Eröffnung
+respektive Zustellung zu laufen (Art. 90 Abs. 1 StPO) und ist
+eingehalten, wenn die Eingabe spätestens am letzten Tag der Frist bei der
+zuständigen Behörde abgegeben oder zu deren Handen der Schweizerischen Post
+oder einer schweizerischen diplomatischen oder konsularischen Vertretung
+übergeben wird. Die Übergabe an eine ausländische Postgesellschaft hat keine
+fristwahrende Wirkung. In einem solchen Fall ist auf den Tag abzustellen, an
+dem die Eingabe von der Schweizerischen Post zur Weiterbeförderung in Empfang
+genommen wird (BGer 6B_1446/2022 vom 11. Januar 2023 E. 2; 6B_522/2021
+vom 6. September 2021 E. 1.1; Riedo ,
+in: Basler Kommentar Strafprozessordnung, 3. Auflage 2023, Art. 91 N 20a
+mit weiteren Hinweisen). Die Frist gilt auch dann als gewahrt, wenn die Eingabe
+spätestens am letzten Tag der Frist bei einer nicht zuständigen schweizerischen
+Behörde eingeht (Art. 91 Abs. 4 StPO).
+
+Allfällige
+Säumnisfolgen bei Fristen können unter Umständen mit der Wiederherstellung
+gemäss Art. 94 StPO behoben werden. Hat eine Partei eine Frist
+versäumt und würde ihr daraus ein erheblicher und unersetzlicher Rechtsverlust
+erwachsen, so kann sie die Wiederherstellung der Frist verlangen; dabei hat sie
+glaubhaft zu machen, dass sie an der Säumnis kein Verschulden trifft (Art. 94
+Abs. 1 StPO). Das Gesuch ist innert 30 Tagen nach Wegfall des Säumnisgrundes
+schriftlich und begründet bei der Behörde zu stellen, bei welcher die versäumte
+Verfahrenshandlung hätte vorgenommen werden sollen. Innert der gleichen Frist
+muss die versäumte Verfahrenshandlung nachgeholt werden (Art. 94 Abs. 2 StPO).
+An ein Wiederherstellungsgesuch sind keine allzu strengen formellen
+Anforderungen zu stellen. Wird in einer verspäteten Laieneingabe die Verspätung
+begründet, ist damit unausgesprochen ein Gesuch um Wiederherstellung gestellt
+(BGE 142 IV 201 E. 2.4; m.w.H. Riedo, a.a.O., Art. 94 N 9).
+
+2.2 Der
+Strafbefehl vom 19. Mai 2023 wurde dem Beschwerdeführer am 23. Mai 2025
+zugestellt (Sendungsverfolgung, Akten der Vorinstanz, S. 50). Die 10-tägige
+Einsprachefrist endete folglich am 2. Juni 2025. Damit ist die am 18.
+Juni 2025 bei der Schweizerischen Post eingegangene Einsprache des
+Beschwerdeführers verspätet, sodass darauf nicht eingetreten werden kann (siehe
+Sendungsverfolgung, Akten der Vorinstanz, Akten S. 60). Daran ändern auch
+die Vorbringen des Beschwerdeführers nichts: In seiner Beschwerdeschrift führt
+er aus, dass er seine Ehefrau am 2. Juni 2025 damit beauftragt habe, seine
+Einsprache noch am selben Tag bei der Post abzugeben. Auf dem Weg zur Post sei
+seine Ehefrau gestürzt und habe sich an der Schulter verletzt, weswegen es ihr
+nicht mehr möglich gewesen sei, die Einsprache bei der Post einzureichen. Die
+Ehefrau des Beschwerdeführers habe ihn erst einige Tage später darüber
+informiert, dass sie die Eingabe aufgrund des Unfalles nicht bei der Post habe einreichen
+können (Beschwerde, Akten S. 03 f.). Unabhängig davon ist jedoch nicht
+der Zeitpunkt der Postaufgabe bei einer ausländischen Poststelle fristwahrend,
+sondern die Empfangnahme der Eingabe bei der Schweizerischen Post (Art. 91
+Abs. 2 StPO, vgl. oben, E. 2.1). Somit wäre die Einsprache auch dann
+verspätet erfolgt, wenn diese tatsächlich am 2. Juni 2025 bei der französischen
+Post aufgegeben worden wäre.
+
+Soweit der
+Beschwerdeführer vorbringt, er habe erst am 2. Juni 2025 Kenntnis vom
+Strafbefehl genommen, weil seine Ehefrau diesen entgegengenommen habe, ist ihm
+entgegenzuhalten, dass eine Zustellung als erfolgt gilt, wenn sie von einer im
+gleichen Haushalt lebenden Person entgegengenommen wird (Art. 85 Abs. 3
+StPO).
+
+Allenfalls
+könnte die Eingabe des Beschwerdeführers auch als Fristwiederherstellungsgesuch
+im Sinne von Art. 94 StPO entgegengenommen werden. Dieses müsste jedoch spätestens
+30 Tage nach Wegfall des Säumnisgrundes schriftlich und begründet bei der
+Behörde gestellt werden, bei welcher die versäumte Verfahrenshandlung hätte
+vorgenommen werden sollen (vorliegend also bei der Staatsanwaltschaft
+Basel-Stadt, siehe Art. 94 Abs. 2 StPO). Der Beschwerdeführer hat
+seine Eingabe am 4. Juli 2025 der Schweizerischen Post übergeben
+(Beschwerde, Akten S. 3 und 11). Daraus geht jedoch nicht klar hervor, an welchem
+Tag der Säumnisgrund weggefallen ist. Der Beschwerdeführer führt aus, dass er
+erst «quelques jours» später erfahren habe, dass seine Frau die Einsprache nicht
+bei der Post abgegeben habe (Beschwerde, Akten S. 3). Diese Frage kann
+jedoch offen bleiben, da ein Wiederherstellungsgesuch ohnehin abzuweisen
+gewesen wäre. Der Beschwerdeführer konnte durch seine Ausführungen nicht
+glaubhaft vorbringen, dass ihn am Säumnis kein Verschulden trifft. Seinen
+Ausführungen nach war ihm bewusst, dass seine Ehefrau die Post jeweils auf dem
+Schreibtisch stapelte. Ebenso war ihm bekannt, dass ein Verfahren gegen ihn
+eröffnet worden war und er folglich Post aus der Schweiz erhalten würde. Es lag
+in seiner Verantwortung, seine Post regelmässig zu kontrollieren. Die
+Beschwerde ist somit abzuweisen.
+
+3.
+
+Bei diesem
+Ausgang des Verfahrens hätte der Beschwerdeführer gemäss Art. 428
+Abs. 1 StPO dessen ordentliche Kosten zu tragen. Vorliegend ist jedoch
+umständehalber auf die Erhebung einer Gebühr zu verzichten (§ 40 Abs. 1 des
+Gerichtsgebührenreglements [GGR, SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Einzelgericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Für das Beschwerdeverfahren werden keine Kosten
+erhoben.
+
+Mitteilung an:
+
+- Beschwerdeführer (Dispositiv und Rechtsmittelbelehrung auch in
+französischer Sprache)
+
+- Strafgericht Basel-Stadt
+
+- Staatsanwaltschaft Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Präsident                                                            Die
+a.o. Gerichtsschreiberin
+
+lic. iur.
+Christian Hoenen                                         MLaw Nujin Ak
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
