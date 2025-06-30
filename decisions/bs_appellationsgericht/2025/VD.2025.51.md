@@ -1,0 +1,507 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.407"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "VD"
+docket: "VD.2025.51"
+docket_2: "AG.2025.407"
+decided: "2025-06-30"
+published: "2025-12-04"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78603&W10_KEY=3048456&nTrefferzeile=90&Template=search_result_document.html"
+cites_decisions: ["2C_113/2023", "2C_187/2016", "2C_27/2023", "2C_348/2016", "2C_423/2018", "2C_449/2019", "2C_473/2023", "2C_547/2014", "2C_582/2020", "2C_665/2017", "2C_692/2021", "2C_904/2018", "2C_909/2019", "2C_934/2021", "2C_950/2017", "BGE 122 II 1", "BGE 135 I 143", "BGE 135 I 153", "BGE 137 I 284", "BGE 139 I 315", "BGE 143 I 21", "BGE 144 I 266", "BGE 144 I 91", "VD.2016.169", "VD.2016.66", "VD.2017.220", "VD.2018.140", "VD.2019.201", "VD.2019.214", "VD.2019.236", "VD.2020.259", "VD.2020.54", "VD.2020.75", "VD.2020.92", "VD.2021.269", "VD.2021.95", "VD.2022.2", "VD.2023.170", "VD.2025.51"]
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-011.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# Gesuch um Erteilung einer Aufenthaltsbewilligung im umgekehrten Familiennachzug
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+VD.2025.51
+
+URTEIL
+
+vom 30. Juni 2025
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, lic. iur.
+André Equey, Dr. Andreas Traub
+
+und Gerichtsschreiberin
+MLaw Marion Wüthrich
+
+Beteiligte
+
+A____ Rekurrent
+
+[...]
+
+vertreten durch lic. iur. Oliver Borer,
+Advokat,
+
+Blumenrain 20, Postfach 112,
+4001 Basel
+
+gegen
+
+Bereich Bevölkerungsdienste
+und Migration
+
+Migrationsamt
+
+Spiegelgasse 12, 4051 Basel
+
+Gegenstand
+
+Rekurs gegen einen Entscheid
+des Justiz- und Sicherheitsdepartements
+
+vom 13. Dezember 2024
+
+betreffend Gesuch um Erteilung
+einer Aufenthaltsbewilligung im umge-
+
+kehrten Familiennachzug
+
+Sachverhalt
+
+Der gambische Staatsangehörige A____ (nachfolgend: Rekurrent),
+geboren am [...] 1983, reiste am 12. September 2010 in die Schweiz ein und
+stellte ein Asylgesuch, das abgelehnt wurde. Am 23. September 2010 wurde seine
+Wegweisung verfügt. In der Folge wurde er mit den Strafbefehlen vom 12. August
+2011, 29. April 2013 und 21. September 2014 wegen Widerhandlungen gegen
+das Ausländergesetz sowie Übertretungen des Betäubungsmittelgesetzes zu
+Freiheitsstrafen zwischen 75 und 90 Tagen verurteilt.
+
+Ab dem Frühjahr 2014 lebte der Rekurrent mit einer
+schweizerischen Staatsangehörigen und deren Tochter zusammen. Am [...] 2015 kam
+die gemeinsame Tochter B____ zur Welt. Der Rekurrent und die Kindsmutter
+heirateten am 26. Oktober 2015, woraufhin der Rekurrent am 30. Oktober 2015
+eine Aufenthaltsbewilligung zum Verbleib bei seiner Ehefrau erhielt. Am 6.
+Februar 2017 bewilligte das Zivilgericht Basel-Stadt das Getrenntleben der
+Ehegatten. Die Scheidung erfolgte am 23. September 2019. B____ wurde unter die
+gemeinsame elterliche Sorge der Eltern gestellt und die Obhut der Mutter
+zugewiesen. Auf eine Regelung des
+Besuchsrechts wurde vorläufig verzichtet und der Rekurrent verpflichtet, monatliche
+Kinderunterhaltsbeiträge in der Höhe von CHF 200., zuzüglich allfälliger
+Kinderzulagen, zu bezahlen.
+
+Mit Entscheid vom
+13. Februar 2018 verfügte das Migrationsamt des Bereichs Bevölkerungsdienste
+und Migration (nachfolgend: Bereich BdM) die Nichtverlängerung der
+Aufenthaltsbewilligung des Rekurrenten und wies ihn aus der Schweiz weg. Dieser
+Entscheid wurde vom Justiz- und Sicherheitsdepartements Basel-Stadt (nachfolgend: JSD) am 5. August 2019
+bestätigt. Ebenso blieben der Rekurs beim Appellationsgericht Basel-Stadt als
+Verwaltungsgericht (VGE VD.2019.214 vom 23. Mai 2020) sowie die Beschwerde beim
+Bundesgericht ohne Erfolg (BGer 2C_582/2020 vom 10. Dezember 2020). Die vom Rekurrenten erhobene Beschwerde
+an den Europäischen Gerichtshof für Menschenrechte wurde von diesem für
+unzulässig erklärt.
+
+Der ihm gesetzten Ausreisefrist kam der Rekurrent nicht nach und
+stellte am 5. November 2021 beim Bereich BdM ein Gesuch um Erteilung einer
+Aufenthaltsbewilligung im Rahmen des umgekehrten Familiennachzugs zum Verbleib
+bei seiner Tochter. Nach diversen Abklärungen und Gewährung des rechtlichen
+Gehörs wies der Bereich BdM das Gesuch mit Verfügung vom 10. August 2023 kostenfällig
+ab. Den dagegen erhobenen Rekurs wies das JSD mit Entscheid vom 13. Dezember
+2024 ab, ohne Kosten zu erheben.
+
+Gegen diesen Entscheid richtet sich der am 19. Dezember 2024
+angemeldete und am 26. Februar 2025 begründete Rekurs an das Verwaltungsgericht,
+mit dem der Rekurrent die kosten- und entschädigungsfällige Aufhebung des
+Entscheids des JSD vom 13. Dezember 2024 und die Erteilung einer
+Aufenthaltsbewilligung verlangt. Zudem beantragt er die Gewährung der unentgeltlichen
+Rechtspflege, welche der Instruktionsrichter mit Verfügung vom 31. März 2025 ablehnte
+und dem Rekurrenten Frist zur Leistung eines Kostenvorschusses von CHF 1'200.
+setzte. Nach Eingang des verfügten Kostenvorschusses verzichtete der
+Instruktionsrichter mit Verfügung vom 14. April 2025 auf die Einholung einer
+Vernehmlassung und zog die Vorakten bei. Die weiteren Tatsachen und die
+Einzelheiten der Parteistandpunkte ergeben sich, soweit sie für das vorliegende
+Urteil von Bedeutung sind, aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Die Zuständigkeit des Verwaltungsgerichts zur
+Beurteilung des vorliegenden Rekurses ergibt sich aus dem Überweisungsschreiben
+des Regierungspräsidenten vom 28. März 2025 sowie aus § 42 des
+Organisationsgesetzes (OG, SG 153.100) in Verbindung mit § 12 des
+Verwaltungsrechtspflegegesetzes (VRPG, SG 270.100). Zum Entscheid ist nach § 92
+Abs. 1 Ziff. 11 des Gerichtsorganisationsgesetzes (GOG, SG 154.100) das
+Dreiergericht berufen. Für das Verfahren gelten die Bestimmungen des VRPG. Der
+Rekurrent ist als Adressat des angefochtenen Entscheids von diesem unmittelbar
+berührt und hat ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung.
+Er ist somit gemäss § 13 Abs. 1 VRPG zum Rekurs legitimiert. Der vorliegende
+Rekurs wurde den Voraussetzungen von § 46 Abs. 1 OG und § 16 Abs. 2 VRPG
+entsprechend rechtzeitig angemeldet und begründet. Auf den Rekurs ist
+einzutreten.
+
+1.2 Die Kognition des Verwaltungsgerichts richtet
+sich nach der allgemeinen Vorschrift von § 8 VRPG. Demnach hat es zu prüfen, ob
+die Vorinstanz den Sachverhalt unrichtig festgestellt, wesentliche Form- oder
+Verfahrensvorschriften verletzt, öffentliches Recht nicht oder nicht richtig
+angewendet oder von dem ihr zustehenden Ermessen einen unzulässigen Gebrauch
+gemacht hat. Darüber hinaus ist das Verwaltungsgericht mangels einer
+entsprechenden gesetzlichen Vorschrift im Ausländerrecht nicht befugt, über die
+Angemessenheit der angefochtenen Verfügung zu entscheiden und damit im Ergebnis
+sein eigenes Ermessen an Stelle desjenigen der zuständigen Verwaltungsbehörde
+zu setzen (vgl. statt vieler VGE VD.2020.75 vom 15. Oktober 2020 E. 1.2.1).
+Art. 110 des Bundesgerichtsgesetzes (BGG, SR 173.110) schreibt den Kantonen in
+Konkretisierung der Rechtsweggarantie gemäss Art. 29a der Bundesverfassung (BV,
+SR 101) vor, dass die unmittelbaren Vorinstanzen des Bundesgerichts oder eine
+vorgängig zuständige andere richterliche Behörde den Sachverhalt frei prüft.
+Daraus folgt, dass im verwaltungsgerichtlichen Verfahren von Bundesrechts wegen
+auch neue Tatsachen und Beweismittel unterbreitet werden können (VGE
+VD.2021.269 vom 9. August 2022 E. 1.4, VD.2022.2 vom 21. Juli 2022 E. 1.3).
+
+1.3 Im verwaltungsgerichtlichen Rekursverfahren
+gilt das Rügeprinzip. Das Gericht prüft einen angefochtenen Entscheid gestützt
+auf die Begründungsobliegenheit gemäss § 16 Abs. 2 Satz 1 VRPG nicht von sich
+aus unter allen in Frage kommenden Aspekten, sondern untersucht nur die
+rechtzeitig vorgebrachten konkreten Beanstandungen. Die rekurrierende Person
+hat ihren Standpunkt substantiiert vorzutragen und sich mit den Erwägungen im
+angefochtenen Entscheid auseinanderzusetzen (VGE VD.2018.140 vom 8. Mai 2019 E.
+1.3, VD.2016.66 vom 20. Juni 2016 E. 1.3 ;
+Wullschleger/Schröder , Praktische Fragen des Verwaltungsprozesses im
+Kanton Basel-Stadt, in: BJM 2005 S. 277, 305 ;
+Stamm , Die Verwaltungsgerichtsbarkeit, in: Buser [Hrsg.], Neues Handbuch
+des Staats- und Verwaltungsrechts des Kantons Basel-Stadt, Basel 2008, S. 477,
+504). Diese Grundsätze gelten sinngemäss auch für das verwaltungsinterne
+Rekursverfahren vor dem Regierungsrat (vgl. § 46 Abs. 2 OG; VGE VD.2020.54 vom
+15. Januar 2021 E. 3.4).
+
+2.
+
+Der Rekurrent hält sich nach seiner rechtskräftigen
+Wegweisung weiterhin in der Schweiz auf (vgl. BGer 2C_582/2020 vom 10. Dezember
+2020). Zu prüfen ist, ob er aus der Beziehung zu seiner minderjährigen Schweizer
+Tochter ein Anwesenheitsrecht in der Schweiz ableiten kann.
+
+2.1 In Betracht kommt einzig ein Anspruch auf
+eine Aufenthaltsbewilligung gestützt auf das Recht auf Familienleben gemäss
+Art. 8 Abs. 1 der Europäischen Menschenrechtskonvention (EMRK,
+SR 0.101) bzw. Art. 13 Abs. 1 der Bundesverfassung (BV,
+SR 101) zur Einreise und zum Verbleib beim Schweizer Kind («umgekehrter
+Familiennachzug»; vgl. BGE 135 I 143 E. 1.3.1 f.).
+
+2.1.1 Nach Art. 8 Ziff. 1
+EMRK und Art. 13 Abs. 1 BV hat jede Person ein Recht auf Achtung ihres
+Privat- und Familienlebens. Art. 8 EMRK und Art.
+13 BV vermitteln jedoch keinen absoluten Anspruch an Familienmitglieder auf
+Einreise und Aufenthalt in der Schweiz und kein Recht auf Wahl des
+Familiendomizils (vgl. BGE 137 I 284 E. 2.1;
+BGer 2C_ 473/2023 vom 21. Februar 2024 E. 5.1, 2C_692/2021 vom 23. Mai 2022 E. 5.2
+mit Hinweisen). Das in Art. 8 EMRK und Art. 13 BV geschützte Recht auf
+Achtung des Familienlebens kann jedoch berührt sein, wenn eine staatliche
+Entfernungs- oder Fernhaltemassnahme eine nahe, echte und tatsächlich gelebte
+familiäre Beziehung einer in der Schweiz gefestigt anwesenheitsberechtigten
+Person beeinträchtigt, ohne dass es dieser ohne Weiteres möglich beziehungsweise
+zumutbar wäre, das entsprechende Familienleben andernorts zu pflegen (vgl. BGE 144 I 266 E. 3.3; 144 II 1 E. 6.1;
+BGer 2C_ 473/2023 vom 21. Februar 2024 E. 5.1, 2C_348/2016 vom 17. März
+2017 E. 3.1, mit Hinweisen; VGE VD.202.259 vom 5. März 2021 E. 5.2.1). Der
+Anspruch auf Achtung des Familienlebens nach Art. 8 Ziff. 1 EMRK gilt
+nicht absolut, sondern kann eingeschränkt werden, falls dies gesetzlich
+vorgesehen ist, einem legitimen Zweck entspricht und zu dessen Realisierung in
+einer demokratischen Gesellschaft notwendig erscheint (Art. 8 Ziff. 2 EMRK). Die
+Konvention und die Verfassung verlangen diesfalls, dass die individuellen
+Interessen an der Erteilung beziehungsweise am Erhalt des Anwesenheitsrechts
+und die öffentlichen Interessen an dessen Verweigerung gegeneinander abgewogen
+werden (vgl. Art. 8 Ziff. 2 EMRK; Art. 36 BV; BGE 143 I 21 E.
+5.1; 142 II 35 E.
+6.1; 139 I 330 E. 2.2;
+BGer 2C_ 473/2023 vom 21. Februar 2024 E. 5.1, 2C_348/2016 vom 17. März
+2017 E. 3.1, mit Hinweis auf BGE 135 I 153 E. 2.2.1, BGE 135 I 143 E.
+2.1; BGE 122 II 1 E. 2; BGE 116 Ib 353 E.
+3). Die Kindesinteressen fliessen in diese umfassende Interessenabwägung ein.
+Neben dem Kindeswohl (Art. 11 BV und Art. 3 des Übereinkommens über die Rechte
+des Kindes [Kinderrechtskonvention, KRK, SR 0.107]) ist auch Art. 9 KRK zu
+beachten, der dem Kind das Recht gibt, regelmässige persönliche Beziehungen und
+Kontakte zu beiden Elternteilen zu pflegen (vgl. Schmucki/Raveane/Büchler , in: Uebersax et al.
+[Hrsg.], a.a.O., Rz.25.136 ). Die Kinderrechtskonvention vermag aber
+praxisgemäss keine über die Garantien von Art. 8 EMRK hinausgehenden,
+eigenständigen Rechtsansprüche zu begründen ( BGE 143 I 21 E.
+5.5.2; 139 I 315 E. 2.4;
+BGer 2C_909/2019 vom 7. April 2020 E. 4.8).
+
+2.1.2 Der
+nicht sorge- bzw. nicht hauptsächlich betreuungsberechtigte ausländische
+Elternteil kann die familiäre Beziehung mit seinem Kind in der Regel ohnehin
+nur in beschränktem Rahmen pflegen, nämlich durch die Ausübung des ihm
+eingeräumten Rechts auf angemessenen persönlichen Verkehr und der
+damit verbundenen Betreuungsanteile (d. h. des «Besuchsrechts» im
+Sinn von Art. 273 Abs. 1 des Zivilgesetzbuchs [ZGB, SR 210]). Um
+dieses wahrnehmen zu können, ist es in der Regel nicht erforderlich, dass der
+ausländische Elternteil dauerhaft im selben Land wie das Kind lebt und dort
+über ein Anwesenheitsrecht verfügt. Unter dem Gesichtspunkt des Anspruchs
+auf Achtung des Familienlebens gemäss Art. 8 Ziff. 1 EMRK und
+Art. 13 Abs. 1 BV genügt es
+grundsätzlich, wenn das Besuchsrecht im Rahmen von Kurzaufenthalten vom Ausland
+her wahrgenommen werden kann, wobei allenfalls die Modalitäten des Besuchsrechts
+entsprechend auszugestalten sind (zum Ganzen BGE 144 I 91 E. 5.1, 143
+I 21 E. 5.3, 139 I 315 E. 2.2, je mit weiteren
+Hinweisen; BGer 2C_ 473/2023 vom 21. Februar 2024 E. 5.1, 2C_423/2018 vom 18. Oktober 2018 E. 2.1; VGE VD.2020.259 vom 5. März 2021 E. 5.2.2, VD.2020.92
+vom 2. Dezember 2020 E. 6.2.2.2, VD.2019.236 vom 7. Juni 2020 E. 5.2.3,
+VD.2017.220 vom 4. Dezember 2017 E. 2.2.3, VD.2016.169 vom
+23. Juli 2017 E. 2.3.2 ).
+
+2.1.3 Wenn
+die Beziehung zwischen einem nicht sorge- bzw. hauptsächlich
+betreuungsberechtigten ausländischen Elternteil und einem in der Schweiz
+gefestigt anwesenheitsberechtigten Kind zu beurteilen ist und der Aufenthalt
+des Kindes nicht von demjenigen dieses Elternteils abhängt, kommt ein Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung
+gemäss der Rechtsprechung grundsätzlich nur dann in Betracht, wenn zwischen dem
+Ausländer und dessen Kind in wirtschaftlicher und affektiver Hinsicht eine besonders
+enge Beziehung besteht, die wegen der Distanz zwischen der Schweiz und dem
+Land, in das der Ausländer vermutlich auszureisen hätte, praktisch nicht
+aufrechterhalten werden könnte, und sich der Ausländer bisher in der Schweiz
+tadellos verhalten bzw. zu keinerlei (nennenswerten) Klagen Anlass gegeben hat
+(VGE VD.2023.170 vom 30. Juni 2024 E. 5.3.1.2, VD.2021.95 vom 26. Oktober 2021 E. 5.3.4, VD.2020.259
+vom 5. März 2021 E. 5.2.3, VD.2020.92 vom 2. Dezember 2020 E. 6.2.2.3, je mit
+Nachweisen; vgl. BGE 144 I 91 E. 5.2.1 f., 142 II 35 E. 6.2, 139 I
+315 E. 2.2; BGer 2C_473/2023 vom 21. Februar 2024 E. 5.3, 2C_423/2018 vom 18. Oktober 2018 E. 2.1, 2C_187/2016 vom 12.
+April 2017 E. 5.2.1).
+
+Gemäss
+der aktuellen bundesgerichtlichen Rechtsprechung müssen die vorstehend
+erwähnten vier Voraussetzungen (besonders enge Beziehung in [1]
+wirtschaftlicher und [2] affektiver Hinsicht, [3] praktische Unmöglichkeit, die
+Beziehung aufrecht zu erhalten, und [4] tadelloses Verhalten) grundsätzlich als
+Elemente der gesamthaft vorzunehmenden Interessenabwägung zusammen betrachtet
+werden (VGE VD.2023.170 vom 30. Juni 2024 E. 5.3.1.3, VD.2020.92 vom 2.
+Dezember 2020 E. 6.2.2.4, VD.2019.236 vom 7. Juni 2020 E. 5.2.5,
+VD.2019.201 vom 9. Dezember 2019 E. 3.2.3.3; vgl. BGE 144 I 91
+E. 5.2; BGer 2C_950/2017 vom 16. Mai 2018 E. 3.2, 2C_904/2018
+vom 24. April 2019 E. 5.3.2, 2C_665/2017 vom 9. Januar 2018
+E. 4.2-4.4). Damit dürfte grundsätzlich keines der vier erwähnten Elemente
+eine zwingende Voraussetzung für einen Anspruch auf Erteilung und Verlängerung
+der Aufenthaltsbewilligung darstellen. Dies ändert aber nichts daran, dass bei
+Nichterfüllung einer oder mehrerer der vorstehend erwähnten vier
+Voraussetzungen die Interessen an der Erteilung der Bewilligung die
+entgegenstehenden öffentlichen Interessen nur unter besonderen Umständen
+überwiegen können. Zudem brauchen nicht alle vier Kriterien geprüft zu werden,
+wenn bereits aufgrund eines Teils davon feststeht, dass die öffentlichen
+Interessen an der Verweigerung der Bewilligung die Interessen an deren
+Erteilung überwiegen (VGE VD.2023.170 vom 30. Juni 2024 E. 5.3.1.3, VD.2020.259 vom 5. März 2021 E. 5.2.3, VD.2020.92
+vom 2. Dezember 2020 E. 6.2.2.4, VD.2019.236 vom 7. Juni 2020 E.  5.2.5,
+VD.2019.201 vom 9. Dezember 2019 E. 3.2.3.3; vgl. BGer 2C_449/2019 vom
+12. September 2019 E. 4.3, 2C_904/2018 vom 24. April 2019
+E. 5, 2C_950/2017 vom 16. Mai 2018 E. 4).
+
+2.1.4 Beim
+Erfordernis der besonderen Intensität der affektiven Beziehung unterscheidet das
+Bundesgericht danach, ob die Verlängerung oder die erstmalige Erteilung einer
+Aufenthaltsbewilligung infrage steht. Bei einem nicht sorge- bzw. hauptsächlich
+betreuungsberechtigten ausländischen Elternteil eines hier
+aufenthaltsberechtigten Kindes, der aufgrund einer inzwischen aufgelösten
+ehelichen Gemeinschaft mit einer Person schweizerischer Staatsangehörigkeit
+oder mit Niederlassungsbewilligung bereits eine Aufenthaltsbewilligung für die
+Schweiz besass, ist das Erfordernis der besonderen Intensität der affektiven
+Beziehung bereits dann als erfüllt anzusehen, wenn der persönliche Kontakt im
+Rahmen eines nach aktuellem Massstab üblichen Besuchsrechts kontinuierlich und
+reibungslos ausgeübt wird. Bei Ausländerinnen und Ausländern, welche erstmals
+um die Erteilung einer Aufenthaltsbewilligung ersuchen, wird dagegen eine
+besonders qualifizierte Beziehung zum hier lebenden Kind verlangt : Erforderlich
+ist in jenen Fällen ein grosszügig
+ausgestaltetes Besuchsrecht, wobei «grosszügig» im Sinne von «deutlich
+mehr als üblich» zu verstehen ist. In jedem Fall kommt es darauf an, dass das
+Besuchsrecht kontinuierlich und reibungslos ausgeübt wird. Massgebend
+ist das tatsächlich ausgeübte Besuchsrecht im Zeitpunkt des Urteils des
+Verwaltungsgerichts ( BGE 139 I 315 E. 2.5, BGer 2C_473/2023
+vom 21. Februar 2024 E. 5.3, 2C_113/2023 vom 27. September 2023 E. 5.7.3 ;
+vgl. VGE VD.2023.170 vom 30. Juni 2024 E. 5.3.1.5, VD.2020.92 vom
+2. Dezember 2020 E. 6.2.2.6, je mit Nachweisen ). Üblich
+im Sinn dieser Rechtsprechung ist nach der neuesten Praxis des Bundesgerichts
+ein Besuchsrecht, das jedes zweite Wochenende von Freitag bis Sonntag und die
+Hälfte der 13 Wochen Schulferien umfasst (BGer 2C_27/2023 vom 21. März 2025 E.
+4.3.1, 2C_473/2023 vom 21. Februar 2024 E. 5.3, 2C_113/2023 vom
+27. September 2023 E. 5.7.3). Gemäss der bisherigen Rechtsprechung des
+Verwaltungsgerichts genügte bei Kleinkindern ein Besuchsrecht von einem Tag
+oder zwei halben Tagen pro Monat und bei Schulkindern ein solches von zwei
+Wochenenden pro Monat und zwei bis drei Ferienwochen zuzüglich Regeln für die
+Doppelfeiertage (VGE VD.2023.170 vom 30. Juni 2024 E. 5.3.1.5, VD.2020.259 vom
+5. März 2021 E. 5.2.4 mit Nachweisen, VD.2020.92 vom 2. Dezember 2020
+E. 6.2.2.6 mit Nachweisen).
+
+2.2 Was die Vorinstanz in Berücksichtigung dieser
+rechtlichen Ausgangslage erwog, ist nicht zu beanstanden.
+
+2.2.1 Sie hielt zunächst fest, dass der Bereich BdM gestützt
+auf die Angaben des Rekurrenten sowie ein Schreiben der Kindsmutter in seiner
+Verfügung vom 10. August 2023 noch von einer genügenden affektiven Beziehung
+zwischen dem Rekurrenten und seiner Tochter ausgegangen sei (angefochtener
+Entscheid E. 7; vgl. auch Verfügung Bereich BdM vom 10. August 2023 E. 3.2,
+act. 7 S. 691). Die
+aufgrund entsprechender Hinweise erfolgte amtliche Erkundigung bei der Kindes-
+und Erwachsenenschutzbehörde Basel-Stadt (KESB; nachfolgend Kindesschutzbehörde)
+habe dabei ergeben, dass sich der Rekurrent Anfang April 2024 über die
+Anlaufstelle Sans Papier ebenfalls an die Kindesschutzbehörde gewandt habe, um
+Unterstützung im Hinblick auf eine Wiederaufnahme von persönlichen Kontakten zu
+seiner Tochter zu erhalten. Von B____ seien Kontakte zum Vater abgelehnt worden.
+Die Kindsmutter habe die «Aufgleisung» von persönlichen Kontakten zwischen
+Vater und Tochter in begleiteter Form aber befürwortet. Im Rahmen der durch die
+Kindesschutzbehörde in der Folge angeordneten Beratung sei am 22. Juni 2024 eine
+Elternvereinbarung aufgesetzt worden. Aus dieser gehe hervor, dass Besuche
+zwischen dem Rekurrenten und seiner Tochter nur in Begleitung am Sonntag
+stattfänden. Der erste Besuch sei am 18. August 2024 geplant gewesen, danach
+alle zwei Wochen, sofern dies für B____ möglich sei. Seit anfangs Juni 2024
+fänden wöchentliche Telefonkontakte statt. Diese seien zeitlich flexibel,
+jedoch maximal bis 20 Uhr. Ein Videoanruf sei möglich, sofern dies von B____ auch gewünscht sei (vgl. angefochtener
+Entscheid E. 7, vgl. auch Elternvereinbarung, act. 7 S. 131; Stellungnahme KESB
+vom 16. September 2024, act. 7 S. 130).
+
+Das vom Rekurrenten gemäss der Elternvereinbarung ausgeübte
+Besuchsrecht an jedem zweiten Sonntag für ein paar Stunden entspricht damit offensichtlich
+keinem gerichtsüblichen Umfang und ist zudem noch ein begleiteter Kontakt. Wie
+mit instruktionsrichterlicher Verfügung bereits festgestellt wurde, wird vom Rekurrenten
+nicht geltend gemacht, dass sich sein Kontakt zur Tochter zwischenzeitlich
+intensiviert habe. Auch wenn im Schreiben der Besuchsbegleitung vom 6. Januar
+2025 eine gesunde, intakte und von Liebe und Vertrauen geprägte Beziehung
+zwischen Vater und Tochter festgestellt wurde, entspricht das vereinbarte
+Besuchsrecht nicht einem üblichen Besuchskontakt (act. 5/2). Dies gilt umso mehr,
+als von einer Ablösung der Begleitung in der genannten Bestätigung keine Rede
+ist (vgl. Verfügung vom 31. März 2025). Von der Massgeblichkeit eines üblichen
+Besuchsrechts kann nur abgesehen werden, wenn ein ausländischer Elternteil
+einseitig an der Ausübung des Besuchsrechts gehindert wird, er sich aber
+korrekt verhält. Damit wird verhindert, dass der obhutsberechtigte Elternteil
+durch missbräuchliches Verhalten über den Aufenthaltsanspruch des
+besuchsberechtigten Elternteils gleichsam verfügen und die Fortführung der
+(engen affektiven) Beziehung zwischen Kind und ausländischem Elternteil gänzlich
+verunmöglichen kann (BGer 2C_473/2023 vom 21. Februar 2024 E. 5.4, 2C_547/2014
+vom 5. Januar 2015 E. 3.6.2, mit weiteren Hinweisen). Vorliegend bestehen jedoch
+keine Hinweise, dass die das übliche Mass unterschreitenden Vater-Kind-Kontakte
+auf ein obstruktives Verhalten der Mutter zurückzuführen wären (vgl.
+angefochtener Entscheid E. 8). Angesichts dieser Umstände durfte die Vorinstanz
+zu Recht schliessen, dass der Kontakt zwischen dem Rekurrenten und seiner
+Tochter nicht einem gerichtsüblichen Besuchsrecht entspricht und entsprechend
+eine enge affektive Beziehung zu verneinen ist (angefochtener Entscheid E. 8).
+
+Wie das Bundesgericht bereits in seinem Entscheid vom 10.
+Dezember 2020 betreffend die Nichtverlängerung der Aufenthaltsbewilligung und
+Wegweisung des Rekurrenten aus der Schweiz ausführte, gründe das Interesse des Rekurrenten
+am Verbleib in der Schweiz allein auf dem Interesse seiner Tochter, zusammen
+mit ihrem Vater aufzuwachsen. Im Hinblick auf das Kindeswohl sei jedoch zu
+beachten, dass die Tochter in ihrem vertrauten Umfeld bei ihrer Mutter bleiben
+und unter den hiesigen Lebensbedingungen aufwachsen könne. Obwohl das
+Bundesgericht im damaligen Zeitpunkt das Erfordernis der engen affektiven
+Beziehung zwischen dem Rekurrenten und seiner Tochter noch als erfüllt
+erachtete, gelangte es  insbesondere auch unter Berücksichtigung der
+wirtschaftlichen, sprachlichen und sozialen Integration des Rekurrenten  gesamthaft
+dennoch zum Schluss, dass zum massgeblichen Zeitpunkt des vorinstanzlichen
+Urteils keine wichtigen persönlichen Gründe vorgelegen hätten, die einen
+weiteren Aufenthalt des Rekurrenten in der Schweiz im Sinne der Rechtsprechung
+erforderlich gemacht hätten (BGer 2C_582/2020 vom 10. Dezember 2020 E. 4.5). Dies
+muss heute umso mehr gelten, nachdem mittlerweile auch die erforderliche Enge
+der affektiven Beziehung zu seiner in der Schweiz aufenthaltsberechtigten
+Tochter zu verneinen ist. Fehlt es bereits an der besonderen Intensität der
+affektiven Beziehung, überwiegen die öffentlichen Interessen an der
+Verweigerung der Bewilligung und brauchen die übrigen Kriterien nicht abschliessend
+beurteilt zu werden (vgl. oben E. 2.1.3).
+
+2.2.2 Im Übrigen ist auch eine hinreichend enge
+wirtschaftliche Verbundenheit zwischen dem Rekurrenten und seiner Tochter
+weiterhin nicht dargetan (vgl. bereits BGer 2C_582/2020 vom 10. Dezember 2020 E.
+4.4.2). Eine in wirtschaftlicher Hinsicht enge Beziehung liegt vor, wenn die
+gerichtlich angeordneten Unterhaltszahlungen im Rahmen des Möglichen und
+Zumutbaren entrichtet werden (BGer 2C_473/2023 vom 21. Februar 2024 E.
+5.3, 2C_904/2018 vom 24.April 2019 E. 4.2, mit Hinweis auf BGE 144 I 91 E.
+5.2.2). Vorliegend lässt sich daraus, dass der Rekurrent  unter dem Druck des vorinstanzlichen
+Verfahrens stehend  seit September 2024 monatliche Zahlungen in der Höhe von CHF
+100. bzw. im Dezember 2024 einmalig CHF 200. geleistet hat (vgl.
+Rekursbegründung Rz. 20), nichts Entscheidendes zu seinen Gunsten
+ableiten. Der Rekurrent hält sich seit seiner rechtskräftigen Wegweisung ohne
+Aufenthaltstitel in der Schweiz auf, weshalb er zurzeit über keine
+Arbeitsbewilligung verfügt. Es ist ihm aber auch während seines mehrjährigen
+Aufenthalts in der Schweiz und der unregelmässigen Arbeitseinsätze ab dem
+Frühjahr 2017 als Hilfsmonteur, Unterhaltsreiniger, Zügelhelfer, Reinigungs-,
+Betriebs- und Lagermitarbeiter sowie Hilfsarbeiter nicht gelungen, seinen
+Lebensunterhalt auf Dauer bestreiten können und sich wirtschaftlich zu
+integrieren (vgl. BGer 2C_582/2020 vom 10. Dezember 2020 E. 4.4.2 und 4.4.4). Angesichts
+der Fallgeschichte ist daher nicht von einer deutlichen und nachhaltigen
+Änderung seines Verhaltens auszugehen.
+
+2.2.3 Schliesslich
+fehlt es auch an einem einwandfreien Verhalten des Rekurrenten. Angesichts der
+eher weit zurückliegenden Straftaten von untergeordneter Bedeutung relativierte
+das Bundesgericht allerdings bereits in seinem Entscheid betreffend die
+Nichtverlängerung der Aufenthaltsbewilligung und Wegweisung aus der Schweiz diese
+Delikte und leitete aus dem diesbezüglichen Verhalten des Rekurrenten weder
+etwas zu seinen Gunsten noch etwas zu seinen Ungunsten ab (vgl. BGer 2C_582/2020
+vom 10. Dezember 2020 E. 4.4.3).
+
+2.2.4 Die
+Aufrechterhaltung der Beziehung zwischen dem Rekurrenten und seiner Tochter ist
+im Falle der Verweigerung einer Aufenthaltsbewilligung im Rahmen des umgekehrten
+Familiennachzugs zwar erschwert, aber nicht ausgeschlossen. Die Trennung wird
+für die heute fast 10-jährige Tochter zwar spürbar sein, da das Besuchsrecht
+noch weniger als bisher wird ausgeübt werden können. Allerdings umfasst das
+ begleitete  Besuchsrecht nur wenige Stunden jeden zweiten Sonntag.
+Es wird dem Rekurrenten aber zumutbar sein, seinen ohnehin eingeschränkten
+Kontakt mit der Tochter über die elektronischen Kommunikationsmittel oder durch
+Ferienbesuche aufrechtzuerhalten (BGer 2C_934/2021 vom 15. Februar 2022 E.
+4.6.3).
+
+2.2.5 Zusammenfassend überwiegen der Anspruch des
+Rekurrenten auf Kontakt mit seiner Tochter und derjenige seiner Tochter, mit
+beiden Elternteilen aufzuwachsen, das Interesse an der Kontrolle und Steuerung
+der Einwanderung nicht. Die Vorinstanz hat folglich zu Recht einen
+aus Art. 8 EMRK und Art. 13 BV fliessenden Anspruch auf eine
+Aufenthaltsbewilligung verneint.
+
+3.
+
+Der Rekurs erweist sich daher als unbegründet und ist
+abzuweisen. Bei diesem Ausgang des Verfahrens trägt der Rekurrent dessen Kosten
+mit einer Gebühr von CHF 1'200., einschliesslich Auslagen.
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Der Rekurs wird abgewiesen.
+
+Der Rekurrent trägt die Gerichtskosten des
+verwaltungsgerichtlichen Rekursverfahrens mit einer Gebühr von CHF 1'200.,
+einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Rekurrent
+
+- Justiz- und Sicherheitsdepartement Basel-Stadt
+
+- Regierungsrat Basel-Stadt
+
+- Staatsekretariat für Migration (SEM)
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Marion Wüthrich
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000 Lausanne 14)
+einzureichen. Für die Anforderungen an deren Inhalt wird auf Art. 42 BGG
+verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der Beschwerde in öffentlich-rechtlichen Angelegenheiten ein
+anderes Rechtsmittel in Frage kommt (z.B. die subsidiäre Verfassungsbeschwerde
+an das Bundesgericht gemäss Art. 113 BGG), ergibt sich aus den anwendbaren
+gesetzlichen Bestimmungen. Wird sowohl Beschwerde in öffentlich-rechtlichen
+Angelegenheiten als auch Verfassungsbeschwerde erhoben, sind beide Rechtsmittel
+in der gleichen Rechtsschrift einzureichen.
