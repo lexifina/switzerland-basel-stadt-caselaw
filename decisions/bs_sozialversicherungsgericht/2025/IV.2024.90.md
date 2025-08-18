@@ -1,0 +1,724 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2025.159"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2024.90"
+docket_2: "SVG.2025.159"
+decided: "2025-08-18"
+published: "2025-11-27"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78812&W10_KEY=3049204&nTrefferzeile=5&Template=search_result_document.html"
+cites_decisions: ["8C_115/2021", "8C_170/2021", "8C_202/2021", "8C_250/2022", "8C_442/2019", "8C_500/2013", "8C_52/2022", "8C_621/2023", "9C_15/2020", "9C_192/2014", "9C_477/2022", "BGE 112 V 371", "BGE 123 V 150", "BGE 125 V 351", "BGE 126 V 75", "BGE 129 V 472", "BGE 130 V 343", "BGE 132 V 393", "BGE 133 V 108", "BGE 134 V 131", "BGE 134 V 231", "BGE 134 V 64", "BGE 140 V 41", "BGE 141 V 281", "BGE 141 V 9", "BGE 143 V 409", "BGE 143 V 418", "BGE 144 V 201", "BGE 146 V 16", "BGE 150 V 410", "IV.2024.90"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-088bis.md"]
+---
+
+# Reduktion der Invalidenrente nach einer Begutachtung
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 18. August 2025
+
+Mitwirkende
+
+Dr. A. Pfleiderer
+(Vorsitz), Dr. med. F. W. Eymann, S. Schenker
+
+und
+Gerichtsschreiberin MLaw L. Marti
+
+Parteien
+
+A ____
+
+vertreten durch B____
+
+Beschwerdeführer
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2024.90
+
+Verfügung vom 27. August 2024
+
+Reduktion der Invalidenrente nach
+einer Begutachtung
+
+Tatsachen
+
+I.
+
+a) Der 1966 geborene Beschwerdeführer hat die italienische Staatsangehörigkeit,
+ein Diplom als Vermessungsingenieur aus Italien (vgl. Akte 4 der
+Eidgenössischen Invalidenversicherung [IV], S. 2 f.) sowie nach
+eigenen Angaben einen italienischen Abschluss als Bauzeichner (vgl. Lebenslauf,
+IV-Akte 42, S. 3). Gemäss seinem Lebenslauf war er seit 1987 als
+Animateur, Reiseführer und Kellner tätig (IV-Akte 42, S. 2). Seit
+Februar 2010 lebt er in der Schweiz (vgl. Anmeldung vom 7. Januar 2015,
+IV-Akte 2). Von November 2010 bis Dezember 2013 arbeitete er als
+Mitarbeiter in der Produktion für die Firma C____ AG (vgl. Arbeitszeugnis vom
+30. Januar 2014, IV-Akte 4, S. 1). Im Januar 2015 meldete er
+sich wegen eines Bronchialkarzinoms bei der Beschwerdegegnerin zum
+Leistungsbezug an (vgl. Anmeldung vom 7. Januar 2015, IV-Akte 2). Per
+1. Oktober 2015 trat der Beschwerdeführer eine neue Anstellung als
+Mitarbeiter im Aussendienst in einem Pensum von 50 % bei der D____ AG an
+(vgl. Arbeitsvertrag vom 21. September 2015; IV-Akte 21). Mit
+Vorbescheid vom 30. November 2015 und Verfügung vom 26. Februar 2016
+(IV-Akten 25 und 28) sprach die Beschwerdegegnerin dem Beschwerdeführer ab
+dem 1. Juli 2015 bis zum 30. November 2015 eine ganze Invalidenrente
+und ab dem 1. Dezember 2015 eine unbefristete halbe Invalidenrente zu.
+
+b) Mit Mitteilung vom 28. Dezember 2016 (IV-Akte 48) sprach die
+Beschwerdegegnerin dem Beschwerdeführer ein individuelles Coaching zu. Im Jahr
+2017 übernahm sie zudem die Kosten für eine Ausbildung für den berufsmässigen
+Personentransport (BPT-Ausbildung) im Sinne einer Frühinterventionsmassnahme
+(vgl. Mitteilung vom 29. Mai 2017, IV-Akte 55) und verlängerte das
+Coaching (Mitteilung vom 4. Juli 2017, IV-Akte 58). Mit Vorbescheid
+vom 13. November 2017 (IV-Akte 64) und Verfügung vom 16. Januar
+2018 (IV-Akte 67) schloss sie die Frühintervention nach dem Erfolgreichen
+Abschluss der BPT-Ausbildung ab und verneinte einen Anspruch auf
+Eingliederungsmassnahmen.
+
+c) Ab dem 8. Januar 2018 war der Beschwerdeführer als Chauffeur, in
+einem Pensum von 30 %, bei der E____ AG in [...], tätig (vgl. Anmeldung
+für Erwachsene, vom 19. März 2021, IV-Akte 74, S. 6, sowie
+Kündigungsschreiben vom 27. Januar 2020, IV-Akte Akte 80.69). Am
+31. Mai 2019 stürzte der Beschwerdeführer beim Inlineskaten und zog sich
+eine Humerusfraktur am linken Arm zu (vgl. Schadenmeldung UVG vom 19. Juni
+2019, IV-Akte 80.132, sowie z.B. Bericht der Orthopädie und Traumatologie
+des F____spitals [...] vom 4. Juni 2019, IV-Akte 80.138). Der
+Beschwerdeführer wurde bis zum 19. April unfallbedingt krankgeschrieben
+(vgl. z.B. ärztliche Zeugnisse des F____spitals [...] vom 11. Oktober 2019
+und vom 12. März 2020, IV-Akten 80.95 und 80.69, sowie Bericht von Prof.
+Dr. med. G____ der Orthopädie und Traumatologie des F____spitals [...] vom
+18. März 2020, IV-Akte 80.70). Die H____ erbrachte als obligatorische
+Unfallversicherung ein Taggeld und Heilungskosten (vgl. Schreiben vom
+24. Juni 2019, IV-Akte 80.130). Die E____ AG kündigte das
+Arbeitsverhältnis mit Schreiben vom 27. Januar 2020 per 31. März 2020
+(IV-Akte 80.69).
+
+d) Mit einem am 19. März 2021 unterschriebenen Formular «Anmeldung für
+Erwachsene: Berufliche Integration/Rente» wendete sich der Beschwerdeführer
+wegen seines Unfalls an die Beschwerdegegnerin (IV-Akte 74). Diese leitete
+in der Folge Abklärungen ein. Insbesondere veranlasste sie eine
+polydisziplinäre Begutachtung, welche via SuisseMED@P per Zufallsprinzip an die
+I____ (nachfolgend: Gutachterstelle I____) vergeben wurde (vgl. E-Mail vom
+10. September 2022, IV-Akte 101). Das Gutachten vom 9. Januar
+2023, wurde unter Beteiligung der Allgemeinen Inneren Medizin, der Psychiatrie
+und Psychotherapie, der Rheumatologie und der Pneumologie erstellt
+(IV-Akte 116). Die Gutachter schlossen darin im Wesentlichen auf eine verbesserte
+Arbeitsunfähigkeit des Beschwerdeführers von 40 % seit April 2020 (vgl.
+IV-Akte 116, S. 11). Nach Einholung einer ergänzenden Stellungnahme
+der Gutachter (vgl. IV-Akte 122), teilte die Beschwerdegegnerin dem
+Beschwerdeführer mit Vorbescheid vom 5. März 2024 mit, dass sie gedenke,
+seine Invalidenrente aufgrund eines Verbesserten Invaliditätsgrads von
+49 % zu reduzieren (IV-Akte 143). Dagegen erhob der Beschwerdeführer
+Einwand (vgl. die Schreiben vom 22. April 2024, vom 21. Mai 2024 und vom
+21. Juni 2024, IV-Akten 146, 149 und 152). Die Beschwerdegegnerin hielt
+mit Verfügung vom 27. August 2024 an ihrem Vorbescheid fest
+(IV-Akte 160).
+
+II.
+
+a) Mit Beschwerde vom 27. September 2024 beim
+Sozialversicherungsgericht Basel-Stadt wird beantragt, es sei die Verfügung der
+IV-Stelle Basel-Stadt vom 27. August 2024 aufzuheben und dem
+Beschwerdeführer mit Wirkung ab März 2021 eine ganze Invalidenrente
+zuzusprechen. In verfahrensrechtlicher Hinsicht wird beantragt, es sei dem
+Beschwerdeführer die unentgeltliche Prozessführung und Verbeiständung durch B____
+zu gewähren.
+
+b) Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom
+11. November 2024 (Postaufgabe 12. November 2024) auf Abweisung der
+Beschwerde.
+
+c) Mit Replik vom 20. Januar 2025 und Duplik vom 29. Januar 2025
+halten die Parteien an ihren im ersten Schriftenwechsel gestellten
+Rechtsbegehren fest.
+
+III.
+
+Mit Verfügung vom 31. Januar 2025 bewilligt die
+Instruktionsrichterin dem Beschwerdeführer die unentgeltliche Prozessführung
+und die unentgeltliche Vertretung durch B____.
+
+IV.
+
+Nachdem keine der Parteien die Durchführung einer
+Parteiverhandlung verlangt hat, findet am 20. März 2025 die
+Urteilsberatung durch die Kammer des Sozialversicherungsgerichts statt.
+
+V.
+
+Am 18. August 2025 ergeht das Urteil auf dem
+Zirkulationsweg (§ 11 Abs. 5 des kantonalen Sozialversicherungsgerichtsgesetzes
+vom 9. Mai 2001 [SVGG; SG 154.200]).
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt gemäss Art. 57 des
+Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des
+Sozialversicherungsrechts (ATSG; SR 830.1) in Verbindung mit § 82
+Abs. 1 des basel-städtischen Gerichtsorganisationsgesetzes vom
+3. Juni 2015 (GOG; SG 154.100) und § 1 Abs. 1 SVGG in
+sachlicher Hinsicht als einzige kantonale Instanz zur Beurteilung der
+vorliegenden Beschwerde zuständig. Die örtliche Zuständigkeit ergibt sich aus
+Art. 69 Abs. 1 lit. a des Bundesgesetzes vom 19. Juni 1959
+über die Invalidenversicherung (IVG; SR 831.20).
+
+1.2. Die Beschwerde wurde rechtzeitig erhoben (Art. 60 ATSG) und
+auch die übrigen formellen Beschwerdevoraussetzungen sind erfüllt. Infolgedessen
+ist auf die Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdegegnerin reduzierte die Invalidenrente des
+Beschwerdeführers per 1. Oktober 2024 von einer halben auf eine
+Viertelsrente. In medizinischer Hinsicht stellte sie dabei im Wesentlichen auf
+die Beurteilung der Gutachterstelle I____ ab (vgl. Gutachten vom 9. Januar
+2023 und Stellungnahme vom 15. März 2024, IV-Akten 116 und 122). Beim
+Einkommensvergleich nahm sie einen Abzug von 15 % vor. Eine Erhöhung des
+Abzugs verneint sie. Die verbleibende Restarbeitsfähigkeit des
+Beschwerdeführers erachtet sie als verwertbar.
+
+2.2. Der Beschwerdeführer macht geltend, der medizinische Sachverhalt sei
+nicht genügend abgeklärt. Zum einen hätten die Gutachter Erhöhung der
+Arbeitsfähigkeit zu Unrecht rückwirkend und aufgrund sogenannter üblicher
+adaptiver Prozesse angenommen. Zum andern gehe aus dem Gutachten selbst hervor,
+dass eine erneute Spiroergometrie notwendig sei, um die Arbeitsfähigkeit
+genauer abzuklären. Im Weiteren sei der beim Einkommensvergleich gewährte Abzug
+von 15 % vom statistischen Lohn ungenügend und müsse auf 20 % erhöht
+werden. Schliesslich sei die wirtschaftliche Verwertbarkeit einer
+Restarbeitsfähigkeit auszuschliessen. Die genannten Verweistätigkeiten wären
+allesamt in einem Arbeitsumfeld auszuüben, welches es gemäss pneumologischer
+Beurteilung zu vermeiden gelte, da sich respiratorische Infekte beim
+Beschwerdeführer gravierender auf sein Befinden auswirken würden. Auch das
+Vorhandensein von entsprechenden Nischenarbeitsplätzen zieht der
+Beschwerdeführer in Zweifel.
+
+2.3. Streitig ist, ob die Beschwerdegegnerin die Höhe des Rentenanspruchs
+des Beschwerdeführers korrekt festgelegt hat. Insbesondere ist zu prüfen, ob
+sie die Rente zu Recht per 1. Oktober 2024 von einer halben Rente auf eine
+Viertelsrente reduziert hat.
+
+3.
+
+3.1. Nach den allgemeinen intertemporalrechtlichen Grundsätzen sind der
+Beurteilung einer Sache jene Rechtsnormen zugrunde zu legen, die in Geltung
+standen, als sich der zu den materiellen Rechtsfolgen führende und somit
+rechtserhebliche Sachverhalt verwirklichte (vgl. BGE 144 V 201, 213
+E. 4.3.1, BGE 140 V 41, 44, E 6.3.1 mit Hinweisen
+sowie Urteil des Bundesgerichts 8C_250/2022 vom 8. November 2022
+E. 4.1. mit Hinweisen). Für Rentenbezüger und bezügerinnen, deren
+Rentenanspruch vor Inkrafttreten des revidierten IVG per 1. Januar 2022
+entstanden ist und die das 55. Altersjahr vor dem 1. Januar 2022
+vollendet haben gilt gemäss lit. c der Übergangsbestimmung zur Änderung
+(des IVG) vom 19. Juni 2020 (Weiterentwicklung der IV) «das bisherige
+Recht». Da diese Bestimmung auf den 1966 geborenen Beschwerdeführer zutrifft,
+sind vorliegend  unabhängig von der Frage, ob eine allfällige Veränderung vor
+oder nach dem 1. Januar 2022 eingetreten ist  die Bestimmungen des ATSG,
+des IVG und der Verordnung vom 17. Januar 1961 (IVV; SR 831.201) in der
+bis Ende 2021 geltenden Fassung anwendbar. Sie werden im Folgenden jeweils in
+dieser Version wiedergegeben, zitiert und angewendet.
+
+3.2. Eine versicherte Person hat Anspruch auf eine Invalidenrente, wenn
+sie einen Invaliditätsgrad im Sinne von Art. 28 Abs. 2 IVG aufweist.
+Ein Anspruch auf eine ganze Rente besteht, wenn sie zu mindestens 70 %
+invalid ist. Eine Dreiviertelsrente verlangt eine Invalidität von mindestens 60 %,
+eine halbe Rente, eine solche von mindestens 50 % und eine Viertelsrente eine
+von mindestens 40 %.
+
+3.3. Eine Rente wird von Amtes wegen oder
+auf Gesuch hin erhöht, herabgesetzt oder aufgehoben, wenn sich der
+Invaliditätsgrad einer versicherten Person erheblich verändert (Art. 17
+Abs. 1 ATSG). Anlass zur Rentenrevision gibt rechtsprechungsgemäss jede
+wesentliche Änderung in den tatsächlichen Verhältnissen, die geeignet ist, den
+Invaliditätsgrad und damit den Rentenanspruch zu beeinflussen, namentlich eine
+Veränderung des Gesundheitszustands (BGE 141 V 9, 10 f. E. 2.3, BGE 134 V
+131, 132 E. 3 und BGE 130 V 343, 349 f. E. 3.5 mit Hinweisen). Die
+bloss unterschiedliche Beurteilung eines im Wesentlichen unverändert
+gebliebenen Sachverhalts ist unerheblich ( BGE 141 V 9, 11 E. 2.3, BGE 115, V 308, 313 E. 4a/bb, BGE 112 V 371, 372
+E. 2b). Referenzzeitpunkt für die Prüfung einer Änderung ist die letzte
+rechtskräftige Verfügung, welche basierend auf einer materiellen Prüfung des
+Rentenanspruchs mit rechtskonformer Sachverhaltsabklärung, Beweiswürdigung und
+Durchführung eines Einkommensvergleichs beruht (BGE 134 V 131, 132 E. 3,
+BGE 133 V 108, 114 E. 5.4 sowie Urteile des Bundesgerichts sowie
+Urteil des Bundesgerichts 9C_477/2022 vom 18. Januar 2023 E. 2.2. mit
+Hinweisen ).
+
+3.4. Die IV-Stelle kann im Rahmen ihrer Abklärungspflicht (vgl.
+Art. 43 Abs. 1 ATGS) insbesondere medizinische Begutachtungen
+veranlassen (vgl. Art. 43 Abs. 2 ATSG und Art. 44 ATSG). Damit ein medizinisches Gutachten beweistauglich ist, muss
+es die vom Bundesgericht aufgestellten Anforderungen erfüllen (vgl. BGE 134 V
+231, 232 E. 5.1 und BGE 125 V 351,
+352 E. 3a; beim Vorliegen psychischer Erkrankungen vgl. zudem BGE
+143 V 418, 429 E. 7.2 und BGE 141 V 281, 296 E. 3.7.3 und 297 f.
+E. 4.1.3).
+
+4.
+
+4.1. 4.1.1   Die Gutachter der Gutachterstelle I____ nannten in ihrem
+polydisziplinären Gutachten (unter Beteiligung von Allgemeiner Innerer Medizin,
+Psychiatrie und Psychotherapie, Rheumatologie und Pneumologie; vgl.
+IV-Akte 116, S. 6) vom 9. Januar 2023 (IV-Akte 116)
+folgende Diagnosen mit Auswirkung auf die Arbeitsfähigkeit: ein NSCLC
+(Nichtkleinzelliges Lungenkarzinom; vgl. https://www.pschyrembel.de/NSCLC/Z03U4/doc/)
+in fortgesetzter Kurativsituation (ICD-10 34.8; gemeint sein muss C34.8), ein
+mögliches Asthma bronchiale (ICD-10 J45.0), ein chronisches subacromiales
+Impingement links (ICD-10 M75.9) und eine Epocondylopathia humeri radialis
+links (ICD-10 M77.0). Sodann führten sie ein nichtobstruktives Lungenemphysem
+(ICD-10 J43.9), eine Polyallergie «gemäss Unterlagen» (ICD-10 T78.4), einen
+Status nach chronischer Hepatitis (ICD-10 B17.1) sowie eine mögliche chronische
+Rhinosinusitis (ICD-10 J32) als Diagnosen ohne Auswirkung auf die
+Arbeitsfähigkeit auf (IV-Akte 116, S. 9 f.).
+
+In ihrer gesamtmedizinischen Beurteilung hielten die Gutachter
+fest, aus pneumologischer Sicht beeinflussten das nicht kleinzellige
+Lungenkarzinom in fortgesetzter Kurativsituation und ein mögliches Asthma
+bronchiale die Arbeitsfähigkeit des Beschwerdeführers. Aufgrund der
+persistierenden restriktiven Ventilationsstörung leichten Grades könne aus
+pneumologischer Sicht eine um 40 % verminderte Arbeitsfähigkeit attestiert
+werden. Aus rheumatologischer Sicht schränkten das chronische subacromiale Impingement
+links und die Epicondylopathia humeri radialis links die Arbeitsfähigkeit des
+Beschwerdeführers qualitativ ein. In der angestammten Tätigkeit und in anderen
+geeigneten Verweistätigkeiten könne aus rheumatologischer und aus
+psychiatrischer Sicht keine weitere Diagnose mit Einfluss auf die
+Arbeitsfähigkeit gestellt werden. Insgesamt bestehe somit aus polydisziplinärer
+Sicht eine Arbeits- respektive Leistungsfähigkeit von 60 % in der
+angestammten Tätigkeit und in anderen geeigneten Verweistätigkeiten (IV-Akte 116,
+S. 9). Zur Arbeitsfähigkeit führten sie aus, dass die verminderte
+Arbeitsfähigkeit einzig durch die pneumologischen Einschränkungen begründet
+sei. Aus rheumatologischer Sicht bestünden in erster Linie qualitative
+Einschränkungen der Arbeitsfähigkeit. Aus allgemeininternistischer und aus
+psychiatrischer Sicht könne keine Diagnose mit Einfluss auf die
+Arbeitsfähigkeit gestellt werden. Der Beschwerdeführer könne in der zuletzt
+ausgeübten Tätigkeit fünf bis sechs Stunden am Tag anwesend sein. Es bestehe
+eine reduzierte Leistungsfähigkeit bei erhöhtem Pausenbedarf und reduziertem
+Rendement. Insgesamt schlossen sie auf eine Arbeitsfähigkeit von 60 % bzw.
+eine Arbeitsunfähigkeit von 40 %. Bezüglich des zeitlichen Verlaufs
+erklärten sie, die aktuelle Arbeitsfähigkeit könne  nach der gemäss der
+Verfügung der Beschwerdegegnerin von 2016 vorangehenden Arbeitsfähigkeit von 50
+% und einer aufgehobenen Arbeitsfähigkeit ab Juni 2019, seit April 2020
+angenommen werden (IV-Akte 116, S. 10 f.). Dieselbe
+Arbeitsfähigkeit mit demselben zeitlichen Verlauf attestierten sie dem
+Beschwerdeführer auch für eine angepasste Tätigkeit. Dazu hielten sie fest, als
+angepasste Tätigkeiten gälten solche, welche körperlich leicht und mehrheitlich
+in Schulterneutralstellung durchführbar seien. Dabei sollten Kälte-,
+Feuchtigkeits- und Staubexposition ebenso vermieden werden wie der berufliche
+Kontakt zu Kindern oder anderen Personen mit gehäuften Atemwegsinfekten
+(IV-Akte 116, S. 11). Aus dem rheumatologischen Teilgutachten ergibt
+sich ferner, dass beim Beschwerdeführer in der angestammten Tätigkeit als
+Schulbusfahrer weiterhin eine Arbeitsfähigkeit bestehe, sofern er Lasten nur
+körpernahe Heben und Tragen müsse, nicht aber körperfremd. Überdies sollte er
+repetitive Überkopfbewegungen mit dem linken dominanten Arm vermeiden
+(IV-Akte 116, S. 46).
+
+4.1.2   Der RAD bat die Gutachterstelle mit einem Schreiben vom
+13. Februar 2023 (IV-Akte 119; vgl. auch die Aktennotiz vom
+13. Februar 2023, IV-Akte 118) um eine Begründung der relevanten
+Verbesserung der Arbeitsfähigkeit von nunmehr 60 % ab April 2020 im
+Vergleich zum Vorzustand zum Zeitpunkt der Verfügung vom 26. Februar 2016
+(IV-Akte 28), bei welcher seit September 2015 von einer Arbeitsfähigkeit
+von 50 % ausgegangen worden war. Daraufhin erklärten die Gutachter in
+ihrer Stellungnahme vom 15. März 2023 (IV-Akte 122, S. 2), es
+sei üblich, dass nach Karzinomerkrankungen mit konsekutiven Behandlungen (wie
+Operationen, Chemotherapien oder Radiotherapien) initial erhebliche
+Beeinträchtigungen bestünden, die im Laufe der Wochen, Monate und auch Jahre
+zunehmend remittierten. Wenn beim Beschwerdeführer nicht ein Status nach
+Pneumektomie mit Restriktion vorhanden wäre, hätte sich die Arbeitsfähigkeit im
+Verlauf noch deutlich mehr erhöht. Die Verbesserung sei somit durch die
+adaptiven Prozesse, welche seit 2016 aufgetreten seien (das Lungenkarzinom sei
+erst 2015 behandelt worden und die Verfügung sei kurz danach ergangen), zu
+erklären. Es bestehe weiterhin eine limitierende irreversible
+Lungenrestriktion.
+
+4.2. 4.2.1   Das Gutachten der Gutachterstelle I____ vom 9. Januar
+2023 (IV-Akte 116) wurde in Kenntnis der Vorakten erstellt und auch die
+geklagten Beschwerden werden im Gutachten berücksichtigt. Die Beurteilung der
+medizinischen Zusammenhänge ist einleuchtend und die Schlussfolgerungen sind
+begründet und nachvollziehbar. Insofern erfüllt es die Anforderungen der
+bundesgerichtlichen Rechtsprechung gemäss BGE
+125 V 351, 352 E. 3a. Auch die weiteren Voraussetzungen, das Gutachten
+müsse für die streitigen Belange umfassend sein und auf allseitigen
+Untersuchungen beruhen, sind erfüllt. Der Umstand, dass der Beschwerdeführer
+geltend macht, der pneumologische Teilgutachter habe in Ziff. 8.2 (vgl.
+IV-Akte 116, S. 54) festgehalten, es brauche eine erneute Spiroergometrie,
+um die Arbeitsfähigkeit weiter abzuklären, ändert nichts an der Erfüllung der
+erwähnten Voraussetzungen. Es ist zutreffend, dass der pneumologische Gutachter
+diese Aussage tätigte. Unter Ziff. 7. seines Teilgutachtens hielt er dazu
+fest, dass es eine Wiederholung der präoperativ bereits durchgeführten
+Spiroergometrie brauche, wenn man die ventilatorischen Reserven des
+Beschwerdeführers noch genauer einschätzen wolle (vgl. IV-Akte 116,
+S. 54). Der Gutachter war jedoch offensichtlich in der Lage, eine
+Beurteilung der Arbeitsfähigkeit abzugeben. Er konstatierte, dass beim
+Beschwerdeführer eine restriktive Ventilationsstörung leichten Grades bestehe.
+Im Kontext mit den vom Beschwerdeführer gemachten Angaben mit gehäufter
+respiratorische Infektneigung ergebe sich aus pneumologischer Sicht eine
+Einschränkung von 40 % «gemäss American Medical Association assessment of
+pulmonary dysfunction» (vgl. Ziff. 8.1. des Gutachtens; IV-Akte 116,
+S. 54). Er hielt es offenbar nicht für zwingend notwendig, eine (erneute) Spiroergometrie
+zu veranlassen, um sich schlüssig zur Arbeitsfähigkeit des Beschwerdeführers
+äussern zu können. Ferner kann als unbestritten gelten, dass der
+Beschwerdeführer aufgrund der Folgen des nichtkleinzelligen Lungenkarzinoms und
+(vermutlich) aufgrund eines Asthma bronchiale respiratorisch eingeschränkt ist.
+Überdies ist anzunehmen, dass eine Spiroergometrie lediglich eine
+Momentaufnahme darstellen würde und keinen wesentlichen Einfluss auf die
+Beurteilung der Arbeitsfähigkeit aus pneumologischer Sicht hätte.
+
+4.2.2   Bezüglich der vom Bundesgericht bei psychiatrischen
+Gutachten verlangten Prüfung der Standardindikatoren BGE 141 V 281, 297 f.
+E. 4.1.3 (vgl. auch BGE 143 V 409 und BGE 143 V 418) hielt der RAD-Arzt
+Dr. med. J____ in seinem Bericht vom 28. März 2023 fest, diese sei im
+Gutachten «nicht Punkt für Punkt abgearbeitet worden», es seien aber alle
+wesentlichen Standardindikatoren ausreichend erfasst und diskutiert worden
+(vgl. IV-Akte 123, S. 7). Diese Schlussfolgerung ist zu Recht unumstritten.
+In formaler Hinsicht entspricht das Gutachten somit den erwähnten Anforderungen
+der bundesgerichtlichen Rechtsprechung und ist folglich grundsätzlich
+beweistauglich (vgl. E. 3.4.).
+
+4.3. Neben dem bereits diskutierten Vorbringen bezüglich der
+Notwendigkeit einer Spiroergometrie (vgl. E. 4.2.1), kritisiert der
+Beschwerdeführer das Gutachten jedoch in Bezug auf den zeitlichen Aspekt der
+Beurteilung der Arbeitsfähigkeit. Er macht geltend, in Fällen, in welchen eine
+rentenrelevante Verbesserung des Gesundheitszustandes mit sog. «üblichen»
+adaptiven Prozessen begründet werde, verbiete sich eine rückwirkende
+Beurteilung der begutachtenden Ärzte. Seiner Auffassung nach hätte zwingend ein
+Verlaufsbericht beim behandelnden Facharzt eingeholt werden müssen. Dies gelte
+umso mehr, als der Beschwerdeführer im Rahmen der gutachterlichen
+Untersuchungen auf die fortgesetzt abnehmende Leistungsfähigkeit in den
+vergangenen Jahren und ein gehäuftes Krankheitsgefühl, sowie begleitende episodisch
+zunehmende Erschöpfung und Fatigue hingewiesen habe (Beschwerde, Ziff. 9.
+und Replik, Ziff. 1.).
+
+4.4. Die Gutachter äusserten sich in ihrer Stellungnahme vom
+15. März 2023 (IV-Akte 122) explizit zum Verlauf der Arbeitsfähigkeit
+des Beschwerdeführers (vgl. E. 4.1.2). Ihre Ausführungen erscheinen
+plausibel. Gleichwohl ist die Frage, ob es  insbesondere infolge Ermangelung
+von echtzeitlichen Arbeitsunfähigkeitsbescheinigungen aufgrund der
+Lungenproblematik  angemessen gewesen wäre, die Arbeitsfähigkeit von neu
+60 % im Zweifel erst ab dem Zeitpunkt der Begutachtung zu konstatieren,
+gerechtfertigt. Letztlich kann diese Frage jedoch  wie sich im Folgenden
+zeigen wird  offenbleiben. Abgesehen von dem oben diskutierten Vorbringen
+bezüglich der Spiroergometrie bringt der Beschwerdeführer keine weiteren
+Argumente gegen Plausibilität einer Arbeitsfähigkeit von 60 % vor. Auch
+aus den Akten ergibt sich nichts, welche Zweifel am polydisziplinären Gutachten
+der Gutachterstelle I____ vom 9. Januar 2023 wecken und dessen
+Beweistauglichkeit in Frage stellen würden. Spätestens für den Zeitraum ab der
+Begutachtung (die Untersuchungen fanden am 31. Oktober 2022 und am
+9. Dezember 2022 statt; vgl. IV-Akte 116, S. 6) ist die
+gutachterliche Beurteilung nachvollziehbar. Die Beschwerdegegnerin hat die
+Rente des Beschwerdeführers in der angefochtenen Verfügung vom 27. August
+2024 sodann nicht rückwirkend, sondern pro futuro, ab dem 1. Oktober 2024
+herabgesetzt. Dies hat sie im Einklang mit Art. 88 bis Abs. 2 lit. a IVV getan. Gemäss dieser Bestimmung wird eine Rente
+frühestens vom ersten Tag des zweiten der Zustellung der Verfügung folgenden
+Monats an herabgesetzt. Folglich ist im Ergebnis nicht von Relevanz, ob der
+Beschwerdeführer bereits im April 2020 zu 60 % arbeitsfähig gewesen wäre
+oder auf welches Untersuchungsdatum für die Festlegung der Erhöhung der
+Arbeitsfähigkeit abzustellen wäre. Sein Vorbringen, die Gutachter hätten seine
+Arbeitsfähigkeit zu Unrecht rückwirkend beurteilt, vermag nichts an der
+Beweistauglichkeit des Gutachtens zu ändern und somit auch nichts am Ausgang
+dieses Verfahrens. Die Beschwerdegegnerin hat bei der Prüfung des
+Rentenanspruchs zu Recht auf das Gutachten der Gutachterstelle I____ abgestellt
+und durfte von einer Arbeitsfähigkeit von 60 %  jedenfalls spätestens ab
+dem für die Herabsetzung der Rente massgebenden Zeitpunkts  ausgehen. Es
+bleibt auf die Vorbringen des Beschwerdeführers einzugehen, die von der Beschwerdegegnerin
+festgestellte Restarbeitsfähigkeit sei nicht verwertbar bzw. sie habe den Abzug
+vom Tabellenlohn zu gering beziffert.
+
+5.
+
+5.1. Die Möglichkeit einer versicherten Person, das verbliebene
+Leistungsvermögen auf dem allgemeinen ausgeglichenen Arbeitsmarkt zu verwerten,
+hängt von den konkreten Umständen des Einzelfalles ab. Massgebend sind
+rechtsprechungsgemäss die Art und Beschaffenheit des Gesundheitsschadens und
+seiner Folgen, der absehbare Umstellungs- und Einarbeitungsaufwand und in
+diesem Zusammenhang auch die Persönlichkeitsstruktur, vorhandene Begabungen und
+Fertigkeiten, Ausbildung, beruflicher Werdegang oder die Anwendbarkeit von
+Berufserfahrung aus dem angestammten Bereich (vgl. z.B. Urteile des
+Bundesgerichts 8C_52/2022 vom 2. Juni 2022 E. 2.3.2., 8C_202/2021 vom
+17. Dezember 2021 E. 5.1, 8C_170/2021 vom 23. September 2021 E. 5.1.1
+und 9C_15/2020 vom 10. Dezember 2020 E. 6.1.). Beim ausgeglichenen
+Arbeitsmarkt handelt es sich um eine theoretische und abstrakte Grösse (vgl. BGE
+134 V 64, 70 f. E. 4.2.1, vgl. auch Urteile des Bundesgerichts 8C_442/2019
+vom 20. Juli 2019 E. 4.2. und 9C_192/2014 vom 23. September 2014
+E. 3.1.). Er umfasst sogenannte Nischenarbeitsplätze, also Stellen- und
+Arbeitsangebote, bei denen behinderte Personen mit einem sozialen
+Entgegenkommen des Arbeitgebers rechnen können (vgl. Urteile des Bundesgerichts
+8C_170/2021 vom 23. September 2021 E. 5.1.1). Es kann daher nicht leichthin
+angenommen werden, die verbliebene Leistungsfähigkeit sei unverwertbar (vgl.
+Urteile des Bundesgerichts 9C_15/2020 vom 10. Dezember 2020 E. 6.1.,
+8C_170/2021 vom 23. September 2021 E. 5.1.1 und 8C_442/2019 vom 20. Juli 2019
+E. 4.2). Die Unverwertbarkeit der Restarbeitsfähigkeit ist anzunehmen, wenn die
+zumutbare Tätigkeit in nur so eingeschränkter Form möglich ist, dass sie der
+ausgeglichene Arbeitsmarkt praktisch nicht kennt oder sie nur unter nicht
+realistischem Entgegenkommen eines durchschnittlichen Arbeitgebers möglich wäre
+und das Finden einer entsprechenden Stelle daher zum Vornherein als
+ausgeschlossen erscheint (vgl. Urteile des Bundesgerichts 9C_15/2020 vom
+10. Dezember 2020 E. 6.1., 8C_202/2021 vom 17. Dezember 2021
+E. 5.1 und 8C_170/2021 vom 23. September
+2021 E. 5.1.1 je mit Hinweisen, sowie Peter
+Forster , Rechtsprechung des Bundesgerichts zum ATSG, Zürich 2021,
+Art. 16 N 27).
+
+5.2. Der Beschwerdeführer macht geltend, die von der Beschwerdegegnerin
+genannten Verweistätigkeiten wären allesamt in einem Arbeitsumfeld auszuüben,
+welches es gemäss pneumologischer Beurteilung (vgl. dazu E. 4.1.1) zu
+vermeiden gelte, da sich respiratorische Infekte beim Beschwerdeführer
+gravierender auf sein Befinden auswirken könnten. Insbesondere lasse «sich
+vernünftigerweise nicht klären», ob Personen, mit welchen der Beschwerdeführer
+in Ausübung einer beruflichen Tätigkeit Kontakt habe, unter häufigen
+Atemwegsinfekten litten. Ein entsprechendes Risiko sei daher nicht
+auszuschliessen. Dass er bei nicht optimalen Bedingungen respiratorische
+Schwierigkeiten und Mühe mit Sprechen gehabt habe, habe auch anlässlich des
+Standortgespräches bei der Arbeitsvermittlung vom 14. August 2023 (vgl.
+IV-Akte 133) festgestellt werden müssen. Der Rechtsdienst der
+Beschwerdegegnerin habe darauf hingewiesen, dass der ausgeglichene Arbeitsmarkt
+auch Nischenarbeitsplätze umfasse, welche auch dem Beschwerdeführer zumutbar
+wären. Konkrete Nischenarbeitsplätze, welche dem Beschwerdeführer zur Verfügung
+stehen könnten, habe sie jedoch nicht bezeichnet. Im Vergleich zur Erstverfügung
+seien zusätzliche medizinisch begründete Einschränkungen und damit
+Anforderungen an eine Verweistätigkeit hinzugekommen, welche eine
+wirtschaftliche Verwertbarkeit einer Restarbeitsfähigkeit ausschliessen würden
+(Beschwerde, Ziff. 10.) Die Beschwerdegegnerin verweise (in ihrer
+Beschwerdeantwort, Ziff. 6.) darauf, dass der Beschwerdeführer über eine
+Ausbildung (Diplom als Bauzeichner und Tourismusstudium in Italien) sowie über
+vertiefte Fremdsprachenkenntnisse verfüge und ausserdem in Italien und in der
+Schweiz bis anhin in verschiedensten Tätigkeiten (Animateur und Reiseführer in
+Italien, Kellner, Gerätemonteur, Verkäufer und Chauffeur in der Schweiz)
+ausgeübt habe. Bei diesen Tätigkeiten handle es sich jedoch um solche, welche
+gemäss ärztlich formuliertem Anforderungsprofil vermieden werden sollten, da
+sie regelmässigen Kontakt mit anderen Personen mit sich brächten (Replik,
+Ziff. 2.).
+
+5.3. Wie unter E. 4.1.1 festgehalten, erklärten die Gutachter der
+Gutachterstelle I____, der Beschwerdeführer sollte keine berufliche Tätigkeit
+ausüben, bei welcher er Kälte, Feuchtigkeit oder Staub exponiert wäre. Auch der
+berufliche Kontakt zu Kindern oder anderen Personen mit gehäuften
+Atemwegsinfekten sollte er vermeiden. Abgesehen von einer quantitativen
+Einschränkung der Arbeitsfähigkeit von 40 % nannten sie keine weiteren
+Anforderungen an eine angepasste Tätigkeit. Insbesondere schlossen sie den
+grundsätzlichen Kontakt zu anderen Menschen nicht generell aus. Zudem nannte
+die Beschwerdegegnerin in der angefochtenen Verfügung vom 27. August 2024
+nebst der Tätigkeit als Chauffeur weitere denkbare Tätigkeiten wie Kontroll-,
+Sortier- oder Überwachungstätigkeiten sowie einfache Lager-, Reinigungs- und
+Montagearbeiten (vgl. IV-Akte 160, S. 4). Überdies dürfte auch eine
+Tätigkeit als Kurierfahrer eine denkbare Tätigkeit für den Beschwerdeführer als
+ehemaligen Schulbuschauffeur darstellen. Die Beschwerdegegnerin verweist zudem
+zu Recht auf die Ausbildungen, die Sprachkenntnisse und die vielseitigen
+Arbeitserfahrungen des Beschwerdeführers (vgl. Lebenslauf inkl. Beilagen,
+IV-Akten 42). Diese dürften das Spektrum an Tätigkeiten (seien es
+Nischentätigkeiten oder nicht), welche ihm auch mit den von den Gutachtern
+formulierten Einschränkungen offenstehen, erweitern. Dabei kann offenbleiben,
+ob eine oder mehrere der Tätigkeiten, in welchen er Arbeitserfahrung aufweist,
+aufgrund seiner Einschränkungen noch ausüben könnte. Die Argumente des
+Beschwerdeführers, weshalb er keine zumutbare Tätigkeit, auch nicht in einem
+Nischenarbeitsplatz, mehr finden sollte, sind insgesamt nicht nachvollziehbar. Vielmehr
+ist davon auszugehen, dass seine Restarbeits- bzw. Resterwerbsfähigkeit auf dem
+ersten Arbeitsmarkt wirtschaftlich verwertbar ist.
+
+6.
+
+6.1. Schliesslich bemängelt der Beschwerdeführer die Höhe des von der
+Beschwerdegegnerin vorgenommenen leidensbedingten Abzugs. Die dem
+Einkommensvergleich zugrunde gelegten Vergleichseinkommen kritisiert er zu
+Recht nicht. Er bringt im Wesentlichen vor, dass die Beschwerdegegnerin den
+Abzug im Vergleich zur Erstverfügung von 2016 bei 15 % belassen habe, obwohl in
+rheumatologischer Hinsicht Diagnosen hinzugetreten seien. Ferner sei gemäss der
+interdisziplinären Beurteilung eine reduzierte Leistungsfähigkeit bei erhöhtem
+Pausenbedarf und reduziertem Rendement neu hinzugekommen. Dies habe die
+Beschwerdegegnerin ebenfalls nicht berücksichtigt. Dass letzteres  wie von der
+Beschwerdegegnerin geltend gemacht  bereits bei der attestierten
+Arbeitsunfähigkeit berücksichtigt sei, treffe nicht zu. Die Angabe der
+Gutachterstelle I____ zur möglichen maximalen Präsenz sei mit fünf bis sechs
+Stunden pro Tag unpräzis. Während der Pausenbedarf einen Einfluss auf die
+konkrete Arbeitszeit habe, beurteile das Rendement die mögliche Intensität, mit
+welcher gearbeitet werden könne. Bei einer täglichen Präsenz von fünf Stunden
+und erhöhtem Pausenbedarf werde kein Pensum von 60 % erreicht. Ob dies mit
+einer täglichen Präsenz von sechs Stunden der Fall sei, hänge davon ab, in
+welcher Anzahl und in welcher Dauer aus medizinscher Sicht Pausen eingelegt
+werden müssten. Dazu äussere sich das Gutachten nicht (vgl. Beschwerde,
+Ziff. 8. und Replik, Ziff. 3.).
+
+6.2. Die Beschwerdegegnerin nahm in der angefochtenen Verfügung vom
+27. August 2024 aufgrund der leidensbedingten Einschränkungen des
+Beschwerdeführers einen Abzug von 15 % vor (vgl. IV-Akte 160,
+S. 5). Sie weist darauf hin, dass der erhöhte Pausenbedarf des
+Beschwerdeführers bereits bei der reduzierten Arbeitsfähigkeit von 60 %
+berücksichtigt sei und deshalb nicht auch beim Abzug vom Tabellenlohn
+berücksichtigt werden dürfe. Die Arbeitsfähigkeit habe sich im Vergleich zur
+Verfügung von 2016 um 10 % erhöht. Die zusätzlichen rheumatologischen
+Diagnosen wirkten sich gemäss den Gutachtern in erster Linie in qualitativer
+Hinsicht aus, was durch den Abzug von 15 % hinreichend berücksichtigt werde.
+Aus dem Umstand, dass sich die Gutachter bei der Angabe der maximalen Präsenz
+nicht exakt festgelegt hätten, könne der Beschwerdeführer nichts zu seinen
+Gunsten ableiten, da es sich dabei um eine Schätzung handle, die einen gewissen
+Ermessensspielraum beinhalte.
+
+6.3. Ein leidensbedingter Abzug vom statistischen Lohn kann gemäss der
+bundesgerichtlichen Rechtsprechung in einer Höhe von maximal 25 % gewährt
+werden, wenn bei einer versicherten Person Anhaltspunkte dafür bestehen, dass
+sie ihre (Rest-)Arbeitsfähigkeit aufgrund bestimmter Merkmale auf dem
+allgemeinen Arbeitsmarkt nur mit unterdurchschnittlichem Erfolg verwerten kann.
+Also wenn sie im Vergleich mit voll leistungsfähigen und entsprechend
+einsetzbaren Arbeitnehmern lohnmässig benachteiligt ist. Merkmale die  einzeln
+oder in Kombination  zu einem derartigen Abzug führen können, sind das Alter,
+die Dauer der Betriebszugehörigkeit, die Nationalität oder die
+Aufenthaltskategorie oder der Beschäftigungsgrad (BGE 129 V 472, 481
+E. 4.2.3 und BGE 126 V 75, 78 ff. E. 5a und 5b; vgl. auch BGE 150 V
+410, 421 E. 9.3). Die Höhe des Abzugs ist gesamthaft, unter
+Berücksichtigung aller Merkmale, zu schätzen. Es rechtfertigt sich nicht, für
+jedes zur Anwendung gelangende Merkmal separat qualifizierte Abzüge vorzunehmen
+und diese zusammenzuzählen (BGE 129 V 472, 481 E. 4.2.3 und BGE 126 V 75,
+80 E. 5b/bb sowie Urteil des Bundesgerichts 8C_115/2021 vom 10. August
+2021 E. 4.3.; vgl. auch BGE 146 V 16, 20 E. 4.1).
+
+Die Frage, ob ein leidensbedingter Abzug gemacht werden muss,
+ist rechtlicher Natur, während die Frage nach dessen Höhe eine Ermessensfrage
+ist (BGE 132 V 393, 399 E. 3.3; vgl. auch BGE 146 V 16, 20 E. 4.2).
+Dabei darf das Sozialversicherungsgericht sein Ermessen nicht ohne triftigen
+Grund an die Stelle desjenigen der Verwaltung setzen. Weicht das Gericht in
+seinem Ermessen von der Verwaltung ab, muss es sich auf Gegebenheiten abstützen
+können, welche seine Ermessensausübung als naheliegender erscheinen lassen (BGE
+123 V 150,152 E. 2 mit Hinweisen; vgl. auch Urteil des Bundesgerichts
+8C_500/2013 vom 15. Januar 2013 E. 3.1.2.).
+
+6.4. Die Gutachter der Gutachterstelle I____ gingen von einer maximalen
+Präsenz des Beschwerdeführers während fünf bis sechs Stunden pro Tag aus (vgl.
+E. 4.1.1). Auf die Frage, ob während dieser Anwesenheitszeit auch eine
+Einschränkung der Leistung in einer solchen Tätigkeit bestehe, antworteten sie,
+es bestehe «eine reduzierte Leistungsfähigkeit bei erhöhtem Pausenbedarf und
+reduziertem Rendement». Anschliessend schätzten sie die Gesamtarbeitsfähigkeit
+auf 60 % (vgl. IV-Akte 116, S. 11). Bei einer betriebsüblichen
+Arbeitszeit von 41.7 Stunden pro Woche, welches die Arbeitszeit ist, welche die
+Beschwerdegegnerin beim Einkommensvergleich zu Recht als Grundlage genommen hat,
+(vgl. Tabelle des BFS Betriebsübliche Arbeitszeit nach
+Wirtschaftsabteilungen), ergibt eine Anwesenheit von 5.004 Stunden ein Pensum
+vom 60 %. Bei einer Anwesenheit von sechs Stunden würde ein Pensum von
+rund 71 % resultieren. Mit ihrer Schätzung, der Beschwerdeführer könne
+insgesamt in einem Pensum von 60 % arbeiten, lagen sie daher im Bereich
+einer Anwesenheit von 5 Stunden. Dies entspricht der von ihnen genannten
+Mindestanzahl Stunden, während welchen der Beschwerdeführer bei einer
+Erwerbstätigkeit anwesend sein könnte. Überdies ergeben sich aus ihren
+Ausführungen zur Arbeitsfähigkeit keine weiteren Hinweise, weshalb die
+Arbeitsfähigkeit ausser aufgrund des erhöhten Pausenbedarfs eingeschränkt sein
+sollte. Sie hielten klar fest, dass die Arbeitsfähigkeit aus rheumatologischer
+Sicht in erster Linie qualitativ eingeschränkt sei (Tragen und Heben von Lasten
+in Körpernähe, keine Überkopfbewegungen mit dem linken dominanten Arm,
+Schulterneutralstellung; vgl. E. 4.1.1). Die quantitative Einschränkung
+von 40 % ergibt sich somit im Wesentlichen aus pneumologischen Gründen
+(vgl. dazu auch die Ausführungen des pneumologischen Gutachters,
+IV-Akte 116, S. 54). Es ist daher  im Einklang mit der
+Beschwerdegegnerin  davon auszugehen, dass die Gutachter den erhöhten
+Pausenbedarf in ihrer Beurteilung einer 60%igen Arbeitsfähigkeit bereits
+berücksichtigt haben.
+
+6.5. Dass aufgrund der leidensbedingten Einschränkungen des Beschwerdeführers
+(namentlich des verminderten Rendements) zudem ein leidensbedingter Abzug vom
+Invalideneinkommen vorzunehmen ist, ist zwischen den Parteien zu Recht
+unumstritten. Der erhöhte Pausenbedarf darf jedoch nicht auch bei diesem Abzug
+berücksichtigt werden, da es ansonsten zu einer unzulässigen doppelten
+Berücksichtigung desselben kommen würde (vgl. dazu BGE 146 V 16, 20 E. 4.1
+sowie Urteil des Bundesgerichts 8C_621/2023 vom 7. August 2024
+E. 4.1.). Der von der Beschwerdegegnerin angewandte Abzug von 15 % erscheint
+im vorliegenden Fall nicht unangemessen, sodass das Gericht keine Veranlassung
+hat, in diesem Punkt in das Ermessen der Beschwerdegegnerin einzugreifen. Der
+leidensbedingte Abzug ist nicht zu beanstanden. Es bleibt somit beim von der
+Beschwerdegegnerin ermittelten Invaliditätsgrad von 49 %.
+
+6.6. Zusammenfassend hat die Beschwerdegegnerin den Invaliditätsgrad des
+Beschwerdeführers  namentlich basierend auf dem polydisziplinären Gutachten
+der Gutachterstelle I____ vom 9. Januar 2023 (IV-Akte 116) zu Recht
+per 2024 neu auf 49 % festgelegt und die Rente des Beschwerdeführers per
+1. Oktober 2024 auf eine Viertelsrente herabgesetzt.
+
+7.
+
+7.1. In Folge der obigen Ausführungen ist die Beschwerde abzuweisen.
+
+7.1. Entsprechend dem
+Verfahrensausgang hat der Beschwerdeführer die ordentlichen Kosten, bestehend
+aus einer Gebühr von Fr. 800.00 zu tragen ( Art. 61 lit. f bis ATSG und Art. 69 Abs. 1 bis IVG).
+Die ordentlichen Kosten gehen zufolge Bewilligung des Kostenerlasses zu Lasten
+des Staates.
+
+7.2. Die ausserordentlichen Kosten sind
+wettzuschlagen. Der Rechtsvertreterin des Beschwerdeführers im Kostenerlass ist
+ein angemessenes Anwaltshonorar auszurichten. Das Sozialversicherungsgericht
+geht bei der Bemessung eines Kostenerlasshonorars für durchschnittliche
+IV-Verfahren bei doppeltem Schriftenwechsel im Sinne einer Faustregel von einem
+Honorar in Höhe von Fr. 3'000.00 (inklusive Auslagen) zuzüglich 8.1 %
+Mehrwertsteuer (Fr. 243.00) aus. Bei einfacheren oder komplizierteren
+Verfahren kann dieser Ansatz entsprechend erhöht oder reduziert werden. Der
+vorliegende Fall ist durchschnittlicher Natur, weshalb ein Honorar in Höhe von Fr. 3'000.00
+zuzüglich Mehrwertsteuer als angemessen erscheint.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      Die Beschwerde ist abzuweisen.
+
+Der Beschwerdeführer trägt die ordentlichen
+Kosten, bestehend aus einer Gebühr von Fr. 800.00. Zufolge Bewilligung der
+unentgeltlichen Prozessführung gehen sie zu Lasten des Staates.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen. Zufolge Bewilligung der unentgeltlichen Verbeiständung wird B____
+ein Honorar von Fr. 3'000.00 (inklusive Auslagen) zuzüglich Mehrwertsteuer
+von Fr. 243.00 aus der Gerichtskasse zugesprochen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                  Die
+Gerichtsschreiberin
+
+Dr. A. Pfleiderer MLaw L.
+Marti
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer  Beschwerdegegnerin
+
+        Bundesamt für Sozialversicherungen
+
+Versandt am:
