@@ -1,0 +1,332 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.495"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2025.47"
+docket_2: "AG.2025.495"
+decided: "2025-08-22"
+published: "2025-09-09"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78739&W10_KEY=3048456&nTrefferzeile=55&Template=search_result_document.html"
+cites_decisions: ["BGE 149 III 258", "SB.2025.227", "ZB.2023.66"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-322.md", "switzerland/bund/acts/220/art-324a.md", "switzerland/bund/acts/272/art-114.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md"]
+---
+
+# Forderung aus Arbeitsvertrag
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2025.47
+
+ENTSCHEID
+
+vom 22. August 2025
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und Gerichtsschreiber Dr. Johannes
+Hermann
+
+Parteien
+
+A____ AG Beschwerdeführerin
+
+[...]                                                                                 
+Gesuchsgegnerin
+
+gegen
+
+B____ Beschwerdegegner
+
+[...]                                                                                        
+Gesuchsteller
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid der Schlichtungsbehörde
+
+vom 23. Mai 2025
+
+betreffend Forderung aus
+Arbeitsvertrag
+
+Sachverhalt
+
+Mit Gesuch vom 10.
+April 2025 (Postaufgabe 15. April 2025) leitete B____ (nachfolgend
+Arbeitnehmer) ein Schlichtungsverfahren bei der Schlichtungsbehörde des Zivilgerichts
+Basel-Stadt (nachfolgend Schlichtungsbehörde) gegen die A____ AG (nachfolgend
+Arbeitgeberin) ein. Darin machte der Arbeitnehmer im Wesentlichen eine
+Lohnforderung in der Höhe von brutto CHF 1'566.26 zuzüglich Verzugszins
+geltend. Die Arbeitgeberin liess sich im Schlichtungsverfahren nicht vernehmen
+und blieb der Schlichtungsverhandlung vom 23. Mai 2025 unentschuldigt fern. Mit
+Entscheid vom gleichen Tag verpflichtete die Schlichtungsbehörde die Arbeitgeberin,
+dem Arbeitnehmer brutto CHF 1'566.26, zuzüglich 5 % Zins seit 11. August 2024
+zu bezahlen, ihm eine Arbeitsbestätigung aus- und zuzustellen und ihm eine
+Parteientschädigung von CHF 50. für Reisespesen zu bezahlen. In der Folge
+ersuchte die Arbeitgeberin um schriftliche Begründung des Entscheids. Diese
+wurde ihr am 16. Juni 2025 zugestellt.
+
+Gegen diesen
+Entscheid erhob die Arbeitgeberin am 23. Juni 2025 Beschwerde beim
+Appellationsgericht. Sie stellte sinngemäss den Antrag, dass der angefochtene
+Entscheid insoweit aufzuheben sei, als er sie zur Zahlung des Bruttolohns an
+den Arbeitnehmer verpflichte. Sie schulde nur den Nettolohn. Da sie aktuell
+nicht in der Lage sei, diesen zu bezahlen, bitte sie das Gericht, «eine
+Abzahlungsvereinbarung in Höhe von 200 Fr. monatlich zuzusprechen.». Der
+Verfahrensleiter des Appellationsgerichts zog die Vorakten bei und verzichtete
+darauf, eine Beschwerdeantwort einzuholen. Der vorliegende Entscheid wurde auf
+dem Zirkulationsweg gefällt.
+
+Erwägungen
+
+1.
+
+Beim angefochtenen Entscheid der Schlichtungsbehörde handelt
+es sich um einen erstinstanzlichen Endentscheid in einer vermögensrechtlichen
+Angelegenheit (vgl. statt vieler AGE BEZ.2022.52 vom 24. August 2022 E. 1.1).
+Da der Streitwert der zuletzt aufrechterhaltenen Rechtsbegehren weniger als CHF
+10'000. beträgt, ist die Berufung nicht zulässig (vgl. Art. 308 Abs. 2 der
+Schweizerischen Zivilprozessordnung [ZPO, SR 272]). Nicht berufungsfähige
+erstinstanzliche Endentscheide sind mit Beschwerde anfechtbar (Art. 319 lit. a
+ZPO). Auf die frist- und formgerecht erhobene Beschwerde ist unter Vorbehalt
+der unten erwähnten Einschränkung (vgl. unten E. 2.4) einzutreten.
+
+Für den Entscheid über die vorliegende Beschwerde ist das
+Dreiergericht des Appellationsgerichts zuständig (§ 92 Abs. 1 Ziffer 6 des
+Gerichtsorganisationsgesetzes [SG 154.100]). Mit der Beschwerde können die
+unrichtige Rechtsanwendung und die offensichtlich unrichtige Feststellung des
+Sachverhalts gerügt werden (Art. 320 ZPO).
+
+2.
+
+2.1 Mit dem angefochtenen Entscheid verpflichtete
+die Schlichtungsbehörde die Arbeitgeberin, dem Arbeitnehmer «brutto CHF
+1'566.26, zzgl. 5 % Zins ab 11. August 2024 zu bezahlen.»
+
+2.2 In ihrer Beschwerde macht die Arbeitgeberin
+erstmals geltend, dass sie dem Arbeitnehmer nur den Nettolohn schulde. Sie habe
+alle Lohnabzüge korrekt deklariert und abgeführt. Als Beweismittel reicht sie
+erstmals einen Auszug des Lohnkontos des Arbeitnehmers sowie Lohnabrechnungen
+für Juli und August 2024 ein. Aus diesen Beweismitteln ist ersichtlich, dass
+die Arbeitgeberin Abzüge für die Alters- und Hinterlassenenversicherung (AHV),
+Invalidenversicherung (IV), Erwerbsersatzordnung (EO), Arbeitslosenversicherung
+(ALV), Nichtbetriebsunfallversicherung (NBU), berufliche Vorsorge (BVG),
+Krankentaggeldversicherung (KTG) und Quellensteuer geltend macht. Neue
+Tatsachenbehauptungen und neue Beweismittel sind im Beschwerdeverfahren
+grundsätzlich ausgeschlossen (Art. 326 Abs. 1 ZPO). Dass die Arbeitgeberin
+Beiträge an die AHV, IV, EO, ALV, NBU und BVG vom Bruttolohn des Arbeitnehmers abziehen
+und den Sozialversicherungsträgern abliefern muss, ergibt sich jedoch bereits
+aus den vom Arbeitnehmer im Verfahren vor der Schlichtungsbehörde vorgebrachten
+Tatsachenbehauptungen und Beweismitteln und den einschlägigen gesetzlichen
+Bestimmungen und ist daher ohne Weiteres zu berücksichtigen. Dass die
+Arbeitgeberin zugunsten des Arbeitnehmers eine Krankentaggeldversicherung
+abgeschlossen hat und dass der Arbeitnehmer der Quellenbesteuerung unterliegt,
+ist aus den im Verfahren vor der Schlichtungsbehörde vorgebrachten
+Tatsachenbehauptungen und Beweismitteln auch unter Mitberücksichtigung der
+einschlägigen gesetzlichen Bestimmungen hingegen nicht ersichtlich. Ob die
+Schlichtungsbehörde aufgrund des eingeschränkten Untersuchungsgrundsatzes (vgl.
+Art. 247 Abs. 2 lit. b Ziffer 2 ZPO) zu diesbezüglichen
+Sachverhaltsfeststellungen verpflichtet gewesen wäre, erscheint fraglich und
+kann mangels Entscheidwesentlichkeit offenbleiben. Aus den nachstehenden
+Gründen ist die Beschwerde auch bei Annahme einer Pflicht der Arbeitgeberin zur
+Ablieferung eines vom Arbeitnehmer zu übernehmenden Anteils der Prämien einer
+Krankentaggeldversicherung und von Quellensteuern abzuweisen, soweit darauf
+einzutreten ist.
+
+2.3 In einem Fall, in dem der Arbeitgeber in
+einem Gerichtsentscheid zur Zahlung eines Bruttolohns unter Abzug der
+Sozialversicherungsbeiträge des Arbeitnehmers verpflichtet worden ist, hat das
+Bundesgericht entschieden, dass die definitive Rechtsöffnung gestützt auf
+diesen Entscheid gemäss Art. 81 Abs. 1 des Bundesgesetzes über Schuldbetreibung
+und Konkurs [SchKG, SR 281.1] nur im nach Abzug der Sozialversicherungsbeiträge
+des Arbeitnehmers verbleibenden Umfang zu erteilen ist, wenn der Arbeitgeber im
+Rechtsöffnungsverfahren durch Urkunden den Bestand und den Umfang seiner
+Pflicht zur Zahlung der Sozialversicherungsbeiträge des Arbeitnehmers an die
+Sozialversicherungsträger beweist (vgl. BGE 149 III 258 Sachverhalt lit. A.a
+sowie E. 6.2.2 und 6.3.26.3.4). Ein Autor scheint aus diesem Urteil schliessen
+zu wollen, dass der Arbeitgeber seine Pflicht zur Bezahlung der
+Sozialversicherungsbeiträge des Arbeitnehmers im Rechtsöffnungsverfahren nicht
+einwenden könne und für den gesamten Bruttolohn definitive Rechtsöffnung zu
+gewähren sei, wenn der Abzug der Sozialversicherungsbeiträge des Arbeitnehmers
+im Entscheid nicht vorbehalten werde (vgl. von
+Kaenel , in: von Kaenel/Rudolph [Hrsg.], Fachhandbuch Arbeitsrecht, 2.
+Auflage, Zürich 2024 [nachfolgend von
+Kaenel , Fachhandbuch], N 23.14; von
+Kaenel , Entwicklungen im Arbeitsrecht, in: SJZ 2024, S. 516 [nachfolgend von Kaenel , SJZ], 519). Diese
+Schlussfolgerung überzeugt nicht. Aus den nachstehenden Gründen ist vielmehr
+davon auszugehen, dass die vorstehend erwähnte Rechtsprechung des
+Bundesgerichts unabhängig davon Geltung beansprucht, ob der Abzug der
+Sozialversicherungsbeiträge des Arbeitnehmers im Entscheid vorbehalten wird
+oder nicht. Das Bundesgericht hat seine einschlägigen Erwägungen mit dem
+Hinweis eingeleitet, es bleibe die Frage zu entscheiden, ob der betriebene
+Arbeitgeber, der zur Zahlung eines Bruttolohns verurteilt worden ist,
+berechtigt ist, als Einwendung im Sinn von Art. 81 Abs. 1 SchKG geltend zu
+machen, dass er seinem Arbeitnehmer nur den Nettolohn schulde, und ob er die
+tatsächliche Zahlung oder nur den Umfang seiner Verpflichtung zur Zahlung der
+Sozialversicherungsbeiträge nachweisen muss (BGE 149 III 258 E. 6.3). Dass es
+relevant sei, ob die Verurteilung zur Zahlung eines Bruttolohns unter Vorbehalt
+des Abzugs der Sozialversicherungsbeiträge des Arbeitnehmers erfolgt ist oder
+nicht, kann den einleitenden Hinweisen des Bundesgerichts nicht entnommen
+werden. Als Zwischenfazit hat das Bundesgericht erwogen, angesichts des oben
+erläuterten Systems könne ein Arbeitgeber, der auf Zahlung einer
+Bruttolohnforderung betrieben wird, als Einwendung im Sinn von Art. 81 Abs. 1
+SchKG seine Pflicht zur Zahlung der Sozialversicherungsbeiträge an die
+betreffenden Institutionen vorbringen (BGE 149 III 258 E. 6.3.2). Dass diese
+Möglichkeit einen Vorbehalt des Abzugs der Sozialversicherungsbeiträge des
+Arbeitnehmers im als Rechtsöffnungstitel dienenden Entscheid voraussetzen
+würde, wird in der betreffenden Erwägung mit keinem Wort erwähnt. Die
+Literaturstellen und der Entscheid des Obergerichts des Kantons Zürich, auf die
+das Bundesgericht als Beleg für seine Feststellung verweist, sprechen vielmehr
+für das Gegenteil. An keiner der erwähnten Stellen wird die Ansicht vertreten,
+die erfolgreiche Geltendmachung der Einwendung im Sinn von Art. 81 Abs. 1 SchKG
+setze voraus, dass der Abzug der Sozialversicherungsbeiträge des Arbeitnehmers
+im als Rechtsöffnungstitel dienenden Entscheid vorbehalten worden ist (vgl. Abbet , in: Abbet/Veuillet, La mainlevée
+de lopposition, 2. Auflage, Bern 2022, Art. 80 LP N 33; Rehbinder/Stöckli , in: Berner Kommentar,
+2010, Art. 322 OR N 14 am Ende; Senti ,
+Arbeitsrecht und SchKG: Die Rechtsöffnung, in: ZZZ 2007, S. 219, 228 f.; Staehelin , in: Basler Kommentar, 3.
+Auflage 2021, Art. 80 SchKG N 43; Vock/Aepli-Wirz ,
+in: Kren Kostkiewicz/Vock [Hrsg.], Kommentar zum SchKG, 4. Auflage, Zürich
+2017, Art. 80 N 22; OGer ZH RT180072 vom 9. Oktober 2018 E. 3, in: ZR 2018, S.
+257, 258 f.; vgl. ferner [in BGE 149 III 258 nicht erwähnt] Streiff/von Kaenel/Rudolph ,
+Arbeitsvertrag, 7. Auflage, Zürich 2012, Art. 322 N 14, S. 292).
+
+Krankentaggeldversicherungen können auf der Grundlage des KVG
+oder des VVG abgeschlossen werden. In der Praxis sind
+Krankentaggeldversicherungen nach VVG aber deutlich häufiger als solche nach
+KVG (vgl. AGE ZB.2023.66 vom 17. Juni 2024 E. 4.4.3.1 mit Nachweisen; Emmel , in: Hochstrasser et al. [Hrsg.],
+Handkommentar zum Schweizer Privatrecht, 4. Auflage, Zürich 2023, Art. 324a OR
+N 7a). Obwohl eine Krankentaggeldversicherung nach VVG nicht als
+Sozialversicherung im Sinn des Sozialversicherungsrechts qualifiziert werden
+kann (vgl. Portmann/Rudolph , in:
+Basler Kommentar, 7. Auflage 2020, Art. 322 OR N 8), wird der vom Arbeitnehmer
+zu tragende Anteil der Prämien einer Krankentaggeldversicherung im erwähnten
+Bundesgerichtsurteil und in einem Kommentar im Zusammenhang mit der Definition
+des Bruttolohns als Sozialversicherungsbeitrag erwähnt (vgl. BGE 149 III 258 E.
+6.3.1.1; Emmel , a.a.O., Art. 322
+OR N 2). Im Übrigen ist auch nicht ersichtlich, weshalb ein allenfalls vom
+Arbeitnehmer zu übernehmender Anteil der Prämien der Krankentaggeldversicherung
+im Rahmen der Zwangsvollstreckung einer Lohnforderung bei einer
+Krankentaggeldversicherung nach VVG anders behandelt werden sollte als bei
+einer solchen nach KVG. Folglich ist davon auszugehen, dass bei einer Verurteilung
+zur Zahlung eines Bruttolohns die Rechtsöffnung gestützt auf Art. 81 Abs. 1
+SchKG entsprechend der vorstehend dargelegten Praxis des Bundesgerichts im
+entsprechenden Umfang zu verweigern ist, wenn der Arbeitgeber durch Urkunden
+beweist, dass und in welchem Umfang der Arbeitnehmer einen Anteil der Prämien
+einer Krankentaggeldversicherung zu übernehmen und der Arbeitgeber den
+betreffenden Betrag an die Versicherung zu zahlen hat.
+
+Schliesslich besteht aufgrund des erwähnten Urteils des
+Bundesgerichts und der Lehre kein Zweifel, dass die Quellensteuer im Hinblick
+auf die Rechtsöffnung gleich zu behandeln ist wie die
+Sozialversicherungsbeiträge des Arbeitnehmers (vgl. BGE 149 III 258 E. 6.3.1.2; Staehelin , a.a.O., Art. 80 SchKG N
+43; vgl. ferner KGer SG vom 12. Oktober 2016, in: GVP 2016 Nr. 80, E. b.cc; von Kaenel , Fachhandbuch, N 23.14).
+
+2.4 Aus den vorstehenden Erwägungen folgt, dass
+dem Arbeitnehmer in einem allfälligen Rechtsöffnungsverfahren gestützt auf den
+Entscheid der Schlichtungsbehörde nur im Umfang des Nettolohns Rechtsöffnung
+erteilt wird, soweit die Arbeitgeberin im Rechtsöffnungsverfahren den
+Urkundenbeweis erbringt für den Bestand und den Umfang ihrer Pflicht zur
+Zahlung der Sozialversicherungsbeiträge des Arbeitnehmers an die Sozialversicherungsträger,
+den Bestand und den Umfang der Pflicht des Arbeitnehmers zur Übernahme eines
+Teils der Prämien der Krankentaggeldversicherung und der Pflicht der
+Arbeitgeberin zur Zahlung dieses Betrags an die Versicherung sowie den Bestand
+und den Umfang ihrer Pflicht zur Zahlung der Quellensteuer an die
+Steuerbehörde. Zudem ergibt sich aus den vorstehenden Erwägungen, dass der
+Arbeitgeberin in einem allfälligen Rechtsöffnungsverfahren kein Nachteil daraus
+erwächst, dass die Schlichtungsbehörde den Abzug der Sozialversicherungsbeiträge
+des Arbeitnehmers, des Anteils des Arbeitnehmers an den Prämien der
+Krankentaggeldversicherung und der Quellensteuer vom Bruttolohn nicht
+(ausdrücklich) vorbehalten hat. Hinsichtlich eines (ausdrücklichen) Vorbehalts
+der erwähnten Abzüge fehlt der Arbeitgeberin damit ein schutzwürdiges Interesse
+an der Änderung des angefochtenen Entscheids. Insoweit ist auf ihre Beschwerde
+daher mangels materieller Beschwer nicht einzutreten (vgl. dazu AGE BEZ.2025.5
+vom 10. April 2025 E. 1.3.1 und 1.3.3 mit Nachweisen). Hingegen kann der
+Arbeitgeberin ein schutzwürdiges Interesse an der Feststellung des Bestands und
+des Umfangs der Abzüge im vorliegenden Erkenntnisverfahren wohl nicht
+abgesprochen werden, insbesondere weil die Beweismittel im vorliegenden
+Erkenntnisverfahren anders als betreffend die Einwendungen gemäss Art. 81 Abs.
+1 SchKG im Rechtsmittelverfahren nicht auf Urkunden beschränkt sind. Insoweit
+ist auf die Beschwerde daher einzutreten. Diesbezüglich erweist sich die
+Beschwerde aber als unbegründet. Gemäss der Rechtsprechung des Bundesgerichts
+ist das Gericht im Erkenntnisverfahren nicht verpflichtet, Bestand und Umfang
+der Abzüge festzustellen (vgl. BGE 149 III 258 E. 6.2.1 f.).
+
+3.
+
+Weiter erklärt die Arbeitgeberin, sie bestreite nicht, dass
+der Nettolohn geschuldet sei. Es sei ihr aber nicht möglich, den Betrag sofort
+zu bezahlen. Daher ersucht sie das Gericht, ihr «eine Abzahlungsvereinbarung in
+Höhe von 200 Fr. monatlich zuzusprechen». Dies sei ihrer Ansicht nach die
+bessere Lösung als ein Verlustschein. Die Lohnforderung des Arbeitnehmers ist
+seit der Beendigung des Arbeitsverhältnisses am 10. August 2025 fällig (vgl.
+Art. 339 Abs. 1 des Obligationenrechts [OR, SR 220]). Im vorliegenden Verfahren
+besteht keine Grundlage für eine gerichtliche Bewilligung von Ratenzahlungen.
+Das Gesuch der Arbeitgeberin ist daher abzuweisen. Der Arbeitgeberin und dem
+Arbeitnehmer steht es aber auch bei Abweisung der vorliegenden Beschwerde frei,
+betreffend die Forderung, die Gegenstand des angefochtenen Entscheids bildet,
+eine Abzahlungsvereinbarung zu schliessen. Zu diesem Zweck kann die
+Arbeitgeberin dem Arbeitnehmer einen entsprechenden Antrag unterbreiten. Diesem
+steht es frei, ob er dem Antrag zustimmt oder nicht.
+
+4.
+
+Aus den
+vorstehenden Erwägungen folgt, dass die Beschwerde sich als unbegründet erweist
+und daher abzuweisen ist, soweit darauf eingetreten werden kann. Für das
+Beschwerdeverfahren sind gemäss Art. 114 lit. c ZPO keine Gerichtskosten zu
+erheben (vgl. dazu AGE BEZ.2019.35 vom 24. Juni 2019 E. 4).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Die
+Beschwerde gegen den Entscheid der Schlichtungsbehörde vom 23. Mai 2025
+(SB.2025.227) wird abgewiesen, soweit darauf eingetreten wird.
+
+Das Beschwerdeverfahren ist kostenlos.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Beschwerdegegner
+
+- Schlichtungsbehörde des Zivilgerichts Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+Dr. Johannes Hermann
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. In vermögensrechtlichen Angelegenheiten gilt dies nur dann,
+wenn der Streitwert die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG
+erreicht (CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis bzw.
+CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage von
+grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
