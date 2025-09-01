@@ -1,0 +1,387 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.505"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2025.97"
+docket_2: "AG.2025.505"
+decided: "2025-09-01"
+published: "2025-09-04"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78758&W10_KEY=3048456&nTrefferzeile=53&Template=search_result_document.html"
+cites_decisions: ["2C_1/2016", "2C_1072/2015", "2C_262/2016", "BGE 127 II 168", "BGE 130 II 56", "BGE 134 I 93", "BGE 139 I 206", "SB.2024.73"]
+cites_law: ["switzerland/bund/acts/0.101/art-003.md", "switzerland/bund/acts/142.20/art-074.md", "switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-078.md", "switzerland/bund/acts/142.20/art-079.md", "switzerland/bund/acts/142.20/art-080.md"]
+---
+
+# Verlängerung Ausschaffungshaft (Art. 76 Abs. 3 AIG)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+
+AUS.2025.97
+
+URTEIL
+
+vom 1.
+September 2025
+
+Beteiligte
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, Postfach, 4001
+Basel
+
+gegen
+
+A____, geb. [...] 1987,
+
+zur Zeit im Gefängnis Bässlergut,
+
+Freiburgerstrasse 48, 4057 Basel
+
+vertreten durch Constanze Seelmann,
+Advokatin,
+
+substituiert durch BLaw Lena Bühler
+
+Falknerstrasse 3, 4001 Basel
+
+Gegenstand
+
+Verfügung des
+Migrationsamtes vom 22. August 2025
+
+betreffend Verlängerung
+Ausschaffungshaft (Art. 76 Abs. 3 AIG)
+
+Sachverhalt
+
+Der algerische
+Staatsangehörige A____ (nachfolgend: Beurteilter), geboren [...]1987, wurde,
+nachdem er in früheren Jahren schon mehrfach wegen verschiedenster Delikte
+strafrechtlich verurteilt und des Landes verwiesen worden war, mit Urteil des
+Strafgerichts Basel-Stadt vom 15. März 2024 des Verbrechens gegen das
+Betäubungsmittelgesetz (mit Gefährdung der Gesundheit vieler Menschen), der
+mehrfachen Vergehen gegen das Betäubungsmittelgesetz, des geringfügigen
+Vermögensdeliktes (Diebstahl), des Hausfriedensbruchs, des mehrfachen
+Verweisungsbruchs, des Vergehens gegen das Waffengesetz sowie der mehrfachen
+Übertretung des Betäubungsmittelgesetz für schuldig erklärt und zu einer
+Freiheitsstrafe von 24 Monaten verurteilt. Zudem wurde der Beurteilte für
+zwanzig Jahre des Landes verwiesen. Gegen dieses Urteil erhob der Beurteilte
+beim Appellationsgericht Basel-Stadt Berufung (Verfahren SB.2024.73). Nach
+Entlassung aus dem vorläufigen Strafvollzug und nach Verbüssung einer
+fünftägigen Ersatzfreiheitsstrafe ordnete das Migrationsamt am 7. Februar
+2025 eine Ausschaffungshaft bis zum 6. Mai 2025 über den Beurteilten
+an, welche der Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+(nachfolgend: Haftrichter) mit Urteil vom 11. Februar 2025
+bestätigte. Am 3. April 2025 stellte der Beurteilte ein
+Haftentlassungsgesuch, welches der Haftrichter mit Urteil vom
+15. April 2024 abwies. Am 24. April 2025 wurde der
+Beurteilte vom Migrationsamt zwecks Verbüssung einer Ersatzfreiheitsstrafe von
+sieben Tagen zuhanden des Straf- und Massnahmenvollzugs (SMV) aus der
+Administrativhaft entlassen. Mit Blick auf die am 1. Mai 2025
+erfolgende Entlassung aus dem Strafvollzug verhängte das Migrationsamt am
+30. April 2025 erneut eine Ausschaffungshaft über den Beurteilten, diesmal
+für die Dauer von vier Monaten bis zum 1. September 2025. Mit Urteil
+vom 2. Mai 2025 bestätigte der Haftrichter die neue Haftanordnung.
+Mit Urteil vom 20. Juni 2025 bestätigte das Appellationsgericht die
+Freiheitsstrafe und die 20-jährige Landesverweisung.
+
+Mit Verfügung
+vom 22. August 2025 hat das Migrationsamt nach Befragung und
+Gewährung des rechtlichen Gehörs die Ausschaffungshaft um drei Monate bis zum
+1. Dezember 2025 verlängert. Am 1. September 2025 hat vor
+dem Haftrichter unter Beizug eines Dolmetschers und in Anwesenheit eines
+Mitarbeiters des Migrationsamts eine mündliche Verhandlung stattgefunden. Dabei
+ist der Beurteilte befragt worden. Er beantragt die Haftentlassung,
+eventualiter die Anordnung milderer Massnahmen, während das Migrationsamt an
+der Haftverlängerung festhält. Für die Ausführungen der Beteiligten wird auf
+das Protokoll verwiesen. Das vorliegende Urteil ist den Beteiligten mündlich eröffnet
+worden. Die vorliegende Begründung wird ihnen schriftlich eröffnet.
+
+Erwägungen
+
+1.
+
+Die bestehende
+Haftanordnung gilt noch bis zum 1. September 2025. Die heutige
+gerichtliche Überprüfung der Haftverlängerungsverfügung findet folglich vor
+Ablauf der bestehenden Ausschaffungshaft und damit rechtzeitig statt.
+
+2.
+
+Die
+Ausschaffungshaft setzt einen erstinstanzlichen Weg- oder Ausweisungsentscheid
+oder eine erstinstanzliche Landesverweisung nach Artikel 66a oder 66a bis Strafgesetzbuch (StGB, SR 311.0) voraus, dessen Vollzug mit der entsprechenden
+Festhaltung sichergestellt werden soll (Art. 76 Abs. 1 des Ausländer-
+und Integrationsgesetzes [AIG, SR 142.20]). Gegen den Beurteilten liegen
+mehrere rechtskräftige Landesverweisungen vor. Zum ersten Mal wurde er mit
+Urteil des Strafgerichts des Kantons Basel-Landschaft vom
+13. Oktober 2017 für zehn Jahre des Landes verwiesen, ein zweites Mal
+mit Urteil desselben Gerichts vom 20. Januar 2020 für zwanzig Jahre.
+Mit Urteil des Strafgerichts des Kantons Basel-Stadt vom 17. März 2022
+wurde über den Beurteilten erneut eine Landesverweisung von zwanzig Jahren
+ausgesprochen. Schliesslich wurde er mit Urteil des Strafgerichts Basel-Stadt
+vom 15. März 2024 nochmals für zwanzig Jahres des Landes verwiesen. Die
+hiergegen erhobene Berufung hat das Appellationsgericht mit Urteil vom
+20. Juni 2025 abgewiesen (AGE SB.2024.73). Dass gegenwärtig noch
+die Rechtsmittelfrist läuft, ist angesichts der früheren rechtskräftigen
+Landesverweisungen für die vorliegend zu beurteilende Anordnung der
+Ausschaffungshaft ohne Belang. Dies gilt umso mehr, als nach Auskunft des
+zuständigen Verfahrensleiters des Appellationsgerichts bei einem allfälligen
+Weiterzug des Urteils ans Bundesgericht der Beschwerde keine aufschiebende
+Wirkung zukommt und das Appellationsgericht die persönliche Anwesenheit des
+Beurteilten nunmehr nicht mehr benötigt (E-Mail vom 23. Juni 2025).
+
+3.
+
+Das
+Migrationsamt hat bezüglich der Begründung der Haftverlängerung  Gefahr eines
+Untertauchens (Art. 76 Abs. 1 lit. b Ziff. 3 und 4
+AIG)  auf die früheren Haftanordnungen vom 7. Februar 2025 und
+20. April 2025 verwiesen. Der Haftrichter hat das Vorliegen einer
+Untertauchensgefahr in seinem diesbezüglichen Urteil vom
+11. Februar 2025 eingehend geprüft und bejaht. Dieser Haftgrund hat
+unverändert Bestand, so dass hierzu vollumfänglich auf die entsprechenden
+Ausführungen in VGE AUS.2025.16 E. 3 verwiesen werden kann. Der Beurteilte
+lehnt nach wie vor eine Rückkehr in seine Heimat ab. Am 7. März 2025
+hat er sich sogar geweigert, den bereits organisierten Flug (unbegleiteter Linienflug)
+anzutreten. Auch heute hat der Beurteilte keine Bereitschaft zu einer
+freiwilligen Rückkehr in seine Heimat zu erkennen gegeben. Vom Angebot von
+einem Ausreisegeld von CHF 200. bei Mitwirkung will er keinen Gebrauch
+machen (Verhandlungsprotokoll, S. 3). Er ist offensichtlich nicht bereit,
+sich an behördliche Anordnungen zu halten. Es ist weiterhin von einer Untertauchensgefahr
+auszugehen.
+
+4.
+
+4.1 Die
+Vorbereitungs- und die Ausschaffungshaft nach Art. 75 bis 77 AIG sowie die
+Durchsetzungshaft nach Art. 78 AIG dürfen zusammen in der Regel die maximale
+Haftdauer von sechs Monaten nicht überschreiten (Art. 79 Abs. 1 AIG). Die
+maximale Haftdauer kann gemäss Art. 79 Abs. 2 AIG mit Zustimmung
+der kantonalen richterlichen Behörde um höchstens zwölf Monate verlängert
+werden, wenn die betroffene Person nicht mit der zuständigen Behörde kooperiert
+(lit. a) oder sich die Übermittlung der für die Ausreise erforderlichen
+Unterlagen durch einen Staat, der kein Schenken-Staat ist, verzögert
+(lit. b). Weiter darf der Vollzug einer allfälligen Weg- oder Ausweisung
+nicht aus rechtlichen oder tatsächlichen Gründen undurchführbar sein (Art. 80
+Abs. 6 lit. a AIG; BGE 127 II 168 E. 2c). Schliesslich muss die Haft als
+Ganzes verhältnismässig sein (vgl. BGE 130 II 56 E. 1 und
+125 II 369 E. 3a) und müssen die Behörden das Beschleunigungsgebot
+einhalten. Die Ausschaffungshaft soll den Vollzug der Entfernungsmassnahme
+sicherstellen und muss ernsthaft geeignet sein, diesen Zweck zu erreichen, was
+nicht (mehr) der Fall ist, wenn die Weg- oder Ausweisung trotz der behördlichen
+Bemühungen nicht in einem dem konkreten Fall angemessenen Zeitraum vollzogen
+werden kann. Die Festhaltung hat, weil unverhältnismässig, dann als unzulässig
+zu gelten, wenn triftige Gründe für solche Verzögerungen sprechen oder
+praktisch feststeht, dass sich der Vollzug kaum innert vernünftiger Frist wird
+realisieren lassen (BGE 130 II 56 E. 4.1.3; BGer 2C_1072/2015
+vom 21. Dezember 2015 E. 3.2). Im Übrigen ist zu berücksichtigen, wieweit der
+Betroffene es tatsächlich in der Hand hat, seine Festhaltung zu beenden, indem
+er seiner Mitwirkungs- bzw. Ausreisepflicht nachkommt (BGE 134 I 93
+E. 2.3.2; BGer 2C_1/2016 vom 27. Januar 2016 E. 2.3 und 3.2.1 sowie
+2C_262/2016 vom 12. April 2016 E. 3.3).
+
+4.2 Eine
+mildere Massnahme als die Inhaftierung des Beurteilten kommt nicht in Frage.
+Aufgrund vorstehender Ausführungen wie auch der einschlägigen Vorstrafen ist
+auszuschliessen, dass er sich an eine Ein- oder Ausgrenzung
+(Art. 74 AIG) halten würde, so dass eine Inhaftierung das einzige
+Mittel darstellt, mit dem der Vollzug der rechtskräftigen Landesverweisungen
+sichergestellt werden kann, zumal mangels Vorhandenseins auch kein Reisepass
+beim Migrationsamt hinterlegt werden könnte und eine Meldepflicht der
+ausgeprägten Untertauchensgefahr nicht wirksam begegnen kann. Das grosse
+öffentliche Interesse am Vollzug der Landesverweisungen überwiegt dasjenige des
+Beurteilten an seiner persönlichen Freiheit bei weitem, umso mehr er auch eine
+Gefahr für die öffentliche Sicherheit darstellt. Daran ändert nichts, dass er
+zur Behandlung seiner Erkrankung auf Medikamente angewiesen ist (dazu auch nachfolgend
+E. 4.4). Eine Freilassung mit regelmässiger Meldepflicht könnte nicht
+verhindern, dass der Beurteilte, obschon er zur Behandlung seiner Krankheit auf
+Medikamente angewiesen ist (dazu nachfolgend E. 4.4), nicht verhindern,
+dass er untertaucht, um sich seiner Rückführung nach Algerien zu entziehen. Denn
+wie der Haftrichter bereits in seinem ersten Urteil ausgeführt hat
+(VGE AUS.2025.16 vom 11. Februar 2025 E. 3.2), war er in
+der Vergangenheit, als er nicht im Strafvollzug, sondern auf freiem Fuss war,
+durchaus in der Lage, sich selbständig, d.h. ohne behördliche Unterstützung,
+mit den benötigten Medikamenten zu versorgen. Jetzt nachdem die
+Berufungsverhandlung im Verfahren SB.2024.73 stattgefunden hat und die
+vorinstanzliche Freiheitsstrafe und die Landesverweisung bestätigt worden sind
+und nur noch die (erneute) Ausstellung eines Laissez Passer aussteht, darf der
+Vollzug der bereits früher rechtskräftig gewordenen Landesverweisungen nicht
+mit einer Haftentlassung aufs Spiel gesetzt werden.
+
+4.3 Die
+Ausschaffung des Beurteilten nach Algerien ist unverändert rechtlich und
+tatsächlich möglich. Der Beurteilte ist längst als algerischer Staatsbürger
+identifiziert. Das für die Ausstellung von gültigen Reisepapieren notwendige
+Counseling hat bereits am 19. September 2018 stattgefunden. Die
+vorgesehene Rückführung des Beurteilten am 7. März 2025 musste
+allerdings abgebrochen werden, weil er sich weigerte, den Transport zum
+Flughafen anzutreten. Dass in der Folge nicht ein polizeibegleiteter Flug
+organisiert werden konnte, lag daran, dass der Beurteilte bzw. seine
+Rechtsvertreterin mittels entsprechender Interventionen bei den algerischen
+Behörden (Hinweis auf das laufende Berufungsverfahren) erwirken konnten, dass
+das Staatssekretariat für Migration (SEM) seine Ausschaffungsbemühungen bis zum
+20. Juni 2025, als die Berufungsverhandlung vor dem
+Appellationsgericht stattfand, aufs Eis legen musste. Wie sich aus den Akten
+ergibt, haben die Migrationsbehörden unmittelbar im Anschluss an diese
+Gerichtsverhandlung ihre Bemühungen, für den Beurteilten erneut ein
+Ersatzreisepapier zu beschaffen, wieder aufgenommen. Auf entsprechende Anfrage
+des Migrationsamts hin teilte das SEM am 24. Juni 2025 mit, dass man
+das algerische Generalkonsulat «über die veränderten Umstände»  gemeint ist
+damit, dass das Appellationsgericht am 20. Juni 2025 die
+Freiheitsstrafe und die Landesverweisung bestätigt hatte  schnell («das
+Dossier geniesst bei uns hohe Priorität») in Kenntnis setzen werde. Ein neuer
+Flug könne jedoch erst angemeldet werden, wenn man vom Generalkonsulat grünes
+Licht erhalten haben werde (E-Mail SEM vom 24. Juni 2025). Am
+3. Juli 2025 teilte das SEM per Mail mit, dass die «Deblockierung»
+des Ersatzreisepapiers bei der algerischen Vertretung noch im Gange sei, man
+aber noch keine Rückmeldung erhalten habe. Die Bemühungen des SEM scheinen
+bislang jedoch nicht gefruchtet zu haben. Jedenfalls musste das SEM am 15.
+August 2025 melden, dass es aufgrund der Sommerpause seitens des
+algerischen Generalkonsulats zu Verzögerungen gekommen sei (E-Mail SEM vom
+15. August 2025). In der Zwischenzeit hatten die Migrationsbehörden  letztlich
+erfolglos  versucht, den Beurteilten zu einer freiwilligen Rückkehr nach
+Algerien bzw. zur Mitwirkung bei der Papierbeschaffung zu bewegen. Auf Ersuchen
+des Migrationsamts hin hatte das SEM am 8. Juli 2025 ein Ausreisegeld
+in der Höhe von CHF 2'000. in Aussicht gestellt (E-Mail SEM vom
+8. Juli 2025), was der Beurteilte jedoch ablehnte, weil ihm dieser
+Betrag zu gering erschien (E-Mail Migrationsamt vom 11. Juli 2025).
+Wie der Umstand, dass für die vorgesehene Rückführung am 7. März 2025
+bereits ein  nunmehr abgelaufenes  Laissez Passer vorgelegen hatte, zeigt,
+wird ein neues Ersatzreisepapier ausgestellt werden, sobald die «Sommerpause»
+in der algerischen Vertretung zu Ende geht. Entgegen den Behauptungen des
+Beurteilten gibt es keinerlei Anhaltspunkte dafür, dass die algerischen
+Behörden jetzt, da das Berufungsverfahren abgeschlossen ist, nicht ein Laissez
+Passer für ihn ausstellen würden. Das Ausweisungsverfahren ist demzufolge
+entgegen seiner Auffassung immer noch als «schwebend» im Sinne von Art. 5
+Ziff. 1 lit. f der Europäischen Menschenrechtskonvention (EMRK,
+SR 0.101) zu betrachten.
+
+4.4 Der
+Beurteilte hat in den früheren Haftüberprüfungsverfahren seine Erkrankung an
+Morbus Crohn und die diesbezüglichen Behandlungs- bzw. Versorgungsmöglichkeiten
+in Algerien ins Feld geführt. Der Haftrichter hat sich dort jeweils eingehend
+mit diesen Vorbringen auseinandergesetzt und ist zum Schluss gekommen, dass der
+Beurteilte bei einer Rückkehr in seine Heimat nicht einer ernsthaft
+gesundheitsgefährdenden Bedrohung ausgesetzt wäre, die einem Verstoss gegen
+Art. 3 EMRK gleichkäme. Es kann deshalb vorliegend vollumfänglich auf die
+dortigen Erwägungen verwiesen werden (VGE AUS.2025.16 vom
+11. Februar 2025 E. 4, AUS.2025.38 vom 15. April 2025
+E. 4.3 und AUS.2025.48 vom 2. Mai 2025 E. 4.3). An der
+heutigen Verhandlung hat sich nichts ergeben, was zu einer anderen Einschätzung
+führen würde. Eine ausdrückliche Zusicherung der algerischen Behörden, dass der
+Beurteilte, wie er fordert (Plädoyernotizen, S. 2), tatsächlich Zugang zu
+Humira hat und ihm dieses Medikament bezahlt würde, ist nicht erforderlich. Die
+diesbezüglichen Abklärungen des SEM sind ausreichend, so dass darauf abgestellt
+werden kann. Abgesehen davon hat sich das Migrationsamt bereit erklärt, dem
+Beurteilten für eine Anfangszeit die notwendige Menge des benötigten
+Medikaments mitzugeben. Auch unter diesen Aspekten bleibt die Ausschaffung
+daher rechtlich und tatsächlich möglich.
+
+4.5 Das
+Migrationsamt hat die Ausschaffungshaft um drei Monate bis zum 1. Dezember 2025
+verlängert. Der Beurteilte befindet sich seit dem 7. Februar 2025
+(mit einem Unterbruch zwecks Verbüssung einer Ersatzfreiheitsstrafe im
+Strafvollzug vom 24. April bis 1. Mai 2025) und damit seit rund
+sechseinhalb Monaten in Ausschaffungshaft. Gemäss Art. 79 Abs. 1 AIG darf
+die maximale Haftdauer sechs Monate nicht überschreiten. Eine Verlängerung bis
+zu 18 Monaten ist nach Abs. 2 dieser Bestimmung jedoch zulässig, wenn
+die betroffene Person nicht mit der zuständigen Behörde kooperiert
+(lit. a) oder sich die Übermittlung der für die Ausreise erforderlichen
+Unterlagen durch einen Staat, der kein Schengen-Staat ist, verzögert
+(lit. b). Es ist der Beurteilte, der unverändert seine Kooperation
+verweigert, namentlich sich auch, nachdem die Berufungsverhandlung
+stattgefunden hat, weigert, mit der algerischen Vertretung zwecks Beschaffung
+von Reisepapieren Kontakt aufzunehmen, dies notabene obschon man ihm ein maximales
+Ausreisegeld von CHF 2'000. (s. Art. 59a bis Abs. 1
+der Asylverordnung 2 über Finanzierungsfragen [AsylV 2,
+SR 142.312]) angeboten hatte (oben E. 4.3). Abgesehen davon liegt es
+einzig an den algerischen Behörden, dass trotz aller Bemühungen des SEM auch
+nach dem Vorliegen des Berufungsurteils bislang noch kein neues
+Ersatzreisepapier vorliegt (vorstehend E. 4.3). Es bleibt nichts anderes
+übrig, als die Ausstellung eines neuen Laissez Passer abzuwarten. Erst wenn
+dieses vorliegt, wird eine neue Flugbuchung in Auftrag gegeben werden können,
+wobei zu berücksichtigen ist, dass es einer verlängerten Vorlaufzeit bedarf, da
+diesmal ein polizeibegleiteter Flug organisiert werden muss. Angesichts all
+dieser Umstände ist die Verlängerung der Ausschaffungshaft um drei Monate in
+jeder Hinsicht recht- und verhältnismässig. Der Beurteilte hat es selber in der
+Hand, seine Haft abzukürzen, indem er mit seinen Heimatbehörden Kontakt
+aufnimmt und auf die Ausstellung eines Ersatzreisepapiers hinwirkt.
+
+5.
+
+Für das
+Verfahren werden keine Kosten erhoben (§ 4 des Gesetzes über den Vollzug
+der Zwangsmassnahmen im Ausländerrecht [SG 122.300]).
+
+Der Beurteilte
+hat um unentgeltliche Verbeiständung ersucht. Nach der bundesgerichtlichen
+Rechtsprechung besteht ein auf Art. 29 Abs. 3 der Bundesverfassung
+(BV, SR 101) gestützter Anspruch auf unentgeltliche Verbeiständung nach drei
+Monaten Haft bzw. bei einer Haftanordnung von über drei Monaten (BGE
+139 I 206 E. 3.3.1). Da der Beurteilte sich schon seit mehr als
+drei Monaten in Haft befindet, ist ihm für die gerichtliche Überprüfung der
+vorliegenden Haftverlängerung die unentgeltliche Verbeiständung zu gewähren.
+Für die Bemessung des Honorars kann auf die eingereichte Honorarnote abgestellt
+werden. Da die heutige Hauptverhandlung um eine halbe Stunde länger gedauert
+hat als in der Honorarnote geschätzt, ist der Aufwand entsprechend zu erhöhen,
+was ein entschädigungspflichtiges Honorar von CHF 524. ergibt.
+
+Demgemäss
+erkennt der
+Einzelrichter :
+
+://:        Die Verlängerung der Ausschaffungshaft
+über A____ bis zum 1. Dezember 2025 ist rechtmässig und angemessen.
+
+A____ wird die unentgeltliche
+Rechtspflege mit Advokatin Constanze Seelmann, substituiert durch BLaw Lena
+Bühler, bewilligt.
+
+Es werden keine Kosten erhoben.
+
+Der unentgeltlichen Rechtsbeiständin
+Advokatin Constanze Seelmann wird ein Honorar von CHF 524., zuzüglich
+8,1 % MWST von CHF 42.45, aus der Gerichtskasse ausgerichtet.
+
+Mitteilung an:
+
+- A____
+
+- Migrationsamt Basel-Stadt
+
+- Staatssekretariat für Migration
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht
+
+Dr. Alexander Zürcher
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
+
+Der inhaftierte
+Ausländer kann einen Monat nach der Haftüberprüfung ein Haftentlassungsgesuch
+einreichen beim Verwaltungsgericht
+Basel-Stadt, Bäumleingasse 1, 4051 Basel .
