@@ -1,0 +1,234 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.540"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2025.79"
+docket_2: "AG.2025.540"
+decided: "2025-09-23"
+published: "2026-03-07"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78820&W10_KEY=3108675&nTrefferzeile=53&Template=search_result_document.html"
+cites_decisions: ["5A_217/2024", "5A_519/2019", "5A_829/2014", "KB.2025.642"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-108.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# Konkurseröffnung nach Art. 166 SchKG
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2025.79
+
+ENTSCHEID
+
+vom 23.
+September 2025
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und Gerichtsschreiber
+Dr. Alexander Zürcher
+
+Parteien
+
+A____ Beschwerdeführer
+
+[...]                                                                                              
+Schuldner
+
+gegen
+
+Kanton Basel-Stadt Beschwerdegegner
+
+4051 Basel                                                                                 
+ Gläubiger
+
+vertreten durch Finanzdepartement
+Rechtsdienst,
+
+Fischmarkt 10, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid des Zivilgerichts
+
+vom 16. September 2025
+
+betreffend Konkurseröffnung nach
+Art. 166 SchKG
+
+Sachverhalt
+
+A____ (Schuldner) ist als Inhaber
+des Einzelunternehmens [...] im Handelsregister eingetragen. Dieses hat gemäss
+Handelsregistereintrag den Zweck [] und alle damit verbundenen Arbeiten. Mit
+Entscheid vom 16. September 2025 eröffnete das Zivilgericht den Konkurs über
+den Schuldner im Betreibungsverfahren Nr. [...] für Forderungen des Kantons
+Basel-Stadt (Gläubiger) von CHF 678.00, zuzüglich Zins zu 4.5 % seit dem 21.
+Februar 2025, CHF 39.75, CHF 50.00 sowie sämtliche Betreibungs- und
+Konkurseröffnungskosten.
+
+Gegen den Entscheid vom 16. September 2025 reichte der
+Schuldner am 19. September 2025 beim Appellationsgericht Beschwerde ein. Darin
+beantragt er die Aufhebung des Konkurses. Das Appellationsgericht verzichtete
+auf die Einholung einer Beschwerdeantwort und fällte den vorliegenden Entscheid
+auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+Der Entscheid des Zivilgerichts betreffend Konkurseröffnung
+kann innert zehn Tagen mit Beschwerde nach der Schweizerischen
+Zivilprozessordnung (ZPO, SR 272) angefochten werden ( Art. 174 Abs. 1 des Bundesgesetzes über Schuldbetreibung und Konkurs [ SchKG , SR 281.1]). Die Beschwerde wurde form- und
+fristgerecht erhoben. Auf die Beschwerde ist einzutreten. Zuständig für die
+Beurteilung der Beschwerde ist das Dreiergericht des Appellationsgerichts
+(§ 92 Abs. 1 Ziff. 6 des Gerichtsorganisationsgesetzes [GOG,
+SG 154.100]).
+
+2.
+
+2.1 Die Beschwerdeinstanz kann die
+Konkurseröffnung aufheben, wenn der Schuldner seine Zahlungsfähigkeit glaubhaft
+macht und durch Urkunden beweist, dass inzwischen die Schuld, einschliesslich
+der Zinsen und Kosten, getilgt ist, der geschuldete Betrag bei der
+Rechtsmittelinstanz zuhanden der Gläubigerin hinterlegt ist oder die
+Gläubigerin auf die Durchführung des Konkurses verzichtet ( Art. 174
+Abs. 2 SchKG). Diese beiden Voraussetzungen müssen innerhalb der
+Beschwerdefrist glaubhaft gemacht bzw. bewiesen werden. Neue
+Tatsachenbehauptungen und neue Beweismittel sind bei der Beurteilung einer
+Beschwerde gegen einen Entscheid des Konkursgerichts im Sinn von Art. 174 SchKG
+nur zu berücksichtigen, wenn sie innerhalb der Beschwerdefrist vorgebracht
+worden sind (AGE BEZ.2022.54 vom 29. Juni 2025 E. 2.1).
+
+2.2 Der Schuldner kann auch geltend machen, er
+habe die Forderung bereits vor der Konkurseröffnung bezahlt.
+In diesem Fall muss er seine Zahlungsfähigkeit nicht glaubhaft machen. Dies
+wird gemäss Art. 174 Abs. 2 Ziff. 1 SchKG nur für den Fall der nachträglichen
+Zahlung verlangt (AGE BEZ.2025.36 vom 16. Juni 2025 E. 2.2 und BEZ.2024.41 vom
+25. Juni 2024 E. 2.2). Auch bei Bezahlung der Forderung vor der
+Konkurseröffnung setzt die Aufhebung der Konkurseröffnung allerdings voraus,
+dass der Schuldner durch Urkunden beweist, dass er die Schuld, einschliesslich
+der Zinsen und Kosten getilgt hat. Zu den Kosten, welche in diesem Fall vor der
+Konkurseröffnung beglichen worden sein müssen, gehören die Betreibungskosten
+einschliesslich der Kosten der Konkursandrohung, die Gerichtskosten eines
+allfälligen Rechtsöffnungsverfahrens, eine allfällige Parteientschädigung für
+ein allfälliges Rechtsöffnungsverfahren, die Gerichtskosten des Verfahrens der
+Konkurseröffnung und eine allfällige Parteientschädigung für das Verfahren der Konkurseröffnung
+( Kren Kostkiewicz , in: SchKG
+Kommentar, Schuldbetreibungs- und Konkursgesetz mit weiteren Erlassen, 20.
+Auflage, Zürich 2020, Art. 174 N 26). Andere Beweismittel als Urkunden
+genügen nicht, sofern der Gläubiger die Tilgung nicht vor dem Konkursgericht
+selbst zugesteht (AGE BEZ.2020.46 vom 30. September 2020 E. 3.1; vgl. Giroud/Theus Simoni , in: Basler
+Kommentar, 3. Auflage 2021, Art. 172 SchKG N 8 und 11 sowie Art. 174 SchKG
+N 21c).
+
+Zu den vorgenannten Kosten kommen die Kosten des Konkursamts
+hinzu, die zwischen der Konkurseröffnung durch die erste Instanz und der
+Aufhebung des Konkurses im Rechtsmittelverfahren anfallen. Die Aufhebung der
+Konkurseröffnung durch die Rechtsmittelinstanz setzt voraus, dass der Schuldner
+auch die Tilgung oder Hinterlegung dieser nach der Konkurseröffnung
+angefallenen Kosten des Konkursamts innert der Rechtsmittelfrist belegt ( Giroud/Theus Simoni , a.a.O., Art. 174
+SchKG N 21c; BGer 5A_217/2024 vom 14. Juni 2024 E. 2.1 und 5A_829/2014 vom
+9. Februar 2015 E. 3.5; Obergericht Zürich PS250062 vom 28. März 2025 E.
+2.2 und PS240239 vom 18. Dezember 2024 E. II/1.2; ZR 2011 Nr. 79). Dies gilt
+grundsätzlich selbst für den Fall, dass die Tilgung der Forderung einschliesslich
+der Zinsen und der übrigen Kosten bereits vor der
+Konkurseröffnung erfolgt ist (Obergericht Zürich PS250062 vom 28. März
+2025 E. 2.2 und PS240239 vom 18. Dezember 2024 E. II/1.2).
+
+2.3 Vorliegend kann der Schuldner durch Urkunden
+beweisen, dass er die Schuld, einschliesslich der Zinsen und Kosten, vor der
+Eröffnung des Konkurses beglichen hat. Aus der Abrechnung des Betreibungsamts
+vom 16. September 2025 (und der Bestätigung in der Quittung vom 18. September
+2025) geht hervor, dass der Schuldner die Schuld, einschliesslich der Zinsen
+und Kosten der Konkurseröffnung am 16. September 2025 vor 13:21 Uhr und
+damit vor der Eröffnung des Konkurses (gleichentags um 15:20 Uhr) beglichen
+hat. In diesem Fall kann auf die Prüfung der Zahlungsfähigkeit verzichtet
+werden (AGE BEZ.2024.41 vom 25. Juni 2024 E. 2.2). Der Schuldner konnte auch
+innerhalb der Rechtsmittelfrist belegen, dass die nach Konkurseröffnung
+angefallenen Kosten des Konkursamts von CHF 1'200. beglichen worden sind.
+
+3.
+
+Aus den
+vorstehenden Erwägungen folgt, dass die Beschwerde gutzuheissen und die
+Konkurseröffnung aufzuheben ist. Im vorliegenden Fall kann der Schuldner zwar
+aufzeigen, dass er die Schuld inklusive Zinsen und Gebühren vor
+der Konkurseröffnung bezahlt hat. Die Zahlung an das Betreibungsamt erfolgte
+aber erst wenige Stunden vor der Konkursöffnung. Das Betreibungsamt ist nicht
+verpflichtet, von sich aus den Konkursrichter über die erhaltene Zahlung zu
+orientieren. Dies ist Sache der Parteien (AGE BEZ.2025.36 vom 16. Juni 2025 E.
+3; Fritschi , Verfahrensfragen bei
+der Konkurseröffnung, Zürich 2010, S. 294; BGer 5A_519/2019 vom 29.
+Oktober 2019 E. 3.4.2). Die Behauptung des Schuldners, wonach ein
+Mitarbeiter des Betreibungsamts ihm gegenüber zugesichert habe, das
+Konkursgericht per E-Mail zu informieren, und dass die Sache damit erledigt
+sei, ist unbelegt und aufgrund der vorerwähnten Lehre und Rechtsprechung nicht glaubhaft.
+Infolge der ausgebliebenen Mitteilung an das Konkursgericht über die wenige Stunden vor der Konkurseröffnung erfolgte Zahlung an das
+Betreibungsamt verursachte der Schuldner unnötigerweise das erstinstanzliche
+Verfahren und das Beschwerdeverfahren. Daher hat er gemäss Art. 108 ZPO
+trotz Gutheissung seiner Beschwerde die Gerichtskosten zu
+tragen. Die Gerichtskosten des erstinstanzlichen Verfahrens werden auf
+CHF 350. und die Gerichtskosten des Beschwerdeverfahrens auf CHF 600.
+festgesetzt (Art. 52 lit. b und Art. 61 Abs. 1 der
+Gebührenverordnung zum Bundesgesetz über Schuldbetreibung und Konkurs (GebV SchKG , SR 281.35).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Die Beschwerde wird gutgeheissen und der
+Konkursentscheid des Zivilgerichts vom 16. September 2025
+(KB.2025.642) wird aufgehoben.
+
+Der Beschwerdeführer trägt die Gerichtskosten des
+erstinstanzlichen Verfahrens von CHF 350. und die Gerichtskosten des
+Beschwerdeverfahrens von CHF 600..
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Beschwerdegegner
+
+- Zivilgericht Basel-Stadt
+
+- Konkursamt Basel-Stadt
+
+- Betreibungsamt Basel-Stadt
+
+- Grundbuch- und Vermessungsamt Basel-Stadt
+
+- Handelsregisteramt Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der Gerichtsschreiber
+
+Dr. Alexander Zürcher
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem Bundesgericht (1000
+Lausanne 14) einzureichen. Für die Anforderungen an deren Inhalt wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
