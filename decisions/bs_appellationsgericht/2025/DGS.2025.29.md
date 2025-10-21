@@ -1,0 +1,299 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.623"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "DGS"
+docket: "DGS.2025.29"
+docket_2: "AG.2025.623"
+decided: "2025-10-21"
+published: "2026-03-24"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78965&W10_KEY=3173990&nTrefferzeile=44&Template=search_result_document.html"
+cites_decisions: ["7B_1056/2023", "7F_27/2025", "BGE 137 IV 59", "BGE 145 IV 197", "SB.2020.43"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/312.0/art-021.md", "switzerland/bund/acts/312.0/art-410.md", "switzerland/bund/acts/312.0/art-412.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# Revisionsgesuch
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+DGS.2025.29
+
+ENTSCHEID
+
+vom 21.
+Oktober 2025
+
+Mitwirkende
+
+lic. iur. Marc Oser, Dr. Manuel
+Kreis, Dr. Katharina Zimmermann
+
+und Gerichtsschreiberin
+MLaw Rahel Spinnler
+
+Beteiligte
+
+A____ Gesuchsteller
+
+[...]
+
+vertreten durch Dr. iur. Peter Vetter,
+Advokat,
+
+Centralbahnstrasse 7, Postfach
+206, 4010 Basel
+
+gegen
+
+Appellationsgericht
+Basel-Stadt Gesuchsgegner
+
+Bäumleingasse 1, 4051 Basel
+
+Gegenstand
+
+Revisionsgesuch betreffend
+Urteil des Appellationsgerichts vom
+
+20. April 2023 (SB.2020.43)
+
+Sachverhalt
+
+Das Strafgericht
+des Kantons Basel-Stadt verurteilte A____ (nachfolgend Gesuchsteller) am 21.
+November 2019 wegen mengenmässig qualifizierter Widerhandlung gegen das
+Betäubungsmittelgesetz, mehrfacher einfacher Körperverletzung, Nötigung,
+Hinderung einer Amtshandlung und mehrfacher Übertretung des
+Betäubungsmittelgesetzes zu einer Freiheitsstrafe von zwei Jahren und
+anderthalb Monaten, unter Anrechnung der Untersuchungshaft, zu einer Geldstrafe
+von zehn Tagessätzen zu CHF 30. und zu einer Busse von CHF 300., als
+Zusatzstrafe zum Urteil des Obergerichts des Kantons Schaffhausen vom 19.
+Januar 2018. Es verwies den Gesuchsteller für sieben Jahre des Landes, unter
+Eintragung im Schengener Informationssystem (SIS).
+
+Auf die dagegen
+erhobene Berufung befand das Appellationsgericht des Kantons Basel-Stadt den
+Gesuchsteller am 20. April 2023 im Verfahren SB.2020.43 schuldig der mengenmässig
+qualifizierten Widerhandlung gegen das Betäubungsmittelgesetz, der mehrfachen
+einfachen Körperverletzung, der versuchten Nötigung und der Hinderung einer
+Amtshandlung. Es stellte die Rechtskraft folgender Punkte des erstinstanzlichen
+Urteils fest: Schuldspruch wegen mehrfacher Übertretung des
+Betäubungsmittelgesetzes (soweit diese Taten nicht verjährt waren), Verfügung
+über die beschlagnahmten Gegenstände sowie Entschädigung der amtlichen
+Verteidigung. Das Appellationsgericht verurteilte den Gesuchsteller zu einer
+Freiheitsstrafe von 20 Monaten, unter Anrechnung der ausgestandenen
+Untersuchungshaft, sowie zu einer Geldstrafe von 10 Tagessätzen zu CHF
+30. und einer Busse von CHF 300., als Zusatzstrafe zum Urteil des
+Obergerichts des Kantons Schaffhausen vom 19. Januar 2018. Es verwies ihn für
+fünf Jahre des Landes, unter Eintragung im SIS.
+
+Der
+Gesuchsteller führte daraufhin Beschwerde in Strafsachen im Verfahren
+7B_1056/2023, welche das Bundesgericht mit Urteil vom 26. März 2025 abwies,
+soweit es darauf eintrat.
+
+Mit Eingabe vom
+15. Mai 2025 wandte sich die Mutter des Gesuchstellers mit einem als
+"Wiedererwägungsgesuch zum Landesverweis" bezeichneten Schreiben an
+das Appellationsgericht. Dieses leitete das Schreiben an das Bundesgericht
+weiter. Mit Schreiben vom 26. Mai 2025 informierte das Bundesgericht die Mutter
+des Gesuchstellers darüber, dass sie nicht zur Vertretung ihres Sohnes befugt
+sei und setzte ihr eine Frist, um das Revisionsgesuch durch den Gesuchsteller
+beziehungsweise durch seine Rechtsvertretung unterzeichnen zu lassen.
+
+In der Folge
+wandte sich der Gesuchsteller, vertreten durch Rechtsanwalt Dr. iur. Peter Vetter,
+mit Revisionsgesuch vom 6. Juni 2025 an das Bundesgericht. Er stellt das
+Begehren, die gerichtliche Zuständigkeit vorfrageweise zu klären. Er ist der
+Auffassung, dass nicht das Bundesgericht, sondern das Appellationsgericht zur
+Prüfung des Revisionsgesuchs zuständig sei. Sofern das Bundesgericht dieser
+Auffassung aber wider Erwarten nicht folge, werde beantragt, dass das
+Bundesgericht die Landesverweisung ersatzlos aufhebe.
+
+Das
+Bundesgericht trat auf das Revisionsgesuch mit Urteil vom 10. Juli 2025 im
+Verfahren 7F_27/2025 nicht ein und übermittelte dieses zuständigkeitshalber dem
+Appellationsgericht.
+
+Der vorliegende
+Entscheid ist unter Beizug der Vorakten auf dem Zirkulationsweg ergangen. Die
+Einzelheiten der Parteistandpunkte ergeben sich  soweit sie für den Entscheid
+von Bedeutung sind  aus den nachfolgenden Erwägungen.
+
+Erwägungen
+
+1.
+
+1.1 Zur Beurteilung des vorliegenden
+Revisionsgesuchs ist das Appellationsgericht Basel-Stadt als Berufungsgericht zuständig
+(BGer 7F_27/2025 vom 10. Juli 2025; Art. 411 Abs. 1 der Schweizerischen
+Strafprozessordnung [StPO, SR 312.0] in Verbindung mit § 91 Abs. 1
+Ziff. 2 des Gesetzes betreffend die Organisation der Gerichte und der
+Staatsanwaltschaft [GOG, SG 154.100]). Gemäss Art. 412 Abs. 1 StPO nimmt
+das Berufungsgericht in einem schriftlichen Verfahren eine vorläufige Prüfung
+des Revisionsgesuches vor. Ist das Gesuch offensichtlich unzulässig oder
+unbegründet oder wurde es mit dem gleichen Vorbringen schon früher gestellt und
+abgelehnt, so tritt das Gericht nicht darauf ein (Art. 412 Abs. 2 StPO).
+In Basel-Stadt ist für die Vorprüfung von Revisionsgesuchen betreffend Urteile
+des Dreiergerichts des Strafgerichts oder des Appellationsgerichts ein
+Dreiergericht zuständig (§ 92 Abs. 1 Ziff. 2 GOG). In diesen Fällen ist eine
+Vernehmlassung bei den anderen Parteien oder der Vorinstanz nicht erforderlich
+(Art. 412 Abs. 2 in Verbindung mit Abs. 3 StPO; Heer/Covaci , in: Basler Kommentar,
+3. Auflage 2023, Art. 412 StPO N 9). Für die Zusammensetzung des
+Gerichts ist die Vorschrift von Art. 21 Abs. 3 StPO zu beachten, wonach
+Mitglieder des im Hauptverfahren entscheidenden Berufungsgerichts nicht im
+gleichen Fall als Revisionsrichterinnen und Revisionsrichter tätig sein dürfen
+(vgl. statt vieler AGE DGS.2019.25 vom 28. Januar 2020 E.1.1).
+
+1.2 Gemäss Art. 410 Abs. 1 lit. a
+StPO kann die Revision verlangen, wer neue, vor dem Entscheid eingetretene
+Tatsachen oder neue Beweismittel geltend macht, die geeignet sind, einen
+Freispruch, eine wesentlich mildere oder wesentlich strengere Bestrafung oder
+eine Verurteilung der freigesprochenen Person herbeizuführen. Tatsachen und
+Beweismittel im Sinne von Art. 410 Abs. 1 lit. a StPO sind neu,
+wenn das Gericht im Zeitpunkt der Urteilsfällung keine Kenntnis von ihnen
+hatte, das heisst, wenn sie ihm nicht in irgendeiner Form unterbreitet worden
+sind (BGE 137 IV 59 E. 5.1.2, 130 IV 72 E. 1, 116 IV 353 E. 3a).
+Neue Tatsachen und Beweismittel sind erheblich, wenn sie geeignet sind, die
+tatsächlichen Feststellungen, auf die sich die Verurteilung stützt, zu
+erschüttern und wenn die so veränderten Tatsachen einen deutlich günstigeren
+Entscheid zugunsten des Verurteilten ermöglichen (BGE 145 IV 197 E. 1.1, 137 IV
+59 E. 5.1.4, 130 IV 72 E. 1). Revisionsverfahren dienen nicht dazu,
+rechtskräftige Entscheide jederzeit infrage zu stellen oder frühere prozessuale
+Versäumnisse zu beheben. Folglich ist ein Gesuch um Revision grundsätzlich
+nicht zuzulassen, wenn es sich auf Tatsachen stützt, die der gesuchstellenden
+Person von Anfang an bekannt waren, die sie ohne schützenswerten Grund
+verschwieg und die sie in einem ordentlichen Verfahren hätte geltend machen
+können (zum Ganzen: BGE 145 IV 197 E. 1.1 m.w.H).
+
+1.3 Der Gesuchsteller bringt im Revisionsgesuch
+vom 6. Juni 2025 vor, dass eine nachträglich festgestellte hohe
+Massnahmenempfindlichkeit hinsichtlich der Landesverweisung vorliegen würde. Er
+verweist auf die sich in der Beilage zum Gesuch befindende psychiatrische
+Stellungnahme von B____ vom 13. Mai 2025 und die psychotherapeutische
+Stellungnahme von C____ vom 2. Juni 2025. Zusammenfassend halten die
+Stellungnahmen fest, dass der Gesuchsteller seit langem an schweren Traumata
+leide, die ihn in den Konsum von Suchtmitteln geführt hätten und die er nun zu
+kurieren begonnen habe. Eine Landesverweisung würde den Gesuchsteller in seiner
+Gesundheit erheblich beeinträchtigen, woraus sich ein eminentes persönliches
+Interesse des Gesuchstellers ergeben würde, nicht des Landes verwiesen zu
+werden. Der Gesuchsteller macht geltend, die ausgesprochen hohe Massnahmenempfindlichkeit
+sei während des Strafverfahrens bereits vorgelegen, jedoch weder ihm noch den
+urteilenden Instanzen bekannt gewesen. Die ausserordentlich hohe Gefahr für die
+Gesundheit des Gesuchstellers bei Ausweisung in sein Herkunftsland bilde einen
+Revisionsgrund nach Art. 410 Abs. 1 lit. a StPO.
+
+1.4 Das Appellationsgericht hat im Urteil SB.2020.43
+vom 20. April 2023 unter Erwägung 5.3 eine Abwägung der privaten Interessen des
+Gesuchstellers am Verbleib in der Schweiz und den öffentlichen Interessen an
+einer Landesverweisung vorgenommen. Dabei wurden die Suchtproblematik und auch
+die psychischen Probleme des Gesuchstellers berücksichtigt. Das
+Appellationsgericht hat in E. 5.3.4 folgendes ausgeführt: « Es ist der
+Staatsanwaltschaft angesichts der Strafregistereinträge, der aktuell beurteilten
+Delikte, der Schulden und der Arbeitslosigkeit des Berufungsklägers
+beizupflichten, dass der Berufungskläger nicht erfolgreich integriert ist. Für
+seine Legalprognose erscheint sein Umgang mit der vorhandenen Suchtproblematik
+entscheidend. Die Ausführungen seines Verteidigers vor Berufungsgericht hierzu
+sind widersprüchlich. So hat er zwar im Zusammenhang mit der Landesverweisung
+mit der neuen Lebenssituation als Vater einer kleinen Tochter argumentiert,
+welche ihn dazu bewogen habe, seit Geburt des Kindes (also seit Februar 2019)
+auf Betäubungsmittel zu verzichten. An anderer Stelle im Plädoyer wurde dann
+allerdings darauf verwiesen, dass der Berufungskläger seit Herbst 2022 wieder
+vermehrt unter seiner Sucht leide (Akten S. 4812.32). Es wurde eine
+Einsicht des Berufungsklägers A____ in dessen Suchtproblematik geltend gemacht,
+indem in Aussicht gestellt wurde, er werde sich daher in stationäre Behandlung
+begeben. Dem von der Verteidigung eingereichten Bericht der Integrierten
+Psychiatrie Winterthur ist jedoch zu entnehmen, dass A____ sich am 19.
+September 2022 aufgrund von Angstzuständen nach Kokain- und THC-Konsum freiwillig
+in stationäre Behandlung begeben hat, was prima vista auf eine Problemeinsicht
+und Behandlungsbereitschaft schliessen lässt. Allerdings ergibt sich aus dem
+Bericht klar, dass A____ als Grund für seine Aufnahme angegeben hat, seine
+Mutter und seine Schwester hätten ihn zum Klinikaufenthalt gedrängt. Ihm selbst
+sei ein Klinikaufenthalt sinn- und nutzlos erschienen. Er habe von seinem
+Anspruch auf Übernachtungsurlaub Gebrauch gemacht und sei dann nicht mehr in
+die Behandlung zurückgekehrt. Er habe ein telefonisches Austrittsgespräch
+gewünscht und sei gebeten worden vorbeizukommen, um die Gefährdungsaspekte
+besser beurteilen zu können. Er habe angekündigt, im Verlaufe des Tages
+vorbeizukommen, was dann aber nicht geschehen sei (Akten S. 4812.51 f.). Dem
+Gericht liegen somit klare Hinweise auf eine unbewältigte Suchtproblematik ohne
+eigene Problemeinsicht vor, die im Zusammenhang mit der Legalprognose klar negativ
+zu gewichten sind. [] »
+
+Die Abhängigkeitssymptome, die psychischen Probleme sowie
+eine in Aussicht gestellte diesbezügliche stationäre Therapie und demnach auch
+die geltend gemachte hohe Massnahmenempfindlichkeit waren dem
+Appellationsgericht zum Beurteilungszeitpunkt bekannt und wurden bei der
+Beurteilung der Landesverweisung berücksichtigt. Die nun eingereichten
+Stellungnahmen bestätigen die damaligen Feststellungen lediglich erneut. Der
+Gesuchsteller begründet nicht genügend und darüber hinaus ist auch nicht
+ersichtlich, inwiefern die nun offenbar neu diagnostizierte posttraumatische
+Belastungsstörung beziehungsweise mehrere mutmasslich gravierende traumatische
+Erfahrungen geeignet sein sollen, die Feststellungen im ursprünglichen Urteil
+so zu erschüttern, sodass eine deutlich mildere Beurteilung beziehungsweise ein
+Absehen von der Landesverweisung als wahrscheinlich erscheint und daher im
+Falle einer Neubeurteilung eine wesentlich mildere Strafe im Sinne von Art. 410
+Abs. 1 lit. a StPO erwartet werden könnte.
+
+1.5 Im Übrigen wird darauf hingewiesen, dass die
+in den eingereichten Stellungnahmen erwähnten gesundheitlichen Risiken
+hauptsächlich eine Problematik der Ausschaffung beziehungsweise Umsetzung der
+Vollstreckung der Landesverweisung sind und deshalb in jenem
+(verwaltungsrechtlichen) Verfahren geltend zu machen wären. Der Gesuchsteller
+hat beispielsweise die Möglichkeit, einen Aufschub der Landesverweisung aus
+gesundheitlichen Gründen gemäss Art. 66 d des Schweizerischen
+Strafgesetzbuches (StGB, SR 311.0) zu beantragen.
+
+2.
+
+2.1 Zusammenfassend
+erweist sich das gestellte Revisionsgesuch bereits aufgrund einer summarischen
+Vorprüfung als unbegründet, so dass darauf in Anwendung von Art. 412 Abs. 2 StPO
+nicht einzutreten ist.
+
+2.2 Bei
+diesem Ausgang des Verfahrens hat der Gesuchsteller dessen Kosten zu tragen. Es
+wird ihm eine Entscheidgebühr von CHF 500. auferlegt (Art. 428 Abs. 1 StPO in
+Verbindung mit § 22 Abs. 1 des Gerichtsgebührenreglements [GGR,
+SG 154.810]).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Auf das Revisionsgesuch wird nicht
+eingetreten.
+
+Der Gesuchsteller trägt die Kosten des
+Revisionsverfahrens mit einer Gebühr von CHF 500., einschliesslich Auslagen.
+
+Mitteilung an:
+
+- Gesuchsteller
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Der Präsident                                                            Die
+Gerichtsschreiberin
+
+lic. iur. Marc Oser                                                      MLaw
+Rahel Spinnler
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 78 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Strafsachen erhoben werden. Die Beschwerdeschrift muss spätestens am
+letzten Tag der Frist beim Bundesgericht (1000 Lausanne 14) eingereicht oder zu
+dessen Handen der Schweizerischen Post oder einer diplomatischen oder
+konsularischen Vertretung der Schweiz im Ausland übergeben werden (Art. 48 Abs.
+1 BGG). Für die Anforderungen an den Inhalt der Beschwerdeschrift wird auf Art.
+42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels entscheidet das
+Bundesgericht.
