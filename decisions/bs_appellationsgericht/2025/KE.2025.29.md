@@ -1,0 +1,344 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.643"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "KE"
+docket: "KE.2025.29"
+docket_2: "AG.2025.643"
+decided: "2025-10-29"
+published: "2026-05-21"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=78999&W10_KEY=3315685&nTrefferzeile=56&Template=search_result_document.html"
+cites_decisions: ["BGE 140 III 49", "KE.2023.39", "KE.2023.43", "KE.2025.29", "VD.2016.158", "VD.2017.23", "VD.2018.79", "VD.2020.69"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-388.md", "switzerland/bund/acts/210/art-389.md", "switzerland/bund/acts/210/art-390.md", "switzerland/bund/acts/210/art-394.md", "switzerland/bund/acts/210/art-395.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450a.md", "switzerland/bund/acts/210/art-450b.md", "switzerland/bund/acts/210/art-450f.md"]
+---
+
+# Errichtung einer Beistandschaft und Entzug des Kontozugriffs
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Dreiergericht
+
+KE.2025.29
+
+URTEIL
+
+vom 29.
+Oktober 2025
+
+Mitwirkende
+
+Dr. Stephan Wullschleger, Dr.
+Patrizia Schmid, lic. iur. Lucienne Renaud
+
+und
+Gerichtsschreiberin MLaw Anna Bleichenbacher
+
+Beteiligte
+
+A____ Beschwerdeführer
+
+[]
+
+gegen
+
+Kindes- und
+Erwachsenenschutzbehörde KESB
+
+Rheinsprung 16/18, 4001 Basel
+
+Gegenstand
+
+Beschwerde gegen einen Entscheid
+der Kindes- und
+
+Erwachsenenschutzbehörde vom 23.
+Juni 2025
+
+betreffend Errichtung einer
+Beistandschaft und Entzug des Kontozugriffs
+
+Sachverhalt
+
+A____ (Beschwerdeführer) ist seit dem 5. März 2021 Mieter
+einer Alterswohnung im Alterszentrum [...]. Am 13. Dezember 2024 reichte der
+Geschäftsführer des Alterszentrums [...], B____, eine Gefährdungsmeldung
+betreffend den Beschwerdeführer bei der Kindes- und Erwachsenenschutzbehörde
+Basel-Stadt (fortan: KESB) ein. Hintergrund waren insbesondere unbezahlte
+Rechnungen betreffend []-Leistungen. Der Beschwerdeführer sei auf die []-Leistungen
+angewiesen, diese könnten aber wegen des Zahlungsausstands in näherer Zukunft
+nicht mehr erbracht werden. In der Gefährdungsmeldung wurde zudem angegeben,
+der Beschwerdeführer hätte Arzttermine nicht eingehalten, was seine Gesundheit
+gefährde. Der Beschwerdeführer zeige auch agitiertes und verbal auffälliges
+Verhalten gegenüber dem Gesundheitspersonal. In der Folge klärte die KESB die
+Situation des Beschwerdeführers ab.
+
+Mit Entscheid vom 23. Juni 2025 hat die KESB für den
+Beschwerdeführer eine Vertretungsbeistandschaft mit Vermögensverwaltung gemäss
+Art. 394 Abs. 1 ZGB in Verbindung mit Art. 395 Abs. 1 ZGB errichtet. Als
+Beistand wurde C____, Amt für Beistandschaften und Erwachsenenschutz
+Basel-Stadt (ABES), eingesetzt. Der Beistand sollte den Beschwerdeführer im
+Wesentlichen betreffend Unterkunft, in medizinischen Belangen sowie bei der
+Erledigung von administrativen und finanziellen Belangen unterstützen. Dem
+Beschwerdeführer wurde gestützt auf Art. 395 Abs. 3 ZGB der Zugriff auf die auf
+ihn lautenden Konto- und Depotbeziehungen entzogen, mit Ausnahme eines von der
+Beistandsperson zu bezeichnenden Kontos mit Beträgen zur freien Verfügung des
+Verbeiständeten. Gegen diesen Entscheid richtet sich die Beschwerde des
+Beschwerdeführers vom 18. Juli 2025. Da der Beschwerdeführer innert Frist
+keinen Antrag auf Durchführung einer mündlichen Verhandlung stellte, ergeht der
+vorliegende Entscheid schriftlich auf dem Zirkularweg.
+
+Erwägungen
+
+1.
+
+1.1 Gegen Entscheide der KESB kann gemäss Art.
+450 Abs. 1 Zivilgesetzbuch (ZGB, SR 210) sowie § 17 Abs. 1 des kantonalen
+Kindes- und Erwachsenenschutzgesetzes (KESG, SG 212.400) Beschwerde an das
+Verwaltungsgericht geführt werden. Zuständig ist ein Dreiergericht des
+Appellationsgerichts (§ 92 Abs. 1 Ziff. 10 Gerichtsorganisationsgesetz [GOG, SG
+154.100]).
+
+1.2 Im Beschwerdeverfahren kommen die
+Verfahrensbestimmungen des ZGB (Art. 450 ff. ZGB) und die
+kantonalrechtlichen Verfahrensregeln des KESG zur Anwendung. Das Verfahren vor
+den gerichtlichen Beschwerdeinstanzen richtet sich gemäss § 19 Abs. 1 KESG mangels
+spezialgesetzlicher Regelung nach dem Gesetz über die Verfassungs- und
+Verwaltungsrechtspflege (VRPG, SG 270.100), soweit das Bundesrecht oder das
+KESG nichts anderes vorsehen. Subsidiär gilt nach Art. 450f ZGB die
+Zivilprozessordnung (ZPO, SR 272).
+
+1.3 Zur Beschwerde befugt sind die am Verfahren
+beteiligten Personen, das heisst, die vom Streitgegenstand der angefochtenen
+Anordnung der Erwachsenenschutzbehörde direkt betroffene Person ( Droese , Basler Kommentar, 7. Aufl. 2022,
+Art. 450 ZGB N 29 f.). Als von der Verbeiständung betroffene Person ist der
+Beschwerdeführer zur Beschwerde legitimiert.
+
+1.4 Im Erwachsenenschutzrecht können mit einer
+Beschwerde gemäss Art. 450a Abs. 1 ZGB Rechtsverletzungen, die unrichtige oder
+unvollständige Feststellung des rechtserheblichen Sachverhalts und
+Unangemessenheit gerügt werden. Die Beschwerde ist damit ein vollkommenes
+Rechtsmittel, das eine umfassende Überprüfung des angefochtenen Entscheids in
+tatsächlicher und rechtlicher Hinsicht erlaubt. Dem Verwaltungsgericht als
+Beschwerdeinstanz kommt mithin freie Kognition zu ( Droese , a.a.O., Art. 450a ZGB N 4, 9). Dennoch ist es
+angebracht, dass sich das Verwaltungsgericht eine gewisse Zurückhaltung
+auferlegt, wo es der besonderen Erfahrung und dem Fachwissen der Kindes- und
+Erwachsenenschutzbehörde als Vorinstanz Rechnung zu tragen gilt (VGE VD.2020.69
+vom 8. Oktober 2020 E. 1.4). Das Verwaltungsgericht überprüft den angefochtenen
+Entscheid dabei nicht von sich aus unter allen in Frage kommenden Aspekten,
+sondern untersucht nur die rechtzeitig vorgebrachten Beanstandungen (VGE
+VD.2018.79 vom 16. Oktober 2018 E. 1.4.1, VD.2017.23 vom 2. Mai 2017 E. 1.2,
+VD.2016.158 vom 12. April 2017 E. 1.2.2; Wullschleger/Schröder, Praktische Fragen des Verwaltungsprozesses im Kanton Basel-Stadt, in:
+BJM 2005, S. 277, 305). Dabei hat bereits mit der Beschwerdebegründung eine
+Auseinandersetzung mit den Erwägungen im angefochtenen Entscheid zu erfolgen,
+sodass grundsätzlich auch im Erwachsenenschutzrecht das sogenannte Rügeprinzip
+gilt (VGE KE.2023.39 vom 27. Juni 2024 E. 1.4, KE.2023.43 vom 2. Februar 2024
+E. 1.4). An die Begründung sind jedoch  insbesondere bei nicht anwaltlich
+vertretenen Laien  keine hohen Anforderungen zu stellen. Es genügt, wenn aus
+der Beschwerde hinreichend klar hervorgeht, wogegen sie sich richtet und
+weshalb die beschwerdeführende Person in diesem Punkt nicht einverstanden ist ( Droese , a.a.O., Art. 450 ZGB N 42, mit
+Hinweisen).
+
+Vorliegend kommt der Wille des anwaltlich nicht vertretenen
+Beschwerdeführers in der von ihm unterzeichneten Beschwerde (bezeichnet als
+«Einsprache zur errichteten Beistandschaft») genügend zum Ausdruck. Auf die
+rechtzeitig erhobene Beschwerde ist daher einzutreten (Art. 450 Abs. 3 in
+Verbindung mit Art. 450b Abs. 1 ZGB).
+
+2.
+
+2.1 Mit behördlichen
+Massnahmen des Erwachsenenschutzes werden das Wohl und der Schutz
+hilfsbedürftiger Personen sichergestellt. Eine Beistandschaft wird errichtet,
+wenn eine hilfsbedürftige Person infolge eines in ihrer Person liegenden
+Schwächezustandes ihre Angelegenheiten nur teilweise oder gar nicht besorgen
+kann (Art. 390 Abs. 1 Ziff. 1 ZGB). Eine Vertretungsbeistandschaft wird nach
+Art. 394 Abs. 1 ZGB errichtet, wenn die hilfsbedürftige Person aufgrund
+eines Schwächezustands bestimmte Angelegenheiten nicht oder nicht zweckmässig
+allein erledigen kann und daher der Vertretung bedarf. Die Aufgabenbereiche der
+Beistandschaft sind entsprechend den Bedürfnissen der betroffenen Person zu
+umschreiben (Art. 391 Abs. 1 f. ZGB; BGE 140 III 49 E. 4.3.1).
+Dabei soll die Selbstbestimmung der betroffenen Person bei der Wahl der
+Massnahme in Anwendung des Verhältnismässigkeitsprinzips so weit wie möglich
+erhalten und gefördert werden (Art. 388 ZGB). Behördliche Massnahmen sind nur
+soweit zulässig, als sie zur Unterstützung der hilfsbedürftigen Person
+erforderlich und geeignet sind (Art. 389 ZGB).
+
+Im Sinne der Subsidiarität der Massnahmen des
+Erwachsenenschutzes bzw. entsprechend dem Verhältnismässigkeitsprinzip darf
+eine Vertretungsbeistandschaft nur angeordnet werden, wenn den negativen Folgen
+des Schwächezustandes der betroffenen Person nicht anders begegnet werden kann
+(Art. 389 Abs. 2 ZGB; BGE 140 III 49 E. 4.3.1; Botschaft vom 28. Juni 2006 zur
+Änderung des ZGB [Erwachsenenschutz, Personenrecht und Kindesrecht], in: BBl
+2006 S. 7001, 7042 Ziff. 2.2.1; Biderbost ,
+Basler Kommentar, 7. Auflage 2022, Art. 389 ZGB N 2; Häfeli, in: Büchler et al. (Hrsg.),
+FamKomm Erwachsenenschutz, Bern 2013, Art. 389 ZGB N 12). Ist die
+gebotene Unterstützung der hilfsbedürftigen Person auf andere Art  durch
+Familie, andere nahestehende Personen oder private oder öffentliche Dienste 
+bereits gewährleistet, so ordnet die Erwachsenenschutzbehörde keine Massnahme
+an (Art. 389 Abs. 1 Ziff. 1 ZGB; BGE 140 III 49 E. 4.3.1, mit
+Hinweis). Die Erwachsenenschutzbehörde muss diesbezüglich ausführliche und
+differenzierte Abklärungen treffen ( Häfeli ,
+a.a.O., Art. 389 ZGB N 10). Die mit der Anordnung einer
+Vertretungsbeistandschaft verbundene Einmischung in die Privatsphäre kommt
+insbesondere dann in Frage, wenn die Unterstützung der betroffenen Person für
+ihre Vertretung durch das persönliche Umfeld oder private oder öffentliche
+Dienste nicht ausreicht oder von vornherein als ungenügend erscheint (Art. 389
+Abs. 1 ZGB; Biderbost , a.a.O.,
+Art. 394 ZGB N 8).
+
+2.2 Zur
+Begründung der Errichtung einer Beistandschaft erwog die
+Erwachsenenschutzbehörde vorliegend im Wesentlichen, aus den Abklärungen habe
+sich ergeben, dass der Beschwerdeführer aufgrund seiner gesundheitlichen
+Situation in Verbindung mit seinem erhöhten Alkoholkonsum nicht mehr
+ausreichend in der Lage sei, seine Angelegenheiten selbständig zu erledigen. Sein
+Gesundheitszustand bedinge eine Unterstützung des Beschwerdeführers bei der
+Erledigung seiner finanziellen und administrativen Angelegenheiten sowie der
+Vermögensverwaltung und weiter im Bereich Wohnen und Gesundheit.
+
+2.3 Der Beschwerdeführer bestreitet die
+Feststellungen der Erwachsenenschutzbehörde nicht substantiiert. Er stellt sich
+lediglich auf den Standpunkt, keine Hilfe zu benötigen. Er könne seine
+alltäglichen Kosten wie zum Beispiel den Mietzins für seine Wohnung, die
+Krankenkassenprämie, das U-Abo und das Handyabo selbständig einzahlen und
+brauche keine Hilfe dabei.
+
+2.4
+
+2.4.1 Aus den Akten ergibt sich, dass gegen den
+Beschwerdeführer Betreibungen in Höhe von insgesamt CHF 54'084.32 sowie Verlustscheine
+in Höhe von total CHF 153327.05 vorliegen (KESB-Akten S. 4 ff., Stand 15.
+August 2025). Auch Betreibungen/Verlustscheine der Krankenkasse sowie eines
+Mobilfunkanbieters sind aus der Auflistung der Betreibungen/Verlustscheine
+ersichtlich. Diese Positionen hatte der Beschwerdeführer in seiner
+Beschwerdeschrift explizit als für ihn selbständig bewältigbar hervorgehoben,
+was vor dem Hintergrund der Aktenlage als fraglich erscheint.
+
+In der genannten Auflistung der Betreibungen und
+Verlustscheinen sind weiter die ausstehenden Rechnungen für []-Leistungen des
+Alterszentrums [] noch nicht enthalten. Diese belaufen sich auf CHF 12'976.55
+(Stand 8. Mai 2025; KESB-Akten S. 39). Wenn diese Rechnungen auch in Zukunft
+nicht beglichen werden, droht dem Beschwerdeführer die Einstellung der []-Leistungen
+(KESB-Akten S. 52 f., 57, 75), was grosse gesundheitliche Auswirkungen haben
+könnte (Risiko einer Sepsis bei fehlendem Verbandswechsel, KESB-Akten S. 90). Beim
+Beschwerdeführer sind auch weitere gesundheitliche Probleme bekannt (Diabetes,
+übermässiger Alkoholkonsum). Er ist teilweise nicht in der Lage, diese adäquat
+abklären und behandeln zu lassen (vergleiche unter anderem das Gespräch der
+KESB mit dem Hausarzt vom 11. Juni 2025, KESB-Akten S. 37 f. sowie das
+Gespräch mit dem Beschwerdeführer vom 19. Dezember 2024, KESB-Akten S. 87 ff.).
+Im Universitätsspital Basel (KESB-Akten S. 43, 85) sowie im Ambulatorium [...]
+(KESB-Akten S. 87) hat der Beschwerdeführer zudem bereits ein Hausverbot. Auch
+in seiner aktuellen Hausarztpraxis [...] ist es bereits zu Konflikten gekommen
+(KESB-Akten S. 38).
+
+Es ist daher mit der Vorinstanz davon auszugehen, dass beim
+Beschwerdeführer insbesondere auch aufgrund des Zusammenspiels zwischen
+finanziellen, persönlichen, medizinischen sowie die Wohnsituation betreffenden
+Angelegenheiten ein Hilfsbedarf vorliegt beziehungsweise zum Zeitpunkt des
+Entscheids der KESB vorlag.
+
+2.4.2 Dass dieser Hilfsbedarf noch immer besteht
+beziehungsweise sich allenfalls gar akzentuiert hat, zeigt einerseits das
+Schreiben des Alterszentrums [...] an den Beschwerdeführer, welches am 24. Juli
+2025 und somit nach dem Entscheid über die Errichtung der Beistandschaft
+erging. Darin wird dem Beschwerdeführer eine «zweite und letzte Abmahnung»
+sowie ein Verbot, das Bistro des Alterszentrums zu betreten, ausgesprochen. Die
+Abmahnung bezieht sich dabei auf auffälliges Verhalten des Beschwerdeführers,
+welches bei erneutem Vorkommnis zu einer Kündigung des Mietverhältnisses führen
+könnte (KESB-Akten S. 15 f.). Ein Verlust dieser Wohnung könnte unter Umständen
+zu einer (erneuten) Wohnungslosigkeit des Beschwerdeführers führen. Andererseits
+ist aus den Vorakten auch ersichtlich, dass die Gesamtsumme der Betreibungen
+gegen den Beschwerdeführer weiter angestiegen ist (CHF 54'084.32 am 15.
+August 2025 [KESB-Akten S. 4 ff.] gegenüber CHF 51'226.82 am 5. Juni 2025
+[KESB-Akten S. 65 ff.]).
+
+2.4.3 Zusammengefasst ergibt sich, dass der
+Beschwerdeführer aufgrund eines Schwächezustands im Sinne von Art. 390 Abs. 1
+Ziff. 1 ZGB seine Angelegenheiten nur teilweise selbst besorgen kann. Es
+ist davon auszugehen, dass sich die Problematik bei zunehmenden
+gesundheitlichen Problemen und dem drohenden Wohnungsverlust sogar noch
+akzentuieren könnte. Ein Beistand kann den Beschwerdeführer in finanziellen,
+persönlichen, medizinischen sowie die Wohnsituation betreffenden Belangen
+unterstützen und möglichen weitergehenden Problemen (Einstellung der []-Leistungen,
+Wohnungsverlust) entgegentreten. Die Errichtung einer Beistandschaft im von der
+Vorinstanz angeordneten Umfang ist daher angezeigt.
+
+2.5
+
+2.5.1 Auch wenn eine hilfsbedürftige Person ihre
+Angelegenheiten nicht selbst hinreichend besorgen kann, sind die
+Voraussetzungen für eine Beistandschaft nur dann erfüllt, wenn sie zudem nicht
+in der Lage ist, einer geeigneten Person oder Stelle eine entsprechende
+Vollmacht zu erteilen (Botschaft vom 28. Juni 2006 zur Änderung des ZGB
+[Erwachsenenschutz, Personenrecht und Kindesrecht], in: BBl 2006 S. 7001 f.,
+7043; Biderbost, a.a.O., Art. 390
+ZGB N 21 mit weiteren Hinweisen). Dabei muss sie auch in der Lage sein, die
+bevollmächtigte Person zu instruieren und zu überwachen (vgl. Rosch , in: Berner Kommentar,
+Art. 390 ZGB N 166).
+
+2.5.2 Wie sich aus den Akten ergibt, hat der
+Beschwerdeführer keine der von der KESB vorgeschlagenen Hilfestellungen
+(Abteilung Sucht, [], []) aufgesucht (vgl. KESB-Akten S. 59 f.). Einzig im []
+hat der Beschwerdeführer eine Beratung in Anspruch genommen (KESB-Akten S. 34).
+Der Beschwerdeführer scheint jedoch keine bekannten Angehörigen oder
+nahestehende Personen zu haben oder anderweitige Hilfestellungen in Anspruch zu
+nehmen, weshalb davon ausgegangen werden muss, dass er weder in der Lage noch
+willens ist, Vollmachten zu erteilen, geschweige denn deren Instruktion und
+Überwachung zu gewährleisten (KESB-Entscheid Ziff. 21).
+
+2.5.3 Die Verhältnismässigkeit der Beistandschaft
+ist somit gegeben.
+
+3.
+
+Daraus folgt, dass die Beschwerde abzuweisen ist. Bei diesem
+Ausgang des Verfahrens hätte der Beschwerdeführer grundsätzlich dessen Kosten
+zu tragen. Umständehalber kann auf die Erhebung von Gerichtskosten aber
+verzichtet werden (§ 40 Reglement über die Gerichtsgebühren [GGR, SG 143.810]).
+
+Demgemäss
+erkennt das Verwaltungsgericht (Dreiergericht):
+
+://:        Die Beschwerde wird abgewiesen.
+
+Auf die Erhebung von Gerichtskosten für das
+verwaltungsgerichtliche Beschwerdeverfahren wird verzichtet.
+
+Mitteilung an:
+
+- Beschwerdeführer
+
+- Kindes- und Erwachsenenschutzbehörde Basel-Stadt
+
+- Beistand, C____ (ABES)
+
+APPELLATIONSGERICHT
+BASEL-STADT
+
+Die Gerichtsschreiberin
+
+MLaw Anna Bleichenbacher
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde
+in Zivilsachen erhoben werden. Die Beschwerdeschrift ist fristgerecht dem
+Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an deren
+Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des Rechtsmittels
+entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
