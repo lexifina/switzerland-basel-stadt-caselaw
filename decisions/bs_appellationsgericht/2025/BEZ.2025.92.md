@@ -1,0 +1,294 @@
+---
+decision_id: "bs_appellationsgericht_AG.2025.661"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "BEZ"
+docket: "BEZ.2025.92"
+docket_2: "AG.2025.661"
+decided: "2025-11-07"
+published: "2026-07-11"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=79021&W10_KEY=3451370&nTrefferzeile=112&Template=search_result_document.html"
+cites_decisions: ["VD.2020.193"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-141.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-143.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-048.md", "switzerland/bund/acts/281.1/art-063.md"]
+---
+
+# Rechtsöffnung
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+Dreiergericht
+
+BEZ.2025.92
+
+ENTSCHEID
+
+vom 7.
+November 2025
+
+Mitwirkende
+
+Dr. Olivier Steiner, Dr. Claudius
+Gelzer, lic. iur. André Equey
+
+und a.o.
+Gerichtsschreiber MLaw Justin Paljuh, LL.M.
+
+Parteien
+
+A____ Beschwerdeführerin
+
+[...]                                                                                        
+Schuldnerin
+
+gegen
+
+Kanton Bern, Universität Bern ,                             
+Beschwerdegegner
+
+Institut für
+Infektionskrankheiten (IFIK) Gläubiger
+
+Friedbühlstrasse 25, Postfach,
+3001 Bern
+
+vertreten durch Steuerverwaltung
+Kanton Bern
+
+Inkassostelle, Postfach 8334, 3001 Bern
+
+Gegenstand
+
+Beschwerde gegen einen
+Entscheid des Zivilgerichts
+
+vom 10. Juni 2025
+
+betreffend Rechtsöffnung
+
+Sachverhalt
+
+Am 12. Dezember 2024 wurde A____ (nachfolgend Schuldnerin)
+ein Zahlungsbefehl des Betreibungsamts Basel-Stadt vom 18. November 2024 für
+eine Forderung des Kantons Bern, Universität Bern, Institut für
+Infektionskrankheiten (nachfolgend Gläubiger), für eine Forderung von CHF
+134.50 zuzüglich 4 % Zins seit dem 7. November 2024 zugestellt. Am 19. Dezember
+2024 erhob die Schuldnerin Rechtsvorschlag. Mit Gesuch vom 31. März 2025
+beantragte der Gläubiger beim Zivilgericht Basel-Stadt definitive
+Rechtsöffnung. Mit Verfügung vom 28. April 2025 setzte das Zivilgericht der
+Schuldnerin eine Frist an zur Stellungnahme zum Rechtsöffnungsgesuch. Nach
+erfolglosen Zustellungsversuchen per Post und per Weibel am [...] in 4052 Basel
+publizierte das Zivilgericht die Verfügung am 17. Mai 2025 im Kantonsblatt. Mit
+Entscheid vom 10. Juni 2025 (V.2025.508) erteilte das Zivilgericht dem
+Gläubiger für den Zahlungsbefehl definitive Rechtsöffnung und auferlegte der
+Schuldnerin die Gerichtskosten von CHF 60.. Der Entscheid des Zivilgerichts
+vom 10. Juni 2025 wurde ohne schriftliche Begründung eröffnet. Die Zustellung
+an die Schuldnerin erfolgte durch Publikation im Kantonsblatt vom 21. Juni
+2025.
+
+Mit Eingabe vom 20. Oktober 2025 beantragt die
+Schuldnerin, der Entscheid des Zivilgerichts vom 10. Juni 2025 sei infolge
+Nichtigkeit aufzuheben und das Betreibungsamt sei anzuweisen, die örtliche
+Zuständigkeit von Amts wegen abzuklären. Die Eingabe ist an die
+Aufsichtsbehörde über das Betreibungs- und Konkursamt des Kantons Basel-Stadt,
+Bäumleingasse 5, 4001 Basel, adressiert. Dabei handelt es sich um die Adresse
+der unteren Aufsichtsbehörde über das Betreibungs- und Konkursamt. Der
+Briefumschlag, in dem die Eingabe versendet wurde, ist an die Aufsichtsbehörde
+über das Betreibungs- und Konkursamt des Kantons Basel-Stadt, Bäumleingasse 1,
+4001 Basel, adressiert. Die Eingabe wurde als eingeschriebene Postsendung am
+20. Oktober 2025 der Schweizerischen Post übergeben. Die Post las als
+Adresse fälschlicherweise Betreibungsamt Basel-Stadt, Bäumleingasse 1, 4051
+Basel. Dort wurde die Sendung am 22. Oktober 2025 zugestellt. Die Eingabe
+befindet sich in den Akten des Verfahrens V.2025.508 des Zivilgerichts und
+trägt einen Eingangsstempel des Zivilgerichts vom 23. Oktober 2025. Somit
+wurde sie offensichtlich vom Betreibungsamt dem Zivilgericht weitergeleitet. Am
+23. Oktober 2025 gab die Schuldnerin am Schalter des Appellationsgerichts
+eine unterzeichnete Kopie ihrer Eingabe vom 20. Oktober 2025 ab. Das
+Appellationsgericht zog die Akten des Verfahrens V.2025.508 des Zivilgerichts
+bei, verzichtete auf die Einholung von Stellungnahmen und fällte den
+vorliegenden Entscheid auf dem Zirkulationsweg.
+
+Erwägungen
+
+1.
+
+Soweit das Appellationsgericht für ihre Behandlung zuständig
+ist, gilt die am 20. Oktober 2025 zuhanden der Aufsichtsbehörde über das
+Betreibungs- und Konkursamt der Schweizerischen Post übergebene Eingabe vom 20. Oktober
+2025 in Anwendung von Art. 143 Abs. 1 bis ZPO als am 20. Oktober
+2025 beim Appellationsgericht eingereicht. Darin beantragt die Schuldnerin, der
+Entscheid des Zivilgerichts vom 10. Juni 2025 sei infolge Nichtigkeit
+aufzuheben und das Betreibungsamt sei anzuweisen, die örtliche Zuständigkeit
+von Amtes wegen abzuklären. Weder die untere noch die obere Aufsichtsbehörde
+über das Betreibungs- und Konkursamt ist zur Feststellung der Nichtigkeit eines
+Entscheids des Zivilgerichts zuständig. Ob die Voraussetzungen dafür, dass das
+Appellationsgericht als Beschwerdeinstanz auf den Antrag auf Feststellung der
+Nichtigkeit eintritt, im vorliegenden Fall erfüllt sind (vgl. zur Zuständigkeit
+für die Feststellung der Nichtigkeit im öffentlichen Recht eingehend VGE
+VD.2020.193 vom 28. Dezember 2020 E. 3.2.2 mit Nachweisen), kann
+offenbleiben, weil die Anträge der Schuldnerin aus den nachstehenden Gründen
+ohnehin abzuweisen sind.
+
+2.
+
+2.1 Die Schuldnerin macht sinngemäss geltend,
+dass der Entscheid des Zivilgerichts nichtig sei, weil die Voraussetzungen für
+die Zustellung durch Publikation im kantonalen Amtsblatt gemäss Art. 141
+Abs. 1 ZPO nicht erfüllt gewesen seien.
+
+Gemäss Art. 141 Abs. 1 lit. a ZPO erfolgt die
+Zustellung durch Publikation im kantonalen Amtsblatt oder im Schweizerischen
+Handelsamtsblatt, wenn der Aufenthaltsort der Adressatin unbekannt ist und
+trotz zumutbarer Nachforschungen nicht ermittelt werden kann. Die Annahme eines
+unbekannten Aufenthaltsorts setzt gemäss der Lehre voraus, dass alle
+zweckmässigen und zumutbaren Nachforschungen beispielsweise bei den nächsten
+Angehörigen, früheren oder aktuellen Arbeitgebern, Behörden und der Post
+erfolgt sind. Eine Nachfrage bei der Einwohnerkontrolle und die Konsultation
+eines online-Telefonbuchs genügen nicht. Die klägerische Partei ist zur
+Mitwirkung bei der Aufenthaltsnachforschung verpflichtet (AGE BEZ.2024.75 vom
+6. Februar 2025 E. 2.3 mit Nachweisen). Zustellungen durch
+öffentliche Bekanntmachung trotz Nichterfüllung der Voraussetzungen von Art. 141
+Abs. 1 ZPO können unter gewissen Umständen die Nichtigkeit des Entscheids
+zur Folge haben (vgl. statt vieler Ammann/Seiler ,
+in: Sutter-Somm et al. [Hrsg.], Kommentar zur ZPO, 4. Auflage, Zürich 2025,
+Art. 141 N 8 mit Nachweisen).
+
+Das Zivilgericht versuchte, der Schuldnerin eine Verfügung
+vom 28. April 2025 am [...] in 4052 Basel zuzustellen. Die an diese
+Adresse gesandte Sendung wurde mit dem Vermerk «Empfänger konnte an der
+angegebenen Adresse nicht ermittelt werden» zurückgesandt. Gemäss den eigenen
+Angaben der Schuldnerin konnte ihr an diese Adresse seit dem 1. September
+2024 keine Post mehr zugestellt werden (vgl. Eingabe vom 20. Oktober 2025
+S. 2).
+
+Die Schuldnerin behauptet in ihrer Eingabe vom 20. Oktober
+2025, seit dem 26. Oktober 2024 habe sie sich ihre Post von ihrem letzten
+zivilrechtlichen Wohnsitz an der [...] 17 in Riehen an die [...] 9 in Riehen
+nachsenden lassen. Durch die von der Schuldnerin eingereichte Adressänderung
+mit Nachsendung vom 26. Oktober 2024 ist erstellt, dass sie sich in der
+Zeit vom 28. Oktober 2024 bis 27. Oktober 2025 an die [...] 17 in
+4125 Riehen adressierte Post an die [...] 9 in 4125 Riehen nachsenden liess.
+Die Schuldnerin legt aber nicht dar, wie das Zivilgericht mit zumutbaren
+Nachforschungen hätte feststellen können, dass der Schuldnerin Post an die
+[...] 17 oder 9 in 4125 Riehen gesendet werden konnte.
+
+Die Schuldnerin behauptet in ihrer Eingabe vom 20. Oktober
+2025, dass das Betreibungsamt Kenntnis davon gehabt habe, dass sich ihr letzter
+zivilrechtliche Wohnsitz an der [...] 17 in 4125 Riehen befunden habe und dass
+sie eine Zustell-adresse an der [...] 9 in Riehen gehabt habe. Als Beweis hat
+sie eine an sie an der [...] 17 in 4125 Riehen adressierte Vorladung und
+Pfändungsankündigung des Betreibungsamts Basel-Stadt vom 3. Oktober 2025
+eingereicht. Dies beweist zwar, dass das Betreibungsamt am 3. Oktober 2025
+davon ausgegangen ist, dass der Schuldnerin Post an die [...] 17 in 4125 Riehen
+gesendet werden konnte. Da die Zustellungen der Verfügung des Zivilgerichts vom
+28. April 2025 und des Entscheids des Zivilgerichts vom 10. Juni 2025
+am 17. Mai 2025 und am 21. Juni 2025 erfolgt sind, könnte die
+Kenntnis des Betreibungsamts aber höchstens dann relevant sein, wenn sie
+bereits in dieser Zeit bestanden hätte. Dafür ist die Schuldnerin in ihrer
+Eingabe vom 20. Oktober 2025 jeglichen Beweis und jeglichen Beweisantrag
+schuldig geblieben. Unter diesen Umständen kann die von der Schuldnerin
+behauptete Kenntnis des Betreibungsamts nicht berücksichtigt werden und
+offenbleiben, ob eine Nachforschung beim Betreibungsamt dem Zivilgericht
+zumutbar gewesen wäre.
+
+Aus den vorstehenden Erwägungen folgt, dass die Schuldnerin
+in ihrer Eingabe vom 20. Oktober 2025 nicht dargelegt hat, wie das
+Zivilgericht mit zumutbaren Nachforschungen eine gültige Zustelladresse hätte
+ermitteln können. Folglich ist es nicht zu beanstanden, dass das Zivilgericht
+ihr seine Verfügung vom 28. April 2025 und seinen Entscheid vom 10. Juni
+2025 gestützt auf Art. 141 Abs. 1 lit. a ZPO durch Publikation
+im Kantonsblatt zugestellt hat. Damit entbehrt der Antrag auf Nichtigerklärung
+des Entscheids des Zivilgerichts vom 10. Juni 2025 der Grundlage.
+
+2.2 Weiter beantragt die Schuldnerin, das
+Betreibungsamt sei anzuweisen, die örtliche Zuständigkeit von Amtes wegen
+abzuklären. Diesen Antrag scheint sie sinngemäss damit begründen zu wollen,
+dass sich weder ihr Wohnsitz im Sinn von Art. 46 Abs. 1 SchKG noch
+ihr Aufenthaltsort im Sinn von Art. 48 SchKG im Betreibungskreis befunden
+habe, für den das Betreibungsamt Basel-Stadt zuständig ist. Von einem
+unzuständigen Betreibungsamt vorgenommene Betreibungshandlungen sind
+grundsätzlich nicht nichtig, sondern bloss mit Beschwerde gemäss Art. 17
+SchKG anfechtbar (vgl. Strub , in:
+Hunkeler [Hrsg.], Kurzkommentar SchKG, 3. Auflage 2025, Vor Art. 4655
+N 12 f.; Schmid , in:
+Basler Kommentar, 3. Auflage, Basel 2021, Art. 46 SchKG
+N 30, 32 und 35). Einen Ausnahmefall, in dem Nichtigkeit anzunehmen ist
+(vgl. dazu Strub , a.a.O., Vor Art. 4655
+N 12; Schmid , a.a.O., Art. 46
+SchKG N 3334), behauptet die Schuldnerin in ihrer Eingabe vom 20. Oktober
+2025 nicht. Wenn sie die Unzuständigkeit des Betreibungsamts Basel-Stadt hätte
+geltend machen wollen, hätte sie den Zahlungsbefehl folglich gemäss Art. 17
+Abs. 1 und 2 SchKG binnen zehn Tagen seit dem Tag, an dem sie vom
+Zahlungsbefehl Kenntnis erhalten hat, bei der unteren Aufsichtsbehörde über das
+Betreibungs- und Konkursamt anfechten müssen. Damit ist das Appellationsgericht
+als obere Aufsichtsbehörde über das Betreibungs- und Konkursamt für den Antrag
+der Schuldnerin betreffend Abklärung der örtlichen Zuständigkeit nicht
+zuständig. Eine Weiterleitung an die untere Aufsichtsbehörde kommt nicht in
+Betracht, weil die Eingabe vom 20. Oktober 2025 erst lange nach Ablauf der
+Beschwerdefrist erfolgt ist. Der Zahlungsbefehl wurde der Schuldnerin am 12. Dezember
+2024 zugestellt. Damit endete die Beschwerdefrist unter Mitberücksichtigung von
+Art. 56 Abs. 1 Ziff. 2 und Art. 63 SchKG sowie Art. 31
+SchKG in Verbindung mit Art. 142 Abs. 3 ZPO am 6. Januar 2025.
+
+3.
+
+Auf die Erhebung von Gerichtskosten für das Verfahren des
+Appellationsgerichts betreffend den Antrag auf Aufhebung des Entscheids des
+Zivilgerichts vom 10. Juni 2025 wird in Anwendung von § 40 des
+Reglements über die Gerichtsgebühren (SG 154.810) verzichtet. Das
+Verfahren des Appellationsgerichts betreffend den Antrag auf Anweisung des
+Betreibungsamts, die örtliche Zuständigkeit abzuklären, ist grundsätzlich
+kostenlos (vgl. Art. 20a Abs. 2 Ziff. 5 SchKG).
+
+Demgemäss
+erkennt das Appellationsgericht (Dreiergericht):
+
+://:        Der Antrag der Schuldnerin, den Entscheid
+des Zivilgerichts vom 10. Juni 2025 (V.2025.508) infolge Nichtigkeit
+aufzuheben, wird abgewiesen, soweit darauf eingetreten wird.
+
+Auf den Antrag der Schuldnerin, das Betreibungsamt
+anzuweisen, die örtliche Zuständigkeit von Amtes wegen abzuklären, wird nicht
+eingetreten.
+
+Auf die Erhebung von Gerichtskosten für das
+vorliegende Verfahren des Appellationsgerichts wird verzichtet, soweit das
+Verfahren nicht ohnehin kostenlos ist.
+
+Mitteilung an:
+
+- Beschwerdeführerin
+
+- Beschwerdegegner
+
+- Zivilgericht Basel-Stadt
+
+APPELLATIONSGERICHT BASEL-STADT
+
+Der a.o. Gerichtsschreiber
+
+MLaw Justin Paljuh, LL.M.
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 72 ff. des Bundesgerichtsgesetzes
+(BGG) innert 30 Tagen seit schriftlicher Eröffnung Beschwerde in Zivilsachen erhoben werden. In vermögensrechtlichen Angelegenheiten gilt dies nur dann,
+wenn der Streitwert die Beschwerdesumme gemäss Art. 74 Abs. 1 lit. a oder b BGG
+erreicht (CHF 15'000. bei Streitigkeiten aus Miete oder Arbeitsverhältnis
+bzw. CHF 30'000. in allen übrigen Fällen) oder wenn sich eine Rechtsfrage
+von grundsätzlicher Bedeutung stellt. Die Beschwerdeschrift ist fristgerecht
+dem Bundesgericht (1000 Lausanne 14) einzureichen. Für die Anforderungen an
+deren Inhalt wird auf Art. 42 BGG verwiesen. Über die Zulässigkeit des
+Rechtsmittels entscheidet das Bundesgericht.
+
+Ob an Stelle der
+Beschwerde in Zivilsachen ein anderes Rechtsmittel in Frage kommt (z.B. die
+subsidiäre Verfassungsbeschwerde an das Bundesgericht gemäss Art. 113 BGG),
+ergibt sich aus den anwendbaren gesetzlichen Bestimmungen. Wird sowohl
+Beschwerde in Zivilsachen als auch Verfassungsbeschwerde erhoben, sind beide
+Rechtsmittel in der gleichen Rechtsschrift einzureichen.
