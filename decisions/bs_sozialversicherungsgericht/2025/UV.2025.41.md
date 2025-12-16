@@ -1,0 +1,439 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2026.84"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "UV"
+docket: "UV.2025.41"
+docket_2: "SVG.2026.84"
+decided: "2025-12-16"
+published: "2026-06-11"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=79620&W10_KEY=3365920&nTrefferzeile=29&Template=search_result_document.html"
+cites_decisions: ["8C_225/2019", "8C_398/2018", "8C_470/2018", "8C_515/2024", "8C_693/2010", "8C_718/2009", "8C_794/2016", "9C_335/2015", "BGE 114 V 305", "BGE 116 V 140", "BGE 117 V 264", "BGE 121 V 47", "BGE 122 V 158", "BGE 134 V 76", "BGE 134 V 80", "BGE 146 V 64", "UV.2025.41"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-006.md"]
+---
+
+# UVG, Unfallähnliche Körperschädigung; weitere Abklärungen notwendig
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 16.
+Dezember 2025
+
+Mitwirkende
+
+Dr. iur. G. Thomi (Vorsitz), Dr. med.
+R. von Aarburg , Dr. iur. T. Fasnacht
+
+und
+Gerichtsschreiber Dr. iur. M. Kreis
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführerin
+
+Allianz Suisse
+
+Richtiplatz 1, 8304 Wallisellen
+
+Beschwerdegegnerin
+
+Gegenstand
+
+UV.2025.41
+
+Einspracheentscheid vom 28.
+August 2025
+
+Unfallähnliche Körperschädigung;
+weitere Abklärungen notwendig
+
+Tatsachen
+
+I.
+
+a) Die [...] geborene Beschwerdeführerin arbeitete seit dem 1.
+August 2020 bei der B____ als C____ und war in dieser Eigenschaft obligatorisch
+bei der Allianz Suisse unfallversichert (vgl. UV-Akte 1; vgl.
+Einspracheentscheid, S. 2).
+
+b) Gemäss Angaben in der «Bagatellunfall-Meldung UVG» vom 20.
+November 2024 verletzte sich die Beschwerdeführerin am 8. November 2024 beim
+Ausführen einer Übung beim Kraftsport und zog sich dabei einen «Riss» am linken
+Knie zu (vgl. UV-Akte 1). Die Beschwerdeführerin gab im Frageblatt vom 26.
+November 2024 an, dass sie ihre Füsse beim Bankdrücken in der Bank eingeklemmt
+und sich das linke Bein verdreht habe, nachdem ihr das Aufrichten aus der
+Position nicht gelungen sei (vgl. UV-Akte 5). Im
+Arztbericht der D____ AG vom 29. November 2024 wurde festgehalten,
+dass die Versicherte beim Bankdrücken habe aufstehen wollen und dabei einen
+Schmerz am innenseitigen Kniegelenk verspürt habe (vgl. UV-Akte 6; vgl.
+Verordnung durch Dr. med. E____, UV-Akte 5). Im Rahmen eines Kontrolltermins
+vom 16. Dezember 2024 wurde der Verletzungsvorgang erneut angesprochen (vgl.
+UV-Akte 10).
+
+c) Mit Verfügung vom 24. März 2025 lehnte die
+Beschwerdegegnerin einen Leistungsanspruch ab. Es sei weder
+der Unfallbegriff erfüllt, noch handle es sich um eine
+Listenverletzung (vgl. UV-Akte 12). Mit Einsprache vom 3. April 2025 beantragte
+die Beschwerdeführerin sinngemäss die Erbringung gesetzlicher Leistungen (vgl.
+UV-Akte 13). Die Beschwerdegegnerin wies die Einsprache der Beschwerdeführerin
+mit Einspracheentscheid vom 28. August 2025 ab (UV-Akte 19).
+
+II.
+
+a) Mit Beschwerde vom 10. August 2025 (recte: 10. September
+2025; Postaufgabe datiert vom 10. September 2025) beantragt die
+Beschwerdeführerin es sei der Einspracheentscheid vom 28. August 2025
+aufzuheben und die Allianz Suisse zu verpflichten, die gesetzlichen Leistungen
+zu erbringen.
+
+b) Die Beschwerdegegnerin schliesst mit Beschwerdeantwort vom 30.
+September 2025 und Verweis auf ihren Einspracheentscheid vom 28. August 2025 auf
+Abweisung der Beschwerde.
+
+III.
+
+Am 16. Dezember 2025 findet die Beratung der Sache durch die
+Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale
+Instanz sachlich zuständig zum Entscheid über die vorliegende Streitigkeit (§
+82 Abs. 1 des Gesetzes vom 3. Juni 2015 betreffend die Organisation der
+Gerichte und der Staatsanwaltschaft [Gerichtsorganisationsgesetz; GOG]; SG
+154.100).
+
+1.2. Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus
+Art. 58 Abs. 1 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen
+Teil des Sozialversicherungsrechts (ATSG; SR 830.1).
+
+1.3. Da auch die übrigen formellen Voraussetzungen erfüllt sind, ist auf
+die rechtzeitig erhobene Beschwerde einzutreten.
+
+2.
+
+2.1. Mit der durch den Einspracheentscheid vom 28. August 2025 bestätigten
+Verfügung vom 24. März 2025 lehnte die Beschwerdegegnerin einen
+Leistungsanspruch der Beschwerdeführerin ab. Im Einspracheentscheid hat die
+Beschwerdegegnerin dies damit begründet, es seien weder die Voraussetzungen
+eines Unfalles nach Art. 4 ATSG (vgl. Einspracheentscheid, Rz. 15 ff., 28) noch
+die einer unfallähnlichen Körperschädigung nach Art. 6 Abs. 2 des
+Bundesgesetzes über die Unfallversicherung (UVG; SR 832.20) erfüllt (vgl.
+Einspracheentscheid, Rz. 19 ff., 29), nachdem sie in den Ausführungen der
+Beschwerdeführerin eine unterschiedliche Sachverhaltsdarstellung erblicken
+möchte (vgl. Einspracheentscheid, Rz. 12 ff.). Hinsichtlich des
+Geschehensablaufs und in medizinischer Hinsicht hat die Beschwerdegegnerin namentlich
+auf die «Unfallmeldung», auf das «Frageblatt zur Verletzung» und auf das
+Arztzeugnis sowie die Einschätzung von Dr. med. E____ abgestellt (vgl.
+Einspracheentscheid, Rz. 11).
+
+2.2. Die Beschwerdeführerin wendet beschwerdeweise ein, dass die der
+«Verfügung zugrunde liegende Sachverhaltsdarstellung» ausschliesslich auf einer
+telefonischen Anamnese durch die D____ AG basiere (vgl. Beschwerde, S. 1). So
+könne es nach der Auffassung der Beschwerdeführerin nicht angehen, dass ihre
+anfängliche, medizinisch ungeschulte Schilderung als alleinige
+Entscheidgrundlage herangezogen werde, während die späteren fachlichen Erkenntnisse
+sowie die Plausibilität der Verletzungsdynamik ausser Acht gelassen würden
+(vgl. Beschwerde, S. 2). Die Beschwerdeführerin geht weiterhin davon aus, dass ein
+Unfall vorliege und damit der Unfallbegriff erfüllt sei. So habe sich ihr Bein
+beim Versuch, das «Negativ-Brustbankdrückgerät» zu verlassen, plötzlich und
+unvorhergesehen verdreht.
+
+2.3. Die Beschwerdegegnerin geht zunächst davon aus, dass die
+Beschwerdeführerin ihre Darstellung des «Unfallhergangs» zweimal abänderte
+(Beschwerde, Rz. 11). Sie macht im Wesentlichen geltend, beim fraglichen
+Ereignis vom 8. November 2024 habe es sich nicht um einen Unfall gehandelt
+(Beschwerde, Rz. 13 f.), mangle es doch am Merkmal der Ungewöhnlichkeit. Zudem
+würde auch keine Listendiagnose gemäss Art. 6 Abs. 2 UVG vorliegen (Beschwerde,
+Rz. 15). Aus diesem Grunde habe man zu Recht eine Leistungspflicht abgelehnt.
+
+2.4. Umstritten und im Folgenden zu prüfen ist somit, ob die
+Beschwerdegegnerin mit Verfügung vom 24. März 2025, bestätigt mit
+Einspracheentscheid vom 28. August 2025, zu Recht gestützt auf die vorliegenden
+Akten ihre Leistungspflicht für das Ereignis vom 8. November 2024 abgelehnt
+hat.
+
+3.
+
+3.1. Nach Art. 6 Abs. 1 UVG werden, soweit das Gesetz nichts anderes
+bestimmt, Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und
+Berufskrankheiten gewährt. Als Unfall gilt gemäss Art. 4 ATSG die plötzliche,
+nicht beabsichtigte schädigende Einwirkung eines ungewöhnlichen äusseren
+Faktors auf den menschlichen Körper, die eine Beeinträchtigung der körperlichen
+oder geistigen Gesundheit oder den Tod zur Folge hat.
+
+3.2. Gemäss Art. 6 Abs. 2 UVG erbringt die Versicherung ihre Leistungen
+auch bei folgenden, abschliessend aufgezählten (vgl. André Nabold , N 42 zu Art. 6, in: Marc Hürzeler/Ueli Kieser
+[Hrsg.], Bundesgesetz über die Unfallversicherung, Kommentar zum
+schweizerischen Sozialversicherungsrecht, 2018 [nachfolgend zitiert: KOSS UVG]; Irene Hofer , N 61 zu Art. 6, in:
+Ghislaine Frésard-Fellay/Susanne Leuzinger/Kurt Pärli [Hrsg.],
+Unfallversicherungsgesetz, Basler Kommentar, 2019 [nachfolgend zitiert: BSK
+UVG]), Körperschädigungen, sofern sie nicht vorwiegend auf Abnützung oder
+Erkrankung zurückzuführen sind: a. Knochenbrüche; b. Verrenkungen von Gelenken;
+c. Meniskusrisse; d. Muskelrisse; e. Muskelzerrungen; f. Sehnenrisse; g.
+Bandläsionen; h. Trommelfellverletzungen.
+
+3.3. Der Sozialversicherungsprozess ist vom Untersuchungsgrundsatz
+beherrscht. Danach hat die Verwaltung und im Beschwerdefall das Gericht von
+Amtes wegen für die richtige und vollständige Abklärung des rechtserheblichen
+Sachverhalts zu sorgen. Dieser Grundsatz gilt indessen nicht uneingeschränkt;
+er findet sein Korrelat in den Mitwirkungspflichten der Parteien (BGE 122 V 158
+E. 1a und 121 V 210 E. 6c). Zu bemerken ist indes, dass gemäss
+bundesgerichtlicher Rechtsprechung bei Gesundheitsschäden im Bereich der
+Orthopädie eine Diagnose des Funktionsausfalles (Funktionsdiagnose), d.h. eine
+qualitative und quantitative Analyse der Funktionsstörung des
+Bewegungsapparates und seiner Folgen für die versicherte Person, von zentraler
+Bedeutung ist (vgl. das Urteil des Bundesgerichts 9C_335/2015 vom 1. September
+2015 E. 4.2.2). Die klinische Untersuchung bei orthopädischen
+Gesundheitsschäden stellt daher eine wichtige Prüfung dar.
+
+Der Untersuchungsgrundsatz schliesst im Weiteren eine Beweislast im Sinn
+einer Beweisführungslast begriffsnotwendig aus. Die Parteien tragen aber eine
+Beweislast insofern, als im Fall der Beweislosigkeit der Entscheid zu Ungunsten
+jener Partei ausfällt, die aus dem unbewiesenen Sachverhalt Rechte ableiten
+wollte. Diese Beweisregel kommt jedoch nur zur Anwendung, wenn es sich als
+unmöglich erweist, aufgrund einer Beweiswürdigung einen Sachverhalt zu
+ermitteln, der zumindest die Wahrscheinlichkeit für sich hat, der Wirklichkeit
+zu entsprechen (BGE 117 V 264 E. 3b mit Hinweisen; Urteil des Bundesgerichts
+vom 28. April 2017, 8C_794/2016, E. 4.3.1 mit Hinweisen; RKUV 1994 Nr. U 206 S.
+327 E. 1). Die Beweislast für das Vorliegen eines Unfallereignisses und/oder
+einer unfallähnlichen Körperschädigung liegt nach Gesagtem bei der den Anspruch
+erhebenden Person (BGE 116 V 140 f. E. 4b m. w. H.; RKUV 1990 Nr. U 86 S. 50).
+Der Unfallversicherer trägt hingegen die Beweislast in Bezug auf den Nachweis
+einer vorwiegend krankhaften oder degenerativen Verursachung einer Listendiagnose
+(sog. Entlastungsbeweis; vgl. BGE 146 V 64 E. 8.2.2). Abschliessend ist in
+Erinnerung zu rufen, dass der Grundsatz der freien Beweiswürdigung (Art. 61
+lit. c ATSG) die kantonalen Versicherungsgerichte verpflichtet, alle
+Beweismittel, unabhängig davon, von wem sie stammen, objektiv zu prüfen und
+danach zu entscheiden, ob die verfügbaren Unterlagen eine zuverlässige
+Beurteilung des streitigen Anspruchs gestatten (vgl. das Urteil des
+Bundesgerichts 8C_515/2024 vom 23. Mai 2025 E. 4.3; vgl. zur Bedeutung einer Diagnose
+eines Psychotherapeuten das Urteil des Bundesgerichts 8C_398/2018 vom 5.
+Dezember 2018 E. 5.1 und 5.4).
+
+4.
+
+4.1. Zu prüfen ist zunächst, ob sich ein Unfall im Sinne von Art.
+4 ATSG ereignet hat und mithin eine Leistungspflicht der Beschwerdegegnerin gestützt
+auf Art. 6 Abs. 1 UVG besteht.
+
+4.2. Die leistungsansprechende Person muss  im Rahmen ihrer
+Mitwirkungspflicht (vgl. dazu vorstehende E. 2.3)  die einzelnen Umstände, die
+zu einem Unfall geführt haben, nachweisen oder zumindest glaubhaft machen.
+Kommt sie dieser Forderung nicht nach, indem sie unvollständige, ungenaue oder
+widersprüchliche Angaben macht, die das Bestehen eines unfallmässigen Schadens
+als unglaubwürdig erscheinen lassen, ist der Unfallversicherer nicht
+leistungspflichtig. Zur Glaubhaftmachung eines Unfalls genügt es nicht, einen
+Gesundheitsschaden nachzuweisen, der möglicherweise auf ein Unfallereignis
+zurückgehen könnte, sondern es müssen über das konkrete Geschehen wahre, genaue
+und wenn möglich ins Einzelne gehende Daten/Informationen namhaft gemacht
+werden, aufgrund derer der Versicherer in die Lage versetzt wird, sich über die
+Tatumstände ein Bild zu machen und diese in objektiver Weise abzuklären. Im
+Streitfall obliegt es dem Gericht zu beurteilen, ob die einzelnen
+Voraussetzungen des Unfallbegriffs erfüllt sind (vgl. zum Ganzen: BSK UVG- Hofer , N 9 zu Art. 6; BGE 114 V 305 E.
+5b mit Hinweisen).
+
+4.3. Bei sich widersprechenden Angaben der versicherten Person über den
+Unfallhergang wird in der Praxis auf die Beweismaxime abgestellt, wonach die
+sogenannten spontanen «Aussagen der ersten Stunde» kurze Zeit nach dem Ereignis
+in der Regel unbefangener und zuverlässiger sind als spätere Darstellungen, die
+bewusst oder unbewusst von nachträglichen Überlegungen versicherungsrechtlicher
+oder anderer Art beeinflusst sein können. Diese Beweisregel kommt jedoch
+ebenfalls nur dann zur Anwendung, wenn der Sachverhalt nicht auf andere Weise
+mit dem Beweisgrad der überwiegenden Wahrscheinlichkeit erstellt werden kann
+(BSK UVG- Hofer , N 10 zu Art. 6;
+KOSS UVG- Nabold , N 10 f. zu Art. 6;
+BGE 121 V 47 E. 2a mit Hinweisen; Urteil des Bundesgerichts vom 18. September
+2018, 8C_470/2018, E. 4.1 mit Hinweisen). Bezüglich der Praxis zu den «Aussagen
+der ersten Stunde» bleibt anzufügen, dass zu unterscheiden ist zwischen
+späteren Präzisierungen einerseits und später davon abweichenden Angaben
+andererseits. Letztere bleiben rechtsprechungsgemäss unbeachtlich (vgl. Urteil
+des Bundesgerichts 8C_225/2019 vom 20. August 2019 E. 3.3 mit weiteren
+Hinweisen).
+
+4.4. Für die Erfüllung des Unfallbegriffs hat ein ungewöhnlicher äusserer
+Faktor vorzuliegen. Der äussere Faktor ist ungewöhnlich, wenn er nicht mehr im
+Rahmen dessen liegt, was für den jeweiligen Lebensbereich alltäglich und üblich
+ist. Ob dies zutrifft, beurteilt sich im Einzelfall, wobei grundsätzlich nur
+die objektiven Umstände in Betracht fallen. Nach der Rechtsprechung bezieht
+sich das Begriffsmerkmal der Ungewöhnlichkeit nicht auf die Wirkung des
+äusseren Faktors, sondern nur auf diesen selbst. Ohne Belang für die Prüfung
+der Ungewöhnlichkeit ist insoweit, ob bzw. dass der äussere Faktor allenfalls
+schwerwiegende, unerwartete Folgen nach sich zog (BGE 134 V 76 ff. E. 4.1 und
+4.3.1, 122 V 233 E. 1, 121 V 38 E. 1a, je mit Hinweisen; RKUV 2000 Nr. U 368 E.
+2b mit Hinweisen; Urteil des Bundesgerichts vom 30. November 2009, 8C_718/2009,
+E. 6.1 m. w. H.). Die Ungewöhnlichkeit kann in einer unkoordinierten
+Eigenbewegung, d. h. einer programmwidrigen oder sinnfälligen Störung des
+natürlichen Ablaufs der körperlichen Bewegung, bestehen, wie beispielsweise in
+einem Sturz, Stolpern oder Ausgleiten, in einer reflexartigen Abwehrbewegung
+oder in einem Anstossen (KOSS UVG- Nabold ,
+N 32 zu Art. 6; BSK UVG- Hofer , N
+37 zu Art. 6; Alfred Maurer ,
+Schweizerisches Unfallversicherungsrecht, 1989, S. 176 f.). Wo sich die
+Schädigung auf das Körperinnere beschränkt und sie erfahrungsgemäss auch als
+alleinige Folge von Krankheiten, namentlich von degenerativen Veränderungen
+auftreten kann (z.B. Diskushernie, Meniskusriss oder  wie vorliegend 
+Rotatorenmanschettenläsion), muss die unkoordinierte Bewegung als unmittelbare
+Ursache der Schädigung unter besonders sinnfälligen Umständen gesetzt worden
+sein. Denn ein Unfallereignis manifestiert sich in der Regel in einer von
+aussen wahrnehmbaren Schädigung, während bei deren Fehlen die erhöhte
+Wahrscheinlichkeit einer rein krankheitsbedingten Ursache besteht (vgl. BGE 134
+V 80 E. 4.3.2.1 mit Hinweisen; Urteil des Bundesgerichts 8C_693/2010 vom 25.
+März 2011 E. 5.2).
+
+4.5. In sachverhaltlicher Hinsicht ergibt sich aus den Akten,
+dass sich die Beschwerdeführerin gemäss Angaben in der «Bagatellunfall-Meldung
+UVG» vom       20. November 2024 am 8. November 2024 beim Ausführen einer Übung
+beim Kraftsport verletzte. Dabei zog sie sich einen «Riss» am linken Knie zu (vgl.
+UV-Akte 1). Die Beschwerdeführerin gab im Frageblatt vom 26. November 2024 an,
+dass sie ihre Füsse beim Bankdrücken in der Bank eingeklemmt habe und sich das
+linke Bein verdreht habe, nachdem ihr das Aufrichten aus der Position nicht
+gelungen sei (vgl. UV-Akte 5). Im Arztbericht der D____ AG vom 29. November
+2024 wurde festgehalten, dass die Versicherte beim Bankdrücken habe aufstehen
+wollen und dabei einen Schmerz am innenseitigen Kniegelenk verspürt habe. Festgehalten
+wurde ausserdem, dass ein adäquater Unfallmechanismus nicht beschrieben worden
+sei bzw. der Versicherten nicht erinnerlich sei. Diagnostisch wurde der
+Verdacht einer Kniegelenkszerrung links angegeben (vgl. UV-Akte 6; vgl.
+Verordnung durch Dr. med. E____, UV-Akte 5). Die Beschwerdeführerin hielt mit
+Mail vom 16. Dezember 2024 fest, dass der Schmerz durch eine Drehbewegung des
+Knies ausgelöst worden sei. Die Drehbewegung des Knies sei entstanden, als sie
+beim Herausdrehen aus der Position mit ihrem linken Fuss am Polster des
+Fitnessgeräts hängengeblieben sei (UV-Akte 10). Im Rahmen eines telefonischen
+Kontrolltermins vom 16. Dezember 2024 wurde der Verletzungsvorgang erneut
+angesprochen. Die Beschwerdeführerin berichtete, sich beim Bankdrücken das
+linke Kniegelenk verdreht zu haben. Ergänzend berichtete sie, dass ihr Fuss
+während der Übung zwischen zwei Polster verklemmt gewesen sei. Als sie die
+Übung beendete, sei sie zwischen den beiden Polstern hängen geblieben und habe
+sich dabei das linke Kniegelenk verdreht (vgl. UV-Akte 10, Blatt 2).
+
+4.6. Gestützt auf die in E. 4.3. wiedergegebene Beweisregel ist davon
+auszugehen, dass die Beschwerdeführerin das Ereignis in ihren späteren Angaben vom
+    16. Dezember 2024 lediglich präzisiert hat, wird doch das Kerngeschehen der
+eingeschränkten Bewegungsfreiheit beim Verlassen der Trainingsbank durch
+Verklemmen der Füsse bzw. durch das Hängenbleiben des linken Fusses
+beschrieben. Eine eigentliche neue Ursache oder eine Änderung des
+Geschehensablaufs wird nicht beschrieben.
+
+4.7. Hinsichtlich des Unfallbegriffs ist gestützt auf die in E. 4.4.
+wiedergegebene Rechtsprechung indes mit der Beschwerdegegnerin einig zu gehen, dass
+es nichts Aussergewöhnliches darstellt, wenn die Füsse bei der Trainingsbank
+mit Polsterung eingeklemmt sind und beim Herausgehen aus der Position
+verklemmen oder hängenbleiben. Bei der fraglichen Trainingsbank ist es üblich,
+dass die Füsse während der Übung fixiert sind und es beim Verlassen der
+Position zu einer Drehbewegung kommt. Die Möglichkeit des Hängebleibens des
+Fusses ist dabei umgebungs- bzw. gerätetypisch. Soweit überhaupt eine
+unkoordinierte Eigenbewegung vorliegt, fehlt es vorliegend an einer
+Programmwidrigkeit bzw. sinnfälligen Störung des Bewegungsablaufs. Das Merkmal
+der Ungewöhnlichkeit liegt damit nicht vor und der Unfallbegriff gemäss Art. 4
+ATSG ist damit nicht erfüllt. Es besteht somit keine Leistungspflicht der
+Beschwerdegegnerin gestützt auf Art. 6 Abs. 1 UVG.
+
+5.
+
+5.1. Als nächstes ist zu prüfen, ob  bei fehlender Erfüllung des
+Unfallbegriffs  allenfalls eine Leistungspflicht der Beschwerdegegnerin
+gestützt auf Art. 6 Abs. 2 UVG unter dem Titel einer unfallähnlichen
+Körperschädigung besteht.
+
+5.2. In diesem Zusammenhang ist vorderhand zu prüfen, ob der Sachverhalt
+hinreichend durch die Beschwerdegegnerin abgeklärt worden ist, um
+gegebenenfalls das Vorliegen einer Listenverletzung nach Art. 6 Abs. 2 UVG zu
+prüfen. Mit Blick auf die erhobene Verdachtsdiagnose einer Kniegelenkszerrung
+links (vgl. Arztbericht der D____ AG vom 29. November 2024, UV-Akte 6, Blatt 4
+f.) und der geltend gemachten «schwerwiegendere[n] Verletzung (Meniskusriss)»
+mit Verweis auf die physiotherapeutische Behandlung (vgl. Beschwerde, S. 2;
+vgl. bereits Einsprache, S. 2) wird ein orthopädischer Gesundheitsschaden
+adressiert (vgl. die Rechtsprechung zur qualitativen und quantitativen Analyse
+im Bereich der Orthopädie bei E. 3.3.). Der Einwand der Beschwerdegegnerin,
+dass Physiotherapeuten nicht befugt seien, eine Diagnose zu stellen, verkennt,
+dass daraus nicht abgeleitet werden kann, dass der Hinweis auf eine
+(orthopädische) Gesundheitsbeeinträchtigung durch eine Physiotherapeutin von
+vornherein unbeachtlich ist, zumal es sich um eine Fachperson im
+Gesundheitswesen handelt, die über eine fachliche Expertise des
+Bewegungsapparats verfügt. So ist es denn aus fachlicher Sicht denkbar, dass
+sich hinter einer zunächst diagnostizierten Kniegelenkszerrung bei hinreichender
+Abklärung tatsächlich ein Meniskusriss verbirgt. Vor diesem Hintergrund hätte
+es sich vorliegend aufgedrängt, dass die Beschwerdegegnerin gestützt auf die in
+E. 3.3. wiedergegebene Rechtsprechung die Angelegenheit
+versicherungsmedizinisch hinreichend abklärt, insbesondere wie es sich mit dem
+geltend gemachten Meniskusriss verhält. Die Beschwerdegegnerin hat demnach den
+Untersuchungsgrundsatz verletzt.
+
+6.
+
+6.1. Die Beschwerde ist begründet und demnach gutzuheissen. Der
+Einspracheentscheid vom 28. August 2025 ist aufzuheben und die Sache zur
+weiteren Abklärung im Sinne der Erwägungen und anschliessenden Neubeurteilung
+des Sachverhalts unter dem Titel von Art. 6 Abs. 2 UVG an die
+Beschwerdegegnerin zurückzuweisen.
+
+6.2. Das Verfahren ist kostenlos (Art. 61 lit. f bis ATSG).
+
+6.3. Die ausserordentlichen Kosten sind wettzuschlagen.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      In Gutheissung der Beschwerde wird der
+Einspracheentscheid vom 28. August 2025 aufgehoben und die Sache zur weiteren
+Abklärung im Sinne der Erwägungen an die Beschwerdegegnerin zurückgewiesen.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten sind
+wettzuschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Der Präsident                                                    Der
+Gerichtsschreiber
+
+Dr. G. Thomi Dr. M.
+Kreis
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin
+
+        Bundesamt für Gesundheit
+
+Versandt am:
