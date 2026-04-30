@@ -1,0 +1,332 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2026.107"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "BV"
+docket: "BV.2025.16"
+docket_2: "SVG.2026.107"
+decided: "2026-04-30"
+published: "2026-06-17"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=79705&W10_KEY=3396057&nTrefferzeile=6&Template=search_result_document.html"
+cites_decisions: ["9C_975/2012", "BGE 128 V 124", "BGE 139 III 165", "BV.2025.16"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# BVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 30.
+April 2026
+
+Mitwirkende
+
+lic. iur. R. Schnyder (Vorsitz), P.
+Kaderli, Dr. phil. N. Bechtel
+
+und
+Gerichtsschreiberin lic. iur. H. Hofer
+
+Parteien
+
+Stiftung für den flexiblen
+Altersrücktritt im Bauhauptgewerbe (FAR) ,
+
+Obstgartenstrasse 19,
+8006 Zürich
+
+Klägerin
+
+A____
+
+Beklagte
+
+Gegenstand
+
+BV.2025.16
+
+Klage vom 1. September 2025
+
+Konventionalstrafe infolge
+fehlender Lohnmeldung, Rechtsöffnung erteilt
+
+Tatsachen
+
+I.
+
+Die Beklagte wurde am 17. März 2023 in das Handelsregister des
+Kantons Basel-Stadt eingetragen. Die Gesellschaft bezweckt den Betrieb eines
+Bauunternehmens sowie die Übernahme von Generalunternehmeraufträgen. Der Zweck
+der Gesellschaft ist die Renovation, der Umbau und Ausbau von Liegenschaften
+sowie das Erbringen aller damit zusammenhängenden Arbeiten und Dienstleistungen
+(vgl. Handelsregisterauszug der Beklagten, Klagbeilage [KB] 5). Mit Entscheid
+vom 2. Oktober 2023 (KB 6) stellte die Geschäftsstelle der Klägerin fest, dass
+die Beklagte unter den betrieblichen Geltungsbereich des Bundesratsbeschlusses
+über die Allgemeinverbindlicherklärung des Gesamtarbeitsvertrages für den
+flexiblen Altersrücktritt im Bauhauptgewerbe (BRB AVE GAV FAR vom 5. Juni 2003,
+BBl 2003 4039, zuletzt verlängert am 20. August 2024, BBl 2024 2191) falle.
+Daraus folge, dass die Beklagte für Mitarbeiter, die unter den persönlichen
+Geltungsbereich fallen, seit dem 17. März 2023 beitragspflichtig sei. Dieser
+Entscheid blieb unwidersprochen.
+
+Mit Rechnung vom 27. September 2024 forderte die Klägerin von
+der Beklagten eine Konventionalstrafe in der Höhe von Fr. 3'000.-- und
+Verfahrenskosten von Fr. 500.--. Zur Begründung führte sie aus, trotz
+mehrmaliger Mahnung sei ihr keine Lohnmeldung für das Jahr 2023 eingereicht
+worden (vgl. KB 8). Am 6. Mai 2025 leitete die Klägerin die Betreibung über
+diese Forderung ein, wogegen die Beklagte am 12. Juni 2025 Rechtsvorschlag
+erhob (vgl. KB 9).
+
+II.
+
+Mit Eingabe vom 1. September 2025 erhebt die Stiftung FAR Klage
+beim Sozialversicherungsgericht Basel-Stadt und beantragt, es sei die Beklagte
+zu verpflichten, ihr eine Konventionalstrafe in der Höhe von Fr. 3'000.-- und
+Verfahrenskosten von Fr. 500.-- zu bezahlen. Ferner sei der in Betreibung Nr. [...]
+des Betreibungsamtes Basel-Stadt erhobene Rechtsvorschlag im Umfang von Fr.
+3'500.-- aufzuheben und der Klägerin definitive Rechtsöffnung zu erteilen.
+
+Die Beklagte schliesst mit Eingabe vom 28. Oktober 2025 auf
+vollumfängliche Abweisung der Klage.
+
+Mit Replik vom 15. Dezember 2025 hält die Klägerin an ihrer
+Klage und den darin gestellten Rechtsbegehren vollumfänglich fest.
+
+Die Beklagte dupliziert am 15. Januar 2026.
+
+III.
+
+Innert Frist hat keine der Parteien die Durchführung einer
+mündlichen Parteiverhandlung verlangt. Am 30. April 2026 findet die
+Urteilsberatung durch die Kammer des Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. 1.1.1. Bei der Klägerin handelt es sich um eine nicht registrierte,
+ausschliesslich in der freiwilligen beruflichen Vorsorge tätige
+Personalfürsorgestiftung im Sinne von Art. 89a des Schweizerischen
+Zivilgesetzbuches vom 10. Dezember 1907 (ZGB, SR 210). Daher gelten für die
+Klägerin die Rechtspflegebestimmungen von Art. 73 BVG (Bundesgesetz über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni 1982, SR
+831.40; vgl. die in BGE 139 III 165 nicht publizierte E. 2.1 des Urteils
+9C_975/2012 vom 15. April 2013).
+
+1.1.2. Gemäss § 82 Abs. 1 des baselstädtischen
+Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft
+vom 3. Juni 2015 (Gerichtsorganisationsgesetz; GOG, SG 154.100) i.V.m. Art. 73
+Abs. 1 BVG ist das Sozialversicherungsgericht Basel-Stadt zur Beurteilung der
+vorliegenden Klage sachlich zuständig. Die örtliche Zuständigkeit ergibt sich
+aus Art. 73 Abs. 3 BVG.
+
+1.2. Da die Klägerin nach dem mit Bundesratsbeschluss vom 5. Juni 203 (BRB
+AVE GAV FAR) allgemeinverbindlich erklärten Art. 23 Abs. 1 des
+Gesamtarbeitsvertrages für den flexiblen Altersrücktritt im Bauhauptgewerbe vom
+12. November 2002 (GAV FAR, KB 2) für den Vollzug des GAV FAR zuständig und
+insbesondere berechtigt ist, die notwenigen Kontrollen gegenüber den
+Vertragsunterworfenen durchzuführen und in Vertretung der Vertragsparteien in eigenem
+Namen Betreibungen und Klagen zu erheben, ist auf die vorliegende Klage ohne
+weiteres einzutreten.
+
+2.
+
+2.1. Die Klägerin fordert gestützt auf Art. 25 Abs. 1 und 2 GAV FAR und
+Art. 3.3. der «Sanktionsrichtlinie der Geschäftsstelle» (Sanktionsrichtlinie, KB
+10) infolge Nichteinreichung der Lohnsumme der beitragspflichtigen
+Arbeitnehmenden innert der gesetzten Frist eine Konventionalstrafe in der Höhe
+von Fr. 3'000.-- sowie Verfahrenskosten von Fr. 500.-- (Art. 6 der
+Sanktionsrichtlinie).
+
+2.2. Die Beklagte bestreitet nicht, in den Geltungsbereich des GAV FAR zu
+fallen. Sie bringt jedoch vor, die Verhängung einer Konventionalstrafe setze
+eine klare und schuldhafte Pflichtverletzung voraus. Zum Zeitpunkt der
+Nachfrage durch die Klägerin hätten ihr noch keine konsolidierten und
+überprüften Lohnangaben vorgelegen, welche für eine korrekte und vollständige
+Meldung erforderlich seien. Sie arbeite fortlaufend an der ordnungsgemässen
+Fertigstellung der Jahresrechnung 2023 und kooperiere mit den zuständigen
+Stellen. Es liege demnach keine schuldhafte Pflichtverletzung ihrerseits vor. Sodann
+sei eine Konventionalstrafe von Fr. 3'000. angesichts des geringen
+Lohnvolumens unverhältnismässig.
+
+2.3. Zu prüfen ist die Rechtmässigkeit der auferlegten Konventionalstrafe
+und Verfahrenskosten.
+
+3.
+
+3.1. Der GAV FAR gilt für Arbeitgeber und Arbeitnehmer, die Mitglieder
+der vertragschliessenden Verbände sind (SBV einerseits und UNIA und SYNA
+andererseits). Aufgrund der Allgemeinverbindlicherklärung durch den Bundesrat
+wurde sein Geltungsbereich auf Arbeitgeber und Arbeitnehmer des betreffenden
+Wirtschaftszweiges oder Berufs ausgedehnt. Demzufolge gelangen die fraglichen
+Regelungen auch auf Nichtmitglieder zur Anwendung, wenn diese in den räumlichen
+(Art. 2 Abs. 1 BRB AVE GAV FAR), betrieblichen (Art. 2 Abs. 4 BRB AVE GAV FAR)
+und persönlichen (Art. 2 Abs. 5 BRB AVE GAV FAR) Geltungsbereich des BRB AVE
+GAV FAR fallen.
+
+3.2. Nach Art. 9 Abs. 1 GAV FAR schuldet der Arbeitgeber der Stiftung FAR
+die gesamten Beiträge von Arbeitgeber und Arbeitnehmer. Gemäss Art. 6 Abs. 2 Reglement
+FAR in der ab 1. April 2019 gültigen Fassung hat der Arbeitgeber der Stiftung
+FAR jeweils bis spätestens am 31. Januar eine namentliche Lohnbescheinigung der
+dem GAV FAR unterstellten Personen (inkl. deren AHV-Nummer) für das vergangene
+Kalenderjahr abzuliefern. Aufgrund dieser Meldung wird die Jahreslohnsumme, die
+der Beitragsberechnung zu Grunde liegt, festgesetzt (Art. 9 Abs. 2 Reglement
+FAR).
+
+3.3. 3.3.1. Gemäss Art. 25 Abs. 1 GAV FAR können Verletzungen von
+Pflichten aus dem Vertrag durch den Stiftungsrat mit Konventionalstrafen von
+bis zu Fr. 50'000.-- geahndet werden. Fehlbaren Parteien können auch die
+Kontroll- und Verfahrenskosten überbunden werden. Nach Abs. 2 können
+Vertragsverletzungen, die darin bestehen, dass keine oder ungenügende Beiträge
+abgerechnet wurden, mit einer Konventionalstrafe bis zur doppelten Höhe der
+fehlenden Beiträge geahndet werden. Die Höhe der Konventionalstrafe richtet
+sich im Einzelfall nach der Schwere des Verschuldens und der Grösse des
+Betriebes sowie allfällig früher ausgesprochenen Sanktionen (Abs. 3).
+
+3.3.2. Eine Pflichtverletzung nach Art. 25 Abs. 1 GAV FAR
+begeht gemäss Ziff. 3.3. der vom Stiftungsrat erlassenen Sanktionsrichtlinie
+u.a. derjenige Arbeitgeber, der die provisorische Lohnsumme (des laufenden
+Jahres zur Rechnungsstellung der vierteljährlichen Akontozahlungen) oder die
+definitive Lohnsumme (für das vergangene Jahr zur Erstellung der
+Schlussrechnung) auf die vorgegebene Art und Weise nicht innert der angesetzten
+Frist meldet. Die Geschäftsstelle spricht bei Erfüllung dieses Tatbestandes
+eine Sanktion von Fr. 3'000.-- aus. Für die Erfüllung des Tatbestandes reicht
+vorbehältlich einer expliziten anderslautenden Regel jedes Verschulden aus,
+auch leichte Fahrlässigkeit (Ziff. 3.4. Sanktionsrichtlinie).
+
+3.3.3. Macht der Arbeitgeber nach Aussprechen der Sanktion
+substantiiert geltend, er sei dem GAV FAR nicht unterstellt und habe deshalb
+keine Lohnsumme zu melden, so wird auf die Sanktion verzichtet, wenn er
+plausible Gründe für seine Nichtunterstellung vorbringt (Ziff. 3.3.2. Sanktionsrichtlinie).
+
+3.4. Die Geschäftsstelle der Stiftung FAR erhebt für jede ausgesprochene
+Sanktion Verfahrenskosten für eigene Aufwände in der Höhe von Fr. 500.-- (Ziff.
+6. Sanktionsrichtlinie).
+
+4.
+
+4.1. Die räumliche und betriebliche Unterstellung der Beklagten unter den
+BRB AVE GAV FAR und damit die Anwendbarkeit des GAV FAR gemäss
+Unterstellungsentscheid vom 2. Oktober 2023 blieben  wie erwähnt 
+unbestritten. Die entsprechende Unterstellung ist insbesondere auch angesichts
+der gemäss Handelsregistereintrag zum Unternehmenszweck der Beklagten zählenden
+Tätigkeiten plausibel.
+
+4.2. 4.2.1. Es ist unbestritten und erstellt, dass es die Beklagte
+unterlassen hat, die Lohnsumme für das Jahr 2023 innert Frist bis zum 31.
+Januar 2024 bei der Klägerin einzureichen. Die Beklagte bestreitet ferner
+nicht, wiederholt ermahnt worden zu sein. Dass die Lohn- und
+Sozialversicherungsabrechnungen für das Jahr 2023 noch nicht vollständig
+konsolidiert und abgeschlossen waren, vermag an der Meldepflicht nichts zu
+ändern. Alle unterstellten Betriebe sind von dieser Pflicht gleichermassen
+betroffen. Die Beklagte wurde sodann nicht umgehend nach Fristablauf
+sanktioniert. Vielmehr erging die Sanktionsrechnung erst im September 2024
+(vgl. KB 8). Bis dahin hätte die Beklagte ausreichend Zeit gehabt, die
+nachgesuchte Meldung einzureichen. Selbst im vorliegenden Verfahren reicht die
+Beklagte einzig einen Kontoauszug des Geschäfts-Kontokorrent-Bankkontos für das
+Jahr 2023 ein (Klagantwortbeilage 2). Aus dem ebenfalls eingereichten
+Email-Verkehr zwischen ihr und der B____ lässt sich ferner schliessen, dass
+auch dem Unfallversicherer im Oktober 2025 die Abrechnungen für die Jahre 2023
+und 2024 noch nicht vorlagen. Durch ihr Versäumnis hat die Beklagte eine
+vertragliche Pflicht verletzt, was grundsätzlich als schuldhaftes Verhalten zu
+bewerten ist. Gründe, welche dieses Verhalten als entschuldbar erscheinen
+lassen würden, werden nicht vorgebracht und sind auch nicht ersichtlich. Eines
+qualifiziertes Verschuldens  wie von der Beklagten als Voraussetzung für eine
+Sanktionierung reklamiert  bedarf es für die Bejahung einer Pflichtverletzung nicht.
+Bereits leichte Fahrlässigkeit reicht aus. Die Erhebung einer
+Konventionalstrafe ist daher nicht zu beanstanden. Angesichts der von der
+Beklagten angegebenen Lohnsumme von rund Fr. 65'000.-- (vgl. Klageantwort Ziff.
+2) und des daher überschlagsmässig geschätzten Beitrags von rund Fr. 5'000.--
+(insgesamt 7.75%, vgl. Art. 7 und 8 Reglement FAR in der bis 31. März 2025
+gültig gewesenen Fassung) erscheint die Höhe der auferlegten Sanktion als verhältnismässig
+und damit angemessen.
+
+4.2.2. Die erfolgte Auferlegung von internen Verfahrenskosten
+in der Höhe von Fr. 500.-- durch die Klägerin ist mit Blick auf Ziff. 6.
+der Sanktionsrichtlinie nicht zu beanstanden.
+
+5.
+
+5.1. Im Sinne der vorstehenden Erwägungen ist die Klage demnach
+dahingehend gutzuheissen, dass die Beklagte zu verurteilen ist, der Klägerin
+eine Konventionalstrafe von Fr. 3'000.-- und interne Verfahrenskosten von Fr.
+500.--zu bezahlen.
+
+5.2. Folglich ist der Rechtsvorschlag in der Betreibung Nr. [...] des
+Betreibungsamtes Basel-Stadt im Umfang von Fr. 3'500.--- aufzuheben.
+
+5.3. Das Verfahren ist gemäss Art. 73 Abs. 2 BVG und § 16 SVGG (Gesetz
+über das Sozialversicherungsgericht des Kantons Basel-Stadt und über das
+Schiedsgericht in Sozialversicherungssachen vom 9. Mai 2001 [SVGG, SG 154.200])
+kostenlos.
+
+5.4. Die Klägerin beantragt schliesslich die «Kosten- und
+Entschädigungsfolge zulasten der Beklagten». Der Klägerin in ihrer Funktion als
+Trägerin der beruflichen Vorsorge steht grundsätzlich keine Parteientschädigung
+zu (BGE 128 V 124). Gemäss § 17 Abs. 2 SVGG steht dem Versicherungsträger eine
+solche lediglich bei leichtsinniger oder mutwilliger Prozessführung der
+Gegenpartei und bei Vertretung durch eine Advokatin oder einen Advokaten zu. Da
+beides nicht vorliegt, kann ihr keine Parteientschädigung zugesprochen werden.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:      In Gutheissung der Klage wird die Beklagte
+verurteilt, der Klägerin eine Konventionalstrafe von Fr. 3'000.-- und
+Verfahrenskosten von Fr. 500.-- zu bezahlen und es wird der Rechtsvorschlag in
+Betreibung Nr. [...] des Betreibungsamtes Basel-Stadt aufgehoben und der
+Klägerin hierfür die definitive Rechtsöffnung erteilt.
+
+Das Verfahren ist kostenlos.
+
+Die ausserordentlichen Kosten werden
+wettgeschlagen.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                  Die
+Gerichtsschreiberin
+
+lic. iur. R. Schnyder                                           lic.
+iur. H. Hofer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)           Die Beschwerdeschrift ist
+in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)           in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)           die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+        Klägerin         Beklagte         Bundesamt für Sozialversicherungen
+
+ Aufsichtsbehörde BVG
+
+Versandt am:
