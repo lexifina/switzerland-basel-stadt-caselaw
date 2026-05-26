@@ -1,0 +1,538 @@
+---
+decision_id: "bs_sozialversicherungsgericht_SVG.2026.159"
+court: "BS Sozialversicherungsgericht"
+court_id: "bs_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2025.99"
+docket_2: "SVG.2026.159"
+decided: "2026-05-26"
+published: "2026-10-09"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=80063&W10_KEY=4321944&nTrefferzeile=13&Template=search_result_document.html"
+cites_decisions: ["8C_370/2020", "8C_414/2019", "8C_439/2020", "8C_488/2024", "9C_1037/2010", "9C_49/2014", "9C_511/2015", "9C_736/2009", "BGE 121 V 362", "BGE 122 V 157", "BGE 124 V 108", "BGE 125 V 351", "BGE 132 V 215", "BGE 132 V 93", "BGE 134 I 140", "BGE 134 V 231", "BGE 137 V 210", "BGE 140 V 193", "BGE 143 V 409", "BGE 151 V 258", "IV.2025.99"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-047.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/831.20/art-007d.md", "switzerland/bund/acts/831.20/art-008.md", "switzerland/bund/acts/831.20/art-018.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# IVG
+
+## Text
+
+Sozialversicherungsgericht
+
+des Kantons Basel-Stadt
+
+URTEIL
+
+vom 26.
+Mai 2026
+
+Mitwirkende
+
+Dr. A. Pfleiderer (Vorsitz), C.
+Müller , lic. iur. S. Bammatter-Glättli
+
+und a.o.
+Gerichtsschreiberin lic. iur. B. Pongracz Leimer
+
+Parteien
+
+A____
+
+[...]
+
+Beschwerdeführerin
+
+IV-Stelle Basel-Stadt
+
+Rechtsdienst, Aeschengraben 9,
+Postfach, 4002 Basel
+
+Beschwerdegegnerin
+
+Gegenstand
+
+IV.2025.99
+
+Verfügung vom 4. August 2025
+
+Erhebliche gesundheitliche
+Verschlechterung sowie Anspruch auf Umschulung verneint.
+
+Tatsachen
+
+I.
+
+a)        Die Beschwerdeführerin, geboren am 17. April 1970, gelernte
+Geigenbauerin, meldete sich mit Gesuch vom 15. Oktober 2024 (Eingang 16. Oktober
+2024; IV-Akte 7) wegen starken Schmerzen in beiden Handgelenken zum
+Leistungsbezug an. Seit anfangs Juni 2024 wurde ihr aufgrund einer aktivierten
+Rhizarthrose eine 100%ige Arbeitsunfähigkeit in der angestammten Tätigkeit
+bescheinigt.
+
+b)        In seinem Bericht vom 21. Januar 2025 (IV-Akte 26)
+beurteilte der Regionale Ärztliche Dienst (RAD) die Beschwerdeführerin aufgrund
+der aktivierten Rhizarthrose in der angestammten Tätigkeit als vollständig
+arbeitsunfähig. In einer leidensangepassten Tätigkeit ging er hingegen von
+einer vollständigen Arbeitsfähigkeit aus.
+
+c)         Nachträglich erhielt die Beschwerdegegnerin den
+Austrittsbericht der B____ vom 27. Januar 2025 (IV-Akte 35, Seiten 2 bis 6),
+aus welchem hervorging, dass die Beschwerdeführerin aufgrund einer
+mittelgradigen depressiven Episode vom 20. November 2024 bis zum 15. Januar
+2025 einen stationären Aufenthalt absolviert hatte.
+
+d)        In seinem Bericht vom 16. Juni 2025 (IV-Akte 43) hielt
+der RAD fest, dass die depressive Episode remittiert sei. In einer
+leidensangepassten Tätigkeit sei daher eine 100%ige Arbeitsfähigkeit gegeben.
+
+e)        Mit Schreiben vom 2. Juli 2025 teilte die Beschwerdegegnerin
+den Abschluss der Frühintervention und die Prüfung einer Rente mit (IV-Akte
+46), worauf die Beschwerdeführerin mit Mail vom 30. Juli 2025 die Ausstellung
+einer beschwerdefähigen Verfügung beantragte (IV-Akte 49).
+
+f)         Mit Verfügung vom 4. August 2025 (IV-Akte 50) hielt
+die Beschwerdegegnerin mit Hinweis auf die fachärztliche Beurteilung durch den
+RAD den Abschluss der Frühintervention mit.
+
+II.
+
+a)        Gegen die Verfügung vom 4. August 2025 erhebt die
+Beschwerdeführerin am 28. August 2025 (Eingang 8. September 2025) Beschwerde
+beim Sozialversicherungsgericht Basel-Stadt. Die Beschwerdeführerin beantragt
+die Aufhebung der Verfügung vom 4. August 2025. Die Beschwerdegegnerin sei zu
+verpflichten, die beruflichen Eingliederungsmassnahmen weiterzuführen bzw.
+anzuordnen. Eventualiter sei die Sache zur ergänzenden Abklärung und zu einem
+neuen Entscheid zurückzuweisen.
+
+b)        Die Beschwerdegegnerin schliesst mit
+Beschwerdeantwort vom 29. Oktober 2025 (Eingang 30. Oktober 2025) auf Abweisung
+der Beschwerde.
+
+c)         Mit Replik vom 24. November 2025 (Eingang 25. November
+2025) hält die Beschwerdeführerin an ihren bisherigen Anträgen fest. Zudem
+beantragt sie eine ergänzende polydisziplinäre medizinische Abklärung.
+Eventualiter sei die Arbeitsfähigkeit im angestammten sowie in einer
+Verweistätigkeit unter Berücksichtigung der aktuellen fachärztlichen Akten neu
+zu beurteilen und es seien gestützt darauf berufliche Eingliederungsmassnahmen
+zu gewähren.
+
+d)        Mit Duplik vom 23. Dezember 2025 (Eingang 24.
+Dezember 2024) hält die Beschwerdegegnerin an ihren Rechtsbegehren fest.
+
+III.
+
+a) Mit Instruktionsverfügung vom 25. November 2025 wird der
+Beschwerdeführerin die unentgeltliche Prozessführung bewilligt.
+
+b) Am 26. Mai 2026 findet die Beratung der Sache durch die Kammer des
+Sozialversicherungsgerichts statt.
+
+Entscheidungsgründe
+
+1.
+
+1.1. Das
+Sozialversicherungsgericht Basel-Stadt ist als einzige kantonale Instanz
+zuständig zum Entscheid über die vorliegende Streitigkeit (§ 82 Abs. 1 des
+Gesetzes vom 3. Juni 2015 betreffend die Organisation der Gerichte und der
+Staatsanwaltschaft [Gerichtsorganisationsgesetz, GOG]; SG 154.100). Die
+örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus Art. 69 Abs. 1
+Buchstabe a des Bundesgesetzes vom 19. Juni 1959 über die Invalidenversicherung
+(IVG; SR 831.20).
+
+1.2. Da
+auch die übrigen formellen Voraussetzungen erfüllt sind, ist auf die
+rechtzeitig erhobene Beschwerde einzutreten.
+
+2.
+
+2.1. Die Beschwerdeführerin macht in ihrer Beschwerde im Wesentlichen geltend,
+die Beschwerdegegnerin stütze sich auf eine pauschale Beurteilung. Eine
+umfassende medizinische Abklärung fehle. Ohne vollständige Ermittlung der
+gesundheitlichen Einschränkungen und deren funktionellen Auswirkungen sei eine
+zuverlässige Beurteilung der Arbeits- und Eingliederungsfähigkeit nicht
+möglich. Die Beschwerdegegnerin habe sodann den Anspruch auf berufliche
+Eingliederung verletzt, indem sie die gesetzlich vorgesehenen Massnahmen wie
+Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung,
+Arbeitstraining, Job-Coaching, gezielte Arbeitsvermittlung und Umschulung nicht
+ausgeschöpft habe. Angesichts der weiterhin bestehenden Einschränkungen seien
+solche Massnahmen angezeigt und verhältnismässig. Des Weiteren bemängelt sie
+eine unzureichende Begründung der Verfügung sowie die eventuelle Verletzung des
+rechtlichen Gehörs.
+
+2.2. Die Beschwerdegegnerin wendet in ihrer Beschwerdeantwort ein, die
+Berichte des RAD vom 21. Januar 2025 (IV-Akte 26) sowie vom 16. Juni 2025
+(IV-Akte 43) seien schlüssig und daher komme ihnen Beweiswert zu. Eine
+vollständige Arbeitsunfähigkeit in der angestammten Funktion als Geigenbauerin
+sei aufgrund der medizinischen Akten ebenso nachvollziehbar wie eine
+vollständige Arbeitsfähigkeit in einer leidensangepassten Tätigkeit. Aufgrund
+der Eingliederungsfähigkeit der Beschwerdeführerin bestehe kein Anspruch auf
+Integrationsmassnahmen (wie ein Aufbau- oder Belastungstraining), mit denen
+eine Eingliederungsfähigkeit erreicht werden soll. Ein Anspruch auf
+Arbeitsvermittlung setze bei einer 100%igen Arbeitsfähigkeit in einer
+Verweistätigkeit wiederum zusätzlich eine sogenannte spezifische Einschränkung
+voraus. Diese sei vorliegend nicht gegeben. Für einen Anspruch auf eine
+Umschulung sei schliesslich ein Invaliditätsgrad von mindestens 20%
+erforderlich. Diese Bedingung sei aufgrund des tiefen Einkommens der
+Beschwerdeführerin in ihrer selbständigen Tätigkeit in den letzten Jahren im
+Vergleich zum Tabellenlohn der LSE 2022, Tabelle TA1, Total Frauen,
+Kompetenzniveau 1, in absehbarer Weise nicht erfüllt.
+
+2.3. Zu prüfen ist im Folgenden, ob die Beschwerdegegnerin zu Recht mit
+Verfügung vom 4. August 2025 (IV-Akte 50) die Leistungsbegehren der
+Beschwerdeführerin abgewiesen hat.
+
+3.
+
+3.1. 3.1.1.  Gemäss dem in Art. 43 Abs. 1 des Bundesgesetzes vom 6.
+Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG; SR
+830.1) verankerten Untersuchungsgrundsatz ist die Verwaltungsbehörde gehalten,
+von sich aus und ohne Bindung an die Parteibegehren für die richtige und
+vollständige Feststellung des rechtserheblichen Sachverhalts zu sorgen (Urteil
+des Bundesgerichts 8C_439/2020 vom 20. Oktober 2020, E. 4.2., mit Hinweisen).
+Diese Untersuchungspflicht dauert so lange, bis über die für die Beurteilung
+des streitigen Anspruchs erforderlichen Tatsachen hinreichende Klarheit
+herrscht (BGE 151 V 258, E. 4.4.). Grundsätzlich liegt es jedoch im Ermessen
+des Versicherungsträgers, darüber zu befinden, mit welchen Mitteln die
+Sachverhaltsabklärung zu erfolgen hat. Im Rahmen der Verfahrensleitung kommt
+ihm ein grosser Ermessensspielraum bezüglich Notwendigkeit, Umfang und
+Zweckmässigkeit von medizinischen Erhebungen zu. Was zu beweisen ist, ergibt
+sich aus der jeweiligen Sach- und Rechtslage. Er kann insbesondere medizinische
+Begutachtungen veranlassen (vgl. Art. 43 Abs. 2 ATSG). Gestützt auf den
+Untersuchungsgrundsatz ist der Sachverhalt soweit zu ermitteln, dass über den
+Leistungsanspruch zumindest mit dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit entschieden werden kann (Urteil des Bundesgerichts U 571/06,
+E. 4.1.; Urteil des Bundesgerichts 9C_1037/2010 vom 10. Oktober 2011, E. 5.1.).
+Führen die im Rahmen des Untersuchungsgrundsatzes von Amtes wegen
+vorzunehmenden Abklärungen den Versicherungsträger oder das Gericht bei
+umfassender, sorgfältiger, objektiver und inhaltsbezogener Beweiswürdigung zur
+Überzeugung, ein bestimmter Sachverhalt sei als überwiegend wahrscheinlich zu
+betrachten und es könnten weitere Beweismassnahmen an diesem feststehenden
+Ergebnis nichts mehr ändern, so liegt im Verzicht auf die Abnahme weiterer
+Beweise keine Verletzung des Anspruchs auf rechtliches Gehör gemäss Art. 4 der
+Bundesverfassung vom 18. April 1999 (SR 101; antizipierte oder vorweg genommene
+Beweiswürdigung; BGE 134 I 140, E. 5.3.). Daraus folgt, dass der Versicherte
+von Bundesrechts wegen keinen formellen Anspruch auf Beizug eines
+versicherungsexternen Gutachtens hat, wenn Leistungsansprüche streitig sind
+(vgl. zum Ganzen BGE 122 V 157, mit Hinweisen). Bleiben jedoch erhebliche
+Zweifel an der Vollständigkeit und/oder Richtigkeit der bisher getroffenen
+Tatsachenfeststellung bestehen, ist weiter zu ermitteln, soweit von
+zusätzlichen Abklärungsmassnahmen noch neue wesentliche Erkenntnisse zu
+erwarten sind (BGE 151 V 258, E. 4.4., mit weiteren Hinweisen).
+
+3.1.2.  Um den Invaliditätsgrad bemessen zu können, ist die
+Verwaltung (und im Beschwerdefall das Gericht) auf Unterlagen angewiesen, die
+Ärzte und gegebenenfalls auch andere Fachleute zur Verfügung zu stellen haben.
+Aufgabe der Ärztin oder des Arztes ist es, den Gesundheitszustand zu beurteilen
+und dazu Stellung zu nehmen, in welchem Umfang und bezüglich welcher
+Tätigkeiten die Versicherten arbeitsunfähig sind. Im Weiteren sind ärztliche
+Auskünfte eine wichtige Grundlage für die Beurteilung der Frage, welche
+Arbeitsleistungen den Versicherten noch zugemutet werden können (vgl. BGE 140 V
+193, E. 3.2. und BGE 132 V 93, E. 4.). Was den für die Invaliditätsbemessung
+erforderlichen medizinischen Sachverstand angeht, kann die IV-Stelle sich
+hierfür auf den RAD, die Berichte der behandelnden Ärzte und Ärztinnen oder auf
+externe medizinische Sachverständige stützen (BGE 137 V 210, E. 1.2.1).
+
+3.1.3.  Hinsichtlich des Beweiswertes eines Arztberichtes ist
+entscheidend, ob der Bericht für die streitigen Belange umfassend ist, auf
+allseitigen Untersuchungen beruht, auch die geklagten Beschwerden
+berücksichtigt, in Kenntnis der Vorakten (Anamnese) abgegeben worden ist, in
+der Darlegung der medizinischen Zusammenhänge und in der Beurteilung der
+medizinischen Situation einleuchtet, ob die Schlussfolgerungen der Expertin
+oder des Experten begründet sind (BGE 134 V 231, E. 5.1. und 125 V 351, E. 3.a)
+und ob der Arzt über die notwendigen fachlichen Qualifikationen verfügt (Urteil
+des Bundesgerichts 9C_736/2009 vom 26. Januar 2010, E. 2.1.). Die
+Rechtsprechung erachtet es mit dem Grundsatz der freien Beweiswürdigung als
+vereinbar, Richtlinien für die Beweiswürdigung in Bezug auf bestimmte Formen
+medizinischer Berichte und Gutachten aufzustellen (vgl. BGE 125 V 351, E. 3.b).
+Den von Versicherungsträgern im Verfahren nach Art. 44 ATSG eingeholten, den
+Anforderungen der Rechtsprechung entsprechenden Gutachten externer Spezialärzte
+darf das Gericht vollen Beweiswert zuerkennen, solange nicht konkrete Indizien
+gegen die Zuverlässigkeit der Expertise sprechen (BGE 137 V 210, E. 2.2.2. und
+135 V 465, E. 4.4.). Solche Indizien können sich aus dem Gutachten selber ergeben
+(z.B. innere Widersprüche, mangelnde Nachvollziehbarkeit) oder auch aus
+Unvereinbarkeiten mit anderen ärztlichen Stellungnahmen (Urteil des
+Bundesgerichts 9C_49/2014 vom 29. Oktober 2014, E. 4.1.).
+
+3.2. Zeitliche Bezugsgrösse der richterlichen Überprüfungsbefugnis bildet
+das Erlassdatum der Verfügung der jeweiligen IV-Stelle (BGE 143 V 409, E.
+2.1.). Spätere Arztberichte sind gemäss bundesgerichtlicher Rechtsprechung aber
+in die Beurteilung miteinzubeziehen, soweit sie Rückschlüsse auf die in diesem
+Zeitpunkt gegebene Situation erlauben (BGE 121 V 362, E. 1b; Urteile des
+Bundesgerichtes 8C_370/2020 vom 15. Oktober 2020, E. 4.2. und 8C_414/2019 vom
+25. September 2019, E. 2.2.2.). Eine nach Erlass der angefochtenen Verfügung
+eingetretene Verschlechterung des Gesundheitszustandes kann nicht im
+Beschwerdeverfahren vor dem Sozialversicherungsgericht, sondern muss in einem
+Neuanmeldeverfahren vor der Beschwerdegegnerin geltend gemacht werden (Urteil
+des Bundesgerichtes 8C_488/2024 vom 5. September 2025).
+
+4.
+
+4.1. Streitig ist vorliegend unter anderem, ob in einer Verweistätigkeit
+eine 100%ige Arbeitsfähigkeit der Beschwerdeführerin besteht und ob die von ihr
+behauptete Verschlechterung des Gesundheitszustandes und die nach Erlass der
+angefochtenen Verfügung vom 4. August 2025 (IV-Akte 50) erstellten Arztberichte
+(Beschwerdebeilagen zur Replik) für das vorliegende Beschwerdeverfahren von
+Relevanz sind.
+
+4.2. Zeitliche Bezugsgrösse der vorliegenden Überprüfung bildet die
+Verfügung der Beschwerdegegnerin vom 4. August 2025 (IV-Akte 50). Die beiden
+späteren Arztberichte vonC____, Rheumatologin, vom 18. September 2025
+(Beschwerdebeilage zur Replik) sowie vonD____, Facharzt für Handchirurgie, vom
+24. Oktober 2025 (Beschwerdebeilage zur Replik), sind nur dann in die
+Beurteilung miteinzubeziehen, soweit sie Rückschlüsse auf die zum Verfügungszeitpunkt
+gegebene Situation erlauben (siehe obige Ziffer 3.2.).
+
+4.3. Vorliegend stützt sich die Beschwerdegegnerin zu Recht auf die Berichte
+des RAD (IV-Akten 26 und 43). Diese erweisen sich als schlüssig,
+nachvollziehbar begründet sowie in sich widerspruchsfrei und es sind keine
+Indizien gegen ihre Zuverlässigkeit zu erkennen.
+
+4.4. Die Beschwerdeführerin war ab dem 4. Juni 2024 bis zum 14. Juli 2024
+von ihrem HausarztE____, F____, wegen starken Schmerzen in den Handgelenken zu
+100% arbeitsunfähig geschrieben. Vom 15. Juli 2024 bis zum 11. August 2024
+war sie zu 50% und ab 12. August 2024 bis zum 10. November 2024 zu 100%
+arbeitsunfähig (siehe Arztzeugnisse und Berichte vonG____, Orthopäde, sowieH____,
+Rheumatologe; IV-Akte 16, Seiten 1 bis 33, sowie IV-Akte 7, Seite 4). Auch ab
+dem 11. November 2024 war sie jeweils zu 100% arbeitsunfähig geschrieben (siehe
+IV-Akte 16, Seiten 1 bis 33). Gemäss dem Bericht des behandelnden Orthopäden
+vom 18. Oktober 2024 bestand eine Überlastungsreaktion des rechten
+Sattelgelenks mehr links als rechts bei beginnender STT- und
+Sattelgelenksarthrose sowie eine Arthrose im Endgelenk des linken Daumens. Der
+behandelnde Rheumatologe stellte in seinem Bericht vom 17. Oktober 2024 die
+Diagnose einer aktivierten Rhizarthrose. Der RAD hielt dazu in seinem Bericht
+vom 21. Januar 2025 (IV-Akte 26) fest, dass die Beschwerdeführerin in
+ihrer angestammten Tätigkeit als Geigenbauerin vollständig arbeitsunfähig sei (IV-Akte
+26, Seite 3). Stellte zugleicht fest, dass die Beschwerdeführerin eine sehr
+leichte, manuell nicht belastende Tätigkeit trotz Rhizarthrose ganztags ausüben
+könne (IV-Akte 26, Seite 3). Als positives Leistungsprofil hielt der RAD sehr
+leichte, nicht manuell belastende Tätigkeiten fest. Als negatives
+Leistungsprofil wurden festgehalten: kein Heben/Ziehen/Stossen/Greifen über 5
+kg, keine monotone manuelle Arbeit, kein Pinzetten-/Schlüsselgriff, kein festes
+Greifen/Schrauben, keine repetitiven Umwend-/Beuge-/Streckbewegungen in den
+Handgelenken. Diese Einschätzung überzeugt. Die Fachärztin für Physikalische
+und Rehabilitative Medizin des RAD ging aufgrund der gut dokumentierten
+medizinischen Akten als Diagnose von einer aktivierten Rhizarthrose mit
+möglicher enthesitischer Aktivierung bei Dispositionen für Erkrankungen des
+spondylarthropathischen Formenkreises aus. Eine Tätigkeit in der angestammten
+Tätigkeit als Geigenbauerin sah die Fachärztin des RAD als nicht mehr möglich
+an. Sie bejahte hingegen eine volle Arbeitsfähigkeit in angepasster Tätigkeit.
+In ihrem Bericht setzte sich die Fachärztin des RAD sowohl mit dem positiven
+als auch dem negativen Leistungsprofil auseinander und definierte ein
+detailliertes Belastungsprofil in einer Verweistätigkeit (siehe obige Ziffer
+4.3.2.). Mit diesem Belastungsprofil trug die Fachärztin des RAD den
+funktionellen Einschränkungen der Beschwerdeführerin angemessen Rechnung. Die
+Einschränkungen sind als erhebliche manuelle Einschränkungen zu werten. Auf das
+vorgenannte Belastungsprofil, welche der Beschwerdeführerin bekannt war, nahm
+die Beschwerdegegnerin in der angefochtenen Verfügung Bezug.
+
+4.5. Ferner hielt der RAD zum Bericht der B____ vom 12. Mai 2025 (IV-Akte
+41, Seiten 2 bis 6) fest, dass die mittelgradige Depression beim Austritt aus
+der B____ am 15. Januar 2025 gemäss Austrittsbericht der B____ vom
+27. Januar 2025 (IV-Akte 35, Seite 4) vollständig remittiert gewesen sei.
+Die Beschwerdeführerin werde vordergründig aus psychischen Gründen weiterhin zu
+100% arbeitsunfähig geschrieben, obwohl die depressive Episode seit Januar 2025
+als remittiert rapportiert worden sei. In Kenntnis der dazumal beiden Berichte
+stellte der RAD fest, weder aufgrund der aktivierten Rhizarthrose noch aufgrund
+des Zustandes nach depressiver Episode könne eine Einschränkung der
+Arbeitsfähigkeit begründet werden. Diese Einschätzung scheint plausibel und
+überzeugend. Weshalb das Ambulatorium der B____ in ihren Berichten entgegen dem
+Austrittsbericht der B____ vom 27. Januar 2025 (IV-Akte 35, Seite 4) weiterhin
+die Diagnose einer mittelgradigen depressiven Episode stellte, lässt sich weder
+dem Bericht vom 12. Mai 2025 (IV-Akte 41, Seiten 2 bis 6) noch demjenigen vom
+17. Juni 2025 entnehmen (IV-Akte 53, Seiten 21 und 22). Anzeichen dafür, dass
+es nach dem Austritt aus der stationären Behandlung zu einer erneuten
+Verschlechterung des psychischen Zustandes gekommen ist, sind zumindest nicht
+aktenkundig. Vielmehr attestierte das Ambulatorium der B____ der
+Beschwerdeführerin für einen Arbeitsversuch sogar eine 10%ige Arbeitsfähigkeit
+(IV-Akte 41, Seite 4, sowie IV-Akte 53, Seite 22). Die Folgerung des RAD, dass
+von der gemäss Austrittsbericht remittierten bzw. leichtgradigen Depression
+keine andauernde Einschränkung der Arbeitsfähigkeit in einer leidensangepassten
+Tätigkeit ausgehe, ist daher nicht zu beanstanden. Nachträglich erhielt die
+Beschwerdegegnerin den Austrittsbericht der B____ vom 27. Januar 2025 (IV-Akte
+35, Seiten 2 bis 6), welchem entnommen werden kann, dass die Beschwerdeführerin
+aufgrund einer mittelgradigen depressiven Episode (ICD-10 F32.1) vom 20.
+November 2024 bis zum 15. Januar 2025 einen stationären Klinikaufenthalt
+absolviert hatte. Bei Austritt hatte die Beschwerdeführerin einen BDI-Wert
+(Beck Depression Inventar) von 5 erreicht, was gemäss Austrittsbericht auf eine
+vollständige Remission hinweist (IV-Akte 35, Seite 4). Die B____ teilte die
+Einschätzung einer Verbesserung, ging indessen dennoch von einer noch leichten
+Ausprägung der depressiven Störung aus. Nach ihrem Austritt nahm die
+Beschwerdeführerin in der B____ eine ambulante Behandlung auf. Im Bericht des
+Ambulatoriums B____ vom 12. Mai 2025 (IV-Akte 41, Seiten 2 bis 6) wurde der
+Beschwerdeführerin als Hauptdiagnose weiterhin eine mittelgradige depressive
+Episode attestiert. Eine Prognose zur weiteren Arbeitsfähigkeit konnten die
+behandelnden Therapeuten nicht abgeben. Der RAD attestierte in Kenntnis der
+beiden Berichte, versicherungsmedizinisch könne weder aufgrund der beginnenden
+Rhizarthrose noch wegen des Status nach depressiver Episode eine Einschränkung
+der Arbeitsfähigkeit in einer Verweistätigkeit begründet werden. In einer
+Verweistätigkeit sei der Beschwerdeführerin vielmehr seit Mitte Januar 2025 bis
+auf weiteres eine 100%ige Tätigkeit zumutbar.
+
+4.6. Daran ändern auch die nach der angefochtenen Verfügung eingereichten
+Arztberichte nichts. Dem nach Erlass der angefochtenen Verfügung vom 4. August
+2025 (IV-Akte 50) ausgestellten und von der Beschwerdeführerin eingereichten
+Bericht von C____, Rheumatologin, vom 18. September 2025 (Beschwerdebeilage zur
+Replik) sind als Dauerdiagnosen insbesondere eine Psoriasis-Arthritis, ED 2003,
+eine Osteoporose, ED 27. August 2025 sowie eine symptomatische Rhizarthrose, ED
+1. September 2025, zu entnehmen. D____, Facharzt für Handchirurgie, hält
+in seinem Bericht vom 24. Oktober 2025 (ebenfalls Beschwerdebeilage zur Replik)
+zusätzlich STT-Arthrosen beidseits, rechtsbetont, sowie beginnende
+Sattelgelenksarthrosen beidseits fest. Beide Berichte äussern sich nicht zu
+einer Arbeitsunfähigkeit in einer Verweistätigkeit, sondern fokussieren sich im
+Wesentlichen auf das therapeutische Vorgehen. Hierzu führt die
+Beschwerdegegnerin überzeugend aus, dass bei invalidenversicherungsrechtlichen
+Fragestellungen nicht die therapeutischen und diagnostischen Aspekte, sondern
+die funktionellen Einschränkungen durch einen beeinträchtigten
+Gesundheitszustand im Vordergrund stehen. Die nach Verfügungszeitpunkt
+erstellten ärztlichen Berichte der Rheumatologin und des Handchirurgen belegen
+keine erhebliche Verschlechterung des Gesundheitszustandes und stehen
+insbesondere nicht im Widerspruch zum von der Fachärztin des RAD formulierten
+Belastungsprofils, welches bereits deutliche Einschränkungen der Kraft, der
+Beweglichkeit und der Feinmotorik bei beiden Händen der Beschwerdeführerin
+festhielt. Eine andere diagnostische Einordnung eines Beschwerdebildes stellt
+zudem noch nicht einen neuen Befund oder eine erhebliche Verschlechterung des
+Gesundheitszustandes dar. Insofern ist die Verfügung der Beschwerdegegnerin vom
+4. August 2025 (IV-Akte 50) auch diesbezüglich nicht zu beanstanden. Es steht
+der Beschwerdeführerin selbstverständlich frei, eine nach Erlass der
+angefochtenen Verfügung eingetretene Verschlechterung des Gesundheitszustands
+zu gegebenem Zeitpunkt in einem Neuanmeldeverfahren vor der Beschwerdegegnerin
+geltend zu machen.
+
+4.7. Vorliegend ist somit zum Zeitpunkt des angefochtenen Entscheides von
+einer 100%igen Arbeitsfähigkeit in einer Verweistätigkeit und damit auch von
+einer Eingliederungsfähigkeit auszugehen.
+
+5.
+
+5.1. Die beruflichen Massnahmen gemäss Art. 15 bis 18d IVG sind Teil
+der Eingliederungsmassnahmen (vgl. Art. 8 Abs. 3 lit. b IVG).
+Gemäss dem Grundsatz von Art. 8 Abs. 1 IVG haben Invalide oder von
+einer Invalidität bedrohte versicherte Personen Anspruch auf
+Eingliederungsmassnahmen, soweit sie notwendig und geeignet sind, die
+Erwerbsfähigkeit oder die Fähigkeit, sich im Aufgabenbereich zu betätigen,
+wiederherzustellen, zu erhalten oder zu verbessern (lit. a); und die
+Voraussetzungen für den Anspruch auf die einzelnen Massnahmen erfüllt sind
+(lit. b). Zudem muss eine Eingliederungsmassnahme in einem angemessenen
+Verhältnis zum angestrebten Eingliederungsziel stehen (Verhältnismässigkeit im
+engeren Sinne) und der betroffenen Person zumutbar sein (BGE 132 V 215, 221
+E. 3.2.2; zum Ganzen vgl. auch Ulrich Meyer/Marco Reichmuth, Art. 8).
+Vorliegend käme eine Arbeitsvermittlung oder eine Umschulung grundsätzlich in
+Frage.
+
+5.2. Voraussetzung für die Übernahme der Umschulungskosten ist, dass der
+Invaliditätsgrad ein bestimmtes erhebliches Mass erreicht. Dies ist nach der
+Rechtsprechung grundsätzlich bei einer Erwerbseinbusse von etwa 20% im
+Vergleich zum vor Eintritt des Gesundheitsschadens erzielten Erwerbseinkommen
+der Fall (BGE 124 V 108, E. 2b). Kann die versicherte Person ihre angestammte
+Tätigkeit nicht mehr ausüben, ist zuerst zu prüfen, ob sie ohne (zusätzliche)
+Ausbildung eine andere zumutbare Tätigkeit ausüben kann. Das
+umschulungsspezifische Erfordernis des Minderverdienstes ist nicht gegeben,
+wenn es - bei ausgeglichener Arbeitsmarktlage - ein genügend breites Spektrum
+an Tätigkeiten gibt, die dem medizinischen Anforderungs- und Belastungsprofil
+der versicherten Person entsprechen, von der Ausbildung und beruflichen
+Erfahrung her zumutbar sind und im Durchschnitt nicht schlechter entlöhnt
+werden als die zuletzt ausgeübte (Urteil des Bundesgerichts 9C_511/2015 vom 15.
+Oktober 2015, E. 3). Die Erheblichkeitsschwelle von ca. 20% - welche durch
+einen Einkommensvergleich im Sinne von Art. 16 ATSG ermittelt wird - bezieht
+sich also sowohl auf die Erwerbsmöglichkeit im angestammten als auch in einem
+leidensangepassten Beruf. Hintergrund der Erheblichkeitsschwelle sind die
+relativ hohen Kosten einer Umschulung; so widerspricht es dem
+Verhältnismässigkeitsgrundsatz, wenn die Kosten einer Umschulung jene der
+auszugleichenden Erwerbseinbusse erheblich übersteigen.
+
+5.3. Im vorliegenden Fall ist aktenkundig, dass die Beschwerdeführerin in
+den Jahren 2018 bis 2024 als selbständige Geigenbauerin zwischen CHF 14'800.-- und
+maximal CHF 54'600.-- verdient hat (siehe Auszug aus dem individuellen Konto,
+IV-Akte 10). Im Jahr 2020 verdiente sie CHF 43'593.--, im Folgejahr 2021 sodann
+CHF 54'600.--, danach wieder bedeutend weniger (IV-Akte 10). Bei dieser
+Ausgangslage ist mit der Beschwerdegegnerin einig zu gehen, dass selbst ein über
+mehrere Jahre gemittelter Einkommensvergleich - das Invalideneinkommen ist von
+der Beschwerdegegnerin korrekterweise anhand des auf die betriebsübliche
+Arbeitszeit, das Jahr und das Nominallohnniveau des Jahres 2024 umgerechneten
+Tabellenlohnes der LSE 2022, Tabelle TA1, Total Frauen, Kompetenzniveau 1 bei
+CHF 57'061.-- ermittelt worden - vorliegend selbst bei Berücksichtigung eines
+Pauschalabzuges sowie eines allfälligen Leidensabzuges die
+Erheblichkeitsschwelle von 20% für eine Umschulung bei weitem nicht erreichen
+wird. Mit einer steigenden Einkommensentwicklung wäre vorliegend sodann nicht
+zu rechnen gewesen, weshalb es keinen Grund gibt, von der
+Erheblichkeitsschwelle von 20% abzuweichen. Hinzu kommt, dass die
+Beschwerdeführerin in einer zumutbaren Verweistätigkeit zu 100% arbeitsfähig
+ist und es durchaus ein genügend breites Spektrum an Tätigkeiten gibt, die dem
+medizinischen Anforderungs- und Belastungsprofil der Beschwerdeführerin
+entsprechen. An den Nachweis von möglichen Verweistätigkeiten sind zudem, wie
+die Beschwerdegegnerin treffend ausführt, keine hohen Anforderungen zu stellen.
+
+5.4. Der Vollständigkeit halber ist anzuführen, dass in einer
+Verweistätigkeit zu 100% arbeitsfähige Versicherte keinen Anspruch auf
+Arbeitsvermittlung gemäss Art. 18 IVG haben. Die sodann von der
+Beschwerdegegnerin angeführte und erforderliche zusätzliche spezifische
+Einschränkung für den Anspruch auf Arbeitsvermittlung (wie z.B. bei einer
+Schwerhörigkeit oder wenn einer potentiellen Arbeitgeberin die spezifischen
+Grenzen und Möglichkeiten der versicherten Person erläutert werden müssten) ist
+vorliegend mit den rein manuellen Einschränkungen der Beschwerdeführerin nicht
+gegeben. Vielmehr müsste die Behinderung als solche Probleme bei der
+Stellensuche verursachen. Auf eine Arbeitsvermittlung oder sonstige Massnahmen
+der Frühintervention gemäss Art. 7d Abs. 2. IVG besteht schliesslich gemäss
+Art. 7d Abs. 3 IVG kein Rechtsanspruch.
+
+6.
+
+6.1. Den obigen Ausführungen zufolge ist die Beschwerde somit abzuweisen.
+
+6.2. Das Beschwerdeverfahren bei Streitigkeiten über die Bewilligung oder
+Verweigerung von IV-Leistungen vor dem kantonalen Sozialversicherungsgericht
+ist kostenpflichtig (Art. 69 Abs 1 bis IVG). Dem Ausgang des
+Verfahrens entsprechend sind die ordentlichen Kosten, bestehend aus einer
+Gebühr von Fr. 800.--, der Beschwerdeführerin aufzuerlegen. Da ihr die
+unentgeltliche Rechtspflege bewilligt worden ist, gehen diese Kosten zu Lasten
+des Staates.
+
+Demgemäss erkennt das
+Sozialversicherungsgericht :
+
+://:        Die Beschwerde wird abgewiesen.
+
+Die Beschwerdeführerin trägt die ordentlichen
+Kosten des Verfahrens, bestehend aus einer Gebühr von Fr. 800.--. Diese gehen
+zufolge Bewilligung des Kostenerlasses zu Lasten des Staates.
+
+Sozialversicherungsgericht BASEL-STADT
+
+Die Präsidentin                                                         Die
+a.o. Gerichtsschreiberin
+
+Dr. A. Pfleiderer lic.
+iur. B. Pongracz Leimer
+
+Rechtsmittelbelehrung
+
+Gegen diesen Entscheid
+kann innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 100 Abs. 1 des Bundesgesetzes
+vom 17. Juni 2005 über das Bundesgericht [Bundesgerichtsgesetz, BGG]). Die Beschwerdefrist
+kann nicht erstreckt werden (Art. 47 Abs. 1 BGG). Die Beschwerdegründe sind in
+Art. 95 ff. BGG geregelt.
+
+Die Beschwerdeschrift ist
+dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, in dreifacher Ausfertigung
+zuzustellen. Die Beschwerdeschrift hat den Anforderungen gemäss Art. 42 BGG zu
+genügen; zu beachten ist dabei insbesondere:
+
+a)            Die Beschwerdeschrift
+ist in einer Amtssprache abzufassen und hat die Begehren, deren Begründung mit
+Angabe der Beweismittel und die Unterschrift zu enthalten;
+
+b)            in der Begründung ist in
+gedrängter Form darzulegen, inwiefern der angefochtene Entscheid Recht
+verletzt;
+
+c)             die Urkunden, auf die
+sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie
+in Händen hat, ebenso der angefochtene Entscheid.
+
+Geht an:
+
+ Beschwerdeführer in  Beschwerdegegnerin           Bundesamt für Sozialversicherungen
+
+Versandt am:
