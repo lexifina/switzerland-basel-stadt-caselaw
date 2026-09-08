@@ -1,0 +1,278 @@
+---
+decision_id: "bs_appellationsgericht_AG.2026.560"
+court: "BS Appellationsgericht"
+court_id: "bs_appellationsgericht"
+chamber: "AUS"
+docket: "AUS.2026.76"
+docket_2: "AG.2026.560"
+decided: "2026-09-08"
+published: "2026-09-22"
+language: "de"
+source_url: "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=80034&W10_KEY=4070580&nTrefferzeile=2&Template=search_result_document.html"
+cites_decisions: ["2C_457/2023", "2C_620/2021", "BGE 142 I 135"]
+cites_law: ["switzerland/bund/acts/142.20/art-076a.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-080a.md"]
+---
+
+# Vorbereitungshaft nach Art. 76a AIG (Haft im Rahmen des Dublin-Verfahrens)
+
+## Text
+
+Appellationsgericht
+
+des Kantons Basel-Stadt
+
+als Verwaltungsgericht
+
+Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+
+AUS.2026.76
+
+URTEIL
+
+vom 8.
+September 2026
+
+Beteiligte
+
+Migrationsamt des Kantons
+Basel-Stadt,
+
+Spiegelgasse 12, Postfach, 4001
+Basel
+
+gegen
+
+A____, geb. [...], von
+Algerien,
+
+zurzeit in Haft im Gefängnis
+Bässlergut,
+
+Freiburgerstrasse 48, 4057 Basel
+
+Gegenstand
+
+Verfügung des
+Migrationsamtes vom 7. September 2026
+
+betreffend Vorbereitungshaft nach
+Art. 76a AIG (Haft im Rahmen des Dublin-Verfahrens)
+
+Sachverhalt
+
+A____
+(Beurteilter) wurde am 6. September 2026 in Basel einer Polizeikontrolle
+unterzogen. Da er sich gegenüber der Kantonspolizei nicht ausweisen konnte,
+wurde er auf Anordnung der piketthabenden Mitarbeiterin des städtischen Migrationsamts
+vorläufig festgenommen. Am 7. September 2026 verfügte das Migrationsamt 
+nachdem es dem Beurteilten hierzu das rechtliche Gehör gewährt hatte  eine
+Vorbereitungshaft im Dublin-Verfahren nach Art. 76a des Ausländer- und
+Integrationsgesetzes (AIG, SR 142.20) von fünf Wochen. Der Beurteilte ersuchte
+gleichentags um eine gerichtliche Überprüfung der angeordneten Haft.
+
+Die Einzelheiten
+der Parteistandpunkte ergeben sich  soweit sie für das vorliegende Urteil von
+Bedeutung sind  aus den nachfolgenden Erwägungen. Das Urteil erging unter
+Beizug der Akten des Migrationsamts.
+
+Erwägungen
+
+1.
+
+Gemäss Art. 80a
+Abs. 3 AIG wird die Rechtmässigkeit und Angemessenheit der Haft in
+Dublin-Fällen auf Antrag der inhaftierten Person durch eine richterliche
+Behörde in einem schriftlichen Verfahren überprüft. Diese Überprüfung kann
+jederzeit beantragt werden. Die Frist, innert welcher die Überprüfung zu
+erfolgen hat, ist der Bestimmung nicht zu entnehmen. Das Bundesgericht hat
+indessen darauf hingewiesen, dass als Richtschnur die für die Überprüfung der
+ausländerrechtlichen Haft in Art. 80 Abs. 2 AIG festgelegten 96 Stunden (seit
+der ausländerrechtlich motivierten Festhaltung) zu gelten haben (vgl. dazu BGE
+142 I 135 E. 3.3; BGer 2C_457/2023 vom 15. September 2023 E. 4.3,
+2C_620/2021 vom 14. September 2021 E. 3.1; Jucker ,
+in: Caroni/Thurnherr [Hrsg.], Handkommentar zum Ausländer- und
+Integrationsgesetz [AIG], 2. Auflage, Bern 2024, Art. 80a N 8). Mit der
+heutigen Überprüfung der Haft wird diese Frist eingehalten.
+
+2.
+
+2.1 Die
+zuständige Behörde kann die betroffene ausländische Person gemäss Art. 76a
+Abs. 1 AIG zur Sicherstellung der Wegweisung in den für das Asylverfahren zuständigen
+Dublin-Staat in Haft nehmen, wenn im Einzelfall konkrete Anzeichen befürchten
+lassen, dass sich diese der Durchführung der Wegweisung entziehen will oder
+eine Gefahr für die öffentliche Sicherheit und Ordnung darstellt (lit. a;
+vgl. nachfolgend E. 2.2-2.4), die Haft verhältnismässig ist (lit. b; vgl.
+nachfolgend E. 4) und sich weniger einschneidende Massnahmen nicht wirksam
+anwenden lassen (lit. c; vgl. nachfolgend E. 3). Art. 76a Abs. 2 AIG normiert
+Gründe, welche als konkrete Indizien befürchten lassen, die betroffene Person
+werde sich der Wegweisung entziehen. Das Gesetz sieht ein Anzeichen dafür, dass
+sich die betroffene Person der Durchführung der Wegweisung entziehen will, dann,
+wenn deren Verhalten in der Schweiz oder im Ausland darauf schliessen lässt,
+dass sie sich behördlichen Anordnungen widersetzt (Art. 76a Abs. 2 lit. a Ziff.
+2 AIG; vgl. dazu E. 2.2), oder dann, wenn sie das Gebiet der Schweiz
+trotz Einreiseverbots (sowie fehlender Möglichkeit der sofortigen Wegweisung)
+betritt (Art. 76a Abs. 2 lit. a Ziff. 5 AIG; vgl. dazu E. 2.3). Es
+handelt sich um objektive gesetzliche Kriterien für die Annahme von
+Fluchtgefahr. Ob eine erhebliche Fluchtgefahr tatsächlich besteht, bedarf zusätzlich
+der Prüfung im Einzelfall ( Zünd ,
+in: Kommentar Migrationsrecht, Spescha et al. [Hrsg.], 6. Auflage 2026,
+Art. 76a AIG N 3). Die betroffene Person kann während der Vorbereitung des
+Entscheids über die Zuständigkeit für das Asylgesuch für maximal fünf Wochen in
+Haft genommen werden (Art. 76a Abs. 3 lit. a AIG).
+
+2.2 Anlässlich
+der Befragung des Migrationsamts vom 7. September 2026 gab der Beurteilte
+an, er sei über Italien nach Deutschland gereist und von dort weiter nach
+Belgien und kurzzeitig in die Niederlande, wo er jeweils als Friseur gearbeitet
+habe. Im August 2026 sei er dann zwecks Behandlung seines Hautausschlags nach
+Frankreich weitergezogen und  als er die Behandlung dort nicht erhalten habe 
+weiter in die Schweiz. Sämtliche Grenzübertritte sowie die geltend gemachte
+Arbeitstätigkeit tätigte der Beurteilte, ohne über die notwendigen
+Reisedokumente bzw. Arbeitsbewilligungen zu verfügen. Insbesondere hinsichtlich
+der Arbeitstätigkeit war ihm dies zudem durchaus klar, wie er anlässlich der
+Befragung vom 7. September 2026 insofern einräumte, dass er angab, er habe
+in Belgien «schwarz» gearbeitet und er wolle nicht, dass sein Freund, bei dem
+er gearbeitet habe, nun deswegen Probleme bekomme. Gemäss
+EURODAC-Trefferformular stellte der Beurteilte in der Vergangenheit drei
+Asylgesuche in Deutschland und eines in den Niederlanden. Den Ausgang des
+Asylverfahrens in den Niederlanden wartete der Beurteilte eigenen Angaben
+zufolge nicht einmal ab, sondern zog weiter. Gegenüber dem Migrationsamt räumte
+er vielmehr freimütig ein, dass er das Asylgesuch nur deshalb stellte, um keine
+Probleme mit der Polizei zu haben. Das Asylgesuch in Deutschland sei gemäss
+Angaben des Beurteilten abgewiesen worden. Im Schengener-Informationssystem ist
+nebst einer Wegeweisung der niederländischen Behörden denn auch zusätzlich eine
+Wegweisung der deutschen Behörden verzeichnet. Beiden Verfügungen ist der
+Beurteilte offenkundig nicht nachgekommen. Vielmehr meinte er anlässlich der
+Befragung des Migrationsamts vom 7. September 2026 gar, dass er im Fall einer
+Freilassung  wohl wissend um seine Wegweisung und seine fehlenden
+Reisedokumente  nach Deutschland weiterziehe, was die Untertauchensgefahr
+geradezu exemplarisch unterstreicht. Kommt hinzu, dass der Beurteilte von den
+französischen Behörden eine Einreiseverweigerung für den Schengen-Raum erhielt,
+welche er mit seinem Aufenthalt in Frankreich und seiner Einreise in die
+Schweiz offensichtlich ebenso missachtete. Insgesamt hat der Beurteilte damit
+bereits mehrfach eindrücklich demonstriert, dass er nicht gewillt ist, sich an Regeln
+zu halten und behördliche Anordnungen zu befolgen.
+
+2.3 Wie
+zuvor erwogen, hat der Beurteilte von den französischen Behörden eine
+schengenweite Einreiseverweigerung erhalten, betrat am 6. September 2026
+aber dennoch das Schweizer Gebiet. Art. 76a Abs. 2 lit. a Ziff. 5 AIG ist
+damit ebenfalls erfüllt.
+
+2.4 Nach
+dem Gesagten ist auszuschliessen, dass sich der offenbar hochmobile Beurteilte
+(er befand sich in der Vergangenheit eigenen Angaben zufolge in mehreren
+Ländern im Schengen-Raum, wobei zumindest seine Aufenthalte in Deutschland,
+Frankreich und den Niederlanden objektiviert sind) im Falle seiner Freilassung
+einem geordneten Verfahren (= in der Schweiz abwarten, bis klar ist, in welches
+Land er zurückkehren kann/muss) unterziehen würde, zumal er sich um behördliche
+Anordnungen oder Vorschriften in der Vergangenheit nicht gekümmert hat und
+deutlich zum Ausdruck gebracht hat, bei einer Haftentlassung selbständig nach
+Deutschland zu reisen, was nur schon aufgrund des Fehlens von Reisepapiere
+nicht möglich ist. Zudem muss er kontrolliert den für ihn zuständigen Behörden
+übergeben werden. Kommt dazu, dass der Beurteilte aufgrund seines bisherigen
+Verhaltens über erhebliche Erfahrung darin verfügt, sich im europäischen Raum
+rechtswidrig fortzubewegen und sich dem behördlichen Zugriff zu entziehen.
+
+3.
+
+Es stellt sich
+im Weiteren die Frage, ob ein milderes Mittel als Haft vorhanden ist, welches
+ein Untertauchen des Beurteilten wirksam verhindern könnte. Der Beurteilte verfügt
+über keinen Bezug zur Schweiz bzw. hier über keine sozialen Bindungen. In
+dieser Situation erscheint der Anreiz für den Beurteilten, die Freiheit nach
+dem vorstehend Erwogenen für eine erneute Weiterreise nach Deutschland oder in
+einen anderen Schengen-Staat zu missbrauchen sehr hoch. Eine regelmässige
+Meldepflicht könnte den offensichtlich hochmobilen und behördliche Anordnungen
+in der Vergangenheit regelmässig ignorierenden Beurteilten nicht davon
+abhalten. Darüber hinaus trägt er auch keinen Reisepass auf sich, der für die
+Dauer des Verfahrens beim Migrationsamt hinterlegt werden könnte, wobei ihn das
+Fehlen eines solchen ohnehin nicht davon abgehalten hat, zu reisen. Die Haft
+ist somit zur Sicherstellung des weiteren Verfahrens notwendig.
+
+4.
+
+Anhaltspunkte,
+welche die Haft des Beurteilten als unverhältnismässig erscheinen lassen
+würden, werden von diesem nicht vorgebracht und sind auch nicht ersichtlich.
+Der Beurteilte gab anlässlich der Befragung des Migrationsamts vom
+7. September 2026 zwar an, dass er für eine ärztliche Behandlung in die
+Schweiz gekommen sei. Allerdings handle es sich dabei «lediglich» um einen
+Hautauschlag, der weder einer Inhaftierung noch einer Wegweisung
+entgegenstünde. Die medizinische Versorgung ist im Gefängnis Bässlergut zudem
+sichergestellt und das Migrationsamt hat den Medizinischen Dienst bereits am
+7. September 2026 entsprechend informiert. Auch hat der Beurteilte weder
+gegen seine Rückführung nach Deutschland, Frankreich, Belgien oder in die
+Niederlande Bedenken angemeldet. Da bereits für die Zuständigkeitsbestimmung
+des zuständigen Dublin-Staates mit mehreren Wochen gerechnet werden und
+anschliessend das Staatssekretariat für Migration die Wegweisung verfügen muss,
+ist auch die Dauer der Haft als verhältnismässig zu qualifizieren. Schliesslich
+wurde in Nachachtung des Beschleunigungsgebots bereits am 7. September 2026 ein
+Dublin-Verfahren eingeleitet.
+
+5.
+
+Die
+Vorbereitungshaft im Rahmen des Dublin-Verfahrens erweist sich nach dem
+Gesagten für fünf Wochen als rechtmässig und angemessen. Für das vorliegende
+Verfahren werden keine Kosten erhoben (§ 4 des Gesetzes über den Vollzug der
+Zwangsmassnahmen im Ausländerrecht [SG 122.300]).
+
+Demgemäss
+erkennt der
+Einzelrichter :
+
+://:        Die über A____ angeordnete
+Vorbereitungshaft ist für fünf Wochen, das heisst vom 6. September 2026
+bis zum 11. Oktober 2026, rechtmässig und angemessen.
+
+Es werden keine Kosten erhoben.
+
+Der Entscheid ist A____ in einer für ihn
+verständlichen Sprache durch das Migrationsamt zu eröffnen.
+
+Mitteilung an:
+
+- Beurteilter
+
+- Migrationsamt Basel-Stadt
+
+- Staatssekretariat für Migration (SEM)
+
+VERWALTUNGSGERICHT BASEL-STADT
+
+Der Einzelrichter für Zwangsmassnahmen im
+Ausländerrecht
+
+MLaw Thomas Inoue
+
+Rechtsmittelbelehrung
+
+Gegen diesen
+Entscheid kann unter den Voraussetzungen von Art. 82 ff. des
+Bundesgerichtsgesetzes (BGG) innert 30 Tagen Beschwerde in
+öffentlich-rechtlichen Angelegenheiten erhoben werden. Die
+Beschwerdeschrift ist fristgerecht dem
+Bundesgericht, 1000 Lausanne 14, einzureichen. Diese ist mit einem
+Antrag und einer Begründung zu versehen. Die Beschwerde hat keine aufschiebende
+Wirkung.
+
+Der inhaftierte
+Ausländer kann jederzeit ein Haftentlassungsgesuch einreichen beim Verwaltungsgericht Basel-Stadt,
+Bäumleingasse 1, 4051 Basel.
+
+Bestätigung
+
+Das Urteil AUS.2026.76 wurde A____
+durch das Migrationsamt
+
+in
+____________________________________________________Sprache eröffnet
+
+Datum:
+
+Unterschrift A____:
+
+Unterschrift
+Migrationsamt:
